@@ -22,7 +22,7 @@ For live support with this guide please visit us in **#wiiu-assistance** on [Nin
 > * Play games for older systems with various emulators, using RetroArch or other standalone emulators
 > * Play out-of-region games
 >
-> CFW can be set up on any console on any version (but will require additional software).
+> CFW can be set up on any console on the latest version (but will require additional software).
 ### End Goal
 
 > This guide has the end goal of taking a completely unmodified Wii U from Stock to Custom Firmware.
@@ -43,7 +43,7 @@ For live support with this guide please visit us in **#wiiu-assistance** on [Nin
 
 If everything goes according to plan, you will lose no data and end up with everything that you started with (games, NNID, saves, etc will be preserved).
 
-Keep your device plugged in and charged throughout the entire process to avoid data loss or damage from an unexpected power-off.
+Keep your device plugged in throughout the entire process to avoid data loss or damage from an unexpected power-off.
 
 Custom Firmware is not permanent with current methods, and will be unloaded upon rebooting the system.
 

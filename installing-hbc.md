@@ -18,7 +18,7 @@ This page will install the Homebrew Channel as an application directly to your H
 > 6. Select NAND as the installation destination. This will install the Homebrew Channel to the Wii U Menu.
 > 7. Once the process is finished, press the Home button until you're back at the Wii U Menu.
 > 8. You will now see the Homebrew Channel installed on your Wii U Menu. Keep in mind you will need to launch cfw every reboot to run this channel.
-> 9. You can now re-attach any USB devices you had attached before starting the guide.
+
 ### **CBHC**
 
 > 1. Power on your console
@@ -29,5 +29,5 @@ This page will install the Homebrew Channel as an application directly to your H
 > 6. Select NAND as the installation destination. This will install the Homebrew Channel to the Wii U Menu.
 > 7. Once the process is finished, press the Home button until you're back at the Wii U Menu.
 > 8. You will now see the Homebrew Channel installed on your Wii U Menu.
-> 9. You can now re-attach any USB devices you had attached before starting the guide.
+
 <!-- tabs:end -->

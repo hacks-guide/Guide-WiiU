@@ -2,6 +2,8 @@
 
 ### Different CFWs
 
+?> Before starting, make sure to update your Wii U console to the latest firmware (5.5.4 for European consoles, 5.5.3 for all other regions) if you haven't already.
+
 The first thing to decide is what CFW you want to use.
 
 There are two main CFWs:

@@ -4,7 +4,7 @@ In case anything should go wrong in the later process and your Wii U ends up bri
 
 ### Instructions
 
-?> The Wii U NAND is (depending on your model) either 8 or 32gb. As a result of this, to create a full backup of your console's NAND, your SD Card has to be larger than the size of your NAND. If you do not have a large enough SD Card, you can skip the optional `MLC` section which includes save files and game data.
+?> The Wii U NAND is (depending on your model) either 8 or 32gb. As a result of this, to create a full backup of your console's NAND, your SD Card has to be larger than the size of your NAND. If you do not have a large enough SD Card, you can skip the optional `MLC` section which includes save files and game data and is not needed to recover most types of bricks.
 
 > 1. Navigate through the Homebrew Launcher and launch the `Wii U NAND Dumper` app.
 > 2. Use the Wii U Gamepad's DPAD to enter the following configuration:
