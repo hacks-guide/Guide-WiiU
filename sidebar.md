@@ -1,0 +1,17 @@
+- **User Guide**
+- [Introduction](introduction)
+- [Getting Started](getting-started)
+- [SD Preparation](sd-preparation)
+- [Browser Exploit](browser-exploit)
+- [Making a NAND Backup](nand-backup)
+- [Launching CFW](launching-cfw)
+- [Installing the Homebrew Channel](installing-hbc)
+- [FAQ](faq)
+- **Extras**
+- [Themes](themes)
+- [Changelog](changelog)
+- [MD Syntax](md-syntax)
+- [About](about)
+- **Links**
+- [![Github](https://icongram.jgog.in/simple/github.svg?color=808080&size=16)Github](https://github.com/nh-server/switch-guide)
+- [![Discord](https://icongram.jgog.in/simple/discord.svg?colored&size=16)Discord](https://discord.gg/C29hYvh)
