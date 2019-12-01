@@ -5,8 +5,10 @@
 - [Browser Exploit](browser-exploit)
 - [Making a NAND Backup](nand-backup)
 - [Launching CFW](launching-cfw)
-- [Installing the Homebrew Launcher Channel (optional)](installing-hbc)
+- [Installing the Homebrew Launcher Channel](installing-hbc)
 - [FAQ](faq)
+- **vWii**
+- [vWii Modding](vwii-modding)
 - **Extras**
 - [Blocking Updates](block-updates)
 - [Dumping Wii U Discs](dump-games)
