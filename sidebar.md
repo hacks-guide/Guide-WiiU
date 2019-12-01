@@ -9,6 +9,7 @@
 - [FAQ](faq)
 - **Extras**
 - [Blocking Updates](block-updates)
+- [Dumping Wii U Discs](dump-games)
 - [Changelog](changelog)
 - [MD Syntax](md-syntax)
 - [About](about)
