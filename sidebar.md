@@ -8,7 +8,7 @@
 - [Installing the Homebrew Channel (optional)](installing-hbc)
 - [FAQ](faq)
 - **Extras**
-- [Themes](themes)
+- [Blocking Updates](block-updates)
 - [Changelog](changelog)
 - [MD Syntax](md-syntax)
 - [About](about)
