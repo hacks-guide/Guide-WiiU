@@ -21,6 +21,7 @@ For live support with this guide please visit us in **#wiiu-assistance** on [Nin
 > * Backup, edit, and restore saves for many games
 > * Play games for older systems with various emulators, using RetroArch or other standalone emulators
 > * Play out-of-region games
+> * Dump your Wii U game discs to a format that can be installed on your internal or external Wii U storage drive.
 >
 > CFW can be set up on any console on the latest version.
 ### End Goal
