@@ -6,7 +6,7 @@
 
 The first thing to decide is what CFW you want to use.
 
-There are two main CFWs: Haxchi/ColdBootHaxchi (CBHC), and Mocha.<br>
+There are two main CFWs: Haxchi/ColdBootHaxchi (CBHC) and Mocha.<br>
 The table below lists advantages and disadvantages of each option.
 
 <!-- tabs:start -->
