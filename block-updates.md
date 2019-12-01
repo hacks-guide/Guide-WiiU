@@ -9,6 +9,7 @@ Currently two ways exist to block updates on the Wii U system:
 
 #### **Deleting the update folder**
 ?> While this method of update blocking is a bit more advanced than DNS Blocking and currently requires at least basic knowledge on FTP Programs, it has the advantage that the eShop's functionality will not be restricted.
+
 ?> In order for this method to work, your Wii U needs to be in the same network as your Computer.
 > 1. Plug your SD Card into your Computer.
 > 2. Download and extract [ftpiiu_everywhere](http://wiiubru.com/appstore/zips/fpiiu-cbhc.zip) to the root of your SD Card.
