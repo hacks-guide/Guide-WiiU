@@ -5,7 +5,7 @@
 - [Browser Exploit](browser-exploit)
 - [Making a NAND Backup](nand-backup)
 - [Launching CFW](launching-cfw)
-- [Installing the Homebrew Launcher Channel (optional)](installing-hbc)
+- [Install Homebrew Channel](installing-hbc)
 - [FAQ](faq)
 - **vWii**
 - [vWii Modding](vwii-modding)
