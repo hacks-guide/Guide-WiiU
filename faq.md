@@ -1,10 +1,8 @@
 # FAQ
 
-### Hackable Switches
+### Does Homebrew have any risks?
 
-> Currently two hardware revisions of the Switch exist. Any Switch bought before July 2018 has a bootrom bug that allows us to launch CFW regardless of the firmware version on the switch. This bug cannot be fixed by Nintendo once the console leaves the factory, not even if the console is sent in for repairs. This means that all current and future firmwares will be able to launch CFW through this exploit on the old hardware revision.
->
-> The first claims of a new hardware revision of the Switch that fixes the exploit needed to launch cfw have been made in July 2018. Currently the only way to know if your Switch is hackable is by trying to send the payload in RCM. Even with this exploit fixed, any Switch on firmware 4.1 and below will be able to launch CFW through other means in the far future. The serial number on the back of the box can possibly tell you which consoles are patched and which aren't. See [GBA Thread](https://gbatemp.net/threads/switch-informations-by-serial-number.481215/) for an up to date list.
+> Currently homebrewing the Wii U does not expose you to a risk of being banned by Nintendo unless you cheat in online games. You should, however, always be careful with launching downloaded homebrew, especially if you don't trust the source, as Homebrew can potentially damage your system!
 
 ### What is Haxchi, and do I need it?
 
@@ -16,15 +14,13 @@
 Dr. Kawashima's Brain Training [PAL]\
 Brain Age: Train Your Brain in Minutes a Day! [USA]\
 Kawashima: Motto Nou wo Kitaeru Otona no DS Training [JPN]
->
-> Currently all bans have been for very obvious and intrusive actions, specifically:
 
 ### Can I install games from my USB instead of SD?
 
-> First off your Hard Disk/Flashdrive has to be formatted to Fat32. 
-Then you want to just put the Homebrew Launcher, Wup Installer and an /install folder on the hard disk with the game you want to install. 
+> First off your Hard Disk/Flashdrive has to be formatted to Fat32.
+Then you want to just put the Homebrew Launcher, Wup Installer and an /install folder on the hard disk with the game you want to install.
 You also need this version of Mocha on the sdcard https://www.wiiubru.com/appstore/#/app/mocha_fat32
-Now you start the Wii U up with no USB devices plugged in at all. Once at the menu you plug in the Fat32 disk and it will ask to format it, you say no. 
+Now you start the Wii U up with no USB devices plugged in at all. Once at the menu you plug in the Fat32 disk and it will ask to format it, you say no.
 You then boot into Homebrew and run the Mocha Fat32 support version and set the following settings:
 >
 > Config view mode: default\
@@ -34,32 +30,19 @@ Don’t relaunch OS: off\
 Launch System Menu: on\
 RedNAND: off
 >
->It should now put you back to System Menu but now the USB should replace the SD. 
-You then go back into Homebrew and the only app that should be in there is Wup Installer because that's all you put on the Hard Disk earlier. 
+>It should now put you back to System Menu but now the USB should replace the SD.
+You then go back into Homebrew and the only app that should be in there is Wup Installer because that's all you put on the Hard Disk earlier.
 Launch that and select to install the game to NAND.
 
 ### How to Delete Update Folder to Block Updates on Wii U
 
-> Download filezilla client here https://filezilla-project.org/download.php and also the correct ftp server for wiiu. For Haxchi/CBHC and Mocha get this one http://wiiubru.com/appstore/#/app/fpiiu-cbhc 
+> Download filezilla client here https://filezilla-project.org/download.php and also the correct ftp server for wiiu. For Haxchi/CBHC and Mocha get this one http://wiiubru.com/appstore/#/app/fpiiu-cbhc
 >
 >Run FTPiiu_Everywhere on your wiiu and take note of the IP. On the PC run filezilla and set up a new connection using this screenshot https://cdn.discordapp.com/attachments/399670410565910529/533075194546356224/1.png but use the IP shown on the wiiu screen.
 >
 >Once connected look in the right hand panel and double click "storage_mlc" to enter it. Then double click "sys" to enter it. You should now see a folder called "update". Right click it and delete it.
 
-### Better Config for Mocha Users on 5.5.2
-
-> Config view mode: default
-Skip this menu on launch: on
-Show launch image: off
-Don’t relaunch OS: on
-Launch System Menu: off
-RedNAND: off
->
-> This will launch CFW and put you straight back into the Homebrew Channel so you don't have to launch the web exploit again to get back in. You can leave the Homebrew Channel manually with Home afterwards.
->
-> To re-enter Homebrew just launch the MiiMaker channel.
-
-### Direct CFW
+### What SD Card size is recommended?
 
 > Installing game backups - 32 GB  (Smaller size may be used, but certain titles are 20 GB in size)\
 Running game mods - 8 GB  (FAT32 USB drive may be used as well for mods)\
@@ -83,10 +66,6 @@ Note: Avoid class 4 SD cards, and avoid Ebay
 >FSOpenFile Failed [...] payload.elf: Missing payload file on SD. Make sure you have payload.elf in the wiiu folder.
 >
 >FSOpenFile Failed: Missing homebrew_launcher on SD. Make sure you have homebrew_launcher.elf in the wiiu/apps/homebrew_launcher folder.
-
-!> **Homebrew risks**
-    *Be careful with launching downloaded homebrew! If you don't know the source, it's best not to launch it.*<br><br>
-    *Homebrew can potentially damage your system! Atmosphere provides protections against common bricking methods, but these are not guaranteed to always work!*
 
 ### Data Management asks to delete unnecessary data, what does it mean?
 
