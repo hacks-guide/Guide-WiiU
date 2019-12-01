@@ -9,7 +9,7 @@ For live support with this guide please visit us in **#wiiu-assistance** on [Nin
 
 > Homebrew applications are custom, user-made software, which haven’t been authorised by Nintendo. This can include save editing tools, games, emulators, and more.
 >
-> Homebrew can be run on your Wii U as long as you have a way to put files on an SD Card regardless of version or region.
+> Homebrew can be run on your Wii U as long as you have a way to put files on an SD Card and your Wii U is updated to the latest version for your region.
 
 ### Custom Firmware
 
@@ -22,7 +22,7 @@ For live support with this guide please visit us in **#wiiu-assistance** on [Nin
 > * Play games for older systems with various emulators, using RetroArch or other standalone emulators
 > * Play out-of-region games
 >
-> CFW can be set up on any console on the latest version (but will require additional software).
+> CFW can be set up on any console on the latest version.
 ### End Goal
 
 > This guide has the end goal of taking a completely unmodified Wii U from Stock to Custom Firmware.
@@ -33,7 +33,7 @@ For live support with this guide please visit us in **#wiiu-assistance** on [Nin
 >
 > This guide will work on all Wii U consoles in all regions on firmware 5.5.4 or below.
 >
-> You will need one of the following in order to successfully follow this guide:
+> You will need the following in order to successfully follow this guide:
 >
 > - An SD Card
 > - A device such as a Computer to place files onto the SD Card

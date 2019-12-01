@@ -2,8 +2,6 @@
 
 We will now place the required CFW files and some additional homebrew files on the SD card.
 
-!> If you are installing Haxchi or CBHC, make sure to unplug any USB devices attached to the console before further following the guide!
-
 ?> **Notice**
     Your SD card will need to be formatted as FAT32. If your SD Card is not formatted to FAT32, use [GUIFormat](http://www.ridgecrop.demon.co.uk/index.htm?guiformat.htm) with 32k (32768) Allocation unit size to format it.
 
