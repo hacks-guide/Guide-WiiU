@@ -17,30 +17,11 @@ Kawashima: Motto Nou wo Kitaeru Otona no DS Training [JPN]
 
 ### Can I install games from my USB instead of SD?
 
-> First off your Hard Disk/Flashdrive has to be formatted to Fat32.
-Then you want to just put the Homebrew Launcher, Wup Installer and an /install folder on the hard disk with the game you want to install.
-You also need this version of Mocha on the sdcard https://www.wiiubru.com/appstore/#/app/mocha_fat32
-Now you start the Wii U up with no USB devices plugged in at all. Once at the menu you plug in the Fat32 disk and it will ask to format it, you say no.
-You then boot into Homebrew and run the Mocha Fat32 support version and set the following settings:
->
-> Config view mode: default\
-Skip this menu on launch: on\
-Show launch image: on\
-Don’t relaunch OS: off\
-Launch System Menu: on\
-RedNAND: off
->
->It should now put you back to System Menu but now the USB should replace the SD.
-You then go back into Homebrew and the only app that should be in there is Wup Installer because that's all you put on the Hard Disk earlier.
-Launch that and select to install the game to NAND.
+> Yes. It is, however, a bit more complicated than installing from SD Card. Detailed instructions are in the `Install from USB` tab in the [Dumping guide](/dump-games).
 
 ### How to Delete Update Folder to Block Updates on Wii U
 
-> Download filezilla client here https://filezilla-project.org/download.php and also the correct ftp server for wiiu. For Haxchi/CBHC and Mocha get this one http://wiiubru.com/appstore/#/app/fpiiu-cbhc
->
->Run FTPiiu_Everywhere on your wiiu and take note of the IP. On the PC run filezilla and set up a new connection using this screenshot https://cdn.discordapp.com/attachments/399670410565910529/533075194546356224/1.png but use the IP shown on the wiiu screen.
->
->Once connected look in the right hand panel and double click "storage_mlc" to enter it. Then double click "sys" to enter it. You should now see a folder called "update". Right click it and delete it.
+> If you want to delete the update folder to block updates, see it's tab in the [Blocking Updates guide](/block-updates)
 
 ### What SD Card size is recommended?
 
