@@ -9,6 +9,7 @@
 - [FAQ](faq)
 - **vWii**
 - [vWii Modding](vwii-modding)
+- [Recovering Mii Channel](recover-mii-channel)
 - **Extras**
 - [Blocking Updates](block-updates)
 - [Dumping Wii U Discs](dump-games)
