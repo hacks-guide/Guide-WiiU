@@ -123,8 +123,6 @@ Dumping your Discs allows you to install a copy of your game to the system NAND/
 
 !> In order to move your game to an USB device, it has to be formatted by the Wii U. Doing this will erase all contents of it, and prevent it from being used on another system unless you re-format it.
 
-### Instructions
-
 > 1. Reboot your Wii U to remove the effect of MochaFAT32.
 > 2. Plug your USB device into the Wii U.
 > 3. Power on your Wii U.
