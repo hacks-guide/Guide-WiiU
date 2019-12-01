@@ -5,7 +5,7 @@
 - [Browser Exploit](browser-exploit)
 - [Making a NAND Backup](nand-backup)
 - [Launching CFW](launching-cfw)
-- [Installing the Homebrew Channel (optional)](installing-hbc)
+- [Installing the Homebrew Launcher Channel (optional)](installing-hbc)
 - [FAQ](faq)
 - **Extras**
 - [Blocking Updates](block-updates)
