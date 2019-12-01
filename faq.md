@@ -6,102 +6,105 @@
 >
 > The first claims of a new hardware revision of the Switch that fixes the exploit needed to launch cfw have been made in July 2018. Currently the only way to know if your Switch is hackable is by trying to send the payload in RCM. Even with this exploit fixed, any Switch on firmware 4.1 and below will be able to launch CFW through other means in the far future. The serial number on the back of the box can possibly tell you which consoles are patched and which aren't. See [GBA Thread](https://gbatemp.net/threads/switch-informations-by-serial-number.481215/) for an up to date list.
 
-### How safe?
+### What is Haxchi, and do I need it?
 
-> The Switch comes with a lot of telemetry, and has been called a "telemetry monster" by several prominent developers. As long as the Switch is connected to the internet, Nintendo gets a report about a lot of different actions and states and has the option to log or act on them. Even if the Switch is offline and connects to the internet at a later point, Nintendo still recieves information about what happened while the Switch was disconnected.
+> Haxchi is a secondary entrypoint which uses certain DS Virtual Console titles to allow for access to homebrew while being completely offline (still works with online but no connection required to launch CFW)
 >
-> To disable some of this telemetry, it is advised to disable the sending of error reports in the System Settings of the Switch. Additionally if you live in the EU you can set the "do not share" option on [Nintendos Accounts Settings Page](https://accounts.nintendo.com/setting) to prevent your Switch from sending a lot of telemetry.
+> Haxchi is not required, however if you want to use homebrew on your Wii U while offline you will need it. It’s highly recommended as it’s more stable than the browser entry point, especially on the newest firmware.
 >
-> Nintendo still recieves a lot of information, even with those options disabled. We also cannot know if Nintendo decides to look for something in the logs and ban people in retrospect. They have also shown to expand their telemetry options with every other firmware update.
+> The cheapest DS VC games usable for  this exploit:
+Dr. Kawashima's Brain Training [PAL]\
+Brain Age: Train Your Brain in Minutes a Day! [USA]\
+Kawashima: Motto Nou wo Kitaeru Otona no DS Training [JPN]
 >
 > Currently all bans have been for very obvious and intrusive actions, specifically:
+
+### Can I install games from my USB instead of SD?
+
+> First off your Hard Disk/Flashdrive has to be formatted to Fat32. 
+Then you want to just put the Homebrew Launcher, Wup Installer and an /install folder on the hard disk with the game you want to install. 
+You also need this version of Mocha on the sdcard https://www.wiiubru.com/appstore/#/app/mocha_fat32
+Now you start the Wii U up with no USB devices plugged in at all. Once at the menu you plug in the Fat32 disk and it will ask to format it, you say no. 
+You then boot into Homebrew and run the Mocha Fat32 support version and set the following settings:
 >
-> - Developers using their unique Switch data to poke and reverse-engineer Nintendos Server responses
-> - People pirating games and using them online
-> - People changing their profile pictures to custom pictures
-> - People using savegame editors to unlock content that is not available yet and using it online (Splatoon 2)
-> - People cheating online in general (Modifying Cart stats in MK8)
-> - People installing homebrew NSP files, which Nintendo can pick up on with their telemetry
-> - People using unsafe custom firmware (such as ReiNX) that dangerously changes the system version string, creating a massive red flag for Nintendo (Atmosphere safely changes the version string and does not have this problem).
+> Config view mode: default\
+Skip this menu on launch: on\
+Show launch image: on\
+Don’t relaunch OS: off\
+Launch System Menu: on\
+RedNAND: off
 >
-> Atmosphere stops some, but ***not all*** of Nintendo's telemetry, and prevents crash reports from being sent. This means Nintendo can't tell if anything, including homebrew or modded games crashed, and Atmosphere dumps the crash log to the SD card to help homebrew developers. However, Nintendo still receives information about what is being played, and general system report information.
+>It should now put you back to System Menu but now the USB should replace the SD. 
+You then go back into Homebrew and the only app that should be in there is Wup Installer because that's all you put on the Hard Disk earlier. 
+Launch that and select to install the game to NAND.
+
+### How to Delete Update Folder to Block Updates on Wii U
+
+> Download filezilla client here https://filezilla-project.org/download.php and also the correct ftp server for wiiu. For Haxchi/CBHC and Mocha get this one http://wiiubru.com/appstore/#/app/fpiiu-cbhc 
 >
-> Atmosphere is not a silver bullet, and this does not mean that Nintendo won't decide to ban people for harmless homebrew in the future. If you are scared to get banned then don't use homebrew for now. In a future Atmosphere update, we will be able to create a dual-boot (EmuNAND) solution, that allows us to have a clean, online firmware and a seperate offline firmware for homebrew related software. Unbanning on the Switch will be a lot harder than previous Nintendo systems, if not impossible.
-
-!> **SX OS**
-   *Team Xecuter's "EmuNAND" is not a proper (or safe) EmuNAND, and Nintendo can pick up on it with their telemetry.*
-
-### Exploit usage
-
-> To launch CFW through the exploit, the Switch needs to be in "Recovery Mode"(RCM). The easiest way to enter RCM is by grounding pin 10 in the right joycon rail and holding VOL+ on boot. Several methods and designs to do this exist, see [this page of the guide](../user_guide/entering_rcm) for more information. Once the Switch is in RCM it needs to be connected to either a computer, phone or dongle to send the exploit and the payload.
+>Run FTPiiu_Everywhere on your wiiu and take note of the IP. On the PC run filezilla and set up a new connection using this screenshot https://cdn.discordapp.com/attachments/399670410565910529/533075194546356224/1.png but use the IP shown on the wiiu screen.
 >
-> This procedure needs to happen every time the Switch boots from a completely "off" state, otherwise the Switch will boot into the stock firmware.
+>Once connected look in the right hand panel and double click "storage_mlc" to enter it. Then double click "sys" to enter it. You should now see a folder called "update". Right click it and delete it.
 
-### Recommended Jigs
+### Better Config for Mocha Users on 5.5.2
 
-> Most people prefer to use 3d-printed jigs to enter RCM. These jigs are made in a way that they slide into the right joycon rail and have a piece of connected wire that then bridges pin 10 and one of the grounded pins on the Switch. A lot of different designs for these jigs exist, but it is important to understand, that these jigs can damage the Switch if they are made in a bad way.
+> Config view mode: default
+Skip this menu on launch: on
+Show launch image: off
+Don’t relaunch OS: on
+Launch System Menu: off
+RedNAND: off
 >
-> Since the wire in the jig is supposed to touch the pads inside the Switch's joycon rail, it is important to use wire that is thin, not rigid and bent/not pointy. Paperclips make for potentially dangerous jigs, as they are made out of a hard material, are rigid and pointy and can easily scratch off the pads inside the Switch. A good jig uses 32Gauge(0.2mm diameter) wire and is bent in a way that the end of the wire does not scratch the pads. [Switch Jigs](https://switchjigs.com/) sells jigs we consider "good". You can also download and 3d-print your own jig and use the pictures on the website to guide you on how to bend the wire correctly.
-
-### Auto RCM
-
-> To enter RCM more comfortably a solution called "AutoRCM" exists. Once set up, this method will always boot the Switch into RCM, even without a jig or holding any buttons. This works by "bricking" the Switch in a controlled manner. The Switch detects that something is wrong and boots into RCM to get repaired. The big downside of this method is, that it is impossible to boot the Switch without a computer, phone or dongle, as it will never boot into stock firmware by itself, and that it requires an SD card with the proper CFW files on it at all times. In addition, if the battery of the Switch is completely drained, the Switch will need to charge to at least 10% in Hekate before launching Atmosphere, otherwise the Switch will refuse to boot due to the low battery. Charging in RCM is not recommended as this is very slow. "AutoRCM" can be uninstalled, but it is advised to keep a working NAND and BOOT0/1 backup before using it.
+> This will launch CFW and put you straight back into the Homebrew Channel so you don't have to launch the web exploit again to get back in. You can leave the Homebrew Channel manually with Home afterwards.
 >
-> Many Android-phones are able to send the exploit to the Switch, making them a perfect portable way to launch CFW. Different designs for portable dongles exist, ranging from Raspberry Pi Zero and Arduino projects to internal dongles, that work completely autonomous. The latter should only be done by advanced users, as it requires soldering onto the Switch mainboard itself.
+> To re-enter Homebrew just launch the MiiMaker channel.
 
 ### Direct CFW
 
-> In the future there will possibly be methods to launch CFW without needing a computer, phone or dongle to send the exploit and payload from. However, the higher the firmware of the Switch the less likely these exploits become. Currently there is little hope for such an exploit on firmware 5.0+. Even on lower firmwares, this exploit will most likely not directly boot you into CFW from a "off" state, but require you to launch an exploit on the original firmware to then reboot into CFW.
+> Installing game backups - 32 GB  (Smaller size may be used, but certain titles are 20 GB in size)\
+Running game mods - 8 GB  (FAT32 USB drive may be used as well for mods)\
+Only running homebrew apps - Any size
 >
-> The chances of a persistent, untethered coldboot solution (like on the 3DS and Wii-U) technically exist on firmwares below 3.0.2.
+>Brands - Sandisk, Samsung or PNY\
+Note: Avoid class 4 SD cards, and avoid Ebay
 
-### Should I update FW?
+### Haxchi common errors
 
-> If your Switch is one of the new hardware revisions that patched the exploit in RCM and you are on firmware 4.1.0 or lower, you should not update if you want to have CFW in the forseeable future.
+> -3: No SD card detected. Re-insert the SD card and try again. Make sure the SD card is in FAT32 format. If the error persists, try blowing into the SD slot as it can get dusty inside.
 >
-> If your Switch is one of the older hardware revisions and you don't mind having to use jigs/hardmods/AutoRCM and sending the exploit via computer, phone or dongle everytime you want to launch into CFW then it is completely safe to update. If you want the chance to maybe, one day, not have to use a external device, then it is recommended to stay on a FW as low as possible. Beware that this means that you potentially need to wait for a very long time (months to years) for this to happen, if ever. Private exploits to launch CFW are known to exist for firmwares up to 4.1.
+>-4: SD detected but could not mount. Check to see if the SD is using MBR and not GPT. Also check to see if there are any other partitions on the SD card and merge them into one primary partition.
 >
-> Downgrading on the Switch is possible, but it requires using AutoRCM and a custom bootloader payload to bypass the Switch's several hardware anti-downgrade mechanisms. This will not work on an unpatched system, and is practically useless for most users.
->
-> On every boot the Switch firmware checks how many e-fuses have been burned and how many e-fuses the Switch expects to be burned. Major updates to the Switch, or updates in which a large vulnerability has been patched, irreversibly burn one of the Switch's 32 "e-fuses". If the Switch ever detects that more e-fuses have been burned than expected (meaning a downgrade happened), it will refuse to boot. Replacing e-fuses is not an option.
->
-> A method to update without burning e-fuses exists, but, like downgrading, it forces you to use AutoRCM and sending the exploit via USB every time, as booting into the stock firmware even once would instantly burn the e-fuse. Note that other anti-downgrade mechanisms exist, making it for example impossible to boot game carts on a firmware below 4.1 if the Switch has ever launched a game on firmware 4.1+. This can only be worked around by completely disabling the game cart slot while on 4.1 or greater, which is similarly impractical for most users.
+>-5: Missing files on the SD. Check to see if your SD has Homebrew Launcher located in wiiu/apps/homebrew_launcher/homebrew_launcher.elf
 
-### Homebrew formats
+### Browser errors
 
-> Homebrew can come in two different formats, namely in `nro` files and in `kip` files.
+> Fsgetmount Source Failed: Same as -3 above, means no SD card detected. Re-insert the SD and try again.
 >
-> `nro` files are placed in the `switch` folder on your SD card and can be launched using the Homebrew menu.
+>FSOpenFile Failed [...] payload.elf: Missing payload file on SD. Make sure you have payload.elf in the wiiu folder.
 >
-> `kip` files are placed in the `atmosphere/kips` folder on your SD card and provide additional services.
+>FSOpenFile Failed: Missing homebrew_launcher on SD. Make sure you have homebrew_launcher.elf in the wiiu/apps/homebrew_launcher folder.
 
 !> **Homebrew risks**
     *Be careful with launching downloaded homebrew! If you don't know the source, it's best not to launch it.*<br><br>
     *Homebrew can potentially damage your system! Atmosphere provides protections against common bricking methods, but these are not guaranteed to always work!*
 
-### No homebrew showing
+### Data Management asks to delete unnecessary data, what does it mean?
 
-> This is an issue primarily affecting macOS users, but may occur on other devices as well. If you are able to launch the homebrew menu, but you are not seeing some or any of your homebrew, you will need to unset the archive bit with Hekate.
+> This refers to leftover files from incomplete installs. Always choose Yes to delete this data, as it takes up space for no good reason.
+If it ever stays stuck on deleting the data in an infinite loop, you can manually delete the data yourself. Use Ftpiiu Everywhere and browse to Storage_MLC/usr/import/ then delete any files in the folder if any exists. This is where the partial installs exist after incomplete installs. It'll be Storage_USB if installed to a USB. The import folder should always be kept empty.
+
+### Can I install homebrew on WiiU with a USB instead of SD card?
+
+> No, you must have an SD card for a first time setup, a usb can then be used to install game backups, vc injects, etc, but not to store Homebrew Apps which are required to set everything up
+
+### My HDD doesn't work or makes a weird clicking-sound, what should I do?
+
+> The reason behind that is that the Wii U doesn't give enough power through one USB port to use the Hard Drive.
 >
-> 1. [Send the Hekate payload to your Switch](../user_guide/sending_payload/).
-> 2. Navigate to `Tools` with the volume buttons and press power to confirm.
-> 3. Navigate to `Fix archive bit (except Nintendo folder)` with the volume buttons and press power to confirm.
-> 4. Wait a bit, this may take a while.
-> 5. Press any button to continue.
-> 6. Navigate to `Fix archive bit (Nintendo folder)` with the volume buttons and press power to confirm.
-> 7. Wait a bit, this may take a while.
-> 8. Press any button to continue.
-> 9. Navigate to `Back...` with the volume buttons and press power to confirm.
-> 10. Follow the instructions at [Launching CFW](../user_guide/launching_cfw/) to launch Atmosphere.
-
-### Which microSD?
-
-> microSD cards that are 32GB or smaller can be used for homebrew, but are not recommended as these will not permit you to have a full NAND dump and an emuNAND in the future.
+>You can fix this by either using a powered HDD or using a Y-Cable to connect the HDD to two USB ports.
 >
-> The recommended microSD card size is 128GB. This will permit you to make a full NAND dump as well as having enough space to run an emuNAND in the future while also having adequate space for homebrew.
->
-> The recommended filesystem format is FAT32. While the Switch supports exFAT through an additional update from Nintendo, this filesystem is prone to corruption and as a result is not advisable.
+>If your HDD worked for some time and then stopped working for some games/all games, it is the same issue and can be fixed with the same methods.
 
-!> **Fake microSD cards**
-    Do not buy microSD cards from sites like eBay. These microSD cards are often fake and do not have the advertised amount of storage and will result in data corruption if used. Consumer grade microSD cards do not exist in capacities over 512GB and any that advertise that they are 512GB or larger are fake.<br><br>
-    If you suspect your microSD card is fake or damaged, see the instructions [here](https://3ds.filthycasuals.tech/sderrors.html) to verify the integrity of your SD card.
+### When extracting some of the files there are duplicates of certain ones called "info.json" & "manifest.install", what do I do with those?
+
+> Nothing special, you can leave them there, delete them or replace them with new ones, those files are not used in the process therefore won't have any impact by being or not being there
