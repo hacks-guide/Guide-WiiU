@@ -21,7 +21,7 @@ We will now place the required CFW files and some additional homebrew files on t
 >   - You will need to download the `channel.zip` file.
 > - The latest release of [Wii U NAND Dumper](https://github.com/koolkdev/wiiu-nanddumper/releases/latest)
 > - The latest release of the [Homebrew App Store](https://github.com/vgmoose/hbas/releases/latest)
->   - You will need to download the `-wiiu-exracttosd.zip` file.
+>   - You will need to download the `wiiu-exracttosd.zip` file.
 > - The latest release of [Haxchi](https://github.com/FIX94/haxchi/releases/latest)
 >   - Download only the Haxchi .zip file.
 
@@ -37,7 +37,7 @@ We will now place the required CFW files and some additional homebrew files on t
 >   - You will need to download the `channel.zip` file.
 > - The latest release of [Wii U NAND Dumper](https://github.com/koolkdev/wiiu-nanddumper/releases/latest)
 > - The latest release of the [Homebrew App Store](https://github.com/vgmoose/hbas/releases/latest)
->   - You will need to download the `-wiiu-exracttosd.zip` file.
+>   - You will need to download the `wiiu-exracttosd.zip` file.
 > - The latest release of [Haxchi and CBHC](https://github.com/FIX94/haxchi/releases/latest)
 >   - Download both the Haxchi and CBHC .zip files.
 
@@ -51,7 +51,7 @@ We will now place the required CFW files and some additional homebrew files on t
 > - The latest release of [WUP Installer GX2](http://wiiubru.com/appstore/zips/wup_installer_gx2.zip)
 > - The latest release of [Wii U NAND Dumper](https://github.com/koolkdev/wiiu-nanddumper/releases/latest)
 > - The latest release of the [Homebrew App Store](https://github.com/vgmoose/hbas/releases/latest)
->   - You will need to download the `-wiiu-exracttosd.zip` file.
+>   - You will need to download the `wiiu-exracttosd.zip` file.
 > - The latest release of [Mocha](https://www.wiiubru.com/appstore/zips/mocha.zip)
 
 <!-- tabs:end -->
@@ -63,6 +63,8 @@ We will now place the required CFW files and some additional homebrew files on t
 
 #### **Haxchi**
 
+?> **Notice**
+    The info.json and manifest.install files are not needed for the modding proccess and therefore can be deleted.
 > 1. Insert your Wii U's SD card into your PC
 > 2. Extract the  `Haxchi.zip` file to the root of your SD Card
 > 3. Copy the `config.txt` file to the `haxchi` folder on your SD Card. Overwrite files if asked
@@ -77,6 +79,8 @@ We will now place the required CFW files and some additional homebrew files on t
 
 #### **Haxchi and CBHC**
 
+?> **Notice**
+    The info.json and manifest.install files are not needed for the modding proccess and therefore can be deleted.
 > 1. Insert your Wii U's SD card into your PC
 > 2. Extract the  `Haxchi.zip` file to the root of your SD Card
 > 3. Extract the `CBHC.zip` file to the root of your SD Card
@@ -92,6 +96,8 @@ We will now place the required CFW files and some additional homebrew files on t
 
 #### **Mocha**
 
+?> **Notice**
+    The info.json and manifest.install files are not needed for the modding proccess and therefore can be deleted.
 > 1. Insert your Wii U's SD card into your PC
 > 2. Extract the  `mocha.zip` file to the root of your SD Card
 > 3. Copy the `config.ini` file to the `/wiiu/apps/mocha` folder on your SD Card
