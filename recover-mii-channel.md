@@ -18,7 +18,7 @@ This page will guide you through the process of restoring your Mii Channel to a 
 
 ### Recovering the channel
 
-!> If you are using [an update blocking method](block-updates), please [remove it](unblock-updates).
+!> If you are using a system update blocking method, please [remove it](unblock-updates).
 
 > 1. Power on your Wii U and run CFW
 >  - If you don't know what CFW is, please read [this](introduction)
