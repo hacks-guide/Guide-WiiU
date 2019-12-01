@@ -6,7 +6,8 @@
 
 The first thing to decide is what CFW you want to use.
 
-There are two main CFWs:
+There are two main CFWs: Haxchi/ColdBootHaxchi (CBHC), and Mocha.<br>
+The table below lists advantages and disadvantages of each option.
 
 <!-- tabs:start -->
 
@@ -16,7 +17,7 @@ There are two main CFWs:
 - Needs to be re-launched from the Wii U Menu every reboot to enable CFW.
 - It's functionality can be extended by installing ColdBootHaxchi (CBHC) to a Haxchi installation.
 
-#### **Haxchi and ColdBootHaxchi (CBHC)**
+#### **CBHC**
 !> Installing CBHC incorrectly can brick your Wii U. Make sure to follow the following rules when installing CBHC:<br>- The DS game has to be legitimately installed from the eShop<br>- Don't format the system while CBHC is installed<br>- Don't delete the user account that bought the DS VC game<br>- Don't re-install the same game using wup installer or from the eShop<br>- Don't install Haxchi over CBHC
 
 - Requires a working Haxchi installation.

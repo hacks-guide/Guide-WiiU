@@ -20,7 +20,7 @@ Unlike systems such as the DSi, Wii, or 3DS, Wii U CFW is temporary. This means 
 > 8. You will need to run your Haxchi DS game every reboot to launch CFW.
 > 9. You can now re-attach any USB devices you had attached before starting the guide.
 
-#### **Haxchi and CBHC**
+#### **CBHC**
 
 > 1. Take the SD Card out of your PC and plug it into your Wii U.
 > 2. If you haven't already, now download your DS VC game of choice from the eShop.

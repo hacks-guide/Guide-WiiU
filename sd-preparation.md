@@ -25,7 +25,7 @@ We will now place the required CFW files and some additional homebrew files on t
 > - The latest release of [Haxchi](https://github.com/FIX94/haxchi/releases/latest)
 >   - Download only the Haxchi .zip file.
 
-#### **Haxchi and CBHC**
+#### **CBHC**
 
 > - The Haxchi [config](/files/config.txt)
 > - The latest release of [Homebrew Launcher Installer](https://github.com/wiiu-env/homebrew_launcher_installer/releases/latest)
