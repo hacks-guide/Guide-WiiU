@@ -29,33 +29,33 @@ Kawashima: Motto Nou wo Kitaeru Otona no DS Training [JPN]
 Running game mods - 8 GB  (FAT32 USB drive may be used as well for mods)\
 Only running homebrew apps - Any size
 >
->Brands - Sandisk, Samsung or PNY\
-Note: Avoid class 4 SD cards, and avoid Ebay
+> Brands - SanDisk, Samsung or PNY\
+Note: Avoid class 4 SD Cards, and avoid Ebay
 
 ### Haxchi common errors
 
-> -3: No SD card detected. Re-insert the SD card and try again. Make sure the SD card is in FAT32 format. If the error persists, try blowing into the SD slot as it can get dusty inside.
+> -3: No SD Card detected. Re-insert the SD Card and try again. Make sure the SD Card is in FAT32 format. If the error persists, try blowing into the SD slot as it can get dusty inside.
 >
->-4: SD detected but could not mount. Check to see if the SD is using MBR and not GPT. Also check to see if there are any other partitions on the SD card and merge them into one primary partition.
+> -4: SD detected but could not mount. Check to see if the SD is using MBR and not GPT. Also check to see if there are any other partitions on the SD Card and merge them into one primary partition.
 >
->-5: Missing files on the SD. Check to see if your SD has Homebrew Launcher located in wiiu/apps/homebrew_launcher/homebrew_launcher.elf
+> -5: Missing files on the SD. Check to see if your SD has Homebrew Launcher located in /wiiu/apps/homebrew_launcher/homebrew_launcher.elf
 
 ### Browser errors
 
-> Fsgetmount Source Failed: Same as -3 above, means no SD card detected. Re-insert the SD and try again.
+> Fsgetmount Source Failed: Same as -3 above, means no SD Card detected. Re-insert the SD and try again.
 >
->FSOpenFile Failed [...] payload.elf: Missing payload file on SD. Make sure you have payload.elf in the wiiu folder.
+> FSOpenFile Failed [...] payload.elf: Missing payload file on SD. Make sure you have payload.elf in the wiiu folder.
 >
->FSOpenFile Failed: Missing homebrew_launcher on SD. Make sure you have homebrew_launcher.elf in the wiiu/apps/homebrew_launcher folder.
+> FSOpenFile Failed: Missing homebrew_launcher on SD. Make sure you have homebrew_launcher.elf in the /wiiu/apps/homebrew_launcher folder.
 
 ### Data Management asks to delete unnecessary data, what does it mean?
 
 > This refers to leftover files from incomplete installs. Always choose Yes to delete this data, as it takes up space for no good reason.
 If it ever stays stuck on deleting the data in an infinite loop, you can manually delete the data yourself. Use Ftpiiu Everywhere and browse to Storage_MLC/usr/import/ then delete any files in the folder if any exists. This is where the partial installs exist after incomplete installs. It'll be Storage_USB if installed to a USB. The import folder should always be kept empty.
 
-### Can I install homebrew on WiiU with a USB instead of SD card?
+### Can I install homebrew on Wii U with a USB instead of SD Card?
 
-> No, you must have an SD card for a first time setup, a usb can then be used to install game backups, vc injects, etc, but not to store Homebrew Apps which are required to set everything up
+> No, you must have an SD Card for a first time setup, a usb can then be used to install game backups, vc injects, etc, but not to store Homebrew Apps which are required to set everything up
 
 ### My HDD doesn't work or makes a weird clicking-sound, what should I do?
 

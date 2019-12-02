@@ -15,5 +15,5 @@ In case anything should go wrong in the later process and your Wii U ends up bri
  - Dump SEEPROM: **yes**
 > 3. Press the A button to start the dumping process.
 > 4. When the process completed, power off your Wii U, take your SD Card out of the Wii U and plug it into your PC.
-> 5. To make sure you don't lose the files, copy the `slc.bin`, `slccmpt.bin`, `seeprom.bin`, and, if you chose to go with a full backup, `every mlc.bin.part` file to your computer.
+> 5. To make sure you don't lose the files, copy the `slc.bin`, `slccmpt.bin`, `seeprom.bin`, `otp.bin` and, if you chose to go with a full backup, `every mlc.bin.part` file to your computer.
 > 6. Delete the files from your SD Card to free up space.

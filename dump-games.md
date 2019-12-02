@@ -27,12 +27,12 @@ Dumping your Discs allows you to install a copy of your game to the system NAND/
 > 7. When prompted, insert the game disc you want to dump
 > 8. When the process is complete, your Wii U will launch the Wii U Menu.
 > 9. Launch the Homebrew Launcher and start the WUP Installer GX2 app.
-> 10. Select your game (`WUP-XXXX`), press `Install` and confirm with `Yes`.
+> 10. Select your game (`WUP-X-XXXX`), press `Install` and confirm with `Yes`.
 > 11. Select NAND as the installation destination.
 > 12. When the process is complete, your Wii U will launch the Wii U Menu.
 > 13. You should see your game installed, ready to be played.
 > 13. Take the SD Card out of your Wii U and plug it into your PC.
-> 14. Delete the `WUP-XXXX` folder in the `install` directory on your SD Card to free up space.
+> 14. Delete the `WUP-X-XXXX` folder in the `install` directory on your SD Card to free up space.
 
 #### **Install to USB**
 
@@ -58,12 +58,12 @@ Dumping your Discs allows you to install a copy of your game to the system NAND/
 > 9. When prompted, insert the game disc you want to dump
 > 10. When the process is complete, your Wii U will launch the Wii U Menu.
 > 11. Launch the Homebrew Launcher and start the WUP Installer GX2 app.
-> 12. Select your game (`WUP-XXXX`), press `Install` and confirm with `Yes`.
+> 12. Select your game (`WUP-X-XXXX`), press `Install` and confirm with `Yes`.
 > 13. Select USB as the installation destination.
 > 14. When the process is complete, your Wii U will launch the Wii U Menu.
 > 15. You should see your game installed, ready to be played.
 > 16. Take the SD Card out of your Wii U and plug it into your PC.
-> 17. Delete the `WUP-XXXX` folder in the `install` directory on your SD Card to free up space.
+> 17. Delete the `WUP-X-XXXX` folder in the `install` directory on your SD Card to free up space.
 
 ### Transfer updates/DLC to USB device
 
@@ -110,12 +110,12 @@ Dumping your Discs allows you to install a copy of your game to the system NAND/
 > 12. When prompted, insert the game disc you want to dump.
 > 13. When the process is complete, your Wii U will launch the Wii U Menu.
 > 14. Launch the Homebrew Launcher and start the WUP Installer GX2 app.
-> 15. Select your game (`WUP-XXXX`), press `Install` and confirm with `Yes`.
+> 15. Select your game (`WUP-X-XXXX`), press `Install` and confirm with `Yes`.
 > 16. Select NAND as the installation destination.
 > 17. When the process is complete, your Wii U will launch the Wii U Menu.
 > 18. You should see your game installed, ready to be played.
 > 19. Take the USB device out of your Wii U and plug it into your PC.
-> 20. Delete the `WUP-XXXX` folder in the `install` directory on your USB device to free up space.
+> 20. Delete the `WUP-X-XXXX` folder in the `install` directory on your USB device to free up space.
 
 ### Moving the game to USB
 

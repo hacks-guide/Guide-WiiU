@@ -5,7 +5,7 @@ This page will guide you through the process of modding your vWii.
 We will now place the required Homebrew files on the SD Card.
 
 ?> **Notice**
-    Your SD card will need to be formatted as FAT32. If your SD Card is not formatted to FAT32, use [GUIFormat](http://www.ridgecrop.demon.co.uk/index.htm?guiformat.htm) with 32k (32768) Allocation unit size to format it.
+    Your SD Card will need to be formatted as FAT32. If your SD Card is not formatted to FAT32, use [GUIFormat](http://www.ridgecrop.demon.co.uk/index.htm?guiformat.htm) with 32k (32768) Allocation unit size to format it.
 
 ### What you need
 

@@ -41,7 +41,7 @@ For live support with this guide please visit us in **#wiiu-assistance** on [Nin
 > - A device such as a Computer to place files onto the SD Card
 > - A Wii U with internet access
 >
-> Your SD card should preferably be 32 gigabytes large, as a full NAND backup for the console will take up around 8 or 30 gigabytes depending on your model.
+> Your SD Card should preferably be 32 gigabytes large, as a full NAND backup for the console will take up around 8 or 30 gigabytes depending on your model.
 
 If everything goes according to plan, you will lose no data and end up with everything that you started with (games, NNID, saves, etc will be preserved).
 

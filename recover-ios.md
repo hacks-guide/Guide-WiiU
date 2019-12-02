@@ -1,6 +1,6 @@
 # Recover a corrupted or lost IOS
 
-This page will guide you through the process of restoring a clean IOS on your vWii.
+This page will guide you through the process of recovering a corrupted IOS on your vWii.
 
 !> Do not use this method for anything else than [recovering your Mii Channel](recover-mii-channel) or the following page.
 
@@ -14,7 +14,7 @@ This page will guide you through the process of restoring a clean IOS on your vW
 
 ### Instructions
 
-> 1. Extract the `fpiiu-cbhc.zip` file to the root of your sd card
+> 1. Extract the `fpiiu-cbhc.zip` file to the root of your SD Card
 > 2. Install FileZilla on your computer
 > 3. Install Python on your computer
 
@@ -24,17 +24,15 @@ This page will guide you through the process of restoring a clean IOS on your vW
 
 !> If you are using a system update blocking method, please [remove it](unblock-updates).
 
-> 1. Power on your Wii U and run CFW
->  - If you don't know what CFW is, please read [this](introduction)
-> 2. Launch the Homebrew Launcher
-> 3. Launch FTPiiU Everywhere
-> 4. Launch FileZilla
-> 5. Type in the IP address displayed by your Wii U in the `Host` field at the top of the window and click on `Quickconnect`
-> 6. In FileZilla, navigate to `/slccmpt01/title/00000001`
+> 1. Power on your Wii U and launch the CFW of your choice (Mocha, Haxchi or CBHC)
+> 2. Launch the Homebrew Launcher and FTPiiU Everywhere
+> 4. Launch FileZilla on your computer
+> 5. In FileZilla, type in the IP address displayed by your Wii U in the `Host` field at the top of the window and click on `Quickconnect`
+> 6. Navigate to `/slccmpt01/title/00000001`
 > 7. Delete the `00000050` folder
 > 8. Navigate to `/slccmpt01/ticket/00000001`
 > 9. Delete the `00000050.tik` file
-> 10. Double click the previously downloaded `.py` file
+> 10. On your computer, double click the previously downloaded `.py` file
 > 11. Type in your Wii U's IP address and press Enter
 > 12. Wait for it to finish what it's doing
 >  - If an `err.log` file has been generated, please visit us in **#wiiu-assistance** on [Nintendo Homebrew Discord](https://discord.gg/C29hYvh)
@@ -50,8 +48,7 @@ This page will guide you through the process of restoring a clean IOS on your vW
 
 !> If you are using a system update blocking method, please [remove it](unblock-updates).
 
-> 1. Power on your Wii U and run CFW
->  - If you don't know what CFW is, please read [this](introduction)
+> 1. Power on your Wii U and launch the CFW of your choice (Mocha, Haxchi or CBHC)
 > 2. Launch the Homebrew Launcher
 > 3. Launch FTPiiU Everywhere
 > 4. Launch FileZilla

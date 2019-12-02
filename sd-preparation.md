@@ -1,9 +1,9 @@
 # SD Preparation
 
-We will now place the required CFW files and some additional homebrew files on the SD card.
+We will now place the required CFW files and some additional homebrew files on the SD Card.
 
 ?> **Notice**
-    Your SD card will need to be formatted as FAT32. If your SD Card is not formatted to FAT32, use [GUIFormat](http://www.ridgecrop.demon.co.uk/index.htm?guiformat.htm) with 32k (32768) Allocation unit size to format it.
+    Your SD Card will need to be formatted as FAT32. If your SD Card is not formatted to FAT32, use [GUIFormat](http://www.ridgecrop.demon.co.uk/index.htm?guiformat.htm) with 32k (32768) Allocation unit size to format it.
 
 ### What you need
 
@@ -81,7 +81,7 @@ We will now place the required CFW files and some additional homebrew files on t
 
 ?> **Notice**
     The info.json and manifest.install files are not needed for the modding proccess and therefore can be deleted.
-> 1. Insert your Wii U's SD card into your PC
+> 1. Insert your Wii U's SD Card into your PC
 > 2. Extract the  `Haxchi.zip` file to the root of your SD Card
 > 3. Extract the `CBHC.zip` file to the root of your SD Card
 > 4. Copy the `config.txt` file to the `haxchi` folder on your SD Card. Overwrite files if asked
@@ -98,7 +98,7 @@ We will now place the required CFW files and some additional homebrew files on t
 
 ?> **Notice**
     The info.json and manifest.install files are not needed for the modding proccess and therefore can be deleted.
-> 1. Insert your Wii U's SD card into your PC
+> 1. Insert your Wii U's SD Card into your PC
 > 2. Extract the  `mocha.zip` file to the root of your SD Card
 > 3. Copy the `config.ini` file to the `/wiiu/apps/mocha` folder on your SD Card
 > 5. Copy the `payload.elf` from the `payload.zip` to the `wiiu` folder on your SD Card
