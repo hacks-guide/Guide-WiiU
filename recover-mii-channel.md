@@ -38,4 +38,4 @@ This page will guide you through the process of restoring your Mii Channel to a 
 
 You should now have a working Mii Channel.
 
-?> You can now re-enable your [System Updates blocking method](block-updates)
+?> You can now re-enable your [system update blocking method](block-updates).

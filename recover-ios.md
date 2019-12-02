@@ -42,6 +42,8 @@ This page will guide you through the process of restoring a clean IOS on your vW
 > 14. Launch the System Settings
 > 15. Perform a System Update
 
+?> You can now re-enable your [system update blocking method](block-updates).
+
 ### **Recover any corrupted IOS**
 
 !> **Do not** attempt to delete multiple IOSes at a time.
@@ -66,5 +68,7 @@ This page will guide you through the process of restoring a clean IOS on your vW
 > 13. Exit FTPiiU Everywhere and the Homebrew Launcher
 > 14. Launch the System Settings
 > 15. Perform a System Update
+
+?> You can now re-enable your [system update blocking method](block-updates).
 
 <!-- tabs:end -->
