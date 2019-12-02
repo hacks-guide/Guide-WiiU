@@ -13,8 +13,8 @@
 - [Recover a corrupted IOS](recover-ios)
 - **Extras**
 - [Blocking Updates](block-updates)
-- [Dumping Wii U Discs](dump-games)
 - [Unblocking Updates](unblock-updates)
+- [Dumping Wii U Discs](dump-games)
 - [Changelog](changelog)
 - [MD Syntax](md-syntax)
 - [About](about)
