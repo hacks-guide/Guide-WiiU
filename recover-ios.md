@@ -26,19 +26,19 @@ This page will guide you through the process of recovering a corrupted IOS on yo
 
 > 1. Power on your Wii U and launch the CFW of your choice (Mocha, Haxchi or CBHC)
 > 2. Launch the Homebrew Launcher and FTPiiU Everywhere
-> 4. Launch FileZilla on your computer
-> 5. In FileZilla, type in the IP address displayed by your Wii U in the `Host` field at the top of the window and click on `Quickconnect`
-> 6. Navigate to `/slccmpt01/title/00000001`
-> 7. Delete the `00000050` folder
-> 8. Navigate to `/slccmpt01/ticket/00000001`
-> 9. Delete the `00000050.tik` file
-> 10. On your computer, double click the previously downloaded `.py` file
-> 11. Type in your Wii U's IP address and press Enter
-> 12. Wait for it to finish what it's doing
+> 3. Launch FileZilla on your computer
+> 4. In FileZilla, type in the IP address displayed by your Wii U in the `Host` field at the top of the window and click on `Quickconnect`
+> 5. Navigate to `/slccmpt01/title/00000001`
+> 6. Delete the `00000050` folder
+> 7. Navigate to `/slccmpt01/ticket/00000001`
+> 8. Delete the `00000050.tik` file
+> 9. On your computer, double click the previously downloaded `.py` file
+> 10. Type in your Wii U's IP address and press Enter
+> 11. Wait for it to finish what it's doing
 >  - If an `err.log` file has been generated, please visit us in **#wiiu-assistance** on [Nintendo Homebrew Discord](https://discord.gg/C29hYvh)
-> 13. Exit FTPiiU Everywhere and the Homebrew Launcher
-> 14. Launch the System Settings
-> 15. Perform a System Update
+> 12. Exit FTPiiU Everywhere and the Homebrew Launcher
+> 13. Launch the System Settings
+> 14. Perform a System Update
 
 ?> You can now re-enable your [system update blocking method](block-updates).
 
@@ -55,16 +55,16 @@ This page will guide you through the process of recovering a corrupted IOS on yo
 > 5. Type in the IP address displayed by your Wii U in the `Host` field at the top of the window and click on `Quickconnect`
 > 6. In FileZilla, navigate to `/slccmpt01/title/00000001`
 > 7. Go to [this page](ios-folders) to see which folder/ticket you need to delete
-> 7. Delete the corresponding folder of the IOS you want to recover
-> 8. Navigate to `/slccmpt01/ticket/00000001`
-> 9. Delete the corresponding `.tik` file of the IOS you want to recover
-> 10. Double click the previously downloaded `.py` file
-> 11. Type in your Wii U's IP address and press Enter
-> 12. Wait for it to finish what it's doing
+> 8. Delete the corresponding folder of the IOS you want to recover
+> 9. Navigate to `/slccmpt01/ticket/00000001`
+> 10. Delete the corresponding `.tik` file of the IOS you want to recover
+> 11. Double click the previously downloaded `.py` file
+> 12. Type in your Wii U's IP address and press Enter
+> 13. Wait for it to finish what it's doing
 >  - If an `err.log` file has been generated, please visit us in **#wiiu-assistance** on [Nintendo Homebrew Discord](https://discord.gg/C29hYvh)
-> 13. Exit FTPiiU Everywhere and the Homebrew Launcher
-> 14. Launch the System Settings
-> 15. Perform a System Update
+> 14. Exit FTPiiU Everywhere and the Homebrew Launcher
+> 15. Launch the System Settings
+> 16. Perform a System Update
 
 ?> You can now re-enable your [system update blocking method](block-updates).
 
