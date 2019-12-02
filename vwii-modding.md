@@ -10,7 +10,7 @@ We will now place the required Homebrew files on the SD Card.
 ### What you need
 
 > - The <a href ="/files/vWii_cIOS_apps_20131218.zip" download>vWii cIOS apps</a>
-> - The <a href="/files/Patched_IOS80_Installer_for_vWii.zip" download>Patched IOS 80 Installed for vWii</a>
+> - The <a href="/files/Patched_IOS80_Installer_for_vWii.zip" download>Patched IOS 80 Installer for vWii</a>
 > - The latest release of [Wuphax](http://wiiubru.com/appstore/zips/wuphax.zip)
 > - The [Homebrew Launcher](https://github.com/dimok789/homebrew_launcher/releases/download/1.4/homebrew_launcher.v1.4.zip)
 > - The latest release of the [Homebrew Launcher Installer](https://github.com/wiiu-env/homebrew_launcher_installer/releases/download/v1.4/payload.zip)
@@ -20,9 +20,10 @@ We will now place the required Homebrew files on the SD Card.
 > 1. Insert your Wii U's SD card into your PC
 > 2. Extract the `wuphax.zip` file to the root of your SD Card
 > 3. Extract the `boot.elf` file from the `hackmii_installer_v1.2` to the root of your SD Card
-> 4. Extract the `vWii_cIOS_apps_20131218.zip` file to the root of your SD Card
-> 5. Extract the `payload.zip` file to the `wiiu` folder on your SD Card
-> 6. Take the SD Card out of your Computer and plug it into your Wii U console.
+> 4. Extract the `apps` folder from the `Patched_IOS80_Installer_for_vWii.zip` file to the root of your SD Card
+> 5. Extract the `vWii_cIOS_apps_20131218.zip` file to the root of your SD Card
+> 6. Extract the `payload.zip` file to the `wiiu` folder on your SD Card
+> 7. Take the SD Card out of your Computer and plug it into your Wii U console.
 
 ### Wuphax
 
