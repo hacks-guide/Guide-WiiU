@@ -9,8 +9,8 @@ We will now place the required Homebrew files on the SD Card.
 
 ### What you need
 
-> - The [vWii cIOS apps](/files/vWii_cIOS_apps_20131218.zip)
-> - The [Patched IOS 80 Installed for vWii](/files/Patched_IOS80_Installer_for_vWii.zip)
+> - The <a href ="/files/vWii_cIOS_apps_20131218.zip" download>vWii cIOS apps</a>
+> - The <a href="/files/Patched_IOS80_Installer_for_vWii.zip" download>Patched IOS 80 Installed for vWii</a>
 > - The latest release of [Wuphax](http://wiiubru.com/appstore/zips/wuphax.zip)
 > - The [Homebrew Launcher](https://github.com/dimok789/homebrew_launcher/releases/download/1.4/homebrew_launcher.v1.4.zip)
 > - The latest release of the [Homebrew Launcher Installer](https://github.com/wiiu-env/homebrew_launcher_installer/releases/download/v1.4/payload.zip)

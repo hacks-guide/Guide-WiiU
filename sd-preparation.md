@@ -11,7 +11,7 @@ We will now place the required CFW files and some additional homebrew files on t
 
 #### **Haxchi**
 
-> - The Haxchi [config](/files/config.txt)
+> - The Haxchi <a href="/files/config.txt" download>config</a>
 > - The latest release of [Homebrew Launcher Installer](https://github.com/wiiu-env/homebrew_launcher_installer/releases/latest)
 >   - You will need to download the `payload.zip` file.
 > - The 1.4 release of [The Homebrew Launcher](https://github.com/dimok789/homebrew_launcher/releases/tag/1.4)
@@ -27,7 +27,7 @@ We will now place the required CFW files and some additional homebrew files on t
 
 #### **CBHC**
 
-> - The Haxchi [config](/files/config.txt)
+> - The Haxchi <a href="/files/config.txt" download>config</a>
 > - The latest release of [Homebrew Launcher Installer](https://github.com/wiiu-env/homebrew_launcher_installer/releases/latest)
 >   - You will need to download the `payload.zip` file.
 > - The 1.4 release of [The Homebrew Launcher](https://github.com/dimok789/homebrew_launcher/releases/tag/1.4)
@@ -43,7 +43,7 @@ We will now place the required CFW files and some additional homebrew files on t
 
 #### **Mocha**
 
-> - The Mocha [config](/files/config.ini)
+> - The Mocha <a href="/files/config.ini" download>config</a>
 > - The latest release of [Homebrew Launcher Installer](https://github.com/wiiu-env/homebrew_launcher_installer/releases/latest)
 >   - You will need to download the `payload.zip` file.
 > - The 1.4 release of [The Homebrew Launcher](https://github.com/dimok789/homebrew_launcher/releases/tag/1.4)

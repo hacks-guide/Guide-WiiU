@@ -10,7 +10,7 @@ This page will guide you through the process of recovering a corrupted IOS on yo
 > - This release of [FTPiiU Everywhere](http://wiiubru.com/appstore/#/app/fpiiu-cbhc)
 > - The latest release of [Python](https://www.python.org/downloads/)
 > - An FTP client such as [FileZilla](https://filezilla-project.org/download.php?type=client)
-> - [This Python script](/file/overwrite-wiiu-titlehash.py)
+> - <a href="../files/overwrite-wiiu-titlehash.py" download>This Python script</a>
 
 ### Instructions
 
