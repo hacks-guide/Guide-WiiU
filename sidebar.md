@@ -10,7 +10,7 @@
 - **vWii**
 - [vWii Modding](vwii-modding)
 - [Recovering Mii Channel](recover-mii-channel)
-- [Recover a corrupted IOS](recover-ios)
+- [Recover a Corrupted IOS](recover-ios)
 - **Extras**
 - [Blocking Updates](block-updates)
 - [Unblocking Updates](unblock-updates)

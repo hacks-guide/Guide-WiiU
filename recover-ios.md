@@ -35,11 +35,12 @@ This page will guide you through the process of restoring a clean IOS on your vW
 > 8. Navigate to `/slccmpt01/ticket/00000001`
 > 9. Delete the `00000050.tik` file
 > 10. Double click the previously downloaded `.py` file
-> 11. Wait for it to finish what it's doing
+> 11. Type in your Wii U's IP address and press Enter
+> 12. Wait for it to finish what it's doing
 >  - If an `err.log` file has been generated, please visit us in **#wiiu-assistance** on [Nintendo Homebrew Discord](https://discord.gg/C29hYvh)
-> 12. Exit FTPiiU Everywhere and the Homebrew Launcher
-> 13. Launch the System Settings
-> 14. Perform a System Update
+> 13. Exit FTPiiU Everywhere and the Homebrew Launcher
+> 14. Launch the System Settings
+> 15. Perform a System Update
 
 ### **Recover any corrupted IOS**
 
@@ -59,10 +60,11 @@ This page will guide you through the process of restoring a clean IOS on your vW
 > 8. Navigate to `/slccmpt01/ticket/00000001`
 > 9. Delete the corresponding `.tik` file of the IOS you want to recover
 > 10. Double click the previously downloaded `.py` file
-> 11. Wait for it to finish what it's doing
+> 11. Type in your Wii U's IP address and press Enter
+> 12. Wait for it to finish what it's doing
 >  - If an `err.log` file has been generated, please visit us in **#wiiu-assistance** on [Nintendo Homebrew Discord](https://discord.gg/C29hYvh)
-> 12. Exit FTPiiU Everywhere and the Homebrew Launcher
-> 13. Launch the System Settings
-> 14. Perform a System Update
+> 13. Exit FTPiiU Everywhere and the Homebrew Launcher
+> 14. Launch the System Settings
+> 15. Perform a System Update
 
 <!-- tabs:end -->

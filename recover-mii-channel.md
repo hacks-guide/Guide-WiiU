@@ -29,11 +29,12 @@ This page will guide you through the process of restoring your Mii Channel to a 
 > 6. In FileZilla, navigate to `/slccmpt01/title/00010002`
 > 7. Delete the `48414341` folder
 > 8. Double click the previously downloaded `.py` file
-> 9. Wait for it to finish what it's doing
+> 9. Type in your Wii U's IP address and press Enter
+> 10. Wait for it to finish what it's doing
 >  - If an `err.log` file has been generated, please visit us in **#wiiu-assistance** on [Nintendo Homebrew Discord](https://discord.gg/C29hYvh)
-> 10. Exit FTPiiU Everywhere and the Homebrew Launcher
-> 11. Launch the System Settings
-> 12. Perform a System Update
+> 11. Exit FTPiiU Everywhere and the Homebrew Launcher
+> 12. Launch the System Settings
+> 13. Perform a System Update
 
 You should now have a working Mii Channel.
 
