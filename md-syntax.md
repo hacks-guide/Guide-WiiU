@@ -322,16 +322,16 @@ Ciao!
 
 #### ** Rendered **
 
-![alt text](assets/img/serial-location.jpg)
+![alt text](assets/img/theme-dark-content.png)
 
-> ![alt text](assets/img/serial-switch.png)
+> ![alt text](assets/img/theme-light-content.png)
 
 #### ** Markdown **
 
 ```markdown
-![alt text](assets/img/serial-location.jpg)
+![alt text](assets/img/theme-dark-content.png)
 
-> ![alt text](assets/img/serial-switch.png)
+> ![alt text](assets/img/theme-light-content.png)
 ```
 
 <!-- tabs:end -->
