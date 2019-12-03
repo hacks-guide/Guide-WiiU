@@ -2,9 +2,11 @@
 
 ?> This page is primarily meant to be used with [Recover a Corrupted IOS](recover-ios)
 
-?> The following .tik files are located under /slccmpt01/ticket/00000001
+?> The following folders are located under /slccmpt01/title/00000001
+<br>The following .tik files are located under /slccmpt01/ticket/00000001
+<br>The IOS Path column shows you where the IOS titles are located
 
-IOS|Folder  |.tik file   |Full path                               |Title ID
+IOS|Folder  |.tik File   |IOS Path                                |Title ID
 :--|:-------|:-----------|:---------------------------------------|:----------------
 9  |00000009|00000009.tik|/slccmpt01/title/&zwnj;00000001/00000009|00000007-00000009
 12 |0000000C|0000000C.tik|/slccmpt01/title/&zwnj;00000001/0000000C|00000007-0000000C
