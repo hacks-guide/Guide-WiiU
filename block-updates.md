@@ -7,7 +7,7 @@ All currently known Wii U exploits can, unlike e.g. the Nintendo Switch RCM expl
 Currently two ways exist to block updates on the Wii U system:
 <!-- tabs:start -->
 
-#### **Deleting the update folder**
+#### **Deleting The Update Folder**
 ?> While this method of update blocking is a bit more advanced than DNS Blocking and currently requires at least basic knowledge on FTP Programs, it has the advantage that the eShop's functionality will not be restricted.
 
 ?> In order for this method to work, your Wii U needs to be in the same network as your Computer.

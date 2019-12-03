@@ -1,8 +1,8 @@
-# Recover your lost or corrupted Mii Channel
+# Recover Your Lost or Corrupted Mii Channel
 
 This page will guide you through the process of restoring your Mii Channel to a working state.
 
-### What you need
+### What You Need
 
 > - A working [Homebrew installation](introduction) on Wii U side
 > - This release of [FTPiiU Everywhere](http://wiiubru.com/appstore/#/app/fpiiu-cbhc)
@@ -16,7 +16,7 @@ This page will guide you through the process of restoring your Mii Channel to a 
 > 1. Install FileZilla on your computer
 > 1. Install Python on your computer
 
-### Recovering the channel
+### Recovering The Channel
 
 !> If you are using a system update blocking method, please [remove it](unblock-updates).
 

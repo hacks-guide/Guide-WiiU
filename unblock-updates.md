@@ -6,7 +6,7 @@ This is needed if you ever need to perform a System Update.
 
 <!-- tabs:start -->
 
-#### **Recreating the update folder**
+#### **Recreating The Update Folder**
 
 ?> In order for this method to work, your Wii U needs to be in the same network as your Computer.
 1. Plug your SD Card into your Computer.
@@ -22,7 +22,7 @@ This is needed if you ever need to perform a System Update.
 1. Create a folder named `update`.
 1. You are now no longer blocking system updates.
 
-### **Removing the DNS Blocks**
+### **Removing The DNS Blocks**
 
 1. Enter the Wii U's system settings and navigate to `Internet > Connect to the Internet > Connection List >`
 `Your WiFi connection > Change Settings > DNS` and set the option to `Auto-obtain`.

@@ -5,7 +5,7 @@ We will now place the required CFW files and some additional homebrew files on t
 ?> **Notice**
     Your SD Card will need to be formatted as FAT32. If your SD Card is not formatted to FAT32, use [GUIFormat](http://www.ridgecrop.demon.co.uk/index.htm?guiformat.htm) with 32k (32768) Allocation unit size to format it.
 
-### What you need
+### What You Need
 
 <!-- tabs:start -->
 

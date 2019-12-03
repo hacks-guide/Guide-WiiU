@@ -1,4 +1,4 @@
-# IOS folders and paths
+# IOS Folders and Paths
 
 ?> This page is primarily meant to be used with [Recover a Corrupted IOS](recover-ios)
 

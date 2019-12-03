@@ -1,10 +1,10 @@
-# Recover a corrupted or lost IOS
+# Recover a Corrupted IOS
 
 This page will guide you through the process of recovering a corrupted IOS on your vWii.
 
 !> Do not use this method for anything else than [recovering your Mii Channel](recover-mii-channel) or the following page.
 
-### What you need
+### What You Need
 
 > - A working [Homebrew installation](introduction) on Wii U side
 > - This release of [FTPiiU Everywhere](http://wiiubru.com/appstore/#/app/fpiiu-cbhc)
@@ -20,7 +20,7 @@ This page will guide you through the process of recovering a corrupted IOS on yo
 
 <!-- tabs:start -->
 
-### **Recover a corrupted IOS 80**
+### **IOS 80**
 
 !> If you are using a system update blocking method, please [remove it](unblock-updates).
 
@@ -42,7 +42,7 @@ This page will guide you through the process of recovering a corrupted IOS on yo
 
 ?> You can now re-enable your [system update blocking method](block-updates).
 
-### **Recover any corrupted IOS**
+### **Any IOS**
 
 !> **Do not** attempt to delete multiple IOSes at a time.
 

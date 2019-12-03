@@ -7,7 +7,7 @@ We will now place the required Homebrew files on the SD Card.
 ?> **Notice**
     Your SD Card will need to be formatted as FAT32. If your SD Card is not formatted to FAT32, use [GUIFormat](http://www.ridgecrop.demon.co.uk/index.htm?guiformat.htm) with 32k (32768) Allocation unit size to format it.
 
-### What you need
+### What You Need
 
 > - The <a href ="/files/vWii_cIOS_apps_20131218.zip" download>vWii cIOS apps</a>
 > - The <a href="/files/Patched_IOS80_Installer_for_vWii.zip" download>Patched IOS 80 Installer for vWii</a>

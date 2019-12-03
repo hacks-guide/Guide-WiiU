@@ -29,7 +29,7 @@ For live support with this guide please visit us in **#wiiu-assistance** on the 
 
 > This guide has the end goal of taking a completely unmodified Wii U from Stock to Custom Firmware.
 
-### Before starting
+### Before Starting
 
 !> Before beginning the guide, you must know the risks of Wii U hacking: EVERY time you modify your system, there is always the potential for an UNRECOVERABLE brick. They’re rare but still a possibility so make sure you follow ALL directions EXACTLY.
 >
