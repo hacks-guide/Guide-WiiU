@@ -77,7 +77,7 @@ We will now place the required CFW files and some additional homebrew files on t
 > 1. Create a folder called `hbc` in the `install` folder you created
 > 1. Extract the `homebrew_launcher_channel.zip` file to the `hbc` folder you created
 
-#### **Haxchi and CBHC**
+#### **CBHC**
 
 ?> **Notice**
     The info.json and manifest.install files are not needed for the modding proccess and therefore can be deleted.

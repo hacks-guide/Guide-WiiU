@@ -30,4 +30,7 @@ This page will install the Homebrew Launcher Channel as an application directly 
 > 1. Once the process is finished, press the Home button until you're back at the Wii U Menu.
 > 1. You will now see the Homebrew Launcher Channel installed on your Wii U Menu.
 
+### **Mocha**
+!> The Homebrew Launcher Channel is not compatible with Mocha
+
 <!-- tabs:end -->

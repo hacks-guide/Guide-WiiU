@@ -3,7 +3,7 @@
 A guide collaboration between Nintendo Homebrew's Helpers and Staff, from stock to CBHC custom firmware.
 
 ?> **Discord Help**
-For live support with this guide please visit us in **#wiiu-assistance** on [Nintendo Homebrew Discord](https://discord.gg/C29hYvh).
+For live support with this guide please visit us in **#wiiu-assistance** on the [Nintendo Homebrew Discord](https://discord.gg/C29hYvh).
 
 ### Homebrew
 
