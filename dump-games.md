@@ -65,7 +65,7 @@ Dumping your Discs allows you to install a copy of your game to the system NAND/
 > 1. Take the SD Card out of your Wii U and plug it into your PC.
 > 1. Delete the `WUP-X-XXXX` folder in the `install` directory on your SD Card to free up space.
 
-### Transfer updates/DLC to USB device
+### Move updates/DLC to USB
 
 ?> If your disc game had DLC or updates installed, you will need to transfer the files over to your USB device. You can do this using the Wii U's data management.
 
