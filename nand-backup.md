@@ -8,7 +8,7 @@ In case anything should go wrong in the later process and your Wii U ends up bri
 
 > 1. Navigate through the Homebrew Launcher and launch the `Wii U NAND Dumper` app.
 > 1. Use the Wii U Gamepad's DPAD to enter the following configuration:
- - Dump SLPC: **yes**
+ - Dump SLC: **yes**
  - Dump SLCCMPT: **yes**
  - Dump MLC: **optional**
  - Dump OTP: **yes**
