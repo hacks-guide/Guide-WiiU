@@ -10,7 +10,7 @@ Dumping your Discs allows you to install a copy of your game to the system NAND/
 
 #### **Install To NAND**
 
-?> Installing a game to the system memory (NAND) is not recommended as it's limited to either 8 or 32gb depending on your model, making you run out of space pretty quickly if you want to install multiple games.  
+?> Installing a game to the system memory (NAND) is not recommended as it's limited to either 8 or 32GB depending on your model, making you run out of space pretty quickly if you want to install multiple games.  
 
 ### What You need
 - Your SD Card needs to have enough space to fit the game you want to dump.
