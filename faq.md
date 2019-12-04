@@ -38,7 +38,7 @@ Note: Avoid class 4 SD Cards, and avoid Ebay
 >
 > -4: SD detected but could not mount. Check to see if the SD is using MBR and not GPT. Also check to see if there are any other partitions on the SD Card and merge them into one primary partition.
 >
-> -5: Missing files on the SD. Check to see if your SD has Homebrew Launcher located in /wiiu/apps/homebrew_launcher/homebrew_launcher.elf
+> -5: Missing files on the SD. Check to see if your SD has Homebrew Launcher located in /wiiu/apps/homebrew_launcher/&zwnj;homebrew_launcher.elf
 
 ### Browser errors
 
