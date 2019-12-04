@@ -27,7 +27,7 @@ This page will guide you through the process of recovering a corrupted IOS on yo
 1. Power on your Wii U and launch the CFW of your choice (Mocha, Haxchi or CBHC)
 1. Launch the Homebrew Launcher and FTPiiU Everywhere
 1. Launch FileZilla on your computer
-1. In FileZilla, type in the IP address displayed by your Wii U in the `Host` field at the top of thewindow and click on `Quickconnect`
+1. In FileZilla, type in the IP address displayed by your Wii U in the `Host` field at the top of the window and click on `Quickconnect`
 1. Navigate to `/slccmpt01/title/00000001`
 1. Delete the `00000050` folder
 1. Navigate to `/slccmpt01/ticket/00000001`
