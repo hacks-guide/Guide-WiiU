@@ -20,6 +20,8 @@ The table below lists advantages and disadvantages of each option.
 #### **CBHC**
 !> Installing CBHC incorrectly can brick your Wii U. Make sure to follow the following rules when installing CBHC:<br>- The DS game has to be legitimately installed from the eShop<br>- Don't format the system while CBHC is installed<br>- Don't delete the user account that bought the DS VC game<br>- Don't re-install the same game using wup installer or from the eShop<br>- Don't install Haxchi over CBHC
 
+!>Breaking one of the above rules will result in a brick.
+
 - Same (dis)advantages as Haxchi, but automatically launches CFW on every boot. 
 
 #### **Mocha**
