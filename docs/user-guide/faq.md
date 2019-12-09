@@ -17,11 +17,11 @@ Kawashima: Motto Nou wo Kitaeru Otona no DS Training [JPN]
 
 ### Can I install games from my USB instead of SD?
 
-> Yes. It is, however, a bit more complicated than installing from SD Card. Detailed instructions are in the `Install from USB` tab in the [Dumping guide](/dump-games).
+> Yes. It is, however, a bit more complicated than installing from SD Card. Detailed instructions are in the `Install from USB` tab in the [Dumping guide](docs/extras/dump-games).
 
 ### How to Delete Update Folder to Block Updates on Wii U
 
-> If you want to delete the update folder to block updates, see it's tab in the [Blocking Updates guide](/block-updates)
+> If you want to delete the update folder to block updates, see it's tab in the [Blocking Updates guide](docs/extras/block-updates)
 
 ### What SD Card size is recommended?
 

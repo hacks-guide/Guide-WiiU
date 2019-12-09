@@ -14,7 +14,7 @@ Unlike systems such as the DSi, Wii, or 3DS, Wii U CFW is temporary. This means 
 
 1. Take the SD Card out of your PC and plug it into your Wii U.
 1. If you haven't already, now download your DS VC game of choice from the eShop.
-1. Launch the Homebrew Launcher on your system as [previously explained](/browser-exploit).
+1. Launch the Homebrew Launcher on your system as [previously explained](docs/user-guide/browser-exploit).
 1. Navigate the Homebrew Launcher and open the Haxchi app.
 1. Use the DPAD to navigate the cursor to the game you want to install haxchi to and press the A button to install it.
 1. Once the installation has finished, your console will launch the Wii U Menu. You will see your game replaced by a haxchi icon.
@@ -26,7 +26,7 @@ Unlike systems such as the DSi, Wii, or 3DS, Wii U CFW is temporary. This means 
 
 1. Take the SD Card out of your PC and plug it into your Wii U.
 1. If you haven't already, now download your DS VC game of choice from the eShop.
-1. Launch the Homebrew Launcher on your system as [previously explained](/browser-exploit).
+1. Launch the Homebrew Launcher on your system as [previously explained](docs/user-guide/browser-exploit).
 1. Navigate the Homebrew Launcher and open the Haxchi app.
 1. Use the DPAD to navigate the cursor to the game you want to install haxchi to and press the A button to install it.
 1. Once the installation has finished, your console will launch the Wii U Menu. You will see your game replaced by a haxchi icon.
@@ -44,7 +44,7 @@ Unlike systems such as the DSi, Wii, or 3DS, Wii U CFW is temporary. This means 
 #### **Mocha**
 
 1. Take the SD Card out of your PC and plug it into your Wii U.
-1. Launch the Homebrew Launcher on your system as [previously explained](/browser-exploit).
+1. Launch the Homebrew Launcher on your system as [previously explained](docs/user-guide/browser-exploit).
 1. Navigate the Homebrew Launcher and open the Mocha app.
 1. Your console will launch the Wii U Menu and enable CFW.
 1. You will need to re-do these steps every reboot to launch cfw.

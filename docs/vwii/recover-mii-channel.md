@@ -4,10 +4,10 @@ This page will guide you through the process of restoring your Mii Channel to a 
 
 ### What You Need
 
-> - A working [Homebrew installation](introduction) on Wii U side
+> - A working [Homebrew installation](docs/user-guide/introduction) on Wii U side
 > - This release of [FTPiiU Everywhere](http://wiiubru.com/appstore/zips/fpiiu-cbhc.zip)
 > - An FTP client such as [FileZilla](https://filezilla-project.org/download.php?type=client)
-> - <a href="../files/overwrite-wiiu-titlehash.exe" download>overwrite-wiiu-titlehash.exe</a>
+> - <a href="docs/files/overwrite-wiiu-titlehash.exe" download>overwrite-wiiu-titlehash.exe</a>
 
 ### Instructions
 
@@ -16,7 +16,7 @@ This page will guide you through the process of restoring your Mii Channel to a 
 
 ### Recovering The Channel
 
-!> If you are using a system update blocking method, please [remove it](unblock-updates).
+!> If you are using a system update blocking method, please [remove it](docs/extras/unblock-updates).
 
 > 1. Power on your Wii U and launch the CFW of your choice (Mocha, Haxchi or CBHC)
 > 1. Launch the Homebrew Launcher and FTPiiU Everywhere
@@ -34,4 +34,4 @@ This page will guide you through the process of restoring your Mii Channel to a 
 
 You should now have a working Mii Channel.
 
-?> You can now re-enable your [system update blocking method](block-updates).
+?> You can now re-enable your [system update blocking method](docs/extras/block-updates).

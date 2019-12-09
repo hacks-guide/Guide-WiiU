@@ -16,8 +16,8 @@ This is needed if you ever need to perform a System Update.
 1. Launch the CFW of your choice (mocha, haxchi/cbhc) and enter the Homebrew Launcher.
 1. Navigate the Homebrew Launcher and run the ftpiiu_everywhere app.
 1. Take note of the IP address on the Wii U screen.
-1. On your PC run your preferred FTP client and open an FTP connection to your Wii U. In FileZilla this can be done using the Site Manager, but be sure to replace the IP address with the one shown on your Wii U screen:
-![FileZilla](https://cdn.discordapp.com/attachments/399670410565910529/533075194546356224/1.png)
+1. On your PC run your preferred FTP client and open an FTP connection to your Wii U. In FileZilla this can be done using the Site Manager, but be sure to replace the IP address with the one shown on your Wii U screen:  
+<img src="docs/assets/img/FTP.png" alt="FileZilla">
 1. Navigate to `/storage_mlc/sys`.
 1. Create a folder named `update`.
 1. You are now no longer blocking system updates.

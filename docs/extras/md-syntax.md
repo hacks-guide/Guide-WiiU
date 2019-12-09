@@ -322,16 +322,16 @@ Ciao!
 
 #### ** Rendered **
 
-![alt text](assets/img/theme-dark-content.png)
+![alt text](../../docs/assets/img/theme-dark-content.png)
 
-> ![alt text](assets/img/theme-light-content.png)
+> ![alt text](../../docs/assets/img/theme-light-content.png)
 
 #### ** Markdown **
 
 ```markdown
-![alt text](assets/img/theme-dark-content.png)
+![alt text](../../docs/assets/img/theme-dark-content.png)
 
-> ![alt text](assets/img/theme-light-content.png)
+> ![alt text](../../docs/assets/img/theme-light-content.png)
 ```
 
 <!-- tabs:end -->
@@ -345,23 +345,23 @@ Ciao!
 **Thumbnails (4)**
 
 <figure class="thumbnails">
-    <img src="assets/img/theme-dark-cover.png" alt="alt text" title="title text">
-    <img src="assets/img/theme-dark-content.png" alt="alt text" title="title text">
-    <img src="assets/img/theme-light-cover.png" alt="alt text" title="title text">
-    <img src="assets/img/theme-light-content.png" alt="alt text" title="title text">
+    <img src="docs/assets/img/theme-dark-cover.png" alt="alt text" title="title text">
+    <img src="docs/assets/img/theme-dark-content.png" alt="alt text" title="title text">
+    <img src="docs/assets/img/theme-light-cover.png" alt="alt text" title="title text">
+    <img src="docs/assets/img/theme-light-content.png" alt="alt text" title="title text">
 </figure>
 
 **Thumbnails (2)**
 
 <figure class="thumbnails">
-     <img src="assets/img/theme-light-content.png" alt="alt text" title="title text">
-    <img src="assets/img/theme-dark-content.png" alt="alt text" title="title text">
+     <img src="docs/assets/img/theme-light-content.png" alt="alt text" title="title text">
+    <img src="docs/assets/img/theme-dark-content.png" alt="alt text" title="title text">
 </figure>
 
 **Default image with shadows from thumbnail css**
 
 <figure class="thumbnails">
-     <img src="assets/img/theme-light-content.png" alt="alt text" title="title text">
+     <img src="docs/assets/img/theme-light-content.png" alt="alt text" title="title text">
 </figure>
 
 #### ** Markdown **
@@ -370,23 +370,23 @@ Ciao!
 **Thumbnails (4)**
 
 <figure class="thumbnails">
-    <img src="assets/img/theme-dark-cover.png" alt="alt text" title="title text">
-    <img src="assets/img/theme-dark-content.png" alt="alt text" title="title text">
-    <img src="assets/img/theme-light-cover.png" alt="alt text" title="title text">
-    <img src="assets/img/theme-light-content.png" alt="alt text" title="title text">
+    <img src="docs/assets/img/theme-dark-cover.png" alt="alt text" title="title text">
+    <img src="docs/assets/img/theme-dark-content.png" alt="alt text" title="title text">
+    <img src="docs/assets/img/theme-light-cover.png" alt="alt text" title="title text">
+    <img src="docs/assets/img/theme-light-content.png" alt="alt text" title="title text">
 </figure>
 
 **Thumbnails (2)**
 
 <figure class="thumbnails">
-     <img src="assets/img/theme-light-content.png" alt="alt text" title="title text">
-    <img src="assets/img/theme-dark-content.png" alt="alt text" title="title text">
+     <img src="docs/assets/img/theme-light-content.png" alt="alt text" title="title text">
+    <img src="docs/assets/img/theme-dark-content.png" alt="alt text" title="title text">
 </figure>
 
 **Default image with shadows from thumbnail css**
 
 <figure class="thumbnails">
-     <img src="assets/img/theme-light-content.png" alt="alt text" title="title text">
+     <img src="docs/assets/img/theme-light-content.png" alt="alt text" title="title text">
 </figure>
 ```
 

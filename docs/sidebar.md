@@ -1,0 +1,23 @@
+- **User Guide**
+- [Introduction](docs/user-guide/introduction)
+- [Getting Started](docs/user-guide/getting-started)
+- [SD Preparation](docs/user-guide/sd-preparation)
+- [Browser Exploit](docs/user-guide/browser-exploit)
+- [Making a NAND Backup](docs/user-guide/nand-backup)
+- [Launching CFW](docs/user-guide/launching-cfw)
+- [Install Homebrew Channel](docs/user-guide/installing-hbc)
+- [FAQ](docs/user-guide/faq)
+- **vWii**
+- [vWii Modding](docs/vwii/vwii-modding)
+- [Recovering Mii Channel](docs/vwii/recover-mii-channel)
+- [Recover a Corrupted IOS](docs/vwii/recover-ios)
+- **Extras**
+- [Blocking Updates](docs/extras/block-updates)
+- [Unblocking Updates](docs/extras/unblock-updates)
+- [Dumping Wii U Discs](docs/extras/dump-games)
+- [Changelog](docs/extras/changelog)
+- [MD Syntax](docs/extras/md-syntax)
+- [About](docs/extras/about)
+- **Links**
+- [![Github](https://icongram.jgog.in/simple/github.svg?color=808080&size=16)Github](https://github.com/nh-server/switch-guide)
+- [![Discord](https://icongram.jgog.in/simple/discord.svg?colored&size=16)Discord](https://discord.gg/C29hYvh)

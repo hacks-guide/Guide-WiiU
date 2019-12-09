@@ -19,7 +19,7 @@ Currently two ways exist to block updates on the Wii U system:
 1. Navigate the Homebrew Launcher and run the ftpiiu_everywhere app.
 1. Take note of the IP address on the Wii U screen.
 1. On your PC run your preferred FTP client and open an FTP connection to your Wii U. In FileZilla this can be done using the Site Manager, but be sure to replace the IP address with the one shown on your Wii U screen:  
-![FileZilla](https://cdn.discordapp.com/attachments/399670410565910529/533075194546356224/1.png)
+<img src="docs/assets/img/FTP.png" alt="FileZilla">
 1. Navigate to `/storage_mlc/sys`. You should see an empty folder called `update`.
 1. Right click the folder and delete it.
 1. You are now blocking updates.
@@ -34,7 +34,7 @@ Currently two ways exist to block updates on the Wii U system:
 1. You will be asked to input a primary and secondary DNS. Enter the following IP addresses:
  - Primary DNS: 168.2.235.092.108
  - Secondary DNS: 081.004.127.020
-![DNS Block](https://cdn.discordapp.com/attachments/591032870798229535/650494263322214431/DNS.png)
+<img src="docs/assets/img/DNS.png" alt="DNS Block">
 1. Click on confirm
 1. You are now blocking updates. In order to access the eShop, run the nnupatcher app from the Homebrew Launcher before launching the eShop
 

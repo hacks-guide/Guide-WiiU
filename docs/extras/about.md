@@ -11,7 +11,7 @@ This guide was written by staff members of the [Nintendo Homebrew Discord Server
 ?> [You can find this guide on GitHub](https://github.com/nh-server/switch-guide) It is licensed under the [ISC license.](https://github.com/nh-server/switch-guide/blob/master/LICENSE.md)
 
 <figure class="thumbnails">
-    <img src="assets/img/nh.jpg" alt="Nintendo Homebrew" title="Nintendo Homebrew">
+    <img src="docs/assets/img/nh.jpg" alt="Nintendo Homebrew" title="Nintendo Homebrew">
 </figure>
 
 > **Developer / Tool credits**
