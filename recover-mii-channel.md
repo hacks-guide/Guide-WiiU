@@ -5,16 +5,14 @@ This page will guide you through the process of restoring your Mii Channel to a 
 ### What You Need
 
 > - A working [Homebrew installation](introduction) on Wii U side
-> - This release of [FTPiiU Everywhere](http://wiiubru.com/appstore/#/app/fpiiu-cbhc)
-> - The latest release of [Python](https://www.python.org/downloads/)
+> - This release of [FTPiiU Everywhere](http://wiiubru.com/appstore/zips/fpiiu-cbhc.zip)
 > - An FTP client such as [FileZilla](https://filezilla-project.org/download.php?type=client)
-> - <a href="../files/overwrite-wiiu-titlehash.py" download>This Python script</a>
+> - <a href="../files/overwrite-wiiu-titlehash.exe" download>overwrite-wiiu-titlehash.exe</a>
 
 ### Instructions
 
 > 1. Extract the `fpiiu-cbhc.zip` file to the root of your SD Card
 > 1. Install FileZilla on your computer
-> 1. Install Python on your computer
 
 ### Recovering The Channel
 
@@ -26,7 +24,7 @@ This page will guide you through the process of restoring your Mii Channel to a 
 > 1. In FileZilla, type in the IP address displayed by your Wii U in the `Host` field at the top of the window and click on `Quickconnect`
 > 1. Navigate to `/slccmpt01/title/00010002`
 > 1. Delete the `48414341` folder
-> 1. On your computer, double click the previously downloaded `.py` file
+> 1. Launch the previously downloaded `overwrite-wiiu-titlehash.exe` file
 > 1. Type in your Wii U's IP address and press Enter
 > 1. Wait for it to finish what it's doing
 >  - If an `err.log` file has been generated, please visit us in **#wiiu-assistance** on [Nintendo Homebrew Discord](https://discord.gg/C29hYvh)

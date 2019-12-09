@@ -7,16 +7,14 @@ This page will guide you through the process of recovering a corrupted IOS on yo
 ### What You Need
 
 > - A working [Homebrew installation](introduction) on Wii U side
-> - This release of [FTPiiU Everywhere](http://wiiubru.com/appstore/#/app/fpiiu-cbhc)
-> - The latest release of [Python](https://www.python.org/downloads/)
+> - This release of [FTPiiU Everywhere](http://wiiubru.com/appstore/zips/fpiiu-cbhc.zip)
 > - An FTP client such as [FileZilla](https://filezilla-project.org/download.php?type=client)
-> - <a href="../files/overwrite-wiiu-titlehash.py" download>This Python script</a>
+> - <a href="../files/overwrite-wiiu-titlehash.exe" download>overwrite-wiiu-titlehash.exe</a>
 
 ### Instructions
 
 > 1. Extract the `fpiiu-cbhc.zip` file to the root of your SD Card
 > 1. Install FileZilla on your computer
-> 1. Install Python on your computer
 
 <!-- tabs:start -->
 
@@ -32,7 +30,7 @@ This page will guide you through the process of recovering a corrupted IOS on yo
 1. Delete the `00000050` folder
 1. Navigate to `/slccmpt01/ticket/00000001`
 1. Delete the `00000050.tik` file
-1. On your computer, double click the previously downloaded `.py` file
+1. Launch the previously downloaded `overwrite-wiiu-titlehash.exe` file
 1. Type in your Wii U's IP address and press Enter
 1. Wait for it to finish what it's doing
   - If an `err.log` file has been generated, please visit us in **#wiiu-assistance** on [Nintendo Homebrew Discord](https://discord.gg/C29hYvh)
@@ -58,7 +56,7 @@ This page will guide you through the process of recovering a corrupted IOS on yo
 1. Delete the corresponding folder of the IOS you want to recover
 1. Navigate to `/slccmpt01/ticket/00000001`
 1. Delete the corresponding `.tik` file of the IOS you want to recover
-1. Double click the previously downloaded `.py` file
+1. Launch the previously downloaded `overwrite-wiiu-titlehash.exe` file
 1. Type in your Wii U's IP address and press Enter
 1. Wait for it to finish what it's doing
  - If an `err.log` file has been generated, please visit us in **#wiiu-assistance** on [Nintendo Homebrew Discord](https://discord.gg/C29hYvh)
