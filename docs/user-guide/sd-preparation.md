@@ -21,7 +21,7 @@ We will now place the required CFW files and some additional homebrew files on t
   - You will need to download the `channel.zip` file.
 - The latest release of [Wii U NAND Dumper](https://github.com/koolkdev/wiiu-nanddumper/releases/latest)
 - The latest release of the [Homebrew App Store](https://github.com/vgmoose/hbas/releases/latest)
-  - You will need to download the `wiiu-exracttosd.zip` file.
+  - You will need to download the `wiiu-extracttosd.zip` file.
 - The latest release of [Haxchi](https://github.com/FIX94/haxchi/releases/latest)
   - Download only the Haxchi .zip file.
 
@@ -37,7 +37,7 @@ We will now place the required CFW files and some additional homebrew files on t
   - You will need to download the `channel.zip` file.
 - The latest release of [Wii U NAND Dumper](https://github.com/koolkdev/wiiu-nanddumper/releases/latest)
 - The latest release of the [Homebrew App Store](https://github.com/vgmoose/hbas/releases/latest)
-  - You will need to download the `wiiu-exracttosd.zip` file.
+  - You will need to download the `wiiu-extracttosd.zip` file.
 - The latest release of [Haxchi and CBHC](https://github.com/FIX94/haxchi/releases/latest)
   - Download both the Haxchi and CBHC .zip files.
 
@@ -51,7 +51,7 @@ We will now place the required CFW files and some additional homebrew files on t
 - The latest release of [WUP Installer GX2](http://wiiubru.com/appstore/zips/wup_installer_gx2.zip)
 - The latest release of [Wii U NAND Dumper](https://github.com/koolkdev/wiiu-nanddumper/releases/latest)
 - The latest release of the [Homebrew App Store](https://github.com/vgmoose/hbas/releases/latest)
-  - You will need to download the `wiiu-exracttosd.zip` file.
+  - You will need to download the `wiiu-extracttosd.zip` file.
 - The latest release of [Mocha](https://www.wiiubru.com/appstore/zips/mocha.zip)
 
 <!-- tabs:end -->
