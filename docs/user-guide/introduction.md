@@ -7,7 +7,7 @@ For live support with this guide please visit us in **#wiiu-assistance** on the 
 
 ### Homebrew
 
-> Homebrew applications are custom, user-made software, which haven’t been authorised by Nintendo. This can include save editing tools, games, emulators, and more.
+> Homebrew applications are custom, user-made software, which haven’t been authorized by Nintendo. This can include save editing tools, games, emulators, and more.
 >
 > Homebrew can be run on your Wii U as long as you have a way to put files on an SD Card and your Wii U is updated to the latest version for your region.
 
@@ -19,7 +19,7 @@ For live support with this guide please visit us in **#wiiu-assistance** on the 
 ### Uses of Homebrew and CFW
 > Among other things, it allows you to do the following:
 > * Use “ROM hacks” for games that you own
-> * Backup, edit, and restore saves for many games
+> * Backup, edit and restore saves for many games
 > * Play games for older systems with various emulators, using RetroArch or other standalone emulators
 > * Play out-of-region games
 > * Dump your Wii U game discs to a format that can be installed on your internal or external Wii U storage drive.
@@ -47,6 +47,6 @@ If everything goes according to plan, you will lose no data and end up with ever
 
 Keep your device plugged in throughout the entire process to avoid data loss or damage from an unexpected power-off.
 
-Custom Firmware is not permanent with current methods, and will be unloaded upon rebooting the system.
+Custom Firmware is not permanent with current methods and will be unloaded upon rebooting the system.
 
 It is advised that you read the entire guide from start to finish one or more times before actually running through the guide with your system.

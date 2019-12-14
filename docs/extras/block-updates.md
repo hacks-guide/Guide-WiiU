@@ -1,10 +1,10 @@
 # Blocking Updates
 
-All currently known Wii U exploits can, unlike e.g. the Nintendo Switch RCM exploit, be patched by a system update. Although the Wii U is no longer officially supported, Nintendo may still release updates for it. Namely the updates 5.5.3 and 5.5.4 were both released after the Wii U was discontinued, so blocking updates is still a recommended action.
+All currently known Wii U exploits can, unlike e.g. the Nintendo Switch RCM exploit, be patched by a system update. Although the Wii U is no longer officially supported, Nintendo may still release updates for it. Namely, the updates 5.5.3 and 5.5.4 were both released after the Wii U was discontinued, so blocking updates is still a recommended action.
 
 ### Instructions
 
-Currently two ways exist to block updates on the Wii U system:
+Currently, two ways exist to block updates on the Wii U system:
 <!-- tabs:start -->
 
 #### **Deleting The Update Folder**
@@ -15,13 +15,13 @@ Currently two ways exist to block updates on the Wii U system:
 1. Download and extract [ftpiiu_everywhere](http://wiiubru.com/appstore/zips/fpiiu-cbhc.zip) to the root of your SD Card.
 1. Download an FTP client of your choice such as [FileZilla](https://filezilla-project.org/download.php).
 1. Plug the SD Card into your Wii U console and power it on.
-1. Launch the CFW of your choice (mocha, haxchi/cbhc) and enter the Homebrew Launcher.
+1. Launch the CFW of your choice (Mocha, Haxchi/CBHC) and enter the Homebrew Launcher.
 1. Navigate the Homebrew Launcher and run the ftpiiu_everywhere app.
 1. Take note of the IP address on the Wii U screen.
-1. On your PC run your preferred FTP client and open an FTP connection to your Wii U. In FileZilla this can be done using the Site Manager, but be sure to replace the IP address with the one shown on your Wii U screen:  
+1. On your PC run your preferred FTP client and open an FTP connection to your Wii U. In FileZilla, this can be done using the Site Manager, but be sure to replace the IP address with the one shown on your Wii U screen:  
 <img src="docs/assets/img/FTP.png" alt="FileZilla">
 1. Navigate to `/storage_mlc/sys`. You should see an empty folder called `update`.
-1. Right click the folder and delete it.
+1. Right-click the folder and delete it.
 1. You are now blocking updates.
 
 ### **DNS Blocking**

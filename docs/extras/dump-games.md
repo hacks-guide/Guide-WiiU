@@ -1,6 +1,6 @@
 # Dumping Wii U Discs
 
-Dumping your Discs allows you to install a copy of your game to the system NAND/an USB device so you can play it without needing the disc.
+Dumping your Discs allows you to install a copy of your game to the system NAND/a USB device so you can play it without needing the disc.
 
 ?> Dumping and installing games requires a working Homebrew setup, so make sure to finish the main guide on installing CFW first before following this.
 
@@ -36,13 +36,13 @@ Dumping your Discs allows you to install a copy of your game to the system NAND/
 
 #### **Install To USB**
 
-?> When installing a game to an USB device, we recommend that you use an HDD and not a flash drive, as those are not optimized for constant reading and writing, therefore making them fail quickly. If your HDD is not externally powered, you will need an Y-cable to connect it to two USB slots on the Wii U.
+?> When installing a game to a USB device, we recommend that you use an HDD and not a flash drive, as those are not optimized for constant reading and writing, therefore making them fail quickly. If your HDD is not externally powered, you will need a Y-cable to connect it to two USB slots on the Wii U.
 
-!> In order to install to an USB device, it has to be formatted by the Wii U. Doing this will erase all contents of it, and prevent it from being used on another system unless you re-format it.
+!> In order to install to a USB device, it has to be formatted by the Wii U. Doing this will erase all contents of it, and prevent it from being used on another system unless you reformat it.
 
 ### What You Need
 - Your SD Card needs to have enough space to fit the game you want to dump.
-- An USB HDD (+ a Y-cable if needed)
+- A USB HDD (+ a Y-cable if needed)
 - The [disc2app](http://www.wiiubru.com/appstore/zips/disc2app.zip) Homebrew app
 
 ### Instructions
@@ -76,10 +76,10 @@ Dumping your Discs allows you to install a copy of your game to the system NAND/
 
 #### **Install From USB**
 
-?> If you do not have enough space on your SD Card, you can use an advanced technique to install dumps from an USB device. This is not the easiest thing to do, and has the disadvantage of only being able to install the game onto your system memory (NAND).
+?> If you do not have enough space on your SD Card, you can use an advanced technique to install dumps from a USB device. This is not the easiest thing to do and has the disadvantage of only being able to install the game onto your system memory (NAND).
 
 ### What You Need
- - An USB storage device (+a Y-cable if needed) with enough space to fit the game you want to dump.
+ - A USB storage device (+a Y-cable if needed) with enough space to fit the game you want to dump.
  - The [disc2app](http://www.wiiubru.com/appstore/zips/disc2app.zip) Homebrew app.
  - The [MochaFAT32](https://www.wiiubru.com/appstore/zips/mocha_fat32.zip) Homebrew app.
  - The  1.4 release of [The Homebrew Launcher](https://github.com/dimok789/homebrew_launcher/releases/tag/1.4)
@@ -119,9 +119,9 @@ Dumping your Discs allows you to install a copy of your game to the system NAND/
 
 ### Moving The Game To USB
 
-?> If you don't want to keep the game installed on NAND, you can use the Wii U's data management to move the game to an USB device.
+?> If you don't want to keep the game installed on NAND, you can use the Wii U's data management to move the game to a USB device.
 
-!> In order to move your game to an USB device, it has to be formatted by the Wii U. Doing this will erase all contents of it, and prevent it from being used on another system unless you re-format it.
+!> In order to move your game to a USB device, it has to be formatted by the Wii U. Doing this will erase all contents of it, and prevent it from being used on another system unless you reformat it.
 
 1. Reboot your Wii U to remove the effect of MochaFAT32.
 1. Plug your USB device into the Wii U.

@@ -64,7 +64,7 @@ We will now place the required CFW files and some additional homebrew files on t
 #### **Haxchi**
 
 ?> **Notice**
-    The info.json and manifest.install files are not needed for the modding proccess and therefore can be deleted.
+    The info.json and manifest.install files are not needed for the modding process and therefore can be deleted.
 1. Insert your Wii U's SD card into your PC
 1. Create a folder called `install` on the root of your SD Card
 1. Create a folder called `hbc` in the `install` folder you created
@@ -80,7 +80,7 @@ We will now place the required CFW files and some additional homebrew files on t
 #### **CBHC**
 
 ?> **Notice**
-    The info.json and manifest.install files are not needed for the modding proccess and therefore can be deleted.
+    The info.json and manifest.install files are not needed for the modding process and therefore can be deleted.
 1. Insert your Wii U's SD Card into your PC
 1. Create a folder called `install` on the root of your SD Card
 1. Create a folder called `hbc` in the `install` folder you created
@@ -97,7 +97,7 @@ We will now place the required CFW files and some additional homebrew files on t
 #### **Mocha**
 
 ?> **Notice**
-    The info.json and manifest.install files are not needed for the modding proccess and therefore can be deleted.
+    The info.json and manifest.install files are not needed for the modding process and therefore can be deleted.
 1. Insert your Wii U's SD Card into your PC
 1. Extract the `wup_installer_gx2.zip` file to the root of your SD Card
 1. Extract the `nanddumper.zip` file to the root of your SD Card

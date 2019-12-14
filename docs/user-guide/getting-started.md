@@ -7,7 +7,7 @@
 The first thing to decide is what CFW you want to use.
 
 There are two main CFWs: Haxchi/ColdBootHaxchi (CBHC) and Mocha.<br>
-The table below lists advantages and disadvantages of each option.
+The table below lists the advantages and disadvantages of each option.
 
 <!-- tabs:start -->
 
@@ -15,7 +15,7 @@ The table below lists advantages and disadvantages of each option.
 - Requires a legitimately installed paid DS VC game from the eShop.
 - Can be used to launch CFW directly from the Wii U Menu.
 - Needs to be re-launched from the Wii U Menu every reboot to enable CFW.
-- It's functionality can be extended by installing ColdBootHaxchi (CBHC) to a Haxchi installation.
+- Its functionality can be extended by installing ColdBootHaxchi (CBHC) to a Haxchi installation.
 
 #### **CBHC**
 !> Installing CBHC incorrectly can brick your Wii U. Make sure to follow the following rules when installing CBHC:<br>- The DS game has to be legitimately installed from the eShop<br>- Don't format the system while CBHC is installed<br>- Don't delete the user account that bought the DS VC game<br>- Don't re-install the same game using WUP Installer or from the eShop<br>- Don't install Haxchi over CBHC
@@ -59,4 +59,4 @@ The following games are compatible with Haxchi:
 - Yoshi’s Island DS
 - Yoshi’s Touch & Go
 
-Currently Brain Age is the cheapest title for 6.99 USD.  
+Currently, Brain Age is the cheapest title for 6.99 USD.  

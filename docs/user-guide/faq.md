@@ -6,9 +6,9 @@
 
 ### What is Haxchi, and do I need it?
 
-> Haxchi is a secondary entrypoint which uses certain DS Virtual Console titles to allow for access to homebrew while being completely offline (still works with online but no connection required to launch CFW)
+> Haxchi is a secondary entry point which uses certain DS Virtual Console titles to allow for access to homebrew while being completely offline (still works with online but no connection required to launch CFW)
 >
-> Haxchi is not required, however if you want to use homebrew on your Wii U while offline you will need it. It’s highly recommended as it’s more stable than the browser entry point, especially on the newest firmware.
+> Haxchi is not required, however, if you want to use homebrew on your Wii U while offline you will need it. It’s highly recommended as it’s more stable than the browser entry point, especially on the newest firmware.
 >
 > The cheapest DS VC games usable for  this exploit:
 Dr. Kawashima's Brain Training [PAL]\
@@ -30,13 +30,13 @@ Running game mods - 8 GB  (FAT32 USB drive may be used as well for mods)\
 Only running homebrew apps - Any size
 >
 > Brands - SanDisk, Samsung or PNY\
-Note: Avoid class 4 SD Cards, and avoid Ebay
+Note: Avoid class 4 SD Cards, and avoid eBay
 
 ### Haxchi common errors
 
 > -3: No SD Card detected. Re-insert the SD Card and try again. Make sure the SD Card is in FAT32 format. If the error persists, try blowing into the SD slot as it can get dusty inside.
 >
-> -4: SD detected but could not mount. Check to see if the SD is using MBR and not GPT. Also check to see if there are any other partitions on the SD Card and merge them into one primary partition.
+> -4: SD detected but could not mount. Check to see if the SD is using MBR and not GPT. Also, check to see if there are any other partitions on the SD Card and merge them into one primary partition.
 >
 > -5: Missing files on the SD. Check to see if your SD has Homebrew Launcher located in /wiiu/apps/homebrew_launcher/&zwnj;homebrew_launcher.elf
 
@@ -55,9 +55,9 @@ If it ever stays stuck on deleting the data in an infinite loop, you can manuall
 
 ### Can I install homebrew on Wii U with a USB instead of SD Card?
 
-> No, you must have an SD Card for a first time setup, a usb can then be used to install game backups, vc injects, etc, but not to store Homebrew Apps which are required to set everything up
+> No, you must have an SD Card for a first time setup, a USB can then be used to install game backups, vc injects, etc, but not to store Homebrew Apps which are required to set everything up
 
-### My HDD doesn't work or makes a weird clicking-sound, what should I do?
+### My HDD doesn't work or makes a weird clicking sound, what should I do?
 
 > The reason behind that is that the Wii U doesn't give enough power through one USB port to use the Hard Drive.
 >
@@ -67,4 +67,4 @@ If it ever stays stuck on deleting the data in an infinite loop, you can manuall
 
 ### When extracting some of the files there are duplicates of certain ones called "info.json" & "manifest.install", what do I do with those?
 
-> Nothing special, you can leave them there, delete them or replace them with new ones, those files are not used in the process therefore won't have any impact by being or not being there
+> Nothing special, you can leave them there, delete them or replace them with new ones. Those files are not used in the process, therefore, won't have any impact by being or not being there
