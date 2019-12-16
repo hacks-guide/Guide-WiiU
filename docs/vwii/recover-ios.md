@@ -42,11 +42,15 @@ This page will guide you through the process of recovering a corrupted IOS on yo
 
 <!-- tabs:end -->
 
+### Recovering the IOS
+
+!> **Do not** attempt to delete multiple IOSes at a time.
+
+!> If you are using a system update blocking method, please [remove it](docs/extras/unblock-updates).
+
 <!-- tabs:start -->
 
 #### **Windows**
-
-!> If you are using a system update blocking method, please [remove it](docs/extras/unblock-updates).
 
 1. Power on your Wii U and launch the CFW of your choice (Mocha, Haxchi or CBHC)
 1. Launch the Homebrew Launcher
@@ -69,10 +73,6 @@ This page will guide you through the process of recovering a corrupted IOS on yo
 ?> You can now re-enable your [system update blocking method](docs/extras/block-updates).
 
 ### **macOS & Linux**
-
-!> **Do not** attempt to delete multiple IOSes at a time.
-
-!> If you are using a system update blocking method, please [remove it](docs/extras/unblock-updates).
 
 1. Power on your Wii U and launch the CFW of your choice (Mocha, Haxchi or CBHC)
 1. Launch the Homebrew Launcher
