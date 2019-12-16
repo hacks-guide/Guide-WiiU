@@ -2,6 +2,8 @@
 
 This page will guide you through the process of restoring your Mii Channel to a working state.
 
+!> Do not use this method for anything else than [Recovering a Corrupted IOS](docs/vwii/recover-ios) or the following page.
+
 ### What You Need
 
 <!-- tabs:start -->

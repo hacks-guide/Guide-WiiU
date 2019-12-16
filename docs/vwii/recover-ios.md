@@ -2,7 +2,7 @@
 
 This page will guide you through the process of recovering a corrupted IOS on your vWii.
 
-!> Do not use this method for anything else than [recovering your Mii Channel](docs/vwii/recover-mii-channel) or the following page.
+!> Do not use this method for anything else than [Recovering your Mii Channel](docs/vwii/recover-mii-channel) or the following page.
 
 ### What You Need
 
