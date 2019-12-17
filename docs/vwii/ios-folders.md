@@ -1,6 +1,6 @@
 # IOS Folders and Paths
 
-?> This page is primarily meant to be used with [Recover a Corrupted IOS](docs/vwii/recover-ios)
+?> This page is primarily meant to be used with [Recover a Corrupted IOS](vwii/recover-ios)
 
 ?> IOS folders are located in /slccmpt01/title/00000001
 

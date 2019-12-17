@@ -28,7 +28,7 @@ We will now place the required Homebrew files on the SD Card.
 
 ### Wuphax
 
-> 1. Launch the [Homebrew Launcher](docs/user-guide/browser-exploit)
+> 1. Launch the [Homebrew Launcher](user-guide/browser-exploit)
 > 1. Launch Wuphax
 > 1. Press `A` to backup the Mii Channel and inject the Hackmii Installer
 > 1. You will be taken back to the Wii U Menu after a few seconds
@@ -39,10 +39,10 @@ We will now place the required Homebrew files on the SD Card.
 > 1. Select `continue`, `Install The Homebrew Channel` and `Yes, continue`
 > 1. If The Homebrew Channel has successfully been installed, select `continue` and then `exit`
 > 1. Launch the Wii U Menu channel to return to the Wii U Menu
-> 1. Launch the [Homebrew Launcher](docs/user-guide/browser-exploit)
+> 1. Launch the [Homebrew Launcher](user-guide/browser-exploit)
 > 1. Launch Wuphax
 > 1. Press `B` to restore the Mii Channel
->  - If for some reason, you cannot restore your backup, you will need to [reinstall your Mii Channel](docs/vwii/recover-mii-channel)
+>  - If for some reason, you cannot restore your backup, you will need to [reinstall your Mii Channel](vwii/recover-mii-channel)
 
 ### NAND Backup
 
@@ -86,7 +86,7 @@ In case anything goes wrong in the later process and your vWii ends up bricked, 
 
 ### Patching IOS 80
 
-!> If for any reason, the Wii U is turned off while patching IOS 80, your vWii will be bricked. This can be fixed by either extracting the IOS 80 from your previously made NAND backup and then replacing it over FTP or by [reinstalling IOS 80](docs/vwii/recover-ios)
+!> If for any reason, the Wii U is turned off while patching IOS 80, your vWii will be bricked. This can be fixed by either extracting the IOS 80 from your previously made NAND backup and then replacing it over FTP or by [reinstalling IOS 80](vwii/recover-ios)
 
 > 1. Launch Patched IOS 80 Installer for vWii
 > 1. Read the warning screen and wait 30 seconds

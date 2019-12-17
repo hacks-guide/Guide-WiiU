@@ -2,7 +2,7 @@
 
 This page will guide you through the process of restoring your Mii Channel to a working state.
 
-!> Do not use this method for anything else than [Recovering a Corrupted IOS](docs/vwii/recover-ios) or the following page.
+!> Do not use this method for anything else than [Recovering a Corrupted IOS](vwii/recover-ios) or the following page.
 
 ### What You Need
 
@@ -10,14 +10,14 @@ This page will guide you through the process of restoring your Mii Channel to a 
 
 #### **Windows**
 
-- A working [Homebrew installation](docs/user-guide/introduction) on Wii U side
+- A working [Homebrew installation](user-guide/introduction) on Wii U side
 - This release of [FTPiiU Everywhere](http://wiiubru.com/appstore/zips/fpiiu-cbhc.zip)
 - An FTP client such as [FileZilla](https://filezilla-project.org/download.php?type=client)
 - <a href="docs/files/overwrite-wiiu-titlehash.exe" download>overwrite-wiiu-titlehash.exe</a>
 
 #### **macOS & Linux**
 
-- A working [Homebrew installation](docs/user-guide/introduction) on Wii U side
+- A working [Homebrew installation](user-guide/introduction) on Wii U side
 - This release of [FTPiiU Everywhere](http://wiiubru.com/appstore/zips/fpiiu-cbhc.zip)
 - The latest release of [Python](https://www.python.org/downloads/)
 - An FTP client such as [FileZilla](https://filezilla-project.org/download.php?type=client)
@@ -44,7 +44,7 @@ This page will guide you through the process of restoring your Mii Channel to a 
 
 ### Recovering The Channel
 
-!> If you are using a system update blocking method, please [remove it](docs/extras/unblock-updates).
+!> If you are using a system update blocking method, please [remove it](extras/unblock-updates).
 
 <!-- tabs:start -->
 
@@ -88,4 +88,4 @@ This page will guide you through the process of restoring your Mii Channel to a 
 
 You should now have a working Mii Channel.
 
-?> You can now re-enable your [system update blocking method](docs/extras/block-updates).
+?> You can now re-enable your [system update blocking method](extras/block-updates).
