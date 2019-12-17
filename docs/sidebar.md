@@ -15,8 +15,6 @@
 - [Blocking Updates](docs/extras/block-updates)
 - [Unblocking Updates](docs/extras/unblock-updates)
 - [Dumping Wii U Discs](docs/extras/dump-games)
-- [Changelog](docs/extras/changelog)
-- [MD Syntax](docs/extras/md-syntax)
 - [About](docs/extras/about)
 - **Links**
 - [![Github](https://icongram.jgog.in/simple/github.svg?color=808080&size=16)Github](https://github.com//huhenU/WiiUGuide)
