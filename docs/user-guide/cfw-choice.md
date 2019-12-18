@@ -5,6 +5,7 @@
 There are two main CFWs: Haxchi/ColdBootHaxchi (CBHC) and Mocha.
 
 ## **Haxchi**
+
 - Requires a legitimately installed paid DS VC game from the eShop.
 - Can be used to launch CFW directly from the Wii U Menu.
 - Needs to be re-launched from the Wii U Menu every reboot to enable CFW.
@@ -13,6 +14,7 @@ There are two main CFWs: Haxchi/ColdBootHaxchi (CBHC) and Mocha.
 ### [**Continue with Haxchi**](user-guide/haxchi/sd-preparation) {docsify-ignore}
 
 ## **CBHC**
+
 !> Installing CBHC incorrectly can brick your Wii U. Make sure to follow the following rules when installing CBHC:
 <br>- The DS game has to be legitimately installed from the eShop
 <br>- Don't format the system while CBHC is installed
@@ -27,7 +29,9 @@ There are two main CFWs: Haxchi/ColdBootHaxchi (CBHC) and Mocha.
 ### [**Continue with CBHC**](user-guide/cbhc/sd-preparation) {docsify-ignore}
 
 ## **Mocha**
+
 - Does not require any game, and is therefore free.
 - Needs to be re-launched through the browser exploit every reboot to enable CFW.
+- Is not compatible with the Homebrew Launcher Channel
 
 ### [**Continue with Mocha**](user-guide/mocha/sd-preparation) {docsify-ignore}
