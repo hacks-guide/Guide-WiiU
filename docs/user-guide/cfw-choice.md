@@ -32,6 +32,6 @@ There are two main CFWs: Haxchi/ColdBootHaxchi (CBHC) and Mocha.
 
 - Does not require any game, and is therefore free.
 - Needs to be re-launched through the browser exploit every reboot to enable CFW.
-- Is not compatible with the Homebrew Launcher Channel
+- Is not compatible with the Homebrew Launcher Channel.
 
 ### [**Continue with Mocha**](user-guide/mocha/sd-preparation) {docsify-ignore}
