@@ -1,0 +1,8 @@
+- **Navigation**
+- [Return To Home Screen](user-guide/introduction)
+- [Return To vWii Modding](vwii/vwii-modding)
+- [Browser Exploit](user-guide/vwii/browser-exploit)
+- **Links**
+- [![GitHub](https://icongram.jgog.in/simple/github.svg?color=808080&size=16)GitHub](https://github.com//huhenU/WiiUGuide)
+- [![Discord](https://icongram.jgog.in/simple/discord.svg?colored&size=16)Discord](https://discord.gg/C29hYvh)
+- [About](extras/about)

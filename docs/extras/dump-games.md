@@ -13,6 +13,7 @@ Dumping your Discs allows you to install a copy of your game to the system NAND/
 ?> Installing a game to the system memory (NAND) is not recommended as it's limited to either 8 or 32GB depending on your model, making you run out of space pretty quickly if you want to install multiple games.  
 
 ### What You need
+
 - Your SD Card needs to have enough space to fit the game you want to dump.
 - The [disc2app](http://www.wiiubru.com/appstore/zips/disc2app.zip) Homebrew app
 
@@ -41,6 +42,7 @@ Dumping your Discs allows you to install a copy of your game to the system NAND/
 !> In order to install to a USB device, it has to be formatted by the Wii U. Doing this will erase all contents of it, and prevent it from being used on another system unless you reformat it.
 
 ### What You Need
+
 - Your SD Card needs to have enough space to fit the game you want to dump.
 - A USB HDD (+ a Y-cable if needed)
 - The [disc2app](http://www.wiiubru.com/appstore/zips/disc2app.zip) Homebrew app

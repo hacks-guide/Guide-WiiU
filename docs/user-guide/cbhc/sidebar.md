@@ -1,0 +1,14 @@
+- **Navigation**
+- [Return To Home Page](user-guide/introduction)
+- [Return to Choose Your CFW](user-guide/cfw-choice)
+- **CBHC**
+- [SD Preparation](user-guide/cbhc/sd-preparation)
+- [Browser Exploit](user-guide/cbhc/browser-exploit)
+- [Making a NAND Backup](user-guide/cbhc/nand-backup)
+- [Launching CFW](user-guide/cbhc/launching-cfw)
+- [Install Homebrew Channel](user-guide/cbhc/installing-hbc)
+- [Return To Home Page](user-guide/introduction)
+- **Links**
+- [![Github](https://icongram.jgog.in/simple/github.svg?color=808080&size=16)Github](https://github.com//huhenU/WiiUGuide)
+- [![Discord](https://icongram.jgog.in/simple/discord.svg?colored&size=16)Discord](https://discord.gg/C29hYvh)
+- [About](extras/about)

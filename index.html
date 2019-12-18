@@ -26,12 +26,16 @@
             // GENERAL
             // -----------------------------------------------------------------
             name       : 'NH Wii U Guide',
+            coverpage  : 'coverpage.md',
             logo       : 'assets/img/logo.png',
-            homepage   : 'user-guide/introduction.md',
             loadNavbar : 'navbar.md',
             mergeNavbar: false,
             loadSidebar: 'sidebar.md',
             basePath   : 'docs/',
+            onlyCover  : true,
+            alias      : {
+                '/' : 'coverpage.md'
+            },
 
             // NAVIGATION
             // -----------------------------------------------------------------
@@ -52,8 +56,8 @@
                 responsiveTables: true
             },
             tabs: {
-            persist    : true,
-            sync       : true
+                persist    : true,
+                sync       : true
             }
         };
     </script>
