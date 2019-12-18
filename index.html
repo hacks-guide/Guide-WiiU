@@ -61,6 +61,36 @@
             }
         };
     </script>
+    <script type="text/javascript">
+        window.addEventListener("load", function() {
+        window.cookieconsent.initialise({
+            onInitialise: function(status) {
+                if (this.hasConsented('required')) {
+                }
+                if (this.hasConsented('analytics')) {
+                }
+                if (this.hasConsented('marketing')) {
+                }
+            },
+            onAllow: function(category) {
+                if (category == 'required') {
+                }
+                if (category == 'analytics') {
+                }
+                if (category == 'marketing') {
+                }
+            },
+            onRevoke: function(category) {
+                if (category == 'required') {
+                }
+                if (category == 'analytics') {
+                }
+                if (category == 'marketing') {
+                }
+            }
+        })
+        });
+    </script>
     <script src="docs/assets/js/main.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/docsify@4"></script>
     <script src="https://cdn.jsdelivr.net/npm/docsify-themeable@0"></script>
@@ -71,5 +101,6 @@
     <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/zoom-image.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-bash.min.js"></script>
+    <script src="https://cookiehub.net/cc/1962ca55.js"></script>
 </body>
 </html>
