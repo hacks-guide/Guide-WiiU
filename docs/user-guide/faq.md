@@ -21,7 +21,7 @@ Kawashima: Motto Nou wo Kitaeru Otona no DS Training [JPN]
 
 ### How to Delete Update Folder to Block Updates on Wii U
 
-> If you want to delete the update folder to block updates, see it's tab in the [Blocking Updates guide](extras/block-updates)
+> If you want to delete the update folder to block updates, see its tab in the [Blocking Updates guide](extras/block-updates)
 
 ### What SD Card size is recommended?
 
