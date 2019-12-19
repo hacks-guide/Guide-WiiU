@@ -16,7 +16,7 @@ For live support with this guide please visit us in **#wiiu-assistance** on the 
 > Custom Firmware (“CFW”) enables you to use more advanced hacks that userland homebrew can’t easily do. For instance, installing game modifications with ease.
 > CFW can be set up on any console on the latest version.
 
-### Homebrew Uses
+### Homebrew & CFW Uses
 > Among other things, it allows you to do the following:
 > * Use “ROM hacks” for games that you own
 > * Backup, edit and restore saves for many games
