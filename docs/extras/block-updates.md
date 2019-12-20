@@ -18,8 +18,8 @@ Currently, two ways exist to block updates on the Wii U system:
 1. Launch the CFW of your choice (Mocha, Haxchi/CBHC) and enter the Homebrew Launcher.
 1. Navigate the Homebrew Launcher and run the ftpiiu_everywhere app.
 1. Take note of the IP address on the Wii U screen.
-1. On your PC run your preferred FTP client and open an FTP connection to your Wii U. In FileZilla, this can be done using the Site Manager, but be sure to replace the IP address with the one shown on your Wii U screen:  
-<img src="docs/assets/img/FTP.png" alt="FileZilla">
+1. On your PC run your preferred FTP client and open an FTP connection to your Wii U. In FileZilla, this can be done using the Site Manager, but be sure to replace the IP address with the one shown on your Wii U screen:
+<br><img src="docs/assets/img/FTP.png" alt="FileZilla">
 1. Navigate to `/storage_mlc/sys`. You should see an empty folder called `update`.
 1. Right-click the folder and delete it.
 1. You are now blocking updates.
