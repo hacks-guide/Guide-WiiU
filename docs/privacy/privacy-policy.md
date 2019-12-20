@@ -80,7 +80,7 @@ More specifically, we may need to process your data or share your personal infor
 
  - Business Transfers. We may share or transfer your information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company.
 
- - Third-Party Advertisers. We may use third-party advertising companies to serve ads when you visit the Sites. These companies may use information about your visits to our Website(s) and other websites that are contained in web cookies and other tracking technologies in order to provide advertisements about goods and services of interest to you.
+ - Third-Party Advertisers. We do not use third-party advertising companies to serve ads when you visit the Sites.
 
 ### 3. WHO WILL YOUR INFORMATION BE SHARED WITH?
 
@@ -92,10 +92,9 @@ We only share and disclose your information with the following third parties. We
  <br>[GitHub Pages](https://help.github.com/en/github/site-policy/github-privacy-statement)
 
 ### 4. DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?
-***In Short:*** *We may use cookies and other tracking technologies to collect and store your information.*
+***In Short:*** *We do not use cookies and other tracking technologies to collect and store your information.*
 
-We may use cookies and similar tracking technologies (like web beacons and pixels) to access or store information. Specific information about how we use such technologies and how you can refuse certain cookies is set out in our Cookie Policy.
-
+We do not use cookies and similar tracking technologies (like web beacons and pixels) to access or store information.
 
 
 ### 5. HOW LONG DO WE KEEP YOUR INFORMATION?
@@ -133,8 +132,6 @@ In some regions (like the European Economic Area), you have certain rights under
 If we are relying on your consent to process your personal information, you have the right to withdraw your consent at any time. Please note however that this will not affect the lawfulness of the processing before its withdrawal.
 
 If you are resident in the European Economic Area and you believe we are unlawfully processing your personal information, you also have the right to complain to your local data protection supervisory authority. You can find their contact details here: http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm
-
-**<u>Cookies and similar technologies:</u>**  Most Web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove cookies and to reject cookies. If you choose to remove cookies or reject cookies, this could affect certain features or services of our Sites. To opt-out of interest-based advertising by advertisers on our Sites visit http://www.aboutads.info/choices/.
 
 ### 9. CONTROLS FOR DO-NOT-TRACK FEATURES
 
