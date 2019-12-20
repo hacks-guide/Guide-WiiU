@@ -17,4 +17,3 @@
 - [About](extras/about)
 - **Privacy**
 - [Privacy Policy](privacy/privacy-policy)
-- [Cookie Policy](privacy/cookie-policy)
