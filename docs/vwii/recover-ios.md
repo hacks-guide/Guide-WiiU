@@ -42,7 +42,7 @@ This page will guide you through the process of recovering a corrupted IOS on yo
 
 <!-- tabs:end -->
 
-### Recovering the IOS
+### Recovering The IOS
 
 !> **Do not** attempt to delete multiple IOSes at a time.
 

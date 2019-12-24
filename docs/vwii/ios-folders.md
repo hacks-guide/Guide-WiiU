@@ -37,3 +37,17 @@ IOS |IOS Folder |.tik File    |Title ID
 59  |0000003B   |0000003B.tik |00000007-&zwnj;0000003B
 62  |0000003E   |0000003E.tik |00000007-&zwnj;0000003E
 80  |00000050   |00000050.tik |00000007-&zwnj;00000050
+
+<script src="https://cdn.jsdelivr.net/npm/docsify-pagination@2/dist/docsify-pagination.min.js"></script>
+<div class="docsify-pagination-container">
+<div class="pagination-item pagination-item--previous">
+    <a href="#/vwii/recover-ios">
+    <div class="pagination-item-label">
+        <svg class="icon" width="10" height="16" viewBox="0 0 10 16" xmlns="http://www.w3.org/2000/svg">
+        <polyline fill="none" vector-effect="non-scaling-stroke" points="8,2 2,8 8,14"></polyline>
+        </svg>
+        <span>PREVIOUS</span>
+    </div>
+    <div class="pagination-item-title">Recover a Corrupted IOS</div>
+    </a>
+</div>
