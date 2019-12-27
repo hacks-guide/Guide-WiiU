@@ -28,7 +28,7 @@ Unlike systems such as the DSi, Wii, or 3DS, Wii U CFW is temporary. This means 
     </a>
 </div>
 <div class="pagination-item pagination-item--next">
-    <a href="#/user-guide/mocha/nand-backup">
+    <a href="#/user-guide/introduction">
     <div class="pagination-item-label">
         <span>NEXT</span>
         <svg width="10" height="16" viewBox="0 0 10 16" xmlns="http://www.w3.org/2000/svg">
