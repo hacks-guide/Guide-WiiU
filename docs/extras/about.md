@@ -1,10 +1,10 @@
 # About this guide
-
+---
 This guide was written by staff members of the [Nintendo Homebrew Discord Server](https://discord.gg/C29hYvh)
 
 > **Credits**
 >
-> **Elpunical, FlimFlam69, Flump, Hiperhazz, huhen, Profanity and redcubie.**
+> **Elpunical, FlimFlam69, Flump, Hiperhazz, huhen, Link5261, Profanity and redcubie.**
 >
 > Thank you to [everyone else](https://github.com/huhenU/WiiUGuide/graphs/contributors) that contributed to the guide on GitHub.
 
