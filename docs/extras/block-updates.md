@@ -1,5 +1,5 @@
 # Blocking Updates
-
+---
 All currently known Wii U exploits can, unlike e.g. the Nintendo Switch RCM exploit, be patched by a system update. Although the Wii U is no longer officially supported, Nintendo may still release updates for it. Namely, the updates 5.5.3 and 5.5.4 were both released after the Wii U was discontinued, so blocking updates is still a recommended action.
 
 ### Instructions
