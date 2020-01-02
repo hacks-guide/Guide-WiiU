@@ -4,13 +4,14 @@
 - **vWii**
 - [vWii Modding](vwii/vwii-modding)
 - **Troubleshooting**
-- [Recovering Mii Channel](vwii/recover-mii-channel)
-- [Recover a Corrupted IOS](vwii/recover-ios)
+- [Recovering Mii Channel](troubleshooting/recover-mii-channel)
+- [Recover a Corrupted IOS](troubleshooting/recover-ios)
+- [Common Issues & Fixes](troubleshooting/common-issues-fixes)
 - **Extras**
 - [Blocking Updates](extras/block-updates)
 - [Unblocking Updates](extras/unblock-updates)
 - [Dumping Wii U Discs](extras/dump-games)
-- [FAQ](user-guide/faq)
+- [FAQ](extras/faq)
 - **Links**
 - [![GitHub](https://icongram.jgog.in/simple/github.svg?color=808080&size=16)GitHub](https://github.com//huhenU/WiiUGuide)
 - [![Discord](https://icongram.jgog.in/simple/discord.svg?colored&size=16)Discord](https://discord.gg/C29hYvh)
