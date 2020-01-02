@@ -2,6 +2,7 @@
 - [Return To Home Page](user-guide/introduction)
 - [Return To Choose Your CFW](user-guide/cfw-choice)
 - **CBHC**
+- [Choose Your DS VC Game](user-guide/cbhc/ds-vc-choice)
 - [SD Preparation](user-guide/cbhc/sd-preparation)
 - [Browser Exploit](user-guide/cbhc/browser-exploit)
 - [Making a NAND Backup](user-guide/cbhc/nand-backup)

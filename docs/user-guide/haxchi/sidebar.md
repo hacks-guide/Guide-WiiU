@@ -2,6 +2,7 @@
 - [Return To Home Page](user-guide/introduction)
 - [Return To Choose Your CFW](user-guide/cfw-choice)
 - **Haxchi**
+- [Choose Your DS VC Game](user-guide/haxchi/ds-vc-choice)
 - [SD Preparation](user-guide/haxchi/sd-preparation)
 - [Browser Exploit](user-guide/haxchi/browser-exploit)
 - [Making a NAND Backup](user-guide/haxchi/nand-backup)

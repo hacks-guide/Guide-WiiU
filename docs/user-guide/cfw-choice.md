@@ -11,7 +11,7 @@ There are two main CFWs: Haxchi/ColdBootHaxchi (CBHC) and Mocha.
 - Needs to be re-launched from the Wii U Menu every reboot to enable CFW.
 - Its functionality can be extended by installing ColdBootHaxchi (CBHC) to a Haxchi installation.
 
-### [**Continue with Haxchi**](user-guide/haxchi/sd-preparation) {docsify-ignore}
+### [**Continue with Haxchi**](user-guide/haxchi/ds-vc-choice) {docsify-ignore}
 
 ## CBHC
 
@@ -26,7 +26,7 @@ There are two main CFWs: Haxchi/ColdBootHaxchi (CBHC) and Mocha.
 
 - Same (dis)advantages as Haxchi, but automatically launches CFW on every boot. 
 
-### [**Continue with CBHC**](user-guide/cbhc/sd-preparation) {docsify-ignore}
+### [**Continue with CBHC**](user-guide/cbhc/ds-vc-choice) {docsify-ignore}
 
 ## Mocha
 
