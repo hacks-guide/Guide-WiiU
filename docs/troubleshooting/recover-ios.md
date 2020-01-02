@@ -1,8 +1,8 @@
 # Recover a Corrupted IOS
-
+---
 This page will guide you through the process of recovering a corrupted IOS on your vWii.
 
-!> Do not use this method for anything else than [Recovering your Mii Channel](vwii/recover-mii-channel) or the following page.
+!> Do not use this method for anything else than [Recovering your Mii Channel](troubleshooting/recover-mii-channel) or the following page.
 
 ### What You Need
 
@@ -58,7 +58,7 @@ This page will guide you through the process of recovering a corrupted IOS on yo
 1. Launch FileZilla
 1. Type in the IP address displayed by your Wii U in the `Host` field at the top of the window and click on `Quickconnect`
 1. In FileZilla, navigate to `/slccmpt01/title/00000001`
-1. Go to [this page](vwii/ios-folders) to see which folder/ticket you need to delete
+1. Go to [this page](troubleshooting/ios-folders) to see which folder/ticket you need to delete
 1. Delete the corresponding folder of the IOS you want to recover
 1. Navigate to `/slccmpt01/ticket/00000001`
 1. Delete the corresponding `.tik` file of the IOS you want to recover

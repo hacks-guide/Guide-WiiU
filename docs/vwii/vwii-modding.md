@@ -1,5 +1,5 @@
 # vWii Modding Guide
-
+---
 This page will guide you through the process of modding your vWii.
 
 We will now place the required Homebrew files on the SD Card.
@@ -42,7 +42,7 @@ We will now place the required Homebrew files on the SD Card.
 1. Launch the [Homebrew Launcher](user-guide/vwii/browser-exploit)
 1. Launch Wuphax
 1. Press `B` to restore the Mii Channel
- - If for some reason, you cannot restore your backup, you will need to [reinstall your Mii Channel](vwii/recover-mii-channel)
+ - If for some reason, you cannot restore your backup, you will need to [reinstall your Mii Channel](troubleshooting/recover-mii-channel)
 
 ### NAND Backup
 
@@ -86,7 +86,7 @@ In case anything goes wrong in the later process and your vWii ends up bricked, 
 
 ### Patching IOS 80
 
-!> If for any reason, the Wii U is turned off while patching IOS 80, your vWii will be bricked. This can be fixed by either extracting the IOS 80 from your previously made NAND backup and then replacing it over FTP or by [reinstalling IOS 80](vwii/recover-ios)
+!> If for any reason, the Wii U is turned off while patching IOS 80, your vWii will be bricked. This can be fixed by either extracting the IOS 80 from your previously made NAND backup and then replacing it over FTP or by [reinstalling IOS 80](troubleshooting/recover-ios)
 
 1. Launch Patched IOS 80 Installer for vWii
 1. Read the warning screen and wait 30 seconds

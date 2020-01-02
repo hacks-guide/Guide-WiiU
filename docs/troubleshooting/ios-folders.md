@@ -1,6 +1,6 @@
 # IOS Folders and Paths
-
-?> This page is primarily meant to be used with [Recover a Corrupted IOS](vwii/recover-ios)
+---
+?> This page is primarily meant to be used with [Recover a Corrupted IOS](troubleshooting/recover-ios)
 
 ?> IOS folders are located in /slccmpt01/title/00000001
 
@@ -41,7 +41,7 @@ IOS |IOS Folder |.tik File    |Title ID
 <script src="https://cdn.jsdelivr.net/npm/docsify-pagination@2/dist/docsify-pagination.min.js"></script>
 <div class="docsify-pagination-container">
 <div class="pagination-item pagination-item--previous">
-    <a href="#/vwii/recover-ios">
+    <a href="#/troubleshooting/recover-ios">
     <div class="pagination-item-label">
         <svg class="icon" width="10" height="16" viewBox="0 0 10 16" xmlns="http://www.w3.org/2000/svg">
         <polyline fill="none" vector-effect="non-scaling-stroke" points="8,2 2,8 8,14"></polyline>

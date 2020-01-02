@@ -1,8 +1,8 @@
 # Recover Your Lost or Corrupted Mii Channel
-
+---
 This page will guide you through the process of restoring your Mii Channel to a working state.
 
-!> Do not use this method for anything else than [Recovering a Corrupted IOS](vwii/recover-ios) or the following page.
+!> Do not use this method for anything else than [Recovering a Corrupted IOS](troubleshooting/recover-ios) or the following page.
 
 ### What You Need
 
