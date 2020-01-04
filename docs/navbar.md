@@ -1,4 +1,4 @@
 - Themes
   - <a href="#" data-link-title="Dark">Dark</a>
   - <a href="#" data-link-title="Light">Light</a>
-- [![Discord](../../../docs/assets/img/discord.png)](https://discord.gg/C29hYvh)
+- [![Discord](https://huhenu.github.io/WiiUGuide/docs/assets/img/discord.png)](https://discord.gg/C29hYvh)
