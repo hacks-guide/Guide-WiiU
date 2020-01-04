@@ -1,8 +1,13 @@
 - **Navigation**
 - [Home Page](user-guide/introduction)
 - [Choose a CFW](user-guide/cfw-choice)
-- **Mocha**
 - [Choose an Entrypoint](user-guide/mocha/entrypoint-choice)
+- **Mocha - Indexiine**
+- [SD Preparation](user-guide/mocha/indexiine/sd-preparation)
+- [Browser Exploit](user-guide/mocha/indexiine/browser-exploit)
+- [Making a NAND Backup](user-guide/mocha/indexiine/nand-backup)
+- [Internet Browser Modding](user-guide/mocha/indexiine/browser-modding)
+- [Launching CFW](user-guide/mocha/indexiine/launching-cfw)
 - **Links**
 - [![Github](https://icongram.jgog.in/simple/github.svg?color=808080&size=16)Github](https://github.com//huhenU/WiiUGuide)
 - [![Discord](https://icongram.jgog.in/simple/discord.svg?colored&size=16)Discord](https://discord.gg/C29hYvh)

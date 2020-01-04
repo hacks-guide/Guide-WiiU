@@ -1,4 +1,4 @@
-# Mocha
+# Mocha - Indexiine
 
 ## Making a NAND Backup {docsify-ignore}
 
@@ -27,7 +27,7 @@ In case anything should go wrong in the later process and your Wii U ends up bri
 <script src="https://cdn.jsdelivr.net/npm/docsify-pagination@2/dist/docsify-pagination.min.js"></script>
 <div class="docsify-pagination-container">
 <div class="pagination-item pagination-item--previous">
-    <a href="#/user-guide/mocha/browser-exploit">
+    <a href="#/user-guide/mocha/indexiine/browser-exploit">
     <div class="pagination-item-label">
         <svg class="icon" width="10" height="16" viewBox="0 0 10 16" xmlns="http://www.w3.org/2000/svg">
         <polyline fill="none" vector-effect="non-scaling-stroke" points="8,2 2,8 8,14"></polyline>
@@ -38,14 +38,14 @@ In case anything should go wrong in the later process and your Wii U ends up bri
     </a>
 </div>
 <div class="pagination-item pagination-item--next">
-    <a href="#/user-guide/mocha/launching-cfw">
+    <a href="#/user-guide/mocha/indexiine/browser-modding">
     <div class="pagination-item-label">
         <span>NEXT</span>
         <svg width="10" height="16" viewBox="0 0 10 16" xmlns="http://www.w3.org/2000/svg">
         <polyline fill="none" vector-effect="non-scaling-stroke" points="2,2 8,8 2,14"></polyline>
         </svg>
     </div>
-    <div class="pagination-item-title">Launching CFW</div>
+    <div class="pagination-item-title">Internet Browser Modding</div>
     </a>
 </div>
 </div>

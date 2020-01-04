@@ -22,6 +22,8 @@ This guide was written by staff members of the [Nintendo Homebrew Discord Server
 > - **dimok789** for the [Homebrew Launcher](https://github.com/dimok789/homebrew_launcher), the [Homebrew Launcher Channel](https://github.com/dimok789/homebrew_launcher) and [Mocha](https://github.com/dimok789/mocha).
 > - **orboditilt** and **dimok789** for the [Homebrew Launcher Installer](https://github.com/wiiu-env/homebrew_launcher_installer).
 > - **vgmoose**, **pwsincd**, **rw-r-r_0644** and **crc32** for [hb-appstore](https://github.com/vgmoose/hb-appstore).
+> - **Jonhyjp** for [Indexiine](https://gbatemp.net/threads/indexiine-load-cfw-during-boot-and-offline-without-a-vc-ds-title.553681/)
+> - **JumpCallPop**, **jam1garner**, **hedgeberg**, **yellows8** and **orboditilt** for [JSTypeHax](https://github.com/wiiu-env/JsTypeHax)
 > - **ihaveamac/ihaveahax** for <u>overwrite-wiiu-titlehash</u>.
 > - **Dr Clipper**, **ZRicky11**, **dmm** and **FIX94** for <u>Patched IOS80 Installer for vWii</u>.
 > - **djskual**, **Loadiine GX2 Team**, **Yardape** and **brienj** for [WUP Installer GX2](https://sourceforge.net/projects/wup-installer-gx2/).

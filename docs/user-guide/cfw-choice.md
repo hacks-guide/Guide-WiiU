@@ -2,7 +2,8 @@
 ---
 ?> Before starting, make sure to update your Wii U console to the latest firmware (5.5.4 for European consoles, 5.5.3 for all other regions) if you haven't already.
 
-There are two main CFWs: Haxchi/ColdBootHaxchi (CBHC) and Mocha.
+There are two main CFWs: Haxchi/ColdBootHaxchi (CBHC) or Mocha.  
+Haxchi/CBHC are both injected into a paid DS VC game, while Mocha is only used with the web browser exploit and Indexiine, which makes it the only free CFW.
 
 ## Haxchi
 
@@ -24,7 +25,8 @@ There are two main CFWs: Haxchi/ColdBootHaxchi (CBHC) and Mocha.
 
 !> Breaking one of the above rules will result in a brick.
 
-- Same (dis)advantages as Haxchi, but automatically launches CFW on every boot. 
+- Requires a legitimately installed paid DS VC game from the eShop.
+- Automatically launches CFW on every boot. 
 
 ### [**Continue with CBHC**](user-guide/cbhc/ds-vc-choice) {docsify-ignore}
 
@@ -33,8 +35,9 @@ There are two main CFWs: Haxchi/ColdBootHaxchi (CBHC) and Mocha.
 - Does not require any game, and is therefore free.
 - Needs to be re-launched through the browser exploit every reboot to enable CFW.
 - Is not compatible with the Homebrew Launcher Channel.
+- May require an Internet connection depending on what entry point you choose.
 
-### [**Continue with Mocha**](user-guide/mocha/sd-preparation) {docsify-ignore}
+### [**Continue with Mocha**](user-guide/mocha/entrypoint-choice) {docsify-ignore}
 
 <script src="https://cdn.jsdelivr.net/npm/docsify-pagination@2/dist/docsify-pagination.min.js"></script>
 <div class="docsify-pagination-container">
