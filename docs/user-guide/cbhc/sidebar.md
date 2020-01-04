@@ -1,6 +1,6 @@
 - **Navigation**
-- [Return To Home Page](user-guide/introduction)
-- [Return To Choose Your CFW](user-guide/cfw-choice)
+- [Home Page](user-guide/introduction)
+- [Choose a CFW](user-guide/cfw-choice)
 - **CBHC**
 - [Choose Your DS VC Game](user-guide/cbhc/ds-vc-choice)
 - [SD Preparation](user-guide/cbhc/sd-preparation)

@@ -1,6 +1,6 @@
 - **User Guide**
 - [Introduction](user-guide/introduction)
-- [Choose Your CFW](user-guide/cfw-choice)
+- [Choose a CFW](user-guide/cfw-choice)
 - **vWii**
 - [vWii Modding](vwii/vwii-modding)
 - **Troubleshooting**
