@@ -43,7 +43,7 @@ We will now place the required CFW files and some additional homebrew files on t
         </svg>
         <span>PREVIOUS</span>
     </div>
-    <div class="pagination-item-title">Choose An Entrypoint</div>
+    <div class="pagination-item-title">Choose an Entrypoint</div>
     </a>
 </div>
 <div class="pagination-item pagination-item--next">
