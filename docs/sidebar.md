@@ -9,8 +9,8 @@
 - [Common Issues & Fixes](troubleshooting/common-issues-fixes)
 - **Extras**
 - [Blocking Updates](extras/block-updates)
-- [Unblocking Updates](extras/unblock-updates)
 - [Dumping Wii U Discs](extras/dump-games)
+- [Unblocking Updates](extras/unblock-updates)
 - [FAQ](extras/faq)
 - **Links**
 - [![GitHub](https://icongram.jgog.in/simple/github.svg?color=808080&size=16)GitHub](https://github.com//huhenU/WiiUGuide)

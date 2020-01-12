@@ -40,3 +40,9 @@ No, you must have an SD Card for a first time setup, a USB can then be used to i
 ### When extracting some of the files there are duplicates of certain ones called "info.json" & "manifest.install", what do I do with those?
 
 Nothing special, you can leave them there, delete them or replace them with new ones. Those files are not used in the process, therefore, won't have any impact by being or not being there.
+
+### What is a Wii U formatted USB drive?
+
+It's a USB drive that has been formatted by a Wii U console to its proprietary format.  
+A Wii U formatted USB drive ***cannot be read by any other devices than the Wii U that originally formatted it.***  
+If you ever want to use it with another Wii U console or any other devices, you will have to reformat it.
