@@ -35,9 +35,8 @@ Haxchi/CBHC are both injected into a paid DS VC game, while Mocha is only used w
 - Does not require any game, and is therefore free.
 - Needs to be re-launched through the browser exploit every reboot to enable CFW.
 - Is not compatible with the Homebrew Launcher Channel.
-- May require an Internet connection depending on what entry point you choose.
 
-### [**Continue with Mocha**](user-guide/mocha/entrypoint-choice) {docsify-ignore}
+### [**Continue with Mocha**](user-guide/mocha/online-exploit/sd-preparation) {docsify-ignore}
 
 <script src="https://cdn.jsdelivr.net/npm/docsify-pagination@2/dist/docsify-pagination.min.js"></script>
 <div class="docsify-pagination-container">
