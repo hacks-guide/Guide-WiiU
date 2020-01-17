@@ -8,7 +8,7 @@ Now that you have your NAND backup in case anything goes wrong later, you can in
 
 - The Indexiine <a href="docs/files/index.html" download>index.html</a> file
 - This release of [FTPiiU Everywhere](http://wiiubru.com/appstore/zips/fpiiu-cbhc.zip)
-- An FTP client such as [FileZilla](https://filezilla-project.org/download.php?type=client)
+- An FTP client such as [FileZilla](https://filezilla-project.org/download.php?show_all=1)
 
 ### Instructions
 

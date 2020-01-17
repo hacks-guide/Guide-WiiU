@@ -13,7 +13,7 @@ Currently, two ways exist to block updates on the Wii U system:
 ?> In order for this method to work, your Wii U needs to be in the same network as your Computer.
 1. Plug your SD Card into your Computer.
 1. Download and extract [ftpiiu_everywhere](http://wiiubru.com/appstore/zips/fpiiu-cbhc.zip) to the root of your SD Card.
-1. Download an FTP client of your choice such as [FileZilla](https://filezilla-project.org/download.php).
+1. Download an FTP client of your choice such as [FileZilla](https://filezilla-project.org/download.php?show_all=1).
 1. Plug the SD Card into your Wii U console and power it on.
 1. Launch the CFW of your choice (Mocha, Haxchi/CBHC) and enter the Homebrew Launcher.
 1. Navigate the Homebrew Launcher and run the ftpiiu_everywhere app.
