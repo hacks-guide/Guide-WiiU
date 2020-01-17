@@ -1,9 +1,9 @@
 <img src="docs/assets/img/logo.png" alt="" width="100%"/>
 
-> A Complete Wii U CFW Guide
+> Nintendo Homebrew Wii U CFW Guide
 
 - Install The CFW Of Your Choice (Mocha, Haxchi or CBHC)
-- Dump And Install Wii U Game Discs
+- Dump and Install Wii U Game Discs
 - vWii Modding Guide
 - Troubleshooting Guides
 
