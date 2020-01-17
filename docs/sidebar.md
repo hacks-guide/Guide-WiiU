@@ -7,6 +7,7 @@
 - [Recovering Mii Channel](troubleshooting/recover-mii-channel)
 - [Recover a Corrupted IOS](troubleshooting/recover-ios)
 - [Common Issues & Fixes](troubleshooting/common-issues-fixes)
+- [Fix Error Code 112-1037](troubleshooting/fix-errcode-112-1037)
 - **Extras**
 - [Blocking Updates](extras/block-updates)
 - [Dumping Wii U Discs](extras/dump-games)

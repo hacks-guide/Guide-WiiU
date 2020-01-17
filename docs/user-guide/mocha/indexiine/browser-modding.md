@@ -42,6 +42,8 @@ Now that you have your NAND backup in case anything goes wrong later, you can in
 
 The Homebrew Launcher will now be launched every time you launch the Internet Browser even without an Internet connection.
 
+?> If you're getting the error code 112-1037, please see [this page](troubleshooting/fix-errcode-112-1037).
+
 <script src="https://cdn.jsdelivr.net/npm/docsify-pagination@2/dist/docsify-pagination.min.js"></script>
 <div class="docsify-pagination-container">
 <div class="pagination-item pagination-item--previous">
