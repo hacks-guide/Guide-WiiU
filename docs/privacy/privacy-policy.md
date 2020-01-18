@@ -1,11 +1,6 @@
 # PRIVACY NOTICE
 
-**Last updated December 18, 2019**
-
-
-
-
-
+**Last updated January 18, 2020**
 
 
 Thank you for choosing to be part of our community at NH Wii U Guide (“company”, “we”, “us”, or “our”). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about our policy, or our practices with regards to your personal information, please contact us at nh.wiiuguide@gmail.com.
@@ -14,8 +9,7 @@ When you visit our website https://wiiuguide.xyz, and use our services, you trus
 
 This privacy policy applies to all information collected through our website (such as https://wiiuguide.xyz), and/or any related services, sales, marketing or events (we refer to them collectively in this privacy policy as the "**Sites**").
 
-**Please read this privacy policy carefully as it will help you make informed decisions about sharing your personal information with us.**
-
+**Please read this privacy policy carefully.**
 
 
 ## TABLE OF CONTENTS
@@ -67,13 +61,11 @@ California Civil Code Section 1798.83, also known as the “Shine The Light” l
 If you are under 18 years of age, reside in California, and have a registered account with the Sites, you have the right to request removal of unwanted data that you publicly post on the Sites. To request removal of such data, please contact us using the contact information provided below, and include the email address associated with your account and a statement that you reside in California. We will make sure the data is not publicly displayed on the Sites, but please be aware that the data may not be completely or comprehensively removed from our systems.
 
 
-
 ### 5. DO WE MAKE UPDATES TO THIS POLICY?
 
 ***In Short:*** *Yes, we will update this policy as necessary to stay compliant with relevant laws.*
 
 We may update this privacy policy from time to time. The updated version will be indicated by an updated “Revised” date and the updated version will be effective as soon as it is accessible. If we make material changes to this privacy policy, we may notify you either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to review this privacy policy frequently to be informed of how we are protecting your information.
-
 
 
 ### 6. HOW CAN YOU CONTACT US ABOUT THIS POLICY?
