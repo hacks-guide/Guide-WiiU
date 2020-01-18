@@ -32,6 +32,9 @@ Now that you have your NAND backup in case anything goes wrong later, you can in
    - If you have a JPN region Wii U, navigate to <code>/storage_mlc/sys/title/<wbr>000500030/1001200A/<wbr>content/pages</code>
 1. Make a backup of the original `index.html` file by copying it from your Wii U to your computer.
 1. Replace the original `index.html` by the previously downloaded Indexiine `index.html` file.
+
+!> You must overwrite the html file, not delete it. If you ever delete it, you will get the error code 112-1037 and you will have to [manually set the right file permissions](troubleshooting/fix-errcode-112-1037) for it.
+
 1. Close FTPiiU Everywhere and the Homebrew Launcher.
 1. Launch the Internet Browser.
 1. Click the button (blue door) at the top left corner of the screen and wait a few seconds.
