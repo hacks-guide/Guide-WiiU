@@ -18,7 +18,7 @@ This page will guide you through the process of fixing the error code 112-1037.
 
 #### **Windows**
 
-1. Power on your Wii U and launch the CFW of your choice (Mocha, Haxchi or CBHC)
+1. Power on your Wii U
 1. Launch the Homebrew Launcher and launch Mocha
 1. Go back to the Wii U Menu
 1. On your computer, open the wupclient.py file with a text editor and change the IP address at line 29 with your console's then save it
@@ -35,7 +35,7 @@ This page will guide you through the process of fixing the error code 112-1037.
 
 #### **macOS & Linux**
 
-1. Power on your Wii U and launch the CFW of your choice (Mocha, Haxchi or CBHC)
+1. Power on your Wii U
 1. Launch the Homebrew Launcher and launch Mocha
 1. Go back to the Wii U Menu
 1. On your computer, open the wupclient.py file with a text editor and change the IP address at line 29 with your console's then save it
