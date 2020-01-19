@@ -1,5 +1,5 @@
 - **Navigation**
-- [Home Screen](user-guide/introduction)
+- [Home Page](user-guide/introduction)
 - [vWii Modding](vwii/vwii-modding)
 - [Browser Exploit](user-guide/vwii/browser-exploit)
 - **Links**
