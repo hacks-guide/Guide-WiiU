@@ -9,6 +9,6 @@
 - [Launching CFW](user-guide/haxchi/launching-cfw)
 - [Install Homebrew Channel](user-guide/haxchi/installing-hbc)
 - **Links**
-- [![Github](https://icongram.jgog.in/simple/github.svg?color=808080&size=16)Github](https://github.com//huhenU/WiiUGuide)
+- [![Github](https://icongram.jgog.in/simple/github.svg?color=808080&size=16)Github](https://github.com/nh-server/WiiUGuide)
 - [![Discord](https://icongram.jgog.in/simple/discord.svg?colored&size=16)Discord](https://discord.gg/C29hYvh)
 - [About](extras/about)

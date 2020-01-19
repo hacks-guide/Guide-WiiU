@@ -9,4 +9,4 @@
 
 [Get Started](user-guide/introduction)
 [Discord](https://discord.gg/C29hYvh)
-[GitHub](https://github.com//huhenU/WiiUGuide)
+[GitHub](https://github.com/nh-server/WiiUGuide)
