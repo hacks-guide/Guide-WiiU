@@ -12,6 +12,7 @@
 - [Blocking Updates](extras/block-updates)
 - [Dumping Wii U Discs](extras/dump-games)
 - [Unblocking Updates](extras/unblock-updates)
+- [Uninstall CBHC](extras/uninstall-cbhc)
 - [FAQ](extras/faq)
 - **Links**
 - [![GitHub](https://icongram.jgog.in/simple/github.svg?color=808080&size=16)GitHub](https://github.com/nh-server/WiiUGuide)
