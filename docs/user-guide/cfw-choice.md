@@ -22,6 +22,8 @@ Haxchi/CBHC are both injected into a paid DS VC game, while Mocha is only used w
 <br>- Don't delete the user account that bought the DS VC game
 <br>- Don't re-install the same game using WUP Installer or from the eShop
 <br>- Don't install Haxchi over CBHC
+<br>- Don't uninstall the DS Virtual Console game without [properly uninstalling CBHC first](extras/uninstall-cbhc)
+<br>- Don't move the DS Virtual Console game to a USB drive
 
 !> Breaking one of the above rules will result in a brick.
 
