@@ -23,6 +23,7 @@ We will now place the required Homebrew files on the SD Card.
 1. Extract the `boot.elf` file from the <code>hackmii_<wbr>installer_<wbr>v1.2<wbr>.zip</code> file to the root of your SD Card
 1. Extract the `apps` folder from the <code>Patched_<wbr>IOS80_<wbr>Installer_<wbr>for_<wbr>vWii<wbr>.zip</code> file to the root of your SD Card
 1. Extract the <code>vWii_<wbr>cIOS_<wbr>apps_<wbr>20131218<wbr>.zip</code> file to the root of your SD Card
+1. Extract the <code>homebrew_<wbr>launcher.<wbr>v1.4.zip</code> file to the root of your SD Card
 1. Extract the `payload.zip` file to the `wiiu` folder on your SD Card
 1. Take the SD Card out of your computer and plug it into your Wii U console.
 
