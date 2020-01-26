@@ -31,8 +31,8 @@ We will now place the required Homebrew files on the SD Card.
 
 1. Launch the [Homebrew Launcher](user-guide/vwii/browser-exploit)
 1. Launch Wuphax
-1. Press `A` to backup the Mii Channel and inject the Hackmii Installer
-1. You will be taken back to the Wii U Menu after a few seconds
+1. Press `A` to backup the Mii Channel and inject the Hackmii Installer then wait until it says <code>Successfully <wbr>injected <wbr>wuphax!</code>
+ - You will be taken back to the Wii U Menu after a few seconds
 1. Launch vWii (the Wii Menu icon)
 1. Launch the vWii Mii Channel
  - If Wuphax has successfully been injected, you will now see the scam warning screen.
@@ -42,7 +42,8 @@ We will now place the required Homebrew files on the SD Card.
 1. Launch the Wii U Menu channel to return to the Wii U Menu
 1. Launch the [Homebrew Launcher](user-guide/vwii/browser-exploit)
 1. Launch Wuphax
-1. Press `B` to restore the Mii Channel
+1. Press `B` to restore the Mii Channel then wait until it says <code>Mii <wbr>Channel <wbr>restored!</code>
+ - You will be taken back to the Wii U Menu after a few seconds
  - If for some reason, you cannot restore your backup, you will need to [reinstall your Mii Channel](troubleshooting/recover-mii-channel)
 
 ### NAND Backup
