@@ -22,6 +22,7 @@ We will now place the required CFW files and some additional homebrew files on t
   - You will need to download the `wiiu-extracttosd.zip` file.
 - The latest release of [Haxchi and CBHC](https://github.com/FIX94/haxchi/releases/latest)
   - Download both the Haxchi and CBHC .zip files.
+- The latest release of [SaveMii mod](https://github.com/GabyPCgeeK/savemii/releases)
 
 ### Instructions
 
@@ -36,7 +37,8 @@ We will now place the required CFW files and some additional homebrew files on t
 1. Extract the `wup_installer_gx2.zip` file to the root of your SD Card
 1. Extract the `nanddumper.zip` file to the root of your SD Card
 1. Extract the `wiiu-extracttosd.zip` file to the root of your SD Card
-1. Extract the `homebrew_launcher.v.1.4.zip` to the root of your SD Card
+1. Extract the `homebrew_launcher.v.1.4.zip` file to the root of your SD Card
+1. Extract the `savemii_mod5.zip` file to the root of your SD Card
 1. Copy the `config.txt` file to the `haxchi` folder on your SD Card. Overwrite files if asked
 1. Copy the `payload.elf` from the `payload.zip` to the `wiiu` folder on your SD Card
 
