@@ -11,6 +11,7 @@
 - **Extras**
 - [Blocking Updates](extras/block-updates)
 - [Dumping Wii U Discs](extras/dump-games)
+- [Dumping Original Wii Discs](extras/dump-wii-games)
 - [Unblocking Updates](extras/unblock-updates)
 - [Uninstall CBHC](extras/uninstall-cbhc)
 - [FAQ](extras/faq)
