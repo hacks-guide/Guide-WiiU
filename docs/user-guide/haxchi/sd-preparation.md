@@ -38,7 +38,7 @@ We will now place the required CFW files and some additional homebrew files on t
 1. Extract the `nanddumper.zip` file to the root of your SD Card
 1. Extract the `wiiu-extracttosd.zip` file to the root of your SD Card
 1. Extract the `homebrew_launcher.v.1.4.zip` file to the root of your SD Card
-1. Extract the `savemii_mod5.zip` file to the root of your SD Card
+1. Copy the `savemii_mod` folder from the `savemii_mod5.zip` file to the `/wiiu/apps` folder on your SD Card
 1. Copy the `config.txt` file to the `haxchi` folder on your SD Card. Overwrite files if asked
 1. Copy the `payload.elf` from the `payload.zip` to the `wiiu` folder on your SD Card
 
