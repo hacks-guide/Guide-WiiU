@@ -42,11 +42,11 @@ This page will guide you through the process of recovering a corrupted IOS on yo
 
 <!-- tabs:end -->
 
-### Recovering The IOS
+### Recovering The IOSes
 
-!> **Do not** attempt to delete multiple IOSes at a time.
+!> **Do not** attempt to delete the `00000002` folder in `/slccmpt01/title/00000001` nor the `00000002.tik` file in `/slccmpt01/ticket/00000001`.
 
-!> If you are using a system update blocking method, please [remove it](extras/unblock-updates).
+?> If you are using a system update blocking method, please [remove it](extras/unblock-updates).
 
 <!-- tabs:start -->
 
@@ -59,9 +59,9 @@ This page will guide you through the process of recovering a corrupted IOS on yo
 1. Type in the IP address displayed by your Wii U in the `Host` field at the top of the window and click on `Quickconnect`
 1. In FileZilla, navigate to `/slccmpt01/title/00000001`
 1. Go to [this page](troubleshooting/ios-folders) to see which folder/ticket you need to delete
-1. Delete the corresponding folder of the IOS you want to recover
+1. Delete the corresponding folders of the IOSes you want to recover
 1. Navigate to `/slccmpt01/ticket/00000001`
-1. Delete the corresponding `.tik` file of the IOS you want to recover
+1. Delete the corresponding `.tik` files of the IOSes you want to recover
 1. Launch the previously downloaded `overwrite-wiiu-titlehash.exe` file
 1. Type in your Wii U's IP address and press Enter
 1. Wait for it to finish what it's doing
@@ -81,9 +81,9 @@ This page will guide you through the process of recovering a corrupted IOS on yo
 1. Type in the IP address displayed by your Wii U in the `Host` field at the top of the window and click on `Quickconnect`
 1. In FileZilla, navigate to `/slccmpt01/title/00000001`
 1. Go to [this page](vwii/ios-folders) to see which folder/ticket you need to delete
-1. Delete the corresponding folder of the IOS you want to recover
+1. Delete the corresponding folders of the IOSes you want to recover
 1. Navigate to `/slccmpt01/ticket/00000001`
-1. Delete the corresponding `.tik` file of the IOS you want to recover
+1. Delete the corresponding `.tik` files of the IOSes you want to recover
 1. Open up a Terminal window
 1. Use the following command: `cd <directory>`
  - On macOS, the most common place to find your downloaded files is `/Users/username/Downloads`
