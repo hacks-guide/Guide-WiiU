@@ -47,7 +47,7 @@ If everything goes according to plan, you will lose no data and end up with ever
 
 Keep your device plugged in throughout the entire process to avoid data loss or damage from an unexpected power-off.
 
-With the exception of CBHC, custom Firmware is not permanent with current methods and will be unloaded upon rebooting the system.
+With the exception of CBHC, Custom Firmware is not permanent with current methods and will be unloaded upon rebooting the system.
 
 It is advised that you read the entire guide from start to finish one or more times before actually running through the guide with your system.
 
