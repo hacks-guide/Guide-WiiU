@@ -29,18 +29,18 @@ We will now place the required CFW files and some additional homebrew files on t
 
 ?> **Notice**
     The info.json and manifest.install files are not needed for the modding process and therefore can be deleted.
-1. Insert your Wii U's SD card into your PC
-1. Create a folder called `install` on the root of your SD Card
-1. Create a folder called `hbc` in the `install` folder you created
-1. Extract the `homebrew_launcher_channel.zip` file to the `hbc` folder you created
-1. Extract the `Haxchi.zip` file to the root of your SD Card
-1. Extract the `wup_installer_gx2.zip` file to the root of your SD Card
-1. Extract the `nanddumper.zip` file to the root of your SD Card
-1. Extract the `wiiu-extracttosd.zip` file to the root of your SD Card
-1. Extract the `homebrew_launcher.v.1.4.zip` file to the root of your SD Card
-1. Copy the `savemii_mod` folder from the `savemii_mod5.zip` file to the `/wiiu/apps` folder on your SD Card
-1. Copy the `config.txt` file to the `haxchi` folder on your SD Card. Overwrite files if asked
-1. Copy the `payload.elf` from the `payload.zip` to the `wiiu` folder on your SD Card
+1. Insert your Wii U's SD card into your PC.
+1. Create a folder called `install` on the root of your SD Card.
+1. Create a folder called `Homebrew Launcher Channel` in the `install` folder you created.
+1. Extract the `homebrew_launcher_channel.v2.1.zip` file to the `Homebrew Launcher Channel` folder you created.
+1. Extract the `Haxchi.zip` file to the root of your SD Card.
+1. Extract the `wup_installer_gx2.zip` file to the root of your SD Card.
+1. Extract the `nanddumper.zip` file to the root of your SD Card.
+1. Extract the `wiiu-extracttosd.zip` file to the root of your SD Card.
+1. Extract the `homebrew_launcher.v.1.4.zip` file to the root of your SD Card.
+1. Copy the `savemii_mod` folder from the `savemii_mod5.zip` file to the `/wiiu/apps` folder on your SD Card.
+1. Copy the `config.txt` file to the `haxchi` folder on the root of your SD Card. Overwrite files if asked.
+1. Copy the `payload.elf` from the `payload.zip` to the `wiiu` folder on your SD Card.
 
 <script src="https://cdn.jsdelivr.net/npm/docsify-pagination@2/dist/docsify-pagination.min.js"></script>
 <div class="docsify-pagination-container">

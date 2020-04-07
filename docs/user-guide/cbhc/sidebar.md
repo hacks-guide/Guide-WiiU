@@ -7,7 +7,7 @@
 - [Browser Exploit](user-guide/cbhc/browser-exploit)
 - [Making a NAND Backup](user-guide/cbhc/nand-backup)
 - [Launching CFW](user-guide/cbhc/launching-cfw)
-- [Install Homebrew Channel](user-guide/cbhc/installing-hbc)
+- [Install Homebrew Channel](user-guide/cbhc/installing-hblc)
 - **Links**
 - [![Github](https://icongram.jgog.in/simple/github.svg?color=808080&size=16)Github](https://github.com/nh-server/WiiUGuide)
 - [![Discord](https://icongram.jgog.in/simple/discord.svg?colored&size=16)Discord](https://discord.gg/C29hYvh)
