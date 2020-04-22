@@ -12,7 +12,7 @@ Haxchi/CBHC are both injected into a paid DS VC game, while Mocha is only used w
 - Needs to be re-launched from the Wii U Menu every reboot to enable CFW.
 - Its functionality can be extended by installing ColdBootHaxchi (CBHC) to a Haxchi installation.
 
-### [**Continue with Haxchi**](user-guide/haxchi/ds-vc-choice) {docsify-ignore}
+### [**Continue with Haxchi**](haxchi/ds-vc-choice) {docsify-ignore}
 
 ## CBHC
 
@@ -22,7 +22,7 @@ Haxchi/CBHC are both injected into a paid DS VC game, while Mocha is only used w
 <br>- Don't delete the user account that bought the DS VC game
 <br>- Don't re-install the same game using WUP Installer or from the eShop
 <br>- Don't install Haxchi over CBHC
-<br>- Don't uninstall the DS Virtual Console game without [properly uninstalling CBHC first](extras/uninstall-cbhc)
+<br>- Don't uninstall the DS Virtual Console game without [properly uninstalling CBHC first](uninstall-cbhc)
 <br>- Don't move the DS Virtual Console game to a USB drive
 
 !> Breaking one of the above rules will result in a brick.
@@ -30,7 +30,7 @@ Haxchi/CBHC are both injected into a paid DS VC game, while Mocha is only used w
 - Requires a legitimately installed paid DS VC game from the eShop.
 - Automatically launches CFW on every boot. 
 
-### [**Continue with CBHC**](user-guide/cbhc/ds-vc-choice) {docsify-ignore}
+### [**Continue with CBHC**](cbhc/ds-vc-choice) {docsify-ignore}
 
 ## Mocha
 
@@ -39,18 +39,4 @@ Haxchi/CBHC are both injected into a paid DS VC game, while Mocha is only used w
 - Is not compatible with the Homebrew Launcher Channel.
 - May require an Internet connection depending on what entry point you choose.
 
-### [**Continue with Mocha**](user-guide/mocha/entrypoint-choice) {docsify-ignore}
-
-<script src="https://cdn.jsdelivr.net/npm/docsify-pagination@2/dist/docsify-pagination.min.js"></script>
-<div class="docsify-pagination-container">
-<div class="pagination-item pagination-item--previous">
-    <a href="#/user-guide/introduction">
-    <div class="pagination-item-label">
-        <svg class="icon" width="10" height="16" viewBox="0 0 10 16" xmlns="http://www.w3.org/2000/svg">
-        <polyline fill="none" vector-effect="non-scaling-stroke" points="8,2 2,8 8,14"></polyline>
-        </svg>
-        <span>PREVIOUS</span>
-    </div>
-    <div class="pagination-item-title">Introduction</div>
-    </a>
-</div>
+### [**Continue with Mocha**](mocha/entrypoint-choice) {docsify-ignore}

@@ -2,7 +2,7 @@
 ---
 This page will guide you through the process of recovering a corrupted IOS on your vWii.
 
-!> Do not use this method for anything else than [Recovering your Mii Channel](troubleshooting/recover-mii-channel) or the following page.
+!> Do not use this method for anything else than [Recovering your Mii Channel](recover-mii-channel) or the following page.
 
 ### What You Need
 
@@ -10,14 +10,14 @@ This page will guide you through the process of recovering a corrupted IOS on yo
 
 #### **Windows**
 
-- A working [Homebrew installation](user-guide/introduction) on Wii U side
+- A working [Homebrew installation](introduction) on Wii U side
 - This release of [FTPiiU Everywhere](http://wiiubru.com/appstore/zips/fpiiu-cbhc.zip)
 - An FTP client such as [FileZilla](https://filezilla-project.org/download.php?show_all=1)
 - <a href="docs/files/overwrite-wiiu-titlehash.exe" download>overwrite-wiiu-titlehash.exe</a>
 
 #### **macOS & Linux**
 
-- A working [Homebrew installation](user-guide/introduction) on Wii U side
+- A working [Homebrew installation](introduction) on Wii U side
 - This release of [FTPiiU Everywhere](http://wiiubru.com/appstore/zips/fpiiu-cbhc.zip)
 - The latest release of [Python](https://www.python.org/downloads/)
 - An FTP client such as [FileZilla](https://filezilla-project.org/download.php?show_all=1)
@@ -46,7 +46,7 @@ This page will guide you through the process of recovering a corrupted IOS on yo
 
 !> **Do not** attempt to delete the `00000002` folder in `/slccmpt01/title/00000001` nor the `00000002.tik` file in `/slccmpt01/ticket/00000001`.
 
-?> If you are using a system update blocking method, please [remove it](extras/unblock-updates).
+?> If you are using a system update blocking method, please [remove it](unblock-updates).
 
 <!-- tabs:start -->
 
@@ -58,7 +58,7 @@ This page will guide you through the process of recovering a corrupted IOS on yo
 1. Launch FileZilla
 1. Type in the IP address displayed by your Wii U in the `Host` field at the top of the window and click on `Quickconnect`
 1. In FileZilla, navigate to `/slccmpt01/title/00000001`
-1. Go to [this page](troubleshooting/ios-folders) to see which folder/ticket you need to delete
+1. Go to [this page](ios-folders) to see which folder/ticket you need to delete
 1. Delete the corresponding folders of the IOSes you want to recover
 1. Navigate to `/slccmpt01/ticket/00000001`
 1. Delete the corresponding `.tik` files of the IOSes you want to recover
@@ -70,7 +70,7 @@ This page will guide you through the process of recovering a corrupted IOS on yo
 1. Launch the System Settings
 1. Perform a [System Update](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1136/~/how-to-perform-a-system-update)
 
-?> You can now re-enable your [system update blocking method](extras/block-updates).
+?> You can now re-enable your [system update blocking method](block-updates).
 
 ### **macOS & Linux**
 
@@ -80,7 +80,7 @@ This page will guide you through the process of recovering a corrupted IOS on yo
 1. Launch FileZilla
 1. Type in the IP address displayed by your Wii U in the `Host` field at the top of the window and click on `Quickconnect`
 1. In FileZilla, navigate to `/slccmpt01/title/00000001`
-1. Go to [this page](troubleshooting/ios-folders) to see which folder/ticket you need to delete
+1. Go to [this page](ios-folders) to see which folder/ticket you need to delete
 1. Delete the corresponding folders of the IOSes you want to recover
 1. Navigate to `/slccmpt01/ticket/00000001`
 1. Delete the corresponding `.tik` files of the IOSes you want to recover
@@ -96,6 +96,6 @@ This page will guide you through the process of recovering a corrupted IOS on yo
 1. Launch the System Settings
 1. Perform a [System Update](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1136/~/how-to-perform-a-system-update)
 
-?> You can now re-enable your [system update blocking method](extras/block-updates).
+?> You can now re-enable your [system update blocking method](block-updates).
 
 <!-- tabs:end -->

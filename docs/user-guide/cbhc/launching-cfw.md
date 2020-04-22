@@ -12,7 +12,7 @@ Unlike systems such as the DSi, Wii, or 3DS, Wii U CFW is temporary. This means 
 <br>- Don't delete the user account that bought the DS VC game
 <br>- Don't re-install the same game using WUP Installer or from the eShop
 <br>- Don't install Haxchi over CBHC
-<br>- Don't uninstall the DS Virtual Console game without [properly uninstalling CBHC first](extras/uninstall-cbhc)
+<br>- Don't uninstall the DS Virtual Console game without [properly uninstalling CBHC first](../uninstall-cbhc)
 <br>- Don't move the DS Virtual Console game to a USB drive
 
 !> Breaking one of the above rules will result in a brick.
@@ -21,7 +21,7 @@ Unlike systems such as the DSi, Wii, or 3DS, Wii U CFW is temporary. This means 
 
 1. Take the SD Card out of your PC and plug it into your Wii U.
 1. If you haven't already, now download your DS VC game of choice from the eShop.
-1. Launch the Homebrew Launcher on your system as [previously explained](user-guide/cbhc/browser-exploit).
+1. Launch the Homebrew Launcher on your system as [previously explained](browser-exploit).
 1. Navigate the Homebrew Launcher and open the Haxchi app.
 1. Use the DPAD to navigate the cursor to the game you want to install Haxchi to and press the A button to install it.
 1. Once the installation has finished, your console will launch the Wii U Menu. You will see your game replaced by a Haxchi icon.
@@ -35,29 +35,3 @@ Unlike systems such as the DSi, Wii, or 3DS, Wii U CFW is temporary. This means 
 1. Use the DPAD to navigate to `Boot System Menu` and press the A button. This will launch the Wii U Menu with CFW enabled.
 1. Your console now automatically boots into CFW every reboot.
 1. You can now re-attach any USB devices you had attached before starting the guide.
-
-<script src="https://cdn.jsdelivr.net/npm/docsify-pagination@2/dist/docsify-pagination.min.js"></script>
-<div class="docsify-pagination-container">
-<div class="pagination-item pagination-item--previous">
-    <a href="#/user-guide/cbhc/nand-backup">
-    <div class="pagination-item-label">
-        <svg class="icon" width="10" height="16" viewBox="0 0 10 16" xmlns="http://www.w3.org/2000/svg">
-        <polyline fill="none" vector-effect="non-scaling-stroke" points="8,2 2,8 8,14"></polyline>
-        </svg>
-        <span>PREVIOUS</span>
-    </div>
-    <div class="pagination-item-title">Making a NAND Backup</div>
-    </a>
-</div>
-<div class="pagination-item pagination-item--next">
-    <a href="#/user-guide/cbhc/installing-hblc">
-    <div class="pagination-item-label">
-        <span>NEXT</span>
-        <svg width="10" height="16" viewBox="0 0 10 16" xmlns="http://www.w3.org/2000/svg">
-        <polyline fill="none" vector-effect="non-scaling-stroke" points="2,2 8,8 2,14"></polyline>
-        </svg>
-    </div>
-    <div class="pagination-item-title">Install Homebrew Channel</div>
-    </a>
-</div>
-</div>

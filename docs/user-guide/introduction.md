@@ -17,12 +17,15 @@ For live support with this guide please visit us in **#wiiu-assistance** on the 
 > CFW can be set up on any console on the latest version.
 
 ### Homebrew & CFW Uses
+>
 > Among other things, it allows you to do the following:
-> * Use “ROM hacks” for games that you own
-> * Backup, edit and restore saves for many games
-> * Play games for older systems with various emulators, using RetroArch or other standalone emulators
-> * Play out-of-region games
-> * Dump your Wii U game discs to a format that can be installed on your internal or external Wii U storage drive.
+>
+> - Use “ROM hacks” for games that you own
+> - Backup, edit and restore saves for many games
+> - Play games for older systems with various emulators, using RetroArch or other standalone emulators
+> - Play out-of-region games
+> - Dump your Wii U game discs to a format that can be installed on your internal or external Wii U storage drive.
+>
 
 
 ### End Goal
@@ -32,6 +35,7 @@ For live support with this guide please visit us in **#wiiu-assistance** on the 
 ### Before Starting
 
 !> Before beginning the guide, you must know the risks of Wii U hacking: EVERY time you modify your system, there is always the potential for an UNRECOVERABLE brick. They’re rare but still a possibility so make sure you follow ALL directions EXACTLY.
+
 >
 > This guide will work on all Wii U consoles in all regions on firmware 5.5.4 or below.
 >
@@ -51,18 +55,6 @@ With the exception of CBHC, Custom Firmware is not permanent with current method
 
 It is advised that you read the entire guide from start to finish one or more times before actually running through the guide with your system.
 
+---
 
-<script src="https://cdn.jsdelivr.net/npm/docsify-pagination@2/dist/docsify-pagination.min.js"></script>
-<div class="docsify-pagination-container">
-<div class="pagination-item pagination-item--next">
-    <a href="#/user-guide/cfw-choice">
-    <div class="pagination-item-label">
-        <span>NEXT</span>
-        <svg width="10" height="16" viewBox="0 0 10 16" xmlns="http://www.w3.org/2000/svg">
-        <polyline fill="none" vector-effect="non-scaling-stroke" points="2,2 8,8 2,14"></polyline>
-        </svg>
-    </div>
-    <div class="pagination-item-title">Choose a CFW</div>
-    </a>
-</div>
-</div>
+### [Continue to Choose a CFW](cfw-choice) {docsify-ignore}

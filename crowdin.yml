@@ -1,0 +1,9 @@
+files:
+  - source: /docs/**/*.md
+    ignore:
+      - /**/assets/
+      - /**/files/
+      - LICENSE.md
+      - README.md
+    translation: >-
+      /translations/%locale_with_underscore%/%original_path%/%original_file_name%

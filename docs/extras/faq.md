@@ -17,11 +17,11 @@ The cheapest DS VC games usable for this exploit:
 
 ### Can I install games from my USB instead of SD?
 
-Yes. It is, however, a bit more complicated than installing from SD Card. Detailed instructions are in the `Install from USB` tab in the [Dumping guide](extras/dump-games).
+Yes. It is, however, a bit more complicated than installing from SD Card. Detailed instructions are in the `Install from USB` tab in the [Dumping guide](dump-games).
 
 ### How to Delete Update Folder to Block Updates on Wii U
 
-If you want to delete the update folder to block updates, see its tab in the [Blocking Updates guide](extras/block-updates).
+If you want to delete the update folder to block updates, see its tab in the [Blocking Updates guide](block-updates).
 
 ### What SD Card size is recommended?
 

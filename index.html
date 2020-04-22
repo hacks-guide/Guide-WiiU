@@ -25,13 +25,196 @@
         window.$docsify = {
             // GENERAL
             // -----------------------------------------------------------------
-            name       : 'NH Wii U Guide',
-            homepage   : 'user-guide/introduction.md',
-            logo       : 'assets/img/logo.png',
-            loadNavbar : 'navbar.md',
-            mergeNavbar: false,
-            loadSidebar: 'sidebar.md',
-            basePath   : 'docs/',
+            name        : 'NH Wii U Guide',
+            homepage    : 'docs/user-guide/introduction.md',
+            logo        : 'docs/assets/img/logo.png',
+            loadNavbar  : 'navbar.md',
+            mergeNavbar : false,
+            loadSidebar : 'sidebar.md',
+            relativePath: true,
+            alias       : {
+                '/'                                           : '/docs/user-guide/introduction.md',
+                '/sidebar.md'                                 : '/docs/sidebar.md',
+                '/navbar.md'                                  : '/docs/navbar.md',
+                '/introduction'                               : '/docs/user-guide/introduction.md',
+                '/cfw-choice'                                 : '/docs/user-guide/cfw-choice.md',
+                // CBHC
+                '/cbhc/sidebar.md'                            : '/docs/user-guide/cbhc/sidebar.md',
+                '/cbhc/ds-vc-choice'                          : '/docs/user-guide/cbhc/ds-vc-choice.md',
+                '/cbhc/sd-preparation'                        : '/docs/user-guide/cbhc/sd-preparation.md',
+                '/cbhc/browser-exploit'                       : '/docs/user-guide/cbhc/browser-exploit.md',
+                '/cbhc/nand-backup'                           : '/docs/user-guide/cbhc/nand-backup.md',
+                '/cbhc/launching-cfw'                         : '/docs/user-guide/cbhc/launching-cfw.md',
+                '/cbhc/installing-hblc'                       : '/docs/user-guide/cbhc/installing-hblc.md',
+                // Haxchi
+                '/haxchi/sidebar.md'                          : '/docs/user-guide/haxchi/sidebar.md',
+                '/haxchi/ds-vc-choice'                        : '/docs/user-guide/haxchi/ds-vc-choice.md',
+                '/haxchi/sd-preparation'                      : '/docs/user-guide/haxchi/sd-preparation.md',
+                '/haxchi/browser-exploit'                     : '/docs/user-guide/haxchi/browser-exploit.md',
+                '/haxchi/nand-backup'                         : '/docs/user-guide/haxchi/nand-backup.md',
+                '/haxchi/launching-cfw'                       : '/docs/user-guide/haxchi/launching-cfw.md',
+                '/haxchi/installing-hblc'                     : '/docs/user-guide/haxchi/installing-hblc.md',
+                // Mocha
+                '/mocha/sidebar.md'                           : '/docs/user-guide/mocha/sidebar.md',
+                '/mocha/entrypoint-choice'                    : '/docs/user-guide/mocha/entrypoint-choice.md',
+                // Mocha - Online Exploit
+                '/mocha/online-exploit/sidebar.md'            : '/docs/user-guide/mocha/online-exploit/sidebar.md',
+                '/mocha/online-exploit/sd-preparation'        : '/docs/user-guide/mocha/online-exploit/sd-preparation.md',
+                '/mocha/online-exploit/browser-exploit'       : '/docs/user-guide/mocha/online-exploit/browser-exploit.md',
+                '/mocha/online-exploit/nand-backup'           : '/docs/user-guide/mocha/online-exploit/nand-backup.md',
+                '/mocha/online-exploit/launching-cfw'         : '/docs/user-guide/mocha/online-exploit/launching-cfw.md',
+                // Mocha - Indexiine 
+                '/mocha/indexiine/sidebar.md'                 : '/docs/user-guide/mocha/indexiine/sidebar.md',
+                '/mocha/indexiine/sd-preparation'             : '/docs/user-guide/mocha/indexiine/sd-preparation.md',
+                '/mocha/indexiine/browser-exploit'            : '/docs/user-guide/mocha/indexiine/browser-exploit.md',
+                '/mocha/indexiine/nand-backup'                : '/docs/user-guide/mocha/indexiine/nand-backup.md',
+                '/mocha/indexiine/browser-modding'            : '/docs/user-guide/mocha/indexiine/browser-modding.md',
+                '/mocha/indexiine/launching-cfw'              : '/docs/user-guide/mocha/indexiine/launching-cfw.md',
+                // vWii
+                '/vwii-modding'                               : '/docs/vwii/vwii-modding.md',
+                '/vwii/sidebar.md'                            : '/docs/user-guide/vwii/sidebar.md',
+                '/vwii/browser-exploit'                       : '/docs/user-guide/vwii/browser-exploit.md',
+                // Troubleshooting
+                '/recover-mii-channel'                        : '/docs/troubleshooting/recover-mii-channel.md',
+                '/recover-ios'                                : '/docs/troubleshooting/recover-ios.md',
+                '/ios-folders'                                : '/docs/troubleshooting/ios-folders.md',
+                '/common-issues-fixes'                        : '/docs/troubleshooting/common-issues-fixes.md',
+                '/fix-errcode-112-1037'                       : '/docs/troubleshooting/fix-errcode-112-1037.md',
+                // Extras
+                '/block-updates'                              : '/docs/extras/block-updates.md',
+                '/dump-games'                                 : '/docs/extras/dump-games.md',
+                '/dump-wii-games'                             : '/docs/extras/dump-wii-games.md',
+                '/unblock-updates'                            : '/docs/extras/unblock-updates.md',
+                '/uninstall-cbhc'                             : '/docs/extras/uninstall-cbhc.md',
+                '/faq'                                        : '/docs/extras/faq.md',
+                '/find-wiiu-ip-address'                       : '/docs/extras/find-wiiu-ip-address.md',
+                // About
+                '/about'                                      : '/docs/extras/about.md',
+                // Privacy Policy
+                '/privacy-policy'                             : '/docs/privacy/privacy-policy',
+
+                // Translation - French
+                '/fr_FR/'                                     : '/translations/fr_FR/docs/user-guide/introduction.md',
+                '/fr_FR/sidebar.md'                           : '/translations/fr_FR/docs/sidebar.md',
+                '/fr_FR/navbar.md'                            : '/translations/fr_FR/docs/navbar.md',
+                '/fr_FR/introduction'                         : '/translations/fr_FR/docs/user-guide/introduction.md',
+                '/fr_FR/cfw-choice'                           : '/translations/fr_FR/docs/user-guide/cfw-choice.md',
+                // CBHC
+                '/fr_FR/cbhc/sidebar.md'                      : '/translations/fr_FR/docs/user-guide/cbhc/sidebar.md',
+                '/fr_FR/cbhc/ds-vc-choice'                    : '/translations/fr_FR/docs/user-guide/cbhc/ds-vc-choice.md',
+                '/fr_FR/cbhc/sd-preparation'                  : '/translations/fr_FR/docs/user-guide/cbhc/sd-preparation.md',
+                '/fr_FR/cbhc/browser-exploit'                 : '/translations/fr_FR/docs/user-guide/cbhc/browser-exploit.md',
+                '/fr_FR/cbhc/nand-backup'                     : '/translations/fr_FR/docs/user-guide/cbhc/nand-backup.md',
+                '/fr_FR/cbhc/launching-cfw'                   : '/translations/fr_FR/docs/user-guide/cbhc/launching-cfw.md',
+                '/fr_FR/cbhc/installing-hblc'                 : '/translations/fr_FR/docs/user-guide/cbhc/installing-hblc.md',
+                // Haxchi
+                '/fr_FR/haxchi/sidebar.md'                    : '/translations/fr_FR/docs/user-guide/haxchi/sidebar.md',
+                '/fr_FR/haxchi/ds-vc-choice'                  : '/translations/fr_FR/docs/user-guide/haxchi/ds-vc-choice.md',
+                '/fr_FR/haxchi/sd-preparation'                : '/translations/fr_FR/docs/user-guide/haxchi/sd-preparation.md',
+                '/fr_FR/haxchi/browser-exploit'               : '/translations/fr_FR/docs/user-guide/haxchi/browser-exploit.md',
+                '/fr_FR/haxchi/nand-backup'                   : '/translations/fr_FR/docs/user-guide/haxchi/nand-backup.md',
+                '/fr_FR/haxchi/launching-cfw'                 : '/translations/fr_FR/docs/user-guide/haxchi/launching-cfw.md',
+                '/fr_FR/haxchi/installing-hblc'               : '/translations/fr_FR/docs/user-guide/haxchi/installing-hblc.md',
+                // Mocha
+                '/fr_FR/mocha/sidebar.md'                     : '/translations/fr_FR/docs/user-guide/mocha/sidebar.md',
+                '/fr_FR/mocha/entrypoint-choice'              : '/translations/fr_FR/docs/user-guide/mocha/entrypoint-choice.md',
+                // Mocha - Online Exploit
+                '/fr_FR/mocha/online-exploit/sidebar.md'      : '/translations/fr_FR/docs/user-guide/mocha/online-exploit/sidebar.md',
+                '/fr_FR/mocha/online-exploit/sd-preparation'  : '/translations/fr_FR/docs/user-guide/mocha/online-exploit/sd-preparation.md',
+                '/fr_FR/mocha/online-exploit/browser-exploit' : '/translations/fr_FR/docs/user-guide/mocha/online-exploit/browser-exploit.md',
+                '/fr_FR/mocha/online-exploit/nand-backup'     : '/translations/fr_FR/docs/user-guide/mocha/online-exploit/nand-backup.md',
+                '/fr_FR/mocha/online-exploit/launching-cfw'   : '/translations/fr_FR/docs/user-guide/mocha/online-exploit/launching-cfw.md',
+                // Mocha - Indexiine 
+                '/fr_FR/mocha/indexiine/sidebar.md'           : '/translations/fr_FR/docs/user-guide/mocha/indexiine/sidebar.md',
+                '/fr_FR/mocha/indexiine/sd-preparation'       : '/translations/fr_FR/docs/user-guide/mocha/indexiine/sd-preparation.md',
+                '/fr_FR/mocha/indexiine/browser-exploit'      : '/translations/fr_FR/docs/user-guide/mocha/indexiine/browser-exploit.md',
+                '/fr_FR/mocha/indexiine/nand-backup'          : '/translations/fr_FR/docs/user-guide/mocha/indexiine/nand-backup.md',
+                '/fr_FR/mocha/indexiine/browser-modding'      : '/translations/fr_FR/docs/user-guide/mocha/indexiine/browser-modding.md',
+                '/fr_FR/mocha/indexiine/launching-cfw'        : '/translations/fr_FR/docs/user-guide/mocha/indexiine/launching-cfw.md',
+                // vWii
+                '/fr_FR/vwii-modding'                         : '/translations/fr_FR/docs/vwii/vwii-modding.md',
+                '/fr_FR/vwii/sidebar.md'                      : '/translations/fr_FR/docs/user-guide/vwii/sidebar.md',
+                '/fr_FR/vwii/browser-exploit'                 : '/translations/fr_FR/docs/user-guide/vwii/browser-exploit.md',
+                // Troubleshooting
+                '/fr_FR/recover-mii-channel'                  : '/translations/fr_FR/docs/troubleshooting/recover-mii-channel.md',
+                '/fr_FR/recover-ios'                          : '/translations/fr_FR/docs/troubleshooting/recover-ios.md',
+                '/fr_FR/ios-folders'                          : '/translations/fr_FR/docs/troubleshooting/ios-folders.md',
+                '/fr_FR/common-issues-fixes'                  : '/translations/fr_FR/docs/troubleshooting/common-issues-fixes.md',
+                '/fr_FR/fix-errcode-112-1037'                 : '/translations/fr_FR/docs/troubleshooting/fix-errcode-112-1037.md',
+                // Extras
+                '/fr_FR/block-updates'                        : '/translations/fr_FR/docs/extras/block-updates.md',
+                '/fr_FR/dump-games'                           : '/translations/fr_FR/docs/extras/dump-games.md',
+                '/fr_FR/dump-wii-games'                       : '/translations/fr_FR/docs/extras/dump-wii-games.md',
+                '/fr_FR/unblock-updates'                      : '/translations/fr_FR/docs/extras/unblock-updates.md',
+                '/fr_FR/uninstall-cbhc'                       : '/translations/fr_FR/docs/extras/uninstall-cbhc.md',
+                '/fr_FR/faq'                                  : '/translations/fr_FR/docs/extras/faq.md',
+                '/fr_FR/find-wiiu-ip-address'                 : '/translations/fr_FR/docs/extras/find-wiiu-ip-address.md',
+                // About
+                '/fr_FR/about'                                : '/translations/fr_FR/docs/extras/about.md',
+                // Privacy Policy
+                '/fr_FR/privacy-policy'                       : '/translations/fr_FR/docs/privacy/privacy-policy',
+
+                // Translation - Spanish
+                '/es_ES/'                                     : '/translations/es_ES/docs/user-guide/introduction.md',
+                '/es_ES/sidebar.md'                           : '/translations/es_ES/docs/sidebar.md',
+                '/es_ES/navbar.md'                            : '/translations/es_ES/docs/navbar.md',
+                '/es_ES/introduction'                         : '/translations/es_ES/docs/user-guide/introduction.md',
+                '/es_ES/cfw-choice'                           : '/translations/es_ES/docs/user-guide/cfw-choice.md',
+                // CBHC
+                '/es_ES/cbhc/sidebar.md'                      : '/translations/es_ES/docs/user-guide/cbhc/sidebar.md',
+                '/es_ES/cbhc/ds-vc-choice'                    : '/translations/es_ES/docs/user-guide/cbhc/ds-vc-choice.md',
+                '/es_ES/cbhc/sd-preparation'                  : '/translations/es_ES/docs/user-guide/cbhc/sd-preparation.md',
+                '/es_ES/cbhc/browser-exploit'                 : '/translations/es_ES/docs/user-guide/cbhc/browser-exploit.md',
+                '/es_ES/cbhc/nand-backup'                     : '/translations/es_ES/docs/user-guide/cbhc/nand-backup.md',
+                '/es_ES/cbhc/launching-cfw'                   : '/translations/es_ES/docs/user-guide/cbhc/launching-cfw.md',
+                '/es_ES/cbhc/installing-hblc'                 : '/translations/es_ES/docs/user-guide/cbhc/installing-hblc.md',
+                // Haxchi
+                '/es_ES/haxchi/sidebar.md'                    : '/translations/es_ES/docs/user-guide/haxchi/sidebar.md',
+                '/es_ES/haxchi/ds-vc-choice'                  : '/translations/es_ES/docs/user-guide/haxchi/ds-vc-choice.md',
+                '/es_ES/haxchi/sd-preparation'                : '/translations/es_ES/docs/user-guide/haxchi/sd-preparation.md',
+                '/es_ES/haxchi/browser-exploit'               : '/translations/es_ES/docs/user-guide/haxchi/browser-exploit.md',
+                '/es_ES/haxchi/nand-backup'                   : '/translations/es_ES/docs/user-guide/haxchi/nand-backup.md',
+                '/es_ES/haxchi/launching-cfw'                 : '/translations/es_ES/docs/user-guide/haxchi/launching-cfw.md',
+                '/es_ES/haxchi/installing-hblc'               : '/translations/es_ES/docs/user-guide/haxchi/installing-hblc.md',
+                // Mocha
+                '/es_ES/mocha/sidebar.md'                     : '/translations/es_ES/docs/user-guide/mocha/sidebar.md',
+                '/es_ES/mocha/entrypoint-choice'              : '/translations/es_ES/docs/user-guide/mocha/entrypoint-choice.md',
+                // Mocha - Online Exploit
+                '/es_ES/mocha/online-exploit/sidebar.md'      : '/translations/es_ES/docs/user-guide/mocha/online-exploit/sidebar.md',
+                '/es_ES/mocha/online-exploit/sd-preparation'  : '/translations/es_ES/docs/user-guide/mocha/online-exploit/sd-preparation.md',
+                '/es_ES/mocha/online-exploit/browser-exploit' : '/translations/es_ES/docs/user-guide/mocha/online-exploit/browser-exploit.md',
+                '/es_ES/mocha/online-exploit/nand-backup'     : '/translations/es_ES/docs/user-guide/mocha/online-exploit/nand-backup.md',
+                '/es_ES/mocha/online-exploit/launching-cfw'   : '/translations/es_ES/docs/user-guide/mocha/online-exploit/launching-cfw.md',
+                // Mocha - Indexiine 
+                '/es_ES/mocha/indexiine/sidebar.md'           : '/translations/es_ES/docs/user-guide/mocha/indexiine/sidebar.md',
+                '/es_ES/mocha/indexiine/sd-preparation'       : '/translations/es_ES/docs/user-guide/mocha/indexiine/sd-preparation.md',
+                '/es_ES/mocha/indexiine/browser-exploit'      : '/translations/es_ES/docs/user-guide/mocha/indexiine/browser-exploit.md',
+                '/es_ES/mocha/indexiine/nand-backup'          : '/translations/es_ES/docs/user-guide/mocha/indexiine/nand-backup.md',
+                '/es_ES/mocha/indexiine/browser-modding'      : '/translations/es_ES/docs/user-guide/mocha/indexiine/browser-modding.md',
+                '/es_ES/mocha/indexiine/launching-cfw'        : '/translations/es_ES/docs/user-guide/mocha/indexiine/launching-cfw.md',
+                // vWii
+                '/es_ES/vwii-modding'                         : '/translations/es_ES/docs/vwii/vwii-modding.md',
+                '/es_ES/vwii/sidebar.md'                      : '/translations/es_ES/docs/user-guide/vwii/sidebar.md',
+                '/es_ES/vwii/browser-exploit'                 : '/translations/es_ES/docs/user-guide/vwii/browser-exploit.md',
+                // Troubleshooting
+                '/es_ES/recover-mii-channel'                  : '/translations/es_ES/docs/troubleshooting/recover-mii-channel.md',
+                '/es_ES/recover-ios'                          : '/translations/es_ES/docs/troubleshooting/recover-ios.md',
+                '/es_ES/ios-folders'                          : '/translations/es_ES/docs/troubleshooting/ios-folders.md',
+                '/es_ES/common-issues-fixes'                  : '/translations/es_ES/docs/troubleshooting/common-issues-fixes.md',
+                '/es_ES/fix-errcode-112-1037'                 : '/translations/es_ES/docs/troubleshooting/fix-errcode-112-1037.md',
+                // Extras
+                '/es_ES/block-updates'                        : '/translations/es_ES/docs/extras/block-updates.md',
+                '/es_ES/dump-games'                           : '/translations/es_ES/docs/extras/dump-games.md',
+                '/es_ES/dump-wii-games'                       : '/translations/es_ES/docs/extras/dump-wii-games.md',
+                '/es_ES/unblock-updates'                      : '/translations/es_ES/docs/extras/unblock-updates.md',
+                '/es_ES/uninstall-cbhc'                       : '/translations/es_ES/docs/extras/uninstall-cbhc.md',
+                '/es_ES/faq'                                  : '/translations/es_ES/docs/extras/faq.md',
+                '/es_ES/find-wiiu-ip-address'                 : '/translations/es_ES/docs/extras/find-wiiu-ip-address.md',
+                // About
+                '/es_ES/about'                                : '/translations/es_ES/docs/extras/about.md',
+                // Privacy Policy
+                '/es_ES/privacy-policy'                       : '/translations/es_ES/docs/privacy/privacy-policy',
+            },
 
             // NAVIGATION
             // -----------------------------------------------------------------
@@ -58,6 +241,7 @@
         };
     </script>
     <script src="docs/assets/js/main.js"></script>
+    <script src="docs/assets/js/docsify-pagination.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/docsify@4"></script>
     <script src="https://cdn.jsdelivr.net/npm/docsify-themeable@0"></script>
     <script src="https://cdn.jsdelivr.net/npm/docsify-tabs@latest"></script>

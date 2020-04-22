@@ -28,5 +28,4 @@ This is needed if you ever need to perform a System Update.
 `Your WiFi connection > Change Settings > DNS` and set the option to `Auto-obtain`.
 1. You are now no longer blocking system updates.
 
-
 <!-- tabs:end -->

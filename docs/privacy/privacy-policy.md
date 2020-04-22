@@ -14,17 +14,17 @@ This privacy policy applies to all information collected through our website (su
 
 ## TABLE OF CONTENTS
 
-[1. WHAT INFORMATION DO WE COLLECT?](privacy/privacy-policy?id=_1-what-information-do-we-collect)
+[1. WHAT INFORMATION DO WE COLLECT?](privacy-policy?id=_1-what-information-do-we-collect)
 
-[2. DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?](privacy/privacy-policy?id=_2-do-we-use-cookies-and-other-tracking-technologies)
+[2. DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?](privacy-policy?id=_2-do-we-use-cookies-and-other-tracking-technologies)
 
-[3. WHAT ARE YOUR PRIVACY RIGHTS?](privacy/privacy-policy?id=_3-what-are-your-privacy-rights)
+[3. WHAT ARE YOUR PRIVACY RIGHTS?](privacy-policy?id=_3-what-are-your-privacy-rights)
 
-[4. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?](privacy/privacy-policy?id=_4-do-california-residents-have-specific-privacy-rights)
+[4. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?](privacy-policy?id=_4-do-california-residents-have-specific-privacy-rights)
 
-[5. DO WE MAKE UPDATES TO THIS POLICY?](privacy/privacy-policy?id=_5-do-we-make-updates-to-this-policy)
+[5. DO WE MAKE UPDATES TO THIS POLICY?](privacy-policy?id=_5-do-we-make-updates-to-this-policy)
 
-[6. HOW CAN YOU CONTACT US ABOUT THIS POLICY?](privacy/privacy-policy?id=_6-how-can-you-contact-us-about-this-policy)
+[6. HOW CAN YOU CONTACT US ABOUT THIS POLICY?](privacy-policy?id=_6-how-can-you-contact-us-about-this-policy)
 
 
 
@@ -45,7 +45,7 @@ We do not use cookies and similar tracking technologies (like web beacons and pi
 
 ***In Short:*** *In some regions, such as the European Economic Area, you have rights that allow you greater access to and control over your personal information. You may review, change, or terminate your account at any time.*
 
-In some regions (like the European Economic Area), you have certain rights under applicable data protection laws. These may include the right (i) to request access and obtain a copy of your personal information, (ii) to request rectification or erasure; (iii) to restrict the processing of your personal information; and (iv) if applicable, to data portability. In certain circumstances, you may also have the right to object to the processing of your personal information. To make such a request, please use the [contact details](privacy/privacy-policy?id=_6-how-can-you-contact-us-about-this-policy) provided below. We will consider and act upon any request in accordance with applicable data protection laws.
+In some regions (like the European Economic Area), you have certain rights under applicable data protection laws. These may include the right (i) to request access and obtain a copy of your personal information, (ii) to request rectification or erasure; (iii) to restrict the processing of your personal information; and (iv) if applicable, to data portability. In certain circumstances, you may also have the right to object to the processing of your personal information. To make such a request, please use the [contact details](privacy-policy?id=_6-how-can-you-contact-us-about-this-policy) provided below. We will consider and act upon any request in accordance with applicable data protection laws.
 
 If we are relying on your consent to process your personal information, you have the right to withdraw your consent at any time. Please note however that this will not affect the lawfulness of the processing before its withdrawal.
 

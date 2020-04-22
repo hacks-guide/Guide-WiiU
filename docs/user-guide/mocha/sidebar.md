@@ -1,9 +1,9 @@
-- **Navigation**
-- [Home Page](user-guide/introduction)
-- [Choose a CFW](user-guide/cfw-choice)
 - **Mocha**
-- [Choose an Entrypoint](user-guide/mocha/entrypoint-choice)
+- [Home Page](../introduction)
+- [Choose a CFW](../cfw-choice)
+- [Choose an Entrypoint](entrypoint-choice)
 - **Links**
 - [![GitHub](https://icongr.am/simple/github.svg?color=808080&size=16)GitHub](https://github.com/nh-server/WiiUGuide)
 - [![Discord](https://icongr.am/simple/discord.svg?colored&size=16)Discord](https://discord.gg/C29hYvh)
-- [About](extras/about)
+- [![Coming Soon!](https://icongr.am/material/translate.svg?color=808080&size=16)Coming Soon!](https://future_crowdin.url)
+- [About](../about)
