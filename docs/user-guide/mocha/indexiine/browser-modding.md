@@ -33,7 +33,7 @@ Now that you have your NAND backup in case anything goes wrong later, you can in
 1. Make a backup of the original `index.html` file by copying it from your Wii U to your computer.
 1. Replace the original `index.html` by the previously downloaded Indexiine `index.html` file.
 
-!> You must overwrite the html file, not delete it. If you ever delete it, you will get the error code 112-1037 and you will have to [manually set the right file permissions](fix-errcode-112-1037) for it.
+!> You must overwrite the html file, not delete it. If you ever delete it, you will get the error code 112-1037 and you will have to [manually set the right file permissions](../../fix-errcode-112-1037) for it.
 
 1. Close FTPiiU Everywhere and the Homebrew Launcher.
 1. Launch the Internet Browser.
@@ -45,4 +45,4 @@ Now that you have your NAND backup in case anything goes wrong later, you can in
 
 The Homebrew Launcher will now be launched every time you launch the Internet Browser even without an Internet connection.
 
-?> If you're getting the error code 112-1037, please see [this page](fix-errcode-112-1037).
+?> If you're getting the error code 112-1037, please see [this page](../../fix-errcode-112-1037).
