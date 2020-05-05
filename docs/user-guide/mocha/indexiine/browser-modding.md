@@ -27,9 +27,9 @@ Now that you have your NAND backup in case anything goes wrong later, you can in
 1. Launch FTPiiU Everywhere.
 1. On your computer, launch FileZilla.
 1. Type in the IP address displayed by your Wii U in the `Host` field at the top of the window and click on `Quickconnect`.
-1. - If you have a EUR region Wii U, navigate to <code>/storage_mlc/sys/title/<wbr>000500030/1001220A/<wbr>content/pages</code>.
-   - If you have a USA region Wii U, navigate to <code>/storage_mlc/sys/title/<wbr>000500030/1001210A/<wbr>content/pages</code>.
-   - If you have a JPN region Wii U, navigate to <code>/storage_mlc/sys/title/<wbr>000500030/1001200A/<wbr>content/pages</code>.
+1. - If you have a EUR region Wii U, navigate to <code>/storage_mlc/sys/title/<wbr>00050030/1001220A/<wbr>content/pages</code>.
+   - If you have a USA region Wii U, navigate to <code>/storage_mlc/sys/title/<wbr>00050030/1001210A/<wbr>content/pages</code>.
+   - If you have a JPN region Wii U, navigate to <code>/storage_mlc/sys/title/<wbr>00050030/1001200A/<wbr>content/pages</code>.
 1. Make a backup of the original `index.html` file by copying it from your Wii U to your computer.
 1. Replace the original `index.html` by the previously downloaded Indexiine `index.html` file.
 
