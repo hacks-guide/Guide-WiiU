@@ -1,12 +1,12 @@
 # FAQ {docsify-ignore-all}
 ---
-### Does Homebrew have any risks?
+### Er det noen risikoer ved å bruke homebrew?
 
-Currently homebrewing the Wii U does not expose you to a risk of being banned by Nintendo unless you cheat in online games. You should, however, always be careful with launching downloaded homebrew, especially if you don't trust the source, as Homebrew can potentially damage your system!
+For øyeblikket er det ingen risiko for å bli banned av Nintendo ved bruk av homebrew med mindre du jukser i online spill. Men du bør alltid være forsiktig med å kjøre nedlastede homebrew filer, spesielt hvis du ikke stoler på kilden, da Homebrew kan potensielt skade systemet ditt!
 
-### What is Haxchi, and do I need it?
+### Hva er Haxchi, og trenger jeg det?
 
-Haxchi is a secondary entry point which uses certain DS Virtual Console titles to allow for access to homebrew while being completely offline (still works with online but no connection required to launch CFW)
+Haxchi er et sekundært inngangspunkt som bruker visse DS Virtual Console titler til å gi tilgang til homebrew uten å være koblet til internett (det fungerer fortsatt online, men trenger ikke tilkobling for å starte CFW)
 
 Haxchi is not required, however, if you want to use homebrew on your Wii U while offline you will need it. It’s highly recommended as it’s more stable than the browser entry point, especially on the newest firmware.
 
