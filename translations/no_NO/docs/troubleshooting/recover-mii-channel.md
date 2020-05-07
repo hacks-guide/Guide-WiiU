@@ -31,56 +31,56 @@ Denne siden vil hjelpe deg med å gjenopprette Mii Channel.
 
 #### **Windows**
 
-1. Extract the `fpiiu-cbhc.zip` file to the root of your SD Card.
-1. Install FileZilla on your computer.
+1. Pakk ut `fpiiu-cbhc.zip` til roten av SD-kortet.
+1. Installer FileZilla på PC'en din.
 
 #### **macOS & Linux**
 
-1. Extract the `fpiiu-cbhc.zip` file to the root of your SD Card.
-1. Install FileZilla on your computer.
+1. Pakk ut `fpiiu-cbhc.zip` til roten av SD-kortet.
+1. Installer FileZilla på PC'en din.
 1. Installer Python på PC'en din.
 
 <!-- tabs:end -->
 
-### Recovering The Channel
+### Gjenoppretting av kanalen
 
-!> If you are using a system update blocking method, please [remove it](unblock-updates).
+!> Hvis du bruker en blokkeringsmetode for systemoppdateringer, må du [tilbakestille den ](unblock-updates).
 
 <!-- tabs:start -->
 
 #### **Windows**
 
-1. Power on your Wii U and launch the CFW of your choice (Mocha, Haxchi or CBHC).
-1. Launch the Homebrew Launcher and FTPiiU Everywhere.
-1. Launch FileZilla on your computer.
-1. In FileZilla, type in the IP address displayed by your Wii U in the `Host` field at the top of the window and click on `Quickconnect`.
-1. Navigate to `/slccmpt01/title/00010002`.
-1. Delete the `48414341` folder.
-1. Launch the previously downloaded `overwrite-wiiu-titlehash.exe` file.
-1. Type in your Wii U's IP address and press Enter.
-1. Wait for it to finish what it's doing.
- - If an `err.log` file has been generated, please visit us in **#wiiu-assistance** on [Nintendo Homebrew Discord](https://discord.gg/C29hYvh).
-1. Exit FTPiiU Everywhere and the Homebrew Launcher.
+1. Slå på Wii U konsollen og start CFW (Mocha, Haxchi eller CBHC).
+1. Start Homebrew Launcher og kjør FTPiiU Everywhere.
+1. Start FileZilla på PC'en din.
+1. Skriv inn IP-adressen som vist på Wii U skjermen, i feltet `Vert (Host)` øverst i vinduet og klikk på `Quickconnect`.
+1. Naviger til `/slccmpt01/title/00010002`.
+1. Slett mappen som heter `48414341`.
+1. Start `overwrite-wiiu-titlehash.exe` filen som vi lasted ned tidligere.
+1. Skriv inn Wii U konsollens IP-adresse og trykk Enter.
+1. Vent til den er ferdig.
+ - If an `err.log` file has been generated, please visit us in **#wiiu-assistance** on [Nintendo Homebrew Discord](https://discord.gg/C29hYvh) and ask, in English, for assistance.
+1. Gå ut av FTPiiU Everywhere og Homebrew Launcher.
 1. Launch the System Settings.
 1. Perform a [System Update](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1136/~/how-to-perform-a-system-update).
 
 #### **macOS & Linux**
 
-1. Power on your Wii U and launch the CFW of your choice (Mocha, Haxchi or CBHC).
-1. Launch the Homebrew Launcher and FTPiiU Everywhere.
-1. Launch FileZilla on your computer.
-1. In FileZilla, type in the IP address displayed by your Wii U in the `Host` field at the top of the window and click on `Quickconnect`.
-1. Navigate to `/slccmpt01/title/00010002`.
-1. Delete the `48414341` folder.
+1. Slå på Wii U konsollen og start CFW (Mocha, Haxchi eller CBHC).
+1. Start Homebrew Launcher og kjør FTPiiU Everywhere.
+1. Start FileZilla på PC'en din.
+1. Skriv inn IP-adressen som vist på Wii U skjermen, i feltet `Vert (Host)` øverst i vinduet og klikk på `Quickconnect`.
+1. Naviger til `/slccmpt01/title/00010002`.
+1. Slett mappen som heter `48414341`.
 1. Åpne opp et terminalvindu.
 1. Skriv: `cd <directory>`.
  - On macOS, the most common place to find your downloaded files is `/Users/username/Downloads`.
  - On Linux, the most common place to find your downloaded files is `/home/username/Downloads`.
 1. Use the following command: `python3 overwrite-wiiu-titlehash.py`.
-1. Type in your Wii U's IP address and press Enter.
-1. Wait for it to finish what it's doing.
- - If an `err.log` file has been generated, please visit us in **#wiiu-assistance** on [Nintendo Homebrew Discord](https://discord.gg/C29hYvh).
-1. Exit FTPiiU Everywhere and the Homebrew Launcher.
+1. Skriv inn Wii U konsollens IP-adresse og trykk Enter.
+1. Vent til den er ferdig.
+ - If an `err.log` file has been generated, please visit us in **#wiiu-assistance** on [Nintendo Homebrew Discord](https://discord.gg/C29hYvh) and ask, in English, for assistance.
+1. Gå ut av FTPiiU Everywhere og Homebrew Launcher.
 1. Launch the System Settings.
 1. Perform a [System Update](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1136/~/how-to-perform-a-system-update).
 
