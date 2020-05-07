@@ -1,4 +1,4 @@
-# Recover a Corrupted IOS
+# Gjenopprett en korrupt IOS
 ---
 This page will guide you through the process of recovering a corrupted IOS on your vWii.
 
