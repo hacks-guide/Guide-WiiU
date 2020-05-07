@@ -1,8 +1,8 @@
 # Gjenopprett en korrupt IOS
 ---
-This page will guide you through the process of recovering a corrupted IOS on your vWii.
+Denne siden vil hjelpe deg med å gjenopprette en korrupt IOS i vWii.
 
-!> Do not use this method for anything else than [Recovering your Mii Channel](recover-mii-channel) or the following page.
+!> Ikke bruk denne metoden til noe annet enn å [Gjenopprette Mii Channel](recover-mii-channel) eller neste side.
 
 ### Dette trenger du
 
@@ -10,18 +10,18 @@ This page will guide you through the process of recovering a corrupted IOS on yo
 
 #### **Windows**
 
-- A working [Homebrew installation](introduction) on Wii U side
-- This release of [FTPiiU Everywhere](http://wiiubru.com/appstore/zips/fpiiu-cbhc.zip)
-- An FTP client such as [FileZilla](https://filezilla-project.org/download.php?show_all=1)
+- En fungerende [Homebrew installasjon](introduction) på Wii U siden
+- Denne utgaven av [FTPiiU Everywhere](http://wiiubru.com/appstore/zips/fpiiu-cbhc.zip)
+- En FTP-klient som for eksempel [FileZilla](https://filezilla-project.org/download.php?show_all=1)
 - <a href="https://github.com/ihaveamac/overwrite-wiiu-titlehash/releases/download/v1.0/overwrite-wiiu-titlehash.exe" download>overwrite-wiiu-titlehash.exe</a>
 
 #### **macOS & Linux**
 
-- A working [Homebrew installation](introduction) on Wii U side
-- This release of [FTPiiU Everywhere](http://wiiubru.com/appstore/zips/fpiiu-cbhc.zip)
-- The latest release of [Python](https://www.python.org/downloads/)
-- An FTP client such as [FileZilla](https://filezilla-project.org/download.php?show_all=1)
-- <a href="https://github.com/ihaveamac/overwrite-wiiu-titlehash/raw/master/overwrite-wiiu-titlehash.py" download>overwrite-wiiu-titlehash.py</a> **(right-click -> Save link as... -> Click Save).**
+- En fungerende [Homebrew installasjon](introduction) på Wii U siden
+- Denne utgaven av [FTPiiU Everywhere](http://wiiubru.com/appstore/zips/fpiiu-cbhc.zip)
+- Siste utgave av [Python](https://www.python.org/downloads/)
+- En FTP-klient som for eksempel [FileZilla](https://filezilla-project.org/download.php?show_all=1)
+- <a href="https://github.com/ihaveamac/overwrite-wiiu-titlehash/raw/master/overwrite-wiiu-titlehash.py" download>overwrite-wiiu-titlehash.py</a> **(Høyreklikk -> Lagre lenke som... -> Klikk Lagre).**
 
 <!-- tabs:end -->
 
@@ -31,28 +31,28 @@ This page will guide you through the process of recovering a corrupted IOS on yo
 
 #### **Windows**
 
-1. Extract the `fpiiu-cbhc.zip` file to the root of your SD Card
-1. Install FileZilla on your computer
+1. Pakk ut `fpiiu-cbhc.zip` til roten av SD-kortet
+1. Installer FileZilla på PC'en din
 
 #### **macOS & Linux**
 
-1. Extract the `fpiiu-cbhc.zip` file to the root of your SD Card
-1. Install FileZilla on your computer
-1. Install Python on your computer
+1. Pakk ut `fpiiu-cbhc.zip` til roten av SD-kortet
+1. Installer FileZilla på PC'en din
+1. Installer Python på PC'en din
 
 <!-- tabs:end -->
 
-### Recovering The IOSes
+### Gjenoppretting av IOS'ene
 
-!> **Do not** attempt to delete the `00000002` folder in `/slccmpt01/title/00000001` nor the `00000002.tik` file in `/slccmpt01/ticket/00000001`.
+!> **Ikke ** slett `00000002` mappen i `/slccmpt01/title/00000001` eller `00000002.tik` filen i `/slccmpt01/ticket/00000001`.
 
-?> If you are using a system update blocking method, please [remove it](unblock-updates).
+?> Hvis du bruker en blokkeringsmetode for systemoppdateringer, må du [tilbakestille den ](unblock-updates).
 
 <!-- tabs:start -->
 
 #### **Windows**
 
-1. Power on your Wii U and launch the CFW of your choice (Mocha, Haxchi or CBHC)
+1. Slå på Wii U konsollen og start CFW (Mocha, Haxchi eller CBHC)
 1. Start Homebrew Launcher
 1. Launch FTPiiU Everywhere
 1. Launch FileZilla
@@ -74,7 +74,7 @@ This page will guide you through the process of recovering a corrupted IOS on yo
 
 ### **macOS & Linux**
 
-1. Power on your Wii U and launch the CFW of your choice (Mocha, Haxchi or CBHC)
+1. Slå på Wii U konsollen og start CFW (Mocha, Haxchi eller CBHC)
 1. Start Homebrew Launcher
 1. Launch FTPiiU Everywhere
 1. Launch FileZilla
