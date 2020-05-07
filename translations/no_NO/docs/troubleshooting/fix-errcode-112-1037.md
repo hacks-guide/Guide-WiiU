@@ -22,7 +22,7 @@ Denne siden vil hjelpe deg med å fikse feilkode 112-1037.
 1. Start Homebrew Launcher og kjør Mocha.
 1. Gå tilbake til Wii U-menyen.
 1. Åpne opp et Command Prompt vindu.
-1. Skriv: `cd <directory>.<directory>`.
+1. Skriv: `cd <directory>`.
   - Eksempel: <code>cd C:\Brukere\brukernavn<wbr>\Nedlastninger</code>.
 1. Skriv: `py -3 -i wupclient.py`.
 1. Skriv inn IP-adressen til Wii U konsollen.
@@ -40,7 +40,7 @@ Denne siden vil hjelpe deg med å fikse feilkode 112-1037.
 1. Start Homebrew Launcher og kjør Mocha.
 1. Gå tilbake til Wii U-menyen.
 1. Åpne opp et terminalvindu.
-1. Skriv: `cd <directory>.<directory>`.
+1. Skriv: `cd <directory>`.
  - På macOS er det vanligste stedet å finne nedlastede filer i <code>/Brukere/brukernavn<wbr>/Nedlastninger</code>.
  - På Linux er det vanligste stedet å finne nedlastede filer i <code>/home/username<wbr>/Downloads</code>.
 1. Skriv: `py -3 -i wupclient.py`.
