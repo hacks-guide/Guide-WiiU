@@ -1,0 +1,14 @@
+- **Mocha - Indexiine**
+- [Home Page](../../introduction)
+- [Choose a CFW](../../cfw-choice)
+- [Choose an Entrypoint](../entrypoint-choice)
+- [SD Preparation](sd-preparation)
+- [Browser Exploit](browser-exploit)
+- [Making a NAND Backup](nand-backup)
+- [Internet Browser Modding](browser-modding)
+- [Launching CFW](launching-cfw)
+- **Links**
+- [![GitHub](https://icongr.am/simple/github.svg?color=808080&size=16)GitHub](https://github.com/hacks-guide/Guide-WiiU)
+- [![Discord](https://icongr.am/simple/discord.svg?colored&size=16)Discord](https://discord.gg/C29hYvh)
+<!-- - [![Coming Soon!](https://icongr.am/material/translate.svg?color=808080&size=16)Coming Soon!](https://future_crowdin.url) -->
+- [About](../../about)
