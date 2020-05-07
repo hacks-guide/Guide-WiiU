@@ -21,7 +21,7 @@ This page will guide you through the process of restoring your Mii Channel to a 
 - This release of [FTPiiU Everywhere](http://wiiubru.com/appstore/zips/fpiiu-cbhc.zip).
 - Siste utgave av [Python](https://www.python.org/downloads/).
 - An FTP client such as [FileZilla](https://filezilla-project.org/download.php?show_all=1t).
-- <a href="https://github.com/ihaveamac/overwrite-wiiu-titlehash/raw/master/overwrite-wiiu-titlehash.py" download>overwrite-wiiu-titlehash.py</a> **(right-click -> Save link as... -> Click Save).**
+- <a href="https://github.com/ihaveamac/overwrite-wiiu-titlehash/raw/master/overwrite-wiiu-titlehash.py" download>overwrite-wiiu-titlehash.py</a> **(Høyreklikk -> Lagre lenke som... -> Klikk Lagre).**
 
 <!-- tabs:end -->
 
