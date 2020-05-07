@@ -12,14 +12,14 @@ Guide collaboratif entre les Helpers et le Staff de Nintendo Homebrew, du stock 
 
 ### Custom Firmware
 
-> Custom Firmware (“CFW”) enables you to use more advanced hacks that userland homebrew can’t easily do. For instance, installing game modifications with ease. CFW can be set up on any console on the latest version.
+> Le Custom Firmware (« CFW ») vous permet d'utiliser des hacks plus avancés que les homebrews de type "userland" ne peuvent pas faire facilement. Par exemple, installer des mods de jeu en toute simplicité. Le CFW peut être configuré sur n'importe quelle console ayant la dernière version en date du système.
 
-### Homebrew & CFW Uses
+### Homebrew & Utilisation du CFW
 >
-> Among other things, it allows you to do the following:
+> Il vous permet, entre autres, de faire ce qui suit:
 > 
-> - Use “ROM hacks” for games that you own
-> - Backup, edit and restore saves for many games
+> - Utiliser des "ROM hacks" pour les jeux que vous possédez
+> - Sauvegarder, modifier et restaurer les données de sauvegarde pour de nombreux jeux
 > - Play games for older systems with various emulators, using RetroArch or other standalone emulators
 > - Play out-of-region games
 > - Dump your Wii U game discs to a format that can be installed on your internal or external Wii U storage drive.
