@@ -65,7 +65,7 @@ Denne siden vil hjelpe deg med å gjenopprette en korrupt IOS i vWii.
 1. Kjør `overwrite-wiiu-titlehash.exe` som du lastet ned tidligere
 1. Skriv inn Wii U konsollens IP-adresse og trykk Enter
 1. Vent til den er ferdig
- - If an `err.log` file has been generated, please visit us in **#wiiu-assistance** on [Nintendo Homebrew Discord](https://discord.gg/C29hYvh) and ask, in English, for assistance.
+ - Hvis en `err.log` fil blir generert, vennligst gå til oss i **#wiiu-assistance** på [Nintendo Homebrew Discord](https://discord.gg/C29hYvh) kanalen og spør om hjelp på engelsk.
 1. Avslutt FTPiiU Everywhere og start Homebrew Launcher
 1. Start System Innstillinger
 1. Utfør en [Systemoppdatering ](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1136/~/how-to-perform-a-system-update)
@@ -91,7 +91,7 @@ Denne siden vil hjelpe deg med å gjenopprette en korrupt IOS i vWii.
 1. Skriv: `python3 overwrite-wiiu-titlehash.py`
 1. Skriv inn Wii U konsollens IP-adresse og trykk Enter
 1. Vent til den er ferdig
- - If an `err.log` file has been generated, please visit us in **#wiiu-assistance** on [Nintendo Homebrew Discord](https://discord.gg/C29hYvh) and ask, in English, for assistance.
+ - Hvis en `err.log` fil blir generert, vennligst gå til oss i **#wiiu-assistance** på [Nintendo Homebrew Discord](https://discord.gg/C29hYvh) kanalen og spør om hjelp på engelsk.
 1. Avslutt FTPiiU Everywhere og start Homebrew Launcher
 1. Start System Innstillinger
 1. Utfør en [Systemoppdatering ](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1136/~/how-to-perform-a-system-update)
