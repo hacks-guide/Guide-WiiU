@@ -1,9 +1,9 @@
 # Haxchi {docsify-ignore-all}
 
-## Choose Your DS VC Game
+## Velg ett DS VC-spill
 
-The first thing to decide is what DS VC game you will buy.  
-Please note that the game you injected Haxchi/CBHC into will not be playable anymore until you uninstall Haxchi/CBHC and reinstall the game from the eShop.
+Det første du må velge er hvilket DS VC spill du skal kjøpe.   
+Vær oppmerksom på at spillet du installerer Haxchi/CBHC over vil ikke kunne spilles lenger før du avinstallerer Haxchi/CBHC og installere spillet på nytt fra eShop.
 
 ### Compatible DS VC Games
 
