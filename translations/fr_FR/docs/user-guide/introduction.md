@@ -31,7 +31,7 @@ Guide collaboratif entre les Helpers et le Staff de Nintendo Homebrew, du stock 
 
 ### Avant de commencer
 
-!> Before beginning the guide, you must know the risks of Wii U hacking: EVERY time you modify your system, there is always the potential for an UNRECOVERABLE brick. They’re rare but still a possibility so make sure you follow ALL directions EXACTLY.
+!> Avant de commencer le guide, vous devez connaître les risques du hack de la Wii U : À CHAQUE FOIS que vous modifiez votre système, il y a toujours le potentiel d'un brick IRRÉCUPÉRABLE. Ils sont rares, mais toujours possibles, alors assurez-vous de suivre EXACTEMENT TOUTES les instructions.
 >
 > This guide will work on all Wii U consoles in all regions on firmware 5.5.4 or below.
 > 
