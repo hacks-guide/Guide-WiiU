@@ -1,10 +1,10 @@
 # CBHC
 
-## Launching CFW {docsify-ignore}
+## Start CFW {docsify-ignore}
 
-Now that you have your NAND backup in case anything goes wrong later, you can run CFW on your system.
+Nå som du har en NAND backup i tilfelle noe går galt senere, kan du kjøre CFW på systemet ditt.
 
-Unlike systems such as the DSi, Wii, or 3DS, Wii U CFW is temporary. This means that as soon as your system reboots, you will lose CFW and have to follow these instructions again. This can be skipped by installing CBHC to a Haxchi CFW installation.
+I motsetning til systemer som DSi, Wii eller 3DS, er Wii U CFW midlertidig. Dette betyr at så snart systemet starter på nytt, vil du miste CFW og må følge disse instruksjonene igjen. Det trenger du ikke ved å installere CBHC på en Haxchi CFW installasjon.
 
 !> Installing CBHC incorrectly can brick your Wii U. Make sure to follow the following rules when installing CBHC: <br>- The DS game has to be legitimately installed from the eShop <br>- Don't format the system while CBHC is installed <br>- Don't delete the user account that bought the DS VC game <br>- Don't re-install the same game using WUP Installer or from the eShop <br>- Don't install Haxchi over CBHC <br>- Don't uninstall the DS Virtual Console game without [properly uninstalling CBHC first](../uninstall-cbhc) <br>- Don't move the DS Virtual Console game to a USB drive
 
