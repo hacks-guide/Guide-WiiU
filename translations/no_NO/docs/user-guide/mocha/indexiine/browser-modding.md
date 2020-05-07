@@ -4,13 +4,13 @@
 
 Now that you have your NAND backup in case anything goes wrong later, you can install Indexiine on your system.
 
-### What You Need
+### Dette trenger du
 
 - The Indexiine <a href="docs/files/index.html" download>index.html</a> file
 - This release of [FTPiiU Everywhere](http://wiiubru.com/appstore/zips/fpiiu-cbhc.zip)
 - An FTP client such as [FileZilla](https://filezilla-project.org/download.php?show_all=1)
 
-### Instructions
+### Instruksjoner
 
 1. Extract the `fpiiu-cbhc.zip` file to the root of your SD Card
 1. Install FileZilla on your computer
@@ -19,7 +19,7 @@ Now that you have your NAND backup in case anything goes wrong later, you can in
 
 !> Before you proceed, you must be aware that every time you modify your console's system files, there is always the potential for an unrecoverable brick.
 
-1. Take the SD Card out of your computer and plug it into your Wii U console.
+1. Ta SD-kortet ut av PC'en og sett den inn i Wii U-konsollen.
 1. Launch the Internet Browser and go to `google.com`.
 1. Close and re-launch the Internet Browser.
 1. Go to `wiiuexploit.xyz`.
