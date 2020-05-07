@@ -4,7 +4,7 @@
 - **vWii**
 - [Modding de la vWii](vwii-modding)
 - **Résolution de problèmes**
-- [Recovering Mii Channel](recover-mii-channel)
+- [Récupération de la Chaîne Mii](recover-mii-channel)
 - [Recover a Corrupted IOS](recover-ios)
 - [Common Issues & Fixes](common-issues-fixes)
 - [Fix Error Code 112-1037](fix-errcode-112-1037)
@@ -18,7 +18,7 @@
 - **Links**
 - [![GitHub](https://icongr.am/simple/github.svg?color=808080&size=16)GitHub](https://github.com/hacks-guide/Guide-WiiU)
 - [![Discord](https://icongr.am/simple/discord.svg?colored&size=16)Discord](https://discord.gg/C29hYvh)
-<!-- - [![Coming Soon!](https://icongr.am/material/translate.svg?color=808080&size=16)Coming Soon!](https://future_crowdin.url ':disabled') -->
+- [![Translate the guide](https://icongr.am/material/translate.svg?color=808080&size=16)Translate the guide](https://hacks-guide.crowdin.com/u/projects/10)
 - [About](about)
 - **Privacy**
 - [Privacy Policy](privacy-policy)
