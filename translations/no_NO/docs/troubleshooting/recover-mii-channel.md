@@ -76,7 +76,7 @@ Denne siden vil hjelpe deg med å gjenopprette Mii Channel.
 1. Skriv: `cd <directory>`.
  - På macOS er det vanligste stedet å finne nedlastede filer i `/Brukere/brukernavn/Nedlastninger`.
  - På Linux er det vanligste stedet å finne nedlastede filer i `/home/username/Downloads`.
-1. Use the following command: `python3 overwrite-wiiu-titlehash.py`.
+1. Skriv: `python3 overwrite-wiiu-titlehash.py`.
 1. Skriv inn Wii U konsollens IP-adresse og trykk Enter.
 1. Vent til den er ferdig.
  - Hvis en `err.log` fil blir generert, vennligst gå til oss i **#wiiu-assistance** på [Nintendo Homebrew Discord](https://discord.gg/C29hYvh) kanalen og spør om hjelp på engelsk.
@@ -86,6 +86,6 @@ Denne siden vil hjelpe deg med å gjenopprette Mii Channel.
 
 <!-- tabs:end -->
 
-You should now have a working Mii Channel.
+Du skal nå ha en fungerende Mii Channel.
 
 ?> Du kan nå reaktivere din [blokkeringsmetode mot systemoppdateringer](block-updates).
