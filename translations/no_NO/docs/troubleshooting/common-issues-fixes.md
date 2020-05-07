@@ -1,8 +1,8 @@
-# Common Issues & Fixes {docsify-ignore-all}
+# Vanlige problemer & Løsninger {docsify-ignore-all}
 ---
-### Haxchi common errors
+### Vanlige feil med Haxchi
 
- - **-3:** No SD Card detected. Re-insert the SD Card and try again. Make sure the SD Card is in FAT32 format. If the error persists, try blowing into the SD slot as it can get dusty inside.
+ - **-3:** No SD Card detected. Sett inn SD-kortet på nytt og prøv igjen. Kontroller at SD-kortet er i FAT32-format. If the error persists, try blowing into the SD slot as it can get dusty inside.
 
  - **-4:** SD detected but could not mount. Check to see if the SD is using MBR and not GPT. Also, check to see if there are any other partitions on the SD Card and merge them into one primary partition.
 
