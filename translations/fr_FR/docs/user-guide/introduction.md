@@ -1,6 +1,6 @@
-# NH Wii U Guide
+# Guide NH Wii U
 
-A guide collaboration between Nintendo Homebrew's Helpers and Staff, from stock to CBHC custom firmware.
+Guide collaboratif entre les Helpers et le Staff de Nintendo Homebrew, du stock au custom firmware de CBHC.
 
 ?> **Discord Help** For live support with this guide please visit us in **#wiiu-assistance** on the [Nintendo Homebrew Discord](https://discord.gg/C29hYvh).
 
