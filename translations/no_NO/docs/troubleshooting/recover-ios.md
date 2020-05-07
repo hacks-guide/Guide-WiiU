@@ -85,7 +85,7 @@ Denne siden vil hjelpe deg med å gjenopprette en korrupt IOS i vWii.
 1. Naviger til `/slccmpt01/ticket/00000001`
 1. Slett tilsvarende `.tik` filer for IOS'ene du vil gjenopprette
 1. Åpne opp et terminalvindu
-1. Use the following command: `cd <directory>`
+1. Skriv: `cd <directory>`
  - On macOS, the most common place to find your downloaded files is `/Users/username/Downloads`
  - On Linux, the most common place to find your downloaded files is `/home/username/Downloads`
 1. Use the following command: `python3 overwrite-wiiu-titlehash.py`
