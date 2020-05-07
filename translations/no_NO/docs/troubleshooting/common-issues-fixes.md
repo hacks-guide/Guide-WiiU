@@ -18,19 +18,19 @@
 
 ### Data Management spør om "delete unnecessary data", what does it mean?
 
-Dette refererer til filer som ligger igjen fra ufullstendige installasjoner. Velg alltid "yes" for å slette disse dataene, da det bare tar plass uten grunn. If it ever stays stuck on deleting the data in an infinite loop, you can manually delete the data yourself.  
-Use FTPiiU Everywhere and browse to `/storage_mlc/usr/import` then delete any files in the folder if any exists. This is where the partial installs exist after incomplete installs. It'll be `/storage_usb/usr/import` if installed to a USB.  
-The `import` folder should always be kept empty.
+Dette refererer til filer som ligger igjen fra ufullstendige installasjoner. Velg alltid "yes" for å slette disse dataene, da det bare tar plass uten grunn. Hvis det ser ut som det står på sletting av data i en uendelig loop, kan du manuelt slette dataene selv.   
+Bruk FTPiiU Everywhere og manøvrer til `/storage_mlc/usr/import` og slett deretter alle filer i mappen hvis det er noen. Det er her filene havner etter ufullstendige installasjoner. Det betyr at det er `/storage_usb/usr/import` hvis det er installert til en USB-enhet.  
+Mappen `import` bør alltid være tom.
 
-### My HDD doesn't work or makes a weird clicking sound, what should I do?
+### HDD fungerer ikke eller lager en rar tikkelyd, hva skal jeg gjøre?
 
-The reason behind that is that the Wii U doesn't give enough power through one USB port to use the Hard Drive.
+Årsaken til dette er at Wii U konsollene ikke gir nok strøm gjennom én USB-port til bruk av eksterne harddisker.
 
-You can fix this by either using a powered HDD or using a Y-Cable to connect the HDD to two USB ports.
+Du kan løse dette ved å enten bruke en ekstern harddisk med egen strømkilde, eller bruke en Y-Kabel for å koble den eksterne harddisken til to USB-porter.
 
-If your HDD worked for some time and then stopped working for some games/all games, it is the same issue and can be fixed with the same methods.
+Dersom den eksterne harddisken fungerte i lengre tid og plutselig sluttet å virke for noen spill/alle spill, så er det den samme problemstillingen og kan fikses ved hjelp av de samme metodene.
 
-### When extracting some of the files there are duplicates of certain ones called "info.json" & "manifest.install", what do I do with those?
+### Når jeg pakker ut noen av filene er det duplikater av noen som heter "info.json" & "manifest.install", hva gjør jeg med dem?
 
 Nothing special, you can leave them there, delete them or replace them with new ones. Those files are not used in the process, therefore, won't have any impact by being or not being there.
 
