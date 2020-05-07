@@ -2,23 +2,23 @@
 ---
 ### Vanlige feil med Haxchi
 
- - **-3:** No SD Card detected. Sett inn SD-kortet på nytt og prøv igjen. Kontroller at SD-kortet er i FAT32-format. If the error persists, try blowing into the SD slot as it can get dusty inside.
+ - **-3:** No SD Card detected. Sett inn SD-kortet på nytt og prøv igjen. Kontroller at SD-kortet er i FAT32-format. Hvis feilen vedvarer, kan du prøve å blåse inn i SD-kort åpningen, da det gjerne kan bli litt støvete.
 
- - **-4:** SD detected but could not mount. Check to see if the SD is using MBR and not GPT. Also, check to see if there are any other partitions on the SD Card and merge them into one primary partition.
+ - **-4:** SD detected but could not mount. Kontroller om SD bruker MBR og ikke GPT. Sjekk også at det ikke er andre partisjoner på SD-kortet og eventuelt slå dem sammen til én primærpartisjon.
 
- - **-5:** Missing files on the SD. Check to see if your SD has Homebrew Launcher located in <code>/wiiu<wbr>/apps<wbr>/homebrew_launcher<wbr>/homebrew_launcher.elf</code>.
+ - **-5:** Missing files on the SD. Sjekk om SD-kortet ditt har Homebrew Launcher plassert i <code>/wiiu<wbr>/apps<wbr>/homebrew_launcher<wbr>/homebrew_launcher.elf</code>.
 
-### Browser errors
+### Nettleser feil
 
- - **FSGetMountSource failed:** Same as -3 above, means no SD Card detected. Re-insert the SD and try again.
+ - **FSGetMountSource failed:** Samme som -3 ovenfor, betyr at SD-kortet ikke blir registrert. Sett inn SD-kortet på nytt og prøv igjen.
 
- - **FSOpenFile failed [...] payload.elf:** Missing payload file on SD. Make sure you have payload.elf in the wiiu folder.
+ - **FSOpenFile failed [...] payload.elf:** Mangler payload filen på SD-kortet. Kontroller at du har en payload.elf fil i wiiu mappen.
 
- - **FSOpenFile failed:** Missing `homebrew_launcher` on SD. Make sure you have `homebrew_launcher.elf` in the <code>/wiiu<wbr>/apps<wbr>/homebrew_launcher</code> folder.
+ - **FSOpenFile failed:** Mangler `homebrew_launcher` på SD-kortet. Skjekk at du har `homebrew_launcher.elf` i <code>/wiiu<wbr>/apps<wbr>/homebrew_launcher</code> mappen.
 
-### Data Management asks to delete unnecessary data, what does it mean?
+### Data Management spør om "delete unnecessary data", what does it mean?
 
-This refers to leftover files from incomplete installs. Always choose Yes to delete this data, as it takes up space for no good reason. If it ever stays stuck on deleting the data in an infinite loop, you can manually delete the data yourself.  
+Dette refererer til filer som ligger igjen fra ufullstendige installasjoner. Velg alltid "yes" for å slette disse dataene, da det bare tar plass uten grunn. If it ever stays stuck on deleting the data in an infinite loop, you can manually delete the data yourself.  
 Use FTPiiU Everywhere and browse to `/storage_mlc/usr/import` then delete any files in the folder if any exists. This is where the partial installs exist after incomplete installs. It'll be `/storage_usb/usr/import` if installed to a USB.  
 The `import` folder should always be kept empty.
 
