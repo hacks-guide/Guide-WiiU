@@ -4,7 +4,7 @@ This page will guide you through the process of recovering a corrupted IOS on yo
 
 !> Do not use this method for anything else than [Recovering your Mii Channel](recover-mii-channel) or the following page.
 
-### What You Need
+### Dette trenger du
 
 <!-- tabs:start -->
 
@@ -25,7 +25,7 @@ This page will guide you through the process of recovering a corrupted IOS on yo
 
 <!-- tabs:end -->
 
-### Instructions
+### Instruksjoner
 
 <!-- tabs:start -->
 
@@ -53,7 +53,7 @@ This page will guide you through the process of recovering a corrupted IOS on yo
 #### **Windows**
 
 1. Power on your Wii U and launch the CFW of your choice (Mocha, Haxchi or CBHC)
-1. Launch the Homebrew Launcher
+1. Start Homebrew Launcher
 1. Launch FTPiiU Everywhere
 1. Launch FileZilla
 1. Type in the IP address displayed by your Wii U in the `Host` field at the top of the window and click on `Quickconnect`
@@ -75,7 +75,7 @@ This page will guide you through the process of recovering a corrupted IOS on yo
 ### **macOS & Linux**
 
 1. Power on your Wii U and launch the CFW of your choice (Mocha, Haxchi or CBHC)
-1. Launch the Homebrew Launcher
+1. Start Homebrew Launcher
 1. Launch FTPiiU Everywhere
 1. Launch FileZilla
 1. Type in the IP address displayed by your Wii U in the `Host` field at the top of the window and click on `Quickconnect`
