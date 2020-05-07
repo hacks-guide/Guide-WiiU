@@ -41,11 +41,11 @@ Guide collaboratif entre les Helpers et le Staff de Nintendo Homebrew, du stock 
 > - Un appareil tel qu'un ordinateur pour placer des fichiers sur la carte SD
 > - Une Wii U avec un accès Internet
 > 
-> Your SD Card should preferably be 32 gigabytes large, as a full NAND backup for the console will take up around 8 or 30 gigabytes depending on your model.
+> Votre carte SD devrait de préférence être de 32 gigaoctets, étant donné qu'une sauvegarde complète de la NAND de votre console prendra environ 8 ou 30 gigaoctets selon votre modèle.
 
-If everything goes according to plan, you will lose no data and end up with everything that you started with (games, NNID, saves, etc will be preserved).
+Si tout se passe comme prévu, vous ne perdrez aucune donnée et finirez avec tout ce que vous aviez avant de commencer (jeux, NNID, les données de sauvegarde, etc seront conservés).
 
-Keep your device plugged in throughout the entire process to avoid data loss or damage from an unexpected power-off.
+Gardez votre console branchée tout au long du processus pour éviter une perte de données ou des dommages causés par une mise hors tension inattendue.
 
 With the exception of CBHC, Custom Firmware is not permanent with current methods and will be unloaded upon rebooting the system.
 
