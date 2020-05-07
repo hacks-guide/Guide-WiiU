@@ -24,7 +24,7 @@ I motsetning til systemer som DSi, Wii eller 3DS, er Wii U CFW midlertidig. Dett
 1. Bruk D-padden til å navigere markøren til spillet du installerte Haxchi over og trykk på A knappen for å installere CBHC.
 1. Når installasjonen er ferdig, vil konsollen gå tilbake til Wii U menyen.
 1. Start konsollen på nytt. Hvis CBHC er installert riktig, bør du se en ny oppstartsmeny.
-1. Use the DPAD to navigate to `Autoboot: Disabled` and press the A button until it says `Autoboot: System Menu`.
-1. Use the DPAD to navigate to `Boot System Menu` and press the A button. This will launch the Wii U Menu with CFW enabled.
-1. Your console now automatically boots into CFW every reboot.
-1. You can now re-attach any USB devices you had attached before starting the guide.
+1. Bruk D-padden for å navigere til `Autoboot: Disabled` og trykk på A knappen helt til det står `Autoboot: System Menu`.
+1. Bruk D-padden for å navigere til `Boot system menu` og trykk på A-knappen. Dette vil åpne Wii U menyen med CFW aktivert.
+1. Konsollen din kommer nå til å automatisk være i CFW etter oppstart.
+1. Du kan nå koble til eventuelle USB-enheter du hadde tilkoblet, før du startet guiden.
