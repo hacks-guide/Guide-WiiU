@@ -1,10 +1,10 @@
 # CBHC
 
-## Installing the Homebrew Launcher Channel {docsify-ignore}
+## Installere Homebrew Launcher Channel {docsify-ignore}
 
-This page will install the Homebrew Launcher Channel as an application directly to your Home Menu for easy access.
+Denne siden vil hjelpe deg med å installere Homebrew Launcher Channel som et program direkte på Home-menyen for enkel tilgang.
 
-?> This page is only for Haxchi and CBHC users. The Home-Menu Homebrew Launcher Channel will **not** work with Mocha CFW!
+?> Denne siden gjelder bare for Haxchi og CBHC brukere. Homebrew Launcher Channel vil **ikke** fungere med Mocha CFW!
 
 ### Instruksjoner
 
