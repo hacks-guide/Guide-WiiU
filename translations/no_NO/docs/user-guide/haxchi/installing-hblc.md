@@ -1,8 +1,8 @@
 # Haxchi
 
-## Installing the Homebrew Launcher Channel {docsify-ignore}
+## Installere Homebrew Launcher Channel {docsify-ignore}
 
-This page will install the Homebrew Launcher Channel as an application directly to your Home Menu for easy access.
+Denne siden vil hjelpe deg med å installere Homebrew Launcher Channel som et program direkte på Home-menyen for enkel tilgang.
 
 ### Instruksjoner
 
