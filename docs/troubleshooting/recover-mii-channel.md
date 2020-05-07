@@ -13,7 +13,7 @@ This page will guide you through the process of restoring your Mii Channel to a 
 - A working [Homebrew installation](introduction) on Wii U side.
 - This release of [FTPiiU Everywhere](http://wiiubru.com/appstore/zips/fpiiu-cbhc.zip).
 - An FTP client such as [FileZilla](https://filezilla-project.org/download.php?show_all=1).
-- <a href="docs/files/overwrite-wiiu-titlehash.exe" download>overwrite-wiiu-titlehash.exe</a>
+- <a href="https://github.com/ihaveamac/overwrite-wiiu-titlehash/releases/download/v1.0/overwrite-wiiu-titlehash.exe" download>overwrite-wiiu-titlehash.exe</a>
 
 #### **macOS & Linux**
 
@@ -21,7 +21,7 @@ This page will guide you through the process of restoring your Mii Channel to a 
 - This release of [FTPiiU Everywhere](http://wiiubru.com/appstore/zips/fpiiu-cbhc.zip).
 - The latest release of [Python](https://www.python.org/downloads/).
 - An FTP client such as [FileZilla](https://filezilla-project.org/download.php?show_all=1t).
-- <a href="docs/files/overwrite-wiiu-titlehash.py" download>overwrite-wiiu-titlehash.py</a>
+- <a href="https://github.com/ihaveamac/overwrite-wiiu-titlehash/raw/master/overwrite-wiiu-titlehash.py" download>overwrite-wiiu-titlehash.py</a> **(right-click -> Save link as... -> Click Save).**
 
 <!-- tabs:end -->
 

@@ -35,7 +35,7 @@ This guide was written by staff members of the [Nintendo Homebrew Discord Server
 >
 > - **JumpCallPop**, **jam1garner**, **hedgeberg**, **yellows8** and **orboditilt** for [JSTypeHax](https://github.com/wiiu-env/JsTypeHax)
 >
-> - **ihaveamac/ihaveahax** for <u>overwrite-wiiu-titlehash</u>.
+> - **ihaveamac/ihaveahax** for [overwrite-wiiu-titlehash](https://github.com/ihaveamac/overwrite-wiiu-titlehash).
 >
 > - **Dr Clipper**, **ZRicky11**, **dmm** and **FIX94** for <u>Patched IOS80 Installer for vWii</u>.
 >
