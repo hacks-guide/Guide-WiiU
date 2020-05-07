@@ -10,7 +10,7 @@ For tiden finnes det to måter å blokkere oppdateringer på Wii U konsollen:
 #### **Slette "update" mappen**
 ?> Selv om denne metoden er litt mer avansert enn DNS-blokkering og krever litt grunnleggende kunnskap om FTP-programmer, har det den fordelen at eShop fortsatt vil fungere normalt.
 
-?> For å gjøre dette, må Wii U konsollen være på samme nettverk som datamaskinen din.
+?> For å gjøre dette, må Wii U konsollen være på samme nettverk som PC'en din.
 1. Sett SD-kortet inn i datamaskinen.
 1. Last ned og pakk ut [ftpiiu_everywhere](http://wiiubru.com/appstore/zips/fpiiu-cbhc.zip) til roten av SD-kortet ditt.
 1. Last ned en FTP-klient, for eksempel [FileZilla](https://filezilla-project.org/download.php?show_all=1).
