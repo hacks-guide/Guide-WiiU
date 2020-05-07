@@ -1,6 +1,6 @@
 - **Mocha - Indexiine**
 - [Home Page](../../introduction)
-- [Choose a CFW](../../cfw-choice)
+- [Choisissez un CFW](../../cfw-choice)
 - [Choose an Entrypoint](../entrypoint-choice)
 - [SD Preparation](sd-preparation)
 - [Browser Exploit](browser-exploit)
