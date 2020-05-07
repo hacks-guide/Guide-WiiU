@@ -25,7 +25,7 @@ This page will guide you through the process of recovering a corrupted IOS on yo
 
 <!-- tabs:end -->
 
-### Instructions
+### Anleitungen
 
 <!-- tabs:start -->
 
