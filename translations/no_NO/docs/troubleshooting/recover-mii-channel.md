@@ -19,7 +19,7 @@ This page will guide you through the process of restoring your Mii Channel to a 
 
 - A working [Homebrew installation](introduction) on Wii U side.
 - This release of [FTPiiU Everywhere](http://wiiubru.com/appstore/zips/fpiiu-cbhc.zip).
-- The latest release of [Python](https://www.python.org/downloads/).
+- Siste utgave av [Python](https://www.python.org/downloads/).
 - An FTP client such as [FileZilla](https://filezilla-project.org/download.php?show_all=1t).
 - <a href="https://github.com/ihaveamac/overwrite-wiiu-titlehash/raw/master/overwrite-wiiu-titlehash.py" download>overwrite-wiiu-titlehash.py</a> **(right-click -> Save link as... -> Click Save).**
 
@@ -38,7 +38,7 @@ This page will guide you through the process of restoring your Mii Channel to a 
 
 1. Extract the `fpiiu-cbhc.zip` file to the root of your SD Card.
 1. Install FileZilla on your computer.
-1. Install Python on your computer.
+1. Installer Python på PC'en din.
 
 <!-- tabs:end -->
 
@@ -73,7 +73,7 @@ This page will guide you through the process of restoring your Mii Channel to a 
 1. Navigate to `/slccmpt01/title/00010002`.
 1. Delete the `48414341` folder.
 1. Open up a Terminal window.
-1. Use the following command: `cd <directory>`.
+1. Skriv: `cd <directory>.<directory>`.
  - On macOS, the most common place to find your downloaded files is `/Users/username/Downloads`.
  - On Linux, the most common place to find your downloaded files is `/home/username/Downloads`.
 1. Use the following command: `python3 overwrite-wiiu-titlehash.py`.
