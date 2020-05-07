@@ -33,13 +33,13 @@ Guide collaboratif entre les Helpers et le Staff de Nintendo Homebrew, du stock 
 
 !> Avant de commencer le guide, vous devez connaître les risques du hack de la Wii U : À CHAQUE FOIS que vous modifiez votre système, il y a toujours le potentiel d'un brick IRRÉCUPÉRABLE. Ils sont rares, mais toujours possibles, alors assurez-vous de suivre EXACTEMENT TOUTES les instructions.
 >
-> This guide will work on all Wii U consoles in all regions on firmware 5.5.4 or below.
+> Ce guide fonctionnera sur toutes les consoles Wii U de toutes les régions en version 5.5.4 ou inférieure.
 > 
-> You will need the following in order to successfully follow this guide:
+> Vous aurez besoin de ce qui suit pour suivre ce tutoriel avec succès :
 > 
-> - An SD Card
-> - A device such as a computer to place files onto the SD Card
-> - A Wii U with internet access
+> - Une carte SD
+> - Un appareil tel qu'un ordinateur pour placer des fichiers sur la carte SD
+> - Une Wii U avec un accès Internet
 > 
 > Your SD Card should preferably be 32 gigabytes large, as a full NAND backup for the console will take up around 8 or 30 gigabytes depending on your model.
 
