@@ -13,7 +13,6 @@
   - [简体中文](/zh_CN/)
   - [繁體中文](/zh_TW/)
   - [اللغة العربية](/ar_SA/)
-  - [Afrikaans](/af_ZA/)
   - [Català](/ca_ES/)
   - [Hrvatski](/hr_HR/)
   - [Čeština](/cs_CZ/)
