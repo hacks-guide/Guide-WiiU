@@ -1,4 +1,4 @@
-# PERSONVERNS ERKLÆRING
+# PERSONVERN
 
 **Sist oppdatert 18. Januar, 2020**
 
@@ -65,9 +65,9 @@ Er du under 18 år, innbygger i California, og har en registrert konto på siden
 
 ***Kort fortalt:*** *Ja, vi oppdaterer denne politikken etter behov for å holde seg i samsvar med relevante lover.*
 
-Vi kan oppdatere personvernerklæringen fra tid til annen. Den oppdaterte versjonen vil bli indikert med en oppdatert dato for "Revidert Innhold" og den oppdaterte versjonen vil være gyldig så snart den er tilgjengelig. If we make material changes to this privacy policy, we may notify you either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to review this privacy policy frequently to be informed of how we are protecting your information.
+Vi kan oppdatere personvernerklæringen fra tid til annen. Den oppdaterte versjonen vil bli indikert med en oppdatert dato for "Revidert Innhold" og den oppdaterte versjonen vil være gyldig så snart den er tilgjengelig. Hvis vi gjør vesentlige endringer i denne personvernerklæringen, kan vi gi beskjed ved å enten tydelig poste et varsel om slike endringer eller ved å sende deg en melding. Vi oppfordrer deg til å gjennomgå denne personvernerklæringen ofte for å bli informert om hvordan vi beskytter informasjonen din.
 
 
 ### 6. HVORDAN KAN DU KONTAKTE OSS OM DENNE POLITIKKEN?
 
-If you have questions or comments about this policy, you may email us at nh.wiiuguide@gmail.com
+Hvis du har spørsmål eller kommentarer om denne politikken, kan du sende oss en e-post på nh.wiiuguide@gmail.com
