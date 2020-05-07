@@ -54,17 +54,17 @@ Denne siden vil hjelpe deg med å gjenopprette en korrupt IOS i vWii.
 
 1. Slå på Wii U konsollen og start CFW (Mocha, Haxchi eller CBHC)
 1. Start Homebrew Launcher
-1. Launch FTPiiU Everywhere
-1. Launch FileZilla
-1. Type in the IP address displayed by your Wii U in the `Host` field at the top of the window and click on `Quickconnect`
-1. In FileZilla, navigate to `/slccmpt01/title/00000001`
-1. Go to [this page](ios-folders) to see which folder/ticket you need to delete
-1. Delete the corresponding folders of the IOSes you want to recover
-1. Navigate to `/slccmpt01/ticket/00000001`
-1. Delete the corresponding `.tik` files of the IOSes you want to recover
-1. Launch the previously downloaded `overwrite-wiiu-titlehash.exe` file
-1. Type in your Wii U's IP address and press Enter
-1. Wait for it to finish what it's doing
+1. Kjør FTPiiU Everywhere
+1. Start FileZilla
+1. Skriv inn IP-adressen som vist på Wii U skjermen, i feltet `Vert (Host)` øverst i vinduet og klikk på `Quickconnect`
+1. I FileZilla, naviger til `/slccmpt01/title/00000001`
+1. Gå til [denne siden](ios-folders) for å se hvilken mappe/ticket du må slette
+1. Slett tilsvarende mapper av iOSene du ønsker å gjenvinne
+1. Naviger til `/slccmpt01/ticket/00000001`
+1. Slett tilsvarende `.tik` filer for IOS'ene du vil gjenopprette
+1. Kjør `overwrite-wiiu-titlehash.exe` som du lastet ned tidligere
+1. Skriv inn Wii U konsollens IP-adresse og trykk Enter
+1. Vent til den er ferdig
  - If an `err.log` file has been generated, please visit us in **#wiiu-assistance** on [Nintendo Homebrew Discord](https://discord.gg/C29hYvh)
 1. Exit FTPiiU Everywhere and the Homebrew Launcher
 1. Launch the System Settings
@@ -76,21 +76,21 @@ Denne siden vil hjelpe deg med å gjenopprette en korrupt IOS i vWii.
 
 1. Slå på Wii U konsollen og start CFW (Mocha, Haxchi eller CBHC)
 1. Start Homebrew Launcher
-1. Launch FTPiiU Everywhere
-1. Launch FileZilla
-1. Type in the IP address displayed by your Wii U in the `Host` field at the top of the window and click on `Quickconnect`
-1. In FileZilla, navigate to `/slccmpt01/title/00000001`
-1. Go to [this page](ios-folders) to see which folder/ticket you need to delete
-1. Delete the corresponding folders of the IOSes you want to recover
-1. Navigate to `/slccmpt01/ticket/00000001`
-1. Delete the corresponding `.tik` files of the IOSes you want to recover
+1. Kjør FTPiiU Everywhere
+1. Start FileZilla
+1. Skriv inn IP-adressen som vist på Wii U skjermen, i feltet `Vert (Host)` øverst i vinduet og klikk på `Quickconnect`
+1. I FileZilla, naviger til `/slccmpt01/title/00000001`
+1. Gå til [denne siden](ios-folders) for å se hvilken mappe/ticket du må slette
+1. Slett tilsvarende mapper av iOSene du ønsker å gjenvinne
+1. Naviger til `/slccmpt01/ticket/00000001`
+1. Slett tilsvarende `.tik` filer for IOS'ene du vil gjenopprette
 1. Open up a Terminal window
 1. Use the following command: `cd <directory>`
  - On macOS, the most common place to find your downloaded files is `/Users/username/Downloads`
  - On Linux, the most common place to find your downloaded files is `/home/username/Downloads`
 1. Use the following command: `python3 overwrite-wiiu-titlehash.py`
-1. Type in your Wii U's IP address and press Enter
-1. Wait for it to finish what it's doing
+1. Skriv inn Wii U konsollens IP-adresse og trykk Enter
+1. Vent til den er ferdig
  - If an `err.log` file has been generated, please visit us in **#wiiu-assistance** on [Nintendo Homebrew Discord](https://discord.gg/C29hYvh)
 1. Exit FTPiiU Everywhere and the Homebrew Launcher
 1. Launch the System Settings
