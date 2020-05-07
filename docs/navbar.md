@@ -2,7 +2,6 @@
   - <a href="#" data-link-title="Dark">Dark</a>
   - <a href="#" data-link-title="Light">Light</a>
 - ![Languages](https://icongr.am/material/translate.svg?color=A9A9A9&size=39)
-  <!-- - Coming Soon! -->
   - [English](/)
   - [Español](/es_ES/)
   - [Deutsch](/de_DE/)
