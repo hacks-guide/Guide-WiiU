@@ -49,12 +49,12 @@ I noen regioner (som i EØS land) har du visse rettigheter under gjeldende perso
 
 Hvis vi er avhengig av ditt samtykke til å behandle din personlige informasjon, har du rett til å trekke tilbake ditt samtykke når som helst. Det er imidlertid viktig å merke seg at dette ikke vil påvirke rettssikkerheten til behandlingen før uttrekket.
 
-If you are resident in the European Economic Area and you believe we are unlawfully processing your personal information, you also have the right to complain to your local data protection supervisory authority. You can find their contact details here: http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm
+Hvis du er bosatt i ett EØS land, og du mener vi behandler dine personopplysninger ulovlig, har du rett til å klage til din lokale personvernmyndighet. Kontaktinformasjon finner du her: http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm
 
 
 ### 4. HAR CALIFORNIA BORGERE SPESIELLE PERSONVERN RETTIGHETER?
 
-***In Short:*** *Yes, if you are a resident of California, you are granted specific rights regarding access to your personal information.*
+***Kort fortalt:*** *Ja, hvis du er borger i California, så har du spesifikke rettigheter angående tilgangen til din personlige informasjon.*
 
 California Civil Code Section 1798.83, also known as the “Shine The Light” law, permits our users who are California residents to request and obtain from us, once a year and free of charge, information about categories of personal information (if any) we disclosed to third parties for direct marketing purposes and the names and addresses of all third parties with which we shared personal information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to us using the contact information provided below.
 
