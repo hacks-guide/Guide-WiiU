@@ -1,45 +1,45 @@
-# About this guide
+# Om denne veilederen
 ---
-This guide was written by staff members of the [Nintendo Homebrew Discord Server](https://discord.gg/C29hYvh)
+Denne guiden ble skrevet av staff medlemmer fra [Nintendo Homebrew Discord Server](https://discord.gg/C29hYvh)
 
-> **Credits**
+> **Medvirkende**
 > 
-> **Elpunical, FlimFlam69, Flump, Hiperhazz, huhen, Link5261, Profanity and redcubie.**
+> **Elpunical, FlimFlam69, Flump, Hiperhazz, huhen, Link5261, Profanity og redcubie.**
 > 
-> Thank you to [everyone else](https://github.com/hacks-guide/Guide-WiiU/graphs/contributors) that contributed to the guide on GitHub.
+> Takk til [alle andre ](https://github.com/hacks-guide/Guide-WiiU/graphs/contributors) som bidro til guiden på GitHub.
 
-?> [You can find this guide on GitHub](https://github.com/hacks-guide/Guide-WiiU), It is licensed under the [ISC License](https://github.com/hacks-guide/Guide-WiiU/blob/master/LICENSE.md).
+?> [Du finner denne veiledningen på GitHub](https://github.com/hacks-guide/Guide-WiiU), den er lisensiert under [ISC-lisensen](https://github.com/hacks-guide/Guide-WiiU/blob/master/LICENSE.md).
 
 <figure class="thumbnails">
     <img src="docs/assets/img/nh.jpg" alt="Nintendo Homebrew" title="Nintendo Homebrew">
 </figure>
 
 >
-> **Developer / Tool credits**
+> **Utviklere og verktøy**
 > 
-> - **dragbe** and **FIX94** for <u>d2x cIOS Installer</u>.
+> - **dragbe** og **FIX94** for <u>d2x cIOS Installer</u>.
 > 
-> - **koolkdev** and **FIX94** for [disc2app](https://github.com/koolkdev/disc2app).
+> - **koolkdev** og **FIX94** for [disc2app](https://github.com/koolkdev/disc2app).
 > 
 > - **Maxternal/DarkMatterCore** for [Dump Mii NAND](https://code.google.com/p/gbadev/).
 > 
-> - **FIX94** and **smealum** for [Haxchi and CBHC](https://github.com/FIX94/haxchi).
+> - **FIX94** og **smealum** for [Haxchi og CBHC](https://github.com/FIX94/haxchi).
 > 
-> - **dimok789** for the [Homebrew Launcher](https://github.com/dimok789/homebrew_launcher), the [Homebrew Launcher Channel](https://github.com/dimok789/homebrew_launcher) and [Mocha](https://github.com/dimok789/mocha).
+> - **dimok789** for [Homebrew Launcher](https://github.com/dimok789/homebrew_launcher), [Homebrew Launcher Channel](https://github.com/dimok789/homebrew_launcher) og [Mocha](https://github.com/dimok789/mocha).
 > 
-> - **orboditilt** and **dimok789** for the [Homebrew Launcher Installer](https://github.com/wiiu-env/homebrew_launcher_installer).
+> - **orboditilt** og **dimok789** for [Homebrew Launcher installer](https://github.com/wiiu-env/homebrew_launcher_installer).
 > 
-> - **vgmoose**, **pwsincd**, **rw-r-r_0644**, **crc32** and **Compucat** for [hb-appstore](https://github.com/vgmoose/hb-appstore).
+> - **vgmoose**, **pwsincd**, **rw-r-r_0644**, **crc32** og **Compucat** for [hb-appstore](https://github.com/vgmoose/hb-appstore).
 > 
-> - **Jonhyjp** for [Indexiine](https://gbatemp.net/threads/indexiine-load-cfw-during-boot-and-offline-without-a-vc-ds-title.553681/)
+> - **JJonhyjp** for [Indexiine](https://gbatemp.net/threads/indexiine-load-cfw-during-boot-and-offline-without-a-vc-ds-title.553681/)
 > 
-> - **JumpCallPop**, **jam1garner**, **hedgeberg**, **yellows8** and **orboditilt** for [JSTypeHax](https://github.com/wiiu-env/JsTypeHax)
+> - **JumpCallPop**, **jam1garner**, **hedgeberg**, **yellows8** og **orboditilt** for [JSTypeHax](https://github.com/wiiu-env/JsTypeHax)
 > 
 > - **ihaveamac/ihaveahax** for [overwrite-wiiu-titlehash](https://github.com/ihaveamac/overwrite-wiiu-titlehash).
 > 
-> - **Dr Clipper**, **ZRicky11**, **dmm** and **FIX94** for <u>Patched IOS80 Installer for vWii</u>.
+> - **Dr Clipper**, **ZRicky11**, **dmm** og **FIX94** for <u>Patched IOS80 Installer for vWii</u>.
 > 
-> - **djskual**, **Loadiine GX2 Team**, **Yardape** and **brienj** for [WUP Installer GX2](https://sourceforge.net/projects/wup-installer-gx2/).
+> - **djskual**, **Loadiine GX2 Team**, **Yardape** og **brienj** for [WUP Installer GX2](https://sourceforge.net/projects/wup-installer-gx2/).
 > 
 > - **koolkdev** for [Wii U NAND Dumper](https://github.com/koolkdev/wiiu-nanddumper).
 > 
