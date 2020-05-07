@@ -65,12 +65,12 @@ Denne siden vil hjelpe deg med å gjenopprette en korrupt IOS i vWii.
 1. Kjør `overwrite-wiiu-titlehash.exe` som du lastet ned tidligere
 1. Skriv inn Wii U konsollens IP-adresse og trykk Enter
 1. Vent til den er ferdig
- - If an `err.log` file has been generated, please visit us in **#wiiu-assistance** on [Nintendo Homebrew Discord](https://discord.gg/C29hYvh)
-1. Exit FTPiiU Everywhere and the Homebrew Launcher
-1. Launch the System Settings
-1. Perform a [System Update](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1136/~/how-to-perform-a-system-update)
+ - Hvis en `err.log` fil blir generert, vennligst kontakt oss i **#wiiu-assistance** på [Nintendo Homebrew Discord](https://discord.gg/C29hYvh) kanalen
+1. Avslutt FTPiiU Everywhere og start Homebrew Launcher
+1. Start System Innstillinger
+1. Utfør en [Systemoppdatering ](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1136/~/how-to-perform-a-system-update)
 
-?> You can now re-enable your [system update blocking method](block-updates).
+?> Du kan nå reaktivere din [blokkeringsmetode mot systemoppdateringer](block-updates).
 
 ### **macOS & Linux**
 
@@ -84,18 +84,18 @@ Denne siden vil hjelpe deg med å gjenopprette en korrupt IOS i vWii.
 1. Slett tilsvarende mapper av iOSene du ønsker å gjenvinne
 1. Naviger til `/slccmpt01/ticket/00000001`
 1. Slett tilsvarende `.tik` filer for IOS'ene du vil gjenopprette
-1. Open up a Terminal window
+1. Åpne opp et terminalvindu
 1. Use the following command: `cd <directory>`
  - On macOS, the most common place to find your downloaded files is `/Users/username/Downloads`
  - On Linux, the most common place to find your downloaded files is `/home/username/Downloads`
 1. Use the following command: `python3 overwrite-wiiu-titlehash.py`
 1. Skriv inn Wii U konsollens IP-adresse og trykk Enter
 1. Vent til den er ferdig
- - If an `err.log` file has been generated, please visit us in **#wiiu-assistance** on [Nintendo Homebrew Discord](https://discord.gg/C29hYvh)
-1. Exit FTPiiU Everywhere and the Homebrew Launcher
-1. Launch the System Settings
-1. Perform a [System Update](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1136/~/how-to-perform-a-system-update)
+ - Hvis en `err.log` fil blir generert, vennligst kontakt oss i **#wiiu-assistance** på [Nintendo Homebrew Discord](https://discord.gg/C29hYvh) kanalen
+1. Avslutt FTPiiU Everywhere og start Homebrew Launcher
+1. Start System Innstillinger
+1. Utfør en [Systemoppdatering ](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1136/~/how-to-perform-a-system-update)
 
-?> You can now re-enable your [system update blocking method](block-updates).
+?> Du kan nå reaktivere din [blokkeringsmetode mot systemoppdateringer](block-updates).
 
 <!-- tabs:end -->
