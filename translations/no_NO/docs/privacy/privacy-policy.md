@@ -58,14 +58,14 @@ Hvis du er bosatt i ett EØS land, og du mener vi behandler dine personopplysnin
 
 California Civil Code Section 1798.83, også kjent som «Shine The Light»-loven, gir brukerne våre som er California innbyggere tilgangen til å be om og motta fra oss, gratis en gang i året, informasjon om kategorier av personlig informasjon (hvis det er noen) som vi har delt med tredjepart for direkte markedsføringsformål og navn og adresser til alle tredjeparter som vi delte personopplysninger med i det foregående kalenderåret. Hvis du er en California innbygger og ønsker å komme med en forespørsel, send forespørselen din skriftlig til oss ved hjelp av kontaktopplysningene som er gitt nedenfor.
 
-If you are under 18 years of age, reside in California, and have a registered account with the Sites, you have the right to request removal of unwanted data that you publicly post on the Sites. To request removal of such data, please contact us using the contact information provided below, and include the email address associated with your account and a statement that you reside in California. We will make sure the data is not publicly displayed on the Sites, but please be aware that the data may not be completely or comprehensively removed from our systems.
+Er du under 18 år, innbygger i California, og har en registrert konto på sidene, så har du rett til å be om fjerning av uønskede data som du offentlig poster på sidene. For å be om å fjerne slik data, vennligst kontakt oss ved å bruke kontaktinformasjonen nedenfor og inkluder e-postadressen som er tilknyttet din konto og en påstand om at du oppholder deg i California. Vi skal sikre at dataene ikke er offentlig vist på de valgte sidene, men vær oppmerksom på at dataene ikke nødvendigvis er fullstendig fjernet fra våre systemer.
 
 
 ### 5. LAGER VI OPPDATERINGER TIL DENNE POLITIKKEN?
 
-***In Short:*** *Yes, we will update this policy as necessary to stay compliant with relevant laws.*
+***Kort fortalt:*** *Ja, vi oppdaterer denne politikken etter behov for å holde seg i samsvar med relevante lover.*
 
-We may update this privacy policy from time to time. The updated version will be indicated by an updated “Revised” date and the updated version will be effective as soon as it is accessible. If we make material changes to this privacy policy, we may notify you either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to review this privacy policy frequently to be informed of how we are protecting your information.
+Vi kan oppdatere personvernerklæringen fra tid til annen. Den oppdaterte versjonen vil bli indikert med en oppdatert dato for "Revidert Innhold" og den oppdaterte versjonen vil være gyldig så snart den er tilgjengelig. If we make material changes to this privacy policy, we may notify you either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to review this privacy policy frequently to be informed of how we are protecting your information.
 
 
 ### 6. HVORDAN KAN DU KONTAKTE OSS OM DENNE POLITIKKEN?
