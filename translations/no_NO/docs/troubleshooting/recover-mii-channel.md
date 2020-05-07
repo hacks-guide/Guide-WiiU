@@ -1,6 +1,6 @@
-# Recover Your Lost or Corrupted Mii Channel
+# Gjenopprett en tapt eller korrupt Mii Channel
 ---
-This page will guide you through the process of restoring your Mii Channel to a working state.
+Denne siden vil hjelpe deg med å gjenopprette Mii Channel.
 
 !> Do not use this method for anything else than [Recovering a Corrupted IOS](recover-ios) or the following page.
 
@@ -73,7 +73,7 @@ This page will guide you through the process of restoring your Mii Channel to a 
 1. Navigate to `/slccmpt01/title/00010002`.
 1. Delete the `48414341` folder.
 1. Åpne opp et terminalvindu.
-1. Skriv: `cd <directory>.<directory>`.
+1. Skriv: `cd <directory>`.
  - On macOS, the most common place to find your downloaded files is `/Users/username/Downloads`.
  - On Linux, the most common place to find your downloaded files is `/home/username/Downloads`.
 1. Use the following command: `python3 overwrite-wiiu-titlehash.py`.
