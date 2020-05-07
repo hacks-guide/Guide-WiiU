@@ -1,25 +1,25 @@
-# About this guide
+# Über diese Anleitung
 ---
-This guide was written by staff members of the [Nintendo Homebrew Discord Server](https://discord.gg/C29hYvh)
+Diese Anleitung wurde von Mitarbeitern des [Nintendo Homebrew Discord Server](https://discord.gg/C29hYvh) geschrieben
 
-> **Credits**
+> **Danksagungen**
 > 
-> **Elpunical, FlimFlam69, Flump, Hiperhazz, huhen, Link5261, Profanity and redcubie.**
+> **Elpunical, FlimFlam69, Flump, Hiperhazz, huhen, Link5261, Profanity und redcubie.**
 > 
-> Thank you to [everyone else](https://github.com/hacks-guide/Guide-WiiU/graphs/contributors) that contributed to the guide on GitHub.
+> Vielen Dank an [alle anderen](https://github.com/hacks-guide/Guide-WiiU/graphs/contributors) die zur Anleitung auf GitHub beigetragen haben.
 
-?> [You can find this guide on GitHub](https://github.com/hacks-guide/Guide-WiiU), It is licensed under the [ISC License](https://github.com/hacks-guide/Guide-WiiU/blob/master/LICENSE.md).
+?> [Du findest diese Anleitung auf GitHub](https://github.com/hacks-guide/Guide-WiiU), sie ist unter der [ISC Lizenz](https://github.com/hacks-guide/Guide-WiiU/blob/master/LICENSE.md) lizenziert.
 
 <figure class="thumbnails">
     <img src="docs/assets/img/nh.jpg" alt="Nintendo Homebrew" title="Nintendo Homebrew">
 </figure>
 
 >
-> **Developer / Tool credits**
+> **Entwickler / Werkzeugdanksagungen**
 > 
-> - **dragbe** and **FIX94** for <u>d2x cIOS Installer</u>.
+> - **dragbe** und **FIX94** für <u>d2x cIOS Installer</u>.
 > 
-> - **koolkdev** and **FIX94** for [disc2app](https://github.com/koolkdev/disc2app).
+> - **koolkdev** und **FIX94** für [disc2app](https://github.com/koolkdev/disc2app).
 > 
 > - **Maxternal/DarkMatterCore** for [Dump Mii NAND](https://code.google.com/p/gbadev/).
 > 
