@@ -16,6 +16,6 @@ I motsetning til systemer som DSi, Wii eller 3DS, er Wii U CFW midlertidig. Dett
 1. Kjør Haxchi appen.
 1. Bruk D-padden til å navigere markøren til spillet du ønsker å installere Haxchi over og trykk på A knappen for å installere den.
 1. Når installasjonen er ferdig, vil konsollen gå tilbake til Wii U menyen. Der vil du se spillet ditt erstattet med et Haxchi ikon.
-1. Run the modified DS game. This will reboot the console and enable CFW.
+1. Kjør Haxchi. Dette vil starte konsollen på nytt og aktivere CFW.
 1. You will need to run your Haxchi DS game every reboot to launch CFW.
 1. You can now re-attach any USB devices you had attached before starting the guide.
