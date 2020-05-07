@@ -1,9 +1,9 @@
-- **User Guide**
+- **Guide de l'utilisateur**
 - [Introduction](introduction)
-- [Choose a CFW](cfw-choice)
+- [Choisissez un CFW](cfw-choice)
 - **vWii**
-- [vWii Modding](vwii-modding)
-- **Troubleshooting**
+- [Modding de la vWii](vwii-modding)
+- **Résolution de problèmes**
 - [Recovering Mii Channel](recover-mii-channel)
 - [Recover a Corrupted IOS](recover-ios)
 - [Common Issues & Fixes](common-issues-fixes)
