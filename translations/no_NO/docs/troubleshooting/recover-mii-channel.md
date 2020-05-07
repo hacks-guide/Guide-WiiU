@@ -59,10 +59,10 @@ Denne siden vil hjelpe deg med å gjenopprette Mii Channel.
 1. Start `overwrite-wiiu-titlehash.exe` filen som vi lasted ned tidligere.
 1. Skriv inn Wii U konsollens IP-adresse og trykk Enter.
 1. Vent til den er ferdig.
- - If an `err.log` file has been generated, please visit us in **#wiiu-assistance** on [Nintendo Homebrew Discord](https://discord.gg/C29hYvh) and ask, in English, for assistance.
+ - Hvis en `err.log` fil blir generert, vennligst gå til oss i **#wiiu-assistance** på [Nintendo Homebrew Discord](https://discord.gg/C29hYvh) kanalen og spør om hjelp på engelsk.
 1. Gå ut av FTPiiU Everywhere og Homebrew Launcher.
-1. Launch the System Settings.
-1. Perform a [System Update](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1136/~/how-to-perform-a-system-update).
+1. Start System Innstillinger.
+1. Utfør en [Systemoppdatering](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1136/~/how-to-perform-a-system-update).
 
 #### **macOS & Linux**
 
@@ -74,15 +74,15 @@ Denne siden vil hjelpe deg med å gjenopprette Mii Channel.
 1. Slett mappen som heter `48414341`.
 1. Åpne opp et terminalvindu.
 1. Skriv: `cd <directory>`.
- - On macOS, the most common place to find your downloaded files is `/Users/username/Downloads`.
- - On Linux, the most common place to find your downloaded files is `/home/username/Downloads`.
+ - På macOS er det vanligste stedet å finne nedlastede filer i `/Brukere/brukernavn/Nedlastninger`.
+ - På Linux er det vanligste stedet å finne nedlastede filer i `/home/username/Downloads`.
 1. Use the following command: `python3 overwrite-wiiu-titlehash.py`.
 1. Skriv inn Wii U konsollens IP-adresse og trykk Enter.
 1. Vent til den er ferdig.
- - If an `err.log` file has been generated, please visit us in **#wiiu-assistance** on [Nintendo Homebrew Discord](https://discord.gg/C29hYvh) and ask, in English, for assistance.
+ - Hvis en `err.log` fil blir generert, vennligst gå til oss i **#wiiu-assistance** på [Nintendo Homebrew Discord](https://discord.gg/C29hYvh) kanalen og spør om hjelp på engelsk.
 1. Gå ut av FTPiiU Everywhere og Homebrew Launcher.
-1. Launch the System Settings.
-1. Perform a [System Update](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1136/~/how-to-perform-a-system-update).
+1. Start System Innstillinger.
+1. Utfør en [Systemoppdatering](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1136/~/how-to-perform-a-system-update).
 
 <!-- tabs:end -->
 
