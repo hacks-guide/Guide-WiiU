@@ -32,9 +32,9 @@ Dersom den eksterne harddisken fungerte i lengre tid og plutselig sluttet å vir
 
 ### Når jeg pakker ut noen av filene er det duplikater av noen som heter "info.json" & "manifest.install", hva gjør jeg med dem?
 
-Nothing special, you can leave them there, delete them or replace them with new ones. Those files are not used in the process, therefore, won't have any impact by being or not being there.
+Ingenting spesielt, du kan la dem ligge, slette dem eller kopiere over dem med de nye. Disse filene brukes ikke i prosessen, derfor er det ingen forskjell på om de er der eller ikke.
 
-### My console suddenly lost online connectivity and I have an HDD sitting on top of the console, what should I do?
+### Wii U konsollen min mistet plutselig internett, og jeg har en ekstern harddisk oppå konsollen min. Hva må jeg gjøre?
 
-The internal antenna may have been influenced by the hard drive magnet.  
-You can move the HDD to a different position atop the Wii U, or move it off the Wii U entirely.
+Den indre antennen kan bli påvirket av magneten i mekaniske harddisker.   
+Du kan flytte HDD til en annen posisjon enn oppå Wii U konsollen, eller flytte den fra Wii U konsollen fullstendig.
