@@ -1,4 +1,4 @@
-# How To Fix The Error Code 112-1037
+# Hvordan fikse Feilkoden 112-1037
 
 This page will guide you through the process of fixing the error code 112-1037.
 
