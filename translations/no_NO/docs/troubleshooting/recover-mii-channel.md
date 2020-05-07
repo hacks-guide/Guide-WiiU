@@ -2,7 +2,7 @@
 ---
 Denne siden vil hjelpe deg med å gjenopprette Mii Channel.
 
-!> Do not use this method for anything else than [Recovering a Corrupted IOS](recover-ios) or the following page.
+!> Ikke bruk denne metoden til noe annet enn å [Gjenopprette en korrupt IOS](recover-ios) eller neste side.
 
 ### Dette trenger du
 
@@ -10,17 +10,17 @@ Denne siden vil hjelpe deg med å gjenopprette Mii Channel.
 
 #### **Windows**
 
-- A working [Homebrew installation](introduction) on Wii U side.
-- This release of [FTPiiU Everywhere](http://wiiubru.com/appstore/zips/fpiiu-cbhc.zip).
-- An FTP client such as [FileZilla](https://filezilla-project.org/download.php?show_all=1).
+- En fungerende [Homebrew installasjon](introduction) på Wii U siden.
+- Denne utgaven av [FTPiiU Everywhere](http://wiiubru.com/appstore/zips/fpiiu-cbhc.zip).
+- En FTP-klient som for eksempel [FileZilla](https://filezilla-project.org/download.php?show_all=1).
 - <a href="https://github.com/ihaveamac/overwrite-wiiu-titlehash/releases/download/v1.0/overwrite-wiiu-titlehash.exe" download>overwrite-wiiu-titlehash.exe</a>
 
 #### **macOS & Linux**
 
-- A working [Homebrew installation](introduction) on Wii U side.
-- This release of [FTPiiU Everywhere](http://wiiubru.com/appstore/zips/fpiiu-cbhc.zip).
+- En fungerende [Homebrew installasjon](introduction) på Wii U siden.
+- Denne utgaven av [FTPiiU Everywhere](http://wiiubru.com/appstore/zips/fpiiu-cbhc.zip).
 - Siste utgave av [Python](https://www.python.org/downloads/).
-- An FTP client such as [FileZilla](https://filezilla-project.org/download.php?show_all=1t).
+- En FTP-klient som for eksempel [FileZilla](https://filezilla-project.org/download.php?show_all=1t).
 - <a href="https://github.com/ihaveamac/overwrite-wiiu-titlehash/raw/master/overwrite-wiiu-titlehash.py" download>overwrite-wiiu-titlehash.py</a> **(Høyreklikk -> Lagre lenke som... -> Klikk Lagre).**
 
 <!-- tabs:end -->
