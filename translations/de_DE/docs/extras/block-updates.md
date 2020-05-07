@@ -20,20 +20,20 @@ Derzeit existieren zwei Möglichkeiten, um Updates für das Wii U System zu bloc
 1. Notiere dir die IP Adresse auf dem Wii U Bildschirm.
 1. Führe deinen bevorzugten FTP Clienten auf deinem PC aus und öffne eine FTP Verbindung zu deiner Wii U. In FileZilla kann dies über den Site-Manager geschehen, stell aber sicher, dass du die IP-Adresse durch auf deinem Wii U Bildschirm angezeigte ersetzt: <br><img src="docs/assets/img/FTP.png" alt="FileZilla" />
 1. Navigiere zu `/storage_mlc/sys`. Du solltest einen leeren Ordner mit dem Namen `update ` sehen.
-1. Right-click the folder and delete it.
-1. You are now blocking updates.
+1. Rechtsklicke auf den Ordner und lösche diesen.
+1. Jetzt blockiert deine Konsole Updates.
 
-### **DNS Blocking**
-?> This method is the easier method and is recommended to less advanced users. It does, however, prevent the eShop from working. This can be worked around by running [NNUPatcher](http://www.wiiubru.com/appstore/zips/nnupatcher.zip) before starting the eShop.
+### **DNS-Blockierung**
+?> Diese Methode ist die einfachere Methode und wird weniger fortgeschrittenen Benutzern empfohlen. Es hindert den eShop jedoch daran, zu funktionieren. Dies kann durch das Ausführen von [NNUPatcher](http://www.wiiubru.com/appstore/zips/nnupatcher.zip) vor dem Start des eShops behoben werden.
 1. Stecke deine SD-Karte in deinen Computer.
-1. Extract the `nnupatcher.zip` file to the root of your SD Card. If asked, overwrite any duplicate files.
+1. Entpacke die `nnupatcher.zip` Datei in das Stammverzeichnis deiner SD-Karte. Falls du gefragt wirst, überschreibe doppelte Dateien.
 1. Stecke die SD-Karte in deine Wii U Konsole ein und schalte sie ein.
-1. Enter the Wii U's system settings and navigate to `Internet > Connect to the Internet > Connection List >` `Your WiFi connection > Change Settings > DNS` and set the option to `Do not auto-obtain`.
-1. You will be asked to input a primary and secondary DNS. Enter the following IP addresses:
- - Primary DNS: 168.235.092.108
- - Secondary DNS: 081.004.127.020 <img src="docs/assets/img/DNS.png" alt="DNS Block" />
-1. Click on confirm
-1. You are now blocking updates. In order to access the eShop, run the nnupatcher app from the Homebrew Launcher before launching the eShop
+1. Öffne die Systemeinstellungen der Wii U ein und navigiere zu `Internet > Connect to the Internet > Connection List >` `Ihre Wii-Verbindung > Ändern Sie die Einstellungen > DNS` und setzen Sie die Option auf `Nicht automatisch erhalten`.
+1. Du wirst aufgefordert, eine primäre und sekundäre DNS einzugeben. Gib die folgenden IP-Adressen ein:
+ - Primäre DNS: 168.235.092.108
+ - Sekundäre DNS: 081.004.127.020 <img src="docs/assets/img/DNS.png" alt="DNS-Block" />
+1. Klicke auf Bestätigen
+1. Jetzt blockiert deine Konsole Updates. Um auf den eShop zuzugreifen, musst du nnupatcher App aus dem Homebrew Launcher ausführen, bevor du den eShop startest
 
 
 <!-- tabs:end -->
