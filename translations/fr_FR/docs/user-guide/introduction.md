@@ -6,9 +6,9 @@ Guide collaboratif entre les Helpers et le Staff de Nintendo Homebrew, du stock 
 
 ### Homebrew
 
-> Homebrew applications are custom, user-made software, which haven’t been authorized by Nintendo. This can include save editing tools, games, emulators, and more.
+> Les applications Homebrew sont des logiciels faits maison, créés par les utilisateurs, qui n'ont pas été autorisés par Nintendo. Cela peut inclure des outils d'édition de sauvegardes, des jeux, des émulateurs, et plus encore.
 > 
-> Homebrew can be run on your Wii U as long as you have a way to put files on an SD Card and your Wii U is updated to the latest version for your region.
+> Les Homebrews peuvent être exécutés sur votre Wii U tant que vous avez un moyen de mettre des fichiers sur une carte SD et que votre Wii U est mise à jour vers la dernière version pour votre région.
 
 ### Custom Firmware
 
