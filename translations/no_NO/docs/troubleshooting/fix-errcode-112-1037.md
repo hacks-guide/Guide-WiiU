@@ -27,30 +27,30 @@ Denne siden vil hjelpe deg med å fikse feilkode 112-1037.
 1. Skriv: `py -3 -i wupclient.py`.
 1. Skriv inn IP-adressen til Wii U konsollen.
  - Usikker på hvor du finner det? Les [dette](find-wiiu-ip-address).
-1. Use the appropriate command depending on the region of your console:
+1. Bruk riktig kommando avhengig av regionen til konsollen:
  - JPN: <code>w.chmod("/vol<wbr>/storage_mlc01<wbr>/sys/title/00050030<wbr>/1001200a/content<wbr>/pages<wbr>/index.html", 0x644)</code>.
  - USA: <code>w.chmod("/vol<wbr>/storage_mlc01<wbr>/sys/title/00050030<wbr>/1001210a/content<wbr>/pages<wbr>/index.html", 0x644)</code>.
  - EUR: <code>w.chmod("/vol<wbr>/storage_mlc01<wbr>/sys/title/00050030<wbr>/1001220a/content<wbr>/pages<wbr>/index.html", 0x644)</code>.
-1. If the command worked, you will get the following response: `chmod returned 0x0`.
-1. The error code should now be gone.
+1. Hvis kommandoen fungerte, vil du få følgende svar: `chmod returned 0x0`.
+1. Feilkoden skal nå være borte.
 
 #### **macOS & Linux**
 
 1. Slå på Wii U konsollen.
 1. Start Homebrew Launcher og kjør Mocha.
 1. Gå tilbake til Wii U-menyen.
-1. Open up a Terminal window.
+1. Åpne opp et terminalvindu.
 1. Skriv: `cd <directory>.<directory>`.
- - On macOS, the most common place to find your downloaded files is <code>/Users/username<wbr>/Downloads</code>.
- - On Linux, the most common place to find your downloaded files is <code>/home/username<wbr>/Downloads</code>.
-1. Use the following command: `python3 -i wupclient.py`.
+ - På macOS er det vanligste stedet å finne nedlastede filer i <code>/Brukere/brukernavn<wbr>/Nedlastninger</code>.
+ - På Linux er det vanligste stedet å finne nedlastede filer i <code>/home/username<wbr>/Downloads</code>.
+1. Skriv: `py -3 -i wupclient.py`.
 1. Skriv inn IP-adressen til Wii U konsollen.
  - Usikker på hvor du finner det? Les [dette](find-wiiu-ip-address).
-1. Use the appropriate command depending on the region of your console:
+1. Bruk riktig kommando avhengig av regionen til konsollen:
  - JPN: <code>w.chmod("/vol<wbr>/storage_mlc01<wbr>/sys/title/00050030<wbr>/1001200a/content<wbr>/pages<wbr>/index.html", 0x644)</code>.
  - USA: <code>w.chmod("/vol<wbr>/storage_mlc01<wbr>/sys/title/00050030<wbr>/1001210a/content<wbr>/pages<wbr>/index.html", 0x644)</code>.
  - EUR: <code>w.chmod("/vol<wbr>/storage_mlc01<wbr>/sys/title/00050030<wbr>/1001220a/content<wbr>/pages<wbr>/index.html", 0x644)</code>.
-1. If the command worked, you will get the following response: `chmod returned 0x0`.
-1. The error code should now be gone.
+1. Hvis kommandoen fungerte, vil du få følgende svar: `chmod returned 0x0`.
+1. Feilkoden skal nå være borte.
 
 <!-- tabs:end -->
