@@ -20,16 +20,16 @@ Guide collaboratif entre les Helpers et le Staff de Nintendo Homebrew, du stock 
 > 
 > - Utiliser des "ROM hacks" pour les jeux que vous possédez
 > - Sauvegarder, modifier et restaurer les données de sauvegarde pour de nombreux jeux
-> - Play games for older systems with various emulators, using RetroArch or other standalone emulators
-> - Play out-of-region games
-> - Dump your Wii U game discs to a format that can be installed on your internal or external Wii U storage drive.
+> - Jouer à des jeux pour les anciennes consoles avec divers émulateurs, en utilisant RetroArch ou d'autres émulateurs autonomes
+> - Jouer à des jeux hors région
+> - Dumper vos disques de jeu Wii U dans un format qui peut être installé sur votre stockage Wii U interne ou externe.
 
 
-### End Goal
+### Objectif final
 
-> This guide has the end goal of taking a completely unmodified Wii U from stock to Custom Firmware.
+> Ce guide a pour but final de faire passer une Wii U complètement non modifiée du stock au Custom Firmware.
 
-### Before Starting
+### Avant de commencer
 
 !> Before beginning the guide, you must know the risks of Wii U hacking: EVERY time you modify your system, there is always the potential for an UNRECOVERABLE brick. They’re rare but still a possibility so make sure you follow ALL directions EXACTLY.
 >
