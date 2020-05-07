@@ -20,7 +20,7 @@ Denne personvernerklæringen gjelder all informasjon som blir samlet på nettste
 
 [3. HVA ER RETTIGHETENE DINE FOR PERSONVERN?](privacy-policy?id=_3-what-are-your-privacy-rights)
 
-[4. HAR CALIFORNIA BORGERE SPESIELLE PERSONVERN RETTIGHETER?](privacy-policy?id=_4-do-california-residents-have-specific-privacy-rights)
+[4. HAR INNBYGGERE I CALIFORNIA SPESIELLE PERSONVERN RETTIGHETER?](privacy-policy?id=_4-do-california-residents-have-specific-privacy-rights)
 
 [5. LAGER VI OPPDATERINGER TIL DENNE POLITIKKEN?](privacy-policy?id=_5-do-we-make-updates-to-this-policy)
 
@@ -52,11 +52,11 @@ Hvis vi er avhengig av ditt samtykke til å behandle din personlige informasjon,
 Hvis du er bosatt i ett EØS land, og du mener vi behandler dine personopplysninger ulovlig, har du rett til å klage til din lokale personvernmyndighet. Kontaktinformasjon finner du her: http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm
 
 
-### 4. HAR CALIFORNIA BORGERE SPESIELLE PERSONVERN RETTIGHETER?
+### 4. HAR INNBYGGERE I CALIFORNIA SPESIELLE PERSONVERN RETTIGHETER?
 
-***Kort fortalt:*** *Ja, hvis du er borger i California, så har du spesifikke rettigheter angående tilgangen til din personlige informasjon.*
+***Kort fortalt:*** *Ja, hvis du er innbygger i California, så har du spesifikke rettigheter angående tilgangen til din personlige informasjon.*
 
-California Civil Code Section 1798.83, also known as the “Shine The Light” law, permits our users who are California residents to request and obtain from us, once a year and free of charge, information about categories of personal information (if any) we disclosed to third parties for direct marketing purposes and the names and addresses of all third parties with which we shared personal information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to us using the contact information provided below.
+California Civil Code Section 1798.83, også kjent som «Shine The Light»-loven, gir brukerne våre som er California innbyggere tilgangen til å be om og motta fra oss, gratis en gang i året, informasjon om kategorier av personlig informasjon (hvis det er noen) som vi har delt med tredjepart for direkte markedsføringsformål og navn og adresser til alle tredjeparter som vi delte personopplysninger med i det foregående kalenderåret. Hvis du er en California innbygger og ønsker å komme med en forespørsel, send forespørselen din skriftlig til oss ved hjelp av kontaktopplysningene som er gitt nedenfor.
 
 If you are under 18 years of age, reside in California, and have a registered account with the Sites, you have the right to request removal of unwanted data that you publicly post on the Sites. To request removal of such data, please contact us using the contact information provided below, and include the email address associated with your account and a statement that you reside in California. We will make sure the data is not publicly displayed on the Sites, but please be aware that the data may not be completely or comprehensively removed from our systems.
 
