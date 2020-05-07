@@ -65,7 +65,7 @@ This page will guide you through the process of recovering a corrupted IOS on yo
 1. Launch the previously downloaded `overwrite-wiiu-titlehash.exe` file
 1. Type in your Wii U's IP address and press Enter
 1. Wait for it to finish what it's doing
- - If an `err.log` file has been generated, please visit us in **#wiiu-assistance** on [Nintendo Homebrew Discord](https://discord.gg/C29hYvh)
+ - If an `err.log` file has been generated, please visit us in **#wiiu-assistance** on [Nintendo Homebrew Discord](https://discord.gg/C29hYvh) and ask, in English, for assistance.
 1. Exit FTPiiU Everywhere and the Homebrew Launcher
 1. Launch the System Settings
 1. Perform a [System Update](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1136/~/how-to-perform-a-system-update)
@@ -91,7 +91,7 @@ This page will guide you through the process of recovering a corrupted IOS on yo
 1. Use the following command: `python3 overwrite-wiiu-titlehash.py`
 1. Type in your Wii U's IP address and press Enter
 1. Wait for it to finish what it's doing
- - If an `err.log` file has been generated, please visit us in **#wiiu-assistance** on [Nintendo Homebrew Discord](https://discord.gg/C29hYvh)
+ - If an `err.log` file has been generated, please visit us in **#wiiu-assistance** on [Nintendo Homebrew Discord](https://discord.gg/C29hYvh) and ask, in English, for assistance.
 1. Exit FTPiiU Everywhere and the Homebrew Launcher
 1. Launch the System Settings
 1. Perform a [System Update](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1136/~/how-to-perform-a-system-update)
