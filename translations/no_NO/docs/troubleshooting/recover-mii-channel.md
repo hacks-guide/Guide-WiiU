@@ -72,7 +72,7 @@ This page will guide you through the process of restoring your Mii Channel to a 
 1. In FileZilla, type in the IP address displayed by your Wii U in the `Host` field at the top of the window and click on `Quickconnect`.
 1. Navigate to `/slccmpt01/title/00010002`.
 1. Delete the `48414341` folder.
-1. Open up a Terminal window.
+1. Åpne opp et terminalvindu.
 1. Skriv: `cd <directory>.<directory>`.
  - On macOS, the most common place to find your downloaded files is `/Users/username/Downloads`.
  - On Linux, the most common place to find your downloaded files is `/home/username/Downloads`.
