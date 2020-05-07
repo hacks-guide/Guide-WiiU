@@ -86,9 +86,9 @@ Denne siden vil hjelpe deg med å gjenopprette en korrupt IOS i vWii.
 1. Slett tilsvarende `.tik` filer for IOS'ene du vil gjenopprette
 1. Åpne opp et terminalvindu
 1. Skriv: `cd <directory>`
- - On macOS, the most common place to find your downloaded files is `/Users/username/Downloads`
- - On Linux, the most common place to find your downloaded files is `/home/username/Downloads`
-1. Use the following command: `python3 overwrite-wiiu-titlehash.py`
+ - På macOS er det vanligste stedet å finne nedlastede filer i `/Brukere/brukernavn/Nedlastninger`
+ - På Linux er det vanligste stedet å finne nedlastede filer i `/home/username/Downloads`
+1. Skriv: `python3 overwrite-wiiu-titlehash.py`
 1. Skriv inn Wii U konsollens IP-adresse og trykk Enter
 1. Vent til den er ferdig
  - Hvis en `err.log` fil blir generert, vennligst kontakt oss i **#wiiu-assistance** på [Nintendo Homebrew Discord](https://discord.gg/C29hYvh) kanalen
