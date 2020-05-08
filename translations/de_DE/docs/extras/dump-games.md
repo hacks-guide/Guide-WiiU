@@ -14,7 +14,7 @@ Dumping your Discs allows you to install a copy of your game to the system NAND/
 
 ### Was du brauchst
 
-- Your SD Card needs to have enough space to fit the game you want to dump.
+- Deine SD-Karte braucht genug Platz um das Spiel abzuladen.
 - The latest release of [WUP Installer GX2](http://wiiubru.com/appstore/zips/wup_installer_gx2.zip)
 - The [disc2app](http://www.wiiubru.com/appstore/zips/disc2app.zip) Homebrew app
 
@@ -31,7 +31,7 @@ Dumping your Discs allows you to install a copy of your game to the system NAND/
 1. When the process is complete, your Wii U will launch the Wii U Menu.
 1. Launch the Homebrew Launcher and start the WUP Installer GX2 app.
 1. Select your game (`WUP-X-XXXX`), press `Install` and confirm with `Yes`.
-1. Select NAND as the installation destination.
+1. Wähle NAND als das Installationsziel.
 1. When the process is complete, your Wii U will launch the Wii U Menu.
 1. You should see your game installed, ready to be played.
 1. Take the SD Card out of your Wii U and plug it into your PC.
@@ -43,9 +43,9 @@ Dumping your Discs allows you to install a copy of your game to the system NAND/
 
 !> In order to install to a USB device, it has to be formatted by the Wii U. Doing this will erase all contents of it, and prevent it from being used on another system unless you reformat it.
 
-### What You Need
+### Was Du Brauchst
 
-- Your SD Card needs to have enough space to fit the game you want to dump.
+- Deine SD-Karte braucht genug Platz um das Spiel abzuladen.
 - A USB HDD (+ a Y-cable if needed)
 - The latest release of [WUP Installer GX2](http://wiiubru.com/appstore/zips/wup_installer_gx2.zip)
 - The [disc2app](http://www.wiiubru.com/appstore/zips/disc2app.zip) Homebrew app
@@ -84,7 +84,7 @@ Dumping your Discs allows you to install a copy of your game to the system NAND/
 
 ?> If you do not have enough space on your SD Card, you can use an advanced technique to install dumps from a USB device. This is not the easiest thing to do and has the disadvantage of only being able to install the game onto your system memory (NAND).
 
-### What You Need
+### Was Du Brauchst
 - A USB storage device (+a Y-cable if needed) with enough space to fit the game you want to dump.
 - The latest release of [WUP Installer GX2](http://wiiubru.com/appstore/zips/wup_installer_gx2.zip)
 - The [disc2app](http://www.wiiubru.com/appstore/zips/disc2app.zip) Homebrew app.
@@ -117,7 +117,7 @@ Dumping your Discs allows you to install a copy of your game to the system NAND/
 1. When the process is complete, your Wii U will launch the Wii U Menu.
 1. Launch the Homebrew Launcher and start the WUP Installer GX2 app.
 1. Select your game (`WUP-X-XXXX`), press `Install` and confirm with `Yes`.
-1. Select NAND as the installation destination.
+1. Wähle NAND als das Installationsziel.
 1. When the process is complete, your Wii U will launch the Wii U Menu.
 1. You should see your game installed, ready to be played.
 1. Take the USB device out of your Wii U and plug it into your PC.
