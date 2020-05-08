@@ -2,22 +2,22 @@
 ---
 This is needed if you ever need to perform a System Update.
 
-### Anleitungen
+### Instructions
 
 <!-- tabs:start -->
 
 #### **Recreating The Update Folder**
 
-?> Damit diese Methode funktioniert, muss deine Wii U im selben Netzwerk wie dein Computer sein.
-1. Stecke deine SD-Karte in deinen Computer.
-1. Lade [ftpiiu_everywhere](http://wiiubru.com/appstore/zips/fpiiu-cbhc.zip) herunter und entpacke es in das Stammverzeichnis deiner SD Karte.
-1. Lade einen FTP Clienten deiner Wahl herunter wie zum Beispiel [FileZilla](https://filezilla-project.org/download.php?show_all=1).
-1. Stecke die SD-Karte in deine Wii U Konsole ein und schalte sie ein.
-1. Starten die CFW deiner Wahl (Mocha, Haxchi/CBHC) und starte den Homebrew Launcher.
-1. Navigiere durch den Homebrew Launcher und führe die ftpiiu_everywhere App aus.
-1. Notiere dir die IP Adresse auf dem Wii U Bildschirm.
-1. Führe deinen bevorzugten FTP Clienten auf deinem PC aus und öffne eine FTP Verbindung zu deiner Wii U. In FileZilla kann dies über den Site-Manager geschehen, stell aber sicher, dass du die IP-Adresse durch auf deinem Wii U Bildschirm angezeigte ersetzt: <br><img src="docs/assets/img/FTP.png" alt="FileZilla" />
-1. Navigiere zu `/storage_mlc/sys`.
+?> In order for this method to work, your Wii U needs to be in the same network as your Computer.
+1. Plug your SD Card into your Computer.
+1. Download and extract [ftpiiu_everywhere](http://wiiubru.com/appstore/zips/fpiiu-cbhc.zip) to the root of your SD Card.
+1. Download an FTP client of your choice such as [FileZilla](https://filezilla-project.org/download.php?show_all=1).
+1. Plug the SD Card into your Wii U console and power it on.
+1. Launch the CFW of your choice (Mocha, Haxchi/CBHC) and enter the Homebrew Launcher.
+1. Navigate the Homebrew Launcher and run the ftpiiu_everywhere app.
+1. Take note of the IP address on the Wii U screen.
+1. On your PC run your preferred FTP client and open an FTP connection to your Wii U. In FileZilla, this can be done using the Site Manager, but be sure to replace the IP address with the one shown on your Wii U screen: <br><img src="docs/assets/img/FTP.png" alt="FileZilla" />
+1. Navigate to `/storage_mlc/sys`.
 1. Create a folder named `update`.
 1. You are now no longer blocking system updates.
 
