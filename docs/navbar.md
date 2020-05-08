@@ -25,7 +25,6 @@
   - [Bahasa Indonesia](/id_ID/)
   - [Bahasa Melayu](/ms_MY/)
   - [Norsk](/no_NO/)
-  - [Pirate English](/en_PT/)
   - [Polskie](/pl_PL/)
   - [Português](/pt_PT/)
   - [Português, Brasileiro](/pt_BR/)
