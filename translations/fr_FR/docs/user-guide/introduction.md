@@ -1,4 +1,4 @@
-# Guide NH Wii U
+# Guide Hacks Wii U
 
 Guide collaboratif entre les Helpers et le Staff de Nintendo Homebrew, du stock au custom firmware de CBHC.
 
@@ -14,7 +14,7 @@ Guide collaboratif entre les Helpers et le Staff de Nintendo Homebrew, du stock 
 
 > Le Custom Firmware (« CFW ») vous permet d'utiliser des hacks plus avancés que les homebrews de type "userland" ne peuvent pas faire facilement. Par exemple, installer des mods de jeu en toute simplicité. Le CFW peut être configuré sur n'importe quelle console ayant la dernière version en date du système.
 
-### Homebrew & Utilisation du CFW
+### Homebrew & Usages du CFW
 >
 > Il vous permet, entre autres, de faire ce qui suit:
 > 
@@ -31,7 +31,7 @@ Guide collaboratif entre les Helpers et le Staff de Nintendo Homebrew, du stock 
 
 ### Avant de commencer
 
-!> Avant de commencer le guide, vous devez connaître les risques du hack de la Wii U : À CHAQUE FOIS que vous modifiez votre système, il y a toujours le potentiel d'un brick IRRÉCUPÉRABLE. Ils sont rares, mais toujours possibles, alors assurez-vous de suivre EXACTEMENT TOUTES les instructions.
+!> Avant de commencer le guide, vous devez connaître les risques du hack de la Wii U : À CHAQUE FOIS que vous modifiez votre système, il y a toujours un potentiel de bricker votre console de manière IRRÉCUPÉRABLE. Ils sont rares, mais toujours possibles, alors assurez-vous de suivre EXACTEMENT TOUTES les instructions.
 >
 > Ce guide fonctionnera sur toutes les consoles Wii U de toutes les régions en version 5.5.4 ou inférieure.
 > 
