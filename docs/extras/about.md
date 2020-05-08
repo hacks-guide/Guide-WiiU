@@ -47,3 +47,5 @@ This guide was written by staff members of the [Nintendo Homebrew Discord Server
 >
 > - **FIX94** for [Wuphax](https://github.com/FIX94/wuphax).
 >
+> - **GaryOderNichts** for [Indexiine-Installer](https://github.com/GaryOderNichts/indexiine-installer)
+>
