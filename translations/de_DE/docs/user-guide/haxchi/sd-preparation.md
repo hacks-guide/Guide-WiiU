@@ -24,7 +24,7 @@ We will now place the required CFW files and some additional homebrew files on t
 - The latest release of [SaveMii mod](https://github.com/GabyPCgeeK/savemii/releases)
 
 
-### Anleitungen
+### Instructions
 
 ?> **Notice** The info.json and manifest.install files are not needed for the modding process and therefore can be deleted.
 
