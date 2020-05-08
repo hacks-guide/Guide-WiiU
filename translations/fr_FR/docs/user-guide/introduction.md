@@ -47,7 +47,7 @@ Si tout se passe comme prévu, vous ne perdrez aucune donnée et finirez avec to
 
 Gardez votre console branchée tout au long du processus pour éviter une perte de données ou des dommages causés par une mise hors tension inattendue.
 
-With the exception of CBHC, Custom Firmware is not permanent with current methods and will be unloaded upon rebooting the system.
+À l'exception de CBHC, le Custom Firmware n'est pas permanent avec les méthodes actuelles et sera désactivé au redémarrage de la console.
 
 It is advised that you read the entire guide from start to finish one or more times before actually running through the guide with your system.
 
