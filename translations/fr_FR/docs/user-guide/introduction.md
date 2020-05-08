@@ -49,8 +49,8 @@ Gardez votre console branchée tout au long du processus pour éviter une perte 
 
 À l'exception de CBHC, le Custom Firmware n'est pas permanent avec les méthodes actuelles et sera désactivé au redémarrage de la console.
 
-It is advised that you read the entire guide from start to finish one or more times before actually running through the guide with your system.
+Il est conseillé de lire l'intégralité du guide du début à la fin une ou plusieurs fois avant de commencer à suivre les étapes avec votre console.
 
 ---
 
-### [Continue to Choose a CFW](cfw-choice) {docsify-ignore}
+### [Continuer vers Choisissez un CFW](cfw-choice) {docsify-ignore}
