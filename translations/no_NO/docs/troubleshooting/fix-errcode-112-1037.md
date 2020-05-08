@@ -1,56 +1,56 @@
-# Hvordan fikse Feilkode 112-1037
+# How To Fix The Error Code 112-1037
 
-Denne siden vil hjelpe deg med å fikse feilkode 112-1037.
+This page will guide you through the process of fixing the error code 112-1037.
 
-### Dette trenger du
+### What You Need
 
-- En fungerende [Homebrew installasjon](introduction).
-- [wupclient.py](https://raw.githubusercontent.com/Elpunical/mocha/master/ios_mcp/wupclient.py) **(Høyreklikk -> Lagre lenke som... -> Klikk Lagre).**
-- Siste utgave av [Python](https://www.python.org/downloads/).
+- A working [Homebrew Installation](introduction).
+- [wupclient.py](https://raw.githubusercontent.com/Elpunical/mocha/master/ios_mcp/wupclient.py) **(right-click -> Save link as... -> Click Save).**
+- The latest release of [Python](https://www.python.org/downloads/).
 
-### Instruksjoner
+### Instructions
 
-1. Installer Python på PC'en din.
+1. Install Python on your computer.
 
-### Fikse feilkoden
+### Fixing The Error Code
 
 <!-- tabs:start -->
 
 #### **Windows**
 
-1. Slå på Wii U konsollen.
-1. Start Homebrew Launcher og kjør Mocha.
-1. Gå tilbake til Wii U-menyen.
-1. Åpne opp et Command Prompt vindu.
-1. Skriv: `cd <directory>`.
-  - Eksempel: <code>cd C:\Brukere\brukernavn<wbr>\Nedlastninger</code>.
-1. Skriv: `py -3 -i wupclient.py`.
-1. Skriv inn IP-adressen til Wii U konsollen.
- - Usikker på hvor du finner det? Les [dette](find-wiiu-ip-address).
-1. Bruk riktig kommando avhengig av regionen til konsollen:
+1. Power on your Wii U.
+1. Launch the Homebrew Launcher and launch Mocha.
+1. Go back to the Wii U Menu.
+1. Open up a command prompt window.
+1. Use the following command: `cd <directory>`.
+  - Example: <code>cd C:\Users\username<wbr>\Downloads</code>.
+1. Use the following command: `py -3 -i wupclient.py`.
+1. Enter the IP address of your Wii U.
+ - Don't know how to find it? Read [this](find-wiiu-ip-address).
+1. Use the appropriate command depending on the region of your console:
  - JPN: <code>w.chmod("/vol<wbr>/storage_mlc01<wbr>/sys/title/00050030<wbr>/1001200a/content<wbr>/pages<wbr>/index.html", 0x644)</code>.
  - USA: <code>w.chmod("/vol<wbr>/storage_mlc01<wbr>/sys/title/00050030<wbr>/1001210a/content<wbr>/pages<wbr>/index.html", 0x644)</code>.
  - EUR: <code>w.chmod("/vol<wbr>/storage_mlc01<wbr>/sys/title/00050030<wbr>/1001220a/content<wbr>/pages<wbr>/index.html", 0x644)</code>.
-1. Hvis kommandoen fungerte, vil du få følgende svar: `chmod returned 0x0`.
-1. Feilkoden skal nå være borte.
+1. If the command worked, you will get the following response: `chmod returned 0x0`.
+1. The error code should now be gone.
 
 #### **macOS & Linux**
 
-1. Slå på Wii U konsollen.
-1. Start Homebrew Launcher og kjør Mocha.
-1. Gå tilbake til Wii U-menyen.
-1. Åpne opp et terminalvindu.
-1. Skriv: `cd <directory>`.
- - På macOS er det vanligste stedet å finne nedlastede filer i <code>/Brukere/brukernavn<wbr>/Nedlastninger</code>.
- - På Linux er det vanligste stedet å finne nedlastede filer i <code>/home/username<wbr>/Downloads</code>.
-1. Skriv: `py -3 -i wupclient.py`.
-1. Skriv inn IP-adressen til Wii U konsollen.
- - Usikker på hvor du finner det? Les [dette](find-wiiu-ip-address).
-1. Bruk riktig kommando avhengig av regionen til konsollen:
+1. Power on your Wii U.
+1. Launch the Homebrew Launcher and launch Mocha.
+1. Go back to the Wii U Menu.
+1. Open up a Terminal window.
+1. Use the following command: `cd <directory>`.
+ - On macOS, the most common place to find your downloaded files is <code>/Users/username<wbr>/Downloads</code>.
+ - On Linux, the most common place to find your downloaded files is <code>/home/username<wbr>/Downloads</code>.
+1. Use the following command: `python3 -i wupclient.py`.
+1. Enter the IP address of your Wii U.
+ - Don't know how to find it? Read [this](find-wiiu-ip-address).
+1. Use the appropriate command depending on the region of your console:
  - JPN: <code>w.chmod("/vol<wbr>/storage_mlc01<wbr>/sys/title/00050030<wbr>/1001200a/content<wbr>/pages<wbr>/index.html", 0x644)</code>.
  - USA: <code>w.chmod("/vol<wbr>/storage_mlc01<wbr>/sys/title/00050030<wbr>/1001210a/content<wbr>/pages<wbr>/index.html", 0x644)</code>.
  - EUR: <code>w.chmod("/vol<wbr>/storage_mlc01<wbr>/sys/title/00050030<wbr>/1001220a/content<wbr>/pages<wbr>/index.html", 0x644)</code>.
-1. Hvis kommandoen fungerte, vil du få følgende svar: `chmod returned 0x0`.
-1. Feilkoden skal nå være borte.
+1. If the command worked, you will get the following response: `chmod returned 0x0`.
+1. The error code should now be gone.
 
 <!-- tabs:end -->
