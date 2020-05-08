@@ -46,3 +46,5 @@ This guide was written by staff members of the [Nintendo Homebrew Discord Server
 > - **dimok789** for [wupclient.py](https://github.com/dimok789/mocha/blob/master/ios_mcp/wupclient.py)
 > 
 > - **FIX94** for [Wuphax](https://github.com/FIX94/wuphax).
+> 
+> - **GaryOderNichts** for [Indexiine-Installer](https://github.com/GaryOderNichts/indexiine-installer)
