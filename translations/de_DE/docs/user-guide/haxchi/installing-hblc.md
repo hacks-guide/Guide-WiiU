@@ -4,7 +4,7 @@
 
 This page will install the Homebrew Launcher Channel as an application directly to your Home Menu for easy access.
 
-### Anleitungen
+### Instructions
 
 ?> Installing the Homebrew Launcher Channel is optional as you can already launch it by holding the A button while launching Haxchi.
 
