@@ -3,7 +3,7 @@
 **Sist oppdatert 18. Januar, 2020**
 
 
-Takk for at du velger å være en del av samfunnet vårt i NH Wii U Guide (“selskapet”, ”vi”, "oss", eller ”vår”). Vi er forpliktet til å beskytte dine personopplysninger og din rett til personvern. Hvis du har spørsmål eller bekymringer om vår politikk, eller våre praksiser med hensyn til din personlige informasjon, vennligst kontakt oss på nh.wiiuguide@gmail.com.
+Thank you for choosing to be part of our community at Wii U Hacks Guide (“company”, “we”, “us”, or “our”). Vi er forpliktet til å beskytte dine personopplysninger og din rett til personvern. Hvis du har spørsmål eller bekymringer om vår politikk, eller våre praksiser med hensyn til din personlige informasjon, vennligst kontakt oss på nh.wiiuguide@gmail.com.
 
 Når du besøker nettsiden vår https://wiiu.hacks.guide, og bruker våre tjenester, stoler du på oss med din personlige informasjon. Vi tar personvernet ditt svært alvorlig. I denne personverns erklæringen beskriver vi våre retningslinjer for personvern. Vi ønsker å forklare for deg på den tydeligste mulige måten hva slags informasjon vi samler inn, hvordan vi bruker den og hvilke rettigheter du har i forhold til den. Vi håper du tar deg tid til å lese gjennom nøye, siden dette er viktig. Dersom det er noen vilkår i denne personverns erklæringen du ikke er enig med, vennligst avbryt bruken av våre nettsteder og våre tjenester.
 
