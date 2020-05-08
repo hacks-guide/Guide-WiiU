@@ -1,56 +1,56 @@
-# Guide Hacks Wii U
+# Wii U Hacks Guide
 
-Guide collaboratif entre les Helpers et le Staff de Nintendo Homebrew, du stock au custom firmware de CBHC.
+A guide collaboration between Nintendo Homebrew's Helpers and Staff, from stock to CBHC custom firmware.
 
-?> **Aide sur Discord** Pour une assistance en direct avec ce guide, veuillez nous rendre visite dans **#wiiu-assistance** sur le serveur [Nintendo Homebrew sur Discord](https://discord.gg/C29hYvh) et demandez de l'aide en anglais.
+?> **Discord Help** For live support with this guide please visit us in **#wiiu-assistance** on the [Nintendo Homebrew Discord](https://discord.gg/C29hYvh) and ask, in English, for assistance.
 
 ### Homebrew
 
-> Les applications Homebrew sont des logiciels faits maison, créés par les utilisateurs, qui n'ont pas été autorisés par Nintendo. Cela peut inclure des outils d'édition de sauvegardes, des jeux, des émulateurs, et plus encore.
+> Homebrew applications are custom, user-made software, which haven’t been authorized by Nintendo. This can include save editing tools, games, emulators, and more.
 > 
-> Les Homebrews peuvent être exécutés sur votre Wii U tant que vous avez un moyen de mettre des fichiers sur une carte SD et que votre Wii U est mise à jour vers la dernière version pour votre région.
+> Homebrew can be run on your Wii U as long as you have a way to put files on an SD Card and your Wii U is updated to the latest version for your region.
 
 ### Custom Firmware
 
-> Le Custom Firmware (« CFW ») vous permet d'utiliser des hacks plus avancés que les homebrews de type "userland" ne peuvent pas faire facilement. Par exemple, installer des mods de jeu en toute simplicité. Le CFW peut être configuré sur n'importe quelle console ayant la dernière version en date du système.
+> Custom Firmware (“CFW”) enables you to use more advanced hacks that userland homebrew can’t easily do. For instance, installing game modifications with ease. CFW can be set up on any console on the latest version.
 
-### Homebrew & Utilisation du CFW
+### Homebrew & CFW Uses
 >
-> Il vous permet, entre autres, de faire ce qui suit:
+> Among other things, it allows you to do the following:
 > 
-> - Utiliser des "ROM hacks" pour les jeux que vous possédez
-> - Sauvegarder, modifier et restaurer les données de sauvegarde pour de nombreux jeux
-> - Jouer à des jeux pour les anciennes consoles avec divers émulateurs, en utilisant RetroArch ou d'autres émulateurs autonomes
-> - Jouer à des jeux hors région
-> - Dumper vos disques de jeu Wii U dans un format qui peut être installé sur votre stockage Wii U interne ou externe.
+> - Use “ROM hacks” for games that you own
+> - Backup, edit and restore saves for many games
+> - Play games for older systems with various emulators, using RetroArch or other standalone emulators
+> - Play out-of-region games
+> - Dump your Wii U game discs to a format that can be installed on your internal or external Wii U storage drive.
 
 
-### Objectif final
+### End Goal
 
-> Ce guide a pour but final de faire passer une Wii U complètement non modifiée du stock au Custom Firmware.
+> This guide has the end goal of taking a completely unmodified Wii U from stock to Custom Firmware.
 
-### Avant de commencer
+### Before Starting
 
-!> Avant de commencer le guide, vous devez connaître les risques du hack de la Wii U : À CHAQUE FOIS que vous modifiez votre système, il y a toujours le potentiel d'un brick IRRÉCUPÉRABLE. Ils sont rares, mais toujours possibles, alors assurez-vous de suivre EXACTEMENT TOUTES les instructions.
+!> Before beginning the guide, you must know the risks of Wii U hacking: EVERY time you modify your system, there is always the potential for an UNRECOVERABLE brick. They’re rare but still a possibility so make sure you follow ALL directions EXACTLY.
 >
-> Ce guide fonctionnera sur toutes les consoles Wii U de toutes les régions en version 5.5.4 ou inférieure.
+> This guide will work on all Wii U consoles in all regions on firmware 5.5.4 or below.
 > 
-> Vous aurez besoin de ce qui suit pour suivre ce tutoriel avec succès :
+> You will need the following in order to successfully follow this guide:
 > 
-> - Une carte SD
-> - Un appareil tel qu'un ordinateur pour placer des fichiers sur la carte SD
-> - Une Wii U avec un accès Internet
+> - An SD Card
+> - A device such as a computer to place files onto the SD Card
+> - A Wii U with internet access
 > 
-> Votre carte SD devrait de préférence être de 32 gigaoctets, étant donné qu'une sauvegarde complète de la NAND de votre console prendra environ 8 ou 30 gigaoctets selon votre modèle.
+> Your SD Card should preferably be 32 gigabytes large, as a full NAND backup for the console will take up around 8 or 30 gigabytes depending on your model.
 
-Si tout se passe comme prévu, vous ne perdrez aucune donnée et finirez avec tout ce que vous aviez avant de commencer (jeux, NNID, les données de sauvegarde, etc seront conservés).
+If everything goes according to plan, you will lose no data and end up with everything that you started with (games, NNID, saves, etc will be preserved).
 
-Gardez votre console branchée tout au long du processus pour éviter une perte de données ou des dommages causés par une mise hors tension inattendue.
+Keep your device plugged in throughout the entire process to avoid data loss or damage from an unexpected power-off.
 
-À l'exception de CBHC, le Custom Firmware n'est pas permanent avec les méthodes actuelles et sera désactivé au redémarrage de la console.
+With the exception of CBHC, Custom Firmware is not permanent with current methods and will be unloaded upon rebooting the system.
 
-Il est conseillé de lire l'intégralité du guide du début à la fin une ou plusieurs fois avant de commencer à suivre les étapes avec votre console.
+It is advised that you read the entire guide from start to finish one or more times before actually running through the guide with your system.
 
 ---
 
-### [Continuer vers Choisissez un CFW](cfw-choice) {docsify-ignore}
+### [Continue to Choose a CFW](cfw-choice) {docsify-ignore}
