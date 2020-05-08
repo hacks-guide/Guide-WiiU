@@ -1,14 +1,14 @@
-# Wii U Hacks Guide
+# Guide Hacks Wii U
 
-A guide collaboration between Nintendo Homebrew's Helpers and Staff, from stock to CBHC custom firmware.
+Guide collaboratif entre les Helpers et le Staff de Nintendo Homebrew, du stock au custom firmware de CBHC.
 
-?> **Discord Help** For live support with this guide please visit us in **#wiiu-assistance** on the [Nintendo Homebrew Discord](https://discord.gg/C29hYvh) and ask, in English, for assistance.
+?> **Aide sur Discord** Pour une assistance en direct avec ce guide, veuillez nous rendre visite dans **#wiiu-assistance** sur le serveur [Nintendo Homebrew sur Discord](https://discord.gg/C29hYvh) et demandez de l'aide en anglais.
 
 ### Homebrew
 
-> Homebrew applications are custom, user-made software, which haven’t been authorized by Nintendo. This can include save editing tools, games, emulators, and more.
+> Les applications Homebrew sont des logiciels faits maison, créés par les utilisateurs, qui n'ont pas été autorisés par Nintendo. Cela peut inclure des outils d'édition de sauvegardes, des jeux, des émulateurs, et plus encore.
 > 
-> Homebrew can be run on your Wii U as long as you have a way to put files on an SD Card and your Wii U is updated to the latest version for your region.
+> Les Homebrews peuvent être exécutés sur votre Wii U tant que vous avez un moyen de mettre des fichiers sur une carte SD et que votre Wii U est mise à jour vers la dernière version pour votre région.
 
 ### Custom Firmware
 
