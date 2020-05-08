@@ -1,4 +1,4 @@
-# À propos de ce guide
+# About this guide
 ---
 This guide was written by staff members of the [Nintendo Homebrew Discord Server](https://discord.gg/C29hYvh)
 
