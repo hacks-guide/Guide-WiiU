@@ -14,6 +14,7 @@
 - [Dumping Original Wii Discs](dump-wii-games)
 - [Unblocking Updates](unblock-updates)
 - [Uninstall CBHC](uninstall-cbhc)
+- [Uninstall Indexiine](uninstall-indexiine)
 - [FAQ](faq)
 - **Links**
 - [![GitHub](https://icongr.am/simple/github.svg?color=808080&size=16)GitHub](https://github.com/hacks-guide/Guide-WiiU)
