@@ -10,7 +10,7 @@ Now that you have your NAND backup in case anything goes wrong later, you can in
 - This release of [FTPiiU Everywhere](http://wiiubru.com/appstore/zips/fpiiu-cbhc.zip)
 - An FTP client such as [FileZilla](https://filezilla-project.org/download.php?show_all=1)
 
-### Instructions
+### Anleitungen
 
 1. Extract the `fpiiu-cbhc.zip` file to the root of your SD Card
 1. Install FileZilla on your computer

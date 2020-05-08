@@ -31,7 +31,7 @@ Denne guiden ble skrevet av staff medlemmer fra [Nintendo Homebrew Discord Serve
 > 
 > - **vgmoose**, **pwsincd**, **rw-r-r_0644**, **crc32** og **Compucat** for [hb-appstore](https://github.com/vgmoose/hb-appstore).
 > 
-> - **JJonhyjp** for [Indexiine](https://gbatemp.net/threads/indexiine-load-cfw-during-boot-and-offline-without-a-vc-ds-title.553681/)
+> - **Jonhyjp** for [Indexiine](https://gbatemp.net/threads/indexiine-load-cfw-during-boot-and-offline-without-a-vc-ds-title.553681/)
 > 
 > - **JumpCallPop**, **jam1garner**, **hedgeberg**, **yellows8** og **orboditilt** for [JSTypeHax](https://github.com/wiiu-env/JsTypeHax)
 > 

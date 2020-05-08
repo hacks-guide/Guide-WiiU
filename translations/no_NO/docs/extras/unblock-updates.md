@@ -8,7 +8,7 @@ Dette må du gjøre hvis du noen gang trenger en systemoppdatering.
 
 #### **Gjenopprette "update" mappen**
 
-?> For å gjøre dette, må Wii U konsollen være på samme nettverk som datamaskinen din.
+?> For å gjøre dette, må Wii U konsollen være på samme nettverk som PC'en din.
 1. Sett SD-kortet inn i datamaskinen.
 1. Last ned og pakk ut [ftpiiu_everywhere](http://wiiubru.com/appstore/zips/fpiiu-cbhc.zip) til roten av SD-kortet ditt.
 1. Last ned en FTP-klient, for eksempel [FileZilla](https://filezilla-project.org/download.php?show_all=1).

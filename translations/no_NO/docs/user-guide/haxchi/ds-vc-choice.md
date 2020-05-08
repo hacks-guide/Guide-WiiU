@@ -1,13 +1,13 @@
 # Haxchi {docsify-ignore-all}
 
-## Choose Your DS VC Game
+## Velg ett DS VC-spill
 
-The first thing to decide is what DS VC game you will buy.  
-Please note that the game you injected Haxchi/CBHC into will not be playable anymore until you uninstall Haxchi/CBHC and reinstall the game from the eShop.
+Det første du må velge er hvilket DS VC spill du skal kjøpe.   
+Vær oppmerksom på at spillet du installerer Haxchi/CBHC over vil ikke kunne spilles lenger før du avinstallerer Haxchi/CBHC og installere spillet på nytt fra eShop.
 
-### Compatible DS VC Games
+### Kompatible DS VC spill
 
-?> If you have a European region console, there is a chance that you might already have got <code>Dr. Kawashima's <wbr>Brain <wbr>Training: <wbr>How <wbr>Old <wbr>is <wbr>Your <wbr>Brain?</code> for free. Head over [to the eShop](https://en-americas-support.nintendo.com/app/answers/detail/a_id/8563/~/how-to-view-previously-downloaded-titles-on-wii-u) and check if you got the game.
+?> Hvis du har en europeisk regionkonsoll, er det en mulighet for at du allerede har <code>Dr. Kawashimas <wbr>Brain <wbr>Training: <wbr>How <wbr>Old <wbr>is <wbr>Your <wbr>Brain?</code> gratis. Gå til [eShop](https://en-americas-support.nintendo.com/app/answers/detail/a_id/8563/~/how-to-view-previously-downloaded-titles-on-wii-u) og sjekk om du har spillet.
 
 - **Animal Crossing: Wild World** - [EUR](https://www.nintendo.eu/Games/Nintendo-DS/Animal-Crossing-Wild-World-270011.html "Buy it from the European eShop") [USA](https://www.nintendo.com/games/detail/animal-crossing-wild-world-wii-u/ "Buy it from the American eShop") [JPN](https://www.nintendo.co.jp/titles/20010000023019 "Buy it from the Japanese eShop")
 - **Big Brain Academy** - [EUR](https://www.nintendo.eu/Games/Nintendo-DS/Big-Brain-Academy-270143.html "Buy it from the European eShop") [USA](https://www.nintendo.com/games/detail/big-brain-academy-wii-u/ "Buy it from the American eShop") [JPN](https://www.nintendo.co.jp/titles/20010000013967 "Buy it from the Japanese eShop")
