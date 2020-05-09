@@ -1,8 +1,8 @@
 - **Navigation**
-- [Home Page](../introduction)
+- [Page d'accueil](../introduction)
 - [Modding de la vWii](../vwii-modding)
-- [Browser Exploit](browser-exploit)
-- **Links**
+- [Exploit du navigateur](browser-exploit)
+- **Liens**
 - [![GitHub](https://icongr.am/simple/github.svg?color=808080&size=16)GitHub](https://github.com/hacks-guide/Guide-WiiU)
 - [![Discord](https://icongr.am/simple/discord.svg?colored&size=16)Discord](https://discord.gg/C29hYvh)
-- [About](../about)
+- [À propos](../about)
