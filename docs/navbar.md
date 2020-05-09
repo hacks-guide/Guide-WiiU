@@ -30,7 +30,6 @@
   - [Português, Brasileiro](/pt_BR/)
   - [Română](/ro_RO/)
   - [Русский](/ru_RU/)
-  - [Српски](/sr_SP/)
   - [Svenska](/sv_SE/)
   - [ไทย](/th_TH/)
   - [Türk](/tr_TR/)
