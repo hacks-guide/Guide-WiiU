@@ -1,35 +1,35 @@
-# Choose The CFW You Want
+# Choisissez le CFW que vous voulez
 ---
-?> Before starting, make sure to update your Wii U console to the latest firmware (5.5.4 for European consoles, 5.5.3 for all other regions) if you haven't already.
+?> Avant de commencer, assurez-vous de mettre à jour votre console Wii U au dernier firmware (5.5.4 pour les consoles européennes, 5.5.3 pour toutes les autres régions) si vous ne l'avez pas déjà fait.
 
-There are two main CFWs: Haxchi/ColdBootHaxchi (CBHC) or Mocha.  
-Haxchi/CBHC are both injected into a paid DS VC game, while Mocha is only used with the web browser exploit and Indexiine, which makes it the only free CFW.
+Il y a deux principaux CFW : Haxchi/ColdBootHaxchi (CBHC) ou Mocha.   
+Haxchi/CBHC sont tous deux injectés dans un jeu DS VC payant, alors que Mocha n'est utilisé qu'avec l'exploit du navigateur web et Indexiine, ce qui en fait le seul CFW gratuit.
 
 ## Haxchi
 
-- Requires a legitimately installed paid DS VC game from the eShop.
-- Can be used to launch CFW directly from the Wii U Menu.
-- Needs to be re-launched from the Wii U Menu every reboot to enable CFW.
-- Its functionality can be extended by installing ColdBootHaxchi (CBHC) to a Haxchi installation.
+- Nécessite un jeu DS VC acheté et installé depuis l'eShop.
+- Peut être utilisé pour lancer le CFW directement à partir du Menu Wii U.
+- Doit être relancé à partir du Menu Wii U à chaque redémarrage pour activer le CFW.
+- Ses fonctionnalités peuvent être étendues en installant ColdBootHaxchi (CBHC) sur une installation existante de Haxchi.
 
-### [**Continue with Haxchi**](haxchi/ds-vc-choice) {docsify-ignore}
+### [**Continuer avec Haxchi**](haxchi/ds-vc-choice) {docsify-ignore}
 
 ## CBHC
 
-!> Installing CBHC incorrectly can brick your Wii U. Make sure to follow the following rules when installing CBHC: <br>- The DS game has to be legitimately installed from the eShop <br>- Don't format the system while CBHC is installed <br>- Don't delete the user account that bought the DS VC game <br>- Don't re-install the same game using WUP Installer or from the eShop <br>- Don't install Haxchi over CBHC <br>- Don't uninstall the DS Virtual Console game without [properly uninstalling CBHC first](uninstall-cbhc) <br>- Don't move the DS Virtual Console game to a USB drive
+!> Installer CBHC incorrectement peut briquer votre Wii U. Assurez-vous de respecter les règles suivantes lors de l'installation de CBHC : <br>- Le jeu DS doit être acheté et installé depuis l'eShop <br>- Ne formatez pas la console lorsque CBHC est installé <br>- Ne supprimez pas le compte utilisateur qui a acheté le jeu DS VC <br>- Ne réinstallez pas le même jeu en utilisant WUP Installer ou depuis l'eShop <br>- N'installez pas Haxchi par dessus CBHC <br>- Ne désinstallez pas le jeu Console Virtuelle DS sans [désinstaller CBHC en premier](uninstall-cbhc) <br>- Ne déplacez pas le jeu Console Virtuelle DS sur un lecteur USB
 
-!> Breaking one of the above rules will result in a brick.
+!> Enfreindre l'une des règles ci-dessus engendrera un brick de la console.
 
-- Requires a legitimately installed paid DS VC game from the eShop.
-- Automatically launches CFW on every boot.
+- Nécessite un jeu DS VC acheté et installé depuis l'eShop.
+- Lance automatiquement le CFW à chaque démarrage de la console.
 
-### [**Continue with CBHC**](cbhc/ds-vc-choice) {docsify-ignore}
+### [**Continuer avec CBHC**](cbhc/ds-vc-choice) {docsify-ignore}
 
 ## Mocha
 
-- Does not require any game, and is therefore free.
-- Needs to be re-launched through the browser exploit every reboot to enable CFW.
-- Is not compatible with the Homebrew Launcher Channel.
-- May require an Internet connection depending on what entry point you choose.
+- Ne nécessite aucun jeu, et est donc gratuit.
+- Doit être relancé à partir de l'exploit du navigateur Internet à chaque redémarrage pour activer le CFW.
+- N'est pas compatible avec l'Homebrew Launcher Channel.
+- Peut nécessiter une connexion Internet en fonction du point d'entrée que vous choisissez.
 
-### [**Continue with Mocha**](mocha/entrypoint-choice) {docsify-ignore}
+### [**Continuer avec Mocha**](mocha/entrypoint-choice) {docsify-ignore}
