@@ -49,3 +49,5 @@ This guide was written by staff members of the [Nintendo Homebrew Discord Server
 >
 > - **GaryOderNichts** for [Indexiine-Installer](https://github.com/GaryOderNichts/indexiine-installer)
 >
+> - **GabyPCgeeK** and **Ryuzaki-MrL** for [SaveMii mod](https://github.com/GabyPCgeeK/savemii)
+>

@@ -19,7 +19,7 @@ We will now place the required CFW files and some additional homebrew files on t
 - The latest release of the [Homebrew App Store](https://github.com/vgmoose/hbas/releases/latest)
   - You will need to download the `wiiu-extracttosd.zip` file.
 - The latest release of [Mocha](https://www.wiiubru.com/appstore/zips/mocha.zip)
-- The latest release of [SaveMii mod](https://github.com/GabyPCgeeK/savemii/releases)
+- The latest release of <a href="docs/files/savemii_mod.zip" download>SaveMii mod</a>
 - The latest release of [Indexiine-Installer](https://github.com/GaryOderNichts/indexiine-installer/releases/latest)
 
 ### Instructions
@@ -34,6 +34,6 @@ We will now place the required CFW files and some additional homebrew files on t
 1. Extract the `homebrew_launcher.v.1.4.zip` file to the root of your SD Card.
 1. Extract the `mocha.zip` file to the root of your SD Card.
 1. Extract the `indexiine-installer.zip` file to the root of your SD Card.
-1. Copy the `savemii_mod` folder from the `savemii_mod5.zip` file to the `/wiiu/apps` folder on your SD Card.
+1. Extract the `savemii_mod.zip` file to the root of your SD Card.
 1. Copy the `config.ini` file to the `/wiiu/apps/mocha` folder on your SD Card.
 1. Copy the `payload.elf` from the `payload.zip` to the `wiiu` folder on your SD Card.
