@@ -6,7 +6,7 @@ We will now place the required Homebrew files on the SD Card.
 
 ?> **Notice** Your SD Card will need to be formatted as FAT32. If your SD Card is not formatted to FAT32, use [GUIFormat](http://www.ridgecrop.demon.co.uk/index.htm?guiformat.htm) with 32k (32768) Allocation unit size to format it.
 
-### What You Need
+### Dette trenger du
 
 - The latest release of [Wuphax](http://wiiubru.com/appstore/zips/wuphax.zip)
 - The latest release of [HackMii Installer](https://bootmii.org/download/)
