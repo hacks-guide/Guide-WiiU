@@ -15,7 +15,7 @@ We will now place the required Homebrew files on the SD Card.
 - The [Homebrew Launcher](https://github.com/dimok789/homebrew_launcher/releases/download/1.4/homebrew_launcher.v1.4.zip)
 - The latest release of the [Homebrew Launcher Installer](https://github.com/wiiu-env/homebrew_launcher_installer/releases/download/v1.4/payload.zip)
 
-### Instructions
+### Instruksjoner
 
 1. Insert your Wii U's SD card into your PC.
 1. Extract the `wuphax.zip` file to the root of your SD Card.
