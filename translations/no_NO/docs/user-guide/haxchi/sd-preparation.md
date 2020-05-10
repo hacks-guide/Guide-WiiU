@@ -23,7 +23,7 @@ We will now place the required CFW files and some additional homebrew files on t
   - Download only the Haxchi `.zip` file.
 - The latest release of <a href="docs/files/savemii_mod.zip" download>SaveMii mod</a>
 
-### Instructions
+### Instruksjoner
 
 ?> **Notice** The info.json and manifest.install files are not needed for the modding process and therefore can be deleted.
 
