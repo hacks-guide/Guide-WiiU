@@ -15,7 +15,7 @@ We will now place the required CFW files and some additional homebrew files on t
   - You will need to download the v1.4 `homebrew_launcher.v1.4.zip` release of The Homebrew Launcher
 - The latest release of [WUP Installer GX2](http://wiiubru.com/appstore/zips/wup_installer_gx2.zip)
 - The latest release of [The Homebrew Launcher Channel](https://github.com/dimok789/homebrew_launcher/releases/latest)
-  - You will need to download the `channel.zip` file.
+  - You will need to download the `homebrew_launcher_channel.v2.1.zip` file.
 - The latest release of [Wii U NAND Dumper](https://github.com/koolkdev/wiiu-nanddumper/releases/latest)
 - The latest release of the [Homebrew App Store](https://github.com/vgmoose/hbas/releases/latest)
   - You will need to download the `wiiu-extracttosd.zip` file.
