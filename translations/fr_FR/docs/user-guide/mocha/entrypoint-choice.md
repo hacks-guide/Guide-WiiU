@@ -1,14 +1,14 @@
-# Mocha - Choose An Entrypoint
+# Mocha - Choisissez un point d'entrée
 
-## Online Exploit
+## Exploit en ligne
 
-- Requires an Internet connection every time you want to launch the Homebrew Launcher.
+- Nécessite une connexion Internet chaque fois que vous voulez lancer l'Homebrew Launcher.
 
-### [**Continue with the Online Exploit**](online-exploit/sd-preparation) {docsify-ignore}
+### [**Continuer avec l'exploit en ligne**](online-exploit/sd-preparation) {docsify-ignore}
 
 ## Indexiine
 
-- Requires an Internet connection for the setup process but can be used offline once it's been setup.
-- Requires you to modify a system file.
+- Nécessite une connexion Internet pour le processus d'installation, mais peut être utilisé hors ligne une fois installé.
+- Nécessite que vous modifiiez un fichier système.
 
-### [**Continue with Indexiine**](indexiine/sd-preparation) {docsify-ignore}
+### [**Continuer avec Indexiine**](indexiine/sd-preparation) {docsify-ignore}
