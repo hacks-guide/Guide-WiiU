@@ -1,14 +1,14 @@
 - **Mocha - Indexiine**
-- [Home Page](../../introduction)
+- [Hjemmesiden](../../introduction)
 - [Choose a CFW](../../cfw-choice)
 - [Choose an Entrypoint](../entrypoint-choice)
-- [SD Preparation](sd-preparation)
-- [Browser Exploit](browser-exploit)
-- [Making a NAND Backup](nand-backup)
+- [Forberede SD-kortet](sd-preparation)
+- [Nettleser Exploit](browser-exploit)
+- [Lage en sikkerhetskopi av NAND](nand-backup)
 - [Internet Browser Modding](browser-modding)
-- [Launching CFW](launching-cfw)
-- **Links**
+- [Bruke CFW](launching-cfw)
+- **Lenker**
 - [![GitHub](https://icongr.am/simple/github.svg?color=808080&size=16)GitHub](https://github.com/hacks-guide/Guide-WiiU)
 - [![Discord](https://icongr.am/simple/discord.svg?colored&size=16)Discord](https://discord.gg/C29hYvh)
-- [![Translate the guide](https://icongr.am/material/translate.svg?color=808080&size=16)Translate the guide](https://hacks-guide.crowdin.com/u/projects/10)
+- [![Oversett guiden](https://icongr.am/material/translate.svg?color=808080&size=16)Oversett guiden](https://hacks-guide.crowdin.com/u/projects/10)
 - [About](../../about)
