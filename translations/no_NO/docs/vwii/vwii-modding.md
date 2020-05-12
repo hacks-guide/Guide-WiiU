@@ -17,7 +17,7 @@ We will now place the required Homebrew files on the SD Card.
 
 ### Instruksjoner
 
-1. Insert your Wii U's SD card into your PC.
+1. Insert your Wii U's SD Card into your PC.
 1. Extract the `wuphax.zip` file to the root of your SD Card.
 1. Extract the `boot.elf` file from the <code>hackmii_<wbr>installer_<wbr>v1.2<wbr>.zip</code> file to the root of your SD Card.
 1. Extract the `apps` folder from the <code>Patched_<wbr>IOS80_<wbr>Installer_<wbr>for_<wbr>vWii<wbr>.zip</code> file to the root of your SD Card.
