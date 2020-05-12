@@ -1,6 +1,6 @@
 - **Navigation**
 - [Hjemmesiden](../introduction)
-- [vWii Modding](../vwii-modding)
+- [vWii Modifisering](../vwii-modding)
 - [Nettleser Exploit](browser-exploit)
 - **Lenker**
 - [![GitHub](https://icongr.am/simple/github.svg?color=808080&size=16)GitHub](https://github.com/hacks-guide/Guide-WiiU)
