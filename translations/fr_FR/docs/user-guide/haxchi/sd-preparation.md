@@ -27,7 +27,7 @@ Nous allons maintenant placer les fichiers du CFW requis et quelques fichiers ho
 
 ?> **Remarque** Les fichiers info.json et manifest.install ne sont pas nécessaires pour le processus de modding et peuvent donc être supprimés.
 
-1. Insert your Wii U's SD card into your PC.
+1. Insérez la carte SD de votre Wii U dans votre PC.
 1. Créez un dossier appelé `install` à la racine de votre carte SD.
 1. Créez un dossier appelé `Homebrew Launcher Channel` dans le dossier `install` que vous avez créé.
 1. Copiez le contenu du fichier `homebrew_launcher_channel.v2.1.zip` dans le dossier `Homebrew Launcher Channel` que vous avez créé.
