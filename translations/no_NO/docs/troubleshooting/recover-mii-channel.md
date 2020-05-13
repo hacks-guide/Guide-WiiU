@@ -19,7 +19,7 @@ Denne siden vil hjelpe deg med å gjenopprette Mii Channel.
 
 - En fungerende [Homebrew installasjon](introduction) på Wii U siden.
 - Denne utgaven av [FTPiiU Everywhere](http://wiiubru.com/appstore/zips/fpiiu-cbhc.zip).
-- The latest release of [Python](https://www.python.org/downloads/).
+- Siste utgave av [Python](https://www.python.org/downloads/).
 - En FTP-klient som for eksempel [FileZilla](https://filezilla-project.org/download.php?show_all=1t).
 - <a href="https://github.com/ihaveamac/overwrite-wiiu-titlehash/raw/master/overwrite-wiiu-titlehash.py" download>overwrite-wiiu-titlehash.py</a> **(Høyreklikk -> Lagre lenke som... -> Klikk Lagre).**
 
@@ -38,7 +38,7 @@ Denne siden vil hjelpe deg med å gjenopprette Mii Channel.
 
 1. Pakk ut `fpiiu-cbhc.zip` til roten av SD-kortet.
 1. Installer FileZilla på PC'en din.
-1. Install Python on your computer.
+1. Installer Python på PC'en din.
 
 <!-- tabs:end -->
 
@@ -72,8 +72,8 @@ Denne siden vil hjelpe deg med å gjenopprette Mii Channel.
 1. Skriv inn IP-adressen som vist på Wii U skjermen, i feltet `Host` øverst i vinduet og klikk på `Quickconnect`.
 1. Naviger til `/slccmpt01/title/00010002`.
 1. Slett mappen som heter `48414341`.
-1. Open up a Terminal window.
-1. Use the following command: `cd <directory>`.
+1. Åpne opp et terminalvindu.
+1. Skriv: `cd <directory>`.
  - På macOS er det vanligste stedet å finne nedlastede filer i `/Brukere/brukernavn/Nedlastninger`.
  - På Linux er det vanligste stedet å finne nedlastede filer i `/home/username/Downloads`.
 1. Skriv: `python3 overwrite-wiiu-titlehash.py`.
