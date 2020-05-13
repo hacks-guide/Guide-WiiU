@@ -1,37 +1,37 @@
 # Mocha - Indexiine
 
-## SD Preparation {docsify-ignore}
+## Forberede SD-kortet {docsify-ignore}
 
-We will now place the required CFW files and some additional homebrew files on the SD Card.
+Her vil vi plassere de nødvendige CFW-filene og noen ekstra homebrew filer på SD-kortet.
 
-?> **Notice** Your SD Card will need to be formatted as FAT32. If your SD Card is not formatted to FAT32, use [GUIFormat](http://www.ridgecrop.demon.co.uk/index.htm?guiformat.htm) with 32k (32768) Allocation unit size to format it.
+?> **Merk** SD-kortet ditt må formateres til FAT32. Hvis den ikke er formatert til FAT32, bør du bruke [GUIFormat](http://www.ridgecrop.demon.co.uk/index.htm?guiformat.htm) med 32k (32768) "Allocation unit size" for å formatere den.
 
 ### Dette trenger du
 
 - The Mocha <a href="docs/files/config.ini" download>config</a>
-- The latest release of [Homebrew Launcher Installer](https://github.com/wiiu-env/homebrew_launcher_installer/releases/latest)
-  - You will need to download the `payload.zip` file.
-- The 1.4 release of [The Homebrew Launcher](https://github.com/dimok789/homebrew_launcher/releases/tag/1.4)
-  - You will need to download the v1.4 `homebrew_launcher.v1.4.zip` release of The Homebrew Launcher
+- Siste utgave av [Homebrew Launcher Installer](https://github.com/wiiu-env/homebrew_launcher_installer/releases/latest)
+  - Du må laste ned `payload.zip` filen.
+- [Homebrew Launcher](https://github.com/dimok789/homebrew_launcher/releases/tag/1.4) Versjon 1.4
+  - Du må laste ned `homebrew_launcher.v.1.4.zip`
 - Siste utgave av [WUP Installer GX2](http://wiiubru.com/appstore/zips/wup_installer_gx2.zip)
-- The latest release of [Wii U NAND Dumper](https://github.com/koolkdev/wiiu-nanddumper/releases/latest)
-- The latest release of the [Homebrew App Store](https://github.com/vgmoose/hbas/releases/latest)
-  - You will need to download the `wiiu-extracttosd.zip` file.
+- Siste utgave av [Wii U NAND Dumper](https://github.com/koolkdev/wiiu-nanddumper/releases/latest)
+- Siste utgave av [Homebrew App Store](https://github.com/vgmoose/hbas/releases/latest)
+  - Du må laste ned `wiiu-extracttosd.zip` filen.
 - The latest release of [Mocha](https://www.wiiubru.com/appstore/zips/mocha.zip)
-- The latest release of <a href="docs/files/savemii_mod.zip" download>SaveMii mod</a>
+- Siste utgave av <a href="docs/files/savemii_mod.zip" download>SaveMii mod</a>
 - The latest release of [Indexiine-Installer](https://github.com/GaryOderNichts/indexiine-installer/releases/latest)
 
 ### Instruksjoner
 
-?> **Notice** The info.json and manifest.install files are not needed for the modding process and therefore can be deleted.
+?> **Merk** info.json og manifest.Install filene er ikke nødvendig for modifiseringsprosessen og kan slettes.
 
-1. Insert your Wii U's SD Card into your PC.
+1. Sett SD-kortet ditt i PC'en din.
 1. Pakk ut `wup_installer_gx2.zip` til roten av SD-kortet.
-1. Extract the `nanddumper.zip` file to the root of your SD Card.
-1. Extract the `wiiu-extracttosd.zip` file to the root of your SD Card.
-1. Extract the `homebrew_launcher.v.1.4.zip` file to the root of your SD Card.
+1. Pakk ut `nanddumper.zip` til roten av SD-kortet.
+1. Pakk ut `wiiu-extracttosd.zip` til roten av SD-kortet.
+1. Pakk ut `homebrew_launcher.v.1.4.zip` til roten av SD-kortet.
 1. Extract the `mocha.zip` file to the root of your SD Card.
 1. Extract the `indexiine-installer.zip` file to the root of your SD Card.
-1. Extract the `savemii_mod.zip` file to the root of your SD Card.
+1. Pakk ut `savemii_mod.zip` til roten av SD-kortet.
 1. Copy the `config.ini` file to the `/wiiu/apps/mocha` folder on your SD Card.
-1. Copy the `payload.elf` from the `payload.zip` to the `wiiu` folder on your SD Card.
+1. Kopier `payload.elf` fila fra `payload.zip` til `wiiu` mappen på SD-kortet.
