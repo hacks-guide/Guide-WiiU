@@ -1,12 +1,12 @@
-# Unblocking Updates
+# Fjerne blokkering av oppdateringer
 ---
-This is needed if you ever need to perform a System Update.
+Dette må du gjøre hvis du noen gang trenger en systemoppdatering.
 
 ### Instruksjoner
 
 <!-- tabs:start -->
 
-#### **Recreating The Update Folder**
+#### **Gjenopprette "update" mappen**
 
 ?> For å gjøre dette, må Wii U konsollen være på samme nettverk som PC'en din.
 1. Sett SD-kortet inn i PC'en din.
@@ -18,12 +18,12 @@ This is needed if you ever need to perform a System Update.
 1. Noter IP-adressen på Wii U-skjermen.
 1. På PC'en din starter du FTP-klienten din, og start en FTP-tilkobling til Wii U konsollen. I FileZilla skriver du bare IP-adressen fra Wii U'en inn i "Host" vindu under verktøylinja og trykker "Quickconnect": <br><img src="docs/assets/img/FTP.png" alt="FileZilla" />
 1. Naviger til `/storage_mlc/sys`.
-1. Create a folder named `update`.
-1. You are now no longer blocking system updates.
+1. Opprett en mappe med navn `update`.
+1. Du blokkerer ikke lenger systemoppdateringer.
 
-### **Removing The DNS Blocks**
+### **Fjerne DNS-blokkeringen**
 
-1. Enter the Wii U's system settings and navigate to `Internet > Connect to the Internet > Connection List >` `Your WiFi connection > Change Settings > DNS` and set the option to `Auto-obtain`.
-1. You are now no longer blocking system updates.
+1. På Wii U konsollen, gå inn på systeminnstillinger og naviger til `Internet > Connect to the Internet > Connection List >` `Your WiFi connection > Change Settings > DNS` og sett den på `Auto-obtain `.
+1. Du blokkerer ikke lenger systemoppdateringer.
 
 <!-- tabs:end -->
