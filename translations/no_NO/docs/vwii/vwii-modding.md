@@ -4,7 +4,7 @@ This page will guide you through the process of modding your vWii.
 
 We will now place the required Homebrew files on the SD Card.
 
-?> **Notice** Your SD Card will need to be formatted as FAT32. If your SD Card is not formatted to FAT32, use [GUIFormat](http://www.ridgecrop.demon.co.uk/index.htm?guiformat.htm) with 32k (32768) Allocation unit size to format it.
+?> **Notice** Your SD Card will need to be formatted as FAT32. Hvis den ikke er formatert til FAT32, bør du bruke [GUIFormat](http://www.ridgecrop.demon.co.uk/index.htm?guiformat.htm) med 32k (32768) "Allocation unit size" for å formatere den.
 
 ### Dette trenger du
 
@@ -17,7 +17,7 @@ We will now place the required Homebrew files on the SD Card.
 
 ### Instruksjoner
 
-1. Insert your Wii U's SD Card into your PC.
+1. Sett SD-kortet ditt i PC'en din.
 1. Extract the `wuphax.zip` file to the root of your SD Card.
 1. Extract the `boot.elf` file from the <code>hackmii_<wbr>installer_<wbr>v1.2<wbr>.zip</code> file to the root of your SD Card.
 1. Extract the `apps` folder from the <code>Patched_<wbr>IOS80_<wbr>Installer_<wbr>for_<wbr>vWii<wbr>.zip</code> file to the root of your SD Card.
