@@ -1,8 +1,8 @@
-# Recover Your Lost or Corrupted Mii Channel
+# Gjenopprett en tapt eller korrupt Mii Channel
 ---
-This page will guide you through the process of restoring your Mii Channel to a working state.
+Denne siden vil hjelpe deg med å gjenopprette Mii Channel.
 
-!> Do not use this method for anything else than [Recovering a Corrupted IOS](recover-ios) or the following page.
+!> Ikke bruk denne guiden til noe annet enn å [Gjenopprette en korrupt IOS](recover-ios) eller neste side.
 
 ### Dette trenger du
 
@@ -10,18 +10,18 @@ This page will guide you through the process of restoring your Mii Channel to a 
 
 #### **Windows**
 
-- A working [Homebrew installation](introduction) on Wii U side.
-- This release of [FTPiiU Everywhere](http://wiiubru.com/appstore/zips/fpiiu-cbhc.zip).
-- An FTP client such as [FileZilla](https://filezilla-project.org/download.php?show_all=1).
+- En fungerende [Homebrew installasjon](introduction) på Wii U siden.
+- Denne utgaven av [FTPiiU Everywhere](http://wiiubru.com/appstore/zips/fpiiu-cbhc.zip).
+- En FTP-klient som for eksempel [FileZilla](https://filezilla-project.org/download.php?show_all=1).
 - <a href="https://github.com/ihaveamac/overwrite-wiiu-titlehash/releases/download/v1.0/overwrite-wiiu-titlehash.exe" download>overwrite-wiiu-titlehash.exe</a>
 
 #### **macOS & Linux**
 
-- A working [Homebrew installation](introduction) on Wii U side.
-- This release of [FTPiiU Everywhere](http://wiiubru.com/appstore/zips/fpiiu-cbhc.zip).
+- En fungerende [Homebrew installasjon](introduction) på Wii U siden.
+- Denne utgaven av [FTPiiU Everywhere](http://wiiubru.com/appstore/zips/fpiiu-cbhc.zip).
 - The latest release of [Python](https://www.python.org/downloads/).
-- An FTP client such as [FileZilla](https://filezilla-project.org/download.php?show_all=1t).
-- <a href="https://github.com/ihaveamac/overwrite-wiiu-titlehash/raw/master/overwrite-wiiu-titlehash.py" download>overwrite-wiiu-titlehash.py</a> **(right-click -> Save link as... -> Click Save).**
+- En FTP-klient som for eksempel [FileZilla](https://filezilla-project.org/download.php?show_all=1t).
+- <a href="https://github.com/ihaveamac/overwrite-wiiu-titlehash/raw/master/overwrite-wiiu-titlehash.py" download>overwrite-wiiu-titlehash.py</a> **(Høyreklikk -> Lagre lenke som... -> Klikk Lagre).**
 
 <!-- tabs:end -->
 
@@ -31,61 +31,61 @@ This page will guide you through the process of restoring your Mii Channel to a 
 
 #### **Windows**
 
-1. Extract the `fpiiu-cbhc.zip` file to the root of your SD Card.
-1. Install FileZilla on your computer.
+1. Pakk ut `fpiiu-cbhc.zip` til roten av SD-kortet.
+1. Installer FileZilla på PC'en din.
 
 #### **macOS & Linux**
 
-1. Extract the `fpiiu-cbhc.zip` file to the root of your SD Card.
-1. Install FileZilla on your computer.
+1. Pakk ut `fpiiu-cbhc.zip` til roten av SD-kortet.
+1. Installer FileZilla på PC'en din.
 1. Install Python on your computer.
 
 <!-- tabs:end -->
 
-### Recovering The Channel
+### Gjenoppretting av kanalen
 
-!> If you are using a system update blocking method, please [remove it](unblock-updates).
+!> Hvis du bruker en blokkeringsmetode for systemoppdateringer, må du [tilbakestille den ](unblock-updates).
 
 <!-- tabs:start -->
 
 #### **Windows**
 
-1. Power on your Wii U and launch the CFW of your choice (Mocha, Haxchi or CBHC).
-1. Launch the Homebrew Launcher and FTPiiU Everywhere.
-1. Launch FileZilla on your computer.
-1. In FileZilla, type in the IP address displayed by your Wii U in the `Host` field at the top of the window and click on `Quickconnect`.
-1. Navigate to `/slccmpt01/title/00010002`.
-1. Delete the `48414341` folder.
-1. Launch the previously downloaded `overwrite-wiiu-titlehash.exe` file.
-1. Type in your Wii U's IP address and press Enter.
-1. Wait for it to finish what it's doing.
- - If an `err.log` file has been generated, please visit us in **#wiiu-assistance** on [Nintendo Homebrew Discord](https://discord.gg/C29hYvh) and ask, in English, for assistance.
-1. Exit FTPiiU Everywhere and the Homebrew Launcher.
-1. Launch the System Settings.
-1. Perform a [System Update](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1136/~/how-to-perform-a-system-update).
+1. Slå på Wii U konsollen og start CFW (Mocha, Haxchi eller CBHC).
+1. Start Homebrew Launcher og kjør FTPiiU Everywhere.
+1. Start FileZilla på PC'en din.
+1. Skriv inn IP-adressen som vist på Wii U skjermen, i feltet `Host` øverst i vinduet og klikk på `Quickconnect`.
+1. Naviger til `/slccmpt01/title/00010002`.
+1. Slett mappen som heter `48414341`.
+1. Start `overwrite-wiiu-titlehash.exe` filen som vi lasted ned tidligere.
+1. Skriv inn Wii U konsollens IP-adresse og trykk Enter.
+1. Vent til den er ferdig.
+ - Hvis en `err.log` fil blir generert, vennligst gå til oss i **#wiiu-assistance** på [Nintendo Homebrew Discord](https://discord.gg/C29hYvh) kanalen og spør om hjelp på engelsk.
+1. Gå ut av FTPiiU Everywhere og Homebrew Launcher.
+1. Start System Innstillinger.
+1. Utfør en [Systemoppdatering](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1136/~/how-to-perform-a-system-update).
 
 #### **macOS & Linux**
 
-1. Power on your Wii U and launch the CFW of your choice (Mocha, Haxchi or CBHC).
-1. Launch the Homebrew Launcher and FTPiiU Everywhere.
-1. Launch FileZilla on your computer.
-1. In FileZilla, type in the IP address displayed by your Wii U in the `Host` field at the top of the window and click on `Quickconnect`.
-1. Navigate to `/slccmpt01/title/00010002`.
-1. Delete the `48414341` folder.
+1. Slå på Wii U konsollen og start CFW (Mocha, Haxchi eller CBHC).
+1. Start Homebrew Launcher og kjør FTPiiU Everywhere.
+1. Start FileZilla på PC'en din.
+1. Skriv inn IP-adressen som vist på Wii U skjermen, i feltet `Host` øverst i vinduet og klikk på `Quickconnect`.
+1. Naviger til `/slccmpt01/title/00010002`.
+1. Slett mappen som heter `48414341`.
 1. Open up a Terminal window.
 1. Use the following command: `cd <directory>`.
- - On macOS, the most common place to find your downloaded files is `/Users/username/Downloads`.
- - On Linux, the most common place to find your downloaded files is `/home/username/Downloads`.
-1. Use the following command: `python3 overwrite-wiiu-titlehash.py`.
-1. Type in your Wii U's IP address and press Enter.
-1. Wait for it to finish what it's doing.
- - If an `err.log` file has been generated, please visit us in **#wiiu-assistance** on [Nintendo Homebrew Discord](https://discord.gg/C29hYvh) and ask, in English, for assistance.
-1. Exit FTPiiU Everywhere and the Homebrew Launcher.
-1. Launch the System Settings.
-1. Perform a [System Update](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1136/~/how-to-perform-a-system-update).
+ - På macOS er det vanligste stedet å finne nedlastede filer i `/Brukere/brukernavn/Nedlastninger`.
+ - På Linux er det vanligste stedet å finne nedlastede filer i `/home/username/Downloads`.
+1. Skriv: `python3 overwrite-wiiu-titlehash.py`.
+1. Skriv inn Wii U konsollens IP-adresse og trykk Enter.
+1. Vent til den er ferdig.
+ - Hvis en `err.log` fil blir generert, vennligst gå til oss i **#wiiu-assistance** på [Nintendo Homebrew Discord](https://discord.gg/C29hYvh) kanalen og spør om hjelp på engelsk.
+1. Gå ut av FTPiiU Everywhere og Homebrew Launcher.
+1. Start System Innstillinger.
+1. Utfør en [Systemoppdatering](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1136/~/how-to-perform-a-system-update).
 
 <!-- tabs:end -->
 
-You should now have a working Mii Channel.
+Du skal nå ha en fungerende Mii Channel.
 
-?> You can now re-enable your [system update blocking method](block-updates).
+?> Du kan nå reaktivere din [blokkeringsmetode mot systemoppdateringer](block-updates).

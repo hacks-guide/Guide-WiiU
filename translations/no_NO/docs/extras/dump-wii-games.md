@@ -1,47 +1,47 @@
-# Dumping Original Wii Discs
+# Dumpe Wii Spill Fra Disk
 ---
-Dumping your Discs allows you to: play them on a Wii emulator (namely Dolphin), play them using a USB/SD Card loader such as Wiiflow, make Virtual Console injects that can be installed on a Wii U formatted USB drive or the NAND and launched from the Wii U Menu.
+Dumping av Wii diskene dine lar deg spille dem på en Wii-emulator (Dolphin), spille dem fra en USB/SD loader som for eksempel Wiiflow, lage Virtual Console Injects som kan installeres på en Wii U formatert USB-lagringsenhet eller NAND, eller kjøres fra Wii U-menyen.
 
-?> Dumping Wii games require a working Homebrew setup on vWii, so make sure to finish the [vWii Modding guide](vwii-modding) beforehand.
+?> Dumping av Wii spill krever et fungerende Homebrew oppsett på vWii, så fullfør [vWii Modifiserings guiden](vwii-modding) på forhånd.
 
 ### Dette trenger du
 
-1. The latest release of [CleanRip](https://github.com/emukidid/cleanrip/releases/download/2.1.1/CleanRip-v2.1.1.zip)
-1. The [wii.dat](https://github.com/emukidid/cleanrip/releases/download/2.1.1/wii.dat) file
+1. Siste utgave av [CleanRip](https://github.com/emukidid/cleanrip/releases/download/2.1.1/CleanRip-v2.1.1.zip)
+1. Filen [wii.dat](https://github.com/emukidid/cleanrip/releases/download/2.1.1/wii.dat)
 
 ### Instruksjoner
 
-1. Insert your Wii U's SD Card into your computer
-1. Copy the `apps` folder from the `CleanRip-v2.1.1.zip` file to the root of your SD Card
-1. Copy the `wii.dat` file to the root of your SD Card
-1. Take the SD Card out of your computer and plug it into your Wii U console.
+1. Sett SD-kortet ditt i PC'en din
+1. Kopier `apps` mappen fra `CleanRip-v2.1.1.zip` til roten av SD-kortet
+1. Kopier `wii.dat` til roten av SD-kortet
+1. Ta SD-kortet ut av PC'en og sett den inn i Wii U konsollen.
 
-### Dumping The Disc
+### Dumpe Wii Disken
 
-1. Turn on your Wii U then choose the Wii Menu icon to boot up in vWii
-1. Launch the Homebrew Channel
-1. Launch CleanRip
-1. Read the Disclaimer then press A
-1. Select Yes to enable Checksum Calculations
-1. Select either USB or SD Card depending on which device you want to use for the dumping process
- - Please note that the device you will choose needs to be formatted either in FAT32 or NTFS
-1. Press A to continue
-1. Select No on the screen that asks you to download redump.org DAT files
-1. Insert your disc then press A
-1. Go [on this page](https://wiki.dolphin-emu.org/index.php?title=Category:Dual_Layer_Disc_games) to see if your disc is dual-layered
-1. Set everything to match the following:
- - Dual Layer `Yes/No` (Select `Yes` if your game's disc is dual-layered)
+1. Slå på Wii U konsollen og velg Wii menu ikonet for å starte opp vWii
+1. Start Homebrew Channel
+1. Kjør CleanRip
+1. Les ansvarsfraskrivelsen og trykk A
+1. Velg "Yes" for å aktivere Checksum kalkulasjoner
+1. Velg enten USB eller SD-kort avhengig av hvilken enhet du vil bruke for dumpeprosessen
+ - Merk at enheten du velger må være formatert som FAT32 eller NTFS
+1. Trykk A for å fortsette
+1. Velg "No" i vinduet som ber deg laste ned redump.org DAT-filer
+1. Sett inn Wii disken din og trykk A
+1. Gå [til denne siden](https://wiki.dolphin-emu.org/index.php?title=Category:Dual_Layer_Disc_games) for å se om Wii disken din er dual-layered
+1. Velg følgende instillinger:
+ - Dual Layer `Yes/No` (Velg `Yes` hvis Wii disken din er dual-layered)
  - Chunk Size `Max`
  - New device per chunk `No`
-1. If you want to dump multiple discs, select Yes to remember your settings. If not, select No.
+1. Dersom du ønsker å dumpe flere Wii disker, velg "Yes" for å huske innstillingene dine. Hvis ikke, velg "No".
 
-?> Be prepared to wait a while. The dumping process can take 30 minutes to 1 hour depending on your SD Card's speeds.
+?> Vær forberedt på å vente en stund. Dumpeprosessen kan ta rundt 30 til 60 minutter avhengig av hastigheten på SD-kortet ditt.
 
-### Joining Split Files
+### Slå sammen Split Filer
 
-?> If you dumped the disc on a FAT32 formatted, device, you should've got at least 2 files that end with `.partX.iso`. They need to be joined up.
+?> Hvis du dumpet Wii disken på en FAT32-formatert enhet, så burde du ha fått minst 2 filer som ender med `.partX.iso`. De må slåes sammen.
 
-1. Copy all the files that share the same name and end with `.partX.iso` in a folder on your computer
-1. Open up a Command Prompt window
-1. Use the `cd <path>` command and replace `<path>` by the path to your `.partX.iso` files
-1. Use the following command as is: `copy /b *.part?.iso game.iso`
+1. Kopier alle filene som deler samme navn og slutter med `.partX.iso` i en mappe på PC'en din
+1. Åpne opp et Command Prompt vindu
+1. Skriv `cd <path>` og erstatt `<path>` ved adressen til `.partX.iso` filene
+1. Skriv `copy /b *.part?.iso game.iso`
