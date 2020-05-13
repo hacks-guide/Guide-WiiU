@@ -6,7 +6,7 @@ I motsetning til systemer som DSi, Wii eller 3DS, er Wii U CFW midlertidig. Dett
 
 ### Instruksjoner
 
-1. Launch the Homebrew Launcher by launching the Internet Browser.
-1. Navigate the Homebrew Launcher and open the Mocha CFW app.
-1. It will take you back to the Homebrew Launcher and enable CFW.
-1. You will need to re-do these steps every reboot to launch CFW.
+1. Start Homebrew Launcher ved å åpne nettleseren.
+1. Kjør Mocha appen.
+1. Dette tar deg tilbake til Homebrew Launcher med CFW aktivert.
+1. Når du starter konsollen på nytt, må du gå gjennom trinnene på nytt for å starte CFW igjen.
