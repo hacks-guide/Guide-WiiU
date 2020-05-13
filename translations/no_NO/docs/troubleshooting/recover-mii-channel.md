@@ -21,7 +21,7 @@ This page will guide you through the process of restoring your Mii Channel to a 
 - This release of [FTPiiU Everywhere](http://wiiubru.com/appstore/zips/fpiiu-cbhc.zip).
 - The latest release of [Python](https://www.python.org/downloads/).
 - An FTP client such as [FileZilla](https://filezilla-project.org/download.php?show_all=1t).
-- <a href="https://github.com/ihaveamac/overwrite-wiiu-titlehash/raw/master/overwrite-wiiu-titlehash.py" download>overwrite-wiiu-titlehash.py</a> **(right-click -> Save link as... -> Click Save).**
+- <a href="https://github.com/ihaveamac/overwrite-wiiu-titlehash/raw/master/overwrite-wiiu-titlehash.py" download>overwrite-wiiu-titlehash.py</a> **(Høyreklikk -> Lagre lenke som... -> Klikk Lagre).**
 
 <!-- tabs:end -->
 
@@ -59,7 +59,7 @@ This page will guide you through the process of restoring your Mii Channel to a 
 1. Launch the previously downloaded `overwrite-wiiu-titlehash.exe` file.
 1. Type in your Wii U's IP address and press Enter.
 1. Wait for it to finish what it's doing.
- - If an `err.log` file has been generated, please visit us in **#wiiu-assistance** on [Nintendo Homebrew Discord](https://discord.gg/C29hYvh) and ask, in English, for assistance.
+ - Hvis en `err.log` fil blir generert, vennligst gå til oss i **#wiiu-assistance** på [Nintendo Homebrew Discord](https://discord.gg/C29hYvh) kanalen og spør om hjelp på engelsk.
 1. Exit FTPiiU Everywhere and the Homebrew Launcher.
 1. Launch the System Settings.
 1. Perform a [System Update](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1136/~/how-to-perform-a-system-update).
@@ -79,7 +79,7 @@ This page will guide you through the process of restoring your Mii Channel to a 
 1. Use the following command: `python3 overwrite-wiiu-titlehash.py`.
 1. Type in your Wii U's IP address and press Enter.
 1. Wait for it to finish what it's doing.
- - If an `err.log` file has been generated, please visit us in **#wiiu-assistance** on [Nintendo Homebrew Discord](https://discord.gg/C29hYvh) and ask, in English, for assistance.
+ - Hvis en `err.log` fil blir generert, vennligst gå til oss i **#wiiu-assistance** på [Nintendo Homebrew Discord](https://discord.gg/C29hYvh) kanalen og spør om hjelp på engelsk.
 1. Exit FTPiiU Everywhere and the Homebrew Launcher.
 1. Launch the System Settings.
 1. Perform a [System Update](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1136/~/how-to-perform-a-system-update).
@@ -88,4 +88,4 @@ This page will guide you through the process of restoring your Mii Channel to a 
 
 You should now have a working Mii Channel.
 
-?> You can now re-enable your [system update blocking method](block-updates).
+?> Du kan nå reaktivere din [blokkeringsmetode mot systemoppdateringer](block-updates).
