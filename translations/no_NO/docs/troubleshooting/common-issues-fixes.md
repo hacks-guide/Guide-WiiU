@@ -30,9 +30,9 @@ You can fix this by either using a powered HDD or using a Y-Cable to connect the
 
 If your HDD worked for some time and then stopped working for some games/all games, it is the same issue and can be fixed with the same methods.
 
-### When extracting some of the files there are duplicates of certain ones called "info.json" & "manifest.install", what do I do with those?
+### Når jeg pakker ut noen av filene er det duplikater av noen som heter "info.json" & "manifest.install", hva gjør jeg med dem?
 
-Nothing special, you can leave them there, delete them or replace them with new ones. Those files are not used in the process, therefore, won't have any impact by being or not being there.
+Du kan la dem ligge, slette dem eller kopiere over dem med de nye filene. Disse filene brukes ikke i prosessen, derfor er det ingen forskjell på om de er der eller ikke.
 
 ### My console suddenly lost online connectivity and I have an HDD sitting on top of the console, what should I do?
 
