@@ -1,18 +1,18 @@
 # Haxchi
 
-## Installing the Homebrew Launcher Channel {docsify-ignore}
+## Installere Homebrew Launcher Channel {docsify-ignore}
 
-This page will install the Homebrew Launcher Channel as an application directly to your Home Menu for easy access.
+Denne siden vil hjelpe deg med å installere Homebrew Launcher Channel som et program direkte på Wii U menyen for enkel tilgang.
 
 ### Instruksjoner
 
-?> Installing the Homebrew Launcher Channel is optional as you can already launch it by holding the A button while launching Haxchi.
+?> Å installere Homebrew Launcher Channel er valgfritt siden du kan åpne den ved å holde inne A knappen mens du starter Haxchi.
 
-1. Power on your console
-1. Launch the Haxchi DS game from the Wii U Menu. This will re-launch the Wii U Menu with CFW activated.
-1. Launch the Haxchi DS game again while holding the A button. This will launch the Homebrew Launcher.
-1. Navigate the Homebrew Launcher and launch the WUP Installer GX2 app.
-1. Use the touchscreen to select `Homebrew Launcher Channel`. Press `Install` and confirm with `Yes`.
-1. Velg NAND som installasjonsdestinasjon. This will install the Homebrew Launcher Channel to the Wii U Menu.
-1. Once the process is finished, press the Home button until you're back at the Wii U Menu.
-1. You will now see the Homebrew Launcher Channel installed on your Wii U Menu. Keep in mind you will need to launch cfw every reboot to run this channel.
+1. Slå på Wii U konsollen
+1. Start Haxchi Wii U menyen. Dette vil åpne Wii U menyen med CFW aktivert.
+1. Start Haxchi igjen mens du holder inne A knappen. Dette vil sende deg til Homebrew Launcher.
+1. Start WUP Installer GX2 appen.
+1. Bruk touch-skjermen for å velge `Homebrew Launcher Channel`. Trykk `Install` og bekreft med `Yes`.
+1. Velg NAND som installasjonsdestinasjon. Dette vil starte installasjonen av Homebrew Launcher-kanalen til Wii U menyen.
+1. Når prosessen er ferdig, trykk på Home-knappen til du er tilbake på Wii U menyen.
+1. Du har nå installert Homebrew Launcher Channel og kan finne den på Wii U Menyen. Husk at du må starte CFW etter hver omstart for å kunne åpne denne kanalen.
