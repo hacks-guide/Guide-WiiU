@@ -54,7 +54,7 @@ In case anything goes wrong in the later process and your vWii ends up bricked, 
 1. Launch Dump Mii NAND.
  - The dumping process can take a while depending on the speed of your SD Card.
 1. When the process completed, the console will reboot.
-1. Power off your Wii U, take your SD Card out of the Wii U and plug it into your PC.
+1. Éteignez votre Wii U, retirez votre carte SD de la Wii U et insérez-la dans votre PC.
 1. Copy `nand.bin` and `keys.bin` somewhere safe (on your computer or a cloud storage service such as Google Drive, OneDrive, etc...).
 1. Delete `nand.bin` and `keys.bin` from your SD Card to free up space.
 
