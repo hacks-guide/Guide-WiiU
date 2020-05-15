@@ -1,18 +1,18 @@
 # CBHC
 
-## Installing the Homebrew Launcher Channel {docsify-ignore}
+## Installation de l'Homebrew Launcher Channel {docsify-ignore}
 
-This page will install the Homebrew Launcher Channel as an application directly to your Home Menu for easy access.
+Cette page installera l'Homebrew Launcher Channel comme application directement dans votre Menu Wii U pour un accès facile.
 
-?> This page is only for Haxchi and CBHC users. The Home-Menu Homebrew Launcher Channel will **not** work with Mocha CFW!
+?> Cette page est réservée aux utilisateurs de Haxchi et de CBHC. L'Homebrew Launcher Channel du Menu Wii U ne fonctionnera **pas** avec Mocha CFW !
 
 ### Instructions
 
-1. Power on your console
-1. Press the Home button during the `Autobooting...` screen to get into the boot menu.
-1. Select `Boot Homebrew Launcher` to launch the Homebrew Launcher.
-1. Navigate the Homebrew Launcher and launch the WUP Installer GX2 app.
-1. Use the touchscreen to select `Homebrew Launcher Channel`. Press `Install` and confirm with `Yes`.
-1. Select NAND as the installation destination. This will install the Homebrew Launcher Channel to the Wii U Menu.
-1. Once the process is finished, press the Home button until you're back at the Wii U Menu.
-1. You will now see the Homebrew Launcher Channel installed on your Wii U Menu.
+1. Allumez votre console
+1. Appuyez sur le bouton HOME pendant que la console affiche `Autobooting...` pour accéder au menu d'amorçage.
+1. Sélectionnez `Boot Homebrew Launcher` pour lancer l'Homebrew Launcher.
+1. Naviguez dans l'Homebrew Launcher et lancez l'application WUP Installer GX2.
+1. Utilisez l'écran tactile pour sélectionner `Homebrew Launcher Channel`. Appuyez sur `Install` et confirmez avec `Yes`.
+1. Sélectionnez la NAND comme destination de l'installation. Ceci installera l'Homebrew Launcher Channel sur le Menu Wii U.
+1. Une fois le processus terminé, appuyez sur le bouton HOME jusqu'à ce que vous reveniez sur le Menu Wii U.
+1. Vous verrez maintenant l'Homebrew Launcher Channel installé sur votre Menu Wii U.
