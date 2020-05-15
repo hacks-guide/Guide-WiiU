@@ -6,7 +6,7 @@ Contrairement aux consoles telles que la DSi, la Wii ou la 3DS, le CFW sur la Wi
 
 ### Instructions
 
-1. Launch the Homebrew Launcher by launching the Internet Browser.
-1. Navigate the Homebrew Launcher and open the Mocha CFW app.
-1. It will take you back to the Homebrew Launcher and enable CFW.
-1. You will need to re-do these steps every reboot to launch CFW.
+1. Lancez l'Homebrew Launcher en lançant le navigateur Internet.
+1. Naviguez dans l'Homebrew Launcher et ouvrez l'application Mocha CFW.
+1. Il vous ramènera dans l'Homebrew Launcher et activera le CFW.
+1. Vous devrez refaire ces étapes à chaque redémarrage pour lancer le CFW.
