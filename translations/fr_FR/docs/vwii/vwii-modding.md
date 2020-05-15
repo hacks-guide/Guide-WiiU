@@ -1,101 +1,101 @@
-# vWii Modding Guide
+# Guide de modding de la vWii
 ---
-This page will guide you through the process of modding your vWii.
+Cette page vous guidera tout au long du processus de modding de votre vWii.
 
-We will now place the required Homebrew files on the SD Card.
+Nous allons maintenant placer les fichiers Homebrew nécessaires sur la carte SD.
 
-?> **Notice** Your SD Card will need to be formatted as FAT32. Si votre carte SD n'est pas formatée en FAT32, utilisez [GUIFormat](http://www.ridgecrop.demon.co.uk/index.htm?guiformat.htm) avec 32k (32768) en taille d'unité d'allocation pour la formater.
+?> **Remarque** Votre carte SD devra être formatée en FAT32. Si votre carte SD n'est pas formatée en FAT32, utilisez [GUIFormat](http://www.ridgecrop.demon.co.uk/index.htm?guiformat.htm) avec 32k (32768) en taille d'unité d'allocation pour la formater.
 
-### What You Need
+### Ce dont vous avez besoin
 
-- The latest release of [Wuphax](http://wiiubru.com/appstore/zips/wuphax.zip)
-- The latest release of [HackMii Installer](https://bootmii.org/download/)
-- The <a href="docs/files/Patched_IOS80_Installer_for_vWii.zip" download>Patched IOS 80 Installer for vWii</a>
-- The <a href ="docs/files/vWii_cIOS_apps_20131218.zip" download>vWii cIOS apps</a>
-- The [Homebrew Launcher](https://github.com/dimok789/homebrew_launcher/releases/download/1.4/homebrew_launcher.v1.4.zip)
-- The latest release of the [Homebrew Launcher Installer](https://github.com/wiiu-env/homebrew_launcher_installer/releases/download/v1.4/payload.zip)
+- La dernière version de [Wuphax](http://wiiubru.com/appstore/zips/wuphax.zip)
+- La dernière version de [HackMii Installer](https://bootmii.org/download/)
+- L'application <a href="docs/files/Patched_IOS80_Installer_for_vWii.zip" download>Patched IOS 80 Installer for vWii</a>
+- Les <a href ="docs/files/vWii_cIOS_apps_20131218.zip" download>vWii cIOS apps</a>
+- L'[Homebrew Launcher](https://github.com/dimok789/homebrew_launcher/releases/download/1.4/homebrew_launcher.v1.4.zip)
+- La dernière version de [Homebrew Launcher Installer](https://github.com/wiiu-env/homebrew_launcher_installer/releases/download/v1.4/payload.zip)
 
 ### Instructions
 
 1. Insérez la carte SD de votre Wii U dans votre PC.
-1. Extract the `wuphax.zip` file to the root of your SD Card.
-1. Extract the `boot.elf` file from the <code>hackmii_<wbr>installer_<wbr>v1.2<wbr>.zip</code> file to the root of your SD Card.
-1. Extract the `apps` folder from the <code>Patched_<wbr>IOS80_<wbr>Installer_<wbr>for_<wbr>vWii<wbr>.zip</code> file to the root of your SD Card.
-1. Extract the <code>vWii_<wbr>cIOS_<wbr>apps_<wbr>20131218<wbr>.zip</code> file to the root of your SD Card.
-1. Extract the <code>homebrew_<wbr>launcher.<wbr>v1.4.zip</code> file to the root of your SD Card.
-1. Extract the `payload.zip` file to the `wiiu` folder on your SD Card.
-1. Take the SD Card out of your computer and plug it into your Wii U console.
+1. Copiez le contenu du fichier `wuphax.zip` vers la racine de votre carte SD.
+1. Copiez le fichier `boot.elf` du fichier <code>hackmii_<wbr>installer_<wbr>v1.2<wbr>.zip</code> vers la racine de votre carte SD.
+1. Copiez le dossier `apps` du fichier <code>Patched_<wbr>IOS80_<wbr>Installer_<wbr>for_<wbr>vWii<wbr>.zip</code> vers la racine de votre carte SD.
+1. Copiez le contenu du fichier <code>vWii_<wbr>cIOS_<wbr>apps_<wbr>20131218<wbr>.zip</code> vers la racine de votre carte SD.
+1. Copiez le contenu du fichier <code>homebrew_<wbr>launcher.<wbr>v1.4.zip</code> vers la racine de votre carte SD.
+1. Copiez le contenu du fichier `payload.zip` dans le dossier `wiiu` de votre carte SD.
+1. Sortez la carte SD de votre ordinateur et insérez-la dans votre console Wii U.
 
 ### Wuphax
 
-1. Launch the [Homebrew Launcher](vwii/browser-exploit)
-1. Launch Wuphax
-1. Press `A` to backup the Mii Channel and inject the Hackmii Installer then wait until it says <code>Successfully <wbr>injected <wbr>wuphax!</code>.
- - You will be taken back to the Wii U Menu after a few seconds.
-1. Launch vWii (the Wii Menu icon).
-1. Launch the vWii Mii Channel.
- - If Wuphax has successfully been injected, you will now see the scam warning screen.
-1. Wait until you see `Press 1 to continue` and then press the `1` button.
-1. Select `continue`, <code>Install <wbr>The <wbr>Homebrew <wbr>Channel</code> and `Yes, continue`.
-1. If The Homebrew Channel has successfully been installed, select `continue` and then `exit`.
-1. Launch the Wii U Menu channel to return to the Wii U Menu.
-1. Launch the [Homebrew Launcher](vwii/browser-exploit).
-1. Launch Wuphax.
-1. Press `B` to restore the Mii Channel then wait until it says <code>Mii <wbr>Channel <wbr>restored!</code>.
- - You will be taken back to the Wii U Menu after a few seconds.
- - If for some reason, you cannot restore your backup, you will need to [reinstall your Mii Channel](recover-mii-channel).
+1. Lancez l'[Homebrew Launcher](vwii/browser-exploit)
+1. Lancez Wuphax
+1. Appuyez sur `A` pour sauvegarder la Chaîne Mii et injecter Hackmii Installer puis attendez qu'il affiche <code>Successfully <wbr>injected <wbr>wuphax!</code>.
+ - Vous serez ramené au Menu Wii U après quelques secondes.
+1. Lancez la vWii (l'icône du Menu Wii).
+1. Lancez la Chaîne Mii de la vWii.
+ - Si Wuphax a été injecté avec succès, vous verrez maintenant un écran d'avertissement.
+1. Attendez jusqu'à ce que voyiez `Press 1 to continue` puis appuyez sur le bouton `1`.
+1. Sélectionnez `continue`, <code>Install <wbr>The <wbr>Homebrew <wbr>Channel</code> et `Yes, continue`.
+1. Si l'Homebrew Channel a été installé avec succès, sélectionnez `continue` puis `exit`.
+1. Lancez la chaîne du Menu Wii U pour retourner au Menu Wii U.
+1. Lancez l'[Homebrew Launcher](vwii/browser-exploit).
+1. Lancez Wuphax.
+1. Appuyez sur `B` pour restaurer la Chaîne Mii, puis attendez que la console affiche <code>Mii <wbr>Channel <wbr>restored!</code>.
+ - Vous serez ramené au Menu Wii U après quelques secondes.
+ - Si pour une raison quelconque, vous ne pouvez pas restaurer votre sauvegarde, vous devrez [réinstaller votre Chaîne Mii](recover-mii-channel).
 
-### NAND Backup
+### Sauvegarde de la NAND
 
-In case anything goes wrong in the later process and your vWii ends up bricked, restoring a previously made NAND backup can fix it.
+Au cas où quelque chose se passe mal dans le processus ultérieur et que votre vWii se retrouve brickée, restaurer une sauvegarde de la NAND précédemment créée peut la faire fonctionner de nouveau.
 
-1. Launch vWii (the Wii Menu icon).
-1. Launch The Homebrew Channel.
-1. Launch Dump Mii NAND.
- - The dumping process can take a while depending on the speed of your SD Card.
-1. When the process completed, the console will reboot.
-1. Power off your Wii U, take your SD Card out of the Wii U and plug it into your PC.
-1. Copy `nand.bin` and `keys.bin` somewhere safe (on your computer or a cloud storage service such as Google Drive, OneDrive, etc...).
-1. Delete `nand.bin` and `keys.bin` from your SD Card to free up space.
+1. Lancez la vWii (l'icône du Menu Wii).
+1. Lancez The Homebrew Channel.
+1. Lancez Dump Mii NAND.
+ - Le processus de dumping peut prendre un certain temps selon la vitesse de votre carte SD.
+1. Une fois le processus terminé, la console redémarrera.
+1. Éteignez votre Wii U, retirez votre carte SD de la Wii U et insérez-la dans votre PC.
+1. Copiez `nand.bin` et `keys.bin` dans un endroit sécurisé (sur votre ordinateur ou un service de stockage dans le cloud tel que Google Drive, OneDrive, etc...).
+1. Supprimez `nand.bin` et `keys.bin` de votre carte SD pour libérer de l'espace.
 
-### Installing cIOSes
+### Installation des cIOS
 
-!> Make sure you have no `.wad` files anywhere else than in the `apps` folder on your SD Card.
+!> Assurez-vous que vous n'avez pas de fichiers `.wad` ailleurs que dans le dossier `apps` de votre carte SD.
 
-?> **Tip** You can hold the `B` button on the GamePad when turning on the Wii U to boot directly into vWii.
+?> **Astuce** Vous pouvez maintenir le bouton `B` sur le GamePad lorsque vous allumez la Wii U pour démarrer directement sur la vWii.
 
-1. Power on your Wii U and launch vWii.
-1. Launch The Homebrew Channel.
-1. Launch d2x cIOS Installer.
-1. Set everything to match the following:
+1. Allumez votre Wii U et lancez la vWii.
+1. Lancez The Homebrew Channel.
+1. Lancez d2x cIOS Installer.
+1. Faites en sorte que ce qui suit soit identique à ce qui est affiché sur votre console:
  - Select cIOS `v10 d2x-v10-beta52-vWii`
  - Select cIOS base `56`
  - Select cIOS slot `249`
-1. Press the `A` button to install.
-1. Set everything to match the following:
+1. Appuyez sur le bouton `A` pour installer.
+1. Faites en sorte que ce qui suit soit identique à ce qui est affiché sur votre console:
  - Select cIOS `v10 d2x-v10-beta52-vWii`
  - Select cIOS base `57`
  - Select cIOS slot `250`
-1. Press the `A` button to install.
-1. Set everything to match the following:
+1. Appuyez sur le bouton `A` pour installer.
+1. Faites en sorte que ce qui suit soit identique à ce qui est affiché sur votre console:
  - Select cIOS `v10 d2x-v10-beta52-vWii`
  - Select cIOS base `58`
  - Select cIOS slot `251`
-1. Press the `A` button to install.
-1. Press the `B` button to exit.
+1. Appuyez sur le bouton `A` pour installer.
+1. Appuyez sur le bouton `B` pour quitter.
 
-### Patching IOS 80
+### Patching de l'IOS 80
 
-!> If for any reason, the Wii U is turned off while patching IOS 80, your vWii will be bricked. This can be fixed by either extracting the IOS 80 from your previously made NAND backup and then replacing it over FTP or by [reinstalling IOS 80](recover-ios).
+> Si pour une raison quelconque, la Wii U est éteinte pendant la patching de l'IOS 80, votre vWii sera brickée. Cela peut être corrigé soit en extrayant l'IOS 80 de votre sauvegarde de la NAND précédemment créée, puis en le remplaçant par FTP, soit en [réinstallant l'IOS 80](recover-ios).
 
-1. Launch Patched IOS 80 Installer for vWii.
-1. Read the warning screen and wait 30 seconds.
-1. Press any buttons to install.
-1. Wait until it says <code>IOS80 <wbr>Installation <wbr>is <wbr>complete!</code>.
-1. Press any buttons to exit.
+1. Lancez Patched IOS 80 Installer for vWii.
+1. Lisez l'écran d'avertissement et attendez 30 secondes.
+1. Appuyez sur n'importe quel bouton pour installer.
+1. Attendez que la console affiche <code>IOS80 <wbr>Installation <wbr>is <wbr>complete!</code>.
+1. Appuyez sur n'importe quel bouton pour quitter.
 
-!> Installing custom System Menu is a definite brick risk and you should always have an effective backup before installing one but when done right, won't brick the vWii.
+!> Installer un Menu Système personnalisé est un risque de brick avéré et vous devriez toujours avoir une sauvegarde effective avant d'en installer un mais lorsque fait correctement correctement, ne brickera pas la vWii.
 
-!> Installing any IOS (including TED IOSes) or wads made for the original Wii on your vWii will brick it.
+!> Installer n'importe quel IOS (y compris les IOS TED) ou les wads faits pour la Wii d'origine sur votre vWii va la briquer.
 
-!> Installing Priiloader will brick your vWii.
+!> Installer Priiloader brickera votre vWii.
