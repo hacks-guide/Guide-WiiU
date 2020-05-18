@@ -14,8 +14,8 @@ Nous allons maintenant placer les fichiers du CFW requis et quelques fichiers ho
 - La version 1.4 de [The Homebrew Launcher](https://github.com/dimok789/homebrew_launcher/releases/tag/1.4)
   - Vous devrez télécharger la version 1.4 `homebrew_launcher.v1.4.zip` de The Homebrew Launcher
 - La dernière version de [WUP Installer GX2](http://wiiubru.com/appstore/zips/wup_installer_gx2.zip)
-- La dernière version de [The Homebrew Launcher Channel](https://github.com/dimok789/homebrew_launcher/releases/latest)
-  - Vous devrez télécharger le fichier `homebrew_launcher_channel.v2.1.zip`.
+- The latest release of [The Homebrew Launcher Channel](https://github.com/GaryOderNichts/homebrew_launcher/releases/tag/v2.1_fix)
+  - You will need to download the `homebrew_launcher_channel.v2.1_fix.zip` file.
 - La dernière version de [Wii U NAND Dumper](https://github.com/koolkdev/wiiu-nanddumper/releases/latest)
 - La dernière version de l'[Homebrew App Store](https://github.com/vgmoose/hbas/releases/latest)
   - Vous devrez télécharger le fichier `wiiu-extracttosd.zip`.
@@ -29,10 +29,9 @@ Nous allons maintenant placer les fichiers du CFW requis et quelques fichiers ho
 
 1. Insérez la carte SD de votre Wii U dans votre PC.
 1. Créez un dossier appelé `install` à la racine de votre carte SD.
-1. Créez un dossier appelé `Homebrew Launcher Channel` dans le dossier `install` que vous avez créé.
-1. Copiez le contenu du fichier `homebrew_launcher_channel.v2.1.zip` dans le dossier `Homebrew Launcher Channel` que vous avez créé.
+1. Extract the `homebrew_launcher_channel.v2.1_fix.zip` file to the `install` folder you created.
 1. Copiez le contenu du fichier `Haxchi.zip` vers la racine de votre carte SD.
-1. Copiez le contenu du fichier `wup_installer_gx2.zip` vers la racine de votre carte SD.
+1. Extract the `wup_installer_gx2.zip` file to the root of your SD Card.
 1. Copiez le contenu du fichier `nanddumper.zip` vers la racine de votre carte SD.
 1. Copiez le contenu du fichier `wiiu-extracttosd.zip` vers la racine de votre carte SD.
 1. Copiez le contenu du fichier `homebrew_launcher.v.1.4.zip` vers la racine de votre carte SD.
