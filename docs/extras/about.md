@@ -47,7 +47,7 @@ This guide was written by staff members of the [Nintendo Homebrew Discord Server
 >
 > - **FIX94** for [Wuphax](https://github.com/FIX94/wuphax).
 >
-> - **GaryOderNichts** for [Indexiine-Installer](https://github.com/GaryOderNichts/indexiine-installer)
+> - **GaryOderNichts** for [Indexiine-Installer](https://github.com/GaryOderNichts/indexiine-installer) and the fixed version of the [Homebrew Launcher Channel](https://github.com/GaryOderNichts/homebrew_launcher/)
 >
 > - **GabyPCgeeK** and **Ryuzaki-MrL** for [SaveMii mod](https://github.com/GabyPCgeeK/savemii)
 >
