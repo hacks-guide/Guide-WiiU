@@ -28,7 +28,7 @@ Currently, two ways exist to block updates on the Wii U system:
 1. Plug your SD Card into your Computer.
 1. Extract the `nnupatcher.zip` file to the root of your SD Card. If asked, overwrite any duplicate files.
 1. Plug the SD Card into your Wii U console and power it on.
-1. Enter the Wii U's system settings and navigate to `Internet > Connect to the Internet > Connection List >` `Your WiFi connection > Change Settings > DNS` and set the option to `Do not auto-obtain`.
+1. Entrez les paramètres du système de la Wii U et naviguez jusqu'à `Internet > Connexion à Internet > Liste des connexions >` `Votre connexion WiFi > Modifiez les paramètres > DNS` et réglez l'option sur `Ne pas obtenir automatiquement`.
 1. You will be asked to input a primary and secondary DNS. Enter the following IP addresses:
  - Primary DNS: 168.235.092.108
  - Secondary DNS: 081.004.127.020 <img src="docs/assets/img/DNS.png" alt="DNS Block" />

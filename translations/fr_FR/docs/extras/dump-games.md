@@ -2,7 +2,7 @@
 ---
 Dumping your Discs allows you to install a copy of your game to the system NAND/a USB device so you can play it without needing the disc.
 
-?> Dumping and installing games requires a working Homebrew setup, so make sure to finish the main guide on installing CFW first before following this.
+?> Le dumping et l'installation de jeux nécessitent une installation Homebrew fonctionnelle, donc assurez-vous de terminer le guide principal sur l'installation de CFW avant de le suivre.
 
 ### Instructions
 
