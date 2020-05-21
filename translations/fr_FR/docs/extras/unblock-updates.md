@@ -1,29 +1,29 @@
-# Unblocking Updates
+# Déblocage des mises à jour
 ---
-This is needed if you ever need to perform a System Update.
+Ceci est nécessaire si vous avez besoin d'effectuer une mise à jour du système.
 
 ### Instructions
 
 <!-- tabs:start -->
 
-#### **Recreating The Update Folder**
+#### **Recréer le dossier de mise à jour**
 
-?> In order for this method to work, your Wii U needs to be in the same network as your Computer.
-1. Plug your SD Card into your Computer.
-1. Download and extract [ftpiiu_everywhere](http://wiiubru.com/appstore/zips/fpiiu-cbhc.zip) to the root of your SD Card.
-1. Download an FTP client of your choice such as [FileZilla](https://filezilla-project.org/download.php?show_all=1).
-1. Plug the SD Card into your Wii U console and power it on.
-1. Launch the CFW of your choice (Mocha, Haxchi/CBHC) and enter the Homebrew Launcher.
-1. Navigate the Homebrew Launcher and run the ftpiiu_everywhere app.
-1. Take note of the IP address on the Wii U screen.
-1. On your PC run your preferred FTP client and open an FTP connection to your Wii U. In FileZilla, this can be done using the Site Manager, but be sure to replace the IP address with the one shown on your Wii U screen: <br><img src="docs/assets/img/FTP.png" alt="FileZilla" />
-1. Navigate to `/storage_mlc/sys`.
-1. Create a folder named `update`.
-1. You are now no longer blocking system updates.
+?> Pour que cette méthode fonctionne, votre Wii U doit être dans le même réseau que votre ordinateur.
+1. Insérez votre carte SD dans votre ordinateur.
+1. Téléchargez et copiez le contenu de [ftpiiu_everywhere](http://wiiubru.com/appstore/zips/fpiiu-cbhc.zip) vers la racine de votre carte SD.
+1. Téléchargez un client FTP de votre choix tel que [FileZilla](https://filezilla-project.org/download.php?show_all=1).
+1. Insérez la carte SD dans votre console Wii U et allumez-la.
+1. Lancez le CFW de votre choix (Mocha, Haxchi/CBHC) et entrez dans le Homebrew Launcher.
+1. Naviguez sur le Homebrew Launcher et lancez l'application ftpiiu_everywhere.
+1. Prenez note de l'adresse IP sur l'écran de la Wii U.
+1. Sur votre PC, exécutez votre client FTP préféré et ouvrez une connexion FTP à votre Wii U. Dans FileZilla, cela peut être fait à l'aide du Gestionnaire de Sites, mais assurez-vous de remplacer l'adresse IP par celle qui s'affiche sur l'écran de votre Wii U : <br><img src="docs/assets/img/FTP.png" alt="FileZilla" />
+1. Naviguez vers `/storage_mlc/sys`.
+1. Créez un dossier nommé `update`.
+1. Vous ne bloquez plus les mises à jour du système.
 
-### **Removing The DNS Blocks**
+### **Suppression du blocage par DNS**
 
-1. Enter the Wii U's system settings and navigate to `Internet > Connect to the Internet > Connection List >` `Your WiFi connection > Change Settings > DNS` and set the option to `Auto-obtain`.
-1. You are now no longer blocking system updates.
+1. Entrez dans les Paramètres de la console sur votre Wii U et naviguez jusqu'à `Internet > Connexion Internet > Liste des connexions > ` `Votre connexion WiFi > Modifier > DNS` et réglez l'option sur `Oui`.
+1. Vous ne bloquez plus les mises à jour du système.
 
 <!-- tabs:end -->
