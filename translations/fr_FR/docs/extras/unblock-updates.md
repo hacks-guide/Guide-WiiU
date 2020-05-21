@@ -21,7 +21,7 @@ This is needed if you ever need to perform a System Update.
 1. Create a folder named `update`.
 1. You are now no longer blocking system updates.
 
-### **Removing The DNS Blocks**
+### **Suppression du blocage par DNS**
 
 1. Enter the Wii U's system settings and navigate to `Internet > Connect to the Internet > Connection List >` `Your WiFi connection > Change Settings > DNS` and set the option to `Auto-obtain`.
 1. You are now no longer blocking system updates.
