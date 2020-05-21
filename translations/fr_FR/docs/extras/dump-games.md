@@ -1,6 +1,6 @@
-# Dumping Wii U Discs
+# Dumper vos Disques Wii U
 ---
-Dumping your Discs allows you to install a copy of your game to the system NAND/a USB device so you can play it without needing the disc.
+Dumper vos disques vous permet d'installer une copie de votre jeu sur la NAND / un périphérique USB afin que vous puissiez y jouer sans avoir besoin du disque.
 
 ?> Le dumping et l'installation de jeux nécessitent une installation Homebrew fonctionnelle, donc assurez-vous de terminer le guide principal sur l'installation de CFW avant de le suivre.
 
@@ -10,11 +10,11 @@ Dumping your Discs allows you to install a copy of your game to the system NAND/
 
 #### **Install To NAND**
 
-?> Installing a game to the system memory (NAND) is not recommended as it's limited to either 8 or 32GB depending on your model, making you run out of space pretty quickly if you want to install multiple games.
+?> Installer un jeu dans la mémoire système (NAND) n'est pas recommandé car elle est limitée à 8 ou 32 Go selon votre modèle, ce qui vous ferait manquer d'espace assez rapidement si vous souhaitez installer plusieurs jeux.
 
 ### What You need
 
-- Your SD Card needs to have enough space to fit the game you want to dump.
+- Votre carte SD a besoin de suffisamment d'espace pour stocker le jeu que vous voulez dumper.
 - The latest release of [WUP Installer GX2](http://wiiubru.com/appstore/zips/wup_installer_gx2.zip)
 - The [disc2app](http://www.wiiubru.com/appstore/zips/disc2app.zip) Homebrew app
 
@@ -45,7 +45,7 @@ Dumping your Discs allows you to install a copy of your game to the system NAND/
 
 ### What You Need
 
-- Your SD Card needs to have enough space to fit the game you want to dump.
+- Votre carte SD a besoin de suffisamment d'espace pour stocker le jeu que vous voulez dumper.
 - A USB HDD (+ a Y-cable if needed)
 - The latest release of [WUP Installer GX2](http://wiiubru.com/appstore/zips/wup_installer_gx2.zip)
 - The [disc2app](http://www.wiiubru.com/appstore/zips/disc2app.zip) Homebrew app
