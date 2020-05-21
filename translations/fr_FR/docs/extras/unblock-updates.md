@@ -1,12 +1,12 @@
-# Unblocking Updates
+# Déblocage des mises à jour
 ---
-This is needed if you ever need to perform a System Update.
+Ceci est nécessaire si vous avez besoin d'effectuer une mise à jour du système.
 
 ### Instructions
 
 <!-- tabs:start -->
 
-#### **Recreating The Update Folder**
+#### **Recréer le dossier de mise à jour**
 
 ?> Pour que cette méthode fonctionne, votre Wii U doit être dans le même réseau que votre ordinateur.
 1. Insérez votre carte SD dans votre ordinateur.
@@ -18,12 +18,12 @@ This is needed if you ever need to perform a System Update.
 1. Prenez note de l'adresse IP sur l'écran de la Wii U.
 1. Sur votre PC, exécutez votre client FTP préféré et ouvrez une connexion FTP à votre Wii U. Dans FileZilla, cela peut être fait à l'aide du Gestionnaire de Sites, mais assurez-vous de remplacer l'adresse IP par celle qui s'affiche sur l'écran de votre Wii U : <br><img src="docs/assets/img/FTP.png" alt="FileZilla" />
 1. Naviguez vers `/storage_mlc/sys`.
-1. Create a folder named `update`.
-1. You are now no longer blocking system updates.
+1. Créez un dossier nommé `update`.
+1. Vous ne bloquez plus les mises à jour du système.
 
 ### **Suppression du blocage par DNS**
 
-1. Enter the Wii U's system settings and navigate to `Internet > Connect to the Internet > Connection List >` `Your WiFi connection > Change Settings > DNS` and set the option to `Auto-obtain`.
-1. You are now no longer blocking system updates.
+1. Entrez dans les Paramètres de la console sur votre Wii U et naviguez jusqu'à `Internet > Connexion Internet > Liste des connexions > ` `Votre connexion WiFi > Modifier > DNS` et réglez l'option sur `Oui`.
+1. Vous ne bloquez plus les mises à jour du système.
 
 <!-- tabs:end -->
