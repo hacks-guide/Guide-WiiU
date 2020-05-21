@@ -73,11 +73,11 @@ Dumper vos disques vous permet d'installer une copie de votre jeu sur la NAND / 
 
 ### Move Updates/DLC To USB
 
-?> If your disc game had DLC or updates installed, you will need to transfer the files over to your USB device. You can do this using the Wii U's data management.
+?> If your disc game had DLC or updates installed, you will need to transfer the files over to your USB device. Vous pouvez le faire en utilisant le menu Gestion des données de la Wii U.
 
 1. Power on your Wii U
-1. Open the Wii U's System Settings.
-1. Navigate to `Data Management > Copy/Move/Delete Data > System Memory > Move Items (X)`.
+1. Ouvrez les Paramètres de la console.
+1. Naviguez vers `Gestion des données > Copier, déplacer ou effacer des données > Mémoire de la console > Copier/Déplacer des données (X)`.
 1. Select your game and move the update and DLC data to the USB device.
 
 #### **Install From USB**
@@ -97,12 +97,12 @@ Dumper vos disques vous permet d'installer une copie de votre jeu sur la NAND / 
 ?> **Notice** Your USB device will need to be formatted as FAT32. If your USB is not formatted to FAT32, use [GUIFormat](http://www.ridgecrop.demon.co.uk/index.htm?guiformat.htm) with 32k (32768) Allocation unit size to format it.
 
 1. Extract the `homebrew_launcher.v.1.4.zip` file to the root of your USB device.
-1. Extract the `wup_installer_gx2.zip` file to the root of your USB device.
-1. Extract the `disc2app.zip` file to the root of your USB device.
-1. Extract the `mocha_fat32.zip` file to the root of your SD Card.
+1. Copiez le contenu du fichier `wup_installer_gx2.zip` vers la racine de votre périphérique USB.
+1. Copiez le contenu du fichier `disc2app.zip` vers la racine de votre périphérique USB.
+1. Copiez le contenu du fichier `mocha_fat32.zip` vers la racine de votre carte SD.
 1. Take the SD Card out of your PC and plug it into your Wii U console.
 1. Power on your Wii U.
-1. Plug in your USB device. The Wii U will ask you format it. Cancel with No!
+1. Plug in your USB device. The Wii U will ask you format it. Annulez avec Non !
 1. Launch the Homebrew Launcher and start the MochaFAT32 app.
 1. In the configuration menu, set the following settings:
   - Config view mode: default
@@ -110,7 +110,7 @@ Dumper vos disques vous permet d'installer une copie de votre jeu sur la NAND / 
   - Don't relaunch OS: off
   - Launch System Menu: on
   - RedNAND: off
-1. Your console will load the Wii U menu with your USB device now replacing the SD Card.
+1. Votre console va charger le Menu Wii U avec votre périphérique USB qui remplace maintenant la carte SD.
 1. Launch the Homebrew Launcher and open the disc2app app.
 1. Eject any inserted game disc and press the A button to begin the dumping process.
 1. When prompted, insert the game disc you want to dump.
@@ -121,19 +121,19 @@ Dumper vos disques vous permet d'installer une copie de votre jeu sur la NAND / 
 1. When the process is complete, your Wii U will launch the Wii U Menu.
 1. You should see your game installed, ready to be played.
 1. Take the USB device out of your Wii U and plug it into your PC.
-2. Delete the `WUP-X-XXXX` folder in the `install` directory on your USB device to free up space.
+2. Supprimez le dossier `WUP-X-XXXX` dans le répertoire `install` de votre périphérique USB pour libérer de l'espace.
 
 ### Moving The Game To USB
 
-?> If you don't want to keep the game installed on NAND, you can use the Wii U's data management to move the game to a USB device.
+?> Si vous ne voulez pas garder le jeu installé sur la NAND, vous pouvez utiliser le menu Gestion des données de la Wii U pour déplacer le jeu vers un périphérique USB.
 
-!> In order to move your game to a USB device, it has to be formatted by the Wii U. Doing this will erase all contents of it, and prevent it from being used on another system unless you reformat it.
+!> Afin de déplacer votre jeu vers un périphérique USB, celui-ci doit être formaté par la Wii U. Cela effacera tout le contenu et empêchera son utilisation sur un autre système, à moins que vous ne le reformatiez.
 
 1. Reboot your Wii U to remove the effect of MochaFAT32.
 1. Plug your USB device into the Wii U.
 1. Power on your Wii U.
 1. Your Wii U will prompt you to format your USB device. Confirmez avec Oui.
-1. Open the Wii U's System Settings.
+1. Ouvrez les Paramètres de la console.
 1. Navigate to `Data Management > Copy/Move/Delete Data > System Memory > Move Items (X)`
 1. Select the game and move all data (including updates and DLC if any are installed) to your USB device.
 
