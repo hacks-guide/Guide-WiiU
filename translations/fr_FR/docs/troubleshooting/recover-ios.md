@@ -4,7 +4,7 @@ This page will guide you through the process of recovering a corrupted IOS on yo
 
 !> Do not use this method for anything else than [Recovering your Mii Channel](recover-mii-channel) or the following page.
 
-### What You Need
+### Ce dont vous avez besoin
 
 <!-- tabs:start -->
 
