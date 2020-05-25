@@ -4,7 +4,7 @@ This page will guide you through the process of restoring your Mii Channel to a 
 
 !> Do not use this method for anything else than [Recovering a Corrupted IOS](recover-ios) or the following page.
 
-### What You Need
+### Ce dont vous avez besoin
 
 <!-- tabs:start -->
 
@@ -54,8 +54,8 @@ This page will guide you through the process of restoring your Mii Channel to a 
 1. Launch the Homebrew Launcher and FTPiiU Everywhere.
 1. Launch FileZilla on your computer.
 1. In FileZilla, type in the IP address displayed by your Wii U in the `Host` field at the top of the window and click on `Quickconnect`.
-1. Navigate to `/slccmpt01/title/00010002`.
-1. Delete the `48414341` folder.
+1. Navigate to `/slccmpt01/title/00010002/48414341`.
+1. Delete the `content` folder.
 1. Launch the previously downloaded `overwrite-wiiu-titlehash.exe` file.
 1. Type in your Wii U's IP address and press Enter.
 1. Wait for it to finish what it's doing.
@@ -70,8 +70,8 @@ This page will guide you through the process of restoring your Mii Channel to a 
 1. Launch the Homebrew Launcher and FTPiiU Everywhere.
 1. Launch FileZilla on your computer.
 1. In FileZilla, type in the IP address displayed by your Wii U in the `Host` field at the top of the window and click on `Quickconnect`.
-1. Navigate to `/slccmpt01/title/00010002`.
-1. Delete the `48414341` folder.
+1. Navigate to `/slccmpt01/title/00010002/48414341`.
+1. Delete the `content` folder.
 1. Open up a Terminal window.
 1. Use the following command: `cd <directory>`.
  - On macOS, the most common place to find your downloaded files is `/Users/username/Downloads`.
