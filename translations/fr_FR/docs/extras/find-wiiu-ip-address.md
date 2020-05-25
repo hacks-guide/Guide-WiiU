@@ -2,7 +2,7 @@
 ---
 Quick guide on how to find the IP address of your Wii U console.
 
-### What You Need
+### Ce dont vous avez besoin
 
 1. [FTPiiU](https://apps.fortheusers.org/wiiu/ftpiiu)
  - Extract the `ftpiiu.zip` file to the root of your SD Card
