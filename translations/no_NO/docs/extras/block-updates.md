@@ -8,23 +8,17 @@ For tiden finnes det to måter å blokkere systemoppdateringer på Wii U:
 <!-- tabs:start -->
 
 #### **Slette "Update" Mappen**
-?> Denne metoden er litt mer avansert enn DNS-blokkering og krever litt grunnleggende kunnskap om FTP-programmer, men når det er satt opp så kan fortsatt eShop brukes som normalt.
-
-?> For å gjøre dette, må Wii U konsollen være på samme nettverk som PC'en din.
+?> This method of update blocking is a bit more advanced than DNS Blocking and uses a homebrew app to modify system files. However, it has the advantage that the eShop's functionality will not be restricted.
 1. Sett SD-kortet inn i PC'en din.
-1. Last ned og pakk ut [ftpiiu_everywhere](http://wiiubru.com/appstore/zips/fpiiu-cbhc.zip) til roten av SD-kortet ditt.
-1. Last ned en FTP-klient, som for eksempel [FileZilla](https://filezilla-project.org/download.php?show_all=1).
-1. Sett SD-kortet inn i Wii U konsollen og skru den på.
-1. Start CFW (Mocha, Haxchi/CBHC) og start opp Homebrew Launcher.
-1. I Homebrew Launcher, kjør ftpiiu_everywhere appen.
-1. Noter IP-adressen på Wii U-skjermen.
-1. På PC'en din starter du FTP-klienten din, og start en FTP-tilkobling til Wii U konsollen. I FileZilla skriver du bare IP-adressen fra Wii U'en inn i "Host" vindu under verktøylinja og trykker "Quickconnect": <br><img src="docs/assets/img/FTP.png" alt="FileZilla" />
-1. Naviger til `/storage_mlc/sys`. Der skal det være en tom mappe som heter `update`.
-1. Høyreklikk mappen og slett den.
-1. Du blokkerer nå systemoppdateringer.
+1. Download and extract [UFDiine](https://github.com/GaryOderNichts/UFDiine/releases) to the root of your SD Card.
+1. Sett SD-kortet inn i Wii U konsollen din og skru den på.
+1. Enter the Homebrew Launcher.
+1. Navigate the Homebrew Launcher and run the UFDiine app.
+1. Press the A button to delete the update folder.
+1. Confirm that it says `Update folder is deleted`. Du blokkerer nå systemoppdateringer.
 
 ### **DNS-blokkering**
-?> Dette er den enkleste metoden og anbefales for de som er usikker på å slette "update" mappen. Den vil derimot forhindre at eShop fungerer. Men hvis du bruker [NNUPatcher](http://www.wiiubru.com/appstore/zips/nnupatcher.zip) så vil du ha tilgang til eShop igjen.
+?> This method is the easier method and is recommended to less advanced users. It does, however, prevent the eShop from working. This can be worked around by running [NNUPatcher](http://www.wiiubru.com/appstore/zips/nnupatcher.zip) before starting the eShop.
 1. Sett SD-kortet inn i PC'en.
 1. Pakk ut `nnupatcher.zip` til roten av SD-kortet. Hvis den sier at filene er der allerede, kan du overskrive disse.
 1. Sett SD-kortet inn i Wii U konsollen din og skru den på.
@@ -32,8 +26,8 @@ For tiden finnes det to måter å blokkere systemoppdateringer på Wii U:
 1. Du vil bli bedt om å legge inn en primær og sekundær DNS. Oppgi følgende IP adresser:
  - Primary DNS: 168.235.092.108
  - Secondary DNS: 081.004.127.020 <img src="docs/assets/img/DNS.png" alt="DNS-blokkering" />
-1. Klikk på "confirm"
-1. Du blokkerer nå systemoppdateringer. Men for å få tilgang til eShop igjen, må du starte nnu-patcher appen fra Homebrew Launcher før du starter eShop
+1. Click on confirm.
+1. Du blokkerer nå systemoppdateringer. In order to access the eShop, run the NNUPatcher app from the Homebrew Launcher before launching the eShop.
 
 
 <!-- tabs:end -->
