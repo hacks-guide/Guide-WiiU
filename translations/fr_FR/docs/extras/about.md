@@ -4,7 +4,7 @@ Ce guide a été rédigé par des membres du personnel du [Serveur Discord Ninte
 
 > **Crédits**
 > 
-> **Elpunical, FlimFlam69, Flump, Hiperhazz, huhen, Link5261, Profanity et redcubie.**
+> **Elpunical, FlimFlam69, Flump, Hiperhazz, huhen, Link5261, NoahAbc12345, Profanity, and redcubie.**
 > 
 > Merci à [tout le monde](https://github.com/hacks-guide/Guide-WiiU/graphs/contributors) qui a contribué au guide sur GitHub.
 
@@ -47,6 +47,6 @@ Ce guide a été rédigé par des membres du personnel du [Serveur Discord Ninte
 > 
 > - **FIX94** pour [Wuphax](https://github.com/FIX94/wuphax).
 > 
-> - **GaryOderNichts** pour [Indexiine-Installer](https://github.com/GaryOderNichts/indexiine-installer) et la version corrigée de l'[Homebrew Launcher Channel](https://github.com/GaryOderNichts/homebrew_launcher/)
+> - **GaryOderNichts** for [Indexiine-Installer](https://github.com/GaryOderNichts/indexiine-installer), [UFDiine](https://github.com/GaryOderNichts/UFDiine/releases), and the fixed version of the [Homebrew Launcher Channel](https://github.com/GaryOderNichts/homebrew_launcher/)
 > 
 > - **GabyPCgeeK** et **Ryuzaki-MrL** pour [SaveMii mod](https://github.com/GabyPCgeeK/savemii)
