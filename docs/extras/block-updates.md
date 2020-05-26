@@ -8,20 +8,13 @@ Currently, two ways exist to block updates on the Wii U system:
 <!-- tabs:start -->
 
 #### **Deleting The Update Folder**
-?> While this method of update blocking is a bit more advanced than DNS Blocking and currently requires at least basic knowledge on FTP Programs, it has the advantage that the eShop's functionality will not be restricted.
-
-?> In order for this method to work, your Wii U needs to be in the same network as your Computer.
+?> This method of update blocking is a bit more advanced than DNS Blocking and uses a homebrew app to modify system files. However, it has the advantage that the eShop's functionality will not be restricted.
 1. Plug your SD Card into your Computer.
-1. Download and extract [ftpiiu_everywhere](http://wiiubru.com/appstore/zips/fpiiu-cbhc.zip) to the root of your SD Card.
-1. Download an FTP client of your choice such as [FileZilla](https://filezilla-project.org/download.php?show_all=1).
+1. Download and extract [UFDiine](https://github.com/GaryOderNichts/UFDiine/releases) to the root of your SD Card.
 1. Plug the SD Card into your Wii U console and power it on.
-1. Launch the CFW of your choice (Mocha, Haxchi/CBHC) and enter the Homebrew Launcher.
-1. Navigate the Homebrew Launcher and run the ftpiiu_everywhere app.
-1. Take note of the IP address on the Wii U screen.
-1. On your PC run your preferred FTP client and open an FTP connection to your Wii U. In FileZilla, this can be done using the Site Manager, but be sure to replace the IP address with the one shown on your Wii U screen:
-<br><img src="docs/assets/img/FTP.png" alt="FileZilla">
-1. Navigate to `/storage_mlc/sys`. You should see an empty folder called `update`.
-1. Right-click the folder and delete it.
+1. Enter the Homebrew Launcher.
+1. Navigate the Homebrew Launcher and run the UFDiine app.
+1. Press the A button to delete the update folder.
 1. You are now blocking updates.
 
 ### **DNS Blocking**
@@ -35,8 +28,8 @@ Currently, two ways exist to block updates on the Wii U system:
  - Primary DNS: 168.235.092.108
  - Secondary DNS: 081.004.127.020
 <img src="docs/assets/img/DNS.png" alt="DNS Block">
-1. Click on confirm
-1. You are now blocking updates. In order to access the eShop, run the nnupatcher app from the Homebrew Launcher before launching the eShop
+1. Click on confirm.
+1. You are now blocking updates. In order to access the eShop, run the NNUPatcher app from the Homebrew Launcher before launching the eShop.
 
 
 <!-- tabs:end -->
