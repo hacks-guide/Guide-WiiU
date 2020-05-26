@@ -4,7 +4,7 @@ This guide was written by staff members of the [Nintendo Homebrew Discord Server
 
 > **Credits**
 >
-> **Elpunical, FlimFlam69, Flump, Hiperhazz, huhen, Link5261, Profanity, redcubie, and NoahAbc12345.**
+> **Elpunical, FlimFlam69, Flump, Hiperhazz, huhen, Link5261, NoahAbc12345, Profanity, and redcubie.**
 >
 > Thank you to [everyone else](https://github.com/hacks-guide/Guide-WiiU/graphs/contributors) that contributed to the guide on GitHub.
 
