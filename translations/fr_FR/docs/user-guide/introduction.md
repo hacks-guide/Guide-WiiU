@@ -2,7 +2,7 @@
 
 Guide collaboratif entre les Helpers et le Staff de Nintendo Homebrew, du stock au custom firmware de CBHC.
 
-?> **Aide sur Discord** Pour une assistance en direct avec ce guide, veuillez nous rendre visite dans **#wiiu-assistance** sur le serveur [Nintendo Homebrew sur Discord](https://discord.gg/C29hYvh) et demandez de l'aide en anglais.
+?> **Discord Help** For live support with this guide please visit us in **#wiiu-assistance** on the [Nintendo Homebrew Discord](https://discord.gg/C29hYvh) and ask, in English, for assistance. Please read the FAQ first to see if your question has already been answered.
 
 ### Homebrew
 
