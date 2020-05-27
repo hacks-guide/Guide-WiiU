@@ -24,10 +24,10 @@ Dumping your Discs allows you to install a copy of your game to the system NAND/
 1. Extract the `disc2app.zip` file to the root of your SD Card.
 1. Take the SD Card out of your PC and plug it into your Wii U.
 1. Power on your Wii U.
-1. Eject your game disc if you have one inserted
+1. Eject your game disc if you have one inserted.
 1. Launch the Homebrew Launcher and start the disc2app app.
 1. Press the A button to start the dumping process to the SD Card.
-1. When prompted, insert the game disc you want to dump
+1. When prompted, insert the game disc you want to dump.
 1. When the process is complete, your Wii U will launch the Wii U Menu.
 1. Launch the Homebrew Launcher and start the WUP Installer GX2 app.
 1. Select your game (`WUP-X-XXXX`), press `Install` and confirm with `Yes`.
