@@ -24,7 +24,7 @@ Dumper vos disques vous permet d'installer une copie de votre jeu sur la NAND / 
 1. Copiez le contenu du fichier `disc2app.zip` vers la racine de votre carte SD.
 1. Sortez la carte SD de votre PC et insérez-la dans votre console Wii U.
 1. Allumez votre Wii U.
-1. Eject your game disc if you have one inserted.
+1. Éjectez votre disque de jeu si vous en avez un.
 1. Lancez l'Homebrew Launcher et lancez l'application disc2app.
 1. Appuyez sur le bouton A pour démarrer le processus de dumping.
 1. Lorsque vous y êtes invité, insérez le disque de jeu que vous voulez dumper.

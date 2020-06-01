@@ -23,7 +23,7 @@ Dumping av Wii diskene dine lar deg spille dem på en Wii-emulator (Dolphin), sp
 1. Kjør CleanRip
 1. Les ansvarsfraskrivelsen og trykk A
 1. Velg "Yes" for å aktivere Checksum kalkulasjoner
-1. Velg enten USB eller SD-kort avhengig av hvilken enhet du vil bruke for dumpeprosessen
+1. Select either USB or Front SD depending on which device you want to use for the dumping process
  - Merk at enheten du velger må være formatert som FAT32 eller NTFS
 1. Trykk A for å fortsette
 1. Velg "No" i vinduet som ber deg laste ned redump.org DAT-filer

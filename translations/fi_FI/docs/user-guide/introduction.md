@@ -4,9 +4,9 @@ A guide collaboration between Nintendo Homebrew's Helpers and Staff, from stock 
 
 ?> **Discord Help** For live support with this guide please visit us in **#wiiu-assistance** on the [Nintendo Homebrew Discord](https://discord.gg/C29hYvh) and ask, in English, for assistance. Please read the FAQ first to see if your question has already been answered.
 
-> If you appreciate this guide, we accept [donations](donations)
+> If you appreciate this guide, we accept [donations](donations).
 
-> For complete guides to homebrew and custom firmware for other devices, check out [hacks.guide](https://hacks.guide)
+> For complete guides to homebrew and custom firmware for other devices, check out [hacks.guide](https://hacks.guide).
 
 ### Homebrew
 
@@ -22,10 +22,10 @@ A guide collaboration between Nintendo Homebrew's Helpers and Staff, from stock 
 >
 > Among other things, it allows you to do the following:
 > 
-> - Use “ROM hacks” for games that you own
-> - Backup, edit and restore saves for many games
-> - Play games for older systems with various emulators, using RetroArch or other standalone emulators
-> - Play out-of-region games
+> - Use “ROM hacks” for games that you own.
+> - Backup, edit and restore saves for many games.
+> - Play games for older systems with various emulators, using RetroArch or other standalone emulators.
+> - Play out-of-region games.
 > - Dump your Wii U game discs to a format that can be installed on your internal or external Wii U storage drive.
 
 
@@ -41,9 +41,9 @@ A guide collaboration between Nintendo Homebrew's Helpers and Staff, from stock 
 > 
 > You will need the following in order to successfully follow this guide:
 > 
-> - An SD Card
-> - A device such as a computer to place files onto the SD Card
-> - A Wii U with internet access
+> - An SD Card.
+> - A device such as a computer to place files onto the SD Card.
+> - A Wii U with internet access.
 > 
 > Your SD Card should preferably be 32 gigabytes large, as a full NAND backup for the console will take up around 8 or 30 gigabytes depending on your model.
 

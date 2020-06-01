@@ -23,7 +23,7 @@ Dumping your Discs allows you to: play them on a Wii emulator (namely Dolphin), 
 1. Launch CleanRip
 1. Read the Disclaimer then press A
 1. Select Yes to enable Checksum Calculations
-1. Select either USB or SD Card depending on which device you want to use for the dumping process
+1. Select either USB or Front SD depending on which device you want to use for the dumping process
  - Please note that the device you will choose needs to be formatted either in FAT32 or NTFS
 1. Press A to continue
 1. Select No on the screen that asks you to download redump.org DAT files
