@@ -4,44 +4,48 @@ Guide collaboratif entre les Helpers et le Staff de Nintendo Homebrew, du stock 
 
 ?> **Discord Help** For live support with this guide please visit us in **#wiiu-assistance** on the [Nintendo Homebrew Discord](https://discord.gg/C29hYvh) and ask, in English, for assistance. Please read the FAQ first to see if your question has already been answered.
 
+> If you appreciate this guide, we accept [donations](donations)
+
+> For complete guides to homebrew and custom firmware for other devices, check out [hacks.guide](https://hacks.guide)
+
 ### Homebrew
 
-> Les applications Homebrew sont des logiciels faits maison, créés par les utilisateurs, qui n'ont pas été autorisés par Nintendo. Cela peut inclure des outils d'édition de sauvegardes, des jeux, des émulateurs, et plus encore.
+> Homebrew applications are custom, user-made software, which haven’t been authorized by Nintendo. This can include save editing tools, games, emulators, and more.
 > 
-> Les Homebrews peuvent être exécutés sur votre Wii U tant que vous avez un moyen de mettre des fichiers sur une carte SD et que votre Wii U est mise à jour vers la dernière version pour votre région.
+> Homebrew can be run on your Wii U as long as you have a way to put files on an SD Card and your Wii U is updated to the latest version for your region.
 
 ### Custom Firmware
 
-> Le Custom Firmware (« CFW ») vous permet d'utiliser des hacks plus avancés que les homebrews de type "userland" ne peuvent pas faire facilement. Par exemple, installer des mods de jeu en toute simplicité. Le CFW peut être configuré sur n'importe quelle console ayant la dernière version en date du système.
+> Custom Firmware (“CFW”) enables you to use more advanced hacks that userland homebrew can’t easily do. For instance, installing game modifications with ease. CFW can be set up on any console on the latest version.
 
 ### Homebrew & Usages du CFW
 >
-> Il vous permet, entre autres, de faire ce qui suit:
+> Among other things, it allows you to do the following:
 > 
-> - Utiliser des "ROM hacks" pour les jeux que vous possédez
-> - Sauvegarder, modifier et restaurer les données de sauvegarde pour de nombreux jeux
-> - Jouer à des jeux pour les anciennes consoles avec divers émulateurs, en utilisant RetroArch ou d'autres émulateurs autonomes
-> - Jouer à des jeux hors région
-> - Dumper vos disques de jeu Wii U dans un format qui peut être installé sur votre stockage Wii U interne ou externe.
+> - Use “ROM hacks” for games that you own
+> - Backup, edit and restore saves for many games
+> - Play games for older systems with various emulators, using RetroArch or other standalone emulators
+> - Play out-of-region games
+> - Dump your Wii U game discs to a format that can be installed on your internal or external Wii U storage drive.
 
 
 ### Objectif final
 
-> Ce guide a pour but final de faire passer une Wii U complètement non modifiée du stock au Custom Firmware.
+> This guide has the end goal of taking a completely unmodified Wii U from stock to Custom Firmware.
 
 ### Avant de commencer
 
 !> Avant de commencer le guide, vous devez connaître les risques du hack de la Wii U : À CHAQUE FOIS que vous modifiez votre système, il y a toujours un potentiel de bricker votre console de manière IRRÉCUPÉRABLE. Ils sont rares, mais toujours possibles, alors assurez-vous de suivre EXACTEMENT TOUTES les instructions.
 >
-> Ce guide fonctionnera sur toutes les consoles Wii U de toutes les régions en version 5.5.4 ou inférieure.
+> This guide will work on all Wii U consoles in all regions on firmware 5.5.4 or below.
 > 
-> Vous aurez besoin de ce qui suit pour suivre ce tutoriel avec succès :
+> You will need the following in order to successfully follow this guide:
 > 
-> - Une carte SD
-> - Un appareil tel qu'un ordinateur pour placer des fichiers sur la carte SD
-> - Une Wii U avec un accès Internet
+> - An SD Card
+> - A device such as a computer to place files onto the SD Card
+> - A Wii U with internet access
 > 
-> Votre carte SD devrait de préférence être de 32 gigaoctets, étant donné qu'une sauvegarde complète de la NAND de votre console prendra environ 8 ou 30 gigaoctets selon votre modèle.
+> Your SD Card should preferably be 32 gigabytes large, as a full NAND backup for the console will take up around 8 or 30 gigabytes depending on your model.
 
 Si tout se passe comme prévu, vous ne perdrez aucune donnée et finirez avec tout ce que vous aviez avant de commencer (jeux, NNID, les données de sauvegarde, etc seront conservés).
 
