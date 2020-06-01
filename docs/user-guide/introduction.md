@@ -5,6 +5,8 @@ A guide collaboration between Nintendo Homebrew's Helpers and Staff, from stock 
 ?> **Discord Help**
 For live support with this guide please visit us in **#wiiu-assistance** on the [Nintendo Homebrew Discord](https://discord.gg/C29hYvh) and ask, in English, for assistance. Please read the FAQ first to see if your question has already been answered.
 
+> If you appreciate this guide, we accept [donations](donations)
+
 > For complete guides to homebrew and custom firmware for other devices, check out [hacks.guide](https://hacks.guide)
 
 ### Homebrew

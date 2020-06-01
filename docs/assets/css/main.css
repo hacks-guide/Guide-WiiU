@@ -41,5 +41,9 @@ figure.thumbnails img {
         .medium-zoom-image {
             z-index: 999;
         }
+        img[src*='#center'] { 
+            display: block;
+            margin: auto;
+        }
     }
 }
