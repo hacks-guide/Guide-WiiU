@@ -2,28 +2,28 @@
 ---
 ### Does Homebrew have any risks?
 
-Currently homebrewing the Wii U does not expose you to a risk of being banned by Nintendo unless you cheat in online games. You should, however, always be careful with launching downloaded homebrew, especially if you don't trust the source, as Homebrew can potentially damage your system!
+Actuellement, le homebrewing de la Wii U ne vous expose pas à un risque de bannissement par Nintendo, à moins que vous ne trichiez dans les jeux en ligne. Cependant, vous devez toujours faire attention au lancement de homebrew téléchargé, surtout si vous ne faites pas confiance à la source, car le homebrew peut potentiellement endommager votre console !
 
 ### What is Haxchi, and do I need it?
 
-Haxchi is a secondary entry point which uses certain DS Virtual Console titles to allow for access to homebrew while being completely offline (still works with online but no connection required to launch CFW)
+Haxchi est un point d'entrée secondaire qui utilise certains titres de la Console Virtuelle DS pour permettre l'accès au homebrew tout en étant complètement hors ligne (fonctionne toujours lorsque vous êtes connecté à Internet mais aucune connexion n'est nécessaire pour lancer le CFW)
 
-Haxchi is not required, however, if you want to use homebrew on your Wii U while offline you will need it. It’s highly recommended as it’s more stable than the browser entry point, especially on the newest firmware.
+Haxchi is not required, however, if you want to use homebrew on your Wii U while offline you will need it. Il est fortement recommandé car il est plus stable que le point d'entrée du navigateur, en particulier sur les versions les plus récentes du logiciel système.
 
-The cheapest DS VC games usable for this exploit:
- - Dr. Kawashima's Brain Training [PAL]
+Les jeux Console Virtuelle DS les moins chers utilisables pour cet exploit :
+ - Programme d’Entraînement Cérébral du Dr Kawashima: Quel âge a votre cerveau ? [PAL]
  - Brain Age: Train Your Brain in Minutes a Day! [USA]
  - Kawashima: Motto Nou wo Kitaeru Otona no DS Training [JPN]
 
-### Can I install games from my USB instead of SD?
+### Puis-je installer des jeux à partir d'un appareil USB au lieu de la carte SD ?
 
-Yes. It is, however, a bit more complicated than installing from SD Card. Detailed instructions are in the `Install from USB` tab in the [Dumping guide](dump-games).
+Yes. It is, however, a bit more complicated than installing from SD Card. Des instructions détaillées se trouvent dans l'onglet `Installer depuis l'USB` dans le guide de [dumping](dump-games).
 
 ### How to Delete Update Folder to Block Updates on Wii U
 
 If you want to delete the update folder to block updates, see its tab in the [Blocking Updates guide](block-updates).
 
-### What SD Card size is recommended?
+### Quelle est la taille recommandée pour une carte SD ?
 
  - **Installing game backups:** 32 GB  (Smaller size may be used, but certain titles are 20 GB in size)
  - **Running game mods:** 8 GB  (FAT32 USB drive may be used as well for mods)
