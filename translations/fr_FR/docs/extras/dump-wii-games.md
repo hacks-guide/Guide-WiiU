@@ -1,8 +1,8 @@
-# Dumping Original Wii Discs
+# Dumper des disques de la Wii originale
 ---
-Dumping your Discs allows you to: play them on a Wii emulator (namely Dolphin), play them using a USB/SD Card loader such as Wiiflow, make Virtual Console injects that can be installed on a Wii U formatted USB drive or the NAND and launched from the Wii U Menu.
+Dumper vos diques vous permet de : les lire sur un émulateur Wii (à savoir Dolphin), les lire en utilisant un lanceur supportant les cartes SD et appareils USB tel que Wiiflow, faire des injections Console Virtuelle qui peuvent être installées sur une clé USB formatée par la Wii U ou sur la NAND et lancées depuis le menu Wii U.
 
-?> Dumping Wii games require a working Homebrew setup on vWii, so make sure to finish the [vWii Modding guide](vwii-modding) beforehand.
+?> Dumper des jeux Wii nécessite une installation fonctionnelle de Homebrew sur la vWii, alors assurez-vous de terminer le [Modding de la vWii](vwii-modding) au préalable.
 
 ### Ce dont vous avez besoin
 
@@ -13,17 +13,17 @@ Dumping your Discs allows you to: play them on a Wii emulator (namely Dolphin), 
 
 1. Insert your Wii U's SD Card into your computer
 1. Copy the `apps` folder from the `CleanRip-v2.1.1.zip` file to the root of your SD Card
-1. Copy the `wii.dat` file to the root of your SD Card
+1. Copiez le fichier `wii.dat` vers la racine de votre carte SD
 1. Take the SD Card out of your computer and plug it into your Wii U console.
 
-### Dumping The Disc
+### Dumping du disque
 
-1. Turn on your Wii U then choose the Wii Menu icon to boot up in vWii
-1. Launch the Homebrew Channel
-1. Launch CleanRip
+1. Allumez votre Wii U puis choisissez l'icône Menu Wii pour démarrer dans la vWii
+1. Lancez la Chaîne Homebrew
+1. Lancez CleanRip
 1. Read the Disclaimer then press A
-1. Select Yes to enable Checksum Calculations
-1. Select either USB or SD Card depending on which device you want to use for the dumping process
+1. Sélectionnez Yes pour activer les calculs de la somme de contrôle
+1. Select either USB or Front SD depending on which device you want to use for the dumping process
  - Please note that the device you will choose needs to be formatted either in FAT32 or NTFS
 1. Press A to continue
 1. Select No on the screen that asks you to download redump.org DAT files
