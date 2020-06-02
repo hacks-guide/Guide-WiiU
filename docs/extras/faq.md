@@ -31,7 +31,7 @@ If you want to delete the update folder to block updates, see its tab in the [Bl
 
 **Recommended brands:** SanDisk, Samsung or PNY
 
-?> Note: Avoid class 4 SD Cards, and avoid eBay
+?> Note: Avoid class 4 SD Cards, and avoid eBay!
 
 ### Can I install homebrew on Wii U with a USB instead of SD Card?
 
