@@ -31,7 +31,6 @@ For live support with this guide please visit us in **#wiiu-assistance** on the 
 > - Dump your Wii U game discs to a format that can be installed on your internal or external Wii U storage drive.
 >
 
-
 ### End Goal
 
 > This guide has the end goal of taking a completely unmodified Wii U from stock to Custom Firmware.
@@ -45,9 +44,9 @@ For live support with this guide please visit us in **#wiiu-assistance** on the 
 >
 > You will need the following in order to successfully follow this guide:
 >
-> - An SD Card.
-> - A device such as a computer to place files onto the SD Card.
-> - A Wii U with internet access.
+> - An SD Card
+> - A device such as a computer to place files onto the SD Card
+> - A Wii U with internet access
 >
 > Your SD Card should preferably be 32 gigabytes large, as a full NAND backup for the console will take up around 8 or 30 gigabytes depending on your model.
 
