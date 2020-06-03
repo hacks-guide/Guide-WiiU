@@ -59,9 +59,9 @@ Denne siden vil hjelpe deg med å gjenopprette en korrupt IOS i vWii.
 1. Skriv inn IP-adressen som vist på Wii U skjermen, i feltet `Host` øverst i vinduet og klikk på `Quickconnect`.
 1. I FileZilla, naviger til `/slccmpt01/title/00000001`.
 1. Gå til [denne siden](ios-folders) for å se hvilken mappe/ticket du må slette.
-1. Delete the corresponding folders of the IOSes you want to recover.
-1. Navigate to `/slccmpt01/ticket/00000001`.
-1. Delete the corresponding `.tik` files of the IOSes you want to recover.
+1. Slett tilsvarende mapper av iOSene du ønsker å gjenvinne.
+1. Naviger til `/slccmpt01/ticket/00000001`.
+1. Slett tilsvarende `.tik` filer for IOS'ene du vil gjenopprette.
 1. Start `overwrite-wiiu-titlehash.exe` filen som vi lasted ned tidligere.
 1. Skriv inn Wii U konsollens IP-adresse og trykk Enter.
 1. Vent til den er ferdig.
@@ -81,9 +81,9 @@ Denne siden vil hjelpe deg med å gjenopprette en korrupt IOS i vWii.
 1. Skriv inn IP-adressen som vist på Wii U skjermen, i feltet `Host` øverst i vinduet og klikk på `Quickconnect`.
 1. I FileZilla, naviger til `/slccmpt01/title/00000001`.
 1. Gå til [denne siden](ios-folders) for å se hvilken mappe/ticket du må slette.
-1. Delete the corresponding folders of the IOSes you want to recover.
-1. Navigate to `/slccmpt01/ticket/00000001`.
-1. Delete the corresponding `.tik` files of the IOSes you want to recover.
+1. Slett tilsvarende mapper av iOSene du ønsker å gjenvinne.
+1. Naviger til `/slccmpt01/ticket/00000001`.
+1. Slett tilsvarende `.tik` filer for IOS'ene du vil gjenopprette.
 1. Åpne opp et terminalvindu.
 1. Skriv: `cd <directory>`.
  - På macOS er det vanligste stedet å finne nedlastede filer i `/Brukere/brukernavn/Nedlastninger`.
