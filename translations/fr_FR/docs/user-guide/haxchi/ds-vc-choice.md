@@ -2,8 +2,8 @@
 
 ## Choisissez votre jeu DS VC
 
-The first thing to decide is what DS Virtual Console ("VC") game you will buy.  
-Please note that the game you injected Haxchi/CBHC into will not be playable anymore until you uninstall Haxchi/CBHC and reinstall the game from the eShop.
+La première chose à faire est de décider quel jeu de la console virtuelle DS ("VC") vous allez acheter.  
+Veuillez noter que le jeu dans lequel vous avez injecté Haxchi/CBHC ne sera plus jouable tant que vous n'aurez pas désinstallé Haxchi/CBHC et réinstallé le jeu depuis la boutique en ligne.
 
 ### Jeux DS VC compatibles
 
