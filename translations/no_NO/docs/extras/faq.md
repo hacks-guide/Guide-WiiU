@@ -31,7 +31,7 @@ Hvis du vil slette update mappa for å blokkere systemoppdateringer, skjekk ut h
 
 **Anbefalte merkevarer:** SanDisk, Samsung eller PNY
 
-?> Note: Avoid class 4 SD Cards, and avoid eBay!
+?> Merk: Unngå class 4 SD-kort, og kort fra eBay!
 
 ### Kan jeg installere homebrew på Wii U med et USB penn i stedenfor ett SD-kort?
 
