@@ -2,11 +2,11 @@
 
 En guide i samarbeid med Nintendo Homebrew's Helpers og Staff, fra urørt konsoll til CBHC Custom Firmware.
 
-?> **Discord Hjelp** For direkte støtte med denne guiden, kan du snakke med oss i **#wiiu-assistance** på [Nintendo Homebrew Discord](https://discord.gg/C29hYvh) kanalen og spørre om hjelp på engelsk. Please read the FAQ first to see if your question has already been answered.
+?> **Discord Hjelp** For direkte støtte med denne guiden, kan du snakke med oss i **#wiiu-assistance** på [Nintendo Homebrew Discord](https://discord.gg/C29hYvh) kanalen og spørre om hjelp på engelsk. Les FAQ først for å se om spørsmålet ditt allerede har blitt besvart.
 
-> If you appreciate this guide, we accept [donations](donations).
+> Hvis du setter pris på denne guiden, godtar vi [donasjoner](donations).
 
-> For complete guides to homebrew and custom firmware for other devices, check out [hacks.guide](https://hacks.guide).
+> For flere guider til homebrew og custom firmware til andre konsoller, skjekk ut [hacks.guide](https://hacks.guide).
 
 ### Homebrew
 
