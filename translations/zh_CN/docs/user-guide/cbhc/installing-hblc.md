@@ -6,9 +6,9 @@ This page will install the Homebrew Launcher Channel as an application directly 
 
 ?> This page is only for Haxchi and CBHC users. The Home-Menu Homebrew Launcher Channel will **not** work with Mocha CFW!
 
-### Instructions
+### 说明
 
-1. Power on your console
+1. Power on your console.
 1. Press the Home button during the `Autobooting...` screen to get into the boot menu.
 1. Select `Boot Homebrew Launcher` to launch the Homebrew Launcher.
 1. Navigate the Homebrew Launcher and launch the WUP Installer GX2 app.
