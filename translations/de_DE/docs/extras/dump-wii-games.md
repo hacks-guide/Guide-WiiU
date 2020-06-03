@@ -1,47 +1,47 @@
-# Dumping Original Wii Discs
+# Kopieren originaler Wii Disks
 ---
-Dumping your Discs allows you to: play them on a Wii emulator (namely Dolphin), play them using a USB/SD Card loader such as Wiiflow, make Virtual Console injects that can be installed on a Wii U formatted USB drive or the NAND and launched from the Wii U Menu.
+Kopieren deiner Disks ermöglicht dir: sie auf einem Wii Emulator (insbesondere Dolphin) zu spielen, sie per USB/SD Karte via Wiiflow zu spielen, Virtual Console Injektionen zu erstellen sodass diese auf eine Wii U formatierte USB Platte installiert und vom Wii U Menü aus gestartet werden können.
 
-?> Dumping Wii games require a working Homebrew setup on vWii, so make sure to finish the [vWii Modding guide](vwii-modding) beforehand.
+?> Dumping Wii Spiele erfordern ein funktionierendes Homebrew Setup auf vWii, also vergewissern Sie sich, dass Sie vorher den [vWii Modding Guide](vwii-modding) fertigzustellen.
 
-### What You Need
+### Was Du Brauchst
 
-1. The latest release of [CleanRip](https://github.com/emukidid/cleanrip/releases/download/2.1.1/CleanRip-v2.1.1.zip)
-1. The [wii.dat](https://github.com/emukidid/cleanrip/releases/download/2.1.1/wii.dat) file
+1. Die neueste Version von [CleanRip](https://github.com/emukidid/cleanrip/releases/download/2.1.1/CleanRip-v2.1.1.zip)
+1. Die [wii.dat](https://github.com/emukidid/cleanrip/releases/download/2.1.1/wii.dat) Datei
 
-### Instructions
+### Anleitungen
 
-1. Insert your Wii U's SD Card into your computer
-1. Copy the `apps` folder from the `CleanRip-v2.1.1.zip` file to the root of your SD Card
-1. Copy the `wii.dat` file to the root of your SD Card
-1. Take the SD Card out of your computer and plug it into your Wii U console.
+1. Lege die SD-Karte deiner Wii U in deinen Computer ein
+1. Kopiere den Ordner `apps` aus der Datei `CleanRip-v2.1.1.zip` in das Stammverzeichnis deiner SD-Karte
+1. Kopiere die `wii.dat` Datei in das Stammverzeichnis deiner SD-Karte
+1. Nimm die SD-Karte aus deinem Computer heraus und stecke sie in deine Wii U-Konsole.
 
-### Dumping The Disc
+### Kopieren der Disk
 
-1. Turn on your Wii U then choose the Wii Menu icon to boot up in vWii
-1. Launch the Homebrew Channel
-1. Launch CleanRip
-1. Read the Disclaimer then press A
-1. Select Yes to enable Checksum Calculations
-1. Select either USB or Front SD depending on which device you want to use for the dumping process
- - Please note that the device you will choose needs to be formatted either in FAT32 or NTFS
-1. Press A to continue
-1. Select No on the screen that asks you to download redump.org DAT files
-1. Insert your disc then press A
-1. Go [on this page](https://wiki.dolphin-emu.org/index.php?title=Category:Dual_Layer_Disc_games) to see if your disc is dual-layered
-1. Set everything to match the following:
- - Dual Layer `Yes/No` (Select `Yes` if your game's disc is dual-layered)
+1. Schalte deine Wii U ein und wähle dann das Wii Menü Icon aus um in die vWii zu starten.
+1. Starte den Homebrew Channel.
+1. CleanRip starten.
+1. Lies den Haftungsausschluss und drücke dann A.
+1. Wählen Sie Ja aus, um Prüfsummenberechnungen zu aktivieren.
+1. Select either USB or Front SD depending on which device you want to use for the dumping process.
+ - Bitte beachte, dass das gewählte Gerät entweder in FAT32 oder NTFS formatiert sein muss.
+1. Drücke A, um fortzufahren.
+1. Wähle Nein auf dem Bildschirm aus der dich dazu auffordert die redump.org DAT Dateien herunterzuladen.
+1. Schiebe die Disk ein und drücke dann A.
+1. Gehe [zu dieser Seite](https://wiki.dolphin-emu.org/index.php?title=Category:Dual_Layer_Disc_games) um herauszufinden ob deine Disk dual-layered ist.
+1. Alles auf Folgendes einstellen:
+ - Dual Layer `Yes/No` (Wähle `Yes` falls dein Spiel dual-layered ist)
  - Chunk Size `Max`
  - New device per chunk `No`
-1. If you want to dump multiple discs, select Yes to remember your settings. If not, select No.
+1. Wenn du mehrere Disks kopieren möchtest, wähle Yes um deine Einstellungen zu speichern. Falls nicht, wähle No.
 
-?> Be prepared to wait a while. The dumping process can take 30 minutes to 1 hour depending on your SD Card's speeds.
+?> Stell dich darauf ein, eine Weile zu warten. Der Kopiervorgang kann, je nach Geschwindigkeit deiner SD-Karte, 30 Minuten bis hin zu einer Stunde dauern.
 
-### Joining Split Files
+### Gesplittete Dateien zusammenfügen
 
-?> If you dumped the disc on a FAT32 formatted, device, you should've got at least 2 files that end with `.partX.iso`. They need to be joined up.
+?> falls du die Disk auf ein FAT32 formatiertes Gerät kopiert hast, solltest du mindestens 2 Dateien erhalten haben, die mit `.partX.iso` enden. Diese müssen zusammengeführt werden.
 
-1. Copy all the files that share the same name and end with `.partX.iso` in a folder on your computer
-1. Open up a Command Prompt window
-1. Use the `cd <path>` command and replace `<path>` by the path to your `.partX.iso` files
-1. Use the following command as is: `copy /b *.part?.iso game.iso`
+1. Kopiere alle Dateien, die den gleichen Namen teilen und endet mit `.partX.iso` in einem Ordner auf deinem Computer.
+1. Öffne ein Befehlsaufforderungsfenster.
+1. Verwende den Befehl `cd <path>` und ersetze Sie `<path>` durch den Pfad zu deinen `.partX.iso` Dateien.
+1. Benutze den folgenden Befehl wie folgt: `copy /b *.part?.iso game.iso`.
