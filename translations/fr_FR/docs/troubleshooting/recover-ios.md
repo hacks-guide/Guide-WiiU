@@ -52,7 +52,7 @@ Cette page vous guidera à travers le processus de récupération d'un IOS corro
 
 #### **Windows**
 
-1. Allumez votre Wii U et lancez le CFW de votre choix (Mocha, Haxchi ou CBHC).
+1. Power on your Wii U and launch the CFW of your choice (Mocha, Haxchi or CBHC)testing.
 1. Lancer le Homebrew Launcher.
 1. Lancer FTPiiU Everywhere.
 1. Lancer FileZilla.
