@@ -12,4 +12,4 @@
 - [![Discord](https://icongr.am/simple/discord.svg?colored&size=16)Discord](https://discord.gg/C29hYvh)
 - [![Oversett guiden](https://icongr.am/material/translate.svg?color=808080&size=16)Oversett guiden](https://hacks-guide.crowdin.com/u/projects/10)
 - [Donate](donations)
-- [About](../../about)
+- [Om denne guiden](../../about)
