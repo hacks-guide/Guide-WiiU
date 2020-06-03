@@ -9,7 +9,7 @@ Dumping your Discs allows you to: play them on a Wii emulator (namely Dolphin), 
 1. The latest release of [CleanRip](https://github.com/emukidid/cleanrip/releases/download/2.1.1/CleanRip-v2.1.1.zip)
 1. The [wii.dat](https://github.com/emukidid/cleanrip/releases/download/2.1.1/wii.dat) file
 
-### Instructions
+### 说明
 
 1. Insert your Wii U's SD Card into your computer
 1. Copy the `apps` folder from the `CleanRip-v2.1.1.zip` file to the root of your SD Card
@@ -18,17 +18,17 @@ Dumping your Discs allows you to: play them on a Wii emulator (namely Dolphin), 
 
 ### Dumping The Disc
 
-1. Turn on your Wii U then choose the Wii Menu icon to boot up in vWii
-1. Launch the Homebrew Channel
-1. Launch CleanRip
-1. Read the Disclaimer then press A
-1. Select Yes to enable Checksum Calculations
-1. Select either USB or Front SD depending on which device you want to use for the dumping process
- - Please note that the device you will choose needs to be formatted either in FAT32 or NTFS
-1. Press A to continue
-1. Select No on the screen that asks you to download redump.org DAT files
-1. Insert your disc then press A
-1. Go [on this page](https://wiki.dolphin-emu.org/index.php?title=Category:Dual_Layer_Disc_games) to see if your disc is dual-layered
+1. Turn on your Wii U then choose the Wii Menu icon to boot up in vWii.
+1. Launch the Homebrew Channel.
+1. Launch CleanRip.
+1. Read the Disclaimer then press A.
+1. Select Yes to enable Checksum Calculations.
+1. Select either USB or Front SD depending on which device you want to use for the dumping process.
+ - Please note that the device you will choose needs to be formatted either in FAT32 or NTFS.
+1. Press A to continue.
+1. Select No on the screen that asks you to download redump.org DAT files.
+1. Insert your disc then press A.
+1. Go [on this page](https://wiki.dolphin-emu.org/index.php?title=Category:Dual_Layer_Disc_games) to see if your disc is dual-layered.
 1. Set everything to match the following:
  - Dual Layer `Yes/No` (Select `Yes` if your game's disc is dual-layered)
  - Chunk Size `Max`
@@ -41,7 +41,7 @@ Dumping your Discs allows you to: play them on a Wii emulator (namely Dolphin), 
 
 ?> If you dumped the disc on a FAT32 formatted, device, you should've got at least 2 files that end with `.partX.iso`. They need to be joined up.
 
-1. Copy all the files that share the same name and end with `.partX.iso` in a folder on your computer
-1. Open up a Command Prompt window
-1. Use the `cd <path>` command and replace `<path>` by the path to your `.partX.iso` files
-1. Use the following command as is: `copy /b *.part?.iso game.iso`
+1. Copy all the files that share the same name and end with `.partX.iso` in a folder on your computer.
+1. Open up a Command Prompt window.
+1. Use the `cd <path>` command and replace `<path>` by the path to your `.partX.iso` files.
+1. Use the following command as is: `copy /b *.part?.iso game.iso`.
