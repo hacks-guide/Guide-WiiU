@@ -4,7 +4,7 @@ Denne guiden er skrevet av staff fra [Nintendo Homebrew Discord Server](https://
 
 > **Forfattere**
 > 
-> **Elpunical, FlimFlam69, Flump, Hiperhazz, huhen, Link5261, NoahAbc12345, Profanity, and redcubie.**
+> **Elpunical, FlimFlam69, Flump, Hiperhazz, huhen, Link5261, NoahAbc12345, Profanity, og redcubie.**
 > 
 > Takk til [alle andre ](https://github.com/hacks-guide/Guide-WiiU/graphs/contributors) som bidrar til guiden på GitHub.
 
@@ -47,6 +47,6 @@ Denne guiden er skrevet av staff fra [Nintendo Homebrew Discord Server](https://
 > 
 > - **FIX94** for [Wuphax](https://github.com/FIX94/wuphax).
 > 
-> - **GaryOderNichts** for [Indexiine-Installer](https://github.com/GaryOderNichts/indexiine-installer), [UFDiine](https://github.com/GaryOderNichts/UFDiine/releases), and the fixed version of the [Homebrew Launcher Channel](https://github.com/GaryOderNichts/homebrew_launcher/)
+> - **GaryOderNichts** for [Indexiine-Installer](https://github.com/GaryOderNichts/indexiine-installer), [UFDiine](https://github.com/GaryOderNichts/UFDiine/releases), og for en fix for [Homebrew Launcher Channel](https://github.com/GaryOderNichts/homebrew_launcher/)
 > 
 > - **GabyPCgeeK** og **Ryuzaki-MrL** for [SaveMii mod](https://github.com/GabyPCgeeK/savemii)
