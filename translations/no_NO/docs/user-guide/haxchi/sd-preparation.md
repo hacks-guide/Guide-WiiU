@@ -14,7 +14,7 @@ Her vil vi plassere de nødvendige CFW-filene og noen ekstra homebrew filer på 
 - [Homebrew Launcher](https://github.com/dimok789/homebrew_launcher/releases/tag/1.4) Versjon 1.4
   - Du må laste ned `homebrew_launcher.v.1.4.zip`
 - Siste utgave av [WUP Installer GX2](http://wiiubru.com/appstore/zips/wup_installer_gx2.zip)
-- The latest release of [The Homebrew Launcher Channel](https://github.com/GaryOderNichts/homebrew_launcher/releases/tag/v2.1_fix)
+- Siste utgave av [Homebrew Launcher Channel](https://github.com/GaryOderNichts/homebrew_launcher/releases/tag/v2.1_fix)
   - You will need to download the `homebrew_launcher_channel.v2.1_fix.zip` file.
 - Siste utgave av [Wii U NAND Dumper](https://github.com/koolkdev/wiiu-nanddumper/releases/latest)
 - Siste utgave av [Homebrew App Store](https://github.com/vgmoose/hbas/releases/latest)
