@@ -8,7 +8,7 @@ For tiden finnes det to måter å blokkere systemoppdateringer på Wii U:
 <!-- tabs:start -->
 
 #### **Slette "Update" Mappen**
-?> This method of update blocking is a bit more advanced than DNS Blocking and uses a homebrew app to modify system files. However, it has the advantage that the eShop's functionality will not be restricted.
+?> Denne metoden for å blokkere systemoppdateringer er litt mer avansert enn DNS blokkering og bruker en homebrew app for å modifisere systemfiler. However, it has the advantage that the eShop's functionality will not be restricted.
 1. Sett SD-kortet inn i PC'en din.
 1. Download and extract [UFDiine](https://github.com/GaryOderNichts/UFDiine/releases) to the root of your SD Card.
 1. Sett SD-kortet inn i Wii U konsollen og skru den på.
@@ -26,8 +26,8 @@ For tiden finnes det to måter å blokkere systemoppdateringer på Wii U:
 1. Du vil bli bedt om å legge inn en primær og sekundær DNS. Oppgi følgende IP adresser:
  - Primary DNS: 168.235.092.108
  - Secondary DNS: 081.004.127.020 <img src="docs/assets/img/DNS.png" alt="DNS-blokkering" />
-1. Click on confirm.
-1. Du blokkerer nå systemoppdateringer. In order to access the eShop, run the NNUPatcher app from the Homebrew Launcher before launching the eShop.
+1. Klikk på "confirm".
+1. Du blokkerer nå systemoppdateringer. Men for å få tilgang til eShop igjen, må du starte nnu-patcher appen fra Homebrew Launcher før du starter eShop.
 
 
 <!-- tabs:end -->
