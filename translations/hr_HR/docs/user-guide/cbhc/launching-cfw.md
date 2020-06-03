@@ -6,14 +6,14 @@ Now that you have your NAND backup in case anything goes wrong later, you can ru
 
 Unlike systems such as the DSi, Wii, or 3DS, Wii U CFW is temporary. This means that as soon as your system reboots, you will lose CFW and have to follow these instructions again. This can be skipped by installing CBHC to a Haxchi CFW installation.
 
-!> Installing CBHC incorrectly can brick your Wii U. Make sure to follow the following rules when installing CBHC: <br>- The DS game has to be legitimately installed from the eShop <br>- Don't format the system while CBHC is installed <br>- Don't delete the user account that bought the DS VC game <br>- Don't re-install the same game using WUP Installer or from the eShop <br>- Don't install Haxchi over CBHC <br>- Don't uninstall the DS Virtual Console game without [properly uninstalling CBHC first](../uninstall-cbhc) <br>- Don't move the DS Virtual Console game to a USB drive
+!> Installing CBHC incorrectly can brick your Wii U. Make sure to follow the following rules when installing CBHC: <br>- The DS game has to be legitimately installed from the eShop! <br>- Don't format the system while CBHC is installed! <br>- Don't delete the user account that bought the DS Virtual Console game! <br>- Don't re-install the same game using WUP Installer or from the eShop! <br>- Don't install Haxchi over CBHC! <br>- Don't uninstall the DS Virtual Console game without [properly uninstalling CBHC first](../uninstall-cbhc)! <br>- Don't move the DS Virtual Console game to a USB drive!
 
 !> Breaking one of the above rules will result in a brick.
 
 ### Instructions
 
 1. Take the SD Card out of your PC and plug it into your Wii U.
-1. If you haven't already, now download your DS VC game of choice from the eShop.
+1. If you haven't already, now download your DS Virtual Console game of choice from the eShop.
 1. Launch the Homebrew Launcher on your system as [previously explained](browser-exploit).
 1. Navigate the Homebrew Launcher and open the Haxchi app.
 1. Use the DPAD to navigate the cursor to the game you want to install Haxchi to and press the A button to install it.
