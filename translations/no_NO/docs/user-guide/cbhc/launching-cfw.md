@@ -6,7 +6,7 @@ Nå som du har en NAND backup i tilfelle noe går galt senere, kan du kjøre CFW
 
 I motsetning til systemer som DSi, Wii eller 3DS, er Wii U CFW midlertidig. Dette betyr at så snart systemet starter på nytt, vil du miste CFW og må følge disse instruksjonene igjen. Det trenger du ikke ved å installere CBHC på en Haxchi CFW installasjon.
 
-!> Installing CBHC incorrectly can brick your Wii U. Make sure to follow the following rules when installing CBHC: <br>- The DS game has to be legitimately installed from the eShop! <br>- Don't format the system while CBHC is installed! <br>- Don't delete the user account that bought the DS Virtual Console game! <br>- Don't re-install the same game using WUP Installer or from the eShop! <br>- Don't install Haxchi over CBHC! <br>- Don't uninstall the DS Virtual Console game without [properly uninstalling CBHC first](../uninstall-cbhc)! <br>- Don't move the DS Virtual Console game to a USB drive!
+!> Hvis du installerer CBHC feil, så kan den bricke Wii U'en din. Sørg for å følge reglene ved installasjon av CBHC: <br>- DS spillet må være installert fra eShop! <br>- Ikke formater konsollen mens CBHC er installert! <br>- Ikke slett bruker kontoen som kjøpte DS VC spillet! <br>- Ikke installer spillet på nytt ved bruk av WUP installer eller fra eShop! <br>- Ikke installer Haxchi over CBHC! <br>- Don't uninstall the DS Virtual Console game without [properly uninstalling CBHC first](../uninstall-cbhc)! <br>- Don't move the DS Virtual Console game to a USB drive!
 
 !> Hvis du bryter en av reglene ovenfor, vil du "bricke" konsollen.
 
