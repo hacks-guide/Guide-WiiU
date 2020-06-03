@@ -10,7 +10,7 @@ Ved å Dumpe en Wii U Disk, kan du installere en kopi av spillet til system NAND
 
 #### **Installere til NAND**
 
-?> Installing a game to the system memory (NAND) is not recommended as it's limited to either 8GB or 32GB depending on your model, making you run out of space pretty quickly if you want to install multiple games.
+?> Det anbefales ikke å installere et spill til systemminnet (NAND) siden lagringsplassen er begrenset til enten 8gb eller 32gb avhengig av modellen din, det blir fort fullt hvis du ønsker å installere flere spill.
 
 ### Dette trenger du
 
