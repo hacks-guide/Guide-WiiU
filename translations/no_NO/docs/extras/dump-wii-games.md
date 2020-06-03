@@ -44,4 +44,4 @@ Dumping av Wii diskene dine lar deg spille dem på en Wii-emulator (Dolphin), sp
 1. Kopier alle filene som deler samme navn og slutter med `.partX.iso` i en mappe på PC'en din.
 1. Åpne opp et Command Prompt vindu.
 1. Skriv `cd <path>` og erstatt `<path>` med adressen til `.partX.iso` filene.
-1. Use the following command as is: `copy /b *.part?.iso game.iso`.
+1. Skriv `copy /b *.part?.iso game.iso`.
