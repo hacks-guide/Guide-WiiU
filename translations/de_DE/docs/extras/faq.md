@@ -1,6 +1,6 @@
 # FAQ {docsify-ignore-all}
 ---
-### Does Homebrew have any risks?
+### Hat Homebrew irgendwelche Risiken?
 
 Currently homebrewing the Wii U does not expose you to a risk of being banned by Nintendo unless you cheat in online games. You should, however, always be careful with launching downloaded homebrew, especially if you don't trust the source, as Homebrew can potentially damage your system!
 
