@@ -1,6 +1,6 @@
 # IOS-mapper og adresser
 ---
-?> Denne siden er primært ment til å bli brukt sammen med [Gjenopprette en korrupt IOS](recover-ios)
+?> Denne siden er primært ment til å bli brukt sammen med [Gjenopprette en korrupt IOS](recover-ios).
 
 ?> IOS mapper ligger i /slccmpt01/title/00000001
 
