@@ -10,7 +10,7 @@ Dumper vos disques vous permet d'installer une copie de votre jeu sur la NAND / 
 
 #### **Installer sur la NAND**
 
-?> Installer un jeu dans la mémoire système (NAND) n'est pas recommandé car elle est limitée à 8 ou 32 Go selon votre modèle, ce qui vous ferait manquer d'espace assez rapidement si vous souhaitez installer plusieurs jeux.
+?> Installing a game to the system memory (NAND) is not recommended as it's limited to either 8GB or 32GB depending on your model, making you run out of space pretty quickly if you want to install multiple games.
 
 ### Ce dont vous avez besoin
 
