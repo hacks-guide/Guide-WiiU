@@ -53,12 +53,12 @@ Denne siden vil hjelpe deg med å gjenopprette en korrupt IOS i vWii.
 #### **Windows**
 
 1. Slå på Wii U konsollen og start CFW (Mocha, Haxchi eller CBHC).
-1. Launch the Homebrew Launcher.
-1. Launch FTPiiU Everywhere.
-1. Launch FileZilla.
-1. Type in the IP address displayed by your Wii U in the `Host` field at the top of the window and click on `Quickconnect`.
-1. In FileZilla, navigate to `/slccmpt01/title/00000001`.
-1. Go to [this page](ios-folders) to see which folder/ticket you need to delete.
+1. Start Homebrew Launcher.
+1. Kjør FTPiiU Everywhere.
+1. Start FileZilla.
+1. Skriv inn IP-adressen som vist på Wii U skjermen, i feltet `Host` øverst i vinduet og klikk på `Quickconnect`.
+1. I FileZilla, naviger til `/slccmpt01/title/00000001`.
+1. Gå til [denne siden](ios-folders) for å se hvilken mappe/ticket du må slette.
 1. Delete the corresponding folders of the IOSes you want to recover.
 1. Navigate to `/slccmpt01/ticket/00000001`.
 1. Delete the corresponding `.tik` files of the IOSes you want to recover.
@@ -75,12 +75,12 @@ Denne siden vil hjelpe deg med å gjenopprette en korrupt IOS i vWii.
 ### **macOS & Linux**
 
 1. Slå på Wii U konsollen og start CFW (Mocha, Haxchi eller CBHC).
-1. Launch the Homebrew Launcher.
-1. Launch FTPiiU Everywhere.
-1. Launch FileZilla.
-1. Type in the IP address displayed by your Wii U in the `Host` field at the top of the window and click on `Quickconnect`.
-1. In FileZilla, navigate to `/slccmpt01/title/00000001`.
-1. Go to [this page](ios-folders) to see which folder/ticket you need to delete.
+1. Start Homebrew Launcher.
+1. Kjør FTPiiU Everywhere.
+1. Start FileZilla.
+1. Skriv inn IP-adressen som vist på Wii U skjermen, i feltet `Host` øverst i vinduet og klikk på `Quickconnect`.
+1. I FileZilla, naviger til `/slccmpt01/title/00000001`.
+1. Gå til [denne siden](ios-folders) for å se hvilken mappe/ticket du må slette.
 1. Delete the corresponding folders of the IOSes you want to recover.
 1. Navigate to `/slccmpt01/ticket/00000001`.
 1. Delete the corresponding `.tik` files of the IOSes you want to recover.
