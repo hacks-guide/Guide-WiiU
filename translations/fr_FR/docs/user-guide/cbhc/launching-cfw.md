@@ -6,14 +6,14 @@ Maintenant que vous avez votre sauvegarde de la NAND au cas où quelque chose se
 
 Contrairement aux consoles telles que la DSi, la Wii ou la 3DS, le CFW sur la Wii U est temporaire. Cela signifie que dès que votre console redémarre, vous perdrez le CFW et devrez suivre ces instructions à nouveau. Ceci peut être ignoré en installant CBHC sur une installation Haxchi CFW.
 
-!> Installer CBHC incorrectement peut briquer votre Wii U. Assurez-vous de respecter les règles suivantes lors de l'installation de CBHC : <br>- Le jeu DS doit être acheté et installé depuis l'eShop <br>- Ne formatez pas la console lorsque CBHC est installé <br>- Ne supprimez pas le compte utilisateur qui a acheté le jeu DS VC <br>- Ne réinstallez pas le même jeu en utilisant WUP Installer ou depuis l'eShop <br>- N'installez pas Haxchi par dessus CBHC <br>- Ne désinstallez pas le jeu Console Virtuelle DS sans [désinstaller CBHC en premier](../uninstall-cbhc) <br>- Ne déplacez pas le jeu Console Virtuelle DS sur un lecteur USB
+!> Installing CBHC incorrectly can brick your Wii U. Make sure to follow the following rules when installing CBHC: <br>- The DS game has to be legitimately installed from the eShop! <br>- Don't format the system while CBHC is installed! <br>- Don't delete the user account that bought the DS Virtual Console game! <br>- Don't re-install the same game using WUP Installer or from the eShop! <br>- Don't install Haxchi over CBHC! <br>- Don't uninstall the DS Virtual Console game without [properly uninstalling CBHC first](../uninstall-cbhc)! <br>- Don't move the DS Virtual Console game to a USB drive!
 
 !> Enfreindre l'une des règles ci-dessus engendrera un brick de la console.
 
 ### Instructions
 
 1. Sortez la carte SD de votre PC et insérez-la dans votre console Wii U.
-1. Si vous ne l'avez pas déjà fait, téléchargez votre jeu DS VC à partir de l'eShop.
+1. If you haven't already, now download your DS Virtual Console game of choice from the eShop.
 1. Lancez l'Homebrew Launcher sur votre console comme [expliqué précédemment](browser-exploit).
 1. Naviguez dans l'Homebrew Launcher et ouvrez l'application Haxchi.
 1. Utilisez la croix directionnelle pour déplacer le curseur sur le jeu dans lequel vous souhaitez installer Haxchi et appuyez sur le bouton A pour l'installer.
