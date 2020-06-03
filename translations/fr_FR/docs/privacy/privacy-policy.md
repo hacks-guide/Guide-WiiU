@@ -1,73 +1,73 @@
-# PRIVACY NOTICE
+# AVIS DE CONFIDENTIALITÉ
 
-**Last updated January 18, 2020**
-
-
-Thank you for choosing to be part of our community at Wii U Hacks Guide (“company”, “we”, “us”, or “our”). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about our policy, or our practices with regards to your personal information, please contact us at nh.wiiuguide@gmail.com.
-
-When you visit our website https://wiiu.hacks.guide, and use our services, you trust us with your personal information. We take your privacy very seriously. In this privacy notice, we describe our privacy policy. We seek to explain to you in the clearest way possible what information we collect, how we use it and what rights you have in relation to it. We hope you take some time to read through it carefully, as it is important. If there are any terms in this privacy policy that you do not agree with, please discontinue use of our Sites and our services.
-
-This privacy policy applies to all information collected through our website (such as https://wiiu.hacks.guide), and/or any related services, sales, marketing or events (we refer to them collectively in this privacy policy as the "**Sites**").
-
-**Please read this privacy policy carefully.**
+**Dernière mise à jour le 18 janvier 2020**
 
 
-## TABLE OF CONTENTS
+Merci d'avoir choisi de faire partie de notre communauté au Wii U Hacks Guide ("société", "nous", "notre" ou "nos"). Nous nous engageons à protéger vos informations personnelles et votre droit à la vie privée. Si vous avez des questions ou des préoccupations concernant notre politique ou nos pratiques relatives à vos informations personnelles, veuillez nous contacter à l'adresse suivante : nh.wiiuguide@gmail.com.
 
-[1. WHAT INFORMATION DO WE COLLECT?](privacy-policy?id=_1-what-information-do-we-collect)
+Lorsque vous visitez notre site web https://wiiu.hacks.guide et que vous utilisez nos services, vous nous confiez vos informations personnelles. Nous prenons votre vie privée très au sérieux. Dans cet avis de confidentialité, nous décrivons notre politique en matière de protection de la vie privée. Nous nous efforçons de vous expliquer le plus clairement possible quelles sont les informations que nous recueillons, comment nous les utilisons et quels sont vos droits en la matière. Nous espérons que vous prendrez le temps de le lire attentivement, car il est important. Si vous n'acceptez pas certaines conditions de la présente politique de confidentialité, veuillez cesser d'utiliser nos sites et nos services.
 
-[2. DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?](privacy-policy?id=_2-do-we-use-cookies-and-other-tracking-technologies)
+La présente politique de confidentialité s'applique à toutes les informations collectées par le biais de notre site web (tel que https://wiiu.hacks.guide), et/ou de tout service, vente, marketing ou événement connexe (nous les désignons collectivement dans la présente politique de confidentialité sous le nom de "**Sites**").
 
-[3. WHAT ARE YOUR PRIVACY RIGHTS?](privacy-policy?id=_3-what-are-your-privacy-rights)
-
-[4. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?](privacy-policy?id=_4-do-california-residents-have-specific-privacy-rights)
-
-[5. DO WE MAKE UPDATES TO THIS POLICY?](privacy-policy?id=_5-do-we-make-updates-to-this-policy)
-
-[6. HOW CAN YOU CONTACT US ABOUT THIS POLICY?](privacy-policy?id=_6-how-can-you-contact-us-about-this-policy)
+**Veuillez lire attentivement cette politique de confidentialité.**
 
 
+## TABLE DES MATIÈRES
 
-### 1. WHAT INFORMATION DO WE COLLECT? :id=_1-what-information-do-we-collect
+[1. QUELLES SONT LES INFORMATIONS QUE NOUS RECUEILLONS ?](privacy-policy?id=_1-what-information-do-we-collect)
 
-***In Short:*** *We do not collect any personal information.*
+[2. UTILISONS-NOUS DES COOKIES ET D'AUTRES TECHNOLOGIES DE SUIVI ?](privacy-policy?id=_2-do-we-use-cookies-and-other-tracking-technologies)
 
-We do not collect personal information in any shape or form. However, our hoster, [GitHub Pages](https://pages.github.com/) may collect personal information. For more information, see the [GitHub Privacy Statement](https://help.github.com/en/github/site-policy/github-privacy-statement)
+[3. QUELS SONT VOS DROITS EN MATIÈRE DE PROTECTION DE LA VIE PRIVÉE ?](privacy-policy?id=_3-what-are-your-privacy-rights)
 
+[4. LES RÉSIDENTS DE CALIFORNIE ONT-ILS DES DROITS SPÉCIFIQUES EN MATIÈRE DE VIE PRIVÉE ?](privacy-policy?id=_4-do-california-residents-have-specific-privacy-rights)
 
-### 2. DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES :id=_2-do-we-use-cookies-and-other-tracking-technologies
-***In Short:*** *We do not use cookies and other tracking technologies to collect and store your information.*
+[5. FAISONS-NOUS DES MISES À JOUR DE CETTE POLITIQUE ?](privacy-policy?id=_5-do-we-make-updates-to-this-policy)
 
-We do not use cookies and similar tracking technologies (like web beacons and pixels) to access or store information.
-
-
-### 3. WHAT ARE YOUR PRIVACY RIGHTS? :id=_3-what-are-your-privacy-rights
-
-***In Short:*** *In some regions, such as the European Economic Area, you have rights that allow you greater access to and control over your personal information. You may review, change, or terminate your account at any time.*
-
-In some regions (like the European Economic Area), you have certain rights under applicable data protection laws. These may include the right (i) to request access and obtain a copy of your personal information, (ii) to request rectification or erasure; (iii) to restrict the processing of your personal information; and (iv) if applicable, to data portability. In certain circumstances, you may also have the right to object to the processing of your personal information. To make such a request, please use the [contact details](privacy-policy?id=_6-how-can-you-contact-us-about-this-policy) provided below. We will consider and act upon any request in accordance with applicable data protection laws.
-
-If we are relying on your consent to process your personal information, you have the right to withdraw your consent at any time. Please note however that this will not affect the lawfulness of the processing before its withdrawal.
-
-If you are resident in the European Economic Area and you believe we are unlawfully processing your personal information, you also have the right to complain to your local data protection supervisory authority. You can find their contact details here: http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm
+[6. COMMENT POUVEZ-VOUS NOUS CONTACTER AU SUJET DE CETTE POLITIQUE ?](privacy-policy?id=_6-how-can-you-contact-us-about-this-policy)
 
 
-### 4. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS? :id=_4-do-california-residents-have-specific-privacy-rights
 
-***In Short:*** *Yes, if you are a resident of California, you are granted specific rights regarding access to your personal information.*
+### 1. QUELLES SONT LES INFORMATIONS QUE NOUS RECUEILLONS ? :id=_1-quelles-sont-les-informations-que-nous-recueillons
 
-California Civil Code Section 1798.83, also known as the “Shine The Light” law, permits our users who are California residents to request and obtain from us, once a year and free of charge, information about categories of personal information (if any) we disclosed to third parties for direct marketing purposes and the names and addresses of all third parties with which we shared personal information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to us using the contact information provided below.
+***En bref:*** *Nous ne recueillons aucune information personnelle.*
 
-If you are under 18 years of age, reside in California, and have a registered account with the Sites, you have the right to request removal of unwanted data that you publicly post on the Sites. To request removal of such data, please contact us using the contact information provided below, and include the email address associated with your account and a statement that you reside in California. We will make sure the data is not publicly displayed on the Sites, but please be aware that the data may not be completely or comprehensively removed from our systems.
-
-
-### 5. DO WE MAKE UPDATES TO THIS POLICY? :id=_5-do-we-make-updates-to-this-policy
-
-***In Short:*** *Yes, we will update this policy as necessary to stay compliant with relevant laws.*
-
-We may update this privacy policy from time to time. The updated version will be indicated by an updated “Revised” date and the updated version will be effective as soon as it is accessible. If we make material changes to this privacy policy, we may notify you either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to review this privacy policy frequently to be informed of how we are protecting your information.
+Nous ne recueillons pas d'informations personnelles sous quelque forme que ce soit. Cependant, notre hébergeur, [GitHub Pages](https://pages.github.com/) peut recueillir des informations personnelles. Pour plus d'informations, voir la [Déclaration de confidentialité de GitHub](https://help.github.com/en/github/site-policy/github-privacy-statement)
 
 
-### 6. HOW CAN YOU CONTACT US ABOUT THIS POLICY? :id=_6-how-can-you-contact-us-about-this-policy
+### 2. UTILISONS-NOUS DES COOKIES ET D'AUTRES TECHNOLOGIES DE TRAÇAGE :id=_2-est-ce-que-nous-utilisons-des-cookies-et-d'autres-technologies_de_suivi
+***En bref:*** *Nous n'utilisons pas les cookies et autres technologies de suivi pour collecter et stocker vos informations.*
 
-If you have questions or comments about this policy, you may email us at nh.wiiuguide@gmail.com
+Nous n'utilisons pas de cookies ni de technologies de suivi similaires (comme les pixels invisibles et les balises web) pour accéder à des informations ou les stocker.
+
+
+### 3. QUELS SONT VOS DROITS EN MATIÈRE DE PROTECTION DE LA VIE PRIVÉE ? :id=_3-quels-sont-vos-droits-en-matière-de-protection-de-la-vie-privée
+
+***En bref:*** *Dans certaines régions, comme l'Espace économique européen, vous disposez de droits qui vous permettent d'accéder à vos informations personnelles et de les contrôler plus facilement. Vous pouvez réviser, modifier ou résilier votre compte à tout moment.*
+
+Dans certaines régions (comme l'Espace économique européen), vous disposez de certains droits en vertu des lois applicables en matière de protection des données. Il peut s'agir du droit (i) de demander l'accès et d'obtenir une copie de vos informations personnelles, (ii) de demander la rectification ou l'effacement, (iii) de restreindre le traitement de vos informations personnelles et (iv) le cas échéant, de la portabilité des données. Dans certaines circonstances, vous pouvez également avoir le droit de vous opposer au traitement de vos informations personnelles. Pour faire une telle demande, veuillez utiliser les coordonnées [de contact](privacy-policy?id=_6-how-can-you-contact-us-about-this-policy) fournies ci-dessous. Nous examinerons toute demande et y donnerons suite conformément aux lois applicables en matière de protection des données.
+
+Si nous nous appuyons sur votre consentement pour traiter vos informations personnelles, vous avez le droit de retirer votre consentement à tout moment. Veuillez toutefois noter que cela n'affectera pas la légalité du traitement avant son retrait.
+
+Si vous résidez dans l'Espace économique européen et que vous pensez que nous traitons illégalement vos informations personnelles, vous avez également le droit de vous plaindre auprès de votre autorité locale de contrôle de la protection des données. Vous pouvez trouver leurs coordonnées ici : http://ec.europa.eu/justice/data-protection/bodies/authorities/index_fr.htm
+
+
+### 4. LES RÉSIDENTS DE CALIFORNIE ONT-ILS DES DROITS SPÉCIFIQUES EN MATIÈRE DE VIE PRIVÉE ? :id=_4-les-résidents-de-californie-ont-ils-des-droits-spécifiques-en-matière-de-vie-privée
+
+***En bref :*** *Oui, si vous êtes résident de Californie, vous bénéficiez de droits spécifiques concernant l'accès à vos informations personnelles.*
+
+La section 1798.83 du code civil californien, également connue sous le nom de loi "Shine The Light", permet à nos utilisateurs résidant en Californie de demander et d'obtenir de nous, une fois par an et gratuitement, des informations sur les catégories d'informations personnelles (le cas échéant) que nous avons divulguées à des tiers à des fins de marketing direct et les noms et adresses de tous les tiers avec lesquels nous avons partagé des informations personnelles au cours de l'année civile précédente. Si vous êtes un résident de Californie et que vous souhaitez faire une telle demande, veuillez nous soumettre votre demande par écrit en utilisant les coordonnées fournies ci-dessous.
+
+Si vous avez moins de 18 ans, que vous résidez en Californie et que vous possédez un compte enregistré sur les sites, vous avez le droit de demander la suppression des données indésirables que vous publiez publiquement sur les sites. Pour demander la suppression de ces données, veuillez nous contacter en utilisant les coordonnées fournies ci-dessous, et inclure l'adresse électronique associée à votre compte et une déclaration indiquant que vous résidez en Californie. We will make sure the data is not publicly displayed on the Sites, but please be aware that the data may not be completely or comprehensively removed from our systems.
+
+
+### 5. FAISONS-NOUS DES MISES À JOUR DE CETTE POLITIQUE ? :id=_5-faisons-nous-des-mises-à-jour-de-cette-politique
+
+***En bref:*** *Oui, nous mettrons à jour cette politique si nécessaire pour rester en conformité avec les lois pertinentes.*
+
+Nous pouvons mettre à jour cette politique de confidentialité de temps en temps. La version mise à jour sera indiquée par une date "Révisée" et la version mise à jour sera effective dès qu'elle sera accessible. Si nous apportons des modifications importantes à la présente politique de confidentialité, nous pouvons vous en informer soit en affichant de façon bien visible un avis de ces modifications, soit en vous envoyant directement une notification. Nous vous encourageons à consulter fréquemment cette politique de confidentialité pour être informés de la façon dont nous protégeons vos renseignements.
+
+
+### 6. COMMENT POUVEZ-VOUS NOUS CONTACTER AU SUJET DE CETTE POLITIQUE ? :id=_6-comment-pouvez-vous-nous-contacter-au-sujet-de-cette-politique
+
+Si vous avez des questions ou des commentaires sur cette politique, vous pouvez nous envoyer un e-mail à nh.wiiuguide@gmail.com
