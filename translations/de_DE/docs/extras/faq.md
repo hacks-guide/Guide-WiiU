@@ -23,26 +23,26 @@ Ja. Es ist jedoch ein bisschen komplizierter als die Installation von einer SD-K
 
 Falls du den Update Ordner löschen möchtest um Updates zu blockieren, lies dir den Tab [Blocking Updates guide](block-updates) durch.
 
-### What SD Card size is recommended?
+### Welche SD-Kartengröße wird empfohlen?
 
- - **Installing game backups:** 32 GB  (Smaller size may be used, but certain titles are 20 GB in size)
- - **Running game mods:** 8 GB  (FAT32 USB drive may be used as well for mods)
- - **Only running homebrew apps:** Any size
+ - **Spielbackups installieren:** 32 GB (Größe kann verwendet werden, aber bestimmte Titel sind 20 GB groß)
+ - **Spielemods nutzen:** 8 GB (FAT32 USB-Laufwerk kann auch für Mods verwendet werden)
+ - **Nur Homebrews:** Jede Größe
 
-**Recommended brands:** SanDisk, Samsung or PNY
+**Empfohlene Marken:** SanDisk, Samsung oder PNY
 
-?> Note: Avoid class 4 SD Cards, and avoid eBay!
+?> Hinweis: Vermeide Class 4 SD-Karten, und vermeide eBay!
 
-### Can I install homebrew on Wii U with a USB instead of SD Card?
+### Kann ich Homebrew auf meiner Wii U mit USB anstelle von einer SD-Karte installieren?
 
-No, you must have an SD Card for a first time setup, a USB can then be used to install game backups, VC injects, etc, but not to store Homebrew Apps which are required to set everything up.
+Nein, du benötigst eine SD-Karte für das erste Mal. USB kann dann verwendet werden, um Spielebackups zu installieren, VC Injektionen etc. Aber nicht um Homebrew Apps zu speichern die benötigt werden um alles einzurichten.
 
-### When extracting some of the files there are duplicates of certain ones called "info.json" & "manifest.install", what do I do with those?
+### Beim Extrahieren einiger Dateien gibt es Duplikate von "info.json" & "manifest.install", was mache ich mit damit?
 
-Nothing special, you can leave them there, delete them or replace them with new ones. Those files are not used in the process, therefore, won't have any impact by being or not being there.
+Nichts besonderes. Du kannst sie entweder dort lassen oder durch neue ersetzen. Diese Dateien werden nicht während des Installationsprozesses verwendet. Und sie werden daher nicht dadurch beeinflusst ob sie da sind oder nicht.
 
-### What is a Wii U formatted USB drive?
+### Was ist ein Wii U formatiertes USB Laufwerk?
 
-It's a USB drive that has been formatted by a Wii U console to its proprietary format.  
-A Wii U formatted USB drive ***cannot be read by any other devices than the Wii U that originally formatted it.***  
-If you ever want to use it with another Wii U console or any other devices, you will have to reformat it.
+Es ist ein USB-Laufwerk, das von einer Wii U Konsole in seinem proprietären Format formatiert wurde.   
+Ein Wii U formatiertes USB-Laufwerk ***kann von keinem anderen Gerät als der Wii U gelesen werden, die es ursprünglich formatiert hat. ***  
+Wenn du es jemals mit einer anderen Wii U Konsole oder einem anderen Gerät verwenden möchtest, musst du es neu formatieren.
