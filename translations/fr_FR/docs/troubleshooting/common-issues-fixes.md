@@ -1,40 +1,40 @@
-# Common Issues & Fixes {docsify-ignore-all}
+# Problèmes courants & Corrige {docsify-ignore-all}
 ---
-### Haxchi common errors
+### Les erreurs courantes de Haxchi
 
- - **-3:** No SD Card detected. Re-insert the SD Card and try again. Make sure the SD Card is in FAT32 format. If the error persists, try blowing into the SD slot as it can get dusty inside.
+ - **-3:** Aucune carte SD détectée. Réinsérez la carte SD et essayez à nouveau. Assurez-vous que la carte SD est au format FAT32. Si l'erreur persiste, essayez de souffler dans la fente SD car elle peut être poussiéreuse à l'intérieur.
 
- - **-4:** SD detected but could not mount. Check to see if the SD is using MBR and not GPT. Also, check to see if there are any other partitions on the SD Card and merge them into one primary partition.
+ - **-4:** SD détecté mais n'a pas pu être monté. Vérifiez si la carte SD utilise le MBR et non le GPT. Vérifiez également s'il existe d'autres partitions sur la carte SD et fusionnez-les en une seule partition primaire.
 
- - **-5:** Missing files on the SD. Check to see if your SD has Homebrew Launcher located in <code>/wiiu<wbr>/apps<wbr>/homebrew_launcher<wbr>/homebrew_launcher.elf</code>.
+ - **-5:** Fichiers manquants sur la carte SD. Vérifiez si votre carte SD a le Homebrew Launcher situé dans <code>/wiiu<wbr>/apps<wbr>/homebrew_launcher<wbr>/homebrew_launcher.elf</code>.
 
-### Browser errors
+### Erreurs du navigateur
 
- - **FSGetMountSource failed:** Same as -3 above, means no SD Card detected. Re-insert the SD and try again.
+ - **FSGetMountSource failed:** Même chose que -3 ci-dessus, signifie qu'aucune carte SD n'a été détectée. Réinsérer la carte SD et réessayer.
 
- - **FSOpenFile failed [...] payload.elf:** Missing payload file on SD. Make sure you have payload.elf in the wiiu folder.
+ - **FSOpenFile failed [...] payload.elf:** Fichier payload manquant sur la carte SD. Vérifiez que vous avez bien le fichier payload.elf dans le dossier wiiu.
 
- - **FSOpenFile failed:** Missing `homebrew_launcher` on SD. Make sure you have `homebrew_launcher.elf` in the <code>/wiiu<wbr>/apps<wbr>/homebrew_launcher</code> folder.
+ - **FSOpenFile failed:** Manque le `homebrew_launcher` sur la carte SD. Assurez-vous que vous avez `homebrew_launcher.elf` dans le dossier <code>/wiiu<wbr>/apps<wbr>/homebrew_launcher</code>.
 
-### Data Management asks to delete unnecessary data, what does it mean?
+### La gestion des données demande de supprimer les données inutiles, qu'est-ce que cela signifie ?
 
-This refers to leftover files from incomplete installs. Always choose Yes to delete this data, as it takes up space for no good reason. If it ever stays stuck on deleting the data in an infinite loop, you can manually delete the data yourself.  
-Use FTPiiU Everywhere and browse to `/storage_mlc/usr/import` then delete any files in the folder if any exists. This is where the partial installs exist after incomplete installs. It'll be `/storage_usb/usr/import` if installed to a USB.  
-The `import` folder should always be kept empty.
+Il s'agit des fichiers restants des installations incomplètes. Choisissez toujours Oui pour supprimer ces données, car elles prennent de la place sans raison valable. Si jamais il reste bloqué sur la suppression des données dans une boucle infinie, vous pouvez supprimer manuellement les données vous-même.  
+Utilisez FTPiiU Everywhere et naviguez jusqu'à `/storage_mlc/usr/import` puis supprimez tous les fichiers du dossier s'il en existe. C'est là que les installations partielles existent après les installations incomplètes. Ce sera `/storage_usb/usr/import` si installé sur un périphérique USB.  
+Le dossier `import` doit toujours être vide.
 
-### My HDD doesn't work or makes a weird clicking sound, what should I do?
+### Mon disque dur ne fonctionne pas ou émet un clic bizarre, que dois-je faire ?
 
-The reason behind that is that the Wii U doesn't give enough power through one USB port to use the Hard Drive.
+La raison en est que la Wii U ne donne pas assez de puissance via un port USB pour utiliser le disque dur.
 
-You can fix this by either using a powered HDD or using a Y-Cable to connect the HDD to two USB ports.
+Vous pouvez régler ce problème en utilisant soit un disque dur alimenté, soit un câble en Y pour connecter le disque dur à deux ports USB.
 
-If your HDD worked for some time and then stopped working for some games/all games, it is the same issue and can be fixed with the same methods.
+Si votre disque dur a fonctionné pendant un certain temps puis a cessé de fonctionner pour certains jeux/toutes les jeux, c'est le même problème et il peut être résolu avec les mêmes méthodes.
 
 ### Lors de l'extraction de certains fichiers, il y a des doublons de certains fichiers appelés "info.json" & "manifest.install", que dois-je faire avec ceux-ci ?
 
 Rien de spécial, vous pouvez les laisser là, les supprimer ou les remplacer par ceux que vous essayez de copier. Ces dossiers ne sont pas utilisés dans le processus, par conséquent, n'auront pas d'impact en étant ou en n'étant pas là.
 
-### My console suddenly lost online connectivity and I have an HDD sitting on top of the console, what should I do?
+### Ma console a soudainement perdu sa connectivité en ligne et j'ai un disque dur posé sur le dessus de la console, que dois-je faire ?
 
-The internal antenna may have been influenced by the hard drive magnet.  
-You can move the HDD to a different position atop the Wii U, or move it off the Wii U entirely.
+L'antenne interne peut avoir été influencée par l'aimant du disque dur.  
+Vous pouvez déplacer le disque dur vers une autre position au sommet de la Wii U, ou le déplacer entièrement hors de la Wii U.
