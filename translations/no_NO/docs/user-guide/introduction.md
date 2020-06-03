@@ -16,7 +16,7 @@ En guide i samarbeid med Nintendo Homebrew's Helpers og Staff, fra urørt konsol
 
 ### Custom Firmware
 
-> Custom Firmware ("CFW") enables you to use more advanced hacks that userland homebrew can’t easily do. Som for eksempel å installere spillmodifikasjoner. CFW kan settes opp på alle konsollene på den nyeste systemversjonen.
+> Custom Firmware ("CFW") gjør det mulig for deg å bruke hacks som userland homebrew ikke kan kjøre på egenhånd. Som for eksempel å installere spillmodifikasjoner. CFW kan settes opp på alle konsollene på den nyeste systemversjonen.
 
 ### Hva Homebrew & CFW Kan Brukes Til
 >
@@ -30,11 +30,11 @@ En guide i samarbeid med Nintendo Homebrew's Helpers og Staff, fra urørt konsol
 
 ### Målet Med Guiden
 
-> This guide has the end goal of taking a completely unmodified Wii U from stock to custom firmware.
+> Målet med denne guiden er å gå fra en umodifisert konsoll til å kjøre custom firmware.
 
 ### Før Du Starter
 
-!> Before beginning the guide, you must know the risks of Wii U hacking: **EVERY** time you modify your system, there is always the potential for an **UNRECOVERABLE** brick. They’re rare but still a possibility so make sure you follow **ALL** directions **EXACTLY!**
+!> Før du starter guiden, må du være klar over risikoen ved å hacke en Wii U konsoll: **HVER** gang du endrer systemfiler, kan du potensielt **"BRICKE"** konsollen. Det skjer sjeldent, men det er fortsatt mulig så følg **ALLE** trinnene **NØYAKTIG!**
 >
 > Denne guiden fungerer med alle Wii U konsoller i alle regioner på firmware 5.5.4 eller lavere.
 > 
