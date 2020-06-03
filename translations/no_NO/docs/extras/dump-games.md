@@ -10,7 +10,7 @@ Ved å Dumpe en Wii U Disk, kan du installere en kopi av spillet til system NAND
 
 #### **Installere til NAND**
 
-?> Det anbefales ikke å installere et spill til systemminnet (NAND) siden lagringsplassen er begrenset til enten 8gb eller 32gb avhengig av modellen din, det blir fort fullt hvis du ønsker å installere flere spill.
+?> Installing a game to the system memory (NAND) is not recommended as it's limited to either 8GB or 32GB depending on your model, making you run out of space pretty quickly if you want to install multiple games.
 
 ### Dette trenger du
 
@@ -24,7 +24,7 @@ Ved å Dumpe en Wii U Disk, kan du installere en kopi av spillet til system NAND
 1. Pakk ut `disc2app.zip` til roten av SD-kortet.
 1. Ta SD-kortet ut av PCen og sett det inn i Wii U konsollen.
 1. Slå på Wii U konsollen.
-1. Eject your game disc if you have one inserted.
+1. Ta ut spill-disken hvis du allerede har satt den inn.
 1. Start Homebrew Launcher og kjør disc2app.
 1. Trykk på A knappen for å starte dumpingen til SD-kortet.
 1. Sett inn spill-disken du vil dumpe når du får beskjed om det.
