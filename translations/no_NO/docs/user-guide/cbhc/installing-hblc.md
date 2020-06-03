@@ -8,7 +8,7 @@ Denne siden vil hjelpe deg med å installere Homebrew Launcher Channel som et pr
 
 ### Instruksjoner
 
-1. Slå på Wii U konsollen
+1. Slå på Wii U konsollen.
 1. Trykk på Home-knappen under `Autobooting...` vindu for å komme deg inn i oppstartsmenyen.
 1. Velg `Boot Homebrew Launcher` for å starte Homebrew Launcher.
 1. Start WUP Installer GX2 appen.
