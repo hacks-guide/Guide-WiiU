@@ -52,7 +52,7 @@ This page will guide you through the process of recovering a corrupted IOS on yo
 
 #### **Windows**
 
-1. Power on your Wii U and launch the CFW of your choice (Mocha, Haxchi or CBHC).
+1. Power on your Wii U and launch the CFW of your choice (Mocha, Haxchi or CBHC)testing.
 1. Starte den Homebrew Launcher.
 1. Launch FTPiiU Everywhere.
 1. Launch FileZilla.
