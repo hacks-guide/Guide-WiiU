@@ -1,8 +1,8 @@
 # Mocha - Indexiine
 
-## Making a NAND Backup {docsify-ignore}
+## Erstellen eines NAND Backups {docsify-ignore}
 
-In case anything should go wrong in the later process and your Wii U ends up bricked, restoring a previously made NAND backup can fix it.
+Für den Fall dass etwas schiefgeht und deine Wii U am Ende brickt, kann ein zuvor erstelltes NAND Backup deine Konsole retten.
 
 ### Anleitungen
 
