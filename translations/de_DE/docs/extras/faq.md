@@ -2,26 +2,26 @@
 ---
 ### Hat Homebrew irgendwelche Risiken?
 
-Currently homebrewing the Wii U does not expose you to a risk of being banned by Nintendo unless you cheat in online games. You should, however, always be careful with launching downloaded homebrew, especially if you don't trust the source, as Homebrew can potentially damage your system!
+Zurzeit bringt Homebrew auf der Wii U keine Risiken mit sich, oder die Gefahr von Nintendo gebannt zu werden, es sei denn, du betrügst in Online Spielen. Du solltest jedoch vorsichtig sein, heruntergeladene Homebrews aus unbekannten Quellen auszuführen dessen Herkunft du nicht kennst, da Homebrew potenziell dein System beschädigen kann!
 
-### What is Haxchi, and do I need it?
+### Was ist Haxchi, und brauche ich es?
 
-Haxchi is a secondary entry point which uses certain DS Virtual Console titles to allow for access to homebrew while being completely offline (still works with online but no connection required to launch CFW)
+Haxchi ist ein sekundärer Einstiegspunkt, welcher bestimmte DS Virtual Console Titel verwendet, um den Zugriff auf Homebrew während des kompletten Offline-Betriebs zu ermöglichen (funktioniert immer noch online, aber keine Verbindung, um CFW zu starten)
 
-Haxchi is not required, however, if you want to use homebrew on your Wii U while offline you will need it. It’s highly recommended as it’s more stable than the browser entry point, especially on the newest firmware.
+Haxchi ist nicht erforderlich, jedoch, falls du Homebrew auf deiner Wii U offline ausführen möchtest, brauchst du es. Es ist sehr empfehlenswert, da es stabiler ist als der Browser Exploit Einstiegspunkt, insbesondere auf der neuesten Firmware.
 
-The cheapest DS VC games usable for this exploit:
+Die günstigsten DS VC Spiele für die Ausnutzung sind:
  - Dr. Kawashima's Brain Training [PAL]
  - Brain Age: Train Your Brain in Minutes a Day! [USA]
  - Kawashima: Motto Nou wo Kitaeru Otona no DS Training [JPN]
 
-### Can I install games from my USB instead of SD?
+### Kann ich Spiele von meinem USB anstatt von SD installieren?
 
-Yes. It is, however, a bit more complicated than installing from SD Card. Detailed instructions are in the `Install from USB` tab in the [Dumping guide](dump-games).
+Ja. Es ist jedoch ein bisschen komplizierter als die Installation von einer SD-Karte. Detaillierte Anweisungen findest Du im `USB` Tab [Dumping-Anleitung](dump-games).
 
-### How to Delete Update Folder to Block Updates on Wii U
+### Update-Ordner löschen, um Updates auf der Wii U zu blockieren
 
-If you want to delete the update folder to block updates, see its tab in the [Blocking Updates guide](block-updates).
+Falls du den Update Ordner löschen möchtest um Updates zu blockieren, lies dir den Tab [Blocking Updates guide](block-updates) durch.
 
 ### What SD Card size is recommended?
 
