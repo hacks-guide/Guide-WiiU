@@ -54,8 +54,8 @@ Denne siden vil hjelpe deg med å gjenopprette Mii Channel.
 1. Start Homebrew Launcher og kjør FTPiiU Everywhere.
 1. Start FileZilla på PC'en din.
 1. Skriv inn IP-adressen som vist på Wii U skjermen, i feltet `Host` øverst i vinduet og klikk på `Quickconnect`.
-1. Navigate to `/slccmpt01/title/00010002/48414341`.
-1. Delete the `content` folder.
+1. Naviger til `/slccmpt01/title/00010002/48414341`.
+1. Slett mappen som heter `content`.
 1. Start `overwrite-wiiu-titlehash.exe` filen som vi lasted ned tidligere.
 1. Skriv inn Wii U konsollens IP-adresse og trykk Enter.
 1. Vent til den er ferdig.
@@ -70,8 +70,8 @@ Denne siden vil hjelpe deg med å gjenopprette Mii Channel.
 1. Start Homebrew Launcher og kjør FTPiiU Everywhere.
 1. Start FileZilla på PC'en din.
 1. Skriv inn IP-adressen som vist på Wii U skjermen, i feltet `Host` øverst i vinduet og klikk på `Quickconnect`.
-1. Navigate to `/slccmpt01/title/00010002/48414341`.
-1. Delete the `content` folder.
+1. Naviger til `/slccmpt01/title/00010002/48414341`.
+1. Slett mappen som heter `content`.
 1. Åpne opp et terminalvindu.
 1. Skriv: `cd <directory>`.
  - På macOS er det vanligste stedet å finne nedlastede filer i `/Brukere/brukernavn/Nedlastninger`.
