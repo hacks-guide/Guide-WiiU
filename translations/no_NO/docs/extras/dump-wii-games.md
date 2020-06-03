@@ -18,17 +18,17 @@ Dumping av Wii diskene dine lar deg spille dem på en Wii-emulator (Dolphin), sp
 
 ### Dumpe Wii Disken
 
-1. Slå på Wii U konsollen og velg Wii menu ikonet for å starte opp vWii.
-1. Start Homebrew Channel.
-1. Kjør CleanRip.
-1. Les ansvarsfraskrivelsen og trykk A.
-1. Velg "Yes" for å aktivere Checksum kalkulasjoner.
+1. Turn on your Wii U then choose the Wii Menu icon to boot up in vWii.
+1. Launch the Homebrew Channel.
+1. Launch CleanRip.
+1. Read the Disclaimer then press A.
+1. Select Yes to enable Checksum Calculations.
 1. Select either USB or Front SD depending on which device you want to use for the dumping process.
- - Merk at enheten du velger må være formatert som FAT32 eller NTFS.
-1. Trykk A for å fortsette.
-1. Velg "No" i vinduet som ber deg laste ned redump.org DAT-filer.
-1. Sett inn Wii disken din og trykk A.
-1. Gå [til denne siden](https://wiki.dolphin-emu.org/index.php?title=Category:Dual_Layer_Disc_games) for å se om Wii disken din er dual-layered.
+ - Please note that the device you will choose needs to be formatted either in FAT32 or NTFS.
+1. Press A to continue.
+1. Select No on the screen that asks you to download redump.org DAT files.
+1. Insert your disc then press A.
+1. Go [on this page](https://wiki.dolphin-emu.org/index.php?title=Category:Dual_Layer_Disc_games) to see if your disc is dual-layered.
 1. Velg følgende instillinger:
  - Dual Layer `Yes/No` (Velg `Yes` hvis Wii disken din er dual-layered)
  - Chunk Size `Max`
@@ -41,7 +41,7 @@ Dumping av Wii diskene dine lar deg spille dem på en Wii-emulator (Dolphin), sp
 
 ?> Hvis du dumpet Wii disken på en FAT32-formatert enhet, så burde du ha fått minst 2 filer som ender med `.partX.iso`. De må slåes sammen.
 
-1. Kopier alle filene som deler samme navn og slutter med `.partX.iso` i en mappe på PC'en din.
-1. Åpne opp et Command Prompt vindu.
-1. Skriv `cd <path>` og erstatt `<path>` ved adressen til `.partX.iso` filene.
-1. Skriv `copy /b *.part?.iso game.iso`.
+1. Copy all the files that share the same name and end with `.partX.iso` in a folder on your computer.
+1. Open up a Command Prompt window.
+1. Use the `cd <path>` command and replace `<path>` by the path to your `.partX.iso` files.
+1. Use the following command as is: `copy /b *.part?.iso game.iso`.
