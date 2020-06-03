@@ -10,9 +10,9 @@
 - [Fiks feilkode 112-1037](fix-errcode-112-1037)
 - **Ekstra**
 - [Blokkere systemoppdateringer](block-updates)
-- [Fjerne blokkering av systemoppdateringer](unblock-updates)
-- [Dumpe Wii U spill Fra Disk](dump-games)
-- [Dumpe Wii Spill Fra Disk](dump-wii-games)
+- [Unblocking Updates](unblock-updates)
+- [Dumping Wii U Discs](dump-games)
+- [Dumping Original Wii Discs](dump-wii-games)
 - [Avinstallere CBHC](uninstall-cbhc)
 - [Avinstallere Indexiine](uninstall-indexiine)
 - [FAQ](faq)
