@@ -25,7 +25,7 @@ This page will guide you through the process of restoring your Mii Channel to a 
 
 <!-- tabs:end -->
 
-### Instructions
+### Instrucciones
 
 <!-- tabs:start -->
 
