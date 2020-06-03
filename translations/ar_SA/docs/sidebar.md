@@ -10,9 +10,9 @@
 - [Fix Error Code 112-1037](fix-errcode-112-1037)
 - **Extras**
 - [Blocking Updates](block-updates)
+- [Unblocking Updates](unblock-updates)
 - [Dumping Wii U Discs](dump-games)
 - [Dumping Original Wii Discs](dump-wii-games)
-- [Unblocking Updates](unblock-updates)
 - [Uninstall CBHC](uninstall-cbhc)
 - [Uninstall Indexiine](uninstall-indexiine)
 - [FAQ](faq)
