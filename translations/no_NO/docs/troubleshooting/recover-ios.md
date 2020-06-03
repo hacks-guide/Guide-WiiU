@@ -52,7 +52,7 @@ Denne siden vil hjelpe deg med å gjenopprette en korrupt IOS i vWii.
 
 #### **Windows**
 
-1. Slå på Wii U konsollen og start CFW (Mocha, Haxchi eller CBHC).
+1. Power on your Wii U and launch the CFW of your choice (Mocha, Haxchi or CBHC)testing.
 1. Launch the Homebrew Launcher.
 1. Launch FTPiiU Everywhere.
 1. Launch FileZilla.
