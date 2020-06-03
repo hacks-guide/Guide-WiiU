@@ -2,7 +2,7 @@
 
 ## Installation de l'Homebrew Launcher Channel {docsify-ignore}
 
-Cette page installera la chaîne de lancement homebrew comme une application directement dans votre menu Wii U pour un accès facile.
+Cette page installera l'Homebrew Launcher Channel en tant qu'application directement dans votre Menu Wii U pour un accès facile.
 
 ### Instructions
 
@@ -15,4 +15,4 @@ Cette page installera la chaîne de lancement homebrew comme une application dir
 1. Utilisez l'écran tactile pour sélectionner `Homebrew Launcher Channel`. Appuyez sur `Install` et confirmez avec `Yes`.
 1. Sélectionnez la NAND comme destination de l'installation. Ceci installera l'Homebrew Launcher Channel sur le Menu Wii U.
 1. Une fois le processus terminé, appuyez sur le bouton HOME jusqu'à ce que vous reveniez sur le Menu Wii U.
-1. Vous verrez maintenant l'Homebrew Launcher Channel installé sur votre Menu Wii U. N'oubliez pas que vous devrez lancer un CFW à chaque redémarrage pour faire fonctionner cette chaîne.
+1. Vous verrez maintenant l'Homebrew Launcher Channel installé sur votre Menu Wii U. N'oubliez pas que vous devrez lancer un CFW à chaque redémarrage pour faire fonctionner cette application.
