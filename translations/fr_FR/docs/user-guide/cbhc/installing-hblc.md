@@ -8,7 +8,7 @@ Cette page installera l'Homebrew Launcher Channel comme application directement 
 
 ### Instructions
 
-1. Allumez votre console
+1. Allumez votre console.
 1. Appuyez sur le bouton HOME pendant que la console affiche `Autobooting...` pour accéder au menu d'amorçage.
 1. Sélectionnez `Boot Homebrew Launcher` pour lancer l'Homebrew Launcher.
 1. Naviguez dans l'Homebrew Launcher et lancez l'application WUP Installer GX2.
