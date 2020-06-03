@@ -1,26 +1,26 @@
-- **User Guide**
-- [Introduction](introduction)
-- [Choose a CFW](cfw-choice)
+- **Anleitung**
+- [Einleitung](introduction)
+- [Wähle eine CFW](cfw-choice)
 - **vWii**
 - [vWii Modding](vwii-modding)
-- **Troubleshooting**
-- [Recovering Mii Channel](recover-mii-channel)
-- [Recover a Corrupted IOS](recover-ios)
-- [Common Issues & Fixes](common-issues-fixes)
-- [Fix Error Code 112-1037](fix-errcode-112-1037)
+- **Fehlerbehebung**
+- [Wiederherstellen des Mii-Kanals](recover-mii-channel)
+- [Ein beschädigtes IOS wiederherstellen](recover-ios)
+- [Häufige Probleme & Lösungen](common-issues-fixes)
+- [Fehlercode 112-1037 beheben](fix-errcode-112-1037)
 - **Extras**
-- [Blocking Updates](block-updates)
-- [Dumping Wii U Discs](dump-games)
-- [Dumping Original Wii Discs](dump-wii-games)
-- [Unblocking Updates](unblock-updates)
-- [Uninstall CBHC](uninstall-cbhc)
-- [Uninstall Indexiine](uninstall-indexiine)
+- [Updates blockieren](block-updates)
+- [Updates entsperren](unblock-updates)
+- [Dumpen einer Wii U Disc](dump-games)
+- [Dumpen originaler Wii Discs](dump-wii-games)
+- [CBHC deinstallieren](uninstall-cbhc)
+- [Indexiine deinstallieren](uninstall-indexiine)
 - [FAQ](faq)
 - **Links**
 - [![GitHub](https://icongr.am/simple/github.svg?color=808080&size=16)GitHub](https://github.com/hacks-guide/Guide-WiiU)
 - [![Discord](https://icongr.am/simple/discord.svg?colored&size=16)Discord](https://discord.gg/C29hYvh)
-- [![Translate the guide](https://icongr.am/material/translate.svg?color=808080&size=16)Translate the guide](https://hacks-guide.crowdin.com/u/projects/10)
+- [![Übersetze die Anleitung](https://icongr.am/material/translate.svg?color=808080&size=16)Übersetze die Anleitung](https://hacks-guide.crowdin.com/u/projects/10)
 - [Donate](donations)
-- [About](about)
-- **Privacy**
-- [Privacy Policy](privacy-policy)
+- [Über die Anleitung](about)
+- **Datenschutz**
+- [Datenschutzerklärung](privacy-policy)
