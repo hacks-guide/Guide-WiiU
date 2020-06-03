@@ -18,7 +18,7 @@ For tiden finnes det to måter å blokkere systemoppdateringer på Wii U:
 1. Bekreft at det står `Update folder is deleted`. Du blokkerer nå systemoppdateringer.
 
 ### **DNS-blokkering**
-?> Dette er den enkleste metoden og anbefales for de som er usikker på å slette "update" mappen. Den vil derimot forhindre at eShop fungerer. Men hvis du bruker [NNUPatcher](http://www.wiiubru.com/appstore/zips/nnupatcher.zip) så vil du ha tilgang til eShop igjen.
+?> Dette er den enkleste metoden og anbefales for de som er usikker på å slette "update" mappen. Den vil derimot gjøre sånn at eShop ikke fungerer normalt. Men hvis du bruker [NNUPatcher](http://www.wiiubru.com/appstore/zips/nnupatcher.zip) så vil du ha tilgang til eShop igjen.
 1. Sett SD-kortet inn i PC'en.
 1. Pakk ut `nnupatcher.zip` til roten av SD-kortet. Hvis den sier at filene er der allerede, kan du overskrive disse.
 1. Sett SD-kortet inn i Wii U konsollen din og skru den på.
