@@ -10,9 +10,9 @@
 - [Fiks feilkode 112-1037](fix-errcode-112-1037)
 - **Ekstra**
 - [Blokkere systemoppdateringer](block-updates)
+- [Fjerne blokkering av systemoppdateringer](unblock-updates)
 - [Dumpe Wii U spill Fra Disk](dump-games)
 - [Dumpe Wii Spill Fra Disk](dump-wii-games)
-- [Fjerne blokkering av systemoppdateringer](unblock-updates)
 - [Avinstallere CBHC](uninstall-cbhc)
 - [Avinstallere Indexiine](uninstall-indexiine)
 - [FAQ](faq)
@@ -21,6 +21,6 @@
 - [![Discord](https://icongr.am/simple/discord.svg?colored&size=16)Discord](https://discord.gg/C29hYvh)
 - [![Oversett guiden](https://icongr.am/material/translate.svg?color=808080&size=16)Oversett guiden](https://hacks-guide.crowdin.com/u/projects/10)
 - [Donate](donations)
-- [About](about)
-- **Privacy**
-- [Privacy Policy](privacy-policy)
+- [Om denne guiden](about)
+- **Personvern**
+- [Retningslinjer for personvern](privacy-policy)
