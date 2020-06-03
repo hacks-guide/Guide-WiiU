@@ -7,12 +7,12 @@ Now that you have your NAND backup in case anything goes wrong later, you can in
 ?> In case you haven't plugged your SD Card back into your Wii U after copying your NAND backup to a computer, do so now.
 
 
-### Instructions
+### Anleitungen
 
-1. Turn on your Wii U
-1. Launch the internet browser and open `wiiuexploit.xyz`.
-1. Click on `Run Homebrew Launcher!`. Your console should launch the Homebrew Launcher.
- - If your Wii U gets stuck on a white or otherwise frozen screen, wait a few seconds. If nothing happens, reboot the console, [reset the browser's save data](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1507/~/how-to-delete-the-internet-browser-history) and try again.
+1. Turn on your Wii U.
+1. Launch the internet browser and open the website `wiiuexploit.xyz`.
+1. Klicke auf `Run Homebrew Launcher!`. Deine Konsole sollte den Homebrew Launcher starten.
+ - Wenn deine Wii U auf einem weißen oder anderweitig eingefrorenen Bildschirm steckt, warte ein paar Sekunden. If nothing happens, reboot the console, [reset the browser's save data](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1507/~/how-to-delete-the-internet-browser-history) and try again.
 1. Navigate through the Homebrew Launcher and launch the `Indexiine Installer` app.
 1. Press the A button to install Indexiine.
 1. When the process completed, close the Homebrew Launcher to get back to your Wii U menu.
