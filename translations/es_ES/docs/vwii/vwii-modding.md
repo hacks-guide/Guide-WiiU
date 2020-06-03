@@ -4,7 +4,7 @@ This page will guide you through the process of modding your vWii.
 
 We will now place the required Homebrew files on the SD Card.
 
-?> **Notice** Your SD Card will need to be formatted as FAT32. If your SD Card is not formatted to FAT32, use [GUIFormat](http://www.ridgecrop.demon.co.uk/index.htm?guiformat.htm) with 32k (32768) Allocation unit size to format it.
+?> **Notice** Your SD Card will need to be formatted as FAT32. Si tu tarjeta no lo está, formatéala en FAT32, utiliza [GUIFormat](http://www.ridgecrop.demon.co.uk/index.htm?guiformat.htm) seleccionando 32k (32768) en ''Allocation unit size''.
 
 ### What You Need
 
@@ -15,9 +15,9 @@ We will now place the required Homebrew files on the SD Card.
 - The [Homebrew Launcher](https://github.com/dimok789/homebrew_launcher/releases/download/1.4/homebrew_launcher.v1.4.zip)
 - The latest release of the [Homebrew Launcher Installer](https://github.com/wiiu-env/homebrew_launcher_installer/releases/download/v1.4/payload.zip)
 
-### Instructions
+### Instrucciones
 
-1. Insert your Wii U's SD Card into your PC.
+1. Inserta la tarjeta de memoria de tu Wii U en tu PC.
 1. Extract the `wuphax.zip` file to the root of your SD Card.
 1. Extract the `boot.elf` file from the <code>hackmii_<wbr>installer_<wbr>v1.2<wbr>.zip</code> file to the root of your SD Card.
 1. Extract the `apps` folder from the <code>Patched_<wbr>IOS80_<wbr>Installer_<wbr>for_<wbr>vWii<wbr>.zip</code> file to the root of your SD Card.
@@ -28,8 +28,8 @@ We will now place the required Homebrew files on the SD Card.
 
 ### Wuphax
 
-1. Launch the [Homebrew Launcher](vwii/browser-exploit)
-1. Launch Wuphax
+1. Launch the [Homebrew Launcher](vwii/browser-exploit).
+1. Launch Wuphax.
 1. Press `A` to backup the Mii Channel and inject the Hackmii Installer then wait until it says <code>Successfully <wbr>injected <wbr>wuphax!</code>.
  - You will be taken back to the Wii U Menu after a few seconds.
 1. Launch vWii (the Wii Menu icon).
