@@ -1,18 +1,18 @@
-- **User Guide**
-- [Introduction](introduction)
-- [Choose a CFW](cfw-choice)
+- **用户指南**
+- [导言](introduction)
+- [选择CFW](cfw-choice)
 - **vWii**
-- [vWii Modding](vwii-modding)
-- **Troubleshooting**
-- [Recovering Mii Channel](recover-mii-channel)
-- [Recover a Corrupted IOS](recover-ios)
-- [Common Issues & Fixes](common-issues-fixes)
-- [Fix Error Code 112-1037](fix-errcode-112-1037)
+- [vWii修改](vwii-modding)
+- **故障排除**
+- [恢复Mii频道](recover-mii-channel)
+- [恢复已损坏的IOS](recover-ios)
+- [常见问题 & 修复](common-issues-fixes)
+- [修复错误代码112-1037](fix-errcode-112-1037)
 - **Extras**
 - [Blocking Updates](block-updates)
+- [Unblocking Updates](unblock-updates)
 - [Dumping Wii U Discs](dump-games)
 - [Dumping Original Wii Discs](dump-wii-games)
-- [Unblocking Updates](unblock-updates)
 - [Uninstall CBHC](uninstall-cbhc)
 - [Uninstall Indexiine](uninstall-indexiine)
 - [FAQ](faq)
@@ -21,6 +21,6 @@
 - [![Discord](https://icongr.am/simple/discord.svg?colored&size=16)Discord](https://discord.gg/C29hYvh)
 - [![Translate the guide](https://icongr.am/material/translate.svg?color=808080&size=16)Translate the guide](https://hacks-guide.crowdin.com/u/projects/10)
 - [Donate](donations)
-- [About](about)
+- [关于我们](about)
 - **Privacy**
 - [Privacy Policy](privacy-policy)
