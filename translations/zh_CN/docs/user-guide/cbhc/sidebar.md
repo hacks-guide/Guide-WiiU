@@ -1,6 +1,6 @@
 - **CBHC**
 - [Home Page](../introduction)
-- [Choose a CFW](../cfw-choice)
+- [选择CFW](../cfw-choice)
 - [Choose Your DS VC Game](ds-vc-choice)
 - [SD Preparation](sd-preparation)
 - [Browser Exploit](browser-exploit)
@@ -12,4 +12,4 @@
 - [![Discord](https://icongr.am/simple/discord.svg?colored&size=16)Discord](https://discord.gg/C29hYvh)
 - [![Translate the guide](https://icongr.am/material/translate.svg?color=808080&size=16)Translate the guide](https://hacks-guide.crowdin.com/u/projects/10)
 - [Donate](donations)
-- [About](../about)
+- [关于我们](../about)
