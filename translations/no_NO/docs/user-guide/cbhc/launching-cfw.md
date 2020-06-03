@@ -6,14 +6,14 @@ Nå som du har en NAND backup i tilfelle noe går galt senere, kan du kjøre CFW
 
 I motsetning til systemer som DSi, Wii eller 3DS, er Wii U CFW midlertidig. Dette betyr at så snart systemet starter på nytt, vil du miste CFW og må følge disse instruksjonene igjen. Det trenger du ikke ved å installere CBHC på en Haxchi CFW installasjon.
 
-!> Hvis du installerer CBHC feil, så kan den bricke Wii U'en din. Sørg for å følge reglene ved installasjon av CBHC: <br>- DS spillet må være installert fra eShop! <br>- Ikke formater konsollen mens CBHC er installert! <br>- Ikke slett bruker kontoen som kjøpte DS VC spillet! <br>- Ikke installer spillet på nytt ved bruk av WUP installer eller fra eShop! <br>- Ikke installer Haxchi over CBHC! <br>- Don't uninstall the DS Virtual Console game without [properly uninstalling CBHC first](../uninstall-cbhc)! <br>- Don't move the DS Virtual Console game to a USB drive!
+!> Hvis du installerer CBHC feil, så kan den bricke Wii U'en din. Sørg for å følge reglene ved installasjon av CBHC: <br>- DS spillet må være installert fra eShop! <br>- Ikke formater konsollen mens CBHC er installert! <br>- Ikke slett bruker kontoen som kjøpte DS VC spillet! <br>- Ikke installer spillet på nytt ved bruk av WUP installer eller fra eShop! <br>- Ikke installer Haxchi over CBHC! <br>- Ikke slett DS VC spillet uten å [slette CBHC på riktig måte først](../uninstall-cbhc)! <br>- Ikke flytt DS VC spillet til en USB lagringsenhet!
 
 !> Hvis du bryter en av reglene ovenfor, vil du "bricke" konsollen.
 
 ### Instruksjoner
 
 1. Ta SD-kortet ut av PCen og sett det inn i Wii U konsollen.
-1. If you haven't already, now download your DS Virtual Console game of choice from the eShop.
+1. Hvis du ikke har gjort det enda, last ned DS VC spillet du valgte fra eShop.
 1. Start Homebrew Launcher på Wii U konsollen din som [forklart tidligere](browser-exploit).
 1. Kjør Haxchi appen.
 1. Bruk D-padden til å navigere markøren til spillet du ønsker å installere Haxchi over og trykk på A knappen for å installere den.
