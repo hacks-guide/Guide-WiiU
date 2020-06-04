@@ -12,11 +12,11 @@ Deine Discs zu dumpen erlaubt dir eine Kopie des Spiels auf deinen Systemspeiche
 
 ?> Installing a game to the system memory (NAND) is not recommended as it's limited to either 8GB or 32GB depending on your model, making you run out of space pretty quickly if you want to install multiple games.
 
-### Was du brauchst
+### Was Du Brauchst
 
 - Deine SD-Karte braucht genug Platz um das Spiel zu speichern.
-- Die neueste Version von [WUP Installer GX2](http://wiiubru.com/appstore/zips/wup_installer_gx2.zip)
-- Die [disc2app](http://www.wiiubru.com/appstore/zips/disc2app.zip) Homebrew app
+- The latest release of [WUP Installer GX2](http://wiiubru.com/appstore/zips/wup_installer_gx2.zip).
+- The [disc2app](http://www.wiiubru.com/appstore/zips/disc2app.zip) homebrew application.
 
 ### Anleitungen
 
