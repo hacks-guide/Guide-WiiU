@@ -31,7 +31,7 @@ Si vous souhaitez supprimer le dossier de mise à jour pour bloquer les mises à
 
 **Marques recommandées:** SanDisk, Samsung ou PNY
 
-?> Note : Évitez les cartes SD de classe 4, et évitez eBay
+?> Note : Évitez les cartes SD de classe 4, et évitez eBay !
 
 ### Puis-je installer le homebrew sur la Wii U avec une clé USB au lieu d'une carte SD ?
 

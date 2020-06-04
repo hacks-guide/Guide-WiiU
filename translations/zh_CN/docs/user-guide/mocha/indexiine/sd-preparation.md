@@ -21,7 +21,7 @@ We will now place the required CFW files and some additional homebrew files on t
 - The latest release of <a href="docs/files/savemii_mod.zip" download>SaveMii mod</a>
 - The latest release of [Indexiine-Installer](https://github.com/GaryOderNichts/indexiine-installer/releases/latest)
 
-### Instructions
+### 说明
 
 ?> **Notice** The info.json and manifest.install files are not needed for the modding process and therefore can be deleted.
 

@@ -14,8 +14,8 @@ Her vil vi plassere de nødvendige CFW-filene og noen ekstra homebrew filer på 
 - [Homebrew Launcher](https://github.com/dimok789/homebrew_launcher/releases/tag/1.4) Versjon 1.4
   - Du må laste ned `homebrew_launcher.v.1.4.zip`
 - Siste utgave av [WUP Installer GX2](http://wiiubru.com/appstore/zips/wup_installer_gx2.zip)
-- The latest release of [The Homebrew Launcher Channel](https://github.com/GaryOderNichts/homebrew_launcher/releases/tag/v2.1_fix)
-  - You will need to download the `homebrew_launcher_channel.v2.1_fix.zip` file.
+- Siste utgave av [Homebrew Launcher Channel](https://github.com/GaryOderNichts/homebrew_launcher/releases/tag/v2.1_fix)
+  - Du må laste ned `homebrew_launcher_channel.v2.1_fix.zip` filen.
 - Siste utgave av [Wii U NAND Dumper](https://github.com/koolkdev/wiiu-nanddumper/releases/latest)
 - Siste utgave av [Homebrew App Store](https://github.com/vgmoose/hbas/releases/latest)
   - Du må laste ned `wiiu-extracttosd.zip` filen.
@@ -29,9 +29,9 @@ Her vil vi plassere de nødvendige CFW-filene og noen ekstra homebrew filer på 
 
 1. Sett SD-kortet ditt i PC'en din.
 1. Opprett en mappe med navnet `install` på roten av SD-kortet.
-1. Extract the `homebrew_launcher_channel.v2.1_fix.zip` file to the `install` folder you created.
+1. Pakk ut `homebrew_launcher_channel.v2.1_fix.zip` til `install` mappen.
 1. Pakk ut `Haxchi.zip` til roten av SD-kortet.
-1. Extract the `CBHC.zip` file to the root of your SD Card.
+1. Pakk ut `CBHC.zip` til roten av SD-kortet.
 1. Pakk ut `wup_installer_gx2.zip` til roten av SD-kortet.
 1. Pakk ut `nanddumper.zip` til roten av SD-kortet.
 1. Pakk ut `wiiu-extracttosd.zip` til roten av SD-kortet.

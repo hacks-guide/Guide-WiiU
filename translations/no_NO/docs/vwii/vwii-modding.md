@@ -28,8 +28,8 @@ Vi starter med å plassere Homebrew filene du trenger på SD-kortet ditt.
 
 ### Wuphax
 
-1. Start [Homebrew Launcher](vwii/browser-exploit)
-1. Kjør Wuphax
+1. Start [Homebrew Launcher](vwii/browser-exploit).
+1. Kjør Wuphax.
 1. Trykk `A` for å lage en backup av "Mii Channel" så installer du Hackmii og venter til det står <code>Successfully <wbr>injected <wbr>wuphax!</code>.
  - Du vil bli sendt tilbake til Wii U menyen etter noen sekunder.
 1. Start vWii (Wii meny ikonet).

@@ -15,7 +15,7 @@ We will now place the required Homebrew files on the SD Card.
 - The [Homebrew Launcher](https://github.com/dimok789/homebrew_launcher/releases/download/1.4/homebrew_launcher.v1.4.zip)
 - The latest release of the [Homebrew Launcher Installer](https://github.com/wiiu-env/homebrew_launcher_installer/releases/download/v1.4/payload.zip)
 
-### Instructions
+### 说明
 
 1. Insert your Wii U's SD Card into your PC.
 1. Extract the `wuphax.zip` file to the root of your SD Card.
@@ -28,8 +28,8 @@ We will now place the required Homebrew files on the SD Card.
 
 ### Wuphax
 
-1. Launch the [Homebrew Launcher](vwii/browser-exploit)
-1. Launch Wuphax
+1. Launch the [Homebrew Launcher](vwii/browser-exploit).
+1. Launch Wuphax.
 1. Press `A` to backup the Mii Channel and inject the Hackmii Installer then wait until it says <code>Successfully <wbr>injected <wbr>wuphax!</code>.
  - You will be taken back to the Wii U Menu after a few seconds.
 1. Launch vWii (the Wii Menu icon).

@@ -1,10 +1,10 @@
-- **Navigation**
-- [Home Page](../introduction)
-- [vWii Modding](../vwii-modding)
-- [Browser Exploit](browser-exploit)
-- **Links**
+- **导航系统**
+- [擐憿](../introduction)
+- [vWii修改](../vwii-modding)
+- [浏览器漏洞](browser-exploit)
+- **链接**
 - [![GitHub](https://icongr.am/simple/github.svg?color=808080&size=16)GitHub](https://github.com/hacks-guide/Guide-WiiU)
 - [![Discord](https://icongr.am/simple/discord.svg?colored&size=16)Discord](https://discord.gg/C29hYvh)
 - [![Translate the guide](https://icongr.am/material/translate.svg?color=808080&size=16)Translate the guide](https://hacks-guide.crowdin.com/u/projects/10)
 - [Donate](donations)
-- [About](../about)
+- [关于我们](../about)

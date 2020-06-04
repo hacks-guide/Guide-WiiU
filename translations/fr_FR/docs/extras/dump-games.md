@@ -10,13 +10,13 @@ Dumper vos disques vous permet d'installer une copie de votre jeu sur la NAND / 
 
 #### **Installer sur la NAND**
 
-?> Installer un jeu dans la mémoire système (NAND) n'est pas recommandé car elle est limitée à 8 ou 32 Go selon votre modèle, ce qui vous ferait manquer d'espace assez rapidement si vous souhaitez installer plusieurs jeux.
+?> Installer un jeu dans la mémoire système (NAND) n'est pas recommandé car elle est limitée à 8 Go ou 32 Go selon votre modèle, ce qui vous ferait manquer d'espace assez rapidement si vous souhaitez installer plusieurs jeux.
 
 ### Ce dont vous avez besoin
 
 - Votre carte SD a besoin de suffisamment d'espace pour stocker le jeu que vous voulez dumper.
-- La dernière version de [WUP Installer GX2](http://wiiubru.com/appstore/zips/wup_installer_gx2.zip)
-- L'application Homebrew [disc2app](http://www.wiiubru.com/appstore/zips/disc2app.zip)
+- La dernière version de [WUP Installer GX2](http://wiiubru.com/appstore/zips/wup_installer_gx2.zip).
+- L'application Homebrew [disc2app](http://www.wiiubru.com/appstore/zips/disc2app.zip).
 
 ### Instructions
 

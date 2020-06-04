@@ -1,24 +1,24 @@
-# Dumping Wii U Discs
+# 导出 Wii U 光碟
 ---
 Dumping your Discs allows you to install a copy of your game to the system NAND/a USB device so you can play it without needing the disc.
 
 ?> Dumping and installing games requires a working Homebrew setup, so make sure to finish the main guide on installing CFW first before following this.
 
-### Instructions
+### 说明
 
 <!-- tabs:start -->
 
 #### **Install To NAND**
 
-?> Installing a game to the system memory (NAND) is not recommended as it's limited to either 8 or 32GB depending on your model, making you run out of space pretty quickly if you want to install multiple games.
+?> Installing a game to the system memory (NAND) is not recommended as it's limited to either 8GB or 32GB depending on your model, making you run out of space pretty quickly if you want to install multiple games.
 
-### What You need
+### What You Need
 
 - Your SD Card needs to have enough space to fit the game you want to dump.
-- The latest release of [WUP Installer GX2](http://wiiubru.com/appstore/zips/wup_installer_gx2.zip)
-- The [disc2app](http://www.wiiubru.com/appstore/zips/disc2app.zip) Homebrew app
+- The latest release of [WUP Installer GX2](http://wiiubru.com/appstore/zips/wup_installer_gx2.zip).
+- The [disc2app](http://www.wiiubru.com/appstore/zips/disc2app.zip) homebrew application.
 
-### Instructions
+### 说明
 
 1. Extract the `wup_installer_gx2.zip` file to the root of your SD Card.
 1. Extract the `disc2app.zip` file to the root of your SD Card.
@@ -50,7 +50,7 @@ Dumping your Discs allows you to install a copy of your game to the system NAND/
 - The latest release of [WUP Installer GX2](http://wiiubru.com/appstore/zips/wup_installer_gx2.zip)
 - The [disc2app](http://www.wiiubru.com/appstore/zips/disc2app.zip) Homebrew app
 
-### Instructions
+### 说明
 
 1. Extract the `wup_installer_gx2.zip` file to the root of your SD Card.
 1. Extract the `disc2app.zip` file to the root of your SD Card.
@@ -92,7 +92,7 @@ Dumping your Discs allows you to install a copy of your game to the system NAND/
 - The  1.4 release of [The Homebrew Launcher](https://github.com/dimok789/homebrew_launcher/releases/tag/1.4)
   - You will need to download the v1.4 `homebrew_launcher.v.1.4.zip` release.
 
-### Instructions
+### 说明
 
 ?> **Notice** Your USB device will need to be formatted as FAT32. If your USB is not formatted to FAT32, use [GUIFormat](http://www.ridgecrop.demon.co.uk/index.htm?guiformat.htm) with 32k (32768) Allocation unit size to format it.
 

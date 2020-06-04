@@ -4,15 +4,14 @@
 - **vWii**
 - [vWii Modding](vwii-modding)
 - **Troubleshooting**
-- [Recovering Mii Channel](recover-mii-channel)
-- [Recover a Corrupted IOS](recover-ios)
 - [Common Issues & Fixes](common-issues-fixes)
+- [Recover a vWii IOS/Channel](recover-vwii-ioses-channels)
 - [Fix Error Code 112-1037](fix-errcode-112-1037)
 - **Extras**
 - [Blocking Updates](block-updates)
+- [Unblocking Updates](unblock-updates)
 - [Dumping Wii U Discs](dump-games)
 - [Dumping Original Wii Discs](dump-wii-games)
-- [Unblocking Updates](unblock-updates)
 - [Uninstall CBHC](uninstall-cbhc)
 - [Uninstall Indexiine](uninstall-indexiine)
 - [FAQ](faq)

@@ -35,7 +35,7 @@ Denne personvernerklæringen gjelder all informasjon som blir samlet på nettste
 Vi samler ikke inn personlig informasjon i noen form. Men, våre verter, [GitHub Sider](https://pages.github.com/) kan samle inn personlig informasjon. For mer informasjon, se [GitHub's personvern erklæring](https://help.github.com/en/github/site-policy/github-privacy-statement)
 
 
-### 2. DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES :id=_2-do-we-use-cookies-and-other-tracking-technologies
+### 2. BRUKER VI COOKIES OG ANDRE TRACKING TEKNOLOGIER :id=_2-do-we-use-cookies-and-other-tracking-technologies
 ***Kort fortalt:*** *Vi bruker ikke cookies og andre sporingsteknikker for å samle og lagre din informasjon.*
 
 Vi bruker ikke cookies og lignende sporingsteknikker (som web beacons og pixels) for å få tilgang til, eller lagre informasjon.

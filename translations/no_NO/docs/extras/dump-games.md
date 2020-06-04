@@ -15,8 +15,8 @@ Ved å Dumpe en Wii U Disk, kan du installere en kopi av spillet til system NAND
 ### Dette trenger du
 
 - SD-kortet må ha nok plass til spillet du vil dumpe.
-- Siste utgave av [WUP Installer GX2](http://wiiubru.com/appstore/zips/wup_installer_gx2.zip)
-- Homebrew appen [disc2app](http://www.wiiubru.com/appstore/zips/disc2app.zip)
+- The latest release of [WUP Installer GX2](http://wiiubru.com/appstore/zips/wup_installer_gx2.zip).
+- The [disc2app](http://www.wiiubru.com/appstore/zips/disc2app.zip) homebrew application.
 
 ### Instruksjoner
 
@@ -24,7 +24,7 @@ Ved å Dumpe en Wii U Disk, kan du installere en kopi av spillet til system NAND
 1. Pakk ut `disc2app.zip` til roten av SD-kortet.
 1. Ta SD-kortet ut av PCen og sett det inn i Wii U konsollen.
 1. Slå på Wii U konsollen.
-1. Eject your game disc if you have one inserted.
+1. Ta ut spill-disken hvis du allerede har satt den inn.
 1. Start Homebrew Launcher og kjør disc2app.
 1. Trykk på A knappen for å starte dumpingen til SD-kortet.
 1. Sett inn spill-disken du vil dumpe når du får beskjed om det.

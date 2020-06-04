@@ -8,7 +8,7 @@ This page will guide you through the process of fixing the error code 112-1037.
 - [wupclient.py](https://raw.githubusercontent.com/Elpunical/mocha/master/ios_mcp/wupclient.py) **(right-click -> Save link as... -> Click Save).**
 - The latest release of [Python](https://www.python.org/downloads/).
 
-### Instructions
+### 说明
 
 1. Install Python on your computer.
 

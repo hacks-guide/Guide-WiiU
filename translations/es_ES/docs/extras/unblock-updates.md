@@ -2,15 +2,15 @@
 ---
 This is needed if you ever need to perform a System Update.
 
-### Instructions
+### Instrucciones
 
 <!-- tabs:start -->
 
 #### **Recreating The Update Folder**
 
-1. Plug your SD Card into your Computer.
+1. Conecta tu tarjeta SD a tu PC.
 1. Download and extract [UFDiine](https://github.com/GaryOderNichts/UFDiine/releases) to the root of your SD Card.
-1. Plug the SD Card into your Wii U console and power it on.
+1. Conecta la Tarjeta SD a tu Wii U y enciéndela.
 1. Enter the Homebrew Launcher.
 1. Navigate the Homebrew Launcher and run the UFDiine app.
 1. Press the A button to create the update folder.

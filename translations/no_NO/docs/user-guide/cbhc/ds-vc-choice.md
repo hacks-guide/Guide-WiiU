@@ -2,14 +2,14 @@
 
 ## Velg ett DS VC-spill
 
-Det første du må velge er hvilket DS VC spill du skal kjøpe.   
+Det første du må velge er hvilket DS Virtual Console ("VC") spill du skal kjøpe.   
 Vær oppmerksom på at spillet du installerer Haxchi/CBHC over ikke vil kunne spilles lenger før du avinstallerer Haxchi/CBHC og installere spillet på nytt fra eShop.
 
 ### Kompatible DS VC spill
 
 ?> Hvis du har en europeisk regionkonsoll, er det en mulighet for at du allerede har <code>Dr. Kawashimas <wbr>Brain <wbr>Training: <wbr>How <wbr>Old <wbr>is <wbr>Your <wbr>Brain?</code> gratis. Gå til [eShop](https://en-americas-support.nintendo.com/app/answers/detail/a_id/8563/~/how-to-view-previously-downloaded-titles-on-wii-u) og sjekk om du har spillet.
 
-If you do not own any of the games listed below, we recommend buying Brain Age (North America) or Brain Training (Europe) as it currently is in the cheapest price bracket of compatible games and is the game we least expect you to want to play.
+Hvis du ikke eier noen av spillene i listen, anbefaler vi å kjøpe Brain Age (Nord-Amerika) eller Brain Training (Europa) siden det for tiden er blandt den billigste gruppen med kompatible spill og er ett spill vi regner med det er minst interesse av å spille.
 
 - **Animal Crossing: Wild World** - [EUR](https://www.nintendo.eu/Games/Nintendo-DS/Animal-Crossing-Wild-World-270011.html "Buy it from the European eShop") [USA](https://www.nintendo.com/games/detail/animal-crossing-wild-world-wii-u/ "Buy it from the American eShop") [JPN](https://www.nintendo.co.jp/titles/20010000023019 "Buy it from the Japanese eShop")
 - **Big Brain Academy** - [EUR](https://www.nintendo.eu/Games/Nintendo-DS/Big-Brain-Academy-270143.html "Buy it from the European eShop") [USA](https://www.nintendo.com/games/detail/big-brain-academy-wii-u/ "Buy it from the American eShop") [JPN](https://www.nintendo.co.jp/titles/20010000013967 "Buy it from the Japanese eShop")

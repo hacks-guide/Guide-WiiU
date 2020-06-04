@@ -4,7 +4,7 @@ This page will guide you through the process of restoring your Mii Channel to a 
 
 !> Do not use this method for anything else than [Recovering a Corrupted IOS](recover-ios) or the following page.
 
-### What You Need
+### Was Du Brauchst
 
 <!-- tabs:start -->
 
@@ -25,7 +25,7 @@ This page will guide you through the process of restoring your Mii Channel to a 
 
 <!-- tabs:end -->
 
-### Instructions
+### Anleitungen
 
 <!-- tabs:start -->
 
