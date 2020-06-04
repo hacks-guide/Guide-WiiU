@@ -4,16 +4,16 @@
 - **vWii**
 - [Modding de la vWii](vwii-modding)
 - **Résolution de problèmes**
-- [Common Issues & Fixes](common-issues-fixes)
-- [Recover a vWii IOS/Channel](recover-vwii-ioses-channels)
-- [Fix Error Code 112-1037](fix-errcode-112-1037)
+- [Problèmes courants & solutions](common-issues-fixes)
+- [Récupérer un·e IOS/Chaîne vWii](recover-vwii-ioses-channels)
+- [Corriger le code d'erreur 112-1037](fix-errcode-112-1037)
 - **Extras**
-- [Blocking Updates](block-updates)
-- [Unblocking Updates](unblock-updates)
-- [Dumping Wii U Discs](dump-games)
-- [Dumping Original Wii Discs](dump-wii-games)
-- [Uninstall CBHC](uninstall-cbhc)
-- [Uninstall Indexiine](uninstall-indexiine)
+- [Blocage des mises à jour](block-updates)
+- [Déblocage des mises à jour](unblock-updates)
+- [Dump des disques Wii U](dump-games)
+- [Dump des disques de Wii originale](dump-wii-games)
+- [Désinstaller CBHC](uninstall-cbhc)
+- [Désinstaller Indexiine](uninstall-indexiine)
 - [FAQ](faq)
 - **Liens**
 - [![GitHub](https://icongr.am/simple/github.svg?color=808080&size=16)GitHub](https://github.com/hacks-guide/Guide-WiiU)
@@ -21,5 +21,5 @@
 - [![Traduire le guide](https://icongr.am/material/translate.svg?color=808080&size=16)Traduire le guide](https://hacks-guide.crowdin.com/u/projects/10)
 - [Faire un don](donations)
 - [À propos](about)
-- **Privacy**
-- [Privacy Policy](privacy-policy)
+- **Confidentialité**
+- [Politique de confidentialité](privacy-policy)
