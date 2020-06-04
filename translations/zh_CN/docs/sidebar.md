@@ -4,10 +4,9 @@
 - **vWii**
 - [vWii修改](vwii-modding)
 - **故障排除**
-- [恢复Mii频道](recover-mii-channel)
-- [恢复已损坏的IOS](recover-ios)
-- [常见问题 & 修复](common-issues-fixes)
-- [修复错误代码112-1037](fix-errcode-112-1037)
+- [Common Issues & Fixes](common-issues-fixes)
+- [Recover a vWii IOS/Channel](recover-vwii-ioses-channels)
+- [Fix Error Code 112-1037](fix-errcode-112-1037)
 - **Extras**
 - [Blocking Updates](block-updates)
 - [Unblocking Updates](unblock-updates)
