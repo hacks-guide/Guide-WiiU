@@ -83,7 +83,7 @@ You will be provided with various options. It is recommended to first attempt re
 
 #### **Light mode**
 
-?> This mode will only clear IOSes to reinstall clean versions of them. Please note this will remove all cIOSes as well and must be reinstalled.
+?> This mode will clear the System Menu, Wii Message Board save data, IOSes, and other system titles to reinstall clean versions of them. Please note this will remove all cIOSes as well and must be reinstalled. All other data will be preserved.
 
 1. Select `Light mode` on the menu.
 1. Press Start to initiate the restoration process.
