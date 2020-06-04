@@ -16,9 +16,9 @@ Haxchi/CBHC er begge installert over et DS VC spill fra eshop, mens Mocha bare b
 
 ## CBHC
 
-!> Hvis du installerer CBHC feil så kan du "bricke" Wii U konsollen din. Sørg for å følge "CBHC reglene" når man installerer og bruker CBHC: <br>- DS spillet må være legitimt installert fra eShop <br>- Ikke formater systemet mens CBHC er installert <br>- Ikke slett brukerkontoen som kjøpte DS VC spillet <br>- Ikke re-installer det samme spillet med WUP Installer eller eShop <br>- Ikke installer Haxchi over CBHC <br>- Ikke slett DS Virtual Console spillet uten å [avinstallere CBHC først](uninstall-cbhc) <br>- Ikke flytt DS Virtual Console spillet til en USB-lagringsenhet
+!> Installing CBHC incorrectly can brick your Wii U! Make sure to follow the following rules when installing CBHC: <br>- The DS game has to be legitimately installed from the eShop! <br>- Ikke formater konsollen mens CBHC er installert! <br>- Don't delete the user account that bought the DS VC game! <br>- Ikke installer spillet på nytt ved bruk av WUP installer eller fra eShop! <br>- Ikke installer Haxchi over CBHC! <br>- Don't uninstall the DS Virtual Console game without [properly uninstalling CBHC first](uninstall-cbhc)! <br>- Ikke flytt DS VC spillet til en USB lagringsenhet!
 
-!> Ved å bryte en av reglene ovenfor vil du "bricke" konsollen din.
+!> Breaking one of the above rules **will** result in a brick!
 
 - Krever et legitimt installert DS VC spill fra eShop.
 - Starter CFW automatisk ved hver oppstart.
