@@ -25,15 +25,15 @@ Diese Anleitung wurde von Mitarbeitern des [Nintendo Homebrew Discord Server](ht
 > 
 > - **FIX94** und **smealum** für [Haxchi und CBHC](https://github.com/FIX94/haxchi).
 > 
-> - **dimok789** für den [Homebrew Launcher ](https://github.com/dimok789/homebrew_launcher), den [Homebrew Launcher Kanal](https://github.com/dimok789/homebrew_launcher) und [Mocha](https://github.com/dimok789/mocha).
+> - **dimok789** for the [Homebrew Launcher](https://github.com/dimok789/homebrew_launcher), the [Homebrew Launcher Channel](https://github.com/dimok789/homebrew_launcher), and [Mocha](https://github.com/dimok789/mocha).
 > 
 > - **orboditilt** und **dimok789** für den [Homebrew Launcher Installer](https://github.com/wiiu-env/homebrew_launcher_installer).
 > 
 > - **vgmoose**, **pwsincd**, **rw-r-r_0644**, **crc32** und **Compucat** für [hb-appstore](https://github.com/vgmoose/hb-appstore).
 > 
-> - **Jonhyjp** für [Indexiine](https://gbatemp.net/threads/indexiine-load-cfw-during-boot-and-offline-without-a-vc-ds-title.553681/)
+> - **Jonhyjp** for [Indexiine](https://gbatemp.net/threads/indexiine-load-cfw-during-boot-and-offline-without-a-vc-ds-title.553681/).
 > 
-> - **JumpCallPop**, **jam1garner**, **hedgeberg**, **yellows8** und **orboditilt** für [JSTypeHax](https://github.com/wiiu-env/JsTypeHax)
+> - **JumpCallPop**, **jam1garner**, **hedgeberg**, **yellows8** and **orboditilt** for [JSTypeHax](https://github.com/wiiu-env/JsTypeHax).
 > 
 > - **ihaveamac/ihaveahax** für [overwrite-wiiu-titlehash](https://github.com/ihaveamac/overwrite-wiiu-titlehash).
 > 
@@ -43,10 +43,10 @@ Diese Anleitung wurde von Mitarbeitern des [Nintendo Homebrew Discord Server](ht
 > 
 > - **koolkdev** für [Wii U NAND Dumper](https://github.com/koolkdev/wiiu-nanddumper).
 > 
-> - **dimok789** für [wupclient.py](https://github.com/dimok789/mocha/blob/master/ios_mcp/wupclient.py)
+> - **dimok789** for [wupclient.py](https://github.com/dimok789/mocha/blob/master/ios_mcp/wupclient.py).
 > 
 > - **FIX94** für [Wuphax](https://github.com/FIX94/wuphax).
 > 
-> - **GaryOderNichts** für [Indexiine-Installer](https://github.com/GaryOderNichts/indexiine-installer), [UFDiine](https://github.com/GaryOderNichts/UFDiine/releases), und die feste Version des [Homebrew Launcher Channel](https://github.com/GaryOderNichts/homebrew_launcher/)
+> - **GaryOderNichts** for [Indexiine-Installer](https://github.com/GaryOderNichts/indexiine-installer), [UFDiine](https://github.com/GaryOderNichts/UFDiine), [vWii Decaffeinator](https://github.com/GaryOderNichts/vWii-Decaffeinator), and the fixed version of the [Homebrew Launcher Channel](https://github.com/GaryOderNichts/homebrew_launcher/).
 > 
-> - **GabyPCgeeK** und **Ryuzaki-MrL** für [SaveMii mod](https://github.com/GabyPCgeeK/savemii)
+> - **GabyPCgeeK** and **Ryuzaki-MrL** for [SaveMii mod](https://github.com/GabyPCgeeK/savemii).
