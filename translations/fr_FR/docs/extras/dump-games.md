@@ -15,8 +15,8 @@ Dumper vos disques vous permet d'installer une copie de votre jeu sur la NAND / 
 ### Ce dont vous avez besoin
 
 - Votre carte SD a besoin de suffisamment d'espace pour stocker le jeu que vous voulez dumper.
-- La dernière version de [WUP Installer GX2](http://wiiubru.com/appstore/zips/wup_installer_gx2.zip)
-- L'application Homebrew [disc2app](http://www.wiiubru.com/appstore/zips/disc2app.zip)
+- The latest release of [WUP Installer GX2](http://wiiubru.com/appstore/zips/wup_installer_gx2.zip).
+- The [disc2app](http://www.wiiubru.com/appstore/zips/disc2app.zip) homebrew application.
 
 ### Instructions
 
