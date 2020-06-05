@@ -10,8 +10,8 @@ Cette page vous guidera dans le processus de récupération d'un IOS ou d'un can
 - Sélection de la région
 - Menu Système
 - Chaîne Mii
-- Wii U Menu
-- Wii Shop Channel
+- Menu Wii U
+- Chaîne Boutique Wii
 - IOS 9
 - IOS 12
 - IOS 13
