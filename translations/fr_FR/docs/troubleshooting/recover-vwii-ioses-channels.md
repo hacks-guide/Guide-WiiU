@@ -1,9 +1,9 @@
-# Recover a vWii IOS/Channel
+# Récupération d'un IOS/Canal vWii
 ---
-This page will guide you through the process of recovering a IOS or channel on your vWii, whether it has been corrupted or deleted for whatever reason.
+Cette page vous guidera dans le processus de récupération d'un IOS ou d'un canal sur votre vWii, qu'il ait été corrompu ou supprimé pour une raison quelconque.
 
 <details>
-<summary>Click here to show what can be recovered with this method.</summary>
+<summary>Cliquez ici pour voir ce qui peut être récupéré avec cette méthode.</summary>
 
 - Wii Menu Manual
 - vWii System Channel
@@ -46,22 +46,22 @@ This page will guide you through the process of recovering a IOS or channel on y
 
 </details>
 
-!> This has the potential to destroy your vWii NAND if you are not careful! Please consider [backing up](mocha/online-exploit/nand-backup) your SLCCMPT and OTP if you do not yet have them backed up!
+!> Cela risque de détruire votre vWii NAND si vous ne faites pas attention ! Veuillez envisager de [sauvegarder](mocha/online-exploit/nand-backup) vos SLCCMPT et OTP si vous ne les avez pas encore sauvegardés !
 
 ?> Si vous utilisez une méthode de blocage de mise à jour du système, veuillez [la supprimer](unblock-updates).
 
 ### Ce dont vous avez besoin
 
 - Une installation [Homebrew fonctionnelle](introduction) sur le côté de la WiiU.
-- The latest release of [vWii Decaffeinator](https://github.com/GaryOderNichts/vWii-Decaffeinator/releases).
+- La dernière version de [vWii Decaffeinator](https://github.com/GaryOderNichts/vWii-Decaffeinator/releases).
 
 ### Instructions
 
-1. Extract the `decaffeinator.zip` file to the root of your SD Card.
+1. Extrayez le fichier `decaffeinator.zip` à la racine de votre carte SD.
 1. Retirez la carte SD de votre ordinateur et branchez-la sur votre console Wii U.
 1. Allumez votre Wii U et lancez le CFW de votre choix (Mocha, Haxchi ou CBHC).
 1. Lancez le Homebrew Launcher.
-1. Launch vWii Decaffeinator.
+1. Lancer vWii Decaffeinator.
 
 ### Recovering Process
 
