@@ -8,7 +8,7 @@ This guide was written by staff members of the [Nintendo Homebrew Discord Server
 >
 > Thank you to [everyone else](https://github.com/hacks-guide/Guide-WiiU/graphs/contributors) that contributed to the guide on GitHub.
 
-?> [You can find this guide on GitHub](https://github.com/hacks-guide/Guide-WiiU), It is licensed under the [ISC License](https://github.com/hacks-guide/Guide-WiiU/blob/master/LICENSE.md).
+?> [You can find this guide on GitHub](https://github.com/hacks-guide/Guide-WiiU), It is licensed under the [GNU General Public License v3.0 License](https://github.com/hacks-guide/Guide-WiiU/blob/master/LICENSE).
 
 <figure class="thumbnails">
     <img src="docs/assets/img/nh.jpg" alt="Nintendo Homebrew" title="Nintendo Homebrew">
