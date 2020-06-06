@@ -4,7 +4,7 @@
 
 ?> 导出和安装游戏需要你先完成 Homebrew 的设置，所以你需要先完成关于安装自制固件的主要教程，然后再来关注下面的步骤。
 
-### 说明
+### 操作步骤
 
 <!-- tabs:start -->
 
@@ -14,20 +14,20 @@
 
 ### 你需要准备点啥？
 
-- Your SD Card needs to have enough space to fit the game you want to dump.
-- The latest release of [WUP Installer GX2](http://wiiubru.com/appstore/zips/wup_installer_gx2.zip).
-- The [disc2app](http://www.wiiubru.com/appstore/zips/disc2app.zip) homebrew application.
+- 你的 SD 卡需要保存游戏的导出文件的足够的空间。
+- 最新版 [WUP Installer GX2](http://wiiubru.com/appstore/zips/wup_installer_gx2.zip)。
+- [Disc2app](http://www.wiiubru.com/appstore/zips/disc2app.zip) homebrew 程序。
 
-### 说明
+### 操作步骤
 
-1. Extract the `wup_installer_gx2.zip` file to the root of your SD Card.
-1. Extract the `disc2app.zip` file to the root of your SD Card.
-1. Take the SD Card out of your PC and plug it into your Wii U.
-1. Power on your Wii U.
-1. Eject your game disc if you have one inserted.
-1. Launch the Homebrew Launcher and start the disc2app app.
-1. Press the A button to start the dumping process to the SD Card.
-1. When prompted, insert the game disc you want to dump.
+1. 解压 `wup_installer_gx2.zip` 到你的 SD 卡根目录。
+1. 解压 `disc2app.zip` 到你的 SD 卡根目录。
+1. 将内存卡从电脑上拔出并插回 Wii U。
+1. 打开你的 Wii U。
+1. 如果你的游戏光盘还插入在 Wii U 中，将其弹出。
+1. 启动 Homebrew Launcher 并启动 disc2app 应用。
+1. 按下 A 键启动导出文件到 SD 卡的进程。
+1. 当提示时，插入你想要导出游戏的游戏光盘。
 1. When the process is complete, your Wii U will launch the Wii U Menu.
 1. Launch the Homebrew Launcher and start the WUP Installer GX2 app.
 1. Select your game (`WUP-X-XXXX`), press `Install` and confirm with `Yes`.
@@ -45,22 +45,22 @@
 
 ### What You Need
 
-- Your SD Card needs to have enough space to fit the game you want to dump.
+- 你的 SD 卡需要保存游戏的导出文件的足够的空间。
 - A USB HDD (+ a Y-cable if needed)
 - The latest release of [WUP Installer GX2](http://wiiubru.com/appstore/zips/wup_installer_gx2.zip)
 - The [disc2app](http://www.wiiubru.com/appstore/zips/disc2app.zip) Homebrew app
 
-### 说明
+### 操作步骤
 
-1. Extract the `wup_installer_gx2.zip` file to the root of your SD Card.
-1. Extract the `disc2app.zip` file to the root of your SD Card.
-1. Take the SD Card out of your PC and plug it into your Wii U.
+1. 解压 `wup_installer_gx2.zip` 到你的 SD 卡根目录。
+1. 解压 `disc2app.zip` 到你的 SD 卡根目录。
+1. 将内存卡从电脑上拔出并插回 Wii U。
 1. Plug your USB HDD into the Wii U.
-1. Power on your Wii U.
+1. 打开你的 Wii U。
 1. Your Wii U will prompt you to format your HDD. Confirm with Yes.
 1. Eject your game disc if you have one inserted
-1. Launch the Homebrew Launcher and start the disc2app app.
-1. Press the A button to start the dumping process to the SD Card.
+1. 启动 Homebrew Launcher 并启动 disc2app 应用。
+1. 按下 A 键启动导出文件到 SD 卡的进程。
 1. When prompted, insert the game disc you want to dump
 1. When the process is complete, your Wii U will launch the Wii U Menu.
 1. Launch the Homebrew Launcher and start the WUP Installer GX2 app.
@@ -92,7 +92,7 @@
 - The  1.4 release of [The Homebrew Launcher](https://github.com/dimok789/homebrew_launcher/releases/tag/1.4)
   - You will need to download the v1.4 `homebrew_launcher.v.1.4.zip` release.
 
-### 说明
+### 操作步骤
 
 ?> **Notice** Your USB device will need to be formatted as FAT32. If your USB is not formatted to FAT32, use [GUIFormat](http://www.ridgecrop.demon.co.uk/index.htm?guiformat.htm) with 32k (32768) Allocation unit size to format it.
 
@@ -101,7 +101,7 @@
 1. Extract the `disc2app.zip` file to the root of your USB device.
 1. Extract the `mocha_fat32.zip` file to the root of your SD Card.
 1. Take the SD Card out of your PC and plug it into your Wii U console.
-1. Power on your Wii U.
+1. 打开你的 Wii U。
 1. Plug in your USB device. The Wii U will ask you format it. Cancel with No!
 1. Launch the Homebrew Launcher and start the MochaFAT32 app.
 1. In the configuration menu, set the following settings:
@@ -131,7 +131,7 @@
 
 1. Reboot your Wii U to remove the effect of MochaFAT32.
 1. Plug your USB device into the Wii U.
-1. Power on your Wii U.
+1. 打开你的 Wii U。
 1. Your Wii U will prompt you to format your USB device. Confirm with Yes.
 1. Open the Wii U's System Settings.
 1. Navigate to `Data Management > Copy/Move/Delete Data > System Memory > Move Items (X)`
