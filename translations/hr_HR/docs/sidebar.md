@@ -1,9 +1,9 @@
-- **User Guide**
-- [Introduction](introduction)
-- [Choose a CFW](cfw-choice)
+- **Korisničko Upustvo**
+- [Uvod](introduction)
+- [Izabir CFW](cfw-choice)
 - **vWii**
-- [vWii Modding](vwii-modding)
-- **Troubleshooting**
+- [vWii Modifikacija](vwii-modding)
+- **Rješavanje problema**
 - [Common Issues & Fixes](common-issues-fixes)
 - [Recover a vWii IOS/Channel](recover-vwii-ioses-channels)
 - [Fix Error Code 112-1037](fix-errcode-112-1037)
