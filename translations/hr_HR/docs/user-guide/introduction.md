@@ -1,28 +1,28 @@
-# Wii U Hacks Guide
+# Wii U Hacks Upustva
 
-A guide collaboration between Nintendo Homebrew's Helpers and Staff, from stock to CBHC custom firmware.
+Vodič za suradnju između osoblja Nintendo Homebrew-a i pomoćnika, od originalnog sistema do CBHC prilagođenog softvera.
 
-?> **Discord Help** For live support with this guide please visit us in **#wiiu-assistance** on the [Nintendo Homebrew Discord](https://discord.gg/C29hYvh) and ask, in English, for assistance. Please read the FAQ first to see if your question has already been answered.
+>**Discord Pomoć** Za live pomoć sa ovim vodičom molim vas da nas posjetite u **#wiiu-assistance** u [Nintendo Homebrew Discord](https://discord.gg/C29hYvh) i pitajte nas, na engleskom, za bilo kakvu pomoć. Molim vas pročitajte prvo FAQ da vidite da li vaše pitanje već nije odgovoreno.
 
-> If you appreciate this guide, we accept [donations](donations).
+> Ako cijenite naš vodič, mi također primamo [donacije](donations).
 
-> For complete guides to homebrew and custom firmware for other devices, check out [hacks.guide](https://hacks.guide).
+> Kompletne vodiče za homebrew i prilagođeni firmvere za ostale uređaje potražite u [hacks.guide](https://hacks.guide).
 
 ### Homebrew
 
-> Homebrew applications are custom, user-made software, which haven’t been authorized by Nintendo. This can include save editing tools, games, emulators, and more.
+> Homebrew aplikacije su prilagođeni, korisnički prilagođeni softver, koji Nintendo nije odobrio. U ovo spada spremivi alati igara, igrice, emulatori i mnogo drugih.
 > 
-> Homebrew can be run on your Wii U as long as you have a way to put files on an SD Card and your Wii U is updated to the latest version for your region.
+> Homebrew se može pokrenuti na vašem Wii U sve dok imate način stavljanja datoteka na SD karticu i ažuriranja Wii U-a na najnoviju verziju za vašu regiju.
 
-### Custom Firmware
+### Prilagođeni firmver
 
-> Custom Firmware ("CFW") enables you to use more advanced hacks that userland homebrew can’t easily do. For instance, installing game modifications with ease. CFW can be set up on any console on the latest version.
+> Prilagođeni firmver ("CFW") omogućava vam da koristite naprednije hakove koji homebrew ne može. Na primjer, instaliranje modifikacija igre s lakoćom. CFW se može postaviti na bilo kojoj konzoli na najnovijoj verziji sistema.
 
-### Homebrew & CFW Uses
+### Homebrew & CFW Koristi
 >
-> Among other things, it allows you to do the following:
+> Između ostalog, to vam omogućuje sljedeće:
 > 
-> - Use “ROM hacks” for games that you own.
+> - Upotreba "ROM hacks" za igre koje posjedujete.
 > - Backup, edit and restore saves for many games.
 > - Play games for older systems with various emulators, using RetroArch or other standalone emulators.
 > - Play out-of-region games.
