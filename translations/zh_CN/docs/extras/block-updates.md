@@ -8,12 +8,12 @@
 <!-- tabs:start -->
 
 #### **删除更新文件夹**
-?> This method of update blocking is a bit more advanced than DNS Blocking and uses a homebrew app to modify system files. However, it has the advantage that the eShop's functionality will not be restricted.
+?> 这个阻止更新的办法比使用 DNS 屏蔽更加高级，需要使用一个 Homebrew 程序来修改系统文件。 且 eShop 的功能不会受到限制。
 1. 将 SD 卡插入电脑。
-1. Download and extract [UFDiine](https://github.com/GaryOderNichts/UFDiine/releases) to the root of your SD Card.
+1. 下载并解压 [UFDiine](https://github.com/GaryOderNichts/UFDiine/releases) 到你的 SD 卡根目录。
 1. 将 SD 卡插回 Wii U 并将其开机。
-1. Enter the Homebrew Launcher.
-1. Navigate the Homebrew Launcher and run the UFDiine app.
+1. 启动 Homebrew Launcher。
+1. 移动 Homebrew Launcher 并启动 UFDiine app。
 1. Press the A button to delete the update folder.
 1. Confirm that it says `Update folder is deleted`. 你现在已阻止系统更新。
 
