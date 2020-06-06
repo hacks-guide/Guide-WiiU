@@ -19,14 +19,14 @@
 ### Le menu Gestion des données demande de supprimer les données inutiles, qu'est-ce que cela signifie ?
 
 Il s'agit des fichiers restants, ce qui est dû à une ou plusieurs installations incomplètes. Choisissez toujours Oui pour supprimer ces données, car elles prennent de la place inutilement. Si jamais le processus de suppression des données semble ne pas fonctionner et tourne indéfiniment, vous pouvez supprimer manuellement les données vous-même.  
-Utilisez FTPiiU Everywhere et naviguez jusqu'à `/storage_mlc/usr/import` puis supprimez tous les fichiers du dossier s'il y en a. C'est là que les installations partielles existent après les installations incomplètes. Ce sera `/storage_usb/usr/import` si installé sur un périphérique USB.  
+Utilisez FTPiiU Everywhere et naviguez jusqu'à `/storage_mlc/usr/import` puis supprimez tous les fichiers du dossier s'il y en a. C'est là que se trouvent les installations partielles lorsque des installations échouent. Ce sera `/storage_usb/usr/import` si installé sur un périphérique USB.  
 Le dossier `import` doit toujours être vide.
 
-### Mon disque dur ne fonctionne pas ou émet un clic bizarre, que dois-je faire ?
+### Mon disque dur ne fonctionne pas ou fait un bruit de clic bizarre, que dois-je faire ?
 
-La raison en est que la Wii U ne donne pas assez de puissance via un port USB pour utiliser le disque dur.
+Cela est dû à une sous alimentation en électricité du disque dur car la Wii U n'en fournit pas assez au travers d'un seul port USB.
 
-Vous pouvez régler ce problème en utilisant soit un disque dur alimenté, soit un câble en Y pour connecter le disque dur à deux ports USB.
+Vous pouvez régler ce problème en utilisant soit un disque dur alimenté par une source externe, soit un câble en Y pour connecter le disque dur à deux ports USB.
 
 Si votre disque dur a fonctionné pendant un certain temps puis a cessé de fonctionner pour certains jeux/toutes les jeux, c'est le même problème et il peut être résolu avec les mêmes méthodes.
 
