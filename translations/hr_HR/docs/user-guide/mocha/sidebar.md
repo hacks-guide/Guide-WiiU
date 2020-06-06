@@ -1,10 +1,10 @@
 - **Mocha**
-- [Home Page](../introduction)
-- [Choose a CFW](../cfw-choice)
-- [Choose an Entrypoint](entrypoint-choice)
-- **Links**
+- [Početna Stranica](../introduction)
+- [Izabir CFW](../cfw-choice)
+- [Odabir Ulazne Tačke](entrypoint-choice)
+- **Linkovi**
 - [![GitHub](https://icongr.am/simple/github.svg?color=808080&size=16)GitHub](https://github.com/hacks-guide/Guide-WiiU)
 - [![Discord](https://icongr.am/simple/discord.svg?colored&size=16)Discord](https://discord.gg/C29hYvh)
-- [![Translate the guide](https://icongr.am/material/translate.svg?color=808080&size=16)Translate the guide](https://hacks-guide.crowdin.com/u/projects/10)
-- [Donate](donations)
-- [About](../about)
+- [![Prevedi ovaj vodič](https://icongr.am/material/translate.svg?color=808080&size=16)Prevedi ovaj vodič](https://hacks-guide.crowdin.com/u/projects/10)
+- [Doniraj](donations)
+- [O nama](../about)

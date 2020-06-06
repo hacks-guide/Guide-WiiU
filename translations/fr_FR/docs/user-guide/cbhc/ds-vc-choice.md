@@ -2,14 +2,14 @@
 
 ## Choisissez votre jeu DS VC
 
-La première chose à faire est de décider quel jeu de la console virtuelle DS ("VC") vous allez acheter.  
-Veuillez noter que le jeu dans lequel vous avez injecté Haxchi/CBHC ne sera plus jouable tant que vous n'aurez pas désinstallé Haxchi/CBHC et réinstallé le jeu depuis la boutique en ligne.
+La première chose à faire est de décider quel jeu Console Virtuelle DS ("VC" pour Virtual Console en anglais) vous allez acheter.  
+Veuillez noter que le jeu dans lequel vous avez injecté Haxchi/CBHC ne sera plus jouable tant que vous n'aurez pas désinstallé Haxchi/CBHC et réinstallé le jeu depuis l'eShop.
 
 ### Jeux DS VC compatibles
 
 ?> Si vous avez une console de région européenne, il y a une chance que vous ayez déjà obtenu <code>Programme <wbr>d'Entraînement <wbr>Cérébral du <wbr>Dr Kawashima: <wbr>Quel <wbr>âge a <wbr>votre <wbr>cerveau ?</code> gratuitement. Rendez-vous sur [l'eShop](https://en-americas-support.nintendo.com/app/answers/detail/a_id/8563/~/how-to-view-previously-downloaded-titles-on-wii-u) et vérifiez si vous avez obtenu le jeu.
 
-Si vous ne possédez aucun des jeux énumérés ci-dessous, nous vous recommandons d'acheter Brain Age (Amérique du Nord) ou Brain Training (Europe) car il se situe actuellement dans la tranche de prix la moins chère des jeux compatibles et est le jeu auquel nous nous attendons le moins à ce que vous souhaitiez jouer.
+Si vous ne possédez aucun des jeux listés ci-dessous, Nous vous recommandons d'acheter Brain Age (Amérique du Nord) ou Programme d'entraînement cérébral du Dr Kawashima : Quel âge a votre cerveau ? (Europe) car il fait partie des jeux les moins chers et est un jeu auquel très peu de monde souhaite jouer.
 
 - **Animal Crossing: Wild World** - [EUR](https://www.nintendo.eu/Games/Nintendo-DS/Animal-Crossing-Wild-World-270011.html "Buy it from the European eShop") [USA](https://www.nintendo.com/games/detail/animal-crossing-wild-world-wii-u/ "Buy it from the American eShop") [JPN](https://www.nintendo.co.jp/titles/20010000023019 "Buy it from the Japanese eShop")
 - **Cérébrale Académie** - [EUR](https://www.nintendo.eu/Games/Nintendo-DS/Big-Brain-Academy-270143.html "Buy it from the European eShop") [USA](https://www.nintendo.com/games/detail/big-brain-academy-wii-u/ "Buy it from the American eShop") [JPN](https://www.nintendo.co.jp/titles/20010000013967 "Buy it from the Japanese eShop")

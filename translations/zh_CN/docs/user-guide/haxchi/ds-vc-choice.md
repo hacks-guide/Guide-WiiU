@@ -1,13 +1,12 @@
 # Haxchi {docsify-ignore-all}
 
-## Choose Your DS VC Game
+## 选择你要用的 DS VS 游戏
 
-The first thing to decide is what DS Virtual Console ("VC") game you will buy.  
-Please note that the game you injected Haxchi/CBHC into will not be playable anymore until you uninstall Haxchi/CBHC and reinstall the game from the eShop.
+首先你要决定买哪个 DS Virtual Console ("VC") 游戏。
 
-### Compatible DS VC Games
+### 适用的 DS VC 游戏
 
-?> If you have a European region console, there is a chance that you might already have got <code>Dr. Kawashima's <wbr>Brain <wbr>Training: <wbr>How <wbr>Old <wbr>is <wbr>Your <wbr>Brain?</code> for free. Head over [to the eShop](https://en-americas-support.nintendo.com/app/answers/detail/a_id/8563/~/how-to-view-previously-downloaded-titles-on-wii-u) and check if you got the game.
+如果你是欧版主机，有可能自带 Dr. Kawashima's Brain Training: How Old is Your Brain? 前往 eShop 查看是否购买过该游戏。
 
 If you do not own any of the games listed below, we recommend buying Brain Age (North America) or Brain Training (Europe) as it currently is in the cheapest price bracket of compatible games and is the game we least expect you to want to play.
 

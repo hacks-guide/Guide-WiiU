@@ -1,17 +1,17 @@
-# Recover a vWii IOS/Channel
+# Récupération d'un IOS/d'une chaîne vWii
 ---
-This page will guide you through the process of recovering a IOS or channel on your vWii, whether it has been corrupted or deleted for whatever reason.
+Cette page vous guidera dans le processus de récupération d'un IOS ou d'une chaîne sur votre vWii, qu'il/elle ait été corrompu·e ou supprimé·e pour une raison quelconque.
 
 <details>
-<summary>Click here to show what can be recovered with this method.</summary>
+<summary>Cliquez ici pour voir ce qui peut être récupéré avec cette méthode.</summary>
 
-- Wii Menu Manual
-- vWii System Channel
-- Region Select
-- System Menu
-- Mii Channel
-- Wii U Menu
-- Wii Shop Channel
+- Manuel du menu Wii
+- Chaîne système vWii
+- Sélection de la région
+- Menu Système
+- Chaîne Mii
+- Menu Wii U
+- Chaîne Boutique Wii
 - IOS 9
 - IOS 12
 - IOS 13
@@ -46,63 +46,63 @@ This page will guide you through the process of recovering a IOS or channel on y
 
 </details>
 
-!> This has the potential to destroy your vWii NAND if you are not careful! Please consider [backing up](mocha/online-exploit/nand-backup) your SLCCMPT and OTP if you do not yet have them backed up!
+!> Cela peut détruire la NAND de votre vWii si vous ne faites pas attention ! Veuillez [sauvegarder](mocha/online-exploit/nand-backup) vos SLCCMPT et OTP si vous ne les avez pas encore sauvegardés !
 
 ?> Si vous utilisez une méthode de blocage de mise à jour du système, veuillez [la supprimer](unblock-updates).
 
 ### Ce dont vous avez besoin
 
 - Une installation [Homebrew fonctionnelle](introduction) sur le côté de la WiiU.
-- The latest release of [vWii Decaffeinator](https://github.com/GaryOderNichts/vWii-Decaffeinator/releases).
+- La dernière version de [vWii Decaffeinator](https://github.com/GaryOderNichts/vWii-Decaffeinator/releases).
 
 ### Instructions
 
-1. Extract the `decaffeinator.zip` file to the root of your SD Card.
+1. Copiez le contenu du fichier `decaffeinator.zip` vers la racine de votre carte SD.
 1. Retirez la carte SD de votre ordinateur et branchez-la sur votre console Wii U.
 1. Allumez votre Wii U et lancez le CFW de votre choix (Mocha, Haxchi ou CBHC).
 1. Lancez le Homebrew Launcher.
-1. Launch vWii Decaffeinator.
+1. Lancez vWii Decaffeinator.
 
-### Recovering Process
+### Processus de récupération
 
-You will be provided with various options. It is recommended to first attempt restoring through the `Advanced options` menu if you know what to restore, or `Light mode` if you aren't sure. In extreme cases where no other option solves the issue, `Aggressive mode` should be chosen.
+Différentes options vous seront proposées. Il est recommandé de faire une première tentative de restauration en passant par le menu `Advanced options` si vous savez ce qu'il faut restaurer, ou `Light mode` si vous n'êtes pas sûr. Dans les cas extrêmes où aucune autre option ne résout le problème, il convient de choisir `Aggressive mode`.
 
 <!-- tabs:start -->
 
 #### **Advanced options**
 
-?> This mode will clear the specified IOSes and channels to reinstall them. All other data (including cIOSes) will be preserved.
+?> Ce mode efface les IOS et les chaînes spécifié·e·s pour les réinstaller. Toutes les autres données (y compris les cIOS) seront conservé·e·s.
 
-1. Select `Advanced options` on the menu.
-1. Use the D-Pad to toggle what you would like to be restored.
-1. Press Start to initiate the restoration process.
-1. When the application finishes, allow the application to launch the System Settings.
-1. Perform a [System Update](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1136/~/how-to-perform-a-system-update) to finish the restoration process.
+1. Sélectionnez `Advanced options` dans le menu.
+1. Utilisez les flèches pour séléctionner ce que vous souhaitez restaurer.
+1. Appuyez sur Start pour lancer le processus de restauration.
+1. Lorsque l'application a terminé, autorisez l'application à lancer les Paramètres de la console.
+1. Effectuez une [Mise à jour de la console](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1136/~/how-to-perform-a-system-update) pour terminer le processus de restauration.
 
 ?> Vous pouvez maintenant réactiver votre méthode de [blocage des mises à jour du système](block-updates).
 
 #### **Light mode**
 
-?> This mode will clear the System Menu, Wii Message Board save data, IOSes, and other system titles to reinstall clean versions of them. Please note this will remove all cIOSes as well and must be reinstalled. All other data will be preserved.
+?> Ce mode efface le Menu Système, les données sauvegardées sur le Bureau Wii, les IOS et autres titres du système pour en réinstaller des versions propres. Veuillez noter que cela supprimera également tous les cIOS et devront être réinstallés. Toutes les autres données seront conservées.
 
-1. Select `Light mode` on the menu.
-1. Press Start to initiate the restoration process.
-1. When the application finishes, allow the application to launch the System Settings.
-1. Perform a [System Update](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1136/~/how-to-perform-a-system-update) to finish the restoration process.
+1. Sélectionnez `Light mode` dans le menu.
+1. Appuyez sur Start pour lancer le processus de restauration.
+1. Lorsque l'application a terminé, autorisez l'application à lancer les Paramètres de la console.
+1. Effectuez une [Mise à jour de la console](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1136/~/how-to-perform-a-system-update) pour terminer le processus de restauration.
 
 ?> Vous pouvez maintenant réactiver votre méthode de [blocage des mises à jour du système](block-updates).
 
 #### **Aggressive mode**
 
-!> This mode will clear **everything** to reinstall clean versions of the default IOSes and channels. Please note that all cIOSes, save data, and channels will be lost, and the vWii NAND will be returned to its stock form!
+!> Ce mode efface **tout** pour réinstaller des versions propres des IOS et des chaînes par défaut. Veuillez noter que tous les cIOS, les données de sauvegarde et les chaînes seront perdu·e·s, et que la NAND de votre vWii sera comme en sortie d'usine !
 
-1. Select `Aggressive mode` on the menu.
-1. Read the warning in its entirety. If you wish to proceed, press Start to initiate the restoration process.
-1. When the application finishes, allow the application to launch the System Settings.
-1. Perform a [System Update](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1136/~/how-to-perform-a-system-update) to finish the restoration process.
+1. Sélectionnez `Aggressive mode` dans le menu.
+1. Lisez l'avertissement dans son intégralité. Si vous souhaitez poursuivre, appuyez sur Start pour lancer le processus de restauration.
+1. Lorsque l'application se termine, autorisez l'application à lancer les Paramètres de la console.
+1. Effectuez une [Mise à jour de la console](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1136/~/how-to-perform-a-system-update) pour terminer le processus de restauration.
 
 ?> Vous pouvez maintenant réactiver votre méthode de [blocage des mises à jour du système](block-updates).
 
 <!-- tabs:end -->
 
-> If you receive Error Code 105-3102 when performing the system update, restart your console and reattempt the update.
+> Si vous recevez le code d'erreur 105-3102 lors de la mise à jour du système, redémarrez votre console et réessayez la mise à jour.

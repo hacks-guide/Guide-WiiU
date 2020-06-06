@@ -2,20 +2,20 @@
 ---
 目前所有已知的 Wii U 漏洞（例如 Nintendo Switch RCM 漏洞）都可以被通过更新系统失效。 虽然 Wii U 不再会得到任天堂官方的技术支持，但任天堂仍然可以为其发布新的系统更新。 顾名思义，5.5.3 和 5.5.4 系统更新是在 Wii U 停产之后发布的，所以阻止系统更新仍然是一件值得做的事情。
 
-### 说明
+### 操作步骤
 
 目前，这里有两种方法可以阻止 Wii U 进行系统更新：
 <!-- tabs:start -->
 
 #### **删除更新文件夹**
-?> This method of update blocking is a bit more advanced than DNS Blocking and uses a homebrew app to modify system files. However, it has the advantage that the eShop's functionality will not be restricted.
+?> 这个阻止更新的办法比使用 DNS 屏蔽更加高级，需要使用一个 Homebrew 程序来修改系统文件。 且 eShop 的功能不会受到限制。
 1. 将 SD 卡插入电脑。
-1. Download and extract [UFDiine](https://github.com/GaryOderNichts/UFDiine/releases) to the root of your SD Card.
+1. 下载并解压 [UFDiine](https://github.com/GaryOderNichts/UFDiine/releases) 到你的 SD 卡根目录。
 1. 将 SD 卡插回 Wii U 并将其开机。
-1. Enter the Homebrew Launcher.
-1. Navigate the Homebrew Launcher and run the UFDiine app.
-1. Press the A button to delete the update folder.
-1. Confirm that it says `Update folder is deleted`. 你现在已阻止系统更新。
+1. 启动 Homebrew Launcher。
+1. 移动 Homebrew Launcher 并启动 UFDiine app。
+1. 按下 A 键删除更新文件夹。
+1. 确认它提示 `Update folder is deleted`。 你现在已阻止系统更新。
 
 ### **DNS 屏蔽**
 ?> 这种方法比上面那种简单一些，推荐小白做这种方法。 然而这个方法会影响 eShop 的功能。 若要启动 eShop，需要先运行 [NNUPatcher](http://www.wiiubru.com/appstore/zips/nnupatcher.zip) 后再启动 eShop。
@@ -27,7 +27,7 @@
  - 首选 DNS：168.235.092.108
  - 备用DNS：081.004.127.020 <img src="docs/assets/img/DNS.png" alt="DNS 屏蔽" />
 1. 点击确认.
-1. 你现在已阻止系统更新。 In order to access the eShop, run the NNUPatcher app from the Homebrew Launcher before launching the eShop.
+1. 你现在已阻止系统更新。 如果你想要启动 eShop，则你需要在 Homebrew Launcher 里运行 NNUPatcher 程序后再启动 eShop。
 
 
 <!-- tabs:end -->

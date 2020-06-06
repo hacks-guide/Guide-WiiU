@@ -1,25 +1,25 @@
-- **User Guide**
-- [Introduction](introduction)
-- [Choose a CFW](cfw-choice)
+- **Korisničko Upustvo**
+- [Uvod](introduction)
+- [Izabir CFW](cfw-choice)
 - **vWii**
-- [vWii Modding](vwii-modding)
-- **Troubleshooting**
-- [Common Issues & Fixes](common-issues-fixes)
-- [Recover a vWii IOS/Channel](recover-vwii-ioses-channels)
-- [Fix Error Code 112-1037](fix-errcode-112-1037)
-- **Extras**
-- [Blocking Updates](block-updates)
-- [Unblocking Updates](unblock-updates)
-- [Dumping Wii U Discs](dump-games)
-- [Dumping Original Wii Discs](dump-wii-games)
-- [Uninstall CBHC](uninstall-cbhc)
-- [Uninstall Indexiine](uninstall-indexiine)
+- [vWii Modifikacija](vwii-modding)
+- **Rješavanje problema**
+- [Uobičajni problemi & Rješenja](common-issues-fixes)
+- [Oporavi vWii IOS/Channel](recover-vwii-ioses-channels)
+- [Popravi Error Kod 112-1037](fix-errcode-112-1037)
+- **Ekstra**
+- [Blokiranje ažuriranja](block-updates)
+- [Deblokiranje ažuriranja](unblock-updates)
+- [Kopiranje Wii U Diskova](dump-games)
+- [Kopiranje Originalnih Wii Diskova](dump-wii-games)
+- [Deinstalacija CBHC](uninstall-cbhc)
+- [Deinstalacija Indexiine](uninstall-indexiine)
 - [FAQ](faq)
-- **Links**
+- **Linkovi**
 - [![GitHub](https://icongr.am/simple/github.svg?color=808080&size=16)GitHub](https://github.com/hacks-guide/Guide-WiiU)
 - [![Discord](https://icongr.am/simple/discord.svg?colored&size=16)Discord](https://discord.gg/C29hYvh)
-- [![Translate the guide](https://icongr.am/material/translate.svg?color=808080&size=16)Translate the guide](https://hacks-guide.crowdin.com/u/projects/10)
-- [Donate](donations)
-- [About](about)
-- **Privacy**
-- [Privacy Policy](privacy-policy)
+- [![Prevedi ovaj prevod](https://icongr.am/material/translate.svg?color=808080&size=16)Prevedi ovo upustvo](https://hacks-guide.crowdin.com/u/projects/10)
+- [Donacija](donations)
+- [O nama](about)
+- **Privatnost**
+- [Pravila o privatnosti](privacy-policy)

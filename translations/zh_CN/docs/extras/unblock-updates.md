@@ -9,10 +9,10 @@
 #### **重新创建更新文件夹**
 
 1. 将 SD 卡插入电脑。
-1. Download and extract [UFDiine](https://github.com/GaryOderNichts/UFDiine/releases) to the root of your SD Card.
+1. 下载并解压 [UFDiine](https://github.com/GaryOderNichts/UFDiine/releases) 到你的 SD 卡根目录。
 1. 将 SD 卡插回 Wii U 并将其开机。
-1. Enter the Homebrew Launcher.
-1. Navigate the Homebrew Launcher and run the UFDiine app.
+1. 启动 Homebrew Launcher。
+1. 移动 Homebrew Launcher 并启动 UFDiine app。
 1. Press the A button to create the update folder.
 1. Confirm that it says `Update folder exists`. You are no longer blocking updates.
 
