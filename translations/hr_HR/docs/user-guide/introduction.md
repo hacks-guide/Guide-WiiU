@@ -34,9 +34,9 @@ Vodič za suradnju između osoblja Nintendo Homebrew-a i pomoćnika, od original
 
 ### Prije početka
 
-!> Before beginning the guide, you must know the risks of Wii U hacking: **EVERY** time you modify your system, there is always the potential for an **UNRECOVERABLE** brick. They’re rare but still a possibility so make sure you follow **ALL** directions **EXACTLY!**
+> Prije početka vodiča, morate znati da imate rizike hakiranja Wii U-a: **SVAKI PUT** kada mijenjate svoj sustav, uvijek postoji vjerovatnoća za potencijalno **UNIŠTAVANJE** sistema. Rijetki su, ali još uvijek ima mogućnost tako da dobro pratite **SVE** instrukcije **PRAVILNO!**
 >
-> This guide will work on all Wii U consoles in all regions on firmware 5.5.4 or below.
+> Ovaj vodič će raditi na svim Wii U konzola iz svih regija na firmvaru 5.5.4 ili niže.
 > 
 > You will need the following in order to successfully follow this guide:
 > 
