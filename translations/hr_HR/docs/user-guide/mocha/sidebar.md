@@ -1,6 +1,6 @@
 - **Mocha**
 - [Home Page](../introduction)
-- [Choose a CFW](../cfw-choice)
+- [Izabir CFW](../cfw-choice)
 - [Choose an Entrypoint](entrypoint-choice)
 - **Links**
 - [![GitHub](https://icongr.am/simple/github.svg?color=808080&size=16)GitHub](https://github.com/hacks-guide/Guide-WiiU)
