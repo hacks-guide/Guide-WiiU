@@ -1,16 +1,16 @@
-# Problèmes courants & Corrige {docsify-ignore-all}
+# Problèmes courants & solutions {docsify-ignore-all}
 ---
 ### Les erreurs courantes de Haxchi
 
- - **-3:** Aucune carte SD détectée. Réinsérez la carte SD et essayez à nouveau. Assurez-vous que la carte SD est au format FAT32. Si l'erreur persiste, essayez de souffler dans la fente SD car elle peut être poussiéreuse à l'intérieur.
+ - **-3:** Aucune carte SD détectée. Réinsérez la carte SD et essayez à nouveau. Assurez-vous que la carte SD est au format FAT32. Si l'erreur persiste, essayez de souffler dans le port carte SD car il peut y avoir de la poussière à l'intérieur.
 
- - **-4:** SD détecté mais n'a pas pu être monté. Vérifiez si la carte SD utilise le MBR et non le GPT. Vérifiez également s'il existe d'autres partitions sur la carte SD et fusionnez-les en une seule partition primaire.
+ - **-4:** carte SD détectée mais n'a pas pu être montée. Vérifiez si la carte SD utilise le MBR et non le GPT. Vérifiez également s'il existe d'autres partitions sur la carte SD et fusionnez-les en une seule partition primaire.
 
- - **-5:** Fichiers manquants sur la carte SD. Vérifiez si votre carte SD a le Homebrew Launcher situé dans <code>/wiiu<wbr>/apps<wbr>/homebrew_launcher<wbr>/homebrew_launcher.elf</code>.
+ - **-5:** Fichiers manquants sur la carte SD. Vérifiez si votre carte SD contient l'Homebrew Launcher situé dans <code>/wiiu<wbr>/apps<wbr>/homebrew_launcher<wbr>/homebrew_launcher.elf</code>.
 
 ### Erreurs du navigateur
 
- - **FSGetMountSource failed:** Même chose que -3 ci-dessus, signifie qu'aucune carte SD n'a été détectée. Réinsérer la carte SD et réessayer.
+ - **FSGetMountSource failed:** Même chose que -3 ci-dessus, cela signifie qu'aucune carte SD n'a été détectée. Réinsérer la carte SD et réessayer.
 
  - **FSOpenFile failed [...] payload.elf:** Fichier payload manquant sur la carte SD. Vérifiez que vous avez bien le fichier payload.elf dans le dossier wiiu.
 
