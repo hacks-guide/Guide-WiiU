@@ -3,7 +3,7 @@
 **Dernière mise à jour le 18 janvier 2020**
 
 
-Merci d'avoir choisi de faire partie de notre communauté au Wii U Hacks Guide ("société", "nous", "notre" ou "nos"). Nous nous engageons à protéger vos informations personnelles et votre droit à la vie privée. Si vous avez des questions ou des préoccupations concernant notre politique ou nos pratiques relatives à vos informations personnelles, veuillez nous contacter à l'adresse suivante : nh.wiiuguide@gmail.com.
+Merci d'avoir choisi de faire partie de notre communauté à Wii U Hacks Guide ("société", "nous", "notre" ou "nos"). Nous nous engageons à protéger vos informations personnelles et votre droit à la vie privée. Si vous avez des questions ou des préoccupations concernant notre politique ou nos pratiques relatives à vos informations personnelles, veuillez nous contacter à l'adresse suivante : nh.wiiuguide@gmail.com.
 
 Lorsque vous visitez notre site web https://wiiu.hacks.guide et que vous utilisez nos services, vous nous confiez vos informations personnelles. Nous prenons votre vie privée très au sérieux. Dans cet avis de confidentialité, nous décrivons notre politique en matière de protection de la vie privée. Nous nous efforçons de vous expliquer le plus clairement possible quelles sont les informations que nous recueillons, comment nous les utilisons et quels sont vos droits en la matière. Nous espérons que vous prendrez le temps de le lire attentivement, car il est important. Si vous n'acceptez pas certaines conditions de la présente politique de confidentialité, veuillez cesser d'utiliser nos sites et nos services.
 
@@ -28,7 +28,7 @@ La présente politique de confidentialité s'applique à toutes les informations
 
 
 
-### 1. QUELLES SONT LES INFORMATIONS QUE NOUS RECUEILLONS ? :id=_1-quelles-sont-les-informations-que-nous-recueillons
+### 1. QUELLES SONT LES INFORMATIONS QUE NOUS RECUEILLONS ? :id=_1-what-information-do-we-collect
 
 ***En bref:*** *Nous ne recueillons aucune information personnelle.*
 
