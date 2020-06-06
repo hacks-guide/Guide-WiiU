@@ -35,13 +35,13 @@ La présente politique de confidentialité s'applique à toutes les informations
 Nous ne recueillons pas d'informations personnelles sous quelque forme que ce soit. Cependant, notre hébergeur, [GitHub Pages](https://pages.github.com/) peut recueillir des informations personnelles. Pour plus d'informations, voir la [Déclaration de confidentialité de GitHub](https://help.github.com/en/github/site-policy/github-privacy-statement)
 
 
-### 2. UTILISONS-NOUS DES COOKIES ET D'AUTRES TECHNOLOGIES DE TRAÇAGE :id=_2-est-ce-que-nous-utilisons-des-cookies-et-d'autres-technologies_de_suivi
+### 2. UTILISONS-NOUS DES COOKIES ET D'AUTRES TECHNOLOGIES DE TRAÇAGE :id=_2-do-we-use-cookies-and-other-tracking-technologies
 ***En bref:*** *Nous n'utilisons pas les cookies et autres technologies de suivi pour collecter et stocker vos informations.*
 
 Nous n'utilisons pas de cookies ni de technologies de suivi similaires (comme les pixels invisibles et les balises web) pour accéder à des informations ou les stocker.
 
 
-### 3. QUELS SONT VOS DROITS EN MATIÈRE DE PROTECTION DE LA VIE PRIVÉE ? :id=_3-quels-sont-vos-droits-en-matière-de-protection-de-la-vie-privée
+### 3. QUELS SONT VOS DROITS EN MATIÈRE DE PROTECTION DE LA VIE PRIVÉE ? :id=_3-what-are-your-privacy-rights
 
 ***En bref:*** *Dans certaines régions, comme l'Espace économique européen, vous disposez de droits qui vous permettent d'accéder à vos informations personnelles et de les contrôler plus facilement. Vous pouvez réviser, modifier ou résilier votre compte à tout moment.*
 
@@ -49,10 +49,10 @@ Dans certaines régions (comme l'Espace économique européen), vous disposez de
 
 Si nous nous appuyons sur votre consentement pour traiter vos informations personnelles, vous avez le droit de retirer votre consentement à tout moment. Veuillez toutefois noter que cela n'affectera pas la légalité du traitement avant son retrait.
 
-Si vous résidez dans l'Espace économique européen et que vous pensez que nous traitons illégalement vos informations personnelles, vous avez également le droit de vous plaindre auprès de votre autorité locale de contrôle de la protection des données. Vous pouvez trouver leurs coordonnées ici : http://ec.europa.eu/justice/data-protection/bodies/authorities/index_fr.htm
+Si vous résidez dans l'Espace économique européen et que vous pensez que nous traitons illégalement vos informations personnelles, vous avez également le droit de vous plaindre auprès de votre autorité locale de contrôle de la protection des données. Vous pouvez trouver leurs coordonnées ici : http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm
 
 
-### 4. LES RÉSIDENTS DE CALIFORNIE ONT-ILS DES DROITS SPÉCIFIQUES EN MATIÈRE DE VIE PRIVÉE ? :id=_4-les-résidents-de-californie-ont-ils-des-droits-spécifiques-en-matière-de-vie-privée
+### 4. LES RÉSIDENTS DE CALIFORNIE ONT-ILS DES DROITS SPÉCIFIQUES EN MATIÈRE DE VIE PRIVÉE ? :id=_4-do-california-residents-have-specific-privacy-rights
 
 ***En bref :*** *Oui, si vous êtes résident de Californie, vous bénéficiez de droits spécifiques concernant l'accès à vos informations personnelles.*
 
@@ -61,13 +61,13 @@ La section 1798.83 du code civil californien, également connue sous le nom de l
 Si vous avez moins de 18 ans, que vous résidez en Californie et que vous possédez un compte enregistré sur les sites, vous avez le droit de demander la suppression des données indésirables que vous publiez publiquement sur les sites. Pour demander la suppression de ces données, veuillez nous contacter en utilisant les coordonnées fournies ci-dessous, et inclure l'adresse électronique associée à votre compte et une déclaration indiquant que vous résidez en Californie. We will make sure the data is not publicly displayed on the Sites, but please be aware that the data may not be completely or comprehensively removed from our systems.
 
 
-### 5. FAISONS-NOUS DES MISES À JOUR DE CETTE POLITIQUE ? :id=_5-faisons-nous-des-mises-à-jour-de-cette-politique
+### 5. FAISONS-NOUS DES MISES À JOUR DE CETTE POLITIQUE ? :id=_5-do-we-make-updates-to-this-policy
 
 ***En bref:*** *Oui, nous mettrons à jour cette politique si nécessaire pour rester en conformité avec les lois pertinentes.*
 
 Nous pouvons mettre à jour cette politique de confidentialité de temps en temps. La version mise à jour sera indiquée par une date "Révisée" et la version mise à jour sera effective dès qu'elle sera accessible. Si nous apportons des modifications importantes à la présente politique de confidentialité, nous pouvons vous en informer soit en affichant de façon bien visible un avis de ces modifications, soit en vous envoyant directement une notification. Nous vous encourageons à consulter fréquemment cette politique de confidentialité pour être informés de la façon dont nous protégeons vos renseignements.
 
 
-### 6. COMMENT POUVEZ-VOUS NOUS CONTACTER AU SUJET DE CETTE POLITIQUE ? :id=_6-comment-pouvez-vous-nous-contacter-au-sujet-de-cette-politique
+### 6. COMMENT POUVEZ-VOUS NOUS CONTACTER AU SUJET DE CETTE POLITIQUE ? :id=_6-how-can-you-contact-us-about-this-policy
 
 Si vous avez des questions ou des commentaires sur cette politique, vous pouvez nous envoyer un e-mail à nh.wiiuguide@gmail.com
