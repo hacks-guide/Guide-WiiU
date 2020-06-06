@@ -94,12 +94,12 @@ Différentes options vous seront proposées. Il est recommandé de faire une pre
 
 #### **Aggressive mode**
 
-!> Ce mode efface **tout** pour réinstaller des versions propres des IOS et des chaînes par défaut. Veuillez noter que tous les cIOS, les données de sauvegarde et les canaux seront perdus, et que la vWii NAND sera renvoyée à sa forme d'origine !
+!> Ce mode efface **tout** pour réinstaller des versions propres des IOS et des chaînes par défaut. Veuillez noter que tous les cIOS, les données de sauvegarde et les chaînes seront perdu·e·s, et que la NAND de votre vWii sera comme en sortie d'usine !
 
 1. Sélectionnez `Aggressive mode` dans le menu.
-1. Lisez l'avertissement dans son intégralité. Si vous souhaitez poursuivre, appuyez sur Démarrer pour lancer le processus de restauration.
-1. Lorsque l'application se termine, autorisez l'application à lancer les paramètres du système.
-1. Effectuez une [Mise à jour du système](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1136/~/how-to-perform-a-system-update) pour terminer le processus de restauration.
+1. Lisez l'avertissement dans son intégralité. Si vous souhaitez poursuivre, appuyez sur Start pour lancer le processus de restauration.
+1. Lorsque l'application se termine, autorisez l'application à lancer les Paramètres de la console.
+1. Effectuez une [Mise à jour de la console](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1136/~/how-to-perform-a-system-update) pour terminer le processus de restauration.
 
 ?> Vous pouvez maintenant réactiver votre méthode de [blocage des mises à jour du système](block-updates).
 
