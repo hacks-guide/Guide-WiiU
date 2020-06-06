@@ -36,5 +36,5 @@ Rien de spécial, vous pouvez les laisser là, les supprimer ou les remplacer pa
 
 ### Ma console a soudainement perdu sa connectivité en ligne et j'ai un disque dur posé sur le dessus de la console, que dois-je faire ?
 
-L'antenne interne peut avoir été influencée par l'aimant du disque dur.  
-Vous pouvez déplacer le disque dur vers une autre position au sommet de la Wii U, ou le déplacer entièrement hors de la Wii U.
+Des interférences peuvent être causées par l'aimant du disque dur car l'antenne interne est située sur le dessus de la console.  
+Vous pouvez déplacer légèrement le disque dur du dessus de la Wii U, ou le retirer complètement.
