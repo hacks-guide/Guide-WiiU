@@ -14,8 +14,8 @@
 1. 将 SD 卡插回 Wii U 并将其开机。
 1. 启动 Homebrew Launcher。
 1. 移动 Homebrew Launcher 并启动 UFDiine app。
-1. Press the A button to delete the update folder.
-1. Confirm that it says `Update folder is deleted`. 你现在已阻止系统更新。
+1. 按下 A 键删除更新文件夹。
+1. 确认它提示 `Update folder is deleted`。 你现在已阻止系统更新。
 
 ### **DNS 屏蔽**
 ?> 这种方法比上面那种简单一些，推荐小白做这种方法。 然而这个方法会影响 eShop 的功能。 若要启动 eShop，需要先运行 [NNUPatcher](http://www.wiiubru.com/appstore/zips/nnupatcher.zip) 后再启动 eShop。
@@ -27,7 +27,7 @@
  - 首选 DNS：168.235.092.108
  - 备用DNS：081.004.127.020 <img src="docs/assets/img/DNS.png" alt="DNS 屏蔽" />
 1. 点击确认.
-1. 你现在已阻止系统更新。 In order to access the eShop, run the NNUPatcher app from the Homebrew Launcher before launching the eShop.
+1. 你现在已阻止系统更新。 如果你想要启动 eShop，则你需要在 Homebrew Launcher 里运行 NNUPatcher 程序后再启动 eShop。
 
 
 <!-- tabs:end -->
