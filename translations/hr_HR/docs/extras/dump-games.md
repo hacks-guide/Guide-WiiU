@@ -1,18 +1,18 @@
-# Dumping Wii U Discs
+Kopiranje Wii U Diskova
 ---
-Dumping your Discs allows you to install a copy of your game to the system NAND/a USB device so you can play it without needing the disc.
+Kopiranje vaših Diskova dozvoljava vam da instalirate kopiju vaše igre na sistemski NAND ili USB tako da možete igrati bez potrebe diska.
 
-?> Dumping and installing games requires a working Homebrew setup, so make sure to finish the main guide on installing CFW first before following this.
+> Kopiranje i instaliranje igrica zahtjeva ispravni Homebrew setup, tako da morate završiti glavno upustvo za instaliranje CFW prvo prije nego počnete pratiti ovo.
 
-### Instructions
+### Instrukcije
 
 <!-- tabs:start -->
 
-#### **Install To NAND**
+#### **Instalacija Na NAND**
 
-?> Installing a game to the system memory (NAND) is not recommended as it's limited to either 8GB or 32GB depending on your model, making you run out of space pretty quickly if you want to install multiple games.
+> Instaliranje igre na sistem memorije (NAND) nije preporučeno zbog toga što je ima limit između 8GB ili 32GB razlikuje se po vašem modelu, gdje pravi mogućnost da ostanete bez memorije brzo ako budete htjeli više igrica instalirati.
 
-### What You Need
+### Šta Vam Treba
 
 - Your SD Card needs to have enough space to fit the game you want to dump.
 - The latest release of [WUP Installer GX2](http://wiiubru.com/appstore/zips/wup_installer_gx2.zip).
