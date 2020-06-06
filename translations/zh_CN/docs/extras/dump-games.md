@@ -1,18 +1,18 @@
 # 导出 Wii U 光碟
 ---
-Dumping your Discs allows you to install a copy of your game to the system NAND/a USB device so you can play it without needing the disc.
+导出你的光盘文件允许你安装游戏的副本到你主机的 NAND 或 USB 设备中，以便你可以在不用光盘的时候玩游戏。
 
-?> Dumping and installing games requires a working Homebrew setup, so make sure to finish the main guide on installing CFW first before following this.
+?> 导出和安装游戏需要你先完成 Homebrew 的设置，所以你需要先完成关于安装自制固件的主要教程，然后再来关注下面的步骤。
 
 ### 说明
 
 <!-- tabs:start -->
 
-#### **Install To NAND**
+#### **安装至 NAND**
 
-?> Installing a game to the system memory (NAND) is not recommended as it's limited to either 8GB or 32GB depending on your model, making you run out of space pretty quickly if you want to install multiple games.
+?> 我们不建议将游戏安装到系统内存中（NAND），因为主机的内存容量为 8 GB 或 32 GB，如果你想安装好几个游戏，剩余空间会很快用完。
 
-### What You Need
+### 你需要准备点啥？
 
 - Your SD Card needs to have enough space to fit the game you want to dump.
 - The latest release of [WUP Installer GX2](http://wiiubru.com/appstore/zips/wup_installer_gx2.zip).
