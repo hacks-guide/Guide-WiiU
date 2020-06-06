@@ -14,17 +14,17 @@ Kopiranje vaših Diskova dozvoljava vam da instalirate kopiju vaše igre na sist
 
 ### Šta Vam Treba
 
-- Your SD Card needs to have enough space to fit the game you want to dump.
-- The latest release of [WUP Installer GX2](http://wiiubru.com/appstore/zips/wup_installer_gx2.zip).
-- The [disc2app](http://www.wiiubru.com/appstore/zips/disc2app.zip) homebrew application.
+- Vaša SD kartica treba da ima dovoljno mjesta da igrica može da stane koju želite kopirati.
+- Najnovije izdanje [WUP Installer GX2](http://wiiubru.com/appstore/zips/wup_installer_gx2.zip).
+- Pa [disc2app](http://www.wiiubru.com/appstore/zips/disc2app.zip) homebrew aplikacija.
 
-### Instructions
+### Instrukcije
 
-1. Extract the `wup_installer_gx2.zip` file to the root of your SD Card.
-1. Extract the `disc2app.zip` file to the root of your SD Card.
-1. Take the SD Card out of your PC and plug it into your Wii U.
-1. Power on your Wii U.
-1. Eject your game disc if you have one inserted.
+1. Ekstraktirajte `wup_installer_gx2.zip` datoteku na korijen vaše SD kartice.
+1. Ekstraktirajte `disc2app.zip` datoteku na korijen vaše SD kartice.
+1. Izvadite SD karticu iz vašeg PC i priključite je u vaš Wii U.
+1. Uključite vaš Wii U.
+1. Izbacite disk igrice ako imate ga već u konzoli.
 1. Launch the Homebrew Launcher and start the disc2app app.
 1. Press the A button to start the dumping process to the SD Card.
 1. When prompted, insert the game disc you want to dump.
@@ -45,18 +45,18 @@ Kopiranje vaših Diskova dozvoljava vam da instalirate kopiju vaše igre na sist
 
 ### What You Need
 
-- Your SD Card needs to have enough space to fit the game you want to dump.
+- Vaša SD kartica treba da ima dovoljno mjesta da igrica može da stane koju želite kopirati.
 - A USB HDD (+ a Y-cable if needed)
 - The latest release of [WUP Installer GX2](http://wiiubru.com/appstore/zips/wup_installer_gx2.zip)
 - The [disc2app](http://www.wiiubru.com/appstore/zips/disc2app.zip) Homebrew app
 
 ### Instructions
 
-1. Extract the `wup_installer_gx2.zip` file to the root of your SD Card.
-1. Extract the `disc2app.zip` file to the root of your SD Card.
-1. Take the SD Card out of your PC and plug it into your Wii U.
+1. Ekstraktirajte `wup_installer_gx2.zip` datoteku na korijen vaše SD kartice.
+1. Ekstraktirajte `disc2app.zip` datoteku na korijen vaše SD kartice.
+1. Izvadite SD karticu iz vašeg PC i priključite je u vaš Wii U.
 1. Plug your USB HDD into the Wii U.
-1. Power on your Wii U.
+1. Uključite vaš Wii U.
 1. Your Wii U will prompt you to format your HDD. Confirm with Yes.
 1. Eject your game disc if you have one inserted
 1. Launch the Homebrew Launcher and start the disc2app app.
@@ -101,7 +101,7 @@ Kopiranje vaših Diskova dozvoljava vam da instalirate kopiju vaše igre na sist
 1. Extract the `disc2app.zip` file to the root of your USB device.
 1. Extract the `mocha_fat32.zip` file to the root of your SD Card.
 1. Take the SD Card out of your PC and plug it into your Wii U console.
-1. Power on your Wii U.
+1. Uključite vaš Wii U.
 1. Plug in your USB device. The Wii U will ask you format it. Cancel with No!
 1. Launch the Homebrew Launcher and start the MochaFAT32 app.
 1. In the configuration menu, set the following settings:
@@ -131,7 +131,7 @@ Kopiranje vaših Diskova dozvoljava vam da instalirate kopiju vaše igre na sist
 
 1. Reboot your Wii U to remove the effect of MochaFAT32.
 1. Plug your USB device into the Wii U.
-1. Power on your Wii U.
+1. Uključite vaš Wii U.
 1. Your Wii U will prompt you to format your USB device. Confirm with Yes.
 1. Open the Wii U's System Settings.
 1. Navigate to `Data Management > Copy/Move/Delete Data > System Memory > Move Items (X)`
