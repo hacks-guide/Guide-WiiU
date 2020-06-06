@@ -1,6 +1,6 @@
 - **CBHC**
 - [Home Page](../introduction)
-- [Choose a CFW](../cfw-choice)
+- [Izabir CFW](../cfw-choice)
 - [Choose Your DS VC Game](ds-vc-choice)
 - [SD Preparation](sd-preparation)
 - [Browser Exploit](browser-exploit)
