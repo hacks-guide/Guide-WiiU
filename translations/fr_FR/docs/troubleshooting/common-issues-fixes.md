@@ -10,16 +10,16 @@
 
 ### Erreurs du navigateur
 
- - **FSGetMountSource failed:** Même chose que -3 ci-dessus, cela signifie qu'aucune carte SD n'a été détectée. Réinsérer la carte SD et réessayer.
+ - **FSGetMountSource failed:** Même chose que -3 ci-dessus, cela signifie qu'aucune carte SD n'a été détectée. Réinsérez la carte SD et réessayez.
 
  - **FSOpenFile failed [...] payload.elf:** Fichier payload manquant sur la carte SD. Vérifiez que vous avez bien le fichier payload.elf dans le dossier wiiu.
 
- - **FSOpenFile failed:** Manque le `homebrew_launcher` sur la carte SD. Assurez-vous que vous avez `homebrew_launcher.elf` dans le dossier <code>/wiiu<wbr>/apps<wbr>/homebrew_launcher</code>.
+ - **FSOpenFile failed:** `homebrew_launcher` manquant sur la carte SD. Assurez-vous que vous avez `homebrew_launcher.elf` dans le dossier <code>/wiiu<wbr>/apps<wbr>/homebrew_launcher</code>.
 
-### La gestion des données demande de supprimer les données inutiles, qu'est-ce que cela signifie ?
+### Le menu Gestion des données demande de supprimer les données inutiles, qu'est-ce que cela signifie ?
 
-Il s'agit des fichiers restants des installations incomplètes. Choisissez toujours Oui pour supprimer ces données, car elles prennent de la place sans raison valable. Si jamais il reste bloqué sur la suppression des données dans une boucle infinie, vous pouvez supprimer manuellement les données vous-même.  
-Utilisez FTPiiU Everywhere et naviguez jusqu'à `/storage_mlc/usr/import` puis supprimez tous les fichiers du dossier s'il en existe. C'est là que les installations partielles existent après les installations incomplètes. Ce sera `/storage_usb/usr/import` si installé sur un périphérique USB.  
+Il s'agit des fichiers restants, ce qui est dû à une ou plusieurs installations incomplètes. Choisissez toujours Oui pour supprimer ces données, car elles prennent de la place inutilement. Si jamais le processus de suppression des données semble ne pas fonctionner et tourne indéfiniment, vous pouvez supprimer manuellement les données vous-même.  
+Utilisez FTPiiU Everywhere et naviguez jusqu'à `/storage_mlc/usr/import` puis supprimez tous les fichiers du dossier s'il y en a. C'est là que les installations partielles existent après les installations incomplètes. Ce sera `/storage_usb/usr/import` si installé sur un périphérique USB.  
 Le dossier `import` doit toujours être vide.
 
 ### Mon disque dur ne fonctionne pas ou émet un clic bizarre, que dois-je faire ?
