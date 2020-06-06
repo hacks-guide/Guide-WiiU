@@ -21,12 +21,12 @@ We will now place the required CFW files and some additional homebrew files on t
 - The latest release of <a href="docs/files/savemii_mod.zip" download>SaveMii mod</a>
 - The latest release of [Indexiine-Installer](https://github.com/GaryOderNichts/indexiine-installer/releases/latest)
 
-### 说明
+### 操作步骤
 
 ?> **Notice** The info.json and manifest.install files are not needed for the modding process and therefore can be deleted.
 
 1. Insert your Wii U's SD Card into your PC.
-1. Extract the `wup_installer_gx2.zip` file to the root of your SD Card.
+1. 解压 `wup_installer_gx2.zip` 到你的 SD 卡根目录。
 1. Extract the `nanddumper.zip` file to the root of your SD Card.
 1. Extract the `wiiu-extracttosd.zip` file to the root of your SD Card.
 1. Extract the `homebrew_launcher.v.1.4.zip` file to the root of your SD Card.
