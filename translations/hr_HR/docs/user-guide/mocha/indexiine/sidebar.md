@@ -5,7 +5,7 @@
 - [SD Priprema](sd-preparation)
 - [Browser Eksploit](browser-exploit)
 - [Pravljenje rezerve NAND-a](nand-backup)
-- [Internet Browser Modding](browser-modding)
+- [Internet Browser modifikacija](browser-modding)
 - [Pokretanje CFW](launching-cfw)
 - **Linkovi**
 - [![GitHub](https://icongr.am/simple/github.svg?color=808080&size=16)GitHub](https://github.com/hacks-guide/Guide-WiiU)
