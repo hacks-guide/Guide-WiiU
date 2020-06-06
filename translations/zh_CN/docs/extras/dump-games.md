@@ -28,12 +28,12 @@
 1. 启动 Homebrew Launcher 并启动 disc2app 应用。
 1. 按下 A 键启动导出文件到 SD 卡的进程。
 1. 当提示时，插入你想要导出游戏的游戏光盘。
-1. When the process is complete, your Wii U will launch the Wii U Menu.
-1. Launch the Homebrew Launcher and start the WUP Installer GX2 app.
-1. Select your game (`WUP-X-XXXX`), press `Install` and confirm with `Yes`.
-1. Select NAND as the installation destination.
-1. When the process is complete, your Wii U will launch the Wii U Menu.
-1. You should see your game installed, ready to be played.
+1. 过程完成后，Wii U 将启动 Wii U 主菜单。
+1. 启动 Homebrew Launcher 然后启动 WUP Installer GX2 应用。
+1. 选择你的游戏（`WUP-X-XXXX`），按下 `Install` 然后 `Yes` 确认安装。
+1. 选择 NAND 作为安装目标。
+1. 过程完成后，Wii U 将启动 Wii U 主菜单。
+1. 然后你就应该看到游戏已经安装好了，准备好玩吧。
 1. Take the SD Card out of your Wii U and plug it into your PC.
 1. Delete the `WUP-X-XXXX` folder in the `install` directory on your SD Card to free up space.
 
@@ -62,12 +62,12 @@
 1. 启动 Homebrew Launcher 并启动 disc2app 应用。
 1. 按下 A 键启动导出文件到 SD 卡的进程。
 1. When prompted, insert the game disc you want to dump
-1. When the process is complete, your Wii U will launch the Wii U Menu.
-1. Launch the Homebrew Launcher and start the WUP Installer GX2 app.
-1. Select your game (`WUP-X-XXXX`), press `Install` and confirm with `Yes`.
+1. 过程完成后，Wii U 将启动 Wii U 主菜单。
+1. 启动 Homebrew Launcher 然后启动 WUP Installer GX2 应用。
+1. 选择你的游戏（`WUP-X-XXXX`），按下 `Install` 然后 `Yes` 确认安装。
 1. Select USB as the installation destination.
-1. When the process is complete, your Wii U will launch the Wii U Menu.
-1. You should see your game installed, ready to be played.
+1. 过程完成后，Wii U 将启动 Wii U 主菜单。
+1. 然后你就应该看到游戏已经安装好了，准备好玩吧。
 1. Take the SD Card out of your Wii U and plug it into your PC.
 1. Delete the `WUP-X-XXXX` folder in the `install` directory on your SD Card to free up space.
 
@@ -114,12 +114,12 @@
 1. Launch the Homebrew Launcher and open the disc2app app.
 1. Eject any inserted game disc and press the A button to begin the dumping process.
 1. When prompted, insert the game disc you want to dump.
-1. When the process is complete, your Wii U will launch the Wii U Menu.
-1. Launch the Homebrew Launcher and start the WUP Installer GX2 app.
-1. Select your game (`WUP-X-XXXX`), press `Install` and confirm with `Yes`.
-1. Select NAND as the installation destination.
-1. When the process is complete, your Wii U will launch the Wii U Menu.
-1. You should see your game installed, ready to be played.
+1. 过程完成后，Wii U 将启动 Wii U 主菜单。
+1. 启动 Homebrew Launcher 然后启动 WUP Installer GX2 应用。
+1. 选择你的游戏（`WUP-X-XXXX`），按下 `Install` 然后 `Yes` 确认安装。
+1. 选择 NAND 作为安装目标。
+1. 过程完成后，Wii U 将启动 Wii U 主菜单。
+1. 然后你就应该看到游戏已经安装好了，准备好玩吧。
 1. Take the USB device out of your Wii U and plug it into your PC.
 2. Delete the `WUP-X-XXXX` folder in the `install` directory on your USB device to free up space.
 
