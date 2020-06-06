@@ -23,16 +23,16 @@ Vodič za suradnju između osoblja Nintendo Homebrew-a i pomoćnika, od original
 > Između ostalog, to vam omogućuje sljedeće:
 > 
 > - Upotreba "ROM hacks" za igre koje posjedujete.
-> - Backup, edit and restore saves for many games.
-> - Play games for older systems with various emulators, using RetroArch or other standalone emulators.
-> - Play out-of-region games.
-> - Dump your Wii U game discs to a format that can be installed on your internal or external Wii U storage drive.
+> - Izrada sigurnosnih kopija, uređivanje i vraćanje kopija za mnoge igre.
+> - Igrajte igre za starije sustave s različitim emulatorima, koristeći RetroArch ili druge samostalne emulatore.
+> - Igrajte igre izvan svog regiona.
+> - Kopirajte svoje Wii U igre u format koji se može instalirati na vaš unutarnji ili vanjski pokon za pohranu Wii U-a.
 
-### End Goal
+### Krajnji cilj
 
-> This guide has the end goal of taking a completely unmodified Wii U from stock to custom firmware.
+> Ovaj vodič ima kranji cilj uzimanje potpuno nepromijenjenog Wii U-a u prilagođenom firmveru.
 
-### Before Starting
+### Prije početka
 
 !> Before beginning the guide, you must know the risks of Wii U hacking: **EVERY** time you modify your system, there is always the potential for an **UNRECOVERABLE** brick. They’re rare but still a possibility so make sure you follow **ALL** directions **EXACTLY!**
 >
