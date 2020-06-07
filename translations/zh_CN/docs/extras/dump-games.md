@@ -34,12 +34,12 @@
 1. 选择 NAND 作为安装目标。
 1. 过程完成后，Wii U 将启动 Wii U 主菜单。
 1. 然后你就应该看到游戏已经安装好了，准备好玩吧。
-1. Take the SD Card out of your Wii U and plug it into your PC.
-1. Delete the `WUP-X-XXXX` folder in the `install` directory on your SD Card to free up space.
+1. 将 SD 卡从 Wii U 上弹出，然后插入电脑。
+1. 你可以删除 SD 卡的 `install` 文件夹里的 `WUP-X-XXXX` 文件夹来腾出一些空间。
 
-#### **Install To USB**
+#### **安装到 USB 设备**
 
-?> When installing a game to a USB device, we recommend that you use an HDD and not a flash drive, as those are not optimized for constant reading and writing, therefore making them fail quickly. If your HDD is not externally powered, you will need a Y-cable to connect it to two USB slots on the Wii U.
+?> 如果你需要将游戏安装到 USB 设备，我们建议你使用 HDD 而不要用闪存驱动器（U盘），闪存驱动器没有对读写文件的特别优化，导致它们会很快就无法正常使用。 如果你的 HDD 没有外接电源，则你需要一根硬盘 Y 形线将硬盘连接至 Wii U 上的两个 USB 接口上。
 
 !> In order to install to a USB device, it has to be formatted by the Wii U. Doing this will erase all contents of it, and prevent it from being used on another system unless you reformat it.
 
@@ -68,8 +68,8 @@
 1. Select USB as the installation destination.
 1. 过程完成后，Wii U 将启动 Wii U 主菜单。
 1. 然后你就应该看到游戏已经安装好了，准备好玩吧。
-1. Take the SD Card out of your Wii U and plug it into your PC.
-1. Delete the `WUP-X-XXXX` folder in the `install` directory on your SD Card to free up space.
+1. 将 SD 卡从 Wii U 上弹出，然后插入电脑。
+1. 你可以删除 SD 卡的 `install` 文件夹里的 `WUP-X-XXXX` 文件夹来腾出一些空间。
 
 ### Move Updates/DLC To USB
 
