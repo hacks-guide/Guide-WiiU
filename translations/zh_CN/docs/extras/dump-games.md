@@ -41,42 +41,42 @@
 
 ?> 如果你需要将游戏安装到 USB 设备，我们建议你使用 HDD 而不要用闪存驱动器（U盘），闪存驱动器没有对读写文件的特别优化，导致它们会很快就无法正常使用。 如果你的 HDD 没有外接电源，则你需要一根硬盘 Y 形线将硬盘连接至 Wii U 上的两个 USB 接口上。
 
-!> In order to install to a USB device, it has to be formatted by the Wii U. Doing this will erase all contents of it, and prevent it from being used on another system unless you reformat it.
+!> 要将游戏安装到的 USB 设备必须经过 Wii U 的格式化才能使用。格式化将会删除 USB 设备上的所有文件，且再被格式化之前你无法在 Wii U 以外的设备上继续使用这个 USB 设备。
 
-### What You Need
+### 你需要准备点啥？
 
 - 你的 SD 卡需要保存游戏的导出文件的足够的空间。
-- A USB HDD (+ a Y-cable if needed)
-- The latest release of [WUP Installer GX2](http://wiiubru.com/appstore/zips/wup_installer_gx2.zip)
-- The [disc2app](http://www.wiiubru.com/appstore/zips/disc2app.zip) Homebrew app
+- 一块 USB HDD（如果需要的话还需要准备 Y 型线）
+- 最新版 [WUP Installer GX2](http://wiiubru.com/appstore/zips/wup_installer_gx2.zip)
+- [Disc2app](http://www.wiiubru.com/appstore/zips/disc2app.zip) Homebrew 程序
 
 ### 操作步骤
 
 1. 解压 `wup_installer_gx2.zip` 到你的 SD 卡根目录。
 1. 解压 `disc2app.zip` 到你的 SD 卡根目录。
 1. 将内存卡从电脑上拔出并插回 Wii U。
-1. Plug your USB HDD into the Wii U.
+1. 将你的 USB HDD 连接至 Wii U。
 1. 打开你的 Wii U。
-1. Your Wii U will prompt you to format your HDD. Confirm with Yes.
-1. Eject your game disc if you have one inserted
+1. 你的 Wii U 会提示你需要格式化你的 HDD。 选择 Yes 确认。
+1. 如果你的游戏光盘还插入在 Wii U 中，将其弹出。
 1. 启动 Homebrew Launcher 并启动 disc2app 应用。
 1. 按下 A 键启动导出文件到 SD 卡的进程。
-1. When prompted, insert the game disc you want to dump
+1. 当提示时，插入你想要导出游戏的游戏光盘。
 1. 过程完成后，Wii U 将启动 Wii U 主菜单。
 1. 启动 Homebrew Launcher 然后启动 WUP Installer GX2 应用。
 1. 选择你的游戏（`WUP-X-XXXX`），按下 `Install` 然后 `Yes` 确认安装。
-1. Select USB as the installation destination.
+1. 选择 USB 作为安装目标。
 1. 过程完成后，Wii U 将启动 Wii U 主菜单。
 1. 然后你就应该看到游戏已经安装好了，准备好玩吧。
 1. 将 SD 卡从 Wii U 上弹出，然后插入电脑。
 1. 你可以删除 SD 卡的 `install` 文件夹里的 `WUP-X-XXXX` 文件夹来腾出一些空间。
 
-### Move Updates/DLC To USB
+### 将游戏更新/DLC 移动至 USB
 
-?> If your disc game had DLC or updates installed, you will need to transfer the files over to your USB device. You can do this using the Wii U's data management.
+?> 如果你光盘的游戏中安装了更新或 DLC，你需要将这些文件传输至 USB 设备中。 你可以使用 Wii U 的数据管理来做到这个。
 
-1. Power on your Wii U
-1. Open the Wii U's System Settings.
+1. 将你的 Wii U 开机。
+1. 打开 Wii U 的系统设置。
 1. Navigate to `Data Management > Copy/Move/Delete Data > System Memory > Move Items (X)`.
 1. Select your game and move the update and DLC data to the USB device.
 
@@ -84,9 +84,9 @@
 
 ?> If you do not have enough space on your SD Card, you can use an advanced technique to install dumps from a USB device. This is not the easiest thing to do and has the disadvantage of only being able to install the game onto your system memory (NAND).
 
-### What You Need
+### 你需要准备点啥？
 - A USB storage device (+a Y-cable if needed) with enough space to fit the game you want to dump.
-- The latest release of [WUP Installer GX2](http://wiiubru.com/appstore/zips/wup_installer_gx2.zip)
+- 最新版 [WUP Installer GX2](http://wiiubru.com/appstore/zips/wup_installer_gx2.zip)
 - The [disc2app](http://www.wiiubru.com/appstore/zips/disc2app.zip) Homebrew app.
 - The [MochaFAT32](https://www.wiiubru.com/appstore/zips/mocha_fat32.zip) Homebrew app.
 - The  1.4 release of [The Homebrew Launcher](https://github.com/dimok789/homebrew_launcher/releases/tag/1.4)
@@ -132,8 +132,8 @@
 1. Reboot your Wii U to remove the effect of MochaFAT32.
 1. Plug your USB device into the Wii U.
 1. 打开你的 Wii U。
-1. Your Wii U will prompt you to format your USB device. Confirm with Yes.
-1. Open the Wii U's System Settings.
+1. Your Wii U will prompt you to format your USB device. 选择 Yes 确认。
+1. 打开 Wii U 的系统设置。
 1. Navigate to `Data Management > Copy/Move/Delete Data > System Memory > Move Items (X)`
 1. Select the game and move all data (including updates and DLC if any are installed) to your USB device.
 
