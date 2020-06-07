@@ -77,27 +77,27 @@
 
 1. 将你的 Wii U 开机。
 1. 打开 Wii U 的系统设置。
-1. Navigate to `Data Management > Copy/Move/Delete Data > System Memory > Move Items (X)`.
-1. Select your game and move the update and DLC data to the USB device.
+1. 移动至 `Data Management（数据管理） > Copy/Move/Delete Data（复制/移动/删除数据） > System Memory（系统内存） > Move Items (X)（移动项目）`。
+1. 选中你的游戏，然后将 DLC 数据移动到 USB 设备中。
 
-#### **Install From USB**
+#### **从 USB 设备中安装**
 
-?> If you do not have enough space on your SD Card, you can use an advanced technique to install dumps from a USB device. This is not the easiest thing to do and has the disadvantage of only being able to install the game onto your system memory (NAND).
+?> 如果你的 SD 卡中没有足够的空间，你可以使用高级方法从 USB 设备中安装导出的文件。 这不是最容易做的事情，且它的缺点是只能将游戏安装到系统内存中（NAND）。
 
 ### 你需要准备点啥？
-- A USB storage device (+a Y-cable if needed) with enough space to fit the game you want to dump.
+- 一个有足够空间放进你的游戏导出文件的 USB 存储设备（如果需要的话还需要准备 Y 型线）。
 - 最新版 [WUP Installer GX2](http://wiiubru.com/appstore/zips/wup_installer_gx2.zip)
-- The [disc2app](http://www.wiiubru.com/appstore/zips/disc2app.zip) Homebrew app.
-- The [MochaFAT32](https://www.wiiubru.com/appstore/zips/mocha_fat32.zip) Homebrew app.
-- The  1.4 release of [The Homebrew Launcher](https://github.com/dimok789/homebrew_launcher/releases/tag/1.4)
-  - You will need to download the v1.4 `homebrew_launcher.v.1.4.zip` release.
+- [Disc2app](http://www.wiiubru.com/appstore/zips/disc2app.zip) Homebrew 程序.。
+- [MochaFAT32](https://www.wiiubru.com/appstore/zips/mocha_fat32.zip) Homebrew 程序。
+- 1.4 版本的 [The Homebrew Launcher](https://github.com/dimok789/homebrew_launcher/releases/tag/1.4)
+  - 你需要下载 `homebrew_launcher.v.1.4.zip` 版本。
 
 ### 操作步骤
 
-?> **Notice** Your USB device will need to be formatted as FAT32. If your USB is not formatted to FAT32, use [GUIFormat](http://www.ridgecrop.demon.co.uk/index.htm?guiformat.htm) with 32k (32768) Allocation unit size to format it.
+?> **注意** 你的 USB 设备需要格式化为 FAT32。 如果你的 USB 设备没有格式化为 FAT32，则你需要用 [GUIFormat](http://www.ridgecrop.demon.co.uk/index.htm?guiformat.htm) 格式化，并将分配单元大小设置为 32k（32768）
 
-1. Extract the `homebrew_launcher.v.1.4.zip` file to the root of your USB device.
-1. Extract the `wup_installer_gx2.zip` file to the root of your USB device.
+1. 解压 `homebrew_launcher.v.1.4.zip` 到你 USB 设备的根目录中。
+1. 解压 `wup_installer_gx2.zip` 到你 USB 设备的根目录中。
 1. Extract the `disc2app.zip` file to the root of your USB device.
 1. Extract the `mocha_fat32.zip` file to the root of your SD Card.
 1. Take the SD Card out of your PC and plug it into your Wii U console.
