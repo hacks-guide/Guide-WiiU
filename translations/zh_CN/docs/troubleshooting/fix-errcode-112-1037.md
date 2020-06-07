@@ -2,7 +2,7 @@
 
 This page will guide you through the process of fixing the error code 112-1037.
 
-### What You Need
+### 你需要准备点啥？
 
 - A working [Homebrew Installation](introduction).
 - [wupclient.py](https://raw.githubusercontent.com/Elpunical/mocha/master/ios_mcp/wupclient.py) **(right-click -> Save link as... -> Click Save).**
