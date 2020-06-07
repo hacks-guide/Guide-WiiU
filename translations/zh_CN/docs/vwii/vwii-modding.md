@@ -24,7 +24,7 @@ We will now place the required Homebrew files on the SD Card.
 1. Extract the <code>vWii_<wbr>cIOS_<wbr>apps_<wbr>20131218<wbr>.zip</code> file to the root of your SD Card.
 1. Extract the <code>homebrew_<wbr>launcher.<wbr>v1.4.zip</code> file to the root of your SD Card.
 1. Extract the `payload.zip` file to the `wiiu` folder on your SD Card.
-1. Take the SD Card out of your computer and plug it into your Wii U console.
+1. 把 SD 卡从电脑中弹出并插入 Wii U 主机。
 
 ### Wuphax
 
@@ -67,17 +67,17 @@ In case anything goes wrong in the later process and your vWii ends up bricked, 
 1. Power on your Wii U and launch vWii.
 1. Launch The Homebrew Channel.
 1. Launch d2x cIOS Installer.
-1. Set everything to match the following:
+1. 设定以下选项：
  - Select cIOS `v10 d2x-v10-beta52-vWii`
  - Select cIOS base `56`
  - Select cIOS slot `249`
 1. Press the `A` button to install.
-1. Set everything to match the following:
+1. 设定以下选项：
  - Select cIOS `v10 d2x-v10-beta52-vWii`
  - Select cIOS base `57`
  - Select cIOS slot `250`
 1. Press the `A` button to install.
-1. Set everything to match the following:
+1. 设定以下选项：
  - Select cIOS `v10 d2x-v10-beta52-vWii`
  - Select cIOS base `58`
  - Select cIOS slot `251`
