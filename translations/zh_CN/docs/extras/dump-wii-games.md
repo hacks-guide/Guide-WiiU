@@ -33,15 +33,15 @@
  - Dual Layer `Yes/No`（如果你的光盘是双层的，请选择 `Yes`）
  - Chunk Size `Max`
  - New device per chunk `No`
-1. If you want to dump multiple discs, select Yes to remember your settings. If not, select No.
+1. 如果你想要导出多个光盘，请选择 Yes 来保存你的设置。 反之，请选择 No。
 
-?> Be prepared to wait a while. The dumping process can take 30 minutes to 1 hour depending on your SD Card's speeds.
+?> 请等待一段时间。 导出过程可能要 30 分钟至 1 小时，这取决于你的 SD 卡速度。
 
-### Joining Split Files
+### 合并拆分文件
 
-?> If you dumped the disc on a FAT32 formatted, device, you should've got at least 2 files that end with `.partX.iso`. They need to be joined up.
+?> 如果你选择将光盘的文件导入一个文件格式是 FAT32 的设备中，则你至少会得到两个名字尾部为 `.partX.iso` （X为数字）的文件。 它们需要被合并起来。
 
-1. Copy all the files that share the same name and end with `.partX.iso` in a folder on your computer.
-1. Open up a Command Prompt window.
-1. Use the `cd <path>` command and replace `<path>` by the path to your `.partX.iso` files.
+1. 将以 `.partX.iso` 结尾文件名的文件复制到你的电脑上。
+1. 打开命令提示符。
+1. 使用 `cd <path>` 命令将路径移动至你的 `.partX.iso` 文件夹中。
 1. Use the following command as is: `copy /b *.part?.iso game.iso`.
