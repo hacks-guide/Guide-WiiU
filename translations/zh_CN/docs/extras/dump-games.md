@@ -132,9 +132,9 @@
 1. 重启 Wii U 来解除 MochaFAT32 的效果。
 1. 将你的 USB 设备连接至 Wii U。
 1. 打开你的 Wii U。
-1. Your Wii U will prompt you to format your USB device. 选择 Yes 确认。
+1. 你的 Wii U 会提示你需要格式化你的 USB 设备。 选择 Yes 确认。
 1. 打开 Wii U 的系统设置。
-1. Navigate to `Data Management > Copy/Move/Delete Data > System Memory > Move Items (X)`
-1. Select the game and move all data (including updates and DLC if any are installed) to your USB device.
+1. 移动至 `Data Management（数据管理） > Copy/Move/Delete Data（复制/移动/删除数据） > System Memory（系统内存） > Move Items (X)（移动项目）`。
+1. 选中游戏，然后移动所有数据（包括游戏更新和 DLC）到你的 USB 设备中。
 
 <!-- tabs:end -->
