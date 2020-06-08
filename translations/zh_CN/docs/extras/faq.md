@@ -2,13 +2,13 @@
 ---
 ### Homebrew 是否有风险？
 
-当前，破解 Wii U 不会使你被任天堂封禁，除非你在在线游戏中作弊。 You should, however, always be careful with launching downloaded homebrew, especially if you don't trust the source, as Homebrew can potentially damage your system!
+当前，破解 Wii U 不会使你被任天堂封禁，除非你在在线游戏中作弊。 然而尤其是当你不信任程序的源代码的时候，你要对你下载并启动的 Homebrew 程序保持一定的警惕，因为 Homebrew 可以破坏系统！
 
-### What is Haxchi, and do I need it?
+### 什么是 Haxchi，可以吃吗？
 
-Haxchi is a secondary entry point which uses certain DS Virtual Console titles to allow for access to homebrew while being completely offline (still works with online but no connection required to launch CFW)
+Haxchi 是通过某个 NDS VC（Virtual Console）程序来允许 Homebrew 程序在离线环境下运行的一个辅助入口。（不过仍然可以在在线时使用，但需要在无连接时启动 CFW）
 
-Haxchi is not required, however, if you want to use homebrew on your Wii U while offline you will need it. It’s highly recommended as it’s more stable than the browser entry point, especially on the newest firmware.
+Haxchi 不是必须的，然而如果你需要在离线环境下使用 Homebrew 程序，那你就需要它。 强烈建议使用此方法来代替通过浏览器进入破解，特别是较新的系统版本上。
 
 The cheapest DS VC games usable for this exploit:
  - Dr. Kawashima's Brain Training [PAL]
