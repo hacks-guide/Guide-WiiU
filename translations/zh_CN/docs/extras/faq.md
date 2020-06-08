@@ -26,18 +26,18 @@ Haxchi 不是必须的，然而如果你需要在离线环境下使用 Homebrew 
 ### 我需要多大的 SD 卡？
 
  - **安装游戏备份：** 32 GB（可以用更小的卡，但是有些游戏大小超过了 20 GB）
- - **Running game mods:** 8 GB  (FAT32 USB drive may be used as well for mods)
- - **Only running homebrew apps:** Any size
+ - **运行游戏的 Mod：** 8 GB （FAT32 格式的 USB 设备也可以安装 Mod）
+ - **只是运行 Homebrew 程序：** 任何大小
 
-**Recommended brands:** SanDisk, Samsung or PNY
+**推荐内存卡品牌：** 闪迪、三星或必恩威
 
-?> Note: Avoid class 4 SD Cards, and avoid eBay!
+?> 注意：远离 class 4 SD 卡和淘宝或 eBay 上的杂牌内存卡！
 
-### Can I install homebrew on Wii U with a USB instead of SD Card?
+### 那么我可以在 Wii U 上使用 USB 设备而不是 SD 卡来安装 Homebrew 程序吗？
 
-No, you must have an SD Card for a first time setup, a USB can then be used to install game backups, VC injects, etc, but not to store Homebrew Apps which are required to set everything up.
+不可以，你必须先在 SD 卡上做好功课，然后才能在 USB 设备上安装游戏的备份、VC 注入等等等等，但不要在里头存下设置一切所必须的 Homebrew 程序。
 
-### When extracting some of the files there are duplicates of certain ones called "info.json" & "manifest.install", what do I do with those?
+### 当我解压一些文件时，某些叫做 “info.json” & “manifest.install” 的文件重复了，我对这些文件要咋整？
 
 Nothing special, you can leave them there, delete them or replace them with new ones. Those files are not used in the process, therefore, won't have any impact by being or not being there.
 
