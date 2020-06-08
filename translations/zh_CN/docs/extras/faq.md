@@ -39,10 +39,10 @@ Haxchi 不是必须的，然而如果你需要在离线环境下使用 Homebrew 
 
 ### 当我解压一些文件时，某些叫做 “info.json” & “manifest.install” 的文件重复了，我对这些文件要咋整？
 
-Nothing special, you can leave them there, delete them or replace them with new ones. Those files are not used in the process, therefore, won't have any impact by being or not being there.
+你自己看着整吧，你可以把它们留在原处、删除它们或者替换它们为新的都由你摆布。 也就是说，这些东西它有没有都无伤大雅。
 
-### What is a Wii U formatted USB drive?
+### Wii U 会把我的 USB 设备格式化成什么格式？
 
-It's a USB drive that has been formatted by a Wii U console to its proprietary format.  
-A Wii U formatted USB drive ***cannot be read by any other devices than the Wii U that originally formatted it.***  
-If you ever want to use it with another Wii U console or any other devices, you will have to reformat it.
+Wii U 会把你的 USB 设备格式化成这台 Wii U 独有的格式。.  
+一个被一台 Wii U 格式化的 USB 设备***不能被格式化它以外的设备读取。***  
+如果你想要将其用在另一台 Wii U 主机上或者其他的设备上，则你就必须重新再次格式化它。
