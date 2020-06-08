@@ -65,9 +65,9 @@
 
 ***简言之：*** *是的，我们将视情况更新这些政策，并遵守相关法规。*
 
-We may update this privacy policy from time to time. The updated version will be indicated by an updated “Revised” date and the updated version will be effective as soon as it is accessible. If we make material changes to this privacy policy, we may notify you either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to review this privacy policy frequently to be informed of how we are protecting your information.
+我们可能会不时的更新此隐私政策。 更新后的版本将在页头标注“更新”日期，更新后的版本一旦可以查阅将立即生效。 如果我们对隐私政策作了重大修改，我们可以通过张贴这种更改的通知或直接向您发送通知来通知您。 我们鼓励您审查此隐私政策，以便经常了解我们是如何保护您的信息的。
 
 
 ### 6. 您如何就此政策与我们联系？ :id=_6-how-can-you-contact-us-about-this-policy
 
-If you have questions or comments about this policy, you may email us at nh.wiiuguide@gmail.com
+如果您对此政策有任何的疑问，请发送电子邮件至 nh.wiiuguide@gmail.com
