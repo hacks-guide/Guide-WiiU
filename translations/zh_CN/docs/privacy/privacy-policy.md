@@ -38,16 +38,16 @@
 ### 2. 我们是否使用 Cookies 和其他追踪技术？ :id=_2-do-we-use-cookies-and-other-tracking-technologies
 ***简言之：*** *我们不会使用 Cookies 和其他追踪技术来收集并存储您的个人信息。*
 
-We do not use cookies and similar tracking technologies (like web beacons and pixels) to access or store information.
+我们不使用 Cookies 和其他类似的跟踪技术（例如 web beacons 和 pixels）来获取或保存信息。
 
 
 ### 3. 您的隐私权是什么？ :id=_3-what-are-your-privacy-rights
 
-***In Short:*** *In some regions, such as the European Economic Area, you have rights that allow you greater access to and control over your personal information. You may review, change, or terminate your account at any time.*
+***简言之：*** *在某些地区（如欧洲经济区）。您将会拥有更多的权利来获取并控制你的个人信息。 您可以随时审查、修改或终止您的帐户。*
 
-In some regions (like the European Economic Area), you have certain rights under applicable data protection laws. These may include the right (i) to request access and obtain a copy of your personal information, (ii) to request rectification or erasure; (iii) to restrict the processing of your personal information; and (iv) if applicable, to data portability. In certain circumstances, you may also have the right to object to the processing of your personal information. To make such a request, please use the [contact details](privacy-policy?id=_6-how-can-you-contact-us-about-this-policy) provided below. We will consider and act upon any request in accordance with applicable data protection laws.
+在某些地区（如欧洲经济区），根据地区适用的数据保护法，您将享有某些权利。 这些权利包括：㈠请求查阅和获得个人资料副本的权利。㈡ 请求更正或删除。 ㈢ 限制处理您的个人信息。㈣ 酌情限制数据可移植性。 在某些情况下，您可能也有权反对处理您的个人信息。 若要提出此请求，请通过[联系人详细信息](privacy-policy?id=_6-how-can-you-contact-us-about-this-policy)请求。 我们将根据适用的数据保护法律考虑并根据任何要求采取行动。
 
-If we are relying on your consent to process your personal information, you have the right to withdraw your consent at any time. Please note however that this will not affect the lawfulness of the processing before its withdrawal.
+如果我们依靠您的同意来处理您的个人信息，则您有权随时撤回您的同意。 但请注意，这不会影响撤回前处理的合法性。
 
 If you are resident in the European Economic Area and you believe we are unlawfully processing your personal information, you also have the right to complain to your local data protection supervisory authority. You can find their contact details here: http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm
 
