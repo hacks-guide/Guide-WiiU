@@ -5,18 +5,18 @@
 
 感谢您选择加入了 Wii U Hacks Guide（“公司”或“我们的”），并成为我们社区中的一员。 我们会保护你的个人隐私和你的隐私权。 如果您对我们的隐私政策有任何的疑问，或对我们在个人信息处理的做法有任何的想法，请通过 nh.wiiuguide@gmail.com 联系我们。
 
-When you visit our website https://wiiu.hacks.guide, and use our services, you trust us with your personal information. We take your privacy very seriously. In this privacy notice, we describe our privacy policy. We seek to explain to you in the clearest way possible what information we collect, how we use it and what rights you have in relation to it. We hope you take some time to read through it carefully, as it is important. If there are any terms in this privacy policy that you do not agree with, please discontinue use of our Sites and our services.
+当您浏览我们的网站 https://wiiu.hacks.guide 并使用我们的服务时，则代表您同意了我们使用你的部分个人信息。 我们会非常认真地对待你的隐私。 在这份隐私声明中描述了我们的隐私政策是如何的。 我们会尽力明确我们收集的信息、我们收集这些信息用来干什么和您与这些信息持有的权利。 所以我们希望你花点时间阅读这份文章，因为它很重要。 如果您不同意此隐私政策中的任何条款，请立即停止使用我们的网站和我们的服务。
 
-This privacy policy applies to all information collected through our website (such as https://wiiu.hacks.guide), and/or any related services, sales, marketing or events (we refer to them collectively in this privacy policy as the "**Sites**").
+这份隐私政策适用于我们在我们网站（例如 https://wiiu.hacks.guide）上收集的所有信息。（在以下内容中，我们将其称作“**站点**”）。
 
-**Please read this privacy policy carefully.**
+**请仔细阅读这份隐私政策。**
 
 
-## TABLE OF CONTENTS
+## 目录
 
-[1. WHAT INFORMATION DO WE COLLECT?](privacy-policy?id=_1-what-information-do-we-collect)
+[1. 我们是怎么收集信息的？](privacy-policy?id=_1-what-information-do-we-collect)
 
-[2. DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?](privacy-policy?id=_2-do-we-use-cookies-and-other-tracking-technologies)
+[2. 我们是否使用 Cookies 和其他追踪技术？](privacy-policy?id=_2-do-we-use-cookies-and-other-tracking-technologies)
 
 [3. WHAT ARE YOUR PRIVACY RIGHTS?](privacy-policy?id=_3-what-are-your-privacy-rights)
 
@@ -28,7 +28,7 @@ This privacy policy applies to all information collected through our website (su
 
 
 
-### 1. WHAT INFORMATION DO WE COLLECT? :id=_1-what-information-do-we-collect
+### 1. 我们是怎么收集信息的？ :id=_1-what-information-do-we-collect
 
 ***In Short:*** *We do not collect any personal information.*
 
