@@ -12,4 +12,4 @@
 1. 启动 Homebrew Launcher。
 1. 启动 FTPiiU。
 1. 你的 Wii U 的 IP 地址将会出现在屏幕的底部。
-1. To exit FTPiiU, press the HOME button.
+1. 如果要退出 FTPiiU，请按下 Home 键。
