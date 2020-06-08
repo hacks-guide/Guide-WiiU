@@ -1,8 +1,8 @@
 # FAQ {docsify-ignore-all}
 ---
-### Does Homebrew have any risks?
+### Homebrew 是否有风险？
 
-Currently homebrewing the Wii U does not expose you to a risk of being banned by Nintendo unless you cheat in online games. You should, however, always be careful with launching downloaded homebrew, especially if you don't trust the source, as Homebrew can potentially damage your system!
+当前，破解 Wii U 不会使你被任天堂封禁，除非你在在线游戏中作弊。 You should, however, always be careful with launching downloaded homebrew, especially if you don't trust the source, as Homebrew can potentially damage your system!
 
 ### What is Haxchi, and do I need it?
 
