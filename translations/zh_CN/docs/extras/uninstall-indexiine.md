@@ -1,10 +1,10 @@
 # 卸载 Indexiine
 ---
-本页将指导您从Wii U卸载Indexiine的过程。
+本页将指导你从你的 Wii U 卸载 Indexiine。
 
-### 说明
+### 操作步骤
 
-1. 启动Homebrew Launcher.
-1. 启动 Indexiine Installer.
-1. 按 B 按钮卸载 Indexiine。
-1. 检查你的Wii U在进入互联网浏览器时不再自动启动Homebrew Launcher。
+1. 启动 Homebrew Launcher。
+1. 启动 Indexiine Installer。
+1. 按下 B 键卸载 Indexiine。
+1. Wii U 在进入网页浏览器的时候应该不会自动进入到 Homebrew Launcher 了。
