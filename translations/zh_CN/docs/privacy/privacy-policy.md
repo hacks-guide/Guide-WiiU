@@ -1,9 +1,9 @@
-# PRIVACY NOTICE
+# 隐私政策
 
-**Last updated January 18, 2020**
+**此隐私声明于 2020 年 1 月 18 日更新。**
 
 
-Thank you for choosing to be part of our community at Wii U Hacks Guide (“company”, “we”, “us”, or “our”). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about our policy, or our practices with regards to your personal information, please contact us at nh.wiiuguide@gmail.com.
+感谢您选择加入了 Wii U Hacks Guide（“公司”或“我们的”），并成为我们社区中的一员。 我们会保护你的个人隐私和你的隐私权。 如果您对我们的隐私政策有任何的疑问，或对我们在个人信息处理的做法有任何的想法，请通过 nh.wiiuguide@gmail.com 联系我们。
 
 When you visit our website https://wiiu.hacks.guide, and use our services, you trust us with your personal information. We take your privacy very seriously. In this privacy notice, we describe our privacy policy. We seek to explain to you in the clearest way possible what information we collect, how we use it and what rights you have in relation to it. We hope you take some time to read through it carefully, as it is important. If there are any terms in this privacy policy that you do not agree with, please discontinue use of our Sites and our services.
 
