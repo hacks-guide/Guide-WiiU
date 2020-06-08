@@ -4,28 +4,28 @@
 
 当前，破解 Wii U 不会使你被任天堂封禁，除非你在在线游戏中作弊。 然而尤其是当你不信任程序的源代码的时候，你要对你下载并启动的 Homebrew 程序保持一定的警惕，因为 Homebrew 可以破坏系统！
 
-### 什么是 Haxchi，可以吃吗？
+### 什么是 Haxchi，可以吃吗？我需要准备什么东西？
 
 Haxchi 是通过某个 NDS VC（Virtual Console）程序来允许 Homebrew 程序在离线环境下运行的一个辅助入口。（不过仍然可以在在线时使用，但需要在无连接时启动 CFW）
 
 Haxchi 不是必须的，然而如果你需要在离线环境下使用 Homebrew 程序，那你就需要它。 强烈建议使用此方法来代替通过浏览器进入破解，特别是较新的系统版本上。
 
-The cheapest DS VC games usable for this exploit:
+这里列出了可用于此漏洞的最便宜的 DS VC 游戏：
  - Dr. Kawashima's Brain Training [PAL]
  - Brain Age: Train Your Brain in Minutes a Day! [USA]
  - Kawashima: Motto Nou wo Kitaeru Otona no DS Training [JPN]
 
-### Can I install games from my USB instead of SD?
+### 我可以从我的 USB 设备而不用 SD 卡安装游戏吗？
 
-Yes. It is, however, a bit more complicated than installing from SD Card. Detailed instructions are in the `Install from USB` tab in the [Dumping guide](dump-games).
+是的。 然而它会比从 SD 卡上安装要复杂一点点。 详细说明在[导出手册](dump-games)中的`从 USB 设备中安装`选项卡里头可以看到。
 
-### How to Delete Update Folder to Block Updates on Wii U
+### 如何干掉 Wii U 的更新文件夹来阻止 Wii U 更新？
 
-If you want to delete the update folder to block updates, see its tab in the [Blocking Updates guide](block-updates).
+如果你想删除更新文件夹来阻止更新，请参见[阻止更新手册](block-updates)中的选项卡。
 
-### What SD Card size is recommended?
+### 我需要多大的 SD 卡？
 
- - **Installing game backups:** 32 GB  (Smaller size may be used, but certain titles are 20 GB in size)
+ - **安装游戏备份：** 32 GB（可以用更小的卡，但是有些游戏大小超过了 20 GB）
  - **Running game mods:** 8 GB  (FAT32 USB drive may be used as well for mods)
  - **Only running homebrew apps:** Any size
 
