@@ -49,14 +49,14 @@
 
 如果我们依靠您的同意来处理您的个人信息，则您有权随时撤回您的同意。 但请注意，这不会影响撤回前处理的合法性。
 
-If you are resident in the European Economic Area and you believe we are unlawfully processing your personal information, you also have the right to complain to your local data protection supervisory authority. You can find their contact details here: http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm
+如果您是欧洲经济区的居民，且您认为我们侵犯了您的个人信息，则您有权向当地的数据保护监督机构提出申诉。 您可以在这里找到他们的联系方式：http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm
 
 
 ### 4. 加州居民有特定的隐私权吗？ :id=_4-do-california-residents-have-specific-privacy-rights
 
-***In Short:*** *Yes, if you are a resident of California, you are granted specific rights regarding access to your personal information.*
+***简言之：*** *是的，如果你是加利福尼亚州的居民，则您拥有访问您的个人信息的特定权利。*
 
-California Civil Code Section 1798.83, also known as the “Shine The Light” law, permits our users who are California residents to request and obtain from us, once a year and free of charge, information about categories of personal information (if any) we disclosed to third parties for direct marketing purposes and the names and addresses of all third parties with which we shared personal information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to us using the contact information provided below.
+根据《加利福尼亚民法典》（California Civil Code）第1798.83节，允许加利福尼亚州的居民用户每年向我们获取有关我们在上一年度中出于直接营销目的而向第三方披露的个人信息的类别（如果有的话）以及所有第三方的名称及地址。 如果您是加利福尼亚居民且想要提出这样的请求。 请使用下面提供的联系信息向我们提交您的书面请求。
 
 If you are under 18 years of age, reside in California, and have a registered account with the Sites, you have the right to request removal of unwanted data that you publicly post on the Sites. To request removal of such data, please contact us using the contact information provided below, and include the email address associated with your account and a statement that you reside in California. We will make sure the data is not publicly displayed on the Sites, but please be aware that the data may not be completely or comprehensively removed from our systems.
 
