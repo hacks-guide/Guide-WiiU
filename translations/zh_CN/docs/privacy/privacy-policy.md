@@ -58,12 +58,12 @@
 
 根据《加利福尼亚民法典》（California Civil Code）第1798.83节，允许加利福尼亚州的居民用户每年向我们获取有关我们在上一年度中出于直接营销目的而向第三方披露的个人信息的类别（如果有的话）以及所有第三方的名称及地址。 如果您是加利福尼亚居民且想要提出这样的请求。 请使用下面提供的联系信息向我们提交您的书面请求。
 
-If you are under 18 years of age, reside in California, and have a registered account with the Sites, you have the right to request removal of unwanted data that you publicly post on the Sites. To request removal of such data, please contact us using the contact information provided below, and include the email address associated with your account and a statement that you reside in California. We will make sure the data is not publicly displayed on the Sites, but please be aware that the data may not be completely or comprehensively removed from our systems.
+如果您未满 18 周岁且住在加利福尼亚州并在此网站有注册的账户，您有权移除在此网站中公开的不必要数据。 若要请求删除这些数据，请使用以下联系信息与我们联系。并带上您账户的相关电子邮件地址和您居住在加利福尼亚州的证明。 我们将确保数据不会在网站上公开显示， 但请注意，数据可能不会完全或全面地从我们的系统中删除。
 
 
 ### 5. 我们会更新此政策吗？ :id=_5-do-we-make-updates-to-this-policy
 
-***In Short:*** *Yes, we will update this policy as necessary to stay compliant with relevant laws.*
+***简言之：*** *是的，我们将视情况更新这些政策，并遵守相关法规。*
 
 We may update this privacy policy from time to time. The updated version will be indicated by an updated “Revised” date and the updated version will be effective as soon as it is accessible. If we make material changes to this privacy policy, we may notify you either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to review this privacy policy frequently to be informed of how we are protecting your information.
 
