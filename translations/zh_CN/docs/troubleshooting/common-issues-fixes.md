@@ -32,7 +32,7 @@ If your HDD worked for some time and then stopped working for some games/all gam
 
 ### 当我解压一些文件时，某些叫做 “info.json” & “manifest.install” 的文件重复了，我对这些文件要咋整？
 
-Nothing special, you can leave them there, delete them or replace them with new ones. Those files are not used in the process, therefore, won't have any impact by being or not being there.
+你自己看着整吧，你可以把它们留在原处、删除它们或者替换它们为新的都由你摆布。 也就是说，这些东西它有没有都无伤大雅。
 
 ### My console suddenly lost online connectivity and I have an HDD sitting on top of the console, what should I do?
 
