@@ -18,11 +18,11 @@
 
 ### 数据管理说要删除一些不必要的数据，它什么意思？
 
-这里指的是没有安装完成而残留的文件。 Always choose Yes to delete this data, as it takes up space for no good reason. If it ever stays stuck on deleting the data in an infinite loop, you can manually delete the data yourself.  
-Use FTPiiU Everywhere and browse to `/storage_mlc/usr/import` then delete any files in the folder if any exists. This is where the partial installs exist after incomplete installs. It'll be `/storage_usb/usr/import` if installed to a USB.  
-The `import` folder should always be kept empty.
+这里指的是没有安装完成而残留的文件。 请总是确认删除这些数据，因为它们本来就没有存在的必要。 如果它一直卡死在删除数据的进程中，你可以自己手动删除这些数据。   
+使用 FTPiiU 然后浏览至 `/storage_mlc/usr/import` 然后删除这个文件夹中任何存在的文件。 这是未完成安装的东西存放的地方。 如果安装到 USB 设备中，则应该是 `/storage_usb/usr/import` 文件夹。  
+`import` 文件夹里头理应始终都没有东西。
 
-### My HDD doesn't work or makes a weird clicking sound, what should I do?
+### 我的 HDD 不工作或它发出了一些很奇怪的打击声，我要怎么办？
 
 The reason behind that is that the Wii U doesn't give enough power through one USB port to use the Hard Drive.
 
