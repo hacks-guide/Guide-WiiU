@@ -1,8 +1,8 @@
-# Common Issues & Fixes {docsify-ignore-all}
+# 常见问题修复{docsify-ignore-all}
 ---
-### Haxchi common errors
+### Haxchi 常见错误
 
- - **-3:** No SD Card detected. Re-insert the SD Card and try again. Make sure the SD Card is in FAT32 format. If the error persists, try blowing into the SD slot as it can get dusty inside.
+ - **-3：** 未检测到 SD 卡。 Re-insert the SD Card and try again. Make sure the SD Card is in FAT32 format. If the error persists, try blowing into the SD slot as it can get dusty inside.
 
  - **-4:** SD detected but could not mount. Check to see if the SD is using MBR and not GPT. Also, check to see if there are any other partitions on the SD Card and merge them into one primary partition.
 
@@ -32,7 +32,7 @@ If your HDD worked for some time and then stopped working for some games/all gam
 
 ### 当我解压一些文件时，某些叫做 “info.json” & “manifest.install” 的文件重复了，我对这些文件要咋整？
 
-你自己看着整吧，你可以把它们留在原处、删除它们或者替换它们为新的都由你摆布。 也就是说，这些东西它有没有都无伤大雅。
+你自己看着整吧，无论是把它们留在原处、删除它们或者替换它们为新的什么的等等都由你自己摆布。 也就是说，这些东西它有没有都无伤大雅。
 
 ### My console suddenly lost online connectivity and I have an HDD sitting on top of the console, what should I do?
 
