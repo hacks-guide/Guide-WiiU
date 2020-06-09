@@ -1,4 +1,4 @@
-# Recover a vWii IOS/Channel
+# 恢复一个 vWii IOS/频道
 ---
 This page will guide you through the process of recovering a IOS or channel on your vWii, whether it has been corrupted or deleted for whatever reason.
 
@@ -60,7 +60,7 @@ This page will guide you through the process of recovering a IOS or channel on y
 1. Extract the `decaffeinator.zip` file to the root of your SD Card.
 1. 把 SD 卡从电脑中弹出并插入 Wii U 主机。
 1. Power on your Wii U and launch the CFW of your choice (Mocha, Haxchi or CBHC).
-1. 启动Homebrew Launcher.
+1. 启动 Homebrew Launcher。
 1. Launch vWii Decaffeinator.
 
 ### Recovering Process
