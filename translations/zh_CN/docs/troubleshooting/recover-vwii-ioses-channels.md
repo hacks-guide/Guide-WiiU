@@ -77,32 +77,32 @@
 1. 使用十字键来切换至你想恢复的内容。
 1. 按下 Start 键来开始恢复进程。
 1. 当应用程序完成后，请允许程序启动系统设置。
-1. [升级系统](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1136/~/how-to-perform-a-system-update) 来完成恢复进程。
+1. [升级系统](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1136/~/how-to-perform-a-system-update)来完成恢复进程。
 
 ?> 你现在可以重新打开[阻止更新](block-updates)。
 
 #### **Light mode**
 
-?> This mode will clear the System Menu, Wii Message Board save data, IOSes, and other system titles to reinstall clean versions of them. Please note this will remove all cIOSes as well and must be reinstalled. All other data will be preserved.
+?> 这种方法将会清除系统菜单、Wii 留言板保存数据、IOS和其他的系统程序以重新安装它们的干净版本。 请注意这会移除所有的 cIOS，并且你必须重新安装它们。 将保存所有其他数据。
 
-1. Select `Light mode` on the menu.
+1. 在菜单中选择 `Light mode`。
 1. 按下 Start 键来开始恢复进程。
 1. 当应用程序完成后，请允许程序启动系统设置。
-1. [升级系统](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1136/~/how-to-perform-a-system-update) 来完成恢复进程。
+1. [升级系统](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1136/~/how-to-perform-a-system-update)来完成恢复进程。
 
 ?> 你现在可以重新打开[阻止更新](block-updates)。
 
 #### **Aggressive mode**
 
-!> This mode will clear **everything** to reinstall clean versions of the default IOSes and channels. Please note that all cIOSes, save data, and channels will be lost, and the vWii NAND will be returned to its stock form!
+!> 此模式将会清空 **所有** 内容来重新安装默认的 IOS 和频道。 请注意，这会清除所有的clOS、保存的数据和频道，然后 vWii NAND 会被还原至其出厂的模式！
 
-1. Select `Aggressive mode` on the menu.
-1. Read the warning in its entirety. If you wish to proceed, press Start to initiate the restoration process.
+1. 在菜单中选择 `Aggressive mode`。
+1. 完整阅读警告。 如果你想要继续，请按下 Start 来开始此恢复过程。
 1. 当应用程序完成后，请允许程序启动系统设置。
-1. [升级系统](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1136/~/how-to-perform-a-system-update) 来完成恢复进程。
+1. [升级系统](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1136/~/how-to-perform-a-system-update)来完成恢复进程。
 
 ?> 你现在可以重新打开[阻止更新](block-updates)。
 
 <!-- tabs:end -->
 
-> If you receive Error Code 105-3102 when performing the system update, restart your console and reattempt the update.
+> 如果你在进行系统升级的时候遇到了 105-3102 错误代码，则请重新启动主机然后再次更新。
