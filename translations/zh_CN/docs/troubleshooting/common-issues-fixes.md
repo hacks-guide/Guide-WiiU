@@ -2,23 +2,23 @@
 ---
 ### Haxchi 常见错误
 
- - **-3：** 未检测到 SD 卡。 Re-insert the SD Card and try again. Make sure the SD Card is in FAT32 format. If the error persists, try blowing into the SD slot as it can get dusty inside.
+ - **-3：** 未检测到 SD 卡。 重新插一下 SD 卡，然后再试一次。 请确保你的 SD 卡为 FAT32 格式。 如果错误仍然存在，请尝试吹吹卡槽（或尝试其他方法清理），因为可能有一些灰尘在卡槽里头。
 
- - **-4:** SD detected but could not mount. Check to see if the SD is using MBR and not GPT. Also, check to see if there are any other partitions on the SD Card and merge them into one primary partition.
+ - **-4：** SD 卡已被检测到，但是无法被挂载。 检查 SD 卡是否正在使用 MBR 引导，而非 GPT 引导。 另外，检查 SD 卡上是否有两个以上的分区，如果有请将它们合并为一个。
 
- - **-5:** Missing files on the SD. Check to see if your SD has Homebrew Launcher located in <code>/wiiu<wbr>/apps<wbr>/homebrew_launcher<wbr>/homebrew_launcher.elf</code>.
+ - **-5：** SD 卡上缺少文件。 检查你 SD 卡上的以下路径中是否存在此 Homebrew Launcher 的文件：<code>/wiiu<wbr>/apps<wbr>/homebrew_launcher<wbr>/homebrew_launcher.elf</code>。
 
-### Browser errors
+### 浏览器错误
 
- - **FSGetMountSource failed:** Same as -3 above, means no SD Card detected. Re-insert the SD and try again.
+ - **FSGetMountSource failed：** 与上文的 -3 错误一样，意思就是没有检测到内存卡。 重新插一下 SD 卡，然后再试一次。
 
- - **FSOpenFile failed [...] payload.elf:** Missing payload file on SD. Make sure you have payload.elf in the wiiu folder.
+ - **FSOpenFile failed [...] payload.elf：** SD 卡上缺少 payload 文件。 请确认在 wiiu 文件夹下是否有一个叫做 payload.elf 的文件。
 
- - **FSOpenFile failed:** Missing `homebrew_launcher` on SD. Make sure you have `homebrew_launcher.elf` in the <code>/wiiu<wbr>/apps<wbr>/homebrew_launcher</code> folder.
+ - **FSOpenFile failed：** SD 卡中缺失 `homebrew_launcher`。 请确认在 <code>/wiiu<wbr>/apps<wbr>/homebrew_launcher</code> 文件夹中有一个叫做 `homebrew_launcher.elf` 的文件。
 
-### Data Management asks to delete unnecessary data, what does it mean?
+### 数据管理说要删除一些不必要的数据，它什么意思？
 
-This refers to leftover files from incomplete installs. Always choose Yes to delete this data, as it takes up space for no good reason. If it ever stays stuck on deleting the data in an infinite loop, you can manually delete the data yourself.  
+这里指的是没有安装完成而残留的文件。 Always choose Yes to delete this data, as it takes up space for no good reason. If it ever stays stuck on deleting the data in an infinite loop, you can manually delete the data yourself.  
 Use FTPiiU Everywhere and browse to `/storage_mlc/usr/import` then delete any files in the folder if any exists. This is where the partial installs exist after incomplete installs. It'll be `/storage_usb/usr/import` if installed to a USB.  
 The `import` folder should always be kept empty.
 
