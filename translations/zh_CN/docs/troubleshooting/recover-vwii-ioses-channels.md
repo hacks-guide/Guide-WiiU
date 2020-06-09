@@ -1,9 +1,9 @@
 # 恢复一个 vWii IOS/频道
 ---
-This page will guide you through the process of recovering a IOS or channel on your vWii, whether it has been corrupted or deleted for whatever reason.
+此页面将教你恢复因任何原因而被破坏或被删除的 vWii 上的一个 IOS 或频道。
 
 <details>
-<summary>Click here to show what can be recovered with this method.</summary>
+<summary>点击此处显示可以通过此方法恢复的内容。</summary>
 
 - Wii Menu Manual
 - vWii System Channel
@@ -46,9 +46,9 @@ This page will guide you through the process of recovering a IOS or channel on y
 
 </details>
 
-!> This has the potential to destroy your vWii NAND if you are not careful! Please consider [backing up](mocha/online-exploit/nand-backup) your SLCCMPT and OTP if you do not yet have them backed up!
+!> 小心点，这东西可能在你大意的时候会破坏你 vWii 的 NAND！ 如果你还没有备份东西的话，请在做这些东西之前 [备份](mocha/online-exploit/nand-backup)好你的 SLCCMPT 和 OTP！
 
-?> If you are using a system update blocking method, please [remove it](unblock-updates).
+?> 如果你正在阻止系统更新，请[关闭阻止更新](unblock-updates)。
 
 ### 你需要准备点啥？
 
