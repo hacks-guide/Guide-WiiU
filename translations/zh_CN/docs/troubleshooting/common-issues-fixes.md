@@ -24,17 +24,17 @@
 
 ### 我的 HDD 不工作或它发出了一些很奇怪的打击声，我要怎么办？
 
-The reason behind that is that the Wii U doesn't give enough power through one USB port to use the Hard Drive.
+出现这个情况是因为 Wii U 的某个 USB 接口没有给出足够的功率来驱动硬盘。
 
-You can fix this by either using a powered HDD or using a Y-Cable to connect the HDD to two USB ports.
+你可以使用带有供电的 HDD，或者使用一根 Y 型硬盘线将硬盘连接至 Wii U 的两个 USB 接口来解决这个问题。
 
-If your HDD worked for some time and then stopped working for some games/all games, it is the same issue and can be fixed with the same methods.
+如果你的 HDD 在工作了一段时间后在某些（或所有）游戏上抛锚了，这和上面说的是同个问题并可以用同样的方法解决。
 
 ### 当我解压一些文件时，某些叫做 “info.json” & “manifest.install” 的文件重复了，我对这些文件要咋整？
 
 你自己看着整吧，无论是把它们留在原处、删除它们或者替换它们为新的什么的等等都由你自己摆布。 也就是说，这些东西它有没有都无伤大雅。
 
-### My console suddenly lost online connectivity and I have an HDD sitting on top of the console, what should I do?
+### 我的主机突然掉线了，而且我有一块 HDD 放在主机的顶上，怎么办啊？
 
-The internal antenna may have been influenced by the hard drive magnet.  
-You can move the HDD to a different position atop the Wii U, or move it off the Wii U entirely.
+主机的内部天线可能受到了硬盘磁力的影响。  
+尝试将硬盘挪至 Wii U 顶部的其他地方，或者干脆换一个位置放硬盘。
