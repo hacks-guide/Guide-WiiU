@@ -52,45 +52,45 @@
 
 ### 你需要准备点啥？
 
-- A working [Homebrew installation](introduction) on Wii U side.
-- The latest release of [vWii Decaffeinator](https://github.com/GaryOderNichts/vWii-Decaffeinator/releases).
+- Wii U 的[破解](introduction)正常运作。
+- 最新版 [vWii Decaffeinator](https://github.com/GaryOderNichts/vWii-Decaffeinator/releases)。
 
 ### 操作步骤
 
-1. Extract the `decaffeinator.zip` file to the root of your SD Card.
+1. 解压 `decaffeinator.zip` 到你的 SD 卡根目录。
 1. 把 SD 卡从电脑中弹出并插入 Wii U 主机。
-1. Power on your Wii U and launch the CFW of your choice (Mocha, Haxchi or CBHC).
+1. 将 Wii U 开机，然后启动你选择的 CFW（Mocha、Haxchi 或 CBHC）。
 1. 启动 Homebrew Launcher。
-1. Launch vWii Decaffeinator.
+1. 启动 vWii Decaffeinator。
 
-### Recovering Process
+### 恢复过程
 
-You will be provided with various options. It is recommended to first attempt restoring through the `Advanced options` menu if you know what to restore, or `Light mode` if you aren't sure. In extreme cases where no other option solves the issue, `Aggressive mode` should be chosen.
+你将有几种不同的选择。 如果你知道你要恢复什么东西，建议先尝试通过 `Advanced options` 菜单进行恢复。如果不确定，请使用 `Light mode`。 如果那两个方法都没有解决这个问题，则你应该使用 `Aggressive mode`。
 
 <!-- tabs:start -->
 
 #### **Advanced options**
 
-?> This mode will clear the specified IOSes and channels to reinstall them. All other data (including cIOSes) will be preserved.
+?> 此模式将清空特定的 IOS 和频道来重新安装它们。 其他数据（包括 cIOS 的）将会保存。
 
-1. Select `Advanced options` on the menu.
-1. Use the D-Pad to toggle what you would like to be restored.
-1. Press Start to initiate the restoration process.
-1. When the application finishes, allow the application to launch the System Settings.
-1. Perform a [System Update](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1136/~/how-to-perform-a-system-update) to finish the restoration process.
+1. 在菜单中选择 `Advanced options`。
+1. 使用十字键来切换至你想恢复的内容。
+1. 按下 Start 键来开始恢复进程。
+1. 当应用程序完成后，请允许程序启动系统设置。
+1. [升级系统](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1136/~/how-to-perform-a-system-update) 来完成恢复进程。
 
-?> You can now re-enable your [system update blocking method](block-updates).
+?> 你现在可以重新打开[阻止更新](block-updates)。
 
 #### **Light mode**
 
 ?> This mode will clear the System Menu, Wii Message Board save data, IOSes, and other system titles to reinstall clean versions of them. Please note this will remove all cIOSes as well and must be reinstalled. All other data will be preserved.
 
 1. Select `Light mode` on the menu.
-1. Press Start to initiate the restoration process.
-1. When the application finishes, allow the application to launch the System Settings.
-1. Perform a [System Update](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1136/~/how-to-perform-a-system-update) to finish the restoration process.
+1. 按下 Start 键来开始恢复进程。
+1. 当应用程序完成后，请允许程序启动系统设置。
+1. [升级系统](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1136/~/how-to-perform-a-system-update) 来完成恢复进程。
 
-?> You can now re-enable your [system update blocking method](block-updates).
+?> 你现在可以重新打开[阻止更新](block-updates)。
 
 #### **Aggressive mode**
 
@@ -98,10 +98,10 @@ You will be provided with various options. It is recommended to first attempt re
 
 1. Select `Aggressive mode` on the menu.
 1. Read the warning in its entirety. If you wish to proceed, press Start to initiate the restoration process.
-1. When the application finishes, allow the application to launch the System Settings.
-1. Perform a [System Update](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1136/~/how-to-perform-a-system-update) to finish the restoration process.
+1. 当应用程序完成后，请允许程序启动系统设置。
+1. [升级系统](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1136/~/how-to-perform-a-system-update) 来完成恢复进程。
 
-?> You can now re-enable your [system update blocking method](block-updates).
+?> 你现在可以重新打开[阻止更新](block-updates)。
 
 <!-- tabs:end -->
 
