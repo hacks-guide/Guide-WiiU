@@ -1,6 +1,6 @@
-# How To Fix The Error Code 112-1037
+# 如何修复错误代码 112-1037
 
-This page will guide you through the process of fixing the error code 112-1037.
+此页面将会教你如何修复错误代码 112-1037。
 
 ### 你需要准备点啥？
 
