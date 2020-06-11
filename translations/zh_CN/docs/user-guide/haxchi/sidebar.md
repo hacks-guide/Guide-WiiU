@@ -1,7 +1,7 @@
 - **Haxchi**
 - [Home Page](../introduction)
 - [选择CFW](../cfw-choice)
-- [Choose Your DS VC Game](ds-vc-choice)
+- [选择你要用的 DS VC 游戏](ds-vc-choice)
 - [SD Preparation](sd-preparation)
 - [Browser Exploit](browser-exploit)
 - [Making a NAND Backup](nand-backup)
