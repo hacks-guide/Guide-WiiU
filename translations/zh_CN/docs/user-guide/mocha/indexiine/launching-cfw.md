@@ -1,6 +1,6 @@
 # Mocha - Indexiine
 
-## Launching CFW {docsify-ignore}
+## 启动 CFW {docsify-ignore}
 
 Unlike systems such as the DSi, Wii, or 3DS, Wii U CFW is temporary. This means that as soon as your system reboots, you will lose CFW and have to follow these instructions again. This can be skipped by installing CBHC to a Haxchi CFW installation.
 
