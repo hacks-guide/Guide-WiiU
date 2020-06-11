@@ -2,7 +2,7 @@
 
 ## 启动 CFW {docsify-ignore}
 
-现在你应该有了你主机的 NAND 备份了，所以如果你之后遇到了任何错误你都可以使用 CFW 直接恢复。
+若一切都无误操作，则你就能在之后得到你的 NAND 备份并在系统中运行 CFW 了。
 
 与 DSi、Wii 或 3DS 不同的是，Wii U 的 CFW 是临时性的。 这代表在系统重启之后 CFW 就会失效，你必须重复下面的操作才能重新启动。 你可以选择安装 CBHC 来自动进入 Haxchi CFW 以跳过这些步骤。
 
@@ -18,4 +18,4 @@
 1. 一旦安装完成后，你的主机会自动启动至 Wii U 主菜单。 然后你就会看到你的游戏图标被 Haxchi 的所替代。
 1. 然后打开那个被修改的 DS 游戏。 这将重启主机，然后打开 CFW。
 1. You will need to run your Haxchi DS game every reboot to launch CFW.
-1. You can now re-attach any USB devices you had attached before starting the guide.
+1. 你现在可以重新插入你在开启做手册时拔出的 USB 设备了。
