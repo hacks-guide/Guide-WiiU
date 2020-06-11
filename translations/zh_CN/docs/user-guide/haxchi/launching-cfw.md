@@ -13,9 +13,9 @@
 1. 将内存卡从电脑上拔出并插回 Wii U。
 1. If you haven't already, now download your DS VC game of choice from the eShop.
 1. 按照[先前](browser-exploit)的方法在你的系统中启动 Homebrew Launcher。
-1. Navigate the Homebrew Launcher and open the Haxchi app.
-1. Use the DPAD to navigate the cursor to the game you want to install Haxchi to and press the A button to install it.
-1. Once the installation has finished, your console will launch the Wii U Menu. You will see your game replaced by a Haxchi icon.
-1. Run the modified DS game. This will reboot the console and enable CFW.
+1. 启动 Homebrew Launcher 然后打开 Haxchi 程序。
+1. 使用十字键来移动光标至你想要用来安装 Haxchi 的游戏，然后按下 A 键来安装它。
+1. 一旦安装完成后，你的主机会自动启动至 Wii U 主菜单。 然后你就会看到你的游戏图标被 Haxchi 的所替代。
+1. 然后打开那个被修改的 DS 游戏。 这将重启主机，然后打开 CFW。
 1. You will need to run your Haxchi DS game every reboot to launch CFW.
 1. You can now re-attach any USB devices you had attached before starting the guide.
