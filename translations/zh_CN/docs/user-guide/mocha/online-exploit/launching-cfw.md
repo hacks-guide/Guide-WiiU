@@ -4,7 +4,7 @@
 
 现在你应该有了你主机的 NAND 备份了，所以如果你之后遇到了任何错误你都可以使用 CFW 直接恢复。
 
-Unlike systems such as the DSi, Wii, or 3DS, Wii U CFW is temporary. This means that as soon as your system reboots, you will lose CFW and have to follow these instructions again. This can be skipped by installing CBHC to a Haxchi CFW installation.
+与 DSi、Wii 或 3DS 不同的是，Wii U 的 CFW 是临时性的。 这代表在系统重启之后 CFW 就会失效，你必须重复下面的操作才能重新启动。 你可以选择安装 CBHC 来自动进入 Haxchi CFW 以跳过这些步骤。
 
 ### 操作步骤
 
