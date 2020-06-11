@@ -2,13 +2,13 @@
 
 ## 启动 CFW {docsify-ignore}
 
-现在你应该有了你主机的 NAND 备份了，所以如果遇到了任何错误你都可以使用 CFW 直接恢复。
+现在你应该有了你主机的 NAND 备份了，所以如果你之后遇到了任何错误你都可以使用 CFW 直接恢复。
 
-Unlike systems such as the DSi, Wii, or 3DS, Wii U CFW is temporary. This means that as soon as your system reboots, you will lose CFW and have to follow these instructions again. This can be skipped by installing CBHC to a Haxchi CFW installation.
+与 DSi、Wii 或 3DS 不同的是，Wii U 的 CFW 是临时性的。 这代表在系统重启之后 CFW 就会失效，你必须重复下面的操作才能重新启动。 你可以选择安装 CBHC 来自动进入 Haxchi CFW 以跳过这些步骤。
 
-!> Installing CBHC incorrectly can brick your Wii U. Make sure to follow the following rules when installing CBHC: <br>- The DS game has to be legitimately installed from the eShop! <br>- Don't format the system while CBHC is installed! <br>- Don't delete the user account that bought the DS Virtual Console game! <br>- Don't re-install the same game using WUP Installer or from the eShop! <br>- Don't install Haxchi over CBHC! <br>- Don't uninstall the DS Virtual Console game without [properly uninstalling CBHC first](../uninstall-cbhc)! <br>- Don't move the DS Virtual Console game to a USB drive!
+!> 若安装 CBHC 时发生了操作错误会导致 Wii U 砖机。所以请确保你在安装 CBHC 时遵循以下规定： <br>- 使用的 DS 游戏必须是从 eShop 下载的正版游戏！ <br>- 安装完 CBHC 之后不要初始化系统！ <br>- 不要删除购买此 DS VC 游戏的用户账户！ <br>- 不要在 WUP Installer 或 eShop 中再次安装使用的同一游戏！ <br>- 不要通过 CBHC 安装 Haxchi！ <br>- 不要在[正确卸载 CBHC 之前](../uninstall-cbhc)卸载使用的 DS VC 游戏！ <br>- 不要将使用的 DS VC 游戏移动到 USB 设备中！
 
-!> Breaking one of the above rules will result in a brick.
+!> 如果你在上述规定之间来回试探，然后你就死掉了。
 
 ### 操作步骤
 
