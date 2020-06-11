@@ -1,8 +1,8 @@
 # CBHC
 
-## Launching CFW {docsify-ignore}
+## 启动 CFW {docsify-ignore}
 
-Now that you have your NAND backup in case anything goes wrong later, you can run CFW on your system.
+现在你应该有了你主机的 NAND 备份了，所以如果遇到了任何错误你都可以使用 CFW 直接恢复。
 
 Unlike systems such as the DSi, Wii, or 3DS, Wii U CFW is temporary. This means that as soon as your system reboots, you will lose CFW and have to follow these instructions again. This can be skipped by installing CBHC to a Haxchi CFW installation.
 
