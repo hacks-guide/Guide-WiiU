@@ -1,6 +1,6 @@
 # CBHC {docsify-ignore-all}
 
-## Choose Your DS VC Game
+## 选择你要用的 DS VC 游戏
 
 The first thing to decide is what DS Virtual Console ("VC") game you will buy.  
 Please note that the game you injected Haxchi/CBHC into will not be playable anymore until you uninstall Haxchi/CBHC and reinstall the game from the eShop.
