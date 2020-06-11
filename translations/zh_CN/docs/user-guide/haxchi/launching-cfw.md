@@ -12,7 +12,7 @@
 
 1. 将内存卡从电脑上拔出并插回 Wii U。
 1. If you haven't already, now download your DS VC game of choice from the eShop.
-1. Launch the Homebrew Launcher on your system as [previously explained](browser-exploit).
+1. 按照[先前](browser-exploit)的方法在你的系统中启动 Homebrew Launcher。
 1. Navigate the Homebrew Launcher and open the Haxchi app.
 1. Use the DPAD to navigate the cursor to the game you want to install Haxchi to and press the A button to install it.
 1. Once the installation has finished, your console will launch the Wii U Menu. You will see your game replaced by a Haxchi icon.
