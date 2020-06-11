@@ -8,13 +8,13 @@
 
 !> 若安装 CBHC 时发生了操作错误会导致 Wii U 砖机。所以请确保你在安装 CBHC 时遵循以下规定： <br>- 使用的 DS 游戏必须是从 eShop 下载的正版游戏！ <br>- 安装完 CBHC 之后不要初始化系统！ <br>- 不要删除购买此 DS VC 游戏的用户账户！ <br>- 不要在 WUP Installer 或 eShop 中再次安装使用的同一游戏！ <br>- 不要通过 CBHC 安装 Haxchi！ <br>- 不要在[正确卸载 CBHC 之前](../uninstall-cbhc)卸载使用的 DS VC 游戏！ <br>- 不要将使用的 DS VC 游戏移动到 USB 设备中！
 
-!> 如果你在上述规定之间来回试探，然后你就死掉了。
+!> 若你想斗胆试试无视上述规定的规则，然后你就死掉了。
 
 ### 操作步骤
 
 1. 将内存卡从电脑上拔出并插回 Wii U。
-1. If you haven't already, now download your DS Virtual Console game of choice from the eShop.
-1. Launch the Homebrew Launcher on your system as [previously explained](browser-exploit).
+1. 若你还没有下载你的 DS VC 游戏，请从 eShop 上下载它。
+1. 按照[先前](browser-exploit)的方法在你的系统中启动 Homebrew Launcher。
 1. Navigate the Homebrew Launcher and open the Haxchi app.
 1. Use the DPAD to navigate the cursor to the game you want to install Haxchi to and press the A button to install it.
 1. Once the installation has finished, your console will launch the Wii U Menu. You will see your game replaced by a Haxchi icon.
