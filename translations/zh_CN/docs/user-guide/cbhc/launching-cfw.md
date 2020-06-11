@@ -2,7 +2,7 @@
 
 ## 启动 CFW {docsify-ignore}
 
-现在你应该有了你主机的 NAND 备份了，所以如果你之后遇到了任何错误你都可以使用 CFW 直接恢复。
+若一切都无误操作，则你就能在之后得到你的 NAND 备份并在系统中运行 CFW 了。
 
 与 DSi、Wii 或 3DS 不同的是，Wii U 的 CFW 是临时性的。 这代表在系统重启之后 CFW 就会失效，你必须重复下面的操作才能重新启动。 你可以选择安装 CBHC 来自动进入 Haxchi CFW 以跳过这些步骤。
 
@@ -23,8 +23,8 @@
 1. 移动 Homebrew Launcher 至 CBHC，然后启动它。
 1. 使用十字键来移动光标至你之前用来安装 Haxchi 的游戏，然后按下 A 键来安装 CBHC。
 1. 一旦安装完成后，你的主机会自动启动至 Wii U 主菜单。
-1. 重启你的主机。 If CBHC installed correctly, you should see a new boot menu.
-1. Use the DPAD to navigate to `Autoboot: Disabled` and press the A button until it says `Autoboot: System Menu`.
-1. Use the DPAD to navigate to `Boot System Menu` and press the A button. This will launch the Wii U Menu with CFW enabled.
-1. Your console now automatically boots into CFW every reboot.
-1. You can now re-attach any USB devices you had attached before starting the guide.
+1. 重启你的主机。 如果 CBHC 正确安装了，那么你就应该会看到一个新的启动菜单。
+1. 使用十字键移动至 `Autoboot: Disabled` 按几下 A 键，直到那一行变成 `Autoboot: System Menu` 为止。
+1. 使用十字键移动至 `Boot System Menu`，然后按下 A 键。 这将启动启用 CFW 的 Wii U 菜单。
+1. 你的主机现在应该每次重启都会自动进入至 CFW 了。
+1. 你现在可以重新插入你在开启做手册时拔出的 USB 设备了。
