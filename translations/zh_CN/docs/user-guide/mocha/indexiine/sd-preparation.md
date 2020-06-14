@@ -8,7 +8,7 @@
 
 ### 你需要准备点啥？
 
-- The Mocha <a href="docs/files/config.ini" download>config</a>
+- Mocha <a href="docs/files/config.ini" download>配置文件</a>
 - 最新版 [Homebrew Launcher Installer](https://github.com/wiiu-env/homebrew_launcher_installer/releases/latest)
   - 你需要下载 `payload.zip` 文件。
 - 1.4版的 [The Homebrew Launcher](https://github.com/dimok789/homebrew_launcher/releases/tag/1.4)
@@ -17,9 +17,9 @@
 - 最新版 [Wii U NAND Dumper](https://github.com/koolkdev/wiiu-nanddumper/releases/latest)
 - 最新版 [Homebrew App Store](https://github.com/vgmoose/hbas/releases/latest)
   - 你需要下载 `wiiu-extracttosd.zip` 文件。
-- The latest release of [Mocha](https://www.wiiubru.com/appstore/zips/mocha.zip)
+- 最新版 [Mocha](https://www.wiiubru.com/appstore/zips/mocha.zip)
 - 最新版 <a href="docs/files/savemii_mod.zip" download>SaveMii mod</a>
-- The latest release of [Indexiine-Installer](https://github.com/GaryOderNichts/indexiine-installer/releases/latest)
+- 最新版 [Indexiine-Installer](https://github.com/GaryOderNichts/indexiine-installer/releases/latest)
 
 ### 操作步骤
 
@@ -27,11 +27,11 @@
 
 1. 将你的 Wii U SD 卡 插入你的电脑。
 1. 解压 `wup_installer_gx2.zip` 到你的 SD 卡根目录。
-1. Extract the `nanddumper.zip` file to the root of your SD Card.
-1. Extract the `wiiu-extracttosd.zip` file to the root of your SD Card.
-1. Extract the `homebrew_launcher.v.1.4.zip` file to the root of your SD Card.
-1. Extract the `mocha.zip` file to the root of your SD Card.
-1. Extract the `indexiine-installer.zip` file to the root of your SD Card.
-1. Extract the `savemii_mod.zip` file to the root of your SD Card.
-1. Copy the `config.ini` file to the `/wiiu/apps/mocha` folder on your SD Card.
-1. Copy the `payload.elf` from the `payload.zip` to the `wiiu` folder on your SD Card.
+1. 解压 `nanddumper.zip` 到你的 SD 卡根目录。
+1. 解压 `wiiu-extracttosd.zip` 到你的 SD 卡根目录。
+1. 解压 `homebrew_launcher.v.1.4.zip` 到你的 SD 卡根目录。
+1. 解压 `mocha.zip` 到你的 SD 卡根目录。
+1. 解压 `indexiine-installer.zip` 到你的 SD 卡根目录。
+1. 解压 `savemii_mod.zip` 到你 SD 卡的根目录。
+1. 复制 `config.ini` 到 SD 卡的 `/wiiu/apps/mocha` 文件夹下。
+1. 从 `payload.zip` 中解压 `payload.elf` 到 SD 卡根目录下的 `wiiu` 文件夹中。
