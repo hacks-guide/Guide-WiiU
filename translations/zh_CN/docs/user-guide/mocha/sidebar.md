@@ -1,7 +1,7 @@
 - **Mocha**
 - [主页](../introduction)
 - [选择CFW](../cfw-choice)
-- [Choose an Entrypoint](entrypoint-choice)
+- [选择一个进入方法](entrypoint-choice)
 - **链接**
 - [![GitHub](https://icongr.am/simple/github.svg?color=808080&size=16)GitHub](https://github.com/hacks-guide/Guide-WiiU)
 - [![Discord](https://icongr.am/simple/discord.svg?colored&size=16)Discord](https://discord.gg/C29hYvh)
