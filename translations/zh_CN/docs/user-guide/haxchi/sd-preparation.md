@@ -21,16 +21,16 @@
   - 你需要下载 `wiiu-extracttosd.zip` 文件。
 - The latest release of [Haxchi](https://github.com/FIX94/haxchi/releases/latest)
   - Download only the Haxchi `.zip` file.
-- The latest release of <a href="docs/files/savemii_mod.zip" download>SaveMii mod</a>
+- 最新版 <a href="docs/files/savemii_mod.zip" download>SaveMii mod</a>
 
 ### 操作步骤
 
-?> **Notice** The info.json and manifest.install files are not needed for the modding process and therefore can be deleted.
+?> **注意** info.json 和 manifest.install 文件在破解过程中是不需要的，可以删除。
 
-1. Insert your Wii U's SD Card into your PC.
-1. Create a folder called `install` on the root of your SD Card.
-1. Extract the `homebrew_launcher_channel.v2.1_fix.zip` file to the `install` folder you created.
-1. Extract the `Haxchi.zip` file to the root of your SD Card.
+1. 将你的 Wii U SD 卡 插入你的电脑。
+1. 在 SD 卡根目录下创建一个名为 `install` 的文件夹。
+1. 解压 `homebrew_launcher_channel.v2.1_fix.zip` 文件到你创建的 `install` 文件夹。
+1. 解压 `Haxchi.zip` 到 SD 卡的根目录。
 1. 解压 `wup_installer_gx2.zip` 到你的 SD 卡根目录。
 1. 解压 `nanddumper.zip` 到你的 SD 卡根目录。
 1. 解压 `wiiu-extracttosd.zip` 到你的 SD 卡根目录。
