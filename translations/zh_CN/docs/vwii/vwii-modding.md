@@ -4,9 +4,9 @@ This page will guide you through the process of modding your vWii.
 
 We will now place the required Homebrew files on the SD Card.
 
-?> **Notice** Your SD Card will need to be formatted as FAT32. If your SD Card is not formatted to FAT32, use [GUIFormat](http://www.ridgecrop.demon.co.uk/index.htm?guiformat.htm) with 32k (32768) Allocation unit size to format it.
+?> **Notice** Your SD Card will need to be formatted as FAT32. 如果你的 SD 卡没有格式化为 FAT32，则你需要用 [GUIFormat](http://www.ridgecrop.demon.co.uk/index.htm?guiformat.htm) 格式化，并将分配单元大小设置为 32k（32768）
 
-### What You Need
+### 你需要准备点啥？
 
 - The latest release of [Wuphax](http://wiiubru.com/appstore/zips/wuphax.zip)
 - The latest release of [HackMii Installer](https://bootmii.org/download/)
@@ -15,7 +15,7 @@ We will now place the required Homebrew files on the SD Card.
 - The [Homebrew Launcher](https://github.com/dimok789/homebrew_launcher/releases/download/1.4/homebrew_launcher.v1.4.zip)
 - The latest release of the [Homebrew Launcher Installer](https://github.com/wiiu-env/homebrew_launcher_installer/releases/download/v1.4/payload.zip)
 
-### 说明
+### 操作步骤
 
 1. Insert your Wii U's SD Card into your PC.
 1. Extract the `wuphax.zip` file to the root of your SD Card.
@@ -24,7 +24,7 @@ We will now place the required Homebrew files on the SD Card.
 1. Extract the <code>vWii_<wbr>cIOS_<wbr>apps_<wbr>20131218<wbr>.zip</code> file to the root of your SD Card.
 1. Extract the <code>homebrew_<wbr>launcher.<wbr>v1.4.zip</code> file to the root of your SD Card.
 1. Extract the `payload.zip` file to the `wiiu` folder on your SD Card.
-1. Take the SD Card out of your computer and plug it into your Wii U console.
+1. 把 SD 卡从电脑中弹出并插入 Wii U 主机。
 
 ### Wuphax
 
@@ -67,17 +67,17 @@ In case anything goes wrong in the later process and your vWii ends up bricked, 
 1. Power on your Wii U and launch vWii.
 1. Launch The Homebrew Channel.
 1. Launch d2x cIOS Installer.
-1. Set everything to match the following:
+1. 设定以下选项：
  - Select cIOS `v10 d2x-v10-beta52-vWii`
  - Select cIOS base `56`
  - Select cIOS slot `249`
 1. Press the `A` button to install.
-1. Set everything to match the following:
+1. 设定以下选项：
  - Select cIOS `v10 d2x-v10-beta52-vWii`
  - Select cIOS base `57`
  - Select cIOS slot `250`
 1. Press the `A` button to install.
-1. Set everything to match the following:
+1. 设定以下选项：
  - Select cIOS `v10 d2x-v10-beta52-vWii`
  - Select cIOS base `58`
  - Select cIOS slot `251`
