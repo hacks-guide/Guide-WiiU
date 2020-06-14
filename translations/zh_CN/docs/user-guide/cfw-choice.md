@@ -1,4 +1,4 @@
-# Choose The CFW You Want
+# 选择一个 CFW
 ---
 ?> Before starting, make sure to update your Wii U console to the latest firmware (5.5.4 for European consoles, 5.5.3 for all other regions) if you haven't already.
 
@@ -16,7 +16,7 @@ Haxchi/CBHC are both injected into a paid DS VC game, while Mocha is only used w
 
 ## CBHC
 
-!> Installing CBHC incorrectly can brick your Wii U! Make sure to follow the following rules when installing CBHC: <br>- The DS game has to be legitimately installed from the eShop! <br>- Don't format the system while CBHC is installed! <br>- Don't delete the user account that bought the DS VC game! <br>- Don't re-install the same game using WUP Installer or from the eShop! <br>- Don't install Haxchi over CBHC! <br>- Don't uninstall the DS Virtual Console game without [properly uninstalling CBHC first](uninstall-cbhc)! <br>- Don't move the DS Virtual Console game to a USB drive!
+!> Installing CBHC incorrectly can brick your Wii U! Make sure to follow the following rules when installing CBHC: <br>- The DS game has to be legitimately installed from the eShop! <br>- 安装完 CBHC 之后不要初始化系统！ <br>- Don't delete the user account that bought the DS VC game! <br>- 不要在 WUP Installer 或 eShop 中再次安装使用的同一游戏！ <br>- 不要通过 CBHC 安装 Haxchi！ <br>- Don't uninstall the DS Virtual Console game without [properly uninstalling CBHC first](uninstall-cbhc)! <br>- 不要将使用的 DS VC 游戏移动到 USB 设备中！
 
 !> Breaking one of the above rules **will** result in a brick!
 
