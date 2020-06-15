@@ -1,12 +1,12 @@
-# Wii U Hacks Guide
+# Wii U 破解手册
 
-A guide collaboration between Nintendo Homebrew's Helpers and Staff, from stock to CBHC custom firmware.
+一份由 Nintendo Homebrew 群组的助手和团队们共同完成的手册，教你将原厂主机破解至 CBHC。
 
-?> **Discord Help** For live support with this guide please visit us in **#wiiu-assistance** on the [Nintendo Homebrew Discord](https://discord.gg/C29hYvh) and ask, in English, for assistance. Please read the FAQ first to see if your question has already been answered.
+?> **Discord 支持** 如需要本手册的实时技术支持。请加入我们的 [Nintendo Homebrew Discord](https://discord.gg/C29hYvh)，然后在 **#wiiu-assistance** 频道以英文交流获取技术支持。 在提问之前请先阅读 FAQ 来确认你的问题是否已经得到了解答。
 
-> If you appreciate this guide, we accept [donations](donations).
+> 如果你认为这份手册对你很有帮助，请向我们[捐赠](donations)。
 
-> For complete guides to homebrew and custom firmware for other devices, check out [hacks.guide](https://hacks.guide).
+> 关于其他设备的自制程序和自定义固件完整手册，请见[hacks.guide](https://hacks.guide)。
 
 ### Homebrew
 
