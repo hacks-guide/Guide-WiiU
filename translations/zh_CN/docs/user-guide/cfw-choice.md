@@ -30,6 +30,6 @@ Haxchi/CBHC 需要购买付费的 DS VC 游戏来进行破解，Mocha 是只使�
 - 不需要任何游戏。
 - 每次重启之后都需要重新在 Wii U 触发浏览器漏洞来启用 CFW。
 - 与 Homebrew Launcher 频道不兼容。
-- May require an Internet connection depending on what entry point you choose.
+- 根据你选择的进入方法可能会需要连接网络。
 
-### [**Continue with Mocha**](mocha/entrypoint-choice) {docsify-ignore}
+### [**点击这里继续使用 Mocha**](mocha/entrypoint-choice) {docsify-ignore}
