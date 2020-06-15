@@ -10,19 +10,19 @@
 
 ### Homebrew
 
-> Homebrew applications are custom, user-made software, which haven’t been authorized by Nintendo. This can include save editing tools, games, emulators, and more.
+> Homebrew 是由用户自制的且 Nintendo 没有授权的程序。 包括存档修改器、游戏、模拟器等等。
 > 
-> Homebrew can be run on your Wii U as long as you have a way to put files on an SD Card and your Wii U is updated to the latest version for your region.
+> 只要你有办法将文件放进 SD 卡就可以破解最新版本的 Wii U。
 
-### Custom Firmware
+### 自制固件
 
-> Custom Firmware ("CFW") enables you to use more advanced hacks that userland homebrew can’t easily do. For instance, installing game modifications with ease. CFW can be set up on any console on the latest version.
+> 自制固件（“CFW”）允许你对设备进行普通的 Homebrew 程序无法做到的更高级的破解。 例如：轻松为游戏安装 Mod。 任何主机在升级到最新版本后都可以安装 CFW。
 
-### Homebrew & CFW Uses
+### Homebrew & CFW 可以用来做以下事情
 >
-> Among other things, it allows you to do the following:
+> 除其他外，它允许你做以下事情：
 > 
-> - Use “ROM hacks” for games that you own.
+> - 对你的游戏使用金手指。
 > - Backup, edit and restore saves for many games.
 > - Play games for older systems with various emulators, using RetroArch or other standalone emulators.
 > - Play out-of-region games.
