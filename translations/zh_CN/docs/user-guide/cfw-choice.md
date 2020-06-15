@@ -1,6 +1,6 @@
 # 选择一个 CFW
 ---
-?> Before starting, make sure to update your Wii U console to the latest firmware (5.5.4 for European consoles, 5.5.3 for all other regions) if you haven't already.
+?> 在开始之前，你需要将你的 Wii U 更新至最新版本（欧版机为 5.5.4，其他区域的为 5.5.3）。
 
 There are two main CFWs: Haxchi/ColdBootHaxchi (CBHC) or Mocha.  
 Haxchi/CBHC are both injected into a paid DS VC game, while Mocha is only used with the web browser exploit and Indexiine, which makes it the only free CFW.
