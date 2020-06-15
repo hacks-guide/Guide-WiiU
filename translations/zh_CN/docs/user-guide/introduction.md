@@ -23,16 +23,16 @@
 > 除其他外，它允许你做以下事情：
 > 
 > - 对你的游戏使用金手指。
-> - Backup, edit and restore saves for many games.
-> - Play games for older systems with various emulators, using RetroArch or other standalone emulators.
-> - Play out-of-region games.
-> - Dump your Wii U game discs to a format that can be installed on your internal or external Wii U storage drive.
+> - 为许多游戏备份、修改和还原存档。
+> - 使用模拟器来玩旧主机游戏：RetroArch 或者其他独立的模拟器。
+> - 玩跨区游戏。
+> - 将你的 Wii U 游戏光盘里的游戏转换为可以在 Wii U 内部或外部存储器安装的格式。
 
-### End Goal
+### 最终目标
 
-> This guide has the end goal of taking a completely unmodified Wii U from stock to custom firmware.
+> 本手册的最终目标是将一台原厂 Wii U 破解并使用自制固件。
 
-### Before Starting
+### 开始前准备
 
 !> Before beginning the guide, you must know the risks of Wii U hacking: **EVERY** time you modify your system, there is always the potential for an **UNRECOVERABLE** brick. They’re rare but still a possibility so make sure you follow **ALL** directions **EXACTLY!**
 >
