@@ -1,18 +1,18 @@
 # CBHC
 
-## Installing the Homebrew Launcher Channel {docsify-ignore}
+## 安装 Homebrew Launcher 频道 {docsify-ignore}
 
-This page will install the Homebrew Launcher Channel as an application directly to your Home Menu for easy access.
+这个页面将会指导你 安装 Homebrew Launcher 频道为一个可在主菜单中打开的程序，来方便打开。
 
-?> This page is only for Haxchi and CBHC users. The Home-Menu Homebrew Launcher Channel will **not** work with Mocha CFW!
+?> 此页面只适用于 Haxchi 和 CBHC 用户。 主菜单形式的 Homebrew Launcher 频道 **不会** 在 Mocha CFW 上运作！
 
 ### 操作步骤
 
-1. Power on your console.
-1. Press the Home button during the `Autobooting...` screen to get into the boot menu.
-1. Select `Boot Homebrew Launcher` to launch the Homebrew Launcher.
-1. Navigate the Homebrew Launcher and launch the WUP Installer GX2 app.
-1. Use the touchscreen to select `Homebrew Launcher Channel`. Press `Install` and confirm with `Yes`.
-1. 选择 NAND 作为安装目标。 This will install the Homebrew Launcher Channel to the Wii U Menu.
-1. Once the process is finished, press the Home button until you're back at the Wii U Menu.
-1. You will now see the Homebrew Launcher Channel installed on your Wii U Menu.
+1. 打开你的主机。
+1. 在屏幕上提示 `Autobooting...` 时按下 Home 键来打开引导菜单。
+1. 选择 `Boot Homebrew Launcher` 来启动 Homebrew Launcher。
+1. 移动 Homebrew 至 WUP Installer GX2 程序，然后打开它。
+1. 使用触屏来选择 `Homebrew Launcher Channel`。 点击 `Install` 然后以 `Yes` 确认。
+1. 选择 NAND 作为安装目标。 这会将 Homebrew Launcher 频道安装到 Wii U 主菜单中。
+1. 一旦进程完成后，按下 Home 键来回到 Wii U 主菜单中。
+1. 然后你应该就会看到 Homebrew Launcher 频道安装在你的 Wii U 主菜单中了。
