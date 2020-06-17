@@ -34,7 +34,7 @@
 
 ### 开始前准备
 
-!> Before beginning the guide, you must know the risks of Wii U hacking: **EVERY** time you modify your system, there is always the potential for an **UNRECOVERABLE** brick. They’re rare but still a possibility so make sure you follow **ALL** directions **EXACTLY!**
+!> 在开始之前，你必须知道破解 Wii U 的风险：对系统做**任何**的修改都有可能造成**不可恢复的**砖机。 They’re rare but still a possibility so make sure you follow **ALL** directions **EXACTLY!**
 >
 > This guide will work on all Wii U consoles in all regions on firmware 5.5.4 or below.
 > 
