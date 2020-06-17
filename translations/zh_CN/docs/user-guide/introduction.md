@@ -1,40 +1,40 @@
-# Wii U 破解手册
+# Wii U Hacks Guide
 
-一份由 Nintendo Homebrew 群组的助手和团队们共同完成的手册，教你将原厂主机破解至 CBHC。
+A guide collaboration between Nintendo Homebrew's Helpers and Staff, from stock to CBHC custom firmware.
 
-?> **Discord 支持** 如需要本手册的实时技术支持。请加入我们的 [Nintendo Homebrew Discord](https://discord.gg/C29hYvh)，然后在 **#wiiu-assistance** 频道以英文交流获取技术支持。 在提问之前请先阅读 FAQ 来确认你的问题是否已经得到了解答。
+?> **Discord Help** For live support with this guide please visit us in **#wiiu-assistance** on the [Nintendo Homebrew Discord](https://discord.gg/C29hYvh) and ask, in English, for assistance. Please read the FAQ first to see if your question has already been answered.
 
-> 如果你认为这份手册对你很有帮助，请向我们[捐赠](donations)。
+> If you appreciate this guide, we accept [donations](donations).
 
-> 关于其他设备的自制程序和自定义固件完整手册，请见[hacks.guide](https://hacks.guide)。
+> For complete guides to homebrew and custom firmware for other devices, check out [hacks.guide](https://hacks.guide).
 
 ### Homebrew
 
-> Homebrew 是由用户自制的且 Nintendo 没有授权的程序。 包括存档修改器、游戏、模拟器等等。
+> Homebrew applications are custom, user-made software, which haven’t been authorized by Nintendo. This can include save editing tools, games, emulators, and more.
 > 
-> 只要你有办法将文件放进 SD 卡就可以破解最新版本的 Wii U。
+> Homebrew can be run on your Wii U as long as you have a way to put files on an SD Card and your Wii U is updated to the latest version for your region.
 
-### 自制固件
+### Custom Firmware
 
-> 自制固件（“CFW”）允许你对设备进行普通的 Homebrew 程序无法做到的更高级的破解。 例如：轻松为游戏安装 Mod。 任何主机在升级到最新版本后都可以安装 CFW。
+> Custom Firmware ("CFW") enables you to use more advanced hacks that userland homebrew can’t easily do. For instance, installing game modifications with ease. CFW can be set up on any console on the latest version.
 
-### Homebrew & CFW 可以用来做以下事情
+### Homebrew & CFW Uses
 >
-> 除了别的以外它允许你做以下事情：
+> Among other things, it allows you to do the following:
 > 
-> - 对你的游戏使用金手指。
-> - 为许多游戏备份、修改和还原存档。
-> - 使用模拟器来玩旧主机游戏：RetroArch 或者其他独立的模拟器。
-> - 玩跨区游戏。
-> - 将你的 Wii U 游戏光盘里的游戏转换为可以在 Wii U 内部或外部存储器安装的格式。
+> - Use “ROM hacks” for games that you own.
+> - Backup, edit and restore saves for many games.
+> - Play games for older systems with various emulators, using RetroArch or other standalone emulators.
+> - Play out-of-region games.
+> - Dump your Wii U game discs to a format that can be installed on your internal or external Wii U storage drive.
 
-### 最终目标
+### End Goal
 
-> 本手册的最终目标是将一台原厂 Wii U 破解并使用自制固件。
+> This guide has the end goal of taking a completely unmodified Wii U from stock to custom firmware.
 
-### 开始前准备
+### Before Starting
 
-!> 在开始之前，你必须知道破解 Wii U 的风险：对系统做**任何**的修改都有可能造成**不可恢复的**砖机。 They’re rare but still a possibility so make sure you follow **ALL** directions **EXACTLY!**
+!> Before beginning the guide, you must know the risks of Wii U hacking: **EVERY** time you modify your system, there is always the potential for an **UNRECOVERABLE** brick. They’re rare but still a possibility so make sure you follow **ALL** directions **EXACTLY!**
 >
 > This guide will work on all Wii U consoles in all regions on firmware 5.5.4 or below.
 > 
