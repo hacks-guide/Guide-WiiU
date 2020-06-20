@@ -1,18 +1,18 @@
 # Haxchi
 
-## 安装 Homebrew Launcher 频道 {docsify-ignore}
+## Installing the Homebrew Launcher Channel {docsify-ignore}
 
-这个页面将会指导你 安装 Homebrew Launcher 频道为一个可在菜单中打开的程序，来方便打开。
+This page will install the Homebrew Launcher Channel as an application directly to your Wii U Menu for easy access.
 
-### 操作步骤
+### Instructions
 
-?> 是否需要安装 Homebrew Launcher 频道由你自己决定，因为你可以在启用 Haxchi 的时候按住 A 键来启动 Homebrew Launcher。
+?> Installing the Homebrew Launcher Channel is optional as you can already launch it by holding the A button while launching Haxchi.
 
-1. 将你的主机开机。
-1. 从 Wii U 菜单中打开你安装了 Haxchi 的 DS 游戏。 这将重启并激活启用 CFW 的 Wii U 菜单。
-1. 再次启动 Haxchi DS 游戏一次，启动后按住 A 键。 这将会启动 Homebrew Launcher。
-1. 移动 Homebrew 至 WUP Installer GX2 程序，然后打开它。
-1. 使用触屏来选择 `Homebrew Launcher Channel`。 点击 `Install` 然后以 `Yes` 确认。
-1. 选择 NAND 作为安装目标。 这会将 Homebrew Launcher 频道安装到 Wii U 主菜单中。
-1. 一旦进程完成后，按下 Home 键来回到 Wii U 主菜单中。
-1. 然后你应该就会看到 Homebrew Launcher 频道安装在你的 Wii U 主菜单中了。 请注意，你需要在每次重启后重新启动 CFW 才能打开这个频道。
+1. Power on your console
+1. Launch the Haxchi DS game from the Wii U Menu. This will re-launch the Wii U Menu with CFW activated.
+1. Launch the Haxchi DS game again while holding the A button. This will launch the Homebrew Launcher.
+1. Navigate the Homebrew Launcher and launch the WUP Installer GX2 app.
+1. Use the touchscreen to select `Homebrew Launcher Channel`. Press `Install` and confirm with `Yes`.
+1. Select NAND as the installation destination. This will install the Homebrew Launcher Channel to the Wii U Menu.
+1. Once the process is finished, press the Home button until you're back at the Wii U Menu.
+1. You will now see the Homebrew Launcher Channel installed on your Wii U Menu. Keep in mind you will need to launch CFW every reboot to run this channel.
