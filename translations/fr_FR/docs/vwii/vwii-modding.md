@@ -43,7 +43,7 @@ Nous allons maintenant placer les fichiers Homebrew nécessaires sur la carte SD
 1. Lancez Wuphax.
 1. Appuyez sur `B` pour restaurer la Chaîne Mii, puis attendez que la console affiche <code>Mii <wbr>Channel <wbr>restored!</code>.
  - Vous serez ramené au Menu Wii U après quelques secondes.
- - Si pour une raison quelconque, vous ne pouvez pas restaurer votre sauvegarde, vous devrez [réinstaller votre Chaîne Mii](recover-mii-channel).
+ - If for some reason, you cannot restore your backup, you will need to [reinstall your Mii Channel](recover-vwii-ioses-channels).
 
 ### Sauvegarde de la NAND
 
@@ -86,7 +86,7 @@ Au cas où quelque chose se passe mal dans le processus ultérieur et que votre 
 
 ### Patching de l'IOS 80
 
-> Si pour une raison quelconque, la Wii U est éteinte pendant la patching de l'IOS 80, votre vWii sera brickée. Cela peut être corrigé soit en extrayant l'IOS 80 de votre sauvegarde de la NAND précédemment créée, puis en le remplaçant par FTP, soit en [réinstallant l'IOS 80](recover-ios).
+> Si pour une raison quelconque, la Wii U est éteinte pendant la patching de l'IOS 80, votre vWii sera brickée. This can be fixed by either extracting the IOS 80 from your previously made NAND backup and then replacing it over FTP or by [reinstalling IOS 80](recover-vwii-ioses-channels).
 
 1. Lancez Patched IOS 80 Installer for vWii.
 1. Lisez l'écran d'avertissement et attendez 30 secondes.

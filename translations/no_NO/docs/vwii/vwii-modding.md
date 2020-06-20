@@ -43,7 +43,7 @@ Vi starter med å plassere Homebrew filene du trenger på SD-kortet ditt.
 1. Kjør Wuphax.
 1. Trykk `B` for å gjenopprette "Mii Channel" og vent til det står <code>Mii <wbr>Channel <wbr>restored!</code>.
  - Du vil bli sendt tilbake til Wii U menyen etter noen sekunder.
- - Hvis du av en eller annen grunn ikke kan gjenopprette sikkerhetskopien, må du [reinstallere Mii Channel](recover-mii-channel).
+ - If for some reason, you cannot restore your backup, you will need to [reinstall your Mii Channel](recover-vwii-ioses-channels).
 
 ### NAND Backup
 
@@ -86,7 +86,7 @@ Hvis noe går galt senere i prosessen og vWii "bricker", vil gjenoppretting av e
 
 ### Patche IOS 80
 
-!> Hvis Wii U konsollen din slår seg av mens du patcher IOS 80, vil vWii bli "bricket". Dette kan du fikse ved å enten pakke ut IOS 80 fila fra NAND backupen din og erstatte den over FTP, eller ved å [installerer IOS 80](recover-ios) på nytt.
+!> Hvis Wii U konsollen din slår seg av mens du patcher IOS 80, vil vWii bli "bricket". This can be fixed by either extracting the IOS 80 from your previously made NAND backup and then replacing it over FTP or by [reinstalling IOS 80](recover-vwii-ioses-channels).
 
 1. Kjør Patched IOS 80 Installer for vWii.
 1. Les advarselen og vent 30 sekunder.

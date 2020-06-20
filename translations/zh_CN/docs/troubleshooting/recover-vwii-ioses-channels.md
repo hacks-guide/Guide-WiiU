@@ -1,9 +1,9 @@
-# Recover a vWii IOS/Channel
+# 恢复一个 vWii IOS/频道
 ---
-This page will guide you through the process of recovering a IOS or channel on your vWii, whether it has been corrupted or deleted for whatever reason.
+此页面将教你恢复因任何原因而被破坏或被删除的 vWii 上的一个 IOS 或频道。
 
 <details>
-<summary>Click here to show what can be recovered with this method.</summary>
+<summary>点击此处显示可以通过此方法恢复的内容。</summary>
 
 - Wii Menu Manual
 - vWii System Channel
@@ -46,63 +46,63 @@ This page will guide you through the process of recovering a IOS or channel on y
 
 </details>
 
-!> This has the potential to destroy your vWii NAND if you are not careful! Please consider [backing up](mocha/online-exploit/nand-backup) your SLCCMPT and OTP if you do not yet have them backed up!
+!> 小心点，这东西可能在你大意的时候会破坏你 vWii 的 NAND！ 如果你还没有备份东西的话，请在做这些东西之前 [备份](mocha/online-exploit/nand-backup)好你的 SLCCMPT 和 OTP！
 
-?> If you are using a system update blocking method, please [remove it](unblock-updates).
+?> 如果你正在阻止系统更新，请[关闭阻止更新](unblock-updates)。
 
-### What You Need
+### 你需要准备点啥？
 
-- A working [Homebrew installation](introduction) on Wii U side.
-- The latest release of [vWii Decaffeinator](https://github.com/GaryOderNichts/vWii-Decaffeinator/releases).
+- Wii U 的[破解](introduction)正常运作。
+- 最新版 [vWii Decaffeinator](https://github.com/GaryOderNichts/vWii-Decaffeinator/releases)。
 
-### 说明
+### 操作步骤
 
-1. Extract the `decaffeinator.zip` file to the root of your SD Card.
-1. Take the SD Card out of your computer and plug it into your Wii U console.
-1. Power on your Wii U and launch the CFW of your choice (Mocha, Haxchi or CBHC).
-1. 启动Homebrew Launcher.
-1. Launch vWii Decaffeinator.
+1. 解压 `decaffeinator.zip` 到你的 SD 卡根目录。
+1. 把 SD 卡从电脑中弹出并插入 Wii U 主机。
+1. 将 Wii U 开机，然后启动你选择的 CFW（Mocha、Haxchi 或 CBHC）。
+1. 启动 Homebrew Launcher。
+1. 启动 vWii Decaffeinator。
 
-### Recovering Process
+### 恢复过程
 
-You will be provided with various options. It is recommended to first attempt restoring through the `Advanced options` menu if you know what to restore, or `Light mode` if you aren't sure. In extreme cases where no other option solves the issue, `Aggressive mode` should be chosen.
+你将有几种不同的选择。 如果你知道你要恢复什么东西，建议先尝试通过 `Advanced options` 菜单进行恢复。如果不确定，请使用 `Light mode`。 如果那两个方法都没有解决这个问题，则你应该使用 `Aggressive mode`。
 
 <!-- tabs:start -->
 
 #### **Advanced options**
 
-?> This mode will clear the specified IOSes and channels to reinstall them. All other data (including cIOSes) will be preserved.
+?> 此模式将清空特定的 IOS 和频道来重新安装它们。 其他数据（包括 cIOS 的）将会保存。
 
-1. Select `Advanced options` on the menu.
-1. Use the D-Pad to toggle what you would like to be restored.
-1. Press Start to initiate the restoration process.
-1. When the application finishes, allow the application to launch the System Settings.
-1. Perform a [System Update](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1136/~/how-to-perform-a-system-update) to finish the restoration process.
+1. 在菜单中选择 `Advanced options`。
+1. 使用十字键来切换至你想恢复的内容。
+1. 按下 Start 键来开始恢复进程。
+1. 当应用程序完成后，请允许程序启动系统设置。
+1. [升级系统](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1136/~/how-to-perform-a-system-update)来完成恢复进程。
 
-?> You can now re-enable your [system update blocking method](block-updates).
+?> 你现在可以重新打开[阻止更新](block-updates)。
 
 #### **Light mode**
 
-?> This mode will clear the System Menu, Wii Message Board save data, IOSes, and other system titles to reinstall clean versions of them. Please note this will remove all cIOSes as well and must be reinstalled. All other data will be preserved.
+?> 这种方法将会清除系统菜单、Wii 留言板保存数据、IOS和其他的系统程序以重新安装它们的干净版本。 请注意这会移除所有的 cIOS，并且你必须重新安装它们。 将保存所有其他数据。
 
-1. Select `Light mode` on the menu.
-1. Press Start to initiate the restoration process.
-1. When the application finishes, allow the application to launch the System Settings.
-1. Perform a [System Update](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1136/~/how-to-perform-a-system-update) to finish the restoration process.
+1. 在菜单中选择 `Light mode`。
+1. 按下 Start 键来开始恢复进程。
+1. 当应用程序完成后，请允许程序启动系统设置。
+1. [升级系统](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1136/~/how-to-perform-a-system-update)来完成恢复进程。
 
-?> You can now re-enable your [system update blocking method](block-updates).
+?> 你现在可以重新打开[阻止更新](block-updates)。
 
 #### **Aggressive mode**
 
-!> This mode will clear **everything** to reinstall clean versions of the default IOSes and channels. Please note that all cIOSes, save data, and channels will be lost, and the vWii NAND will be returned to its stock form!
+!> 此模式将会清空 **所有** 内容来重新安装默认的 IOS 和频道。 请注意，这会清除所有的clOS、保存的数据和频道，然后 vWii NAND 会被还原至其出厂的模式！
 
-1. Select `Aggressive mode` on the menu.
-1. Read the warning in its entirety. If you wish to proceed, press Start to initiate the restoration process.
-1. When the application finishes, allow the application to launch the System Settings.
-1. Perform a [System Update](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1136/~/how-to-perform-a-system-update) to finish the restoration process.
+1. 在菜单中选择 `Aggressive mode`。
+1. 完整阅读警告。 如果你想要继续，请按下 Start 来开始此恢复过程。
+1. 当应用程序完成后，请允许程序启动系统设置。
+1. [升级系统](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1136/~/how-to-perform-a-system-update)来完成恢复进程。
 
-?> You can now re-enable your [system update blocking method](block-updates).
+?> 你现在可以重新打开[阻止更新](block-updates)。
 
 <!-- tabs:end -->
 
-> If you receive Error Code 105-3102 when performing the system update, restart your console and reattempt the update.
+> 如果你在进行系统升级的时候遇到了 105-3102 错误代码，则请重新启动主机然后再次更新。
