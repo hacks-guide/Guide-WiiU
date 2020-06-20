@@ -10,7 +10,7 @@ Unlike systems such as the DSi, Wii, or 3DS, Wii U CFW is temporary. This means 
 
 !> Breaking one of the above rules will result in a brick.
 
-### Instrucciones
+### Instructions
 
 1. Take the SD Card out of your PC and plug it into your Wii U.
 1. If you haven't already, now download your DS Virtual Console game of choice from the eShop.
