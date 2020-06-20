@@ -6,7 +6,7 @@ This page will install the Homebrew Launcher Channel as an application directly 
 
 ?> This page is only for Haxchi and CBHC users. The Home-Menu Homebrew Launcher Channel will **not** work with Mocha CFW!
 
-### Instrucciones
+### Instructions
 
 1. Power on your console.
 1. Press the Home button during the `Autobooting...` screen to get into the boot menu.
