@@ -48,18 +48,18 @@ Cette page vous guidera dans le processus de récupération d'un IOS ou d'une ch
 
 !> Cela peut détruire la NAND de votre vWii si vous ne faites pas attention ! Veuillez [sauvegarder](mocha/online-exploit/nand-backup) vos SLCCMPT et OTP si vous ne les avez pas encore sauvegardés !
 
-?> Si vous utilisez une méthode de blocage de mise à jour du système, veuillez [la supprimer](unblock-updates).
+?> If you are using a system update blocking method, please [remove it](unblock-updates).
 
 ### Ce dont vous avez besoin
 
-- Une installation [Homebrew fonctionnelle](introduction) sur le côté de la WiiU.
+- A working [Homebrew installation](introduction) on Wii U side.
 - La dernière version de [vWii Decaffeinator](https://github.com/GaryOderNichts/vWii-Decaffeinator/releases).
 
 ### Instructions
 
 1. Copiez le contenu du fichier `decaffeinator.zip` vers la racine de votre carte SD.
 1. Retirez la carte SD de votre ordinateur et branchez-la sur votre console Wii U.
-1. Allumez votre Wii U et lancez le CFW de votre choix (Mocha, Haxchi ou CBHC).
+1. Power on your Wii U and launch the CFW of your choice (Mocha, Haxchi or CBHC).
 1. Lancez le Homebrew Launcher.
 1. Lancez vWii Decaffeinator.
 
@@ -79,7 +79,7 @@ Différentes options vous seront proposées. Il est recommandé de faire une pre
 1. Lorsque l'application a terminé, autorisez l'application à lancer les Paramètres de la console.
 1. Effectuez une [Mise à jour de la console](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1136/~/how-to-perform-a-system-update) pour terminer le processus de restauration.
 
-?> Vous pouvez maintenant réactiver votre méthode de [blocage des mises à jour du système](block-updates).
+?> You can now re-enable your [system update blocking method](block-updates).
 
 #### **Light mode**
 
@@ -90,7 +90,7 @@ Différentes options vous seront proposées. Il est recommandé de faire une pre
 1. Lorsque l'application a terminé, autorisez l'application à lancer les Paramètres de la console.
 1. Effectuez une [Mise à jour de la console](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1136/~/how-to-perform-a-system-update) pour terminer le processus de restauration.
 
-?> Vous pouvez maintenant réactiver votre méthode de [blocage des mises à jour du système](block-updates).
+?> You can now re-enable your [system update blocking method](block-updates).
 
 #### **Aggressive mode**
 
