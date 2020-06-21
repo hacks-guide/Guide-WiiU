@@ -1,6 +1,6 @@
 - **Haxchi**
 - [主页](../introduction)
-- [Choose a CFW](../cfw-choice)
+- [选择一个 CFW](../cfw-choice)
 - [选择你要用的 DS VC 游戏](ds-vc-choice)
 - [SD 卡准备](sd-preparation)
 - [浏览器漏洞](browser-exploit)
@@ -11,5 +11,5 @@
 - [![GitHub](https://icongr.am/simple/github.svg?color=808080&size=16)GitHub](https://github.com/hacks-guide/Guide-WiiU)
 - [![Discord](https://icongr.am/simple/discord.svg?colored&size=16)Discord](https://discord.gg/C29hYvh)
 - [![帮助我们翻译手册](https://icongr.am/material/translate.svg?color=808080&size=16)帮助我们翻译手册](https://hacks-guide.crowdin.com/u/projects/10)
-- [Donate](../donations)
-- [About](../about)
+- [捐赠](../donations)
+- [关于我们](../about)
