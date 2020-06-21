@@ -9,7 +9,7 @@
 
 ?> 如果你是欧版主机，则你的主机中可能自带了 <code>Dr. Kawashima's <wbr>Brain <wbr>Training: <wbr>How <wbr>Old <wbr>is <wbr>Your <wbr>Brain?</code> 免费游戏。 [进入 eShop](https://en-americas-support.nintendo.com/app/answers/detail/a_id/8563/~/how-to-view-previously-downloaded-titles-on-wii-u)，然后检查你是否已拥有该游戏。
 
-If you do not own any of the games listed below, we recommend buying Brain Age (North America) or Brain Training (Europe) as it currently is in the cheapest price bracket of compatible games and is the game we least expect you to want to play.
+如果你没有下面列出的任何游戏，我们建议你购买 Brain Age（北美）或 Brain Training（欧洲）游戏，因为它们是目前所有已知兼容游戏中最便宜的，而且我们不认为你会想玩这两个游戏。
 
 - **Animal Crossing: Wild World** - [欧版](https://www.nintendo.eu/Games/Nintendo-DS/Animal-Crossing-Wild-World-270011.html "Buy it from the European eShop") [美版](https://www.nintendo.com/games/detail/animal-crossing-wild-world-wii-u/ "Buy it from the American eShop") [日版](https://www.nintendo.co.jp/titles/20010000023019 "Buy it from the Japanese eShop")
 - **Big Brain Academy** - [欧版](https://www.nintendo.eu/Games/Nintendo-DS/Big-Brain-Academy-270143.html "Buy it from the European eShop") [美版](https://www.nintendo.com/games/detail/big-brain-academy-wii-u/ "Buy it from the American eShop") [日版](https://www.nintendo.co.jp/titles/20010000013967 "Buy it from the Japanese eShop")
