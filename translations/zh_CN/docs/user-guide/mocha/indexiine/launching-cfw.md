@@ -6,7 +6,7 @@
 
 ### 操作步骤
 
-1. Launch the Homebrew Launcher by launching the Internet Browser.
-1. Navigate the Homebrew Launcher and open the Mocha CFW app.
-1. It will take you back to the Homebrew Launcher and enable CFW.
-1. You will need to re-do these steps every reboot to launch CFW.
+1. 通过 Wii U 浏览器启动 Homebrew Launcher。
+1. 启动 Homebrew Launcher 然后打开 Mocha CFW 程序。
+1. 它将会带你自动回到 Homebrew Launcher 然后启用 CFW。
+1. 在重启主机后你需要重新做这些操作来启动 CFW。
