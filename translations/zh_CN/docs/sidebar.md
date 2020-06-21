@@ -1,19 +1,19 @@
-- **User Guide**
-- [Introduction](introduction)
-- [Choose a CFW](cfw-choice)
+- **用户手册**
+- [介绍](introduction)
+- [选择一个 CFW](cfw-choice)
 - **vWii**
-- [vWii Modding](vwii-modding)
-- **Troubleshooting**
-- [Common Issues & Fixes](common-issues-fixes)
-- [Recover a vWii IOS/Channel](recover-vwii-ioses-channels)
-- [Fix Error Code 112-1037](fix-errcode-112-1037)
-- **Extras**
-- [Blocking Updates](block-updates)
-- [Unblocking Updates](unblock-updates)
-- [Dumping Wii U Discs](dump-games)
-- [Dumping Original Wii Discs](dump-wii-games)
-- [Uninstall CBHC](uninstall-cbhc)
-- [Uninstall Indexiine](uninstall-indexiine)
+- [vWii 修改](vwii-modding)
+- **故障排查**
+- [常见问题 & 修复](common-issues-fixes)
+- [恢复一个 vWii IOS/Channel](recover-vwii-ioses-channels)
+- [修复错误代码 112-1037](fix-errcode-112-1037)
+- **扩展**
+- [阻止更新](block-updates)
+- [解除阻止更新](unblock-updates)
+- [导出 Wii U 光盘](dump-games)
+- [导出原版 Wii 光盘](dump-wii-games)
+- [卸载 CBHC](uninstall-cbhc)
+- [卸载 Indexiine](uninstall-indexiine)
 - [FAQ](faq)
 - **链接**
 - [![GitHub](https://icongr.am/simple/github.svg?color=808080&size=16)GitHub](https://github.com/hacks-guide/Guide-WiiU)
@@ -21,5 +21,5 @@
 - [![帮助我们翻译手册](https://icongr.am/material/translate.svg?color=808080&size=16)帮助我们翻译手册](https://hacks-guide.crowdin.com/u/projects/10)
 - [捐赠](donations)
 - [关于我们](about)
-- **Privacy**
-- [Privacy Policy](privacy-policy)
+- **隐私**
+- [隐私政策](privacy-policy)
