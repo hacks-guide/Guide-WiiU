@@ -60,7 +60,7 @@ This page will guide you through the process of recovering a IOS or channel on y
 1. Extract the `decaffeinator.zip` file to the root of your SD Card.
 1. 把 SD 卡从电脑中弹出并插入 Wii U 主机。
 1. Power on your Wii U and launch the CFW of your choice (Mocha, Haxchi or CBHC).
-1. Launch the Homebrew Launcher.
+1. 启动 Homebrew Launcher。
 1. Launch vWii Decaffeinator.
 
 ### Recovering Process
