@@ -1,12 +1,12 @@
 # 关于本手册
 ---
-本手册是由[Nintendo Homebrew Discord 服务器](https://discord.gg/C29hYvh)的成员所编写的。
+本手册是由 [Nintendo Homebrew Discord 服务器](https://discord.gg/C29hYvh)的成员所编写的。
 
 > **制作人员**
 > 
 > **Elpunical、FlimFlam69、Flump、Hiperhazz、huhen、Link5261、NoahAbc12345、Profanity 和 redcubie。**
 > 
-> 感谢 [所有其他](https://github.com/hacks-guide/Guide-WiiU/graphs/contributors)在 GitHub 中的手册贡献力量的人们。
+> 感谢[所有其他](https://github.com/hacks-guide/Guide-WiiU/graphs/contributors)在 GitHub 中的手册贡献力量的人们。
 
 ?> [你可以在 GitHub 中找到本手册](https://github.com/hacks-guide/Guide-WiiU)，它根据 [ISC 许可证](https://github.com/hacks-guide/Guide-WiiU/blob/master/LICENSE.md)进行授权。
 
