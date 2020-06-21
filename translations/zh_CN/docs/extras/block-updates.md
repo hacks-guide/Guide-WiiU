@@ -26,7 +26,7 @@
 1. 你会被分别要求输入一个首先 DNS 和备用 DNS。 输入以下 IP 地址：
  - 首选 DNS：168.235.092.108
  - 备用DNS：081.004.127.020 <img src="docs/assets/img/DNS.png" alt="DNS 屏蔽" />
-1. 点击确认.
+1. 点击确认。
 1. You are now blocking updates. 如果你想要启动 eShop，则你需要在 Homebrew Launcher 里运行 NNUPatcher 程序后再启动 eShop。
 
 
