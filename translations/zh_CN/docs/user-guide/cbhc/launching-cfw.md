@@ -10,9 +10,9 @@ Unlike systems such as the DSi, Wii, or 3DS, Wii U CFW is temporary. This means 
 
 !> Breaking one of the above rules will result in a brick.
 
-### Instructions
+### 操作步骤
 
-1. Take the SD Card out of your PC and plug it into your Wii U.
+1. 将内存卡从电脑上拔出并插回 Wii U。
 1. If you haven't already, now download your DS Virtual Console game of choice from the eShop.
 1. Launch the Homebrew Launcher on your system as [previously explained](browser-exploit).
 1. Navigate the Homebrew Launcher and open the Haxchi app.
