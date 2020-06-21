@@ -1,24 +1,24 @@
-# 解除阻止更新
+# Unblocking Updates
 ---
-如果你需要进行系统更新，则你就需要做这个教程。
+This is needed if you ever need to perform a System Update.
 
 ### 操作步骤
 
 <!-- tabs:start -->
 
-#### **重新创建更新文件夹**
+#### **Recreating The Update Folder**
 
 1. 将 SD 卡插入电脑。
 1. 下载并解压 [UFDiine](https://github.com/GaryOderNichts/UFDiine/releases) 到你的 SD 卡根目录。
-1. 将 SD 卡插回 Wii U 并将其开机。
+1. Plug the SD Card into your Wii U console and power it on.
 1. 启动 Homebrew Launcher。
 1. 移动 Homebrew Launcher 并启动 UFDiine app。
-1. 按下 A 键创建更新文件夹。
-1. 确认它提示 `Update folder exists`。 你现在不再阻止系统更新了。
+1. Press the A button to create the update folder.
+1. Confirm that it says `Update folder exists`. You are no longer blocking updates.
 
-### **移除 DNS 屏蔽**
+### **Removing The DNS Blocks**
 
-1. 进入 Wii U 的系统设置，然后进入至 `Internet（互联网）> Connect to the Internet（连接至互联网）> Connection List（接入点列表）>` `Your WiFi connection（你的 Wifi 接入点）> Change Settings（更改设定）> DNS` 然后设置选项为 `Auto-obtain（自动获取）`。
-1. 你现在不再阻止系统更新了。
+1. Enter the Wii U's system settings and navigate to `Internet > Connect to the Internet > Connection List >` `Your WiFi connection > Change Settings > DNS` and set the option to `Auto-obtain`.
+1. You are no longer blocking system updates.
 
 <!-- tabs:end -->
