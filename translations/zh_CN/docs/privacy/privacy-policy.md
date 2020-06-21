@@ -1,73 +1,73 @@
-# PRIVACY NOTICE
+# 隐私政策
 
-**Last updated January 18, 2020**
-
-
-Thank you for choosing to be part of our community at Wii U Hacks Guide (“company”, “we”, “us”, or “our”). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about our policy, or our practices with regards to your personal information, please contact us at nh.wiiuguide@gmail.com.
-
-When you visit our website https://wiiu.hacks.guide, and use our services, you trust us with your personal information. We take your privacy very seriously. In this privacy notice, we describe our privacy policy. We seek to explain to you in the clearest way possible what information we collect, how we use it and what rights you have in relation to it. We hope you take some time to read through it carefully, as it is important. If there are any terms in this privacy policy that you do not agree with, please discontinue use of our Sites and our services.
-
-This privacy policy applies to all information collected through our website (such as https://wiiu.hacks.guide), and/or any related services, sales, marketing or events (we refer to them collectively in this privacy policy as the "**Sites**").
-
-**Please read this privacy policy carefully.**
+**此声明于 2020 年 1 月 18 日更新。**
 
 
-## TABLE OF CONTENTS
+感谢您选择加入了 Wii U Hacks Guide（“公司”或“我们的”），并成为我们社区中的一员。 我们会保护你的个人隐私和你的隐私权。 如果您对我们的隐私政策有任何的疑问，或对我们在个人信息处理的做法有任何的想法，请通过 nh.wiiuguide@gmail.com 联系我们。
 
-[1. WHAT INFORMATION DO WE COLLECT?](privacy-policy?id=_1-what-information-do-we-collect)
+当您浏览我们的网站 https://wiiu.hacks.guide 并使用我们的服务时，则代表您信任我们不使用你的个人信息。 我们会非常认真地对待你的隐私。 在这份隐私声明中描述了我们的隐私政策是如何的。 我们会尽力明确我们收集的信息、我们收集这些信息用来干什么和您与这些信息持有的权利。 所以我们希望你花点时间阅读这份声明，因为它很重要。 如果您不同意此隐私政策中的任何条款，请立即停止使用我们的网站和我们的服务。
 
-[2. DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?](privacy-policy?id=_2-do-we-use-cookies-and-other-tracking-technologies)
+这份隐私政策适用于我们在我们网站（例如 https://wiiu.hacks.guide）上收集的所有信息。（在以下内容中，我们将其称作“**站点**”）。
 
-[3. WHAT ARE YOUR PRIVACY RIGHTS?](privacy-policy?id=_3-what-are-your-privacy-rights)
-
-[4. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?](privacy-policy?id=_4-do-california-residents-have-specific-privacy-rights)
-
-[5. DO WE MAKE UPDATES TO THIS POLICY?](privacy-policy?id=_5-do-we-make-updates-to-this-policy)
-
-[6. HOW CAN YOU CONTACT US ABOUT THIS POLICY?](privacy-policy?id=_6-how-can-you-contact-us-about-this-policy)
+**请仔细阅读这份隐私政策。**
 
 
+## 目录
 
-### 1. WHAT INFORMATION DO WE COLLECT? :id=_1-what-information-do-we-collect
+[1. 我们是怎么收集信息的？](privacy-policy?id=_1-what-information-do-we-collect)
 
-***In Short:*** *We do not collect any personal information.*
+[2. 我们是否使用 Cookies 和其他追踪技术？](privacy-policy?id=_2-do-we-use-cookies-and-other-tracking-technologies)
 
-We do not collect personal information in any shape or form. However, our hoster, [GitHub Pages](https://pages.github.com/) may collect personal information. For more information, see the [GitHub Privacy Statement](https://help.github.com/en/github/site-policy/github-privacy-statement)
+[3. 您的隐私权是什么？](privacy-policy?id=_3-what-are-your-privacy-rights)
 
+[4. 加州居民有特定的隐私权吗？](privacy-policy?id=_4-do-california-residents-have-specific-privacy-rights)
 
-### 2. DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES :id=_2-do-we-use-cookies-and-other-tracking-technologies
-***In Short:*** *We do not use cookies and other tracking technologies to collect and store your information.*
+[5. 我们会更新此政策吗？](privacy-policy?id=_5-do-we-make-updates-to-this-policy)
 
-We do not use cookies and similar tracking technologies (like web beacons and pixels) to access or store information.
-
-
-### 3. WHAT ARE YOUR PRIVACY RIGHTS? :id=_3-what-are-your-privacy-rights
-
-***In Short:*** *In some regions, such as the European Economic Area, you have rights that allow you greater access to and control over your personal information. You may review, change, or terminate your account at any time.*
-
-In some regions (like the European Economic Area), you have certain rights under applicable data protection laws. These may include the right (i) to request access and obtain a copy of your personal information, (ii) to request rectification or erasure; (iii) to restrict the processing of your personal information; and (iv) if applicable, to data portability. In certain circumstances, you may also have the right to object to the processing of your personal information. To make such a request, please use the [contact details](privacy-policy?id=_6-how-can-you-contact-us-about-this-policy) provided below. We will consider and act upon any request in accordance with applicable data protection laws.
-
-If we are relying on your consent to process your personal information, you have the right to withdraw your consent at any time. Please note however that this will not affect the lawfulness of the processing before its withdrawal.
-
-If you are resident in the European Economic Area and you believe we are unlawfully processing your personal information, you also have the right to complain to your local data protection supervisory authority. You can find their contact details here: http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm
+[6. 您如何就此政策与我们联系？](privacy-policy?id=_6-how-can-you-contact-us-about-this-policy)
 
 
-### 4. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS? :id=_4-do-california-residents-have-specific-privacy-rights
 
-***In Short:*** *Yes, if you are a resident of California, you are granted specific rights regarding access to your personal information.*
+### 1. 我们是怎么收集信息的？ :id=_1-what-information-do-we-collect
 
-California Civil Code Section 1798.83, also known as the “Shine The Light” law, permits our users who are California residents to request and obtain from us, once a year and free of charge, information about categories of personal information (if any) we disclosed to third parties for direct marketing purposes and the names and addresses of all third parties with which we shared personal information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to us using the contact information provided below.
+***简言之：*** *我们不会收集任何个人信息。*
 
-If you are under 18 years of age, reside in California, and have a registered account with the Sites, you have the right to request removal of unwanted data that you publicly post on the Sites. To request removal of such data, please contact us using the contact information provided below, and include the email address associated with your account and a statement that you reside in California. We will make sure the data is not publicly displayed on the Sites, but please be aware that the data may not be completely or comprehensively removed from our systems.
-
-
-### 5. DO WE MAKE UPDATES TO THIS POLICY? :id=_5-do-we-make-updates-to-this-policy
-
-***In Short:*** *Yes, we will update this policy as necessary to stay compliant with relevant laws.*
-
-We may update this privacy policy from time to time. The updated version will be indicated by an updated “Revised” date and the updated version will be effective as soon as it is accessible. If we make material changes to this privacy policy, we may notify you either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to review this privacy policy frequently to be informed of how we are protecting your information.
+我们不会收集任何形式的个人信息。 然而，我们的页面托管商 [GitHub Pages](https://pages.github.com/) 可能会收集您的个人信息。 关于更多信息，请查看 [GitHub Privacy Statement](https://help.github.com/en/github/site-policy/github-privacy-statement)
 
 
-### 6. HOW CAN YOU CONTACT US ABOUT THIS POLICY? :id=_6-how-can-you-contact-us-about-this-policy
+### 2. 我们是否使用 Cookies 和其他追踪技术？ :id=_2-do-we-use-cookies-and-other-tracking-technologies
+***简言之：*** *我们不会使用 Cookies 和其他追踪技术来收集并存储您的个人信息。*
 
-If you have questions or comments about this policy, you may email us at nh.wiiuguide@gmail.com
+我们不使用 Cookies 和其他类似的跟踪技术（例如 web beacons 和 pixels）来获取或保存信息。
+
+
+### 3. 您的隐私权是什么？ :id=_3-what-are-your-privacy-rights
+
+***简言之：*** *在某些地区（如欧洲经济区）。您拥有更多的权利来获取并控制你的个人信息。 您可以随时审查、修改或终止您的帐户。*
+
+在某些地区（如欧洲经济区），根据地区适用的数据保护法，您享有某些权利。 这些权利包括：㈠请求查阅和获得个人资料副本的权利。㈡ 请求更正或删除。 ㈢ 限制处理您的个人信息。㈣ 酌情限制数据可移植性。 在某些情况下，您可能也有权反对处理您的个人信息。 若要提出此请求，请通过[联系人详细信息](privacy-policy?id=_6-how-can-you-contact-us-about-this-policy)请求。 我们将根据适用的数据保护法律考虑并根据任何要求采取行动。
+
+如果我们依靠您的同意来处理您的个人信息，则您有权随时撤回您的同意。 但请注意，这不会影响撤回前处理的合法性。
+
+如果您是欧洲经济区的居民，且您认为我们侵犯了您的个人信息，则您有权向当地的数据保护监督机构提出申诉。 您可以在这里找到他们的联系方式：http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm
+
+
+### 4. 加州居民有特定的隐私权吗？ :id=_4-do-california-residents-have-specific-privacy-rights
+
+***简言之：*** *是的，如果你是加利福尼亚州的居民，则您拥有访问您的个人信息的特定权利。*
+
+根据《加利福尼亚民法典》（California Civil Code）第1798.83节，允许加利福尼亚州的居民用户每年向我们获取有关我们在上一年度中出于直接营销目的而向第三方披露的个人信息的类别（如果有的话）以及所有第三方的名称及地址。 如果您是加利福尼亚居民且想要提出这样的请求。 请使用下面提供的联系信息向我们提交您的书面请求。
+
+如果您未满 18 周岁且住在加利福尼亚州并在此网站有注册的账户，您有权移除在此网站中公开的不必要数据。 若要请求删除这些数据，请使用以下联系信息与我们联系。并带上您账户的相关电子邮件地址和您居住在加利福尼亚州的证明。 我们将确保数据不会在网站上公开显示， 但请注意，数据可能不会完全或全面地从我们的系统中删除。
+
+
+### 5. 我们会更新此政策吗？ :id=_5-do-we-make-updates-to-this-policy
+
+***简言之：*** *是的，我们将视情况更新这些政策，并遵守相关法规。*
+
+我们可能会不时的更新此隐私政策。 更新后的版本将在页头标注“更新”日期，更新后的版本一旦可以查阅将立即生效。 如果我们对隐私政策作了重大修改，我们可以通过张贴这种更改的通知或直接向您发送通知来通知您。 我们鼓励您审查此隐私政策，以便经常了解我们是如何保护您的信息的。
+
+
+### 6. 您如何就此政策与我们联系？ :id=_6-how-can-you-contact-us-about-this-policy
+
+如果您对此政策有任何的疑问，请发送电子邮件至 nh.wiiuguide@gmail.com
