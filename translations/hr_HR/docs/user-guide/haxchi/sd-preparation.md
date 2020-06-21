@@ -31,7 +31,7 @@ We will now place the required CFW files and some additional homebrew files on t
 1. Create a folder called `install` on the root of your SD Card.
 1. Extract the `homebrew_launcher_channel.v2.1_fix.zip` file to the `install` folder you created.
 1. Extract the `Haxchi.zip` file to the root of your SD Card.
-1. Ekstraktirajte `wup_installer_gx2.zip` datoteku na korijen vaše SD kartice.
+1. Extract the `wup_installer_gx2.zip` file to the root of your SD Card.
 1. Extract the `nanddumper.zip` file to the root of your SD Card.
 1. Extract the `wiiu-extracttosd.zip` file to the root of your SD Card.
 1. Extract the `homebrew_launcher.v.1.4.zip` file to the root of your SD Card.

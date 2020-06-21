@@ -1,35 +1,35 @@
-# 选择一个 CFW
+# Choose The CFW You Want
 ---
-?> 在开始之前，你需要将你的 Wii U 更新至最新版本（欧版机为 5.5.4，其他区域的为 5.5.3）。
+?> Before starting, make sure to update your Wii U console to the latest firmware (5.5.4 for European consoles, 5.5.3 for all other regions) if you haven't already.
 
-这里有两种主流的 CFW：Haxchi/ColdBootHaxchi（CBHC）和 Mocha。  
-Haxchi/CBHC 需要购买付费的 DS VC 游戏来进行破解，Mocha 是只使用浏览器漏洞和 Indexiine 的唯一能够不花费钱破解的 CFW。
+There are two main CFWs: Haxchi/ColdBootHaxchi (CBHC) or Mocha.  
+Haxchi/CBHC are both injected into a paid DS VC game, while Mocha is only used with the web browser exploit and Indexiine, which makes it the only free CFW.
 
 ## Haxchi
 
-- 需要从 eShop 上购买并下载 DS VC 游戏。
-- 可以直接从 Wii U 主菜单中直接启动 CFW。
-- 每次重启之后都需要重新在 Wii U 中菜单启动来启用 CFW。
-- 它的功能可以通过安装 ColdBootHaxchi（CBHC）来扩展。
+- Requires a legitimately installed paid DS VC game from the eShop.
+- Can be used to launch CFW directly from the Wii U Menu.
+- Needs to be re-launched from the Wii U Menu every reboot to enable CFW.
+- Its functionality can be extended by installing ColdBootHaxchi (CBHC) to a Haxchi installation.
 
-### [**点击这里继续使用 Haxchi**](haxchi/ds-vc-choice) {docsify-ignore}
+### [**Continue with Haxchi**](haxchi/ds-vc-choice) {docsify-ignore}
 
 ## CBHC
 
-!> 如果安装 CBHC 不当会导致你的 Wii U 变砖！ 所以请确保你在安装 CBHC 时遵循以下规定： <br>- 使用的 DS 游戏必须是从 eShop 下载的正版游戏！ <br>- 安装完 CBHC 之后不要初始化系统！ <br>- 不要删除购买此 DS VC 游戏的用户账户！ <br>- 不要在 WUP Installer 或 eShop 中再次安装使用的同一游戏！ <br>- 不要通过 CBHC 安装 Haxchi！ <br>- 不要在[正确卸载 CBHC 之前](uninstall-cbhc)卸载使用的 DS VC 游戏！ <br>- 不要将使用的 DS VC 游戏移动到 USB 设备中！
+!> Installing CBHC incorrectly can brick your Wii U! Make sure to follow the following rules when installing CBHC: <br>- The DS game has to be legitimately installed from the eShop! <br>- Don't format the system while CBHC is installed! <br>- Don't delete the user account that bought the DS VC game! <br>- Don't re-install the same game using WUP Installer or from the eShop! <br>- Don't install Haxchi over CBHC! <br>- Don't uninstall the DS Virtual Console game without [properly uninstalling CBHC first](uninstall-cbhc)! <br>- Don't move the DS Virtual Console game to a USB drive!
 
-!> 若你想斗胆试试无视上述规定的规则，那么你就死掉了。
+!> Breaking one of the above rules **will** result in a brick!
 
-- 需要从 eShop 上购买并下载 DS VC 游戏。
-- 重启后会自动启动 CFW。
+- Requires a legitimately installed paid DS VC game from the eShop.
+- Automatically launches CFW on every boot.
 
-### [**点击这里继续使用 CBHC**](cbhc/ds-vc-choice) {docsify-ignore}
+### [**Continue with CBHC**](cbhc/ds-vc-choice) {docsify-ignore}
 
 ## Mocha
 
-- 不需要任何游戏。
-- 每次重启之后都需要重新在 Wii U 触发浏览器漏洞来启用 CFW。
-- 与 Homebrew Launcher 频道不兼容。
-- 根据你选择的进入方法可能会需要连接网络。
+- Does not require any game, and is therefore free.
+- Needs to be re-launched through the browser exploit every reboot to enable CFW.
+- Is not compatible with the Homebrew Launcher Channel.
+- May require an Internet connection depending on what entry point you choose.
 
-### [**点击这里继续使用 Mocha**](mocha/entrypoint-choice) {docsify-ignore}
+### [**Continue with Mocha**](mocha/entrypoint-choice) {docsify-ignore}
