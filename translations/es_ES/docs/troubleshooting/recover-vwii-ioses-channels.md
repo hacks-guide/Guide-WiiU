@@ -55,7 +55,7 @@ This page will guide you through the process of recovering a IOS or channel on y
 - A working [Homebrew installation](introduction) on Wii U side.
 - The latest release of [vWii Decaffeinator](https://github.com/GaryOderNichts/vWii-Decaffeinator/releases).
 
-### Instrucciones
+### Instructions
 
 1. Extract the `decaffeinator.zip` file to the root of your SD Card.
 1. Take the SD Card out of your computer and plug it into your Wii U console.
