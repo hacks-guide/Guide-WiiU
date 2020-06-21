@@ -1,48 +1,48 @@
 # FAQ {docsify-ignore-all}
 ---
-### Does Homebrew have any risks?
+### Homebrew 是否有风险？
 
-Currently homebrewing the Wii U does not expose you to a risk of being banned by Nintendo unless you cheat in online games. You should, however, always be careful with launching downloaded homebrew, especially if you don't trust the source, as Homebrew can potentially damage your system!
+当前，破解 Wii U 不会使你被任天堂封禁，除非你在在线游戏中作弊。 然而尤其是当你不信任程序的源代码的时候，你要对你下载并启动的 Homebrew 程序保持一定的警惕，因为 Homebrew 可以破坏系统！
 
-### What is Haxchi, and do I need it?
+### 什么是 Haxchi，可以吃吗？我需要准备什么东西？
 
-Haxchi is a secondary entry point which uses certain DS Virtual Console titles to allow for access to homebrew while being completely offline (still works with online but no connection required to launch CFW)
+Haxchi 是通过某个 NDS VC（Virtual Console）程序来允许 Homebrew 程序在离线环境下运行的一个辅助入口。（不过仍然可以在在线时使用，但需要在无连接时启动 CFW）
 
-Haxchi is not required, however, if you want to use homebrew on your Wii U while offline you will need it. It’s highly recommended as it’s more stable than the browser entry point, especially on the newest firmware.
+Haxchi 不是必须的，然而如果你需要在离线环境下使用 Homebrew 程序，那你就需要它。 强烈建议使用此方法来代替通过浏览器进入破解，特别是较新的系统版本上。
 
-The cheapest DS VC games usable for this exploit:
+这里列出了可用于此漏洞的最便宜的 DS VC 游戏：
  - Dr. Kawashima's Brain Training [PAL]
  - Brain Age: Train Your Brain in Minutes a Day! [USA]
  - Kawashima: Motto Nou wo Kitaeru Otona no DS Training [JPN]
 
-### Can I install games from my USB instead of SD?
+### 我可以从我的 USB 设备而不用 SD 卡安装游戏吗？
 
-Yes. It is, however, a bit more complicated than installing from SD Card. Detailed instructions are in the `Install from USB` tab in the [Dumping guide](dump-games).
+是的。 然而它会比从 SD 卡上安装要复杂一点点。 详细说明在[导出手册](dump-games)中的`从 USB 设备中安装`选项卡里头可以看到。
 
-### How to Delete Update Folder to Block Updates on Wii U
+### 如何干掉 Wii U 的更新文件夹来阻止 Wii U 更新？
 
-If you want to delete the update folder to block updates, see its tab in the [Blocking Updates guide](block-updates).
+如果你想删除更新文件夹来阻止更新，请参见[阻止更新手册](block-updates)中的选项卡。
 
-### What SD Card size is recommended?
+### 我需要多大的 SD 卡？
 
- - **Installing game backups:** 32 GB  (Smaller size may be used, but certain titles are 20 GB in size)
- - **Running game mods:** 8 GB  (FAT32 USB drive may be used as well for mods)
- - **Only running homebrew apps:** Any size
+ - **安装游戏备份：** 32 GB（可以用更小的卡，但是有些游戏大小超过了 20 GB）
+ - **运行游戏的 Mod：** 8 GB （FAT32 格式的 USB 设备也可以安装 Mod）
+ - **只是运行 Homebrew 程序：** 任何大小
 
-**Recommended brands:** SanDisk, Samsung or PNY
+**推荐内存卡品牌：** 闪迪、三星或必恩威
 
-?> Note: Avoid class 4 SD Cards, and avoid eBay!
+?> 注意：远离 class 4 SD 卡和淘宝或 eBay 上的杂牌内存卡！
 
-### Can I install homebrew on Wii U with a USB instead of SD Card?
+### 那么我可以在 Wii U 上使用 USB 设备而不是 SD 卡来安装 Homebrew 程序吗？
 
-No, you must have an SD Card for a first time setup, a USB can then be used to install game backups, VC injects, etc, but not to store Homebrew Apps which are required to set everything up.
+不可以，你必须先在 SD 卡上做好功课，然后才能在 USB 设备上安装游戏的备份、VC 注入等等等等，但不要在里头存下设置一切所必须的 Homebrew 程序。
 
-### When extracting some of the files there are duplicates of certain ones called "info.json" & "manifest.install", what do I do with those?
+### 当我解压一些文件时，某些叫做 “info.json” & “manifest.install” 的文件重复了，我对这些文件要咋整？
 
-Nothing special, you can leave them there, delete them or replace them with new ones. Those files are not used in the process, therefore, won't have any impact by being or not being there.
+你自己看着整吧，无论是把它们留在原处、删除它们或者替换它们为新的什么的等等都由你自己摆布。 也就是说，这些东西它有没有都无伤大雅。
 
-### What is a Wii U formatted USB drive?
+### Wii U 会把我的 USB 设备格式化成什么格式？
 
-It's a USB drive that has been formatted by a Wii U console to its proprietary format.  
-A Wii U formatted USB drive ***cannot be read by any other devices than the Wii U that originally formatted it.***  
-If you ever want to use it with another Wii U console or any other devices, you will have to reformat it.
+Wii U 会把你的 USB 设备格式化成这台 Wii U 独有的格式。  
+一个被一台 Wii U 格式化的 USB 设备***不能被格式化它以外的设备读取。***  
+如果你想要将其用在另一台 Wii U 主机上或者其他的设备上，则你就必须重新再次格式化它。
