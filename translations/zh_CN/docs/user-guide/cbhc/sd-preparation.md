@@ -4,24 +4,24 @@
 
 我们现在需要把一些 CFW 需要使用到的文件放进你的 SD 卡。
 
-?> **注意** 你的 SD 卡需要被格式化为 FAT32。 如果你的 SD 卡没有格式化为 FAT32，则你需要用 [GUIFormat](http://www.ridgecrop.demon.co.uk/index.htm?guiformat.htm) 格式化，并将分配单元大小设置为 32k（32768）
+?> **注意** 你的 SD 卡需要被格式化为 FAT32。 If your SD Card is not formatted to FAT32, use [GUIFormat](http://www.ridgecrop.demon.co.uk/index.htm?guiformat.htm) with 32k (32768) allocation unit size to format it.
 
 ### 你需要准备点啥？
 
-- Haxchi <a href="docs/files/config.txt" download>配置文件</a>
-- 最新版 [Homebrew Launcher Installer](https://github.com/wiiu-env/homebrew_launcher_installer/releases/latest)
+- The Haxchi <a href="docs/files/config.txt" download>config</a>.
+- The latest release of [Homebrew Launcher Installer](https://github.com/wiiu-env/homebrew_launcher_installer/releases/latest).
   - 你需要下载 `payload.zip` 文件。
-- 1.4 版的 [The Homebrew Launcher](https://github.com/dimok789/homebrew_launcher/releases/tag/1.4)
-  - 你需要下载 v1.4 `homebrew_launcher.v1.4.zip` 的 Homebrew Launcher。
-- 最新版 [WUP Installer GX2](http://wiiubru.com/appstore/zips/wup_installer_gx2.zip)
-- 最新版 [The Homebrew Launcher Channel](https://github.com/GaryOderNichts/homebrew_launcher/releases/tag/v2.1_fix)
+- The 1.4 release of [The Homebrew Launcher](https://github.com/dimok789/homebrew_launcher/releases/tag/1.4).
+  - You will need to download the v1.4 `homebrew_launcher.v1.4.zip` release of The Homebrew Launcher.
+- 最新版 [WUP Installer GX2](http://wiiubru.com/appstore/zips/wup_installer_gx2.zip)。
+- The latest release of [The Homebrew Launcher Channel](https://github.com/GaryOderNichts/homebrew_launcher/releases/tag/v2.1_fix).
   - 你需要下载 `homebrew_launcher_channel.v2.1_fix.zip` 文件。
-- 最新版 [Wii U NAND Dumper](https://github.com/koolkdev/wiiu-nanddumper/releases/latest)
-- 最新版 [Homebrew App Store](https://github.com/vgmoose/hbas/releases/latest)
+- The latest release of [Wii U NAND Dumper](https://github.com/koolkdev/wiiu-nanddumper/releases/latest).
+- The latest release of the [Homebrew App Store](https://github.com/vgmoose/hbas/releases/latest).
   - 你需要下载 `wiiu-extracttosd.zip` 文件。
-- 最新版 [Haxchi 和 CBHC](https://github.com/FIX94/haxchi/releases/latest)
+- The latest release of [Haxchi and CBHC](https://github.com/FIX94/haxchi/releases/latest).
   - 同时下载 Haxchi 和 CBHC .zip 文件。
-- 最新版 <a href="docs/files/savemii_mod.zip" download>SaveMii mod</a>
+- The latest release of <a href="docs/files/savemii_mod.zip" download>SaveMii Mod</a>.
 
 ### 操作步骤
 
