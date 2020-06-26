@@ -4,7 +4,7 @@ Cette page vous guidera tout au long du processus de correction du code d'erreur
 
 ### Ce dont vous avez besoin
 
-- Une installation [Homebrew fonctionnelle](introduction).
+- A working [homebrew installation](introduction).
 - [wupclient.py](https://raw.githubusercontent.com/Elpunical/mocha/master/ios_mcp/wupclient.py) **(clic droit -> Enregistrer le fichier sous... -> Cliquez sur OK).**
 - La dernière version de [Python](https://www.python.org/downloads/).
 
