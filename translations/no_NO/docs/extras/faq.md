@@ -1,8 +1,8 @@
-# FAQ {docsify-ignore-all}
+# Frequently Asked Questions {docsify-ignore-all}
 ---
-### Er det noen risikoer ved å bruke homebrew?
+### Does homebrew have any risks?
 
-For øyeblikket er det ingen risiko for å bli banned av Nintendo ved bruk av homebrew med mindre du jukser i online spill. Men du bør alltid være forsiktig med å kjøre nedlastede homebrew filer, spesielt hvis du ikke stoler på kilden, da Homebrew kan potensielt skade systemet ditt!
+Currently, homebrewing the Wii U does not expose you to a risk of being banned by Nintendo unless you cheat in online games. You should, however, always be careful with launching downloaded homebrew, especially if you don't trust the source, as homebrew can potentially damage your system!
 
 ### Hva er Haxchi, og trenger jeg det?
 
@@ -10,7 +10,7 @@ Haxchi er et sekundært inngangspunkt som bruker visse DS Virtual Console titler
 
 Haxchi er ikke nødvendig, men hvis du ønsker å bruke homebrew på Wii U konsollen uten internett så trenger du det. Men det er anbefalt allikevel fordi det er mer stabilt enn nettleser exploiten, spesielt på den nyeste firmware versjonen.
 
-Det billigste, og mest anbefalte DS VC-spillet for Haxchi er:
+The cheapest DS Virtual Console games usable for this exploit:
  - Dr. Kawashima's Brain Training [PAL]
  - Brain Age: Train Your Brain in Minutes a Day! [USA]
  - Kawashima: Motto Nou wo Kitaeru Otona no DS Training [JPN]
@@ -25,9 +25,9 @@ Hvis du vil slette update mappa for å blokkere systemoppdateringer, skjekk ut h
 
 ### Hva slags SD-kort størrelse anbefales?
 
- - **Installering av spill:** 32 GB (man kan bruke mindre størrelser, men noen spill er oppe i 20gb)
- - **Kjøre spill modifikasjoner:** 8 GB (FAT32 USB penn kan også brukes til mods)
- - **Bare homebrew-apper:** Alle størrelser
+ - **Installing game backups:** 32GB (Smaller size may be used, but certain titles are 20GB in size)
+ - **Running game mods:** 8GB (FAT32 USB drive may be used as well for mods)
+ - **Only running homebrew apps:** Any size.
 
 **Anbefalte merkevarer:** SanDisk, Samsung eller PNY
 
@@ -35,11 +35,11 @@ Hvis du vil slette update mappa for å blokkere systemoppdateringer, skjekk ut h
 
 ### Kan jeg installere homebrew på Wii U med et USB penn i stedenfor ett SD-kort?
 
-Nei, du må bruke et SD-kort for å sette opp homebrew i første omgang, en USB penn kan deretter brukes til å installere spilldumper, VC spill, osv., men ikke for å lagre Homebrew-apper som er nødvendig for å sette opp dette.
+No, you must have an SD Card for a first time setup. A USB can then be used to install game backups, Virtual Console injects, etc, but not to store homebrew applications which are required to set everything up.
 
 ### Når jeg pakker ut noen av filene er det duplikater av noen som heter "info.json" & "manifest.install", hva gjør jeg med dem?
 
-Du kan la dem ligge, slette dem eller kopiere over dem med de nye filene. Disse filene brukes ikke i prosessen, derfor er det ingen forskjell på om de er der eller ikke.
+Du kan la dem ligge, slette dem eller kopiere over dem med de nye filene. Those files are not used in the process, and therefore, won't have any impact by being or not being there.
 
 ### Hva er en Wii U formatert USB lagringsenhet?
 
