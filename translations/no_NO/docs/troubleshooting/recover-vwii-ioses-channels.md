@@ -52,7 +52,7 @@ This page will guide you through the process of recovering a IOS or channel on y
 
 ### Dette trenger du
 
-- En fungerende [Homebrew installasjon](introduction) på Wii U siden.
+- A working [homebrew installation](introduction) on the Wii U side.
 - The latest release of [vWii Decaffeinator](https://github.com/GaryOderNichts/vWii-Decaffeinator/releases).
 
 ### Instruksjoner
