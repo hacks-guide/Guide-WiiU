@@ -2,39 +2,37 @@
   - <a href="#" data-link-title="Dark">Dark</a>
   - <a href="#" data-link-title="Light">Light</a>
 - ![Languages](https://icongr.am/material/translate.svg?color=A9A9A9&size=39)
- - Translations are
- - currently unavailable.
-  <!-- - [English](/) -->
-  <!-- - [Español](/es_ES/) -->
-  <!-- - [Deutsch](/de_DE/) -->
-  <!-- - [Français](/fr_FR/) -->
-  <!-- - [Italiano](/it_IT/) -->
-  <!-- - [日本語](/ja_JP/) -->
-  <!-- - [한국어](/ko_KR/) -->
-  <!-- - [简体中文](/zh_CN/) -->
-  <!-- - [繁體中文](/zh_TW/) -->
-  <!-- - [اللغة العربية](/ar_SA/) -->
-  <!-- - [Català](/ca_ES/) -->
-  <!-- - [Hrvatski](/hr_HR/) -->
-  <!-- - [Čeština](/cs_CZ/) -->
-  <!-- - [Dansk](/da_DK/) -->
-  <!-- - [Nederlands](/nl_NL/) -->
-  <!-- - [Eestlane](/et_ET/) -->
-  <!-- - [Suomalainen](/fi_FI/) -->
-  <!-- - [Ελληνικά](/el_GR/) -->
-  <!-- - [עברית](/he_IL/) -->
-  <!-- - [Magyar](/hu_HU/) -->
-  <!-- - [Bahasa Indonesia](/id_ID/) -->
-  <!-- - [Bahasa Melayu](/ms_MY/) -->
-  <!-- - [Norsk](/no_NO/) -->
-  <!-- - [Polskie](/pl_PL/) -->
-  <!-- - [Português](/pt_PT/) -->
-  <!-- - [Português, Brasileiro](/pt_BR/) -->
-  <!-- - [Română](/ro_RO/) -->
-  <!-- - [Русский](/ru_RU/) -->
-  <!-- - [Svenska](/sv_SE/) -->
-  <!-- - [ไทย](/th_TH/) -->
-  <!-- - [Türk](/tr_TR/) -->
-  <!-- - [Українська](/uk_UA/) -->
-  <!-- - [Tiếng Việt](/vi_VN/) -->
+  - [English](/)
+  - [Español](/es_ES/)
+  - [Deutsch](/de_DE/)
+  - [Français](/fr_FR/)
+  - [Italiano](/it_IT/)
+  - [日本語](/ja_JP/)
+  - [한국어](/ko_KR/)
+  - [简体中文](/zh_CN/)
+  - [繁體中文](/zh_TW/)
+  - [اللغة العربية](/ar_SA/)
+  - [Català](/ca_ES/)
+  - [Hrvatski](/hr_HR/)
+  - [Čeština](/cs_CZ/)
+  - [Dansk](/da_DK/)
+  - [Nederlands](/nl_NL/)
+  - [Eestlane](/et_ET/)
+  - [Suomalainen](/fi_FI/)
+  - [Ελληνικά](/el_GR/)
+  - [עברית](/he_IL/)
+  - [Magyar](/hu_HU/)
+  - [Bahasa Indonesia](/id_ID/)
+  - [Bahasa Melayu](/ms_MY/)
+  - [Norsk](/no_NO/)
+  - [Polskie](/pl_PL/)
+  - [Português](/pt_PT/)
+  - [Português, Brasileiro](/pt_BR/)
+  - [Română](/ro_RO/)
+  - [Русский](/ru_RU/)
+  - [Svenska](/sv_SE/)
+  - [ไทย](/th_TH/)
+  - [Türk](/tr_TR/)
+  - [Українська](/uk_UA/)
+  - [Tiếng Việt](/vi_VN/)
 - [![Discord](https://icongr.am/material/discord.svg?color=A9A9A9&size=37)](https://discord.gg/C29hYvh)
