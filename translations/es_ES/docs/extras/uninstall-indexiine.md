@@ -2,7 +2,7 @@
 ---
 This page will guide through the process of uninstalling Indexiine from your Wii U.
 
-### Instrucciones
+### Instructions
 
 1. Launch the Homebrew Launcher.
 1. Launch Indexiine-Installer.
