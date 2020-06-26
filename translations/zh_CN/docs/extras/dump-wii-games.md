@@ -2,7 +2,7 @@
 ---
 导出你的光盘允许你：在 Wii 模拟器（即 Dolphin）中游玩它们，或使用 USB/SD 卡加载器（如Wiiflow）玩它们，亦或制作一个 VC （Virtual Console）模拟游戏并安装在 USB 设备或 NAND 中，允许它从 Wii U 菜单中启动。
 
-?> 导出 Wii 游戏需要提前完成 vWii 的 Homebrew 设置，所以你需要先完成 [vWii 修改教程](vwii-modding) 再来关注这一部分的内容。
+?> Dumping Wii games require a working homebrew setup on vWii, so make sure to finish the [vWii Modding guide](vwii-modding) beforehand.
 
 ### 你需要准备点啥？
 
@@ -11,9 +11,9 @@
 
 ### 操作步骤
 
-1. 将你的 Wii U SD 卡 插入你的电脑。
-1. 从 `CleanRip-v2.1.1.zip` 中复制 `apps` 文件夹到你的 SD 卡根目录中
-1. 复制 `wii.dat` 到你的 SD 卡根目录。
+1. Insert your Wii U's SD Card into your computer.
+1. Copy the `apps` folder from the `CleanRip-v2.1.1.zip` file to the root of your SD Card.
+1. Copy the `wii.dat` file to the root of your SD Card.
 1. 把 SD 卡从电脑中弹出并插入 Wii U 主机。
 
 ### 导出光盘
@@ -30,9 +30,9 @@
 1. 插入你的光盘，然后按下 A 键。
 1. 在[这个页面](https://wiki.dolphin-emu.org/index.php?title=Category:Dual_Layer_Disc_games)中可以检查你的光盘是否是双层的。
 1. 设定以下选项：
- - Dual Layer `Yes/No`（如果你的光盘是双层的，请选择 `Yes`）
- - Chunk Size `Max`
- - New device per chunk `No`
+ - Dual Layer: `Yes/No` (Select `Yes` if your game's disc is dual-layered)
+ - Chunk Size: `Max`
+ - New device per chunk: `No`
 1. 如果你想要导出多个光盘，请选择 Yes 来保存你的设置。 反之，请选择 No。
 
 ?> 请等待一段时间。 导出过程可能要 30 分钟至 1 小时，这取决于你的 SD 卡速度。
