@@ -14,11 +14,11 @@
 - [导出原版 Wii 光盘](dump-wii-games)
 - [卸载 CBHC](uninstall-cbhc)
 - [卸载 Indexiine](uninstall-indexiine)
-- [FAQ](faq)
+- [Frequently Asked Questions](faq)
 - **链接**
 - [![GitHub](https://icongr.am/simple/github.svg?color=808080&size=16)GitHub](https://github.com/hacks-guide/Guide-WiiU)
 - [![Discord](https://icongr.am/simple/discord.svg?colored&size=16)Discord](https://discord.gg/C29hYvh)
-- [![帮助我们翻译手册](https://icongr.am/material/translate.svg?color=808080&size=16)帮助我们翻译手册](https://hacks-guide.crowdin.com/u/projects/10)
+- [![Translate](https://icongr.am/material/translate.svg?color=808080&size=16)Translate](https://hacks-guide.crowdin.com/u/projects/10)
 - [捐赠](donations)
 - [关于我们](about)
 - **隐私**
