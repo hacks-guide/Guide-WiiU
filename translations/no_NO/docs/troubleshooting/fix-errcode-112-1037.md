@@ -4,7 +4,7 @@ Denne siden vil hjelpe deg med å fikse feilkode 112-1037.
 
 ### Dette trenger du
 
-- En fungerende [Homebrew installasjon](introduction).
+- A working [homebrew installation](introduction).
 - [wupclient.py](https://raw.githubusercontent.com/Elpunical/mocha/master/ios_mcp/wupclient.py) **(Høyreklikk -> Lagre lenke som... -> Klikk Lagre).**
 - Siste utgave av [Python](https://www.python.org/downloads/).
 
