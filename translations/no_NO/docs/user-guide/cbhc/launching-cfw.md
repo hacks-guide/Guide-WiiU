@@ -10,6 +10,8 @@ I motsetning til systemer som DSi, Wii eller 3DS, er Wii U CFW midlertidig. Dett
 
 !> Hvis du bryter en av reglene ovenfor, vil du "bricke" konsollen.
 
+> If you are worried about breaking one of these rules while using CBHC, consider setting up Parental Controls for your user! Blocking `Data Management` and setting `Game Rating` to the highest possible rating can help prevent common mistakes users may make when using CBHC. Check [here](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1081/~/how-to-change-parental-controls) for more information on how to change your Parental Controls settings.
+
 ### Instruksjoner
 
 1. Ta SD-kortet ut av PCen og sett det inn i Wii U konsollen.
