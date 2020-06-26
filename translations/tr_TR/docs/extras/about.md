@@ -1,35 +1,35 @@
-# Bu kılavuz hakkında
+# About this guide
 ---
-Bu kılavuz [Nintendo Homebrew Discord Server](https://discord.gg/C29hYvh) üyeleri tarafından yazılmıştır
+This guide was written by staff members of the [Nintendo Homebrew Discord Server](https://discord.gg/C29hYvh)
 
-> **Emeği geçenler**
+> **Credits**
 > 
-> **Elpunical, FlimFlam69, Flump, Hiperhazz, huhen, Link5261, NoahAbc12345, Profanity, ve redcubie.**
+> **Elpunical, FlimFlam69, Flump, Hiperhazz, huhen, Link5261, NoahAbc12345, Profanity, and redcubie.**
 > 
-> GitHub'daki kılavuza katkıda bulunan [herkese](https://github.com/hacks-guide/Guide-WiiU/graphs/contributors) teşekkürler.
+> Thank you to [everyone else](https://github.com/hacks-guide/Guide-WiiU/graphs/contributors) that contributed to the guide on GitHub.
 
-?> [Bu kılavuzu GitHub'da bulabilirsiniz](https://github.com/hacks-guide/Guide-WiiU), [ISC Lisansı](https://github.com/hacks-guide/Guide-WiiU/blob/master/LICENSE.md) altında lisanslanmıştır.
+?> [You can find this guide on GitHub](https://github.com/hacks-guide/Guide-WiiU), It is licensed under the [ISC License](https://github.com/hacks-guide/Guide-WiiU/blob/master/LICENSE.md).
 
 <figure class="thumbnails">
     <img src="docs/assets/img/nh.jpg" alt="Nintendo Homebrew" title="Nintendo Homebrew">
 </figure>
 
 >
-> **Geliştirici / Yazılım aracısına emeği geçenler**
+> **Developer / Tool credits**
 > 
-> - **dragbe** ve **FIX94** için <u>d2x cIOS Installer</u>.
+> - **dragbe** and **FIX94** for <u>d2x cIOS Installer</u>.
 > 
-> - **koolkdev** ve **FIX94** için [disc2app](https://github.com/koolkdev/disc2app).
+> - **koolkdev** and **FIX94** for [disc2app](https://github.com/koolkdev/disc2app).
 > 
-> - **Maxternal/DarkMatterCore** için [Dump Mii NAND](https://code.google.com/p/gbadev/).
+> - **Maxternal/DarkMatterCore** for [Dump Mii NAND](https://code.google.com/p/gbadev/).
 > 
-> - **FIX94** ve **smealum** için [Haxchi ve CBHC](https://github.com/FIX94/haxchi).
+> - **FIX94** and **smealum** for [Haxchi and CBHC](https://github.com/FIX94/haxchi).
 > 
 > - **dimok789** for the [Homebrew Launcher](https://github.com/dimok789/homebrew_launcher), the [Homebrew Launcher Channel](https://github.com/dimok789/homebrew_launcher), and [Mocha](https://github.com/dimok789/mocha).
 > 
-> - **orboditilt** ve **dimok789** emeği geçenler için [Homebrew Launcher Installer](https://github.com/wiiu-env/homebrew_launcher_installer).
+> - **orboditilt** and **dimok789** for the [Homebrew Launcher Installer](https://github.com/wiiu-env/homebrew_launcher_installer).
 > 
-> - **vgmoose**, **pwsincd**, **rw-r-r_0644**, **crc32** ve **Compucat** emeğe geçenler için [hb-appstore](https://github.com/vgmoose/hb-appstore).
+> - **vgmoose**, **pwsincd**, **rw-r-r_0644**, **crc32** and **Compucat** for [hb-appstore](https://github.com/vgmoose/hb-appstore).
 > 
 > - **Jonhyjp** for [Indexiine](https://gbatemp.net/threads/indexiine-load-cfw-during-boot-and-offline-without-a-vc-ds-title.553681/).
 > 
