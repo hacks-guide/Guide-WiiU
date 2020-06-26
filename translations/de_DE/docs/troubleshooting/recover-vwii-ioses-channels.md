@@ -50,17 +50,17 @@ This page will guide you through the process of recovering a IOS or channel on y
 
 ?> If you are using a system update blocking method, please [remove it](unblock-updates).
 
-### Was Du Brauchst
+### What You Need
 
-- A working [Homebrew installation](introduction) on Wii U side.
+- A working [homebrew installation](introduction) on the Wii U side.
 - The latest release of [vWii Decaffeinator](https://github.com/GaryOderNichts/vWii-Decaffeinator/releases).
 
-### Anleitungen
+### Instructions
 
 1. Extract the `decaffeinator.zip` file to the root of your SD Card.
-1. Nimm die SD-Karte aus deinem Computer heraus und stecke sie in deine Wii U-Konsole.
+1. Take the SD Card out of your computer and plug it into your Wii U console.
 1. Power on your Wii U and launch the CFW of your choice (Mocha, Haxchi or CBHC).
-1. Starte den Homebrew Launcher.
+1. Launch the Homebrew Launcher.
 1. Launch vWii Decaffeinator.
 
 ### Recovering Process
