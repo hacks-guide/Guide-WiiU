@@ -8,12 +8,12 @@ Vi starter med å plassere Homebrew filene du trenger på SD-kortet ditt.
 
 ### Dette trenger du
 
-- Siste utgave av [Wuphax](http://wiiubru.com/appstore/zips/wuphax.zip)
-- Siste utgave av [HackMii Installer](https://bootmii.org/download/)
-- <a href="docs/files/Patched_IOS80_Installer_for_vWii.zip" download>Patched IOS 80 Installer for vWii</a>
-- <a href ="docs/files/vWii_cIOS_apps_20131218.zip" download>vWii cIOS apps</a>
-- [Homebrew Launcher](https://github.com/dimok789/homebrew_launcher/releases/download/1.4/homebrew_launcher.v1.4.zip)
-- Siste utgave av [Homebrew Launcher Installer](https://github.com/wiiu-env/homebrew_launcher_installer/releases/download/v1.4/payload.zip)
+- The latest release of [Wuphax](http://wiiubru.com/appstore/zips/wuphax.zip).
+- The latest release of [HackMii Installer](https://bootmii.org/download/).
+- The <a href="docs/files/Patched_IOS80_Installer_for_vWii.zip" download>Patched IOS 80 Installer for vWii</a>.
+- The <a href ="docs/files/vWii_cIOS_apps_20131218.zip" download>vWii cIOS apps</a>.
+- The [Homebrew Launcher](https://github.com/dimok789/homebrew_launcher/releases/download/1.4/homebrew_launcher.v1.4.zip).
+- The latest release of the [Homebrew Launcher Installer](https://github.com/wiiu-env/homebrew_launcher_installer/releases/download/v1.4/payload.zip).
 
 ### Instruksjoner
 
@@ -68,19 +68,19 @@ Hvis noe går galt senere i prosessen og vWii "bricker", vil gjenoppretting av e
 1. Start Homebrew Channel.
 1. Kjør d2x cIOS Installer.
 1. Velg følgende instillinger:
- - Velg cIOS `v10 d2x-v10-beta52-vWii`
- - Velg cIOS base `56`
- - Velg cIOS slot `249`
+ - Select cIOS: `v10 d2x-v10-beta52-vWii`
+ - Select cIOS base: `56`
+ - Select cIOS slot: `249`
 1. Trykk på `A`-knappen for å installere dem.
 1. Velg følgende instillinger:
- - Velg cIOS `v10 d2x-v10-beta52-vWii`
- - Velg cIOS base `57`
- - Velg cIOS slot `250`
+ - Select cIOS: `v10 d2x-v10-beta52-vWii`
+ - Select cIOS base: `57`
+ - Select cIOS slot: `250`
 1. Trykk på `A`-knappen for å installere dem.
 1. Velg følgende instillinger:
- - Velg cIOS `v10 d2x-v10-beta52-vWii`
- - Velg cIOS base `58`
- - Velg cIOS slot `251`
+ - Select cIOS: `v10 d2x-v10-beta52-vWii`
+ - Select cIOS base: `58`
+ - Select cIOS slot: `251`
 1. Trykk på `A`-knappen for å installere dem.
 1. Trykk på `B`-knappen for å avslutte.
 
