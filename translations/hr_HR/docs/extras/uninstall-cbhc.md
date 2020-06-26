@@ -1,12 +1,12 @@
-# Deinstalacija CBHC
+# Uninstall CBHC
 ---
-Ova stranica će vas uputiti kroz proces deinstalacije CBHC-a sa vaše Wii U konzole.
+This page will guide through the process of uninstalling CBHC from your Wii U.
 
-### Instrukcije
+### Instructions
 
-1. Otvorite HomeBrew Pokretač.
-1. Otvorite CBHC Instalaciju.
-1. Odaberite DS Virtual Console igru koju želite izbrisati CBHC sa, i onda pritisnite `A` dugme.
-1. Pročitajte upozorenja i onda pritisnite `B` dugme.
-1. Provjerite da li vas Wii U nema više automatskog pokretanja CBHC resetirajući konzolu.
-1. Ako više nema automatskog pokretanja ili vam se MENI pojavi dok se konzola pokretala, onda možete pokrenuti System Settings i otići u Data Management i sigurno izbrisati aplikaciju `DON'T TOUCH ME`.
+1. Launch the Homebrew Launcher.
+1. Launch CBHC Installer.
+1. Select the DS Virtual Console game you want to uninstall CBHC from then press the `A` button.
+1. Read the warnings then press the `B` button.
+1. Check that your Wii U no longer autoboots to CBHC by rebooting the console.
+1. If no autobooting or menu screen appreared when the console was booting up, you can launch System Settings then go to Data Management and then safely uninstall the app called `DON'T TOUCH ME`.
