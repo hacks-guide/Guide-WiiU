@@ -1,14 +1,14 @@
-# Mocha - Choose An Entrypoint
+# Mocha - 选择一个进入方法
 
-## Online Exploit
+## 在线漏洞
 
-- Requires an Internet connection every time you want to launch the Homebrew Launcher.
+- 每次你想启动 Homebrew Launcher 时都需要连接网络。
 
-### [**Continue with the Online Exploit**](online-exploit/sd-preparation) {docsify-ignore}
+### [**点击这里继续使用在线漏洞**](online-exploit/sd-preparation) {docsify-ignore}
 
 ## Indexiine
 
-- Requires an Internet connection for the setup process but can be used offline once it's been setup.
-- Requires you to modify a system file.
+- 安装过程中需要连接网络，但安装完成后你就可以脱离网络使用。
+- 需要你修改一个系统文件。
 
-### [**Continue with Indexiine**](indexiine/sd-preparation) {docsify-ignore}
+### [**点击这里继续使用 Indexiine**](indexiine/sd-preparation) {docsify-ignore}

@@ -2,7 +2,7 @@
 ---
 Dumping your Discs allows you to: play them on a Wii emulator (namely Dolphin), play them using a USB/SD Card loader such as Wiiflow, make Virtual Console injects that can be installed on a Wii U formatted USB drive or the NAND and launched from the Wii U Menu.
 
-?> Dumping Wii games require a working Homebrew setup on vWii, so make sure to finish the [vWii Modding guide](vwii-modding) beforehand.
+?> Dumping Wii games require a working homebrew setup on vWii, so make sure to finish the [vWii Modding guide](vwii-modding) beforehand.
 
 ### What You Need
 
@@ -11,9 +11,9 @@ Dumping your Discs allows you to: play them on a Wii emulator (namely Dolphin), 
 
 ### Instructions
 
-1. Insert your Wii U's SD Card into your computer
-1. Copy the `apps` folder from the `CleanRip-v2.1.1.zip` file to the root of your SD Card
-1. Copy the `wii.dat` file to the root of your SD Card
+1. Insert your Wii U's SD Card into your computer.
+1. Copy the `apps` folder from the `CleanRip-v2.1.1.zip` file to the root of your SD Card.
+1. Copy the `wii.dat` file to the root of your SD Card.
 1. Take the SD Card out of your computer and plug it into your Wii U console.
 
 ### Dumping The Disc
@@ -30,9 +30,9 @@ Dumping your Discs allows you to: play them on a Wii emulator (namely Dolphin), 
 1. Insert your disc then press A.
 1. Go [on this page](https://wiki.dolphin-emu.org/index.php?title=Category:Dual_Layer_Disc_games) to see if your disc is dual-layered.
 1. Set everything to match the following:
- - Dual Layer `Yes/No` (Select `Yes` if your game's disc is dual-layered)
- - Chunk Size `Max`
- - New device per chunk `No`
+ - Dual Layer: `Yes/No` (Select `Yes` if your game's disc is dual-layered)
+ - Chunk Size: `Max`
+ - New device per chunk: `No`
 1. If you want to dump multiple discs, select Yes to remember your settings. If not, select No.
 
 ?> Be prepared to wait a while. The dumping process can take 30 minutes to 1 hour depending on your SD Card's speeds.

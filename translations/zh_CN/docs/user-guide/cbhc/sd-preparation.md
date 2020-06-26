@@ -23,7 +23,7 @@ We will now place the required CFW files and some additional homebrew files on t
   - Download both the Haxchi and CBHC .zip files.
 - The latest release of <a href="docs/files/savemii_mod.zip" download>SaveMii mod</a>
 
-### 操作步骤
+### Instructions
 
 ?> **Notice** The info.json and manifest.install files are not needed for the modding process and therefore can be deleted.
 
@@ -32,9 +32,9 @@ We will now place the required CFW files and some additional homebrew files on t
 1. Extract the `homebrew_launcher_channel.v2.1_fix.zip` file to the `install` folder you created.
 1. Extract the `Haxchi.zip` file to the root of your SD Card.
 1. Extract the `CBHC.zip` file to the root of your SD Card.
-1. 解压 `wup_installer_gx2.zip` 到你的 SD 卡根目录。
-1. 解压 `nanddumper.zip` 到你的 SD 卡根目录。
-1. 解压 `wiiu-extracttosd.zip` 到你的 SD 卡根目录。
+1. Extract the `wup_installer_gx2.zip` file to the root of your SD Card.
+1. Extract the `nanddumper.zip` file to the root of your SD Card.
+1. Extract the `wiiu-extracttosd.zip` file to the root of your SD Card.
 1. Extract the `homebrew_launcher.v.1.4.zip` file to the root of your SD Card.
 1. Extract the `savemii_mod.zip` file to the root of your SD Card.
 1. Copy the `config.txt` file to the `haxchi` folder on the root of your SD Card. Overwrite files if asked.

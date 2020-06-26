@@ -5,24 +5,24 @@
 We will now place the required CFW files and some additional homebrew files on the SD Card.
 
 ?> **Notice**
-    Your SD Card will need to be formatted as FAT32. If your SD Card is not formatted to FAT32, use [GUIFormat](http://www.ridgecrop.demon.co.uk/index.htm?guiformat.htm) with 32k (32768) Allocation unit size to format it.
+    Your SD Card will need to be formatted as FAT32. If your SD Card is not formatted to FAT32, use [GUIFormat](http://www.ridgecrop.demon.co.uk/index.htm?guiformat.htm) with 32k (32768) allocation unit size to format it.
 
 ### What You Need
 
-- The Haxchi <a href="docs/files/config.txt" download>config</a>
-- The latest release of [Homebrew Launcher Installer](https://github.com/wiiu-env/homebrew_launcher_installer/releases/latest)
+- The Haxchi <a href="docs/files/config.txt" download>config</a>.
+- The latest release of [Homebrew Launcher Installer](https://github.com/wiiu-env/homebrew_launcher_installer/releases/latest).
   - You will need to download the `payload.zip` file.
-- The 1.4 release of [The Homebrew Launcher](https://github.com/dimok789/homebrew_launcher/releases/tag/1.4)
-  - You will need to download the v1.4 `homebrew_launcher.v1.4.zip` release of The Homebrew Launcher
-- The latest release of [WUP Installer GX2](http://wiiubru.com/appstore/zips/wup_installer_gx2.zip)
-- The latest release of [The Homebrew Launcher Channel](https://github.com/GaryOderNichts/homebrew_launcher/releases/tag/v2.1_fix)
+- The 1.4 release of [The Homebrew Launcher](https://github.com/dimok789/homebrew_launcher/releases/tag/1.4).
+  - You will need to download the v1.4 `homebrew_launcher.v1.4.zip` release of The Homebrew Launcher.
+- The latest release of [WUP Installer GX2](http://wiiubru.com/appstore/zips/wup_installer_gx2.zip).
+- The latest release of [The Homebrew Launcher Channel](https://github.com/GaryOderNichts/homebrew_launcher/releases/tag/v2.1_fix).
   - You will need to download the `homebrew_launcher_channel.v2.1_fix.zip` file.
-- The latest release of [Wii U NAND Dumper](https://github.com/koolkdev/wiiu-nanddumper/releases/latest)
-- The latest release of the [Homebrew App Store](https://github.com/vgmoose/hbas/releases/latest)
+- The latest release of [Wii U NAND Dumper](https://github.com/koolkdev/wiiu-nanddumper/releases/latest).
+- The latest release of the [Homebrew App Store](https://github.com/vgmoose/hbas/releases/latest).
   - You will need to download the `wiiu-extracttosd.zip` file.
-- The latest release of [Haxchi and CBHC](https://github.com/FIX94/haxchi/releases/latest)
+- The latest release of [Haxchi and CBHC](https://github.com/FIX94/haxchi/releases/latest).
   - Download both the Haxchi and CBHC .zip files.
-- The latest release of <a href="docs/files/savemii_mod.zip" download>SaveMii mod</a>
+- The latest release of <a href="docs/files/savemii_mod.zip" download>SaveMii Mod</a>.
 
 ### Instructions
 

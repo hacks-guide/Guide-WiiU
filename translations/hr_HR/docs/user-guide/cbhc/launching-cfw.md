@@ -12,7 +12,7 @@ Unlike systems such as the DSi, Wii, or 3DS, Wii U CFW is temporary. This means 
 
 ### Instructions
 
-1. Izvadite SD karticu iz vašeg PC i priključite je u vaš Wii U.
+1. Take the SD Card out of your PC and plug it into your Wii U.
 1. If you haven't already, now download your DS Virtual Console game of choice from the eShop.
 1. Launch the Homebrew Launcher on your system as [previously explained](browser-exploit).
 1. Navigate the Homebrew Launcher and open the Haxchi app.
