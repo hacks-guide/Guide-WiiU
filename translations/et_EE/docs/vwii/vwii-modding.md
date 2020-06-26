@@ -8,12 +8,12 @@ We will now place the required Homebrew files on the SD Card.
 
 ### What You Need
 
-- The latest release of [Wuphax](http://wiiubru.com/appstore/zips/wuphax.zip)
-- The latest release of [HackMii Installer](https://bootmii.org/download/)
-- The <a href="docs/files/Patched_IOS80_Installer_for_vWii.zip" download>Patched IOS 80 Installer for vWii</a>
-- The <a href ="docs/files/vWii_cIOS_apps_20131218.zip" download>vWii cIOS apps</a>
-- The [Homebrew Launcher](https://github.com/dimok789/homebrew_launcher/releases/download/1.4/homebrew_launcher.v1.4.zip)
-- The latest release of the [Homebrew Launcher Installer](https://github.com/wiiu-env/homebrew_launcher_installer/releases/download/v1.4/payload.zip)
+- The latest release of [Wuphax](http://wiiubru.com/appstore/zips/wuphax.zip).
+- The latest release of [HackMii Installer](https://bootmii.org/download/).
+- The <a href="docs/files/Patched_IOS80_Installer_for_vWii.zip" download>Patched IOS 80 Installer for vWii</a>.
+- The <a href ="docs/files/vWii_cIOS_apps_20131218.zip" download>vWii cIOS apps</a>.
+- The [Homebrew Launcher](https://github.com/dimok789/homebrew_launcher/releases/download/1.4/homebrew_launcher.v1.4.zip).
+- The latest release of the [Homebrew Launcher Installer](https://github.com/wiiu-env/homebrew_launcher_installer/releases/download/v1.4/payload.zip).
 
 ### Instructions
 
@@ -68,19 +68,19 @@ In case anything goes wrong in the later process and your vWii ends up bricked, 
 1. Launch The Homebrew Channel.
 1. Launch d2x cIOS Installer.
 1. Set everything to match the following:
- - Select cIOS `v10 d2x-v10-beta52-vWii`
- - Select cIOS base `56`
- - Select cIOS slot `249`
+ - Select cIOS: `v10 d2x-v10-beta52-vWii`
+ - Select cIOS base: `56`
+ - Select cIOS slot: `249`
 1. Press the `A` button to install.
 1. Set everything to match the following:
- - Select cIOS `v10 d2x-v10-beta52-vWii`
- - Select cIOS base `57`
- - Select cIOS slot `250`
+ - Select cIOS: `v10 d2x-v10-beta52-vWii`
+ - Select cIOS base: `57`
+ - Select cIOS slot: `250`
 1. Press the `A` button to install.
 1. Set everything to match the following:
- - Select cIOS `v10 d2x-v10-beta52-vWii`
- - Select cIOS base `58`
- - Select cIOS slot `251`
+ - Select cIOS: `v10 d2x-v10-beta52-vWii`
+ - Select cIOS base: `58`
+ - Select cIOS slot: `251`
 1. Press the `A` button to install.
 1. Press the `B` button to exit.
 
