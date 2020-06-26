@@ -6,7 +6,7 @@ There are two main custom firmwares: Haxchi/Coldboot Haxchi (usually abbreviated
 
 Haxchi/CBHC are both injected into a paid DS Virtual Console game. Haxchi will need to be manually started off the Wii U Menu to boot custom firmware, while CBHC will boot custom firmware automatically while the system is booting up. Mocha is accessed through the browser exploit or the Indexiine method, which makes it the only free custom firmware.
 
-The custom firmware you decide to use is ultimately **your** preference. There is no right, wrong, or recommended custom firmware to go with, so feel free to pick the one that sounds the best for your needs!
+The custom firmware you decide to use is ultimately **your** preference. There is no right or wrong custom firmware to go with, so it is recommended that you feel free to pick the one that sounds the best for your needs!
 
 ## Haxchi
 
