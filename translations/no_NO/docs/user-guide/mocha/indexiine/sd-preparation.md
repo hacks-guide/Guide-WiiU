@@ -4,22 +4,22 @@
 
 Her vil vi plassere de nødvendige CFW-filene og noen ekstra homebrew filer på SD-kortet.
 
-?> **Merk** SD-kortet ditt må formateres til FAT32. Hvis den ikke er formatert til FAT32, bør du bruke [GUIFormat](http://www.ridgecrop.demon.co.uk/index.htm?guiformat.htm) med 32k (32768) "Allocation unit size" for å formatere den.
+?> **Merk** SD-kortet ditt må formateres til FAT32. If your SD Card is not formatted to FAT32, use [GUIFormat](http://www.ridgecrop.demon.co.uk/index.htm?guiformat.htm) with 32k (32768) allocation unit size to format it.
 
 ### Dette trenger du
 
-- Mocha <a href="docs/files/config.ini" download>config</a> fila
-- Siste utgave av [Homebrew Launcher Installer](https://github.com/wiiu-env/homebrew_launcher_installer/releases/latest)
+- The Mocha <a href="docs/files/config.ini" download>config</a>.
+- The latest release of [Homebrew Launcher Installer](https://github.com/wiiu-env/homebrew_launcher_installer/releases/latest).
   - Du må laste ned `payload.zip` filen.
-- [Homebrew Launcher](https://github.com/dimok789/homebrew_launcher/releases/tag/1.4) Versjon 1.4
-  - Du må laste ned `homebrew_launcher.v.1.4.zip`
-- Siste utgave av [WUP Installer GX2](http://wiiubru.com/appstore/zips/wup_installer_gx2.zip)
-- Siste utgave av [Wii U NAND Dumper](https://github.com/koolkdev/wiiu-nanddumper/releases/latest)
-- Siste utgave av [Homebrew App Store](https://github.com/vgmoose/hbas/releases/latest)
+- The 1.4 release of [The Homebrew Launcher](https://github.com/dimok789/homebrew_launcher/releases/tag/1.4).
+  - You will need to download the v1.4 `homebrew_launcher.v1.4.zip` release of The Homebrew Launcher.
+- The latest release of [WUP Installer GX2](http://wiiubru.com/appstore/zips/wup_installer_gx2.zip).
+- The latest release of [Wii U NAND Dumper](https://github.com/koolkdev/wiiu-nanddumper/releases/latest).
+- The latest release of the [Homebrew App Store](https://github.com/vgmoose/hbas/releases/latest).
   - Du må laste ned `wiiu-extracttosd.zip` filen.
-- Siste utgave av [Mocha](https://www.wiiubru.com/appstore/zips/mocha.zip)
-- Siste utgave av <a href="docs/files/savemii_mod.zip" download>SaveMii mod</a>
-- Siste utgave av [Indexiine-Installer](https://github.com/GaryOderNichts/indexiine-installer/releases/latest)
+- The latest release of [Mocha](https://www.wiiubru.com/appstore/zips/mocha.zip).
+- The latest release of <a href="docs/files/savemii_mod.zip" download>SaveMii Mod</a>.
+- The latest release of [Indexiine-Installer](https://github.com/GaryOderNichts/indexiine-installer/releases/latest).
 
 ### Instruksjoner
 
