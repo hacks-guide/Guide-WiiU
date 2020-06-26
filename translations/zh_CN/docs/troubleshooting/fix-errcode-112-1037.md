@@ -4,7 +4,7 @@
 
 ### 你需要准备点啥？
 
-- 已安装好[破解](introduction)。
+- A working [homebrew installation](introduction).
 - [wupclient.py](https://raw.githubusercontent.com/Elpunical/mocha/master/ios_mcp/wupclient.py) **（右键单击 -> 保存链接为... -> 点击保存）。**
 - 最新版 [Python](https://www.python.org/downloads/)。
 
