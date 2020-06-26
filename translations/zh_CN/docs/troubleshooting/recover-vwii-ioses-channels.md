@@ -52,7 +52,7 @@
 
 ### 你需要准备点啥？
 
-- Wii U 的[破解](introduction)正常运作。
+- A working [homebrew installation](introduction) on the Wii U side.
 - 最新版 [vWii Decaffeinator](https://github.com/GaryOderNichts/vWii-Decaffeinator/releases)。
 
 ### 操作步骤
