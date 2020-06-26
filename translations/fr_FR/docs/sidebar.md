@@ -14,11 +14,11 @@
 - [Dump des disques de Wii originale](dump-wii-games)
 - [Désinstaller CBHC](uninstall-cbhc)
 - [Désinstaller Indexiine](uninstall-indexiine)
-- [FAQ](faq)
+- [Frequently Asked Questions](faq)
 - **Liens**
 - [![GitHub](https://icongr.am/simple/github.svg?color=808080&size=16)GitHub](https://github.com/hacks-guide/Guide-WiiU)
 - [![Discord](https://icongr.am/simple/discord.svg?colored&size=16)Discord](https://discord.gg/C29hYvh)
-- [![Traduire le guide](https://icongr.am/material/translate.svg?color=808080&size=16)Traduire le guide](https://hacks-guide.crowdin.com/u/projects/10)
+- [![Translate](https://icongr.am/material/translate.svg?color=808080&size=16)Translate](https://hacks-guide.crowdin.com/u/projects/10)
 - [Faire un don](donations)
 - [À propos](about)
 - **Confidentialité**
