@@ -10,6 +10,8 @@
 
 !> 若你想斗胆试试无视上述规定的规则，那么你就死掉了。
 
+> If you are worried about breaking one of these rules while using CBHC, consider setting up Parental Controls for your user! Blocking `Data Management` and setting `Game Rating` to the highest possible rating can help prevent common mistakes users may make when using CBHC. Check [here](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1081/~/how-to-change-parental-controls) for more information on how to change your Parental Controls settings.
+
 ### 操作步骤
 
 1. 将内存卡从电脑上拔出并插回 Wii U。
