@@ -52,7 +52,7 @@ Cette page vous guidera dans le processus de récupération d'un IOS ou d'une ch
 
 ### Ce dont vous avez besoin
 
-- Une installation [Homebrew fonctionnelle](introduction) sur le côté de la Wii U.
+- A working [homebrew installation](introduction) on the Wii U side.
 - La dernière version de [vWii Decaffeinator](https://github.com/GaryOderNichts/vWii-Decaffeinator/releases).
 
 ### Instructions
