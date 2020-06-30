@@ -8,12 +8,12 @@
 
 ### 你需要准备点啥？
 
-- The latest release of [Wuphax](http://wiiubru.com/appstore/zips/wuphax.zip).
-- The latest release of [HackMii Installer](https://bootmii.org/download/).
-- The <a href="docs/files/Patched_IOS80_Installer_for_vWii.zip" download>Patched IOS 80 Installer for vWii</a>.
-- The <a href ="docs/files/vWii_cIOS_apps_20131218.zip" download>vWii cIOS apps</a>.
-- The [Homebrew Launcher](https://github.com/dimok789/homebrew_launcher/releases/download/1.4/homebrew_launcher.v1.4.zip).
-- The latest release of the [Homebrew Launcher Installer](https://github.com/wiiu-env/homebrew_launcher_installer/releases/download/v1.4/payload.zip).
+- 最新版 [Wuphax](http://wiiubru.com/appstore/zips/wuphax.zip)。
+- 最新版 [HackMii Installer](https://bootmii.org/download/)。
+- vWii 的 <a href="docs/files/Patched_IOS80_Installer_for_vWii.zip" download>Patched IOS 80 Installer</a>。
+- <a href ="docs/files/vWii_cIOS_apps_20131218.zip" download>vWii cIOS 程序集</a>。
+- [Homebrew Launcher](https://github.com/dimok789/homebrew_launcher/releases/download/1.4/homebrew_launcher.v1.4.zip)。
+- 最新版 [Homebrew Launcher Installer](https://github.com/wiiu-env/homebrew_launcher_installer/releases/download/v1.4/payload.zip)。
 
 ### 操作步骤
 
