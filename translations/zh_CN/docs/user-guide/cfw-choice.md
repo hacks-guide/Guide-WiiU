@@ -2,38 +2,38 @@
 ---
 ?> 在开始之前，你需要将你的 Wii U 更新至最新版本（欧版机为 5.5.4，其他区域的为 5.5.3）。
 
-There are two main custom firmwares: Haxchi/Coldboot Haxchi (usually abbreviated as "CBHC"), as well as Mocha.
+这里有两种主流自制固件：Haxchi/Coldboot Haxchi（简称为“CBHC”）和 Mocha。
 
-Haxchi/CBHC are both injected into a paid DS Virtual Console game. Haxchi will need to be manually started off the Wii U Menu to boot custom firmware, while CBHC will boot custom firmware automatically while the system is booting up. Mocha is accessed through the browser exploit or the Indexiine method, which makes it the only free custom firmware.
+Haxchi/CBHC 都需要对一个来自购买的 DS VC 游戏进行注入。 Haxchi 需要手动在 Wii U 主菜单中启动，而 CBHC 可以在开机的时候就自动启动。 Mocha 是通过浏览器漏洞或 Indexiine 方法启动的，它是唯一可以不花任何额外开销而使用自制固件的方法。
 
-The custom firmware you decide to use is ultimately **your** preference. There is no right or wrong custom firmware to go with, so it is recommended that you feel free to pick the one that sounds the best for your needs!
+**你**需要自行决定使用哪一种自制固件。 请挑一个你认为最合适的自制固件！
 
 ## Haxchi
 
-- Requires a legitimately installed, paid DS Virtual Console game from the eShop.
+- 需要从 eShop 上购买并下载 DS VC 游戏。
 - 可以直接从 Wii U 主菜单中直接启动 CFW。
-- Needs to be re-launched from the Wii U Menu every reboot to enable custom firmware.
-- Its functionality can be extended by installing Coldboot Haxchi (CBHC) to a Haxchi installation.
+- 每次重启之后都需要重新在 Wii U 中菜单启动来启用 CFW。
+- 它的功能可以通过安装 ColdBoot Haxchi（CBHC）来扩展。
 
 ### [**点击这里继续使用 Haxchi**](haxchi/ds-vc-choice) {docsify-ignore}
 
 ## CBHC
 
-!> Installing CBHC incorrectly can brick your Wii U! Make sure to follow the following rules when installing CBHC: <br>- The DS game has to be legitimately installed from the eShop! <br>- 安装完 CBHC 之后不要初始化系统！ <br>- 不要删除购买此 DS VC 游戏的用户账户！ <br>- 不要在 WUP Installer 或 eShop 中再次安装使用的同一游戏！ <br>- 不要通过 CBHC 安装 Haxchi！ (You will not brick, but it will cause a boot-loop! Hold A when booting to access the Homebrew Launcher and uninstall CBHC.) <br>- Don't uninstall the DS Virtual Console game without [properly uninstalling CBHC first](uninstall-cbhc)! <br>- 不要将使用的 DS VC 游戏移动到 USB 设备中！
+!> 如果安装 CBHC 不当会导致你的 Wii U 变砖！ 所以请确保你在安装 CBHC 时遵循以下规定： <br>- 使用的 DS 游戏必须是从 eShop 下载的正版游戏！ <br>- 安装完 CBHC 之后不要初始化系统！ <br>- 不要删除购买此 DS VC 游戏的用户账户！ <br>- 不要在 WUP Installer 或 eShop 中再次安装使用的同一游戏！ <br>- 不要通过 CBHC 安装 Haxchi！ （你的主机不会变砖，但这会导致无限重启！ 在开机的时候按住 A 键来进入 Homebrew Launcher 并卸载 CBHC。） <br>- 不要在[正确卸载 CBHC 之前](uninstall-cbhc)卸载使用的 DS VC 游戏！ <br>- 不要将使用的 DS VC 游戏移动到 USB 设备中！
 
-!> Breaking one of the above rules **can** result in a brick!
+!> 若你想斗胆试试无视上述规定的规则，那么你就**死掉**了。
 
-> If you are worried about breaking one of these rules while using CBHC, consider setting up Parental Controls for your user! Blocking `Data Management` and setting `Game Rating` to the highest possible rating can help prevent common mistakes users may make when using CBHC. Check [here](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1081/~/how-to-change-parental-controls) for more information on how to change your Parental Controls settings.
+> 如果你担心你会不小心做了上面的其中一件事，请考虑对你的账户设置家长控制！ 阻止使用`数据管理（Data Management）`并设置`游戏评级（Game Rating）`为最高可防止你在使用 CBHC 的时候犯了错误。 点击[这里](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1081/~/how-to-change-parental-controls)来了解如何更改家长控制的更多信息。
 
-- Requires a legitimately installed paid DS Virtual Console game from the eShop.
-- Automatically launches custom firmware on every boot.
+- 需要从 eShop 上购买并下载 DS VC 游戏。
+- 重启后会自动启动 CFW。
 
 ### [**点击这里继续使用 CBHC**](cbhc/ds-vc-choice) {docsify-ignore}
 
 ## Mocha
 
 - 不需要任何游戏。
-- Needs to be re-launched through the browser exploit every reboot to enable custom firmware.
+- 每次重启之后都需要重新在 Wii U 触发浏览器漏洞来启用 CFW。
 - 与 Homebrew Launcher Channel 不兼容。
 - 根据你选择的进入方法可能会需要连接网络。
 
