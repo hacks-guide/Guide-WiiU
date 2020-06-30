@@ -10,7 +10,7 @@
 
 !> 若你想斗胆试试无视上述规定的规则，那么你就死掉了。
 
-> If you are worried about breaking one of these rules while using CBHC, consider setting up Parental Controls for your user! Blocking `Data Management` and setting `Game Rating` to the highest possible rating can help prevent common mistakes users may make when using CBHC. Check [here](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1081/~/how-to-change-parental-controls) for more information on how to change your Parental Controls settings.
+> 如果你担心你会不小心做了上面的其中一件事，请考虑对你的账户设置家长控制！ 阻止使用`数据管理（Data Management）`并设置`游戏评级（Game Rating）`为最高可防止你在使用 CBHC 的时候犯了错误。 点击[这里](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1081/~/how-to-change-parental-controls)来了解如何更改家长控制的更多信息。
 
 ### 操作步骤
 
