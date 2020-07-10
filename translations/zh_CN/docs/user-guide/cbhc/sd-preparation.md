@@ -21,7 +21,7 @@
   - 你需要下载 `wiiu-extracttosd.zip` 文件。
 - 最新版 [Haxchi 和 CBHC](https://github.com/FIX94/haxchi/releases/latest)。
   - 同时下载 Haxchi 和 CBHC .zip 文件。
-- The latest release of <a href="docs/files/SaveMii_Mod.zip" download>SaveMii Mod</a>
+- The latest release of <a href="docs/files/SaveMii_Mod.zip" download>SaveMii Mod</a>.
 
 ### 操作步骤
 
