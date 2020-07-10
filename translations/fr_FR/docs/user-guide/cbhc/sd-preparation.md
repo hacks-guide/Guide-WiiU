@@ -21,7 +21,7 @@ Nous allons maintenant placer les fichiers du CFW requis et quelques fichiers ho
   - Vous devrez télécharger le fichier `wiiu-extracttosd.zip`.
 - The latest release of [Haxchi and CBHC](https://github.com/FIX94/haxchi/releases/latest).
   - Téléchargez les fichiers Haxchi et CBHC .zip.
-- The latest release of <a href="docs/files/savemii_mod.zip" download>SaveMii Mod</a>.
+- The latest release of <a href="docs/files/SaveMii_Mod.zip" download>SaveMii Mod</a>
 
 ### Instructions
 
