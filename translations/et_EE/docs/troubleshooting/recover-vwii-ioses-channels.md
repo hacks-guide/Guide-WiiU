@@ -103,6 +103,8 @@ You will be provided with various options. It is recommended to first attempt re
 
 ?> You can now re-enable your [system update blocking method](block-updates).
 
+> If you receive Error Code 160-0101 when booting up the system after using vWii Decaffeinator, take out the inserted disc and unplug any external drives and restart the system.
+
 <!-- tabs:end -->
 
 > If you receive Error Code 105-3102 when performing the system update, restart your console and reattempt the update.
