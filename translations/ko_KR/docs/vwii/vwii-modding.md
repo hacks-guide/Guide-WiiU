@@ -9,9 +9,10 @@ We will now place the required Homebrew files on the SD Card.
 ### What You Need
 
 - The latest release of [Wuphax](http://wiiubru.com/appstore/zips/wuphax.zip).
+- The latest release of [Wii U NAND Dumper](https://github.com/koolkdev/wiiu-nanddumper/releases/latest).
 - The latest release of [HackMii Installer](https://bootmii.org/download/).
 - The <a href="docs/files/Patched_IOS80_Installer_for_vWii.zip" download>Patched IOS 80 Installer for vWii</a>.
-- The <a href ="docs/files/vWii_cIOS_apps_20131218.zip" download>vWii cIOS apps</a>.
+- The <a href ="docs/files/d2x_cIOS_Installer.zip" download>d2x cIOS Installer</a>.
 - The [Homebrew Launcher](https://github.com/dimok789/homebrew_launcher/releases/download/1.4/homebrew_launcher.v1.4.zip).
 - The latest release of the [Homebrew Launcher Installer](https://github.com/wiiu-env/homebrew_launcher_installer/releases/download/v1.4/payload.zip).
 
@@ -21,9 +22,27 @@ We will now place the required Homebrew files on the SD Card.
 1. Extract the `wuphax.zip` file to the root of your SD Card.
 1. Extract the `boot.elf` file from the <code>hackmii_<wbr>installer_<wbr>v1.2<wbr>.zip</code> file to the root of your SD Card.
 1. Extract the `apps` folder from the <code>Patched_<wbr>IOS80_<wbr>Installer_<wbr>for_<wbr>vWii<wbr>.zip</code> file to the root of your SD Card.
-1. Extract the <code>vWii_<wbr>cIOS_<wbr>apps_<wbr>20131218<wbr>.zip</code> file to the root of your SD Card.
+1. Extract the <code>d2x_<wbr>cIOS_<wbr>Installer<wbr>.zip</code> file to the root of your SD Card.
 1. Extract the <code>homebrew_<wbr>launcher.<wbr>v1.4.zip</code> file to the root of your SD Card.
 1. Extract the `payload.zip` file to the `wiiu` folder on your SD Card.
+1. Take the SD Card out of your computer and plug it into your Wii U console.
+
+### NAND Backup
+
+In case anything goes wrong in the later process and your vWii ends up bricked, restoring a previously made NAND backup can fix it.
+
+1. Launch the [Homebrew Launcher](vwii/browser-exploit).
+1. Launch the `Wii U NAND Dumper` application.
+1. Use the Wii U Gamepad's DPAD to enter the following configuration:
+ - Dump SLC: **optional**
+ - Dump SLCCMPT: **yes**
+ - Dump MLC: **optional**
+ - Dump OTP: **yes**
+ - Dump SEEPROM: **optional**
+1. Press the A button to start the dumping process.
+1. When the process completed, power off your Wii U, take your SD Card out of the Wii U and plug it into your PC.
+1. To make sure you don't lose the files, copy the `slccmpt.bin`, `otp.bin` and if you chose to go with a full backup, `seeprom.bin`, `slc.bin`, and `every mlc.bin.part` file to your computer.
+1. Delete the files from your SD Card to free up space.
 1. Take the SD Card out of your computer and plug it into your Wii U console.
 
 ### Wuphax
@@ -44,19 +63,6 @@ We will now place the required Homebrew files on the SD Card.
 1. Press `B` to restore the Mii Channel then wait until it says <code>Mii <wbr>Channel <wbr>restored!</code>.
  - You will be taken back to the Wii U Menu after a few seconds.
  - If for some reason, you cannot restore your backup, you will need to [reinstall your Mii Channel](recover-vwii-ioses-channels).
-
-### NAND Backup
-
-In case anything goes wrong in the later process and your vWii ends up bricked, restoring a previously made NAND backup can fix it.
-
-1. Launch vWii (the Wii Menu icon).
-1. Launch The Homebrew Channel.
-1. Launch Dump Mii NAND.
- - The dumping process can take a while depending on the speed of your SD Card.
-1. When the process completed, the console will reboot.
-1. Power off your Wii U, take your SD Card out of the Wii U and plug it into your PC.
-1. Copy `nand.bin` and `keys.bin` somewhere safe (on your computer or a cloud storage service such as Google Drive, OneDrive, etc...).
-1. Delete `nand.bin` and `keys.bin` from your SD Card to free up space.
 
 ### Installing cIOSes
 
