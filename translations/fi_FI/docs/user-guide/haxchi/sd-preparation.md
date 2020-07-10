@@ -21,7 +21,7 @@ We will now place the required CFW files and some additional homebrew files on t
   - You will need to download the `wiiu-extracttosd.zip` file.
 - The latest release of [Haxchi](https://github.com/FIX94/haxchi/releases/latest).
   - Download only the Haxchi `.zip` file.
-- The latest release of <a href="docs/files/SaveMii_Mod.zip" download>SaveMii Mod</a>
+- The latest release of <a href="docs/files/SaveMii_Mod.zip" download>SaveMii Mod</a>.
 
 ### Instructions
 
