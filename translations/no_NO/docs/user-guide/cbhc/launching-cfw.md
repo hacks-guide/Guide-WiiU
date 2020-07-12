@@ -18,15 +18,15 @@ I motsetning til systemer som DSi, Wii eller 3DS, er Wii U CFW midlertidig. Dett
 1. Hvis du ikke har gjort det enda, last ned DS VC spillet du valgte fra eShop.
 1. Start Homebrew Launcher på Wii U konsollen din som [forklart tidligere](browser-exploit).
 1. Kjør Haxchi appen.
-1. Bruk D-padden til å navigere markøren til spillet du ønsker å installere Haxchi over og trykk på A knappen for å installere den.
+1. Use the D-Pad to navigate the cursor to the game you want to install Haxchi to and press the A button to install it.
 1. Når installasjonen er ferdig, vil konsollen gå tilbake til Wii U menyen. Der vil du se spillet ditt erstattet med et Haxchi ikon.
 1. Kjør Haxchi. Dette vil starte konsollen på nytt og aktivere CFW.
 1. Kjør Haxchi igjen og hold A knappen mens den starter. Dette vil sende deg til Homebrew Launcher.
 1. I Homebrew Launcher, kjør CBHC appen.
-1. Bruk D-padden for å flytte markøren til spillet du installerte Haxchi over og trykk på A knappen for å installere CBHC.
+1. Use the D-Pad to navigate the cursor to the game you previously installed Haxchi to and press the A button to install CBHC.
 1. Når installasjonen er ferdig, vil konsollen gå tilbake til Wii U menyen.
-1. Start konsollen på nytt. Hvis CBHC er installert riktig, bør du se en ny oppstartsmeny.
-1. Bruk D-padden for å flytte til `Autoboot: Disabled` og trykk på A knappen helt til det står `Autoboot: System Menu`.
-1. Bruk D-padden for å flytte til `Boot system menu` og trykk på A-knappen. Dette vil åpne Wii U menyen med CFW aktivert.
+1. Start konsollen på nytt. Hvis CBHC er installert riktig, bør du se en ny oppstartsmeny. (CBHC is not compatible with Quick Start. If you are using the Quick Start Menu, please turn it off.)
+1. Use the D-Pad to navigate to `Autoboot: Disabled` and press the A button until it says `Autoboot: System Menu`.
+1. Use the D-Pad to navigate to `Boot System Menu` and press the A button. Dette vil åpne Wii U menyen med CFW aktivert.
 1. Konsollen din kommer nå til å automatisk være i CFW etter oppstart.
 1. Du kan nå koble til eventuelle USB-enheter du hadde tilkoblet, før du startet guiden.
