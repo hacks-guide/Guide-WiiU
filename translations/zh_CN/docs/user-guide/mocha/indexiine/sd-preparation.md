@@ -18,7 +18,7 @@
 - 最新版 [Homebrew App Store](https://github.com/vgmoose/hbas/releases/latest)。
   - 你需要下载 `wiiu-extracttosd.zip` 文件。
 - 最新版 [Mocha](https://www.wiiubru.com/appstore/zips/mocha.zip)。
-- 最新版 <a href="docs/files/savemii_mod.zip" download>SaveMii Mod</a>。
+- The latest release of <a href="docs/files/SaveMii_Mod.zip" download>SaveMii Mod</a>.
 - 最新版 [Indexiine-Installer](https://github.com/GaryOderNichts/indexiine-installer/releases/latest)。
 
 ### 操作步骤

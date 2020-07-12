@@ -9,11 +9,12 @@
 ### 你需要准备点啥？
 
 - 最新版 [Wuphax](http://wiiubru.com/appstore/zips/wuphax.zip)。
-- 最新版 [HackMii Installer](https://bootmii.org/download/)。
-- vWii 的 <a href="docs/files/Patched_IOS80_Installer_for_vWii.zip" download>Patched IOS 80 Installer</a>。
-- <a href ="docs/files/vWii_cIOS_apps_20131218.zip" download>vWii cIOS 程序集</a>。
-- [Homebrew Launcher](https://github.com/dimok789/homebrew_launcher/releases/download/1.4/homebrew_launcher.v1.4.zip)。
-- 最新版 [Homebrew Launcher Installer](https://github.com/wiiu-env/homebrew_launcher_installer/releases/download/v1.4/payload.zip)。
+- 最新版 [Wii U NAND Dumper](https://github.com/koolkdev/wiiu-nanddumper/releases/latest)。
+- The latest release of [HackMii Installer](https://bootmii.org/download/).
+- The <a href="docs/files/Patched_IOS80_Installer_for_vWii.zip" download>Patched IOS 80 Installer for vWii</a>.
+- The <a href ="docs/files/d2x_cIOS_Installer.zip" download>d2x cIOS Installer</a>.
+- The [Homebrew Launcher](https://github.com/dimok789/homebrew_launcher/releases/download/1.4/homebrew_launcher.v1.4.zip).
+- The latest release of the [Homebrew Launcher Installer](https://github.com/wiiu-env/homebrew_launcher_installer/releases/download/v1.4/payload.zip).
 
 ### 操作步骤
 
@@ -21,42 +22,47 @@
 1. 解压 `wuphax.zip` 到你的 SD 卡根目录。
 1. 从 <code>hackmii_<wbr>installer_<wbr>v1.2<wbr>.zip</code> 文件中解压 `boot.elf` 到 SD 卡根目录。
 1. 从 <code>Patched_<wbr>IOS80_<wbr>Installer_<wbr>for_<wbr>vWii<wbr>.zip</code> 解压 `apps` 文件夹到 SD 卡根目录。
-1. 解压 <code>vWii_<wbr>cIOS_<wbr>apps_<wbr>20131218<wbr>.zip</code> 到 SD 卡根目录。
+1. Extract the <code>d2x_<wbr>cIOS_<wbr>Installer<wbr>.zip</code> file to the root of your SD Card.
 1. 解压 <code>homebrew_<wbr>launcher.<wbr>v1.4.zip</code> 到 SD 卡根目录
 1. 解压 `payload.zip` 到 SD 卡中的 `wiiu` 文件夹中。
+1. 把 SD 卡从电脑中弹出并插入 Wii U 主机。
+
+### NAND Backup
+
+如果你在之后做错了什么导致 vWii 损坏了，恢复 NAND 备份就可以修复它。
+
+1. 启动 [Homebrew Launcher](vwii/browser-exploit)。
+1. Launch the `Wii U NAND Dumper` application.
+1. 使用 Wii U 游戏手柄上的十字键来配置以下内容：
+ - Dump SLC: **optional**
+ - Dump SLCCMPT: **yes**
+ - Dump MLC: **optional**（可选）
+ - Dump OTP: **yes**
+ - Dump SEEPROM: **optional**
+1. 按下 A 键启动导出的进程。
+1. 当完成后，将 Wii U 关机，然后把 SD 卡从 Wii U 上拔出并插入电脑。
+1. To make sure you don't lose the files, copy the `slccmpt.bin`, `otp.bin` and if you chose to go with a full backup, `seeprom.bin`, `slc.bin`, and `every mlc.bin.part` file to your computer.
+1. 从 SD 卡中删除文件来腾出空间。
 1. 把 SD 卡从电脑中弹出并插入 Wii U 主机。
 
 ### Wuphax
 
 1. 启动 [Homebrew Launcher](vwii/browser-exploit)。
-1. 启动 Wuphax。
-1. 按下 `A` 键然后等一会来备份 Mii Channel 并注入 Hackmii Installer，直到屏幕上提示 <code>Successfully <wbr>injected <wbr>wuphax!</code>。
- - 你将会在几秒后回到 Wii U 主菜单。
-1. 启动 vWii（Wii 菜单图标）。
-1. 启动 vWii Mii Channel。
- - 如果 Wuphax 被成功注入，此时你将会看到警告提示。
-1. 等一会，直到你看到 `Press 1 to continue` 后，按下 `1` 按键。
-1. 选择 `continue` ，然后选择 <code>Install <wbr>The <wbr>Homebrew <wbr>Channel</code> 再然后选择 `Yes, continue`。
-1. 如果 Homebrew Channel 被顺利安装，请选择 `continue`，然后选择 `exit`。
-1. 启动 Wii U 主菜单 Channel 来回到 Wii U 主菜单。
+1. Launch Wuphax.
+1. Press `A` to backup the Mii Channel and inject the Hackmii Installer then wait until it says <code>Successfully <wbr>injected <wbr>wuphax!</code>.
+ - You will be taken back to the Wii U Menu after a few seconds.
+1. Launch vWii (the Wii Menu icon).
+1. Launch the vWii Mii Channel.
+ - If Wuphax has successfully been injected, you will now see the scam warning screen.
+1. Wait until you see `Press 1 to continue` and then press the `1` button.
+1. Select `continue`, <code>Install <wbr>The <wbr>Homebrew <wbr>Channel</code> and `Yes, continue`.
+1. If The Homebrew Channel has successfully been installed, select `continue` and then `exit`.
+1. Launch the Wii U Menu channel to return to the Wii U Menu.
 1. 启动 [Homebrew Launcher](vwii/browser-exploit)。
-1. 启动 Wuphax。
-1. 按下 `B` 键后等一会来还原 Mii Channel，直到它提示 <code>Mii <wbr>Channel <wbr>restored!</code>。
- - 你将会在几秒后回到 Wii U 主菜单。
- - 如果由于一些原因你无法恢复备份，则你需要[重新安装你的 Mii Channel](recover-vwii-ioses-channels)。
-
-### NAND 备份
-
-如果你在之后做错了什么导致 vWii 损坏了，恢复 NAND 备份就可以修复它。
-
-1. 启动 vWii（Wii 菜单图标）。
-1. 启动 Homebrew Channel。
-1. 启动 Dump Mii NAND。
- - 导出过程取决于你使用的 SD 卡的速度，可能需要一段时间。
-1. 完成后，主机将会重启。
-1. 将 Wii U 关机，然后取出 Wii U 的 SD 卡后插入电脑。
-1. 复制 `nand.bin` 和 `keys.bin` 到安全的地方。（比如电脑上或百度网盘、OneDrive 之类的网盘上等等）。
-1. 从 SD 卡中删除 `nand.bin` 和 `keys.bin` 以腾出一些空间。
+1. Launch Wuphax.
+1. Press `B` to restore the Mii Channel then wait until it says <code>Mii <wbr>Channel <wbr>restored!</code>.
+ - You will be taken back to the Wii U Menu after a few seconds.
+ - If for some reason, you cannot restore your backup, you will need to [reinstall your Mii Channel](recover-vwii-ioses-channels).
 
 ### 安装 cIOS
 

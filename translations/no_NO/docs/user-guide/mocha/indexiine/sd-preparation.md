@@ -18,7 +18,7 @@ Her vil vi plassere de nødvendige CFW-filene og noen ekstra homebrew filer på 
 - The latest release of the [Homebrew App Store](https://github.com/vgmoose/hbas/releases/latest).
   - Du må laste ned `wiiu-extracttosd.zip` filen.
 - The latest release of [Mocha](https://www.wiiubru.com/appstore/zips/mocha.zip).
-- The latest release of <a href="docs/files/savemii_mod.zip" download>SaveMii Mod</a>.
+- The latest release of <a href="docs/files/SaveMii_Mod.zip" download>SaveMii Mod</a>.
 - The latest release of [Indexiine-Installer](https://github.com/GaryOderNichts/indexiine-installer/releases/latest).
 
 ### Instruksjoner

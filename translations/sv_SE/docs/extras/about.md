@@ -21,8 +21,6 @@ This guide was written by staff members of the [Nintendo Homebrew Discord Server
 > 
 > - **koolkdev** and **FIX94** for [disc2app](https://github.com/koolkdev/disc2app).
 > 
-> - **Maxternal/DarkMatterCore** for [Dump Mii NAND](https://code.google.com/p/gbadev/).
-> 
 > - **FIX94** and **smealum** for [Haxchi and CBHC](https://github.com/FIX94/haxchi).
 > 
 > - **dimok789** for the [Homebrew Launcher](https://github.com/dimok789/homebrew_launcher), the [Homebrew Launcher Channel](https://github.com/dimok789/homebrew_launcher), and [Mocha](https://github.com/dimok789/mocha).
@@ -49,4 +47,4 @@ This guide was written by staff members of the [Nintendo Homebrew Discord Server
 > 
 > - **GaryOderNichts** for [Indexiine-Installer](https://github.com/GaryOderNichts/indexiine-installer), [UFDiine](https://github.com/GaryOderNichts/UFDiine), [vWii Decaffeinator](https://github.com/GaryOderNichts/vWii-Decaffeinator), and the fixed version of the [Homebrew Launcher Channel](https://github.com/GaryOderNichts/homebrew_launcher/).
 > 
-> - **GabyPCgeeK** and **Ryuzaki-MrL** for [SaveMii mod](https://github.com/GabyPCgeeK/savemii).
+> - **GabyPCgeeK** and **Ryuzaki-MrL** for [SaveMii Mod](https://github.com/GabyPCgeeK/savemii).
