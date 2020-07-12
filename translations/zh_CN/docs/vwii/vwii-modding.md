@@ -33,7 +33,7 @@
 
 1. 启动 [Homebrew Launcher](vwii/browser-exploit)。
 1. Launch the `Wii U NAND Dumper` application.
-1. 使用 Wii U 游戏手柄上的十字键来配置以下内容：
+1. Use the Wii U GamePad's D-Pad to enter the following configuration:
  - Dump SLC: **optional**
  - Dump SLCCMPT: **yes**
  - Dump MLC: **optional**（可选）

@@ -33,7 +33,7 @@ Hvis noe går galt senere i prosessen og vWii "bricker", vil gjenoppretting av e
 
 1. Start [Homebrew Launcher](vwii/browser-exploit).
 1. Launch the `Wii U NAND Dumper` application.
-1. Bruk D-padden for å sette opp følgende konfigurasjon:
+1. Use the Wii U GamePad's D-Pad to enter the following configuration:
  - Dump SLC: **optional**
  - Dump SLCCMPT: **yes**
  - Dump MLC: **optional**

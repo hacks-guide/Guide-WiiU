@@ -11,7 +11,7 @@
 ?> 不过恢复 NAND 备份需要额外的设备和一点微焊技能。 <br>但是备份 NAND **是** 为了以防万一，所以不要跳过这些步骤。 <br>你从某一台设备导出的 NAND 备份是那一台设备所独有的。 恢复其他主机的 NAND 备份 **不能救砖**。
 
 1. 移动 Homebrew Launcher 至 `Wii U NAND Dumper` 程序并启动。
-1. 使用 Wii U 游戏手柄上的十字键来配置以下内容：
+1. Use the Wii U GamePad's D-Pad to enter the following configuration:
  - Dump SLC: **yes**
  - Dump SLCCMPT: **yes**
  - Dump MLC: **optional**（可选）

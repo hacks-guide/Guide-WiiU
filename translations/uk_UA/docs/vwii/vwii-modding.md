@@ -33,7 +33,7 @@ In case anything goes wrong in the later process and your vWii ends up bricked, 
 
 1. Launch the [Homebrew Launcher](vwii/browser-exploit).
 1. Launch the `Wii U NAND Dumper` application.
-1. Use the Wii U Gamepad's DPAD to enter the following configuration:
+1. Use the Wii U GamePad's D-Pad to enter the following configuration:
  - Dump SLC: **optional**
  - Dump SLCCMPT: **yes**
  - Dump MLC: **optional**
