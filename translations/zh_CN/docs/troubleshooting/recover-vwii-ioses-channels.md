@@ -103,8 +103,8 @@
 
 ?> 你现在可以重新打开[阻止更新](block-updates)。
 
-> If you receive Error Code 160-0101 when booting up the system after using vWii Decaffeinator, take out the inserted disc and unplug any external drives and restart the system.
+> 如果你在使用完 vWii Decaffeinator 后启动系统时收到了 160-0101 错误代码，请弹出你插入的光盘并拔出所有的外接设备，然后重启系统。
 
 <!-- tabs:end -->
 
-> If you receive Error Code 105-3102 when performing the system update, restart your console and reattempt the update.
+> 如果你在进行系统升级的时候遇到了 105-3102 错误代码，则请重新启动主机然后再次更新。
