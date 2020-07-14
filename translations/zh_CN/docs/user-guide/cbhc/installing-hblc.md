@@ -6,7 +6,7 @@
 
 ?> 此页面只适用于 Haxchi 和 CBHC 用户。 Homebrew Launcher Channel（从 Wii U 主菜单中启动的 Homebrew Channel）**不适用**于 Mocha CFW！
 
-### 操作步骤
+### Instructions {docsify-ignore}
 
 1. 打开你的主机。
 1. 在屏幕上提示 `Autobooting...` 时按下 Home 键来打开引导菜单。
