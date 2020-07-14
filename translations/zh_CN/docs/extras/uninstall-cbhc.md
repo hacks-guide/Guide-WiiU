@@ -2,7 +2,7 @@
 ---
 本页将指导你从你的 Wii U 卸载 CBHC。
 
-### 操作步骤
+### Instructions {docsify-ignore}
 
 1. 启动Homebrew Launcher.
 1. 启动 CBHC Installer。
