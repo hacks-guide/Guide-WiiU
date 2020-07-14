@@ -1,4 +1,4 @@
-# PRIVACY NOTICE
+# PRIVACY NOTICE {docsify-ignore-all}
 
 **Last updated January 18, 2020**
 
