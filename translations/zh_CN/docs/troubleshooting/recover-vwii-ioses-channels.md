@@ -50,12 +50,12 @@
 
 ?> 如果你正在阻止系统更新，请[关闭阻止更新](unblock-updates)。
 
-### What You Need {docsify-ignore}
+### 你需要准备些啥？ {docsify-ignore}
 
 - Wii U 的[破解](introduction)正常运作。
 - 最新版 [vWii Decaffeinator](https://github.com/GaryOderNichts/vWii-Decaffeinator/releases)。
 
-### Instructions {docsify-ignore}
+### 步骤 {docsify-ignore}
 
 1. 解压 `decaffeinator.zip` 到你的 SD 卡根目录。
 1. 把 SD 卡从电脑中弹出并插入 Wii U 主机。
