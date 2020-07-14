@@ -12,7 +12,7 @@ Contrairement aux consoles telles que la DSi, la Wii ou la 3DS, le CFW sur la Wi
 
 > If you are worried about breaking one of these rules while using CBHC, consider setting up Parental Controls for your user! Blocking `Data Management` and setting `Game Rating` to the highest possible rating can help prevent common mistakes users may make when using CBHC. Check [here](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1081/~/how-to-change-parental-controls) for more information on how to change your Parental Controls settings.
 
-### Instructions
+### Instructions {docsify-ignore}
 
 1. Sortez la carte SD de votre PC et insérez-la dans votre console Wii U.
 1. Si vous ne l'avez pas encore fait, téléchargez maintenant le jeu Console Virtuelle DS de votre choix sur l'eShop.
