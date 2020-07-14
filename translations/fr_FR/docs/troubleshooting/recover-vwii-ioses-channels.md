@@ -50,12 +50,12 @@ Cette page vous guidera dans le processus de récupération d'un IOS ou d'une ch
 
 ?> Si vous utilisez une méthode de blocage de mise à jour du système, veuillez [la supprimer](unblock-updates).
 
-### Ce dont vous avez besoin
+### What You Need {docsify-ignore}
 
 - A working [homebrew installation](introduction) on the Wii U side.
 - La dernière version de [vWii Decaffeinator](https://github.com/GaryOderNichts/vWii-Decaffeinator/releases).
 
-### Instructions
+### Instructions {docsify-ignore}
 
 1. Copiez le contenu du fichier `decaffeinator.zip` vers la racine de votre carte SD.
 1. Retirez la carte SD de votre ordinateur et branchez-la sur votre console Wii U.
@@ -71,6 +71,8 @@ Différentes options vous seront proposées. Il est recommandé de faire une pre
 
 #### **Advanced options**
 
+### Advanced options
+
 ?> Ce mode efface les IOS et les chaînes spécifié·e·s pour les réinstaller. Toutes les autres données (y compris les cIOS) seront conservé·e·s.
 
 1. Sélectionnez `Advanced options` dans le menu.
@@ -83,6 +85,8 @@ Différentes options vous seront proposées. Il est recommandé de faire une pre
 
 #### **Light mode**
 
+### Light mode
+
 ?> Ce mode efface le Menu Système, les données sauvegardées sur le Bureau Wii, les IOS et autres titres du système pour en réinstaller des versions propres. Veuillez noter que cela supprimera également tous les cIOS et devront être réinstallés. Toutes les autres données seront conservées.
 
 1. Sélectionnez `Light mode` dans le menu.
@@ -93,6 +97,8 @@ Différentes options vous seront proposées. Il est recommandé de faire une pre
 ?> Vous pouvez maintenant réactiver votre méthode de [blocage des mises à jour du système](block-updates).
 
 #### **Aggressive mode**
+
+### Aggressive mode
 
 !> Ce mode efface **tout** pour réinstaller des versions propres des IOS et des chaînes par défaut. Veuillez noter que tous les cIOS, les données de sauvegarde et les chaînes seront perdu·e·s, et que la NAND de votre vWii sera comme en sortie d'usine !
 
