@@ -6,7 +6,7 @@ Vi starter med å plassere Homebrew filene du trenger på SD-kortet ditt.
 
 ?> **Merk** SD-kortet ditt må formateres til FAT32. Hvis den ikke er formatert til FAT32, bør du bruke [GUIFormat](http://www.ridgecrop.demon.co.uk/index.htm?guiformat.htm) med 32k (32768) "Allocation unit size" for å formatere den.
 
-### Dette trenger du
+### What You Need {docsify-ignore}
 
 - The latest release of [Wuphax](http://wiiubru.com/appstore/zips/wuphax.zip).
 - The latest release of [Wii U NAND Dumper](https://github.com/koolkdev/wiiu-nanddumper/releases/latest).
@@ -16,7 +16,7 @@ Vi starter med å plassere Homebrew filene du trenger på SD-kortet ditt.
 - The [Homebrew Launcher](https://github.com/dimok789/homebrew_launcher/releases/download/1.4/homebrew_launcher.v1.4.zip).
 - The latest release of the [Homebrew Launcher Installer](https://github.com/wiiu-env/homebrew_launcher_installer/releases/download/v1.4/payload.zip).
 
-### Instruksjoner
+### Instructions {docsify-ignore}
 
 1. Sett SD-kortet ditt i PC'en din.
 1. Pakk ut `wuphax.zip` til roten av SD-kortet.
