@@ -4,7 +4,7 @@
 
 如果你在之后做错了什么导致 Wii U 变砖了，恢复 NAND 备份就可以修复它。
 
-### Instructions {docsify-ignore}
+### 步骤 {docsify-ignore}
 
 ?> Wii U NAND 备份的大小取决于你的设备型号，为 8GB 或 32GB。 为了备份 NAND，你需要准备一张大于你设备 NAND 的 SD 卡。 如果你的 SD 卡没有如此大的空间，你在备份的时候可以选择跳过 `MLC` 部分，其中保存的文件是你的游戏和游戏存档，救砖不需要恢复这些东西。
 
