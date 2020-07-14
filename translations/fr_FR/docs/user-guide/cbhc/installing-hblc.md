@@ -6,7 +6,7 @@ Cette page installera l'Homebrew Launcher Channel comme application directement 
 
 ?> Cette page est réservée aux utilisateurs de Haxchi et de CBHC. The Homebrew Launcher Channel (the version of the Homebrew Channel you launch from the Wii U Menu) will **not** work with Mocha CFW!
 
-### Instructions
+### Instructions {docsify-ignore}
 
 1. Allumez votre console.
 1. Appuyez sur le bouton HOME pendant que la console affiche `Autobooting...` pour accéder au menu d'amorçage.
