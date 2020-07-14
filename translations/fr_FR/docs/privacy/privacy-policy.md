@@ -1,4 +1,4 @@
-# AVIS DE CONFIDENTIALITÉ
+# PRIVACY NOTICE {docsify-ignore-all}
 
 **Dernière mise à jour le 18 janvier 2020**
 
