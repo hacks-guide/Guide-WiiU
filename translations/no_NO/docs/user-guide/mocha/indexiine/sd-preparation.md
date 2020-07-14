@@ -6,7 +6,7 @@ Her vil vi plassere de nødvendige CFW-filene og noen ekstra homebrew filer på 
 
 ?> **Merk** SD-kortet ditt må formateres til FAT32. If your SD Card is not formatted to FAT32, use [GUIFormat](http://www.ridgecrop.demon.co.uk/index.htm?guiformat.htm) with 32k (32768) allocation unit size to format it.
 
-### Dette trenger du
+### What You Need {docsify-ignore}
 
 - The Mocha <a href="docs/files/config.ini" download>config</a>.
 - The latest release of [Homebrew Launcher Installer](https://github.com/wiiu-env/homebrew_launcher_installer/releases/latest).
@@ -21,7 +21,7 @@ Her vil vi plassere de nødvendige CFW-filene og noen ekstra homebrew filer på 
 - The latest release of <a href="docs/files/SaveMii_Mod.zip" download>SaveMii Mod</a>.
 - The latest release of [Indexiine-Installer](https://github.com/GaryOderNichts/indexiine-installer/releases/latest).
 
-### Instruksjoner
+### Instructions {docsify-ignore}
 
 ?> **Merk** info.json og manifest.Install filene er ikke nødvendig for modifiseringsprosessen og kan slettes.
 
