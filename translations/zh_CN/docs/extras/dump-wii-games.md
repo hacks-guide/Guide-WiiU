@@ -4,12 +4,12 @@
 
 ?> 导出 Wii 游戏需要提前完成 vWii 的 Homebrew 设置，所以你需要先完成 [vWii 修改教程](vwii-modding) 再来关注这一部分的内容。
 
-### 你需要准备点啥？
+### What You Need {docsify-ignore}
 
 1. The latest release of [CleanRip](https://github.com/emukidid/cleanrip/releases/download/2.1.1/CleanRip-v2.1.1.zip).
 1. The [wii.dat](https://github.com/emukidid/cleanrip/releases/download/2.1.1/wii.dat) file.
 
-### 操作步骤
+### Instructions {docsify-ignore}
 
 1. 将你的 Wii U 的 SD 卡插入你的电脑。
 1. 从 `CleanRip-v2.1.1.zip` 中复制 `apps` 文件夹到你的 SD 卡根目录中。
