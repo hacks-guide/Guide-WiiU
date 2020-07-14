@@ -1,4 +1,4 @@
-# Dumper des disques de la Wii originale
+# Dumping Wii Discs
 ---
 Dumper vos diques vous permet de : les lire sur un émulateur Wii (à savoir Dolphin), les lire en utilisant un lanceur supportant les cartes SD et appareils USB tel que Wiiflow, faire des injections Console Virtuelle qui peuvent être installées sur une clé USB formatée par la Wii U ou sur la NAND et lancées depuis le menu Wii U.
 
@@ -6,8 +6,8 @@ Dumper vos diques vous permet de : les lire sur un émulateur Wii (à savoir Dol
 
 ### Ce dont vous avez besoin
 
-1. La dernière version de [CleanRip](https://github.com/emukidid/cleanrip/releases/download/2.1.1/CleanRip-v2.1.1.zip)
-1. Le fichier [wii.dat](https://github.com/emukidid/cleanrip/releases/download/2.1.1/wii.dat)
+1. The latest release of [CleanRip](https://github.com/emukidid/cleanrip/releases/download/2.1.1/CleanRip-v2.1.1.zip).
+1. The [wii.dat](https://github.com/emukidid/cleanrip/releases/download/2.1.1/wii.dat) file.
 
 ### Instructions
 
