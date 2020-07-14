@@ -1,14 +1,14 @@
-# Hvordan fikse Feilkode 112-1037
-
+# How To Fix The Error Code 112-1037
+---
 Denne siden vil hjelpe deg med å fikse feilkode 112-1037.
 
-### Dette trenger du
+### What You Need {docsify-ignore}
 
 - A working [homebrew installation](introduction).
 - [wupclient.py](https://raw.githubusercontent.com/Elpunical/mocha/master/ios_mcp/wupclient.py) **(Høyreklikk -> Lagre lenke som... -> Klikk Lagre).**
 - Siste utgave av [Python](https://www.python.org/downloads/).
 
-### Instruksjoner
+### Instructions {docsify-ignore}
 
 1. Installer Python på PC'en din.
 
@@ -17,6 +17,8 @@ Denne siden vil hjelpe deg med å fikse feilkode 112-1037.
 <!-- tabs:start -->
 
 #### **Windows**
+
+### Windows
 
 1. Slå på Wii U konsollen.
 1. Start Homebrew Launcher og kjør Mocha.
@@ -35,6 +37,8 @@ Denne siden vil hjelpe deg med å fikse feilkode 112-1037.
 1. Feilkoden skal nå være borte.
 
 #### **macOS & Linux**
+
+### macOS & Linux
 
 1. Slå på Wii U konsollen.
 1. Start Homebrew Launcher og kjør Mocha.

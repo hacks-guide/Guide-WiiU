@@ -10,8 +10,9 @@
 - **Extras**
 - [Blocking Updates](block-updates)
 - [Unblocking Updates](unblock-updates)
+- [Configurable Payload](configurable-payload)
 - [Dumping Wii U Discs](dump-games)
-- [Dumping Original Wii Discs](dump-wii-games)
+- [Dumping Wii Discs](dump-wii-games)
 - [Uninstall CBHC](uninstall-cbhc)
 - [Uninstall Indexiine](uninstall-indexiine)
 - [Frequently Asked Questions](faq)

@@ -10,10 +10,11 @@
 - **Extras**
 - [Blocage des mises à jour](block-updates)
 - [Déblocage des mises à jour](unblock-updates)
-- [Dump des disques Wii U](dump-games)
-- [Dump des disques de Wii originale](dump-wii-games)
-- [Désinstaller CBHC](uninstall-cbhc)
-- [Désinstaller Indexiine](uninstall-indexiine)
+- [Configurable Payload](configurable-payload)
+- [Dumping Wii U Discs](dump-games)
+- [Dumping Wii Discs](dump-wii-games)
+- [Uninstall CBHC](uninstall-cbhc)
+- [Uninstall Indexiine](uninstall-indexiine)
 - [Frequently Asked Questions](faq)
 - **Liens**
 - [![GitHub](https://icongr.am/simple/github.svg?color=808080&size=16)GitHub](https://github.com/hacks-guide/Guide-WiiU)
@@ -21,5 +22,5 @@
 - [![Translate](https://icongr.am/material/translate.svg?color=808080&size=16)Translate](https://hacks-guide.crowdin.com/u/projects/10)
 - [Faire un don](donations)
 - [À propos](about)
-- **Confidentialité**
-- [Politique de confidentialité](privacy-policy)
+- **Privacy**
+- [Privacy Policy](privacy-policy)

@@ -6,7 +6,7 @@
 
 ?> **注意** 你的 SD 卡需要被格式化为 FAT32。 如果你的 SD 卡没有格式化为 FAT32，则你需要用 [GUIFormat](http://www.ridgecrop.demon.co.uk/index.htm?guiformat.htm) 格式化，并将分配单元大小设置为 32k（32768）。
 
-### 你需要准备点啥？
+### What You Need {docsify-ignore}
 
 - Mocha <a href="docs/files/config.ini" download>配置文件</a>。
 - 最新版 [Homebrew Launcher Installer](https://github.com/wiiu-env/homebrew_launcher_installer/releases/latest)。
@@ -18,10 +18,10 @@
 - 最新版 [Homebrew App Store](https://github.com/vgmoose/hbas/releases/latest)。
   - 你需要下载 `wiiu-extracttosd.zip` 文件。
 - 最新版 [Mocha](https://www.wiiubru.com/appstore/zips/mocha.zip)。
-- The latest release of <a href="docs/files/SaveMii_Mod.zip" download>SaveMii Mod</a>.
+- 最新版 <a href="docs/files/SaveMii_Mod.zip" download>SaveMii Mod</a>。
 - 最新版 [Indexiine-Installer](https://github.com/GaryOderNichts/indexiine-installer/releases/latest)。
 
-### 操作步骤
+### Instructions {docsify-ignore}
 
 ?> **注意** info.json 和 manifest.install 文件在破解过程中是不需要的，可以删除。
 

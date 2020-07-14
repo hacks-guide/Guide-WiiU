@@ -4,17 +4,17 @@
 
 如果你在之后做错了什么导致 Wii U 变砖了，恢复 NAND 备份就可以修复它。
 
-### 操作步骤
+### Instructions {docsify-ignore}
 
 ?> Wii U NAND 备份的大小取决于你的设备型号，为 8GB 或 32GB。 为了备份 NAND，你需要准备一张大于你设备 NAND 的 SD 卡。 如果你的 SD 卡没有如此大的空间，你在备份的时候可以选择跳过 `MLC` 部分，其中保存的文件是你的游戏和游戏存档，救砖不需要恢复这些东西。
 
 ?> 不过恢复 NAND 备份需要额外的设备和一点微焊技能。 <br>但是备份 NAND **是** 为了以防万一，所以不要跳过这些步骤。 <br>你从某一台设备导出的 NAND 备份是那一台设备所独有的。 恢复其他主机的 NAND 备份 **不能救砖**。
 
 1. 移动 Homebrew Launcher 至 `Wii U NAND Dumper` 程序并启动。
-1. Use the Wii U GamePad's D-Pad to enter the following configuration:
+1. 使用 Wii U 游戏手柄上的十字键来配置以下内容：
  - Dump SLC: **yes**
  - Dump SLCCMPT: **yes**
- - Dump MLC: **optional**（可选）
+ - Dump MLC: **可选**
  - Dump OTP: **yes**
  - Dump SEEPROM: **yes**
 1. 按下 A 键启动导出的进程。

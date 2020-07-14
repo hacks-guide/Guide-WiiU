@@ -1,10 +1,10 @@
-# À propos de ce guide
+# About This Guide
 ---
 Ce guide a été rédigé par des membres du personnel du [Serveur Discord Nintendo Homebrew](https://discord.gg/C29hYvh)
 
 > **Crédits**
 > 
-> **Elpunical, FlimFlam69, Flump, Hiperhazz, huhen, Link5261, NoahAbc12345, Profanity, et redcubie.**
+> **Elpunical, FlimFlam69, Flump, GaryOderNichts, Hiperhazz, huhen, ihaveahax/ihaveamac, Link5261, NoahAbc12345, Plailect, Profanity, and redcubie.**
 > 
 > Merci à [tout le monde](https://github.com/hacks-guide/Guide-WiiU/graphs/contributors) qui a contribué au guide sur GitHub.
 
@@ -15,7 +15,7 @@ Ce guide a été rédigé par des membres du personnel du [Serveur Discord Ninte
 </figure>
 
 >
-> **Développeur / Crédits d'outils**
+> **Developer / Tool Credits**
 > 
 > - **dragbe** et **FIX94** pour <u>d2x cIOS Installer</u>.
 > 
@@ -33,8 +33,6 @@ Ce guide a été rédigé par des membres du personnel du [Serveur Discord Ninte
 > 
 > - **JumpCallPop**, **jam1garner**, **hedgeberg**, **yellows8** and **orboditilt** for [JSTypeHax](https://github.com/wiiu-env/JsTypeHax).
 > 
-> - **ihaveamac/ihaveahax** for [overwrite-wiiu-titlehash](https://github.com/ihaveamac/overwrite-wiiu-titlehash).
-> 
 > - **Dr Clipper**, **ZRicky11**, **dmm** and **FIX94** for <u>Patched IOS80 Installer for vWii</u>.
 > 
 > - **djskual**, **Loadiine GX2 Team**, **Yardape** and **brienj** for [WUP Installer GX2](https://sourceforge.net/projects/wup-installer-gx2/).
@@ -45,6 +43,6 @@ Ce guide a été rédigé par des membres du personnel du [Serveur Discord Ninte
 > 
 > - **FIX94** for [Wuphax](https://github.com/FIX94/wuphax).
 > 
-> - **GaryOderNichts** for [Indexiine-Installer](https://github.com/GaryOderNichts/indexiine-installer), [UFDiine](https://github.com/GaryOderNichts/UFDiine), [vWii Decaffeinator](https://github.com/GaryOderNichts/vWii-Decaffeinator), and the fixed version of the [Homebrew Launcher Channel](https://github.com/GaryOderNichts/homebrew_launcher/).
+> - **GaryOderNichts** for the [Configurable Payload](https://github.com/GaryOderNichts/configurable-payload), [Indexiine-Installer](https://github.com/GaryOderNichts/indexiine-installer), [UFDiine](https://github.com/GaryOderNichts/UFDiine), [vWii Decaffeinator](https://github.com/GaryOderNichts/vWii-Decaffeinator), and the fixed version of the [Homebrew Launcher Channel](https://github.com/GaryOderNichts/homebrew_launcher/).
 > 
 > - **GabyPCgeeK** and **Ryuzaki-MrL** for [SaveMii Mod](https://github.com/GabyPCgeeK/savemii).

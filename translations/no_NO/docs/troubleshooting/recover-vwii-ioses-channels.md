@@ -50,12 +50,12 @@ This page will guide you through the process of recovering a IOS or channel on y
 
 ?> Hvis du bruker en blokkeringsmetode for systemoppdateringer, må du [tilbakestille den ](unblock-updates).
 
-### Dette trenger du
+### What You Need {docsify-ignore}
 
 - A working [homebrew installation](introduction) on the Wii U side.
 - The latest release of [vWii Decaffeinator](https://github.com/GaryOderNichts/vWii-Decaffeinator/releases).
 
-### Instruksjoner
+### Instructions {docsify-ignore}
 
 1. Extract the `decaffeinator.zip` file to the root of your SD Card.
 1. Ta SD-kortet ut av PC'en og sett den inn i Wii U konsollen.
@@ -71,6 +71,8 @@ You will be provided with various options. It is recommended to first attempt re
 
 #### **Advanced options**
 
+### Advanced options
+
 ?> This mode will clear the specified IOSes and channels to reinstall them. All other data (including cIOSes) will be preserved.
 
 1. Select `Advanced options` on the menu.
@@ -83,6 +85,8 @@ You will be provided with various options. It is recommended to first attempt re
 
 #### **Light mode**
 
+### Light mode
+
 ?> This mode will clear the System Menu, Wii Message Board save data, IOSes, and other system titles to reinstall clean versions of them. Please note this will remove all cIOSes as well and must be reinstalled. All other data will be preserved.
 
 1. Select `Light mode` on the menu.
@@ -93,6 +97,8 @@ You will be provided with various options. It is recommended to first attempt re
 ?> Du kan nå reaktivere din [blokkeringsmetode mot systemoppdateringer](block-updates).
 
 #### **Aggressive mode**
+
+### Aggressive mode
 
 !> This mode will clear **everything** to reinstall clean versions of the default IOSes and channels. Please note that all cIOSes, save data, and channels will be lost, and the vWii NAND will be returned to its stock form!
 

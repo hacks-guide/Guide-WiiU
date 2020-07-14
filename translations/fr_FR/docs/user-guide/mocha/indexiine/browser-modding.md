@@ -7,7 +7,7 @@ Maintenant que vous avez votre sauvegarde de la NAND au cas où quelque chose se
 ?> Au cas où vous n'auriez pas réinséré votre carte SD dans votre Wii U après avoir copié votre sauvegarde de la NAND sur un ordinateur, faites-le maintenant.
 
 
-### Instructions
+### Instructions {docsify-ignore}
 
 1. Allumez votre Wii U.
 1. Launch the internet browser and open the website `wiiuexploit.xyz`.

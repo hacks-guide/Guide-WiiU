@@ -6,7 +6,7 @@ We will now place the required CFW files and some additional homebrew files on t
 
 ?> **Notice** Your SD Card will need to be formatted as FAT32. If your SD Card is not formatted to FAT32, use [GUIFormat](http://www.ridgecrop.demon.co.uk/index.htm?guiformat.htm) with 32k (32768) allocation unit size to format it.
 
-### What You Need
+### What You Need {docsify-ignore}
 
 - The Haxchi <a href="docs/files/config.txt" download>config</a>
 - The latest release of [Homebrew Launcher Installer](https://github.com/wiiu-env/homebrew_launcher_installer/releases/latest).
@@ -23,7 +23,7 @@ We will now place the required CFW files and some additional homebrew files on t
   - Download only the Haxchi `.zip` file.
 - The latest release of <a href="docs/files/SaveMii_Mod.zip" download>SaveMii Mod</a>.
 
-### Instructions
+### Instructions {docsify-ignore}
 
 ?> **Notice** The info.json and manifest.install files are not needed for the modding process and therefore can be deleted.
 

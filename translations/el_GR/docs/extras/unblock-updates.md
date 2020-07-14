@@ -2,11 +2,13 @@
 ---
 This is needed if you ever need to perform a System Update.
 
-### Instructions
+### Instructions {docsify-ignore}
 
 <!-- tabs:start -->
 
-#### **Recreating The Update Folder**
+#### **Recreating Update Folder**
+
+### Recreating Update Folder
 
 1. Plug your SD Card into your Computer.
 1. Download and extract [UFDiine](https://github.com/GaryOderNichts/UFDiine/releases) to the root of your SD Card.
@@ -16,7 +18,9 @@ This is needed if you ever need to perform a System Update.
 1. Press the A button to create the update folder.
 1. Confirm that it says `Update folder exists`. You are no longer blocking updates.
 
-### **Removing The DNS Blocks**
+#### **Removing DNS Blocks**
+
+### Removing DNS Blocks
 
 1. Enter the Wii U's system settings and navigate to `Internet > Connect to the Internet > Connection List >` `Your WiFi connection > Change Settings > DNS` and set the option to `Auto-obtain`.
 1. You are no longer blocking system updates.

@@ -4,7 +4,7 @@
 
 Denne siden vil hjelpe deg med å installere Homebrew Launcher Channel som et program direkte på Wii U menyen for enkel tilgang.
 
-### Instruksjoner
+### Instructions {docsify-ignore}
 
 ?> Å installere Homebrew Launcher Channel er valgfritt siden du kan åpne den ved å holde inne A knappen mens du starter Haxchi.
 

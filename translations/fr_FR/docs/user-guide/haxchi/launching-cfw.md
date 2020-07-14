@@ -6,7 +6,7 @@ Maintenant que vous avez votre sauvegarde de la NAND au cas où quelque chose se
 
 Contrairement aux consoles telles que la DSi, la Wii ou la 3DS, le CFW sur la Wii U est temporaire. Cela signifie que dès que votre console redémarre, vous perdrez le CFW et devrez suivre ces instructions à nouveau. Ceci peut être ignoré en installant CBHC sur une installation Haxchi CFW.
 
-### Instructions
+### Instructions {docsify-ignore}
 
 ?> Si l'installation échoue pour une raison quelconque, essayez de désinstaller et de retélécharger le jeu DS VC de l'eShop et assurez-vous qu'il est en cours d'installation sur la NAND.
 

@@ -7,7 +7,7 @@ Now that you have your NAND backup in case anything goes wrong later, you can in
 ?> In case you haven't plugged your SD Card back into your Wii U after copying your NAND backup to a computer, do so now.
 
 
-### Instructions
+### Instructions {docsify-ignore}
 
 1. Turn on your Wii U.
 1. Launch the internet browser and open the website `wiiuexploit.xyz`.

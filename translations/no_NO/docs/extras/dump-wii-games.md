@@ -1,4 +1,4 @@
-# Dumpe Wii Spill Fra Disk
+# Dumping Wii Discs
 ---
 Dumping av Wii diskene dine lar deg spille dem på en Wii-emulator (Dolphin), spille dem fra en USB/SD loader som for eksempel Wiiflow, lage Virtual Console Injects som kan installeres på en Wii U formatert USB-lagringsenhet eller NAND, eller kjøres fra Wii U-menyen.
 
@@ -6,8 +6,8 @@ Dumping av Wii diskene dine lar deg spille dem på en Wii-emulator (Dolphin), sp
 
 ### Dette trenger du
 
-1. Siste utgave av [CleanRip](https://github.com/emukidid/cleanrip/releases/download/2.1.1/CleanRip-v2.1.1.zip)
-1. Filen [wii.dat](https://github.com/emukidid/cleanrip/releases/download/2.1.1/wii.dat)
+1. The latest release of [CleanRip](https://github.com/emukidid/cleanrip/releases/download/2.1.1/CleanRip-v2.1.1.zip).
+1. The [wii.dat](https://github.com/emukidid/cleanrip/releases/download/2.1.1/wii.dat) file.
 
 ### Instruksjoner
 

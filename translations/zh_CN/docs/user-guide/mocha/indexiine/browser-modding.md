@@ -7,7 +7,7 @@
 ?> 如果你还没有在复制 NAND 文件到电脑之后将 SD 卡插回 Wii U，请现在就将 SD 卡插回去。
 
 
-### 说明
+### Instructions {docsify-ignore}
 
 1. 打开你的 Wii U。
 1. 启动 Wii U 的浏览器，打开 `wiiuexploit.xyz` 。
