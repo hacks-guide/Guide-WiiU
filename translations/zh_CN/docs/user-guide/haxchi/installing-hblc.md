@@ -4,7 +4,7 @@
 
 这个页面将会指导你安装 Homebrew Launcher Channel 为一个可在主菜单中打开的程序，来方便打开。
 
-### 操作步骤
+### Instructions {docsify-ignore}
 
 ?> 是否需要安装 Homebrew Launcher Channel 由你自己决定，因为你可以在启动 Haxchi 的时候按住 A 键来启动 Homebrew Launcher。
 
