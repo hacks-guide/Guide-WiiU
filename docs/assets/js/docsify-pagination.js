@@ -249,7 +249,7 @@ var Link = function () {
     this.chapter = findChapter(element);
     this.hyperlink = findHyperlink(element);
 
-		let badsites = ["introduction", "recover-vwii-ioses-channels", "common-issues-fixes", "fix-errcode-112-1037", "about", "block-updates", "unblock-updates", "dump-games", "dump-wii-games", "uninstall-cbhc", "uninstall-indexiine", "faq", "donations"]
+		let badsites = ["introduction", "recover-vwii-ioses-channels", "configurable-payload", "common-issues-fixes", "fix-errcode-112-1037", "about", "block-updates", "unblock-updates", "dump-games", "dump-wii-games", "uninstall-cbhc", "uninstall-indexiine", "faq", "donations"]
 		let currentpage = window.location.href
 		let lastItem = currentpage.split('/').pop()
 		if (badsites.includes(lastItem)){
