@@ -6,7 +6,7 @@ Nous allons maintenant placer les fichiers Homebrew nécessaires sur la carte SD
 
 ?> **Remarque** Votre carte SD devra être formatée en FAT32. Si votre carte SD n'est pas formatée en FAT32, utilisez [GUIFormat](http://www.ridgecrop.demon.co.uk/index.htm?guiformat.htm) avec 32k (32768) en taille d'unité d'allocation pour la formater.
 
-### Ce dont vous avez besoin
+### What You Need {docsify-ignore}
 
 - The latest release of [Wuphax](http://wiiubru.com/appstore/zips/wuphax.zip).
 - The latest release of [Wii U NAND Dumper](https://github.com/koolkdev/wiiu-nanddumper/releases/latest).
@@ -16,7 +16,7 @@ Nous allons maintenant placer les fichiers Homebrew nécessaires sur la carte SD
 - The [Homebrew Launcher](https://github.com/dimok789/homebrew_launcher/releases/download/1.4/homebrew_launcher.v1.4.zip).
 - The latest release of the [Homebrew Launcher Installer](https://github.com/wiiu-env/homebrew_launcher_installer/releases/download/v1.4/payload.zip).
 
-### Instructions
+### Instructions {docsify-ignore}
 
 1. Insérez la carte SD de votre Wii U dans votre PC.
 1. Copiez le contenu du fichier `wuphax.zip` vers la racine de votre carte SD.
