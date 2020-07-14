@@ -1,4 +1,4 @@
-# 隐私政策
+# PRIVACY NOTICE {docsify-ignore-all}
 
 **此声明于 2020 年 1 月 18 日更新。**
 
