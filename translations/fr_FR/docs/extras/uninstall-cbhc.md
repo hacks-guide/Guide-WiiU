@@ -2,7 +2,7 @@
 ---
 Cette page vous guidera tout au long du processus de désinstallation de CBHC de votre Wii U.
 
-### Instructions
+### Instructions {docsify-ignore}
 
 1. Lancez le Homebrew Launcher.
 1. Lancez CBHC Installer.
