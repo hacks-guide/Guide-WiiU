@@ -10,7 +10,7 @@ This payload is configurable, similar to Haxchi's configuration. This could be v
 ### Instructions {docsify-ignore}
 
 1. Extract the `homebrew_launcher_channel.v2.1_fix.zip` file to the `install` folder on the root of your SD Card.
-1. Place the SD into your Wii U and launch the [Homebrew Launcher](mocha/online-exploit/browser-exploit).
+1. Place the SD Card into your Wii U and launch the [Homebrew Launcher](mocha/online-exploit/browser-exploit).
 1. Navigate the Homebrew Launcher and launch the WUP Installer GX2 application.
 1. Select `Homebrew Launcher Channel`. Press `Install` and install to NAND as the installation destination. This will install the Homebrew Launcher Channel to the Wii U Menu.
 1. Once the process is finished, press the HOME Button until you're back at the Wii U Menu.
