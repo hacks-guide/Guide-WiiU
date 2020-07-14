@@ -12,7 +12,7 @@
 
 > 如果你担心你会不小心做了上面的其中一件事，请考虑对你的账户设置家长控制！ 阻止使用`数据管理（Data Management）`并设置`游戏评级（Game Rating）`为最高可防止你在使用 CBHC 的时候犯了错误。 点击[这里](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1081/~/how-to-change-parental-controls)来了解如何更改家长控制的更多信息。
 
-### Instructions {docsify-ignore}
+### 步骤 {docsify-ignore}
 
 1. 将内存卡从电脑上拔出并插回 Wii U。
 1. 若你还没有下载你的 DS VC 游戏，请从 eShop 上下载它。
