@@ -1,4 +1,4 @@
-# PERSONVERN
+# PRIVACY NOTICE {docsify-ignore-all}
 
 **Sist oppdatert 18. Januar, 2020**
 
