@@ -6,7 +6,7 @@ Now that you have your NAND backup in case anything goes wrong later, you can ru
 
 Unlike systems such as the DSi, Wii, or 3DS, Wii U CFW is temporary. This means that as soon as your system reboots, you will lose CFW and have to follow these instructions again. This can be skipped by installing CBHC to a Haxchi CFW installation.
 
-### Instructions
+### Instructions {docsify-ignore}
 
 ?> If the install fails for some reason, try uninstalling and redownloading the DS VC game from the eShop and make sure it is being installed to the NAND.
 
