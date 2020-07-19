@@ -8,7 +8,6 @@ Her vil vi plassere de nødvendige CFW-filene og noen ekstra homebrew filer på 
 
 ### What You Need {docsify-ignore}
 
-- The Haxchi <a href="docs/files/config.txt" download>config</a>.
 - The latest release of [Homebrew Launcher Installer](https://github.com/wiiu-env/homebrew_launcher_installer/releases/latest).
   - Du må laste ned `payload.zip` filen.
 - The 1.4 release of [The Homebrew Launcher](https://github.com/dimok789/homebrew_launcher/releases/tag/1.4).
@@ -19,8 +18,8 @@ Her vil vi plassere de nødvendige CFW-filene og noen ekstra homebrew filer på 
 - The latest release of [Wii U NAND Dumper](https://github.com/koolkdev/wiiu-nanddumper/releases/latest).
 - The latest release of the [Homebrew App Store](https://github.com/vgmoose/hbas/releases/latest).
   - Du må laste ned `wiiu-extracttosd.zip` filen.
-- The latest release of [Haxchi and CBHC](https://github.com/FIX94/haxchi/releases/latest).
-  - Last ned Haxchi og CBHC .zip filene.
+- The latest release of [Haxchi](https://www.wiiubru.com/appstore/zips/haxchi.zip).
+- The latest release of [CBHC](https://www.wiiubru.com/appstore/zips/cbhc.zip).
 - The latest release of <a href="docs/files/SaveMii_Mod.zip" download>SaveMii Mod</a>.
 
 ### Instructions {docsify-ignore}
@@ -30,12 +29,11 @@ Her vil vi plassere de nødvendige CFW-filene og noen ekstra homebrew filer på 
 1. Sett SD-kortet ditt i PC'en din.
 1. Opprett en mappe med navnet `install` på roten av SD-kortet.
 1. Pakk ut `homebrew_launcher_channel.v2.1_fix.zip` til `install` mappen.
-1. Pakk ut `Haxchi.zip` til roten av SD-kortet.
-1. Pakk ut `CBHC.zip` til roten av SD-kortet.
+1. Extract the `haxchi.zip` file to the root of your SD Card.
+1. Extract the `cbhc.zip` file to the root of your SD Card.
 1. Pakk ut `wup_installer_gx2.zip` til roten av SD-kortet.
 1. Pakk ut `nanddumper.zip` til roten av SD-kortet.
 1. Pakk ut `wiiu-extracttosd.zip` til roten av SD-kortet.
 1. Pakk ut `homebrew_launcher.v.1.4.zip` til roten av SD-kortet.
 1. Pakk ut `savemii_mod.zip` til roten av SD-kortet.
-1. Kopier `config.txt` fila til `haxchi` mappen i roten av SD-kortet. Overskriv filene hvis du blir spurt.
 1. Kopier `payload.elf` fila fra `payload.zip` til `wiiu` mappen på SD-kortet.
