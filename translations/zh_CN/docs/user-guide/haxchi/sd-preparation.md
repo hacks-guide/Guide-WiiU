@@ -18,7 +18,7 @@
 - 最新版 [Wii U NAND Dumper](https://github.com/koolkdev/wiiu-nanddumper/releases/latest)。
 - 最新版 [Homebrew App Store](https://github.com/vgmoose/hbas/releases/latest)。
   - 你需要下载 `wiiu-extracttosd.zip` 文件。
-- The latest release of [Haxchi](https://www.wiiubru.com/appstore/zips/haxchi.zip).
+- 最新版 [Haxchi](https://www.wiiubru.com/appstore/zips/haxchi.zip)。
 - 最新版 <a href="docs/files/SaveMii_Mod.zip" download>SaveMii Mod</a>。
 
 ### 步骤 {docsify-ignore}
@@ -28,7 +28,7 @@
 1. 将你的 Wii U SD 卡 插入你的电脑。
 1. 在 SD 卡根目录下创建一个名为 `install` 的文件夹。
 1. 解压 `homebrew_launcher_channel.v2.1_fix.zip` 文件到你创建的 `install` 文件夹。
-1. Extract the `haxchi.zip` file to the root of your SD Card.
+1. 解压 `haxchi.zip` 到你的 SD 卡根目录。
 1. 解压 `wup_installer_gx2.zip` 到你的 SD 卡根目录。
 1. 解压 `nanddumper.zip` 到你的 SD 卡根目录。
 1. 解压 `wiiu-extracttosd.zip` 到你的 SD 卡根目录。
