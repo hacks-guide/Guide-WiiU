@@ -2,7 +2,7 @@
 ---
 本页将指导你从你的 Wii U 卸载 Indexiine。
 
-### Instructions {docsify-ignore}
+### 步骤 {docsify-ignore}
 
 1. 启动 Homebrew Launcher。
 1. 启动 Indexiine Installer。

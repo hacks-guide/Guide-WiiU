@@ -6,7 +6,7 @@
 
 与 DSi、Wii 或 3DS 不同的是，Wii U 的 CFW 是临时性的。 这代表在系统重启之后 CFW 就会失效，你必须重复下面的操作才能重新启动 CFW。 你可以选择安装 CBHC 来自动进入 Haxchi CFW 以跳过这些步骤。
 
-### Instructions {docsify-ignore}
+### 步骤 {docsify-ignore}
 
 ?> 如果安装因为某些原因而失败了，请尝试卸载游戏并重新从 eShop 上下载这个游戏，并确保你是将游戏安装到 NAND 中的。
 

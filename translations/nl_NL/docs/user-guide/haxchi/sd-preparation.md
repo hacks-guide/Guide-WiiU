@@ -8,7 +8,6 @@ We will now place the required CFW files and some additional homebrew files on t
 
 ### What You Need {docsify-ignore}
 
-- The Haxchi <a href="docs/files/config.txt" download>config</a>
 - The latest release of [Homebrew Launcher Installer](https://github.com/wiiu-env/homebrew_launcher_installer/releases/latest).
   - You will need to download the `payload.zip` file.
 - The 1.4 release of [The Homebrew Launcher](https://github.com/dimok789/homebrew_launcher/releases/tag/1.4).
@@ -19,8 +18,7 @@ We will now place the required CFW files and some additional homebrew files on t
 - The latest release of [Wii U NAND Dumper](https://github.com/koolkdev/wiiu-nanddumper/releases/latest).
 - The latest release of the [Homebrew App Store](https://github.com/vgmoose/hbas/releases/latest).
   - You will need to download the `wiiu-extracttosd.zip` file.
-- The latest release of [Haxchi](https://github.com/FIX94/haxchi/releases/latest).
-  - Download only the Haxchi `.zip` file.
+- The latest release of [Haxchi](https://www.wiiubru.com/appstore/zips/haxchi.zip).
 - The latest release of <a href="docs/files/SaveMii_Mod.zip" download>SaveMii Mod</a>.
 
 ### Instructions {docsify-ignore}
@@ -30,11 +28,10 @@ We will now place the required CFW files and some additional homebrew files on t
 1. Insert your Wii U's SD Card into your PC.
 1. Create a folder called `install` on the root of your SD Card.
 1. Extract the `homebrew_launcher_channel.v2.1_fix.zip` file to the `install` folder you created.
-1. Extract the `Haxchi.zip` file to the root of your SD Card.
+1. Extract the `haxchi.zip` file to the root of your SD Card.
 1. Extract the `wup_installer_gx2.zip` file to the root of your SD Card.
 1. Extract the `nanddumper.zip` file to the root of your SD Card.
 1. Extract the `wiiu-extracttosd.zip` file to the root of your SD Card.
 1. Extract the `homebrew_launcher.v.1.4.zip` file to the root of your SD Card.
 1. Extract the `savemii_mod.zip` file to the root of your SD Card.
-1. Copy the `config.txt` file to the `haxchi` folder on the root of your SD Card. Overwrite files if asked.
 1. Copy the `payload.elf` from the `payload.zip` to the `wiiu` folder on your SD Card.

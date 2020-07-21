@@ -6,7 +6,7 @@
 
 ?> **注意** 你的 SD 卡需要被格式化为 FAT32。 如果你的 SD 卡没有格式化为 FAT32，则你需要用 [GUIFormat](http://www.ridgecrop.demon.co.uk/index.htm?guiformat.htm) 格式化，并将分配单元大小设置为 32k（32768）
 
-### What You Need {docsify-ignore}
+### 你需要准备些啥？ {docsify-ignore}
 
 - 最新版 [Wuphax](http://wiiubru.com/appstore/zips/wuphax.zip)。
 - 最新版 [Wii U NAND Dumper](https://github.com/koolkdev/wiiu-nanddumper/releases/latest)。
@@ -16,7 +16,7 @@
 - [Homebrew Launcher](https://github.com/dimok789/homebrew_launcher/releases/download/1.4/homebrew_launcher.v1.4.zip)。
 - 最新版 [Homebrew Launcher Installer](https://github.com/wiiu-env/homebrew_launcher_installer/releases/download/v1.4/payload.zip)。
 
-### Instructions {docsify-ignore}
+### 步骤 {docsify-ignore}
 
 1. 将你的 Wii U SD 卡 插入你的电脑。
 1. 解压 `wuphax.zip` 到你的 SD 卡根目录。

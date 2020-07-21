@@ -8,7 +8,6 @@ Nous allons maintenant placer les fichiers du CFW requis et quelques fichiers ho
 
 ### What You Need {docsify-ignore}
 
-- The Haxchi <a href="docs/files/config.txt" download>config</a>.
 - The latest release of [Homebrew Launcher Installer](https://github.com/wiiu-env/homebrew_launcher_installer/releases/latest).
   - Vous devrez télécharger le fichier `payload.zip`.
 - The 1.4 release of [The Homebrew Launcher](https://github.com/dimok789/homebrew_launcher/releases/tag/1.4).
@@ -19,8 +18,8 @@ Nous allons maintenant placer les fichiers du CFW requis et quelques fichiers ho
 - The latest release of [Wii U NAND Dumper](https://github.com/koolkdev/wiiu-nanddumper/releases/latest).
 - The latest release of the [Homebrew App Store](https://github.com/vgmoose/hbas/releases/latest).
   - Vous devrez télécharger le fichier `wiiu-extracttosd.zip`.
-- The latest release of [Haxchi and CBHC](https://github.com/FIX94/haxchi/releases/latest).
-  - Téléchargez les fichiers Haxchi et CBHC .zip.
+- The latest release of [Haxchi](https://www.wiiubru.com/appstore/zips/haxchi.zip).
+- The latest release of [CBHC](https://www.wiiubru.com/appstore/zips/cbhc.zip).
 - The latest release of <a href="docs/files/SaveMii_Mod.zip" download>SaveMii Mod</a>.
 
 ### Instructions {docsify-ignore}
@@ -30,12 +29,11 @@ Nous allons maintenant placer les fichiers du CFW requis et quelques fichiers ho
 1. Insérez la carte SD de votre Wii U dans votre PC.
 1. Créez un dossier appelé `install` à la racine de votre carte SD.
 1. Copiez le contenu du fichier `homebrew_launcher_channel.v2.1_fix.zip` dans le dossier `install` que vous avez créé.
-1. Copiez le contenu du fichier `Haxchi.zip` vers la racine de votre carte SD.
-1. Copiez le contenu du fichier `CBHC.zip` vers la racine de votre carte SD.
+1. Extract the `haxchi.zip` file to the root of your SD Card.
+1. Extract the `cbhc.zip` file to the root of your SD Card.
 1. Copiez le contenu du fichier `wup_installer_gx2.zip` vers la racine de votre carte SD.
 1. Copiez le contenu du fichier `nanddumper.zip` vers la racine de votre carte SD.
 1. Copiez le contenu du fichier `wiiu-extracttosd.zip` vers la racine de votre carte SD.
 1. Copiez le contenu du fichier `homebrew_launcher.v.1.4.zip` vers la racine de votre carte SD.
 1. Copiez le contenu du fichier `savemii_mod.zip` vers la racine de votre carte SD.
-1. Copiez le fichier `config.txt` dans le dossier `haxchi` à la racine de votre carte SD. Écrasez les fichiers si demandé.
 1. Copiez le fichier `payload.elf` du fichier `payload.zip` vers le dossier `wiiu` de votre carte SD.

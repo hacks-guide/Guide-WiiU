@@ -4,12 +4,12 @@ Dumping av Wii diskene dine lar deg spille dem på en Wii-emulator (Dolphin), sp
 
 ?> Dumping Wii games require a working homebrew setup on vWii, so make sure to finish the [vWii Modding guide](vwii-modding) beforehand.
 
-### Dette trenger du
+### What You Need {docsify-ignore}
 
 1. The latest release of [CleanRip](https://github.com/emukidid/cleanrip/releases/download/2.1.1/CleanRip-v2.1.1.zip).
 1. The [wii.dat](https://github.com/emukidid/cleanrip/releases/download/2.1.1/wii.dat) file.
 
-### Instruksjoner
+### Instructions {docsify-ignore}
 
 1. Insert your Wii U's SD Card into your computer.
 1. Copy the `apps` folder from the `CleanRip-v2.1.1.zip` file to the root of your SD Card.

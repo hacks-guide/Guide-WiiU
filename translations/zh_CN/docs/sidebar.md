@@ -10,17 +10,17 @@
 - **扩展**
 - [阻止更新](block-updates)
 - [解除阻止更新](unblock-updates)
-- [Configurable Payload](configurable-payload)
-- [Dumping Wii U Discs](dump-games)
-- [Dumping Wii Discs](dump-wii-games)
-- [Uninstall CBHC](uninstall-cbhc)
-- [Uninstall Indexiine](uninstall-indexiine)
-- [Frequently Asked Questions](faq)
+- [可配置的 Payload](configurable-payload)
+- [导出 Wii U 光盘](dump-games)
+- [导出 Wii 光盘](dump-wii-games)
+- [卸载 CBHC](uninstall-cbhc)
+- [卸载 Indexiine](uninstall-indexiine)
+- [常见问题](faq)
 - **链接**
 - [![GitHub](https://icongr.am/simple/github.svg?color=808080&size=16)GitHub](https://github.com/hacks-guide/Guide-WiiU)
 - [![Discord](https://icongr.am/simple/discord.svg?colored&size=16)Discord](https://discord.gg/C29hYvh)
 - [![帮助我们翻译手册](https://icongr.am/material/translate.svg?color=808080&size=16)帮助我们翻译手册](https://hacks-guide.crowdin.com/u/projects/10)
 - [捐赠](donations)
 - [关于我们](about)
-- **Privacy**
-- [Privacy Policy](privacy-policy)
+- **隐私**
+- [隐私政策](privacy-policy)
