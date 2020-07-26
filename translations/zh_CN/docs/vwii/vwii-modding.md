@@ -4,7 +4,7 @@
 
 我们现在需要将 Homebrew 所需的文件放入 SD 卡中。
 
-?> **注意** 你的 SD 卡需要被格式化为 FAT32。 如果你的 SD 卡没有格式化为 FAT32，则你需要用 [GUIFormat](http://www.ridgecrop.demon.co.uk/index.htm?guiformat.htm) 格式化，并将分配单元大小设置为 32k（32768）
+?> **注意** 你的 SD 卡需要被格式化为 FAT32。 如果你的 SD 卡没有格式化为 FAT32，则你需要用 [GUIFormat](http://www.ridgecrop.demon.co.uk/index.htm?guiformat.htm) 格式化，并将分配单元大小设置为 32k（32768） It is advised that you do not label the SD Card as `wiiu` as it may cause issues with some applications.
 
 ### 你需要准备些啥？ {docsify-ignore}
 
