@@ -4,7 +4,7 @@
 
 我们现在需要把一些 CFW 需要使用到的文件放进你的 SD 卡。
 
-?> **注意** 你的 SD 卡需要被格式化为 FAT32。 如果你的 SD 卡没有格式化为 FAT32，则你需要用 [GUIFormat](http://www.ridgecrop.demon.co.uk/index.htm?guiformat.htm) 格式化，并将分配单元大小设置为 32k（32768） It is advised that you do not label the SD Card as `wiiu` as it may cause issues with some applications.
+?> **注意** 你的 SD 卡需要被格式化为 FAT32。 如果你的 SD 卡没有格式化为 FAT32，则你需要用 [GUIFormat](http://www.ridgecrop.demon.co.uk/index.htm?guiformat.htm) 格式化，并将分配单元大小设置为 32k（32768） 建议不要将 SD 卡卷标命名为 `wiiu`，因为它可能会引起一些程序的问题。
 
 ### 你需要准备些啥？ {docsify-ignore}
 
