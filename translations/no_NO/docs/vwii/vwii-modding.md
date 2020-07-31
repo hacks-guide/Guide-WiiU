@@ -4,7 +4,7 @@ Denne siden vil hjelpe deg med å modifisere vWii.
 
 Vi starter med å plassere Homebrew filene du trenger på SD-kortet ditt.
 
-?> **Merk** SD-kortet ditt må formateres til FAT32. Hvis den ikke er formatert til FAT32, bør du bruke [GUIFormat](http://www.ridgecrop.demon.co.uk/index.htm?guiformat.htm) med 32k (32768) "Allocation unit size" for å formatere den.
+?> **Merk** SD-kortet ditt må formateres til FAT32. Hvis den ikke er formatert til FAT32, bør du bruke [GUIFormat](http://www.ridgecrop.demon.co.uk/index.htm?guiformat.htm) med 32k (32768) "Allocation unit size" for å formatere den. It is advised that you do not label the SD Card as `wiiu` as it may cause issues with some applications.
 
 ### What You Need {docsify-ignore}
 
