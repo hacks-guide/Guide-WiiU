@@ -2,7 +2,7 @@
 
 Guide collaboratif entre les Helpers et le Staff de Nintendo Homebrew, du stock au custom firmware de CBHC.
 
-?> **Aide sur Discord** Pour une assistance en direct avec ce guide, veuillez nous rendre visite dans **#wiiu-assistance** sur le serveur [Nintendo Homebrew sur Discord](https://discord.gg/C29hYvh) et demandez de l'aide en anglais. Please read **#faq-wiiu**, as well as our [Frequently Asked Questions](faq) page beforehand to see if your question has already been answered.
+?> **Aide sur Discord** Pour une assistance en direct avec ce guide, veuillez nous rendre visite dans **#wiiu-assistance** sur le serveur [Nintendo Homebrew sur Discord](https://discord.gg/C29hYvh) et demandez de l'aide en anglais. Veuillez lire **#faq-wiiu**, ainsi que notre page [Foire Aux Questions](faq) pour voir si votre question a déjà reçu une réponse.
 
 > Si vous appréciez ce guide, nous acceptons les [dons](donations).
 
@@ -10,50 +10,50 @@ Guide collaboratif entre les Helpers et le Staff de Nintendo Homebrew, du stock 
 
 ### Homebrew
 
-Homebrew applications are custom, user-made software, which haven’t been authorized by Nintendo. This can include save editing tools, games, emulators, and more.
+Les applications Homebrew sont des logiciels faits maison, créés par les utilisateurs et qui n'ont pas été autorisés par Nintendo. Cela peut inclure des outils d'édition de sauvegardes, des jeux, des émulateurs, et plus encore.
 
-Homebrew can be run on your Wii U as long as you have a way to put files on an SD Card and your Wii U is updated to the latest version for your region.
+Les Homebrews peuvent être exécutés sur votre Wii U tant que vous avez un moyen de mettre des fichiers sur une carte SD et que votre Wii U est mise à jour vers la dernière version pour votre région.
 
 ### Custom Firmware
 
-Custom firmware (often abbreviated as "CFW") enables you to use more advanced hacks that userland homebrew can’t easily do. For instance, installing game modifications with ease. CFW can be set up on any console on the latest version.
+Le Custom Firmware (également connu sous l'abréviation "CFW") vous permet d'utiliser des hacks plus avancés que les homebrews de type "userland" ne peuvent pas faire facilement. Par exemple, installer des mods de jeu en toute simplicité. Le CFW peut être configuré sur n'importe quelle console ayant la dernière version en date du logiciel système.
 
 ### Homebrew & Usages du CFW
 
-Among other things, it allows you to do the following:
+Il vous permet, entre autres, de faire ce qui suit :
 
-- Use “ROM hacks” for games that you own.
-- Backup, edit and restore saves for many games.
-- Play games for older systems with various emulators, using RetroArch or other standalone emulators.
-- Play out-of-region games.
-- Dump your Wii U game discs to a format that can be installed on your internal or external Wii U storage drive.
+- Utiliser des "ROM hacks" pour les jeux que vous possédez.
+- Sauvegarder, modifier et restaurer les données de sauvegarde pour de nombreux jeux.
+- Jouer à des jeux pour les anciennes consoles avec divers émulateurs, en utilisant RetroArch ou d'autres émulateurs autonomes.
+- Jouer à des jeux hors région.
+- Dumper vos disques de jeu Wii U dans un format qui peut être installé sur votre stockage Wii U interne ou externe.
 
 
 ### Objectif final
 
-This guide has the end goal of taking a completely unmodified Wii U from stock to custom firmware.
+Ce guide a pour but final de faire passer une Wii U de "non modifiée" à "modifiée avec un custom firmware".
 
 ### Avant de commencer
 
-!> Before beginning the guide, you must know the risks of Wii U hacking: **EVERY** time you modify your system, there is always the potential for an **UNRECOVERABLE** brick. They’re rare but still a possibility so make sure you follow **ALL** directions **EXACTLY!**
+!> Avant de commencer le guide, vous devez connaître les risques du hacking de la Wii U : **CHAQUE** fois que vous modifiez votre console, il y a toujours la possibilité d'un brick **IRRÉCUPÉRABLE**. Ils sont rares mais restent une possibilité, alors assurez-vous de suivre **TOUTES** les instructions **À LA LETTRE!**
 >
-> This guide will work on all Wii U consoles in all regions on firmware 5.5.4 or below.
+> Ce guide fonctionnera sur toutes les consoles Wii U de toutes les régions en version 5.5.4 ou inférieure.
 > 
-> You will need the following in order to successfully follow this guide:
+> Vous aurez besoin de ce qui suit pour suivre ce tutoriel avec succès :
 > 
-> - An SD Card.
-> - A device such as a computer to place files onto the SD Card.
-> - A Wii U with internet access.
+> - Une carte SD.
+> - Un appareil tel qu'un ordinateur pour placer des fichiers sur la carte SD.
+> - Une Wii U avec un accès à Internet.
 > 
-> Your SD Card should preferably be 32 gigabytes large, as a full NAND backup for the console will take up around 8 or 30 gigabytes depending on your model.
+> Votre carte SD devrait de préférence faire 32 gigaoctets, étant donné qu'une sauvegarde complète de la NAND de votre console prendra environ 8 ou 30 gigaoctets selon votre modèle.
 
-If everything goes according to plan, you will lose no data and end up with everything that you started with (games, saves, NNID, etc, will be preserved).
+Si tout se passe comme prévu, vous ne perdrez aucune donnée et finirez avec tout ce que vous aviez avant de commencer (jeux, NNID, les données de sauvegarde, etc seront conservés).
 
-Keep your device plugged in throughout the entire process to avoid data loss or damage from an unexpected power-off.
+Gardez votre console branchée tout au long du processus pour éviter une perte de données ou des dommages causés par une mise hors tension inattendue.
 
-With the exception of CBHC, custom firmware is not permanent with current methods and will be unloaded upon rebooting the system.
+À l'exception de CBHC, le Custom Firmware n'est pas permanent avec les méthodes actuelles et sera désactivé au redémarrage de la console.
 
-It is advised that you read the entire guide from start to finish one or more times before actually running through the guide with your system.
+Il est conseillé de lire l'intégralité du guide du début à la fin une ou plusieurs fois avant de commencer à suivre les étapes avec votre console.
 
 ---
 
