@@ -10,7 +10,7 @@ Contrairement aux consoles telles que la DSi, la Wii ou la 3DS, le CFW sur la Wi
 
 !> Enfreindre l'une des règles ci-dessus engendrera un brick de la console.
 
-> If you are worried about breaking one of these rules while using CBHC, consider setting up Parental Controls for your user! Blocking `Data Management` and setting `Game Rating` to the highest possible rating can help prevent common mistakes users may make when using CBHC. Check [here](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1081/~/how-to-change-parental-controls) for more information on how to change your Parental Controls settings.
+> Si vous craignez d'enfreindre l'une de ces règles lors de l'utilisation de CBHC, envisagez de mettre en place un contrôle parental pour votre utilisateur ! Blocking `Data Management` and setting `Game Rating` to the highest possible rating can help prevent common mistakes users may make when using CBHC. Cliquez [ici](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1081/~/how-to-change-parental-controls) pour plus d'informations sur la façon de modifier vos paramètres de Contrôle Parental.
 
 ### Instructions {docsify-ignore}
 
