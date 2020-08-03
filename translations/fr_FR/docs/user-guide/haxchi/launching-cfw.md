@@ -14,7 +14,7 @@ Contrairement aux consoles telles que la DSi, la Wii ou la 3DS, le CFW sur la Wi
 1. Si vous ne l'avez pas déjà fait, téléchargez votre jeu DS VC à partir de l'eShop.
 1. Lancez l'Homebrew Launcher sur votre console comme [expliqué précédemment](browser-exploit).
 1. Naviguez dans l'Homebrew Launcher et ouvrez l'application Haxchi.
-1. Use the D-Pad to navigate the cursor to the game you want to install Haxchi to and press the A button to install it.
+1. Utilisez la croix directionnelle pour déplacer le curseur sur le jeu dans lequel vous souhaitez installer Haxchi et appuyez sur le bouton A pour l'installer.
 1. Une fois l'installation terminée, votre console lancera le Menu Wii U. Vous verrez votre jeu remplacé par une icône Haxchi.
 1. Exécutez le jeu DS modifié. Cela redémarrera la console et activera le CFW.
 1. Vous devrez exécuter votre jeu DS Haxchi à chaque redémarrage pour lancer le CFW.
