@@ -11,7 +11,7 @@ Au cas où quelque chose se passe mal dans le processus ultérieur et que votre 
 ?> La restauration d'une sauvegarde de la NAND sur la Wii U nécessite du matériel supplémentaire et des compétences en micro soudure. <br>Cependant, faire une sauvegarde de la NAND est **toujours** utile, donc ne l'ignorez pas. <br>Votre sauvegarde de la NAND est unique à votre système. Les sauvegardes des autres consoles **ne fonctionneront pas**.
 
 1. Naviguez à travers l'Homebrew Launcher et lancez l'application `Wii U NAND Dumper`.
-1. Use the Wii U GamePad's D-Pad to enter the following configuration:
+1. Utilisez la croix directionnelle du Wii U GamePad pour entrer la configuration suivante :
  - Dump SLC: **yes**
  - Dump SLCCMPT: **yes**
  - Dump MLC: **optionnel**

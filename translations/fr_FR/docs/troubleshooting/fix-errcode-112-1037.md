@@ -1,10 +1,10 @@
-# How To Fix The Error Code 112-1037
+# Comment corriger le code d'erreur 112-1037
 ---
 Cette page vous guidera tout au long du processus de correction du code d'erreur 112-1037.
 
-### What You Need {docsify-ignore}
+### Ce dont vous avez besoin {docsify-ignore}
 
-- A working [homebrew installation](introduction).
+- Une installation [Homebrew fonctionnelle](introduction).
 - [wupclient.py](https://raw.githubusercontent.com/Elpunical/mocha/master/ios_mcp/wupclient.py) **(clic droit -> Enregistrer le fichier sous... -> Cliquez sur OK).**
 - La dernière version de [Python](https://www.python.org/downloads/).
 

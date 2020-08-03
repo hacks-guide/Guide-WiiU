@@ -7,9 +7,9 @@ Tous les exploits actuellement connus de la Wii U peuvent, contrairement par exe
 Actuellement, il existe deux moyens de bloquer les mises à jour sur le système Wii U :
 <!-- tabs:start -->
 
-#### **Deleting Update Folder**
+#### **Suppression du dossier update**
 
-### Deleting Update Folder
+### Suppression du dossier update
 
 ?> Cette méthode de blocage des mises à jour est un peu plus avancée que le blocage du DNS et utilise une application homebrew pour modifier les fichiers système. Toutefois, elle présente l'avantage de ne pas restreindre les fonctionnalités du eShop.
 1. Insérez votre carte SD dans votre ordinateur.
@@ -20,9 +20,9 @@ Actuellement, il existe deux moyens de bloquer les mises à jour sur le système
 1. Appuyez sur le bouton A pour supprimer le dossier update.
 1. Confirmez qu'il est indiqué `Update folder is deleted`. Vous bloquez maintenant les mises à jour.
 
-#### **DNS Blocking**
+#### **Blocage par DNS**
 
-### DNS Blocking
+### Blocage par DNS
 
 ?> Cette méthode est la plus simple et est recommandée aux utilisateurs moins avancés. Elle empêche toutefois le fonctionnement du Nintendo eShop. On peut contourner ce problème en exécutant [NNUPatcher](http://www.wiiubru.com/appstore/zips/nnupatcher.zip) avant de lancer le Nintendo eShop.
 1. Insérez votre carte SD dans votre ordinateur.

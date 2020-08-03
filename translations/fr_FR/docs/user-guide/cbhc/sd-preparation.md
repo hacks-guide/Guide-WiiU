@@ -4,23 +4,23 @@
 
 Nous allons maintenant placer les fichiers du CFW requis et quelques fichiers homebrew supplémentaires sur la carte SD.
 
-?> **Remarque** Votre carte SD devra être formatée en FAT32. If your SD Card is not formatted to FAT32, use [GUIFormat](http://www.ridgecrop.demon.co.uk/index.htm?guiformat.htm) with 32k (32768) allocation unit size to format it. It is advised that you do not label the SD Card as `wiiu` or `cbhc` as it may cause issues with some applications.
+?> **Remarque** Votre carte SD devra être formatée en FAT32. Si votre carte SD n'est pas formatée en FAT32, utilisez [GUIFormat](http://www.ridgecrop.demon.co.uk/index.htm?guiformat.htm) avec 32k (32768) en taille d'unité d'allocation pour la formater. Il est conseillé de ne pas nommer la carte SD `wiiu` ou `cbhc` car cela peut causer des problèmes avec certaines applications.
 
-### What You Need {docsify-ignore}
+### Ce dont vous avez besoin {docsify-ignore}
 
-- The latest release of [Homebrew Launcher Installer](https://github.com/wiiu-env/homebrew_launcher_installer/releases/latest).
+- La dernière version de [Homebrew Launcher Installer](https://github.com/wiiu-env/homebrew_launcher_installer/releases/latest).
   - Vous devrez télécharger le fichier `payload.zip`.
-- The 1.4 release of [The Homebrew Launcher](https://github.com/dimok789/homebrew_launcher/releases/tag/1.4).
-  - You will need to download the v1.4 `homebrew_launcher.v1.4.zip` release of The Homebrew Launcher.
+- La version 1.4 de [The Homebrew Launcher](https://github.com/dimok789/homebrew_launcher/releases/tag/1.4).
+  - Vous devrez télécharger la version 1.4 `homebrew_launcher.v1.4.zip` de The Homebrew Launcher.
 - La dernière version de [WUP Installer GX2](http://wiiubru.com/appstore/zips/wup_installer_gx2.zip).
-- The latest release of [The Homebrew Launcher Channel](https://github.com/GaryOderNichts/homebrew_launcher/releases/tag/v2.1_fix).
+- La dernière version de [The Homebrew Launcher Channel](https://github.com/GaryOderNichts/homebrew_launcher/releases/tag/v2.1_fix).
   - Vous devrez télécharger le fichier `homebrew_launcher_channel.v2.1_fix.zip`.
-- The latest release of [Wii U NAND Dumper](https://github.com/koolkdev/wiiu-nanddumper/releases/latest).
-- The latest release of the [Homebrew App Store](https://github.com/vgmoose/hbas/releases/latest).
+- La dernière version de [Wii U NAND Dumper](https://github.com/koolkdev/wiiu-nanddumper/releases/latest).
+- La dernière version de l'[Homebrew App Store](https://github.com/vgmoose/hbas/releases/latest).
   - Vous devrez télécharger le fichier `wiiu-extracttosd.zip`.
-- The latest release of [Haxchi](https://www.wiiubru.com/appstore/zips/haxchi.zip).
-- The latest release of [CBHC](https://www.wiiubru.com/appstore/zips/cbhc.zip).
-- The latest release of <a href="docs/files/SaveMii_Mod.zip" download>SaveMii Mod</a>.
+- La dernière version de [Haxchi](https://www.wiiubru.com/appstore/zips/haxchi.zip).
+- La dernière version de [CBHC](https://www.wiiubru.com/appstore/zips/cbhc.zip).
+- La dernière version de <a href="docs/files/SaveMii_Mod.zip" download>SaveMii Mod</a>.
 
 ### Instructions {docsify-ignore}
 
@@ -29,8 +29,8 @@ Nous allons maintenant placer les fichiers du CFW requis et quelques fichiers ho
 1. Insérez la carte SD de votre Wii U dans votre PC.
 1. Créez un dossier appelé `install` à la racine de votre carte SD.
 1. Copiez le contenu du fichier `homebrew_launcher_channel.v2.1_fix.zip` dans le dossier `install` que vous avez créé.
-1. Extract the `haxchi.zip` file to the root of your SD Card.
-1. Extract the `cbhc.zip` file to the root of your SD Card.
+1. Copiez le contenu du fichier `haxchi.zip` vers la racine de votre carte SD.
+1. Copiez le contenu du fichier `cbhc.zip` vers la racine de votre carte SD.
 1. Copiez le contenu du fichier `wup_installer_gx2.zip` vers la racine de votre carte SD.
 1. Copiez le contenu du fichier `nanddumper.zip` vers la racine de votre carte SD.
 1. Copiez le contenu du fichier `wiiu-extracttosd.zip` vers la racine de votre carte SD.

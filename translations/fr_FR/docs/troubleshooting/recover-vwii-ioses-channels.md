@@ -50,9 +50,9 @@ Cette page vous guidera dans le processus de récupération d'un IOS ou d'une ch
 
 ?> Si vous utilisez une méthode de blocage de mise à jour du système, veuillez [la supprimer](unblock-updates).
 
-### What You Need {docsify-ignore}
+### Ce dont vous avez besoin {docsify-ignore}
 
-- A working [homebrew installation](introduction) on the Wii U side.
+- Une installation [Homebrew fonctionnelle](introduction) sur le côté de la Wii U.
 - La dernière version de [vWii Decaffeinator](https://github.com/GaryOderNichts/vWii-Decaffeinator/releases).
 
 ### Instructions {docsify-ignore}
@@ -109,8 +109,8 @@ Différentes options vous seront proposées. Il est recommandé de faire une pre
 
 ?> Vous pouvez maintenant réactiver votre méthode de [blocage des mises à jour du système](block-updates).
 
-> If you receive Error Code 160-0101 when booting up the system after using vWii Decaffeinator, take out the inserted disc and unplug any external drives and restart the system.
+> Si vous recevez le code d'erreur 160-0101 lorsque vous démarrez la console après avoir utilisé vWii Decaffeinator, retirez le disque inséré et débranchez tous les lecteurs externes et redémarrez la console.
 
 <!-- tabs:end -->
 
-> If you receive Error Code 105-3102 when performing the system update, restart your console and reattempt the update.
+> Si vous recevez le code d'erreur 105-3102 lors de la mise à jour du système, redémarrez votre console et réessayez la mise à jour.
