@@ -1,8 +1,8 @@
-# Frequently Asked Questions {docsify-ignore-all}
+# Foire Aux Questions {docsify-ignore-all}
 ---
-### Does homebrew have any risks?
+### L'homebrew comporte-t-il des risques ?
 
-Currently, homebrewing the Wii U does not expose you to a risk of being banned by Nintendo unless you cheat in online games. You should, however, always be careful with launching downloaded homebrew, especially if you don't trust the source, as homebrew can potentially damage your system!
+Actuellement, le homebrewing de la Wii U ne vous expose pas à un risque de bannissement par Nintendo, à moins que vous ne trichiez dans les jeux en ligne. Cependant, vous devez toujours faire attention au lancement de homebrew téléchargés, surtout si vous ne faites pas confiance à la source, car le homebrew peut potentiellement endommager votre console !
 
 ### Qu'est-ce que Haxchi, et en ai-je besoin ?
 
@@ -10,7 +10,7 @@ Haxchi est un point d'entrée secondaire qui utilise certains titres de la Conso
 
 Haxchi n'est pas nécessaire, cependant, si vous voulez utiliser le homebrew sur votre Wii U lorsque vous êtes hors ligne, vous en aurez besoin. Il est fortement recommandé car il est plus stable que le point d'entrée du navigateur, en particulier sur les versions les plus récentes du logiciel système.
 
-The cheapest DS Virtual Console games usable for this exploit:
+Les jeux Console Virtuelle DS les moins chers utilisables pour cet exploit :
  - Programme d’Entraînement Cérébral du Dr Kawashima: Quel âge a votre cerveau ? [PAL]
  - Brain Age: Train Your Brain in Minutes a Day! [USA]
  - Kawashima: Motto Nou wo Kitaeru Otona no DS Training [JPN]
@@ -25,9 +25,9 @@ Si vous souhaitez supprimer le dossier de mise à jour pour bloquer les mises à
 
 ### Quelle est la taille recommandée pour une carte SD ?
 
- - **Installing game backups:** 32GB (Smaller size may be used, but certain titles are 20GB in size)
- - **Running game mods:** 8GB (FAT32 USB drive may be used as well for mods)
- - **Only running homebrew apps:** Any size.
+ - **Installation de sauvegardes du jeu : ** 32 Go (une taille plus petite peut être utilisée, mais certains titres ont une taille de 20 Go)
+ - **Exécution de mods de jeu : ** 8 Go (une clé USB FAT32 peut également être utilisée pour les mods)
+ - ** Uniquement pour les applications homebrew : ** Toute taille.
 
 **Marques recommandées:** SanDisk, Samsung ou PNY
 
@@ -35,11 +35,11 @@ Si vous souhaitez supprimer le dossier de mise à jour pour bloquer les mises à
 
 ### Puis-je installer le homebrew sur la Wii U avec une clé USB au lieu d'une carte SD ?
 
-No, you must have an SD Card for a first time setup. A USB can then be used to install game backups, Virtual Console injects, etc, but not to store homebrew applications which are required to set everything up.
+Non, vous devez avoir une carte SD pour la première mise en place d'un Custom Firmware. Une clé USB peut ensuite être utilisée pour installer des backups de jeu, des injections de Console Virtuelle, etc, mais pas pour stocker les applications homebrew qui sont nécessaires pour tout configurer.
 
 ### Lors de l'extraction de certains fichiers, il y a des doublons de certains fichiers appelés "info.json" & "manifest.install", que dois-je faire avec ceux-ci ?
 
-Rien de spécial, vous pouvez les laisser là, les supprimer ou les remplacer par ceux que vous essayez de copier. Those files are not used in the process, and therefore, won't have any impact by being or not being there.
+Rien de spécial, vous pouvez les laisser là, les supprimer ou les remplacer par ceux que vous essayez de copier. Ces fichiers ne sont pas utilisés dans le processus et qui, par conséquent, n'auront pas d'impact en étant ou en n'étant pas là.
 
 ### Qu'est-ce qu'une clé USB formatée pour la Wii U ?
 

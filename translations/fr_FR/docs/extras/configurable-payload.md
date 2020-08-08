@@ -1,22 +1,22 @@
-# Configurable Payload
+# Payload configurable
 ---
-This payload is configurable, similar to Haxchi's configuration. This could be very useful for Mocha users, as it saves a bit of time having to launch Mocha through the Homebrew Launcher.
+Ce payload est configurable, ce qui est similaire à la configuration d'Haxchi. Cela pourrait être très utile pour les utilisateurs de Mocha, car cela permet d'économiser un peu de temps et de ne plus avoir à lancer Mocha via l'Homebrew Launcher.
 
-### What You Need {docsify-ignore}
+### Ce dont vous avez besoin {docsify-ignore}
 
-- The <a href="docs/files/Configurable_Payload.zip" download>configurable payload</a>.
-- The latest release of [The Homebrew Launcher Channel](https://github.com/GaryOderNichts/homebrew_launcher/releases/tag/v2.1_fix).
+- Le <a href="docs/files/Configurable_Payload.zip" download>payload configurable</a>.
+- La dernière version de [The Homebrew Launcher Channel](https://github.com/GaryOderNichts/homebrew_launcher/releases/tag/v2.1_fix).
 
 ### Instructions {docsify-ignore}
 
-1. Extract the `homebrew_launcher_channel.v2.1_fix.zip` file to the `install` folder on the root of your SD Card.
-1. Place the SD Card into your Wii U and launch the [Homebrew Launcher](mocha/online-exploit/browser-exploit).
+1. Copiez le contenu du fichier `homebrew_launcher_channel.v2.1_fix.zip` dans le dossier `install` à la racine de votre carte SD.
+1. Insérez la carte SD dans votre Wii U et lancez l'[Homebrew Launcher](mocha/online-exploit/browser-exploit).
 1. Naviguez dans l'Homebrew Launcher et lancez l'application WUP Installer GX2.
-1. Select `Homebrew Launcher Channel`. Press `Install` and install to NAND as the installation destination. Ceci installera l'Homebrew Launcher Channel sur le Menu Wii U.
-1. Once the process is finished, press the HOME Button until you're back at the Wii U Menu.
-1. At this point the channel will not launch as it will conflict with the version running on SD Card you were just using. Restart the Wii U.
-1. Eject the SD Card from your Wii U and insert it into your computer.
-1. Extract the `Configurable_Payload.zip` file to the root of your SD Card. If it prompts you to overwrite the files on your SD Card, do so.
-1. Place the SD Card into your Wii U and launch the Internet Browser and navigate to the website `wiiuexploit.xyz`.
-1. Cliquez sur `Run Homebrew Launcher!`. If everything has been done correctly, you should be taken back to the Wii U Menu. Mocha has now been enabled and you can use the Homebrew Launcher Channel you installed earlier.
+1. Sélectionnez `Homebrew Launcher Channel`. Appuyez sur `Install` et choisissez NAND comme destination de l'installation. Ceci installera l'Homebrew Launcher Channel sur le Menu Wii U.
+1. Une fois le processus terminé, appuyez sur le bouton HOME jusqu'à ce que vous reveniez sur le Menu Wii U.
+1. À ce stade, la chaîne ne se lancera pas car elle entrera en conflit avec la version exécutée depuis la carte SD que vous utilisiez. Redémarrez la Wii U.
+1. Éjectez la carte SD de votre Wii U et insérez-la dans votre ordinateur.
+1. Copiez le contenu du fichier `Configurable_Payload.zip` vers la racine de votre carte SD. Si demandé, écrasez les fichiers déjà présents sur votre carte SD.
+1. Insérez la carte SD dans votre Wii U et lancez le Navigateur Internet puis accédez au site Internet `wiiuexploit.xyz`.
+1. Cliquez sur `Run Homebrew Launcher!`. Si tout a été fait correctement, vous devriez être ramené vers le Menu Wii U. Mocha a maintenant été activé et vous pouvez utiliser le Homebrew Launcher Channel que vous avez installé précédemment.
  - Si votre Wii U reste coincée sur un écran blanc ou gelé, attendez quelques secondes. Si rien ne se passe, redémarrez la console, [réinitialisez les données de sauvegarde du navigateur](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1507/~/how-to-delete-the-internet-browser-history) et réessayez.

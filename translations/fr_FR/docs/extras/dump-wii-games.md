@@ -1,19 +1,19 @@
-# Dumping Wii Discs
+# Dumper vos Disques Wii
 ---
 Dumper vos diques vous permet de : les lire sur un émulateur Wii (à savoir Dolphin), les lire en utilisant un lanceur supportant les cartes SD et appareils USB tel que Wiiflow, faire des injections Console Virtuelle qui peuvent être installées sur une clé USB formatée par la Wii U ou sur la NAND et lancées depuis le menu Wii U.
 
-?> Dumping Wii games require a working homebrew setup on vWii, so make sure to finish the [vWii Modding guide](vwii-modding) beforehand.
+?> Dumper des jeux Wii nécessite une installation fonctionnelle de Homebrew sur la vWii, alors assurez-vous de terminer le [Modding de la vWii](vwii-modding) au préalable.
 
-### What You Need {docsify-ignore}
+### Ce dont vous avez besoin {docsify-ignore}
 
-1. The latest release of [CleanRip](https://github.com/emukidid/cleanrip/releases/download/2.1.1/CleanRip-v2.1.1.zip).
-1. The [wii.dat](https://github.com/emukidid/cleanrip/releases/download/2.1.1/wii.dat) file.
+1. La dernière version de [CleanRip](https://github.com/emukidid/cleanrip/releases/download/2.1.1/CleanRip-v2.1.1.zip).
+1. Le fichier [wii.dat](https://github.com/emukidid/cleanrip/releases/download/2.1.1/wii.dat).
 
 ### Instructions {docsify-ignore}
 
-1. Insert your Wii U's SD Card into your computer.
-1. Copy the `apps` folder from the `CleanRip-v2.1.1.zip` file to the root of your SD Card.
-1. Copy the `wii.dat` file to the root of your SD Card.
+1. Insérez la carte SD de votre Wii U dans votre ordinateur.
+1. Copiez le dossier `apps` du fichier `CleanRip-v2.1.1.zip` à la racine de votre carte SD.
+1. Copiez le fichier `wii.dat` vers la racine de votre carte SD.
 1. Retirez la carte SD de votre ordinateur et branchez-la sur votre console Wii U.
 
 ### Dumping du disque
@@ -30,7 +30,7 @@ Dumper vos diques vous permet de : les lire sur un émulateur Wii (à savoir Dol
 1. Insérez votre disque puis appuyez sur A.
 1. Allez [sur cette page](https://wiki.dolphin-emu.org/index.php?title=Category:Dual_Layer_Disc_games) pour voir si votre disque est à double couche.
 1. Faites en sorte que ce qui suit soit identique à ce qui est affiché sur votre console :
- - Dual Layer: `Yes/No` (Select `Yes` if your game's disc is dual-layered)
+ - Dual Layer: `Yes/No` (Sélectionnez `Yes` si votre disque de jeu est de type double couche)
  - Chunk Size: `Max`
  - New device per chunk: `No`
 1. Si vous souhaitez dumper plusieurs disques, sélectionnez Oui pour mémoriser vos paramètres. Si ce n'est pas le cas, sélectionnez Non.

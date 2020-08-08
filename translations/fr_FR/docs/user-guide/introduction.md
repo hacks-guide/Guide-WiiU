@@ -1,4 +1,4 @@
-# Wii U Hacks Guide
+# Guide Hacks Wii U
 ---
 Guide collaboratif entre les Helpers et le Staff de Nintendo Homebrew, du stock au custom firmware de CBHC.
 
