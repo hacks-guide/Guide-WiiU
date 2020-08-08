@@ -1,5 +1,5 @@
 # Wii U Hacks Guide
-
+---
 A guide collaboration between Nintendo Homebrew's Helpers and Staff, from stock to CBHC custom firmware.
 
 ?> **Discord Help** For live support with this guide please visit us in **#wiiu-assistance** on the [Nintendo Homebrew Discord](https://discord.gg/C29hYvh) and ask, in English, for assistance. Please read **#faq-wiiu**, as well as our [Frequently Asked Questions](faq) page beforehand to see if your question has already been answered.
