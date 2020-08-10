@@ -1,4 +1,4 @@
-# Wii U Hacks Guide
+# Wii U 破解手册
 ---
 一份由 Nintendo Homebrew 群组的志愿者和团队们共同完成的手册，教你将原厂主机破解至 CBHC。
 
