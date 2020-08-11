@@ -26,12 +26,12 @@ Her vil vi plassere de nødvendige CFW-filene og noen ekstra homebrew filer på 
 ?> **Merk** info.json og manifest.Install filene er ikke nødvendig for modifiseringsprosessen og kan slettes.
 
 1. Sett SD-kortet ditt i PC'en din.
-1. Pakk ut `wup_installer_gx2.zip` til roten av SD-kortet.
-1. Pakk ut `nanddumper.zip` til roten av SD-kortet.
-1. Pakk ut `wiiu-extracttosd.zip` til roten av SD-kortet.
-1. Pakk ut `homebrew_launcher.v.1.4.zip` til roten av SD-kortet.
-1. Pakk ut `mocha.zip` til roten av SD-kortet.
-1. Pakk ut `indexiine-installer.zip` til roten av SD-kortet.
-1. Pakk ut `savemii_mod.zip` til roten av SD-kortet.
+1. Copy the contents of the `wup_installer_gx2.zip` file to the root of your SD Card.
+1. Copy the contents of the `nanddumper.zip` file to the root of your SD Card.
+1. Copy the contents of the `wiiu-extracttosd.zip` file to the root of your SD Card.
+1. Copy the contents of the `homebrew_launcher.v.1.4.zip` file to the root of your SD Card.
+1. Copy the contents of the `mocha.zip` file to the root of your SD Card.
+1. Copy the contents of the `indexiine-installer.zip` file to the root of your SD Card.
+1. Copy the contents of the `savemii_mod.zip` file to the root of your SD Card.
 1. Kopier `config.ini` fila til `/wiiu/apps/mocha` mappen på SD-kortet.
 1. Kopier `payload.elf` fila fra `payload.zip` til `wiiu` mappen på SD kortet.
