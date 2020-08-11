@@ -22,8 +22,8 @@ Ved å Dumpe en Wii U Disk, kan du installere en kopi av spillet til system NAND
 
 ### Instructions {docsify-ignore}
 
-1. Pakk ut `wup_installer_gx2.zip` til roten av SD-kortet.
-1. Pakk ut `disc2app.zip` til roten av SD-kortet.
+1. Copy the contents of the `wup_installer_gx2.zip` file to the root of your SD Card.
+1. Copy the contents of the `disc2app.zip` file to the root of your SD Card.
 1. Ta SD-kortet ut av PCen og sett det inn i Wii U konsollen.
 1. Slå på Wii U konsollen.
 1. Ta ut spill-disken hvis du allerede har satt den inn.
@@ -56,8 +56,8 @@ Ved å Dumpe en Wii U Disk, kan du installere en kopi av spillet til system NAND
 
 ### Instructions {docsify-ignore}
 
-1. Pakk ut `wup_installer_gx2.zip` til roten av SD-kortet.
-1. Pakk ut `disc2app.zip` til roten av SD-kortet.
+1. Copy the contents of the `wup_installer_gx2.zip` file to the root of your SD Card.
+1. Copy the contents of the `disc2app.zip` file to the root of your SD Card.
 1. Ta SD-kortet ut av PCen og sett det inn i Wii U konsollen.
 1. Koble USB-lagringsenheten til Wii U konsollen din.
 1. Slå på Wii U konsollen.
@@ -94,10 +94,10 @@ Ved å Dumpe en Wii U Disk, kan du installere en kopi av spillet til system NAND
 
 ?> **Notice** Your USB device will need to be formatted as FAT32. If your USB is not formatted to FAT32, use [GUIFormat](http://www.ridgecrop.demon.co.uk/index.htm?guiformat.htm) with 32k (32768) Allocation unit size to format it.
 
-1. Extract the `homebrew_launcher.v.1.4.zip` file to the root of your USB device.
-1. Extract the `wup_installer_gx2.zip` file to the root of your USB device.
-1. Extract the `disc2app.zip` file to the root of your USB device.
-1. Extract the `mocha_fat32.zip` file to the root of your SD Card.
+1. Copy the contents of the `homebrew_launcher.v.1.4.zip` file to the root of your USB device.
+1. Copy the contents of the `wup_installer_gx2.zip` file to the root of your USB device.
+1. Copy the contents of the `disc2app.zip` file to the root of your USB device.
+1. Copy the contents of the `mocha_fat32.zip` file to the root of your SD Card.
 1. Take the SD Card out of your PC and plug it into your Wii U console.
 1. Slå på Wii U konsollen.
 1. Plug in your USB device. The Wii U will ask you format it. Cancel with No!
