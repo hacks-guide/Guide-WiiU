@@ -26,7 +26,7 @@ Currently, two ways exist to block updates on the Wii U system:
 
 ?> This method is the easier method and is recommended to less advanced users. It does, however, prevent the eShop from working. This can be worked around by running [NNUPatcher](http://www.wiiubru.com/appstore/zips/nnupatcher.zip) before starting the eShop.
 1. Plug your SD Card into your Computer.
-1. Extract the `nnupatcher.zip` file to the root of your SD Card. If asked, overwrite any duplicate files.
+1. Copy the contents of the `nnupatcher.zip` file to the root of your SD Card. If asked, overwrite any duplicate files.
 1. Plug the SD Card into your Wii U console and power it on.
 1. Enter the Wii U's system settings and navigate to `Internet > Connect to the Internet > Connection List >`
 `Your WiFi connection > Change Settings > DNS` and set the option to `Do not auto-obtain`.

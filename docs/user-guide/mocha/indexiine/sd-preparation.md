@@ -28,12 +28,12 @@ We will now place the required CFW files and some additional homebrew files on t
     The info.json and manifest.install files are not needed for the modding process and therefore can be deleted.  
 
 1. Insert your Wii U's SD Card into your PC.
-1. Extract the `wup_installer_gx2.zip` file to the root of your SD Card.
-1. Extract the `nanddumper.zip` file to the root of your SD Card.
-1. Extract the `wiiu-extracttosd.zip` file to the root of your SD Card.
-1. Extract the `homebrew_launcher.v.1.4.zip` file to the root of your SD Card.
-1. Extract the `mocha.zip` file to the root of your SD Card.
-1. Extract the `indexiine-installer.zip` file to the root of your SD Card.
-1. Extract the `savemii_mod.zip` file to the root of your SD Card.
+1. Copy the contents of the `wup_installer_gx2.zip` file to the root of your SD Card.
+1. Copy the contents of the `nanddumper.zip` file to the root of your SD Card.
+1. Copy the contents of the `wiiu-extracttosd.zip` file to the root of your SD Card.
+1. Copy the contents of the `homebrew_launcher.v.1.4.zip` file to the root of your SD Card.
+1. Copy the contents of the `mocha.zip` file to the root of your SD Card.
+1. Copy the contents of the `indexiine-installer.zip` file to the root of your SD Card.
+1. Copy the contents of the `savemii_mod.zip` file to the root of your SD Card.
 1. Copy the `config.ini` file to the `/wiiu/apps/mocha` folder on your SD Card.
 1. Copy the `payload.elf` from the `payload.zip` to the `wiiu` folder on your SD Card.
