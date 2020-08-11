@@ -57,7 +57,7 @@ This page will guide you through the process of recovering a IOS or channel on y
 
 ### Instructions {docsify-ignore}
 
-1. Extract the `decaffeinator.zip` file to the root of your SD Card.
+1. Copy the contents of the `decaffeinator.zip` file to the root of your SD Card.
 1. Ta SD-kortet ut av PC'en og sett den inn i Wii U konsollen.
 1. Slå på Wii U konsollen og start CFW (Mocha, Haxchi eller CBHC).
 1. Start Homebrew Launcher.

@@ -27,11 +27,11 @@
 
 1. 将你的 Wii U SD 卡 插入你的电脑。
 1. 在 SD 卡根目录下创建一个名为 `install` 的文件夹。
-1. 解压 `homebrew_launcher_channel.v2.1_fix.zip` 文件到你创建的 `install` 文件夹。
-1. 解压 `haxchi.zip` 到你的 SD 卡根目录。
-1. 解压 `wup_installer_gx2.zip` 到你的 SD 卡根目录。
-1. 解压 `nanddumper.zip` 到你的 SD 卡根目录。
-1. 解压 `wiiu-extracttosd.zip` 到你的 SD 卡根目录。
-1. 解压 `homebrew_launcher.v.1.4.zip` 到你 SD 卡的根目录。
-1. 解压 `savemii_mod.zip` 到你 SD 卡的根目录。
+1. Copy the contents of the `homebrew_launcher_channel.v2.1_fix.zip` file to the `install` folder you created.
+1. Copy the contents of the `haxchi.zip` file to the root of your SD Card.
+1. Copy the contents of the `wup_installer_gx2.zip` file to the root of your SD Card.
+1. Copy the contents of the `nanddumper.zip` file to the root of your SD Card.
+1. Copy the contents of the `wiiu-extracttosd.zip` file to the root of your SD Card.
+1. Copy the contents of the `homebrew_launcher.v.1.4.zip` file to the root of your SD Card.
+1. Copy the contents of the `savemii_mod.zip` file to the root of your SD Card.
 1. 从 `payload.zip` 中解压 `payload.elf` 到 SD 卡根目录下的 `wiiu` 文件夹中。
