@@ -27,11 +27,11 @@ Nous allons maintenant placer les fichiers du CFW requis et quelques fichiers ho
 
 1. Insérez la carte SD de votre Wii U dans votre PC.
 1. Créez un dossier appelé `install` à la racine de votre carte SD.
-1. Copy the contents of the `homebrew_launcher_channel.v2.1_fix.zip` file to the `install` folder you created.
-1. Copy the contents of the `haxchi.zip` file to the root of your SD Card.
-1. Copy the contents of the `wup_installer_gx2.zip` file to the root of your SD Card.
-1. Copy the contents of the `nanddumper.zip` file to the root of your SD Card.
-1. Copy the contents of the `wiiu-extracttosd.zip` file to the root of your SD Card.
-1. Copy the contents of the `homebrew_launcher.v.1.4.zip` file to the root of your SD Card.
-1. Copy the contents of the `savemii_mod.zip` file to the root of your SD Card.
+1. Copiez le contenu du fichier `homebrew_launcher_channel.v2.1_fix.zip` dans le dossier `install` que vous avez créé.
+1. Copiez le contenu du fichier `haxchi.zip` vers la racine de votre carte SD.
+1. Copiez le contenu du fichier `wup_installer_gx2.zip` vers la racine de votre carte SD.
+1. Copiez le contenu du fichier `nanddumper.zip` vers la racine de votre carte SD.
+1. Copiez le contenu du fichier `wiiu-extracttosd.zip` vers la racine de votre carte SD.
+1. Copiez le contenu du fichier `homebrew_launcher.v.1.4.zip` vers la racine de votre carte SD.
+1. Copiez le contenu du fichier `savemii_mod.zip` vers la racine de votre carte SD.
 1. Copiez le fichier `payload.elf` du fichier `payload.zip` vers le dossier `wiiu` de votre carte SD.
