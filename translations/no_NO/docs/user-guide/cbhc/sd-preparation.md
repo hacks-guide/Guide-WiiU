@@ -28,12 +28,12 @@ Her vil vi plassere de nødvendige CFW-filene og noen ekstra homebrew filer på 
 
 1. Sett SD-kortet ditt i PC'en din.
 1. Opprett en mappe med navnet `install` på roten av SD-kortet.
-1. Pakk ut `homebrew_launcher_channel.v2.1_fix.zip` til `install` mappen.
-1. Extract the `haxchi.zip` file to the root of your SD Card.
-1. Extract the `cbhc.zip` file to the root of your SD Card.
-1. Pakk ut `wup_installer_gx2.zip` til roten av SD-kortet.
-1. Pakk ut `nanddumper.zip` til roten av SD-kortet.
-1. Pakk ut `wiiu-extracttosd.zip` til roten av SD-kortet.
-1. Pakk ut `homebrew_launcher.v.1.4.zip` til roten av SD-kortet.
-1. Pakk ut `savemii_mod.zip` til roten av SD-kortet.
+1. Copy the contents of the `homebrew_launcher_channel.v2.1_fix.zip` file to the `install` folder you created.
+1. Copy the contents of the `haxchi.zip` file to the root of your SD Card.
+1. Copy the contents of the `cbhc.zip` file to the root of your SD Card.
+1. Copy the contents of the `wup_installer_gx2.zip` file to the root of your SD Card.
+1. Copy the contents of the `nanddumper.zip` file to the root of your SD Card.
+1. Copy the contents of the `wiiu-extracttosd.zip` file to the root of your SD Card.
+1. Copy the contents of the `homebrew_launcher.v.1.4.zip` file to the root of your SD Card.
+1. Copy the contents of the `savemii_mod.zip` file to the root of your SD Card.
 1. Kopier `payload.elf` fila fra `payload.zip` til `wiiu` mappen på SD-kortet.
