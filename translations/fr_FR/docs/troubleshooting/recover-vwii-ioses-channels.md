@@ -57,7 +57,7 @@ Cette page vous guidera dans le processus de récupération d'un IOS ou d'une ch
 
 ### Instructions {docsify-ignore}
 
-1. Copy the contents of the `decaffeinator.zip` file to the root of your SD Card.
+1. Copiez le contenu du fichier `decaffeinator.zip` vers la racine de votre carte SD.
 1. Retirez la carte SD de votre ordinateur et branchez-la sur votre console Wii U.
 1. Allumez votre Wii U et lancez le CFW de votre choix (Mocha, Haxchi ou CBHC).
 1. Lancez le Homebrew Launcher.
