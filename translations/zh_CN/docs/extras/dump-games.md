@@ -22,8 +22,8 @@
 
 ### 步骤 {docsify-ignore}
 
-1. 解压 `wup_installer_gx2.zip` 到你的 SD 卡根目录。
-1. 解压 `disc2app.zip` 到你的 SD 卡根目录。
+1. Copy the contents of the `wup_installer_gx2.zip` file to the root of your SD Card.
+1. Copy the contents of the `disc2app.zip` file to the root of your SD Card.
 1. 将内存卡从电脑上拔出并插回 Wii U。
 1. 打开你的 Wii U。
 1. 如果你的游戏光盘还插入在 Wii U 中，将其弹出。
@@ -56,8 +56,8 @@
 
 ### 步骤 {docsify-ignore}
 
-1. 解压 `wup_installer_gx2.zip` 到你的 SD 卡根目录。
-1. 解压 `disc2app.zip` 到你的 SD 卡根目录。
+1. Copy the contents of the `wup_installer_gx2.zip` file to the root of your SD Card.
+1. Copy the contents of the `disc2app.zip` file to the root of your SD Card.
 1. 将内存卡从电脑上拔出并插回 Wii U。
 1. 将你的 USB HDD 连接至 Wii U。
 1. 打开你的 Wii U。
@@ -94,10 +94,10 @@
 
 ?> **注意** 你的 USB 设备需要格式化为 FAT32。 如果你的 USB 设备没有格式化为 FAT32，则你需要用 [GUIFormat](http://www.ridgecrop.demon.co.uk/index.htm?guiformat.htm) 格式化，并将分配单元大小设置为 32k（32768）。
 
-1. 解压 `homebrew_launcher.v.1.4.zip` 到你 USB 设备的根目录中。
-1. 解压 `wup_installer_gx2.zip` 到你 USB 设备的根目录中。
-1. 解压 `disc2app.zip` 到你 USB 设备的根目录中。
-1. 解压 `mocha_fat32.zip` 到你的 SD 卡中的根目录中。
+1. Copy the contents of the `homebrew_launcher.v.1.4.zip` file to the root of your USB device.
+1. Copy the contents of the `wup_installer_gx2.zip` file to the root of your USB device.
+1. Copy the contents of the `disc2app.zip` file to the root of your USB device.
+1. Copy the contents of the `mocha_fat32.zip` file to the root of your SD Card.
 1. 把 SD 卡从电脑中弹出并插入 Wii U 主机。
 1. 打开你的 Wii U。
 1. 插入你的 USB 设备。 你的 Wii U 会提示你格式化它。 点击 No! 取消它。
