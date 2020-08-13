@@ -23,6 +23,7 @@ Vi starter med å plassere Homebrew filene du trenger på SD-kortet ditt.
 1. Copy the contents of the `boot.elf` file from the <code>hackmii_<wbr>installer_<wbr>v1.2<wbr>.zip</code> file to the root of your SD Card.
 1. Copy the contents of the `apps` folder from the <code>Patched_<wbr>IOS80_<wbr>Installer_<wbr>for_<wbr>vWii<wbr>.zip</code> file to the root of your SD Card.
 1. Copy the contents of the <code>d2x_<wbr>cIOS_<wbr>Installer<wbr>.zip</code> file to the root of your SD Card.
+1. Copy the contents of the `nanddumper.zip` file to the root of your SD Card.
 1. Copy the contents of the <code>homebrew_<wbr>launcher.<wbr>v1.4.zip</code> file to the root of your SD Card.
 1. Copy the contents of the `payload.zip` file to the `wiiu` folder on your SD Card.
 1. Ta SD-kortet ut av PC'en og sett den inn i Wii U konsollen.
