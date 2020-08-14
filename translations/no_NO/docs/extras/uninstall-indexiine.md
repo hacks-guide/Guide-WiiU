@@ -2,7 +2,7 @@
 ---
 Denne siden vil hjelpe deg med å avinstallere Indexiine fra Wii U konsollen din.
 
-### Instructions {docsify-ignore}
+### Instruksjoner {docsify-ignore}
 
 1. Start Homebrew Launcher.
 1. Start Indexiine-Installer.
