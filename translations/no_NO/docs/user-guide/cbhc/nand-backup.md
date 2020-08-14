@@ -4,14 +4,14 @@
 
 Hvis noe går galt senere i prosessen og Wii U konsollen "bricker", vil gjenoppretting av en NAND backup muligens fikse den.
 
-### Instructions {docsify-ignore}
+### Instruksjoner {docsify-ignore}
 
 ?> Størrelsen på Wii U NAND er (avhengig av modellen) enten 8gb eller 32gb. På grunn av dette så må du bruke ett SD-kort som er større enn NAND størrelsen. Hvis SD-kortet ditt ikke er stort nok, så kan du hoppe over `MLC` delen hvor spilldata og saves er lagret, den er ikke nødvendig for å gjenopprette de fleste bricke-tilfellene.
 
 ?> Å gjenopprette en NAND backup på Wii U konsollen krever litt kunskap om maskinvare og loddeferdigheter av mikro elektronikk. <br>Men å lage en NAND backup er **alltid** lurt, så du burde ikke hoppe over det. <br>NAND backupen din er unik for ditt system. backups fra andre konsoller vil **ikke** fungere.
 
 1. Gå til Homebrew Launcher og kjør `Wii U NAND Dumper` appen.
-1. Use the Wii U GamePad's D-Pad to enter the following configuration:
+1. Bruk D-padden for å sette opp følgende konfigurasjon:
  - Dump SLC: **yes**
  - Dump SLCCMPT: **yes**
  - Dump MLC: **optional**
