@@ -1,4 +1,4 @@
-# Donations {docsify-ignore-all}
+# Donering {docsify-ignore-all}
 ---
 > [![Paypal](/../docs/assets/img/paypal_white.png#center)](https://paypal.me/NintendoHomebrew) <embed>
     <center>
