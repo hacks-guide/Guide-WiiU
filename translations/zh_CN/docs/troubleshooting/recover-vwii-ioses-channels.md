@@ -57,7 +57,7 @@
 
 ### 步骤 {docsify-ignore}
 
-1. Copy the contents of the `decaffeinator.zip` file to the root of your SD Card.
+1. 复制 `decaffeinator.zip` 里的文件到你的 SD 卡根目录。
 1. 把 SD 卡从电脑中弹出并插入 Wii U 主机。
 1. 将 Wii U 开机，然后启动你选择的 CFW（Mocha、Haxchi 或 CBHC）。
 1. 启动 Homebrew Launcher。

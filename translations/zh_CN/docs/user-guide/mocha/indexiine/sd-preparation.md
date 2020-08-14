@@ -26,12 +26,12 @@
 ?> **注意** info.json 和 manifest.install 文件在破解过程中是不需要的，可以删除。
 
 1. 将你的 Wii U SD 卡 插入你的电脑。
-1. Copy the contents of the `wup_installer_gx2.zip` file to the root of your SD Card.
-1. Copy the contents of the `nanddumper.zip` file to the root of your SD Card.
-1. Copy the contents of the `wiiu-extracttosd.zip` file to the root of your SD Card.
-1. Copy the contents of the `homebrew_launcher.v.1.4.zip` file to the root of your SD Card.
-1. Copy the contents of the `mocha.zip` file to the root of your SD Card.
-1. Copy the contents of the `indexiine-installer.zip` file to the root of your SD Card.
-1. Copy the contents of the `savemii_mod.zip` file to the root of your SD Card.
+1. 复制 `wup_installer_gx2.zip` 里的文件到你的 SD 卡根目录。
+1. 复制 `nanddumper.zip` 里的文件到你的 SD 卡根目录。
+1. 复制 `wiiu-extracttosd.zip` 里的文件到你的 SD 卡根目录。
+1. 复制 `homebrew_launcher.v.1.4.zip` 里的文件到你 SD 卡的根目录中。
+1. 复制 `mocha.zip` 里的文件到你的 SD 卡根目录。
+1. 复制 `indexiine-installer.zip` 里的文件到你的 SD 卡根目录。
+1. 复制 `savemii_mod.zip` 里的文件到你的 SD 卡根目录。
 1. 复制 `config.ini` 到 SD 卡的 `/wiiu/apps/mocha` 文件夹下。
 1. 从 `payload.zip` 中解压 `payload.elf` 到 SD 卡根目录下的 `wiiu` 文件夹中。
