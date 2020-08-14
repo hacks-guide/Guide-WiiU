@@ -2,13 +2,13 @@
 ---
 Dette må du gjøre hvis du noen gang trenger en systemoppdatering.
 
-### Instructions {docsify-ignore}
+### Instruksjoner {docsify-ignore}
 
 <!-- tabs:start -->
 
-#### **Recreating Update Folder**
+#### **Gjenopprette "update" mappen**
 
-### Recreating Update Folder
+### Gjenopprette "update" mappen
 
 1. Sett SD-kortet inn i PC'en din.
 1. Last ned og pakk ut [UFDiine](https://github.com/GaryOderNichts/UFDiine/releases) til roten av SD-kortet ditt.
@@ -18,9 +18,9 @@ Dette må du gjøre hvis du noen gang trenger en systemoppdatering.
 1. Trykk A på gamepadden for å lage update mappen.
 1. Bekreft at det står `Update folder exists`. Du blokkerer ikke lenger systemoppdateringer.
 
-#### **Removing DNS Blocks**
+#### **Fjerne DNS-blokkeringen**
 
-### Removing DNS Blocks
+### Fjerne DNS-blokkeringen
 
 1. På Wii U konsollen, gå inn på systeminnstillinger og naviger til `Internet > Connect to the Internet > Connection List >` `Your WiFi connection > Change Settings > DNS` og sett den på `Auto-obtain `.
 1. Du blokkerer ikke lenger systemoppdateringer.
