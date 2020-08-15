@@ -1,4 +1,4 @@
-# *隐私声明* {docsify-ignore-all}
+# *隐私政策* {docsify-ignore-all}
 
 **此声明于 2020 年 1 月 18 日更新。**
 
