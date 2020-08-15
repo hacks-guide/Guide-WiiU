@@ -7,7 +7,7 @@ Nå som du har en NAND backup i tilfelle noe går galt senere, kan du installere
 ?> Om du ikke har satt SD-kortet tilbake i Wii U konsollen etter at du har kopiert NAND sikkerhetskopien til en PC, gjør det nå.
 
 
-### Instructions {docsify-ignore}
+### Instruksjoner {docsify-ignore}
 
 1. Slå på Wii U konsollen.
 1. Start nettleseren og gå til nettsiden `wiiuexploit.xyz`.

@@ -1,14 +1,14 @@
-# How To Fix The Error Code 112-1037
+# Hvordan fikse Feilkode 112-1037
 ---
 Denne siden vil hjelpe deg med å fikse feilkode 112-1037.
 
-### What You Need {docsify-ignore}
+### Dette Trenger Du {docsify-ignore}
 
-- A working [homebrew installation](introduction).
+- En fungerende [Homebrew installasjon](introduction).
 - [wupclient.py](https://raw.githubusercontent.com/Elpunical/mocha/master/ios_mcp/wupclient.py) **(Høyreklikk -> Lagre lenke som... -> Klikk Lagre).**
 - Siste utgave av [Python](https://www.python.org/downloads/).
 
-### Instructions {docsify-ignore}
+### Instruksjoner {docsify-ignore}
 
 1. Installer Python på PC'en din.
 

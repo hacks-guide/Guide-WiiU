@@ -1,9 +1,9 @@
-# Recover a vWii IOS/Channel
+# Gjenopprett en vWii IOS/Channel
 ---
-This page will guide you through the process of recovering a IOS or channel on your vWii, whether it has been corrupted or deleted for whatever reason.
+Denne siden vil hjelpe deg til å gjenopprette en IOS eller channel i vWii, om den er korrupt eller slettet av en eller annen grunn.
 
 <details>
-<summary>Click here to show what can be recovered with this method.</summary>
+<summary>Klikk her for å vise hva som kan gjenopprettes med denne metoden.</summary>
 
 - Wii Menu Manual
 - vWii System Channel
@@ -46,40 +46,40 @@ This page will guide you through the process of recovering a IOS or channel on y
 
 </details>
 
-!> This has the potential to destroy your vWii NAND if you are not careful! Please consider [backing up](mocha/online-exploit/nand-backup) your SLCCMPT and OTP if you do not yet have them backed up!
+!> Du kan potensielt ødelegge vWii NAND hvis du ikke er forsiktig! Lag en [backup](mocha/online-exploit/nand-backup) av SLCCMPT og OTP hvis du ikke har gjort det enda!
 
 ?> Hvis du bruker en blokkeringsmetode for systemoppdateringer, må du [tilbakestille den ](unblock-updates).
 
-### What You Need {docsify-ignore}
+### Dette Trenger Du {docsify-ignore}
 
-- A working [homebrew installation](introduction) on the Wii U side.
-- The latest release of [vWii Decaffeinator](https://github.com/GaryOderNichts/vWii-Decaffeinator/releases).
+- En fungerende [Homebrew installasjon](introduction) på Wii U siden.
+- Siste utgave av [vWii Decaffeinator](https://github.com/GaryOderNichts/vWii-Decaffeinator/releases).
 
-### Instructions {docsify-ignore}
+### Instruksjoner {docsify-ignore}
 
-1. Copy the contents of the `decaffeinator.zip` file to the root of your SD Card.
+1. Pakk ut `decaffeinator.zip` til roten av SD-kortet.
 1. Ta SD-kortet ut av PC'en og sett den inn i Wii U konsollen.
 1. Slå på Wii U konsollen og start CFW (Mocha, Haxchi eller CBHC).
 1. Start Homebrew Launcher.
-1. Launch vWii Decaffeinator.
+1. Kjør vWii Decaffeinator.
 
-### Recovering Process
+### Gjenopprettings prosessen
 
-You will be provided with various options. It is recommended to first attempt restoring through the `Advanced options` menu if you know what to restore, or `Light mode` if you aren't sure. In extreme cases where no other option solves the issue, `Aggressive mode` should be chosen.
+Du vil få noen diverse alternativer. Det anbefales å prøve å gjenopprette gjennom `Advanced options` menyen hvis du vet hva du skal gjenopprette, eller `Light mode` hvis du ikke er sikker. I ekstreme tilfeller der ingen andre alternativer løser problemet, bør `Aggressive mode` brukes.
 
 <!-- tabs:start -->
 
-#### **Advanced options**
+#### **Avanserte alternativer**
 
-### Advanced options
+### Avanserte alternativer
 
-?> This mode will clear the specified IOSes and channels to reinstall them. All other data (including cIOSes) will be preserved.
+?> Denne modusen vil fjerne spesifikke IOS'er og kanaler for å installere dem på nytt. All annen data (inkludert cIOS) vil bli bevart.
 
-1. Select `Advanced options` on the menu.
-1. Use the D-Pad to toggle what you would like to be restored.
-1. Press Start to initiate the restoration process.
-1. When the application finishes, allow the application to launch the System Settings.
-1. Perform a [System Update](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1136/~/how-to-perform-a-system-update) to finish the restoration process.
+1. Velg `Advanced options` på menyen.
+1. Bruk D-padden for å velge hva du ønsker å gjenopprette.
+1. Trykk Start for å starte gjenopprettingsprosessen.
+1. Når programmet er ferdig, la den starte System Settings.
+1. Utfør en [System Update](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1136/~/how-to-perform-a-system-update) for å fullføre gjenopprettingsprosessen.
 
 ?> Du kan nå reaktivere din [blokkeringsmetode mot systemoppdateringer](block-updates).
 
@@ -87,12 +87,12 @@ You will be provided with various options. It is recommended to first attempt re
 
 ### Light mode
 
-?> This mode will clear the System Menu, Wii Message Board save data, IOSes, and other system titles to reinstall clean versions of them. Please note this will remove all cIOSes as well and must be reinstalled. All other data will be preserved.
+?> Denne modusen vil slette System Menu, Wii Message Board save data, IOS'er og andre system titler for å installere dem på nytt. Dette vil også fjerne alle cIOS'er og disse må installeres på nytt. Alle andre data vil bli bevart.
 
-1. Select `Light mode` on the menu.
-1. Press Start to initiate the restoration process.
-1. When the application finishes, allow the application to launch the System Settings.
-1. Perform a [System Update](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1136/~/how-to-perform-a-system-update) to finish the restoration process.
+1. Velg `Light mode` på menyen.
+1. Trykk Start for å starte gjenopprettingsprosessen.
+1. Når programmet er ferdig, la den starte System Settings.
+1. Utfør en [System Update](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1136/~/how-to-perform-a-system-update) for å fullføre gjenopprettingsprosessen.
 
 ?> Du kan nå reaktivere din [blokkeringsmetode mot systemoppdateringer](block-updates).
 
@@ -100,17 +100,17 @@ You will be provided with various options. It is recommended to first attempt re
 
 ### Aggressive mode
 
-!> This mode will clear **everything** to reinstall clean versions of the default IOSes and channels. Please note that all cIOSes, save data, and channels will be lost, and the vWii NAND will be returned to its stock form!
+!> Denne modusen vil slette **alt** for å installere originale IOS'er og kanaler på nytt. Vær oppmerksom på at alle cIOS'er, save data, og kanaler vil forsvinne, og at vWii NAND vil bli resatt til original!
 
-1. Select `Aggressive mode` on the menu.
-1. Read the warning in its entirety. If you wish to proceed, press Start to initiate the restoration process.
-1. When the application finishes, allow the application to launch the System Settings.
-1. Perform a [System Update](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1136/~/how-to-perform-a-system-update) to finish the restoration process.
+1. Velg `Aggressive mode` på menyen.
+1. Les hele advarselen. Hvis du ønsker å fortsette, trykk på Start for å starte gjenopprettingsprosessen.
+1. Når programmet er ferdig, la den starte System Settings.
+1. Utfør en [System Update](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1136/~/how-to-perform-a-system-update) for å fullføre gjenopprettingsprosessen.
 
 ?> Du kan nå reaktivere din [blokkeringsmetode mot systemoppdateringer](block-updates).
 
-> If you receive Error Code 160-0101 when booting up the system after using vWii Decaffeinator, take out the inserted disc and unplug any external drives and restart the system.
+> Hvis du mottar feilkode 160-0101 når du starter opp systemet etter at du har brukt vWii Decaffeinator ta ut den satte skiven og koble fra eventuelle eksterne stasjoner og start systemet på nytt.
 
 <!-- tabs:end -->
 
-> If you receive Error Code 105-3102 when performing the system update, restart your console and reattempt the update.
+> Hvis du mottar feilkode 105-3102 når du utfører systemoppdateringen, restart konsollen og forsøk oppdateringen på nytt.

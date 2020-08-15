@@ -10,23 +10,23 @@ I motsetning til systemer som DSi, Wii eller 3DS, er Wii U CFW midlertidig. Dett
 
 !> Hvis du bryter en av reglene ovenfor, vil du "bricke" konsollen.
 
-> If you are worried about breaking one of these rules while using CBHC, consider setting up Parental Controls for your user! Blocking `Data Management` and setting `Game Rating` to the highest possible rating can help prevent common mistakes users may make when using CBHC. Check [here](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1081/~/how-to-change-parental-controls) for more information on how to change your Parental Controls settings.
+> Hvis du er redd for å tilfeldigvis bryte en av disse reglene mens du bruker CBHC, foreslår vi å sette opp Parental Controls for brukeren din! Blokkere `Data Management` og sette `Game Rating` til det høyeste nivået kan stoppe deg fra å gjøre de vanligste feilene som forårsaker en CBHC brick. Sjekk [her](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1081/~/how-to-change-parental-controls) for mer informasjon om hvordan du endrer Parental Controls innstillinger.
 
-### Instructions {docsify-ignore}
+### Instruksjoner {docsify-ignore}
 
 1. Ta SD-kortet ut av PCen og sett det inn i Wii U konsollen.
 1. Hvis du ikke har gjort det enda, last ned DS VC spillet du valgte fra eShop.
 1. Start Homebrew Launcher på Wii U konsollen din som [forklart tidligere](browser-exploit).
 1. Kjør Haxchi appen.
-1. Use the D-Pad to navigate the cursor to the game you want to install Haxchi to and press the A button to install it.
+1. Bruk D-padden til å flytte markøren til spillet du ønsker å installere Haxchi over og trykk på A knappen for å installere den.
 1. Når installasjonen er ferdig, vil konsollen gå tilbake til Wii U menyen. Der vil du se spillet ditt erstattet med et Haxchi ikon.
 1. Kjør Haxchi. Dette vil starte konsollen på nytt og aktivere CFW.
 1. Kjør Haxchi igjen og hold A knappen mens den starter. Dette vil sende deg til Homebrew Launcher.
 1. I Homebrew Launcher, kjør CBHC appen.
-1. Use the D-Pad to navigate the cursor to the game you previously installed Haxchi to and press the A button to install CBHC.
+1. Bruk D-padden for å flytte markøren til spillet du installerte Haxchi over og trykk på A knappen for å installere CBHC.
 1. Når installasjonen er ferdig, vil konsollen gå tilbake til Wii U menyen.
-1. Start konsollen på nytt. Hvis CBHC er installert riktig, bør du se en ny oppstartsmeny. (CBHC is not compatible with Quick Start. If you are using the Quick Start Menu, please turn it off.)
-1. Use the D-Pad to navigate to `Autoboot: Disabled` and press the A button until it says `Autoboot: System Menu`.
-1. Use the D-Pad to navigate to `Boot System Menu` and press the A button. Dette vil åpne Wii U menyen med CFW aktivert.
+1. Start konsollen på nytt. Hvis CBHC er installert riktig, bør du se en ny oppstartsmeny. (CBHC er ikke kompatibel med Quick Start. Hvis du bruker Quick Start Menu, slå den av.)
+1. Bruk D-padden for å flytte til `Autoboot: Disabled` og trykk på A knappen helt til det står `Autoboot: System Menu`.
+1. Bruk D-padden for å flytte til `Boot system menu` og trykk på A-knappen. Dette vil åpne Wii U menyen med CFW aktivert.
 1. Konsollen din kommer nå til å automatisk være i CFW etter oppstart.
 1. Du kan nå koble til eventuelle USB-enheter du hadde tilkoblet, før du startet guiden.
