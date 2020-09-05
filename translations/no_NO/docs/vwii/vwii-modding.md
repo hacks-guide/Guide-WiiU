@@ -20,8 +20,8 @@ Vi starter med å plassere Homebrew filene du trenger på SD-kortet ditt.
 
 1. Sett SD-kortet ditt i PC'en din.
 1. Pakk ut `wuphax.zip` til roten av SD-kortet.
-1. Pakk ut `boot.elf` fra <code>hackmii_<wbr>installer_<wbr>v1.2<wbr>.zip</code> til roten av SD-kortet.
-1. Pakk ut `apps` mappen fra <code>Patched_<wbr>IOS80_<wbr>Installer_<wbr>for_<wbr>vWii<wbr>.zip</code> til roten av SD-kortet.
+1. Copy the `boot.elf` file from the <code>hackmii_<wbr>installer_<wbr>v1.2<wbr>.zip</code> file to the root of your SD Card.
+1. Copy the `apps` folder from the <code>Patched_<wbr>IOS80_<wbr>Installer_<wbr>for_<wbr>vWii<wbr>.zip</code> file to the root of your SD Card.
 1. Pakk ut <code>d2x_<wbr>cIOS_<wbr>Installer<wbr>.zip</code> til roten av SD-kortet.
 1. Pakk ut `nanddumper.zip` til roten av SD-kortet.
 1. Pakk ut <code>homebrew_<wbr>launcher.<wbr>v1.4.zip</code> til roten av SD-kortet.
