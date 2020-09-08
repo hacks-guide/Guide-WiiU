@@ -20,8 +20,8 @@
 
 1. 将你的 Wii U SD 卡 插入你的电脑。
 1. 复制 `wuphax.zip` 里的文件到你的 SD 卡根目录。
-1. Copy the `boot.elf` file from the <code>hackmii_<wbr>installer_<wbr>v1.2<wbr>.zip</code> file to the root of your SD Card.
-1. Copy the `apps` folder from the <code>Patched_<wbr>IOS80_<wbr>Installer_<wbr>for_<wbr>vWii<wbr>.zip</code> file to the root of your SD Card.
+1. 从 <code>hackmii_<wbr>installer_<wbr>v1.2<wbr>.zip</code> 文件中解压 `boot.elf` 到 SD 卡根目录。
+1. 从 <code>Patched_<wbr>IOS80_<wbr>Installer_<wbr>for_<wbr>vWii<wbr>.zip</code> 解压 `apps` 文件夹到 SD 卡根目录。
 1. 复制 <code>d2x_<wbr>cIOS_<wbr>Installer<wbr>.zip</code> 里的文件到 SD 卡根目录。
 1. 复制 `nanddumper.zip` 里的文件到你的 SD 卡根目录。
 1. 复制 <code>homebrew_<wbr>launcher.<wbr>v1.4.zip</code> 里的文件到 SD 卡根目录。
