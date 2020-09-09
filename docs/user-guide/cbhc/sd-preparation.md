@@ -5,7 +5,7 @@
 We will now place the required CFW files and some additional homebrew files on the SD Card.
 
 ?> **Notice**
-    Your SD Card will need to be formatted as FAT32. If your SD Card is not formatted to FAT32, use [GUIFormat](http://www.ridgecrop.demon.co.uk/index.htm?guiformat.htm) with 32k (32768) allocation unit size to format it. It is advised that you do not label the SD Card as `wiiu` or `cbhc` as it may cause issues with some applications.
+    Your SD Card will need to be formatted as FAT32. If your SD Card is not formatted to FAT32, use [GUIFormat](http://www.ridgecrop.demon.co.uk/index.htm?guiformat.htm) with 32k (32768) allocation unit size (also known as cluster size) to format it. It is advised that you do not label the SD Card as `wiiu` or `cbhc` as it may cause issues with some applications.
 
 ### What You Need {docsify-ignore}
 
