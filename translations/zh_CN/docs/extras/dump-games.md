@@ -92,7 +92,7 @@
 
 ### 步骤 {docsify-ignore}
 
-?> **注意** 你的 USB 设备需要格式化为 FAT32。 如果你的 USB 设备没有格式化为 FAT32，则你需要用 [GUIFormat](http://www.ridgecrop.demon.co.uk/index.htm?guiformat.htm) 格式化，并将分配单元大小设置为 32k（32768）。
+?> **注意** 你的 USB 设备需要格式化为 FAT32。 If your USB is not formatted to FAT32, use [GUIFormat](https://web.archive.org/web/20200930150014/http://www.ridgecrop.demon.co.uk/guiformat.exe) with 32k (32768) Allocation unit size to format it.
 
 1. 复制 `homebrew_launcher.v.1.4.zip` 里的文件到你 USB 设备的根目录中。
 1. 复制 `wup_installer_gx2.zip` 里的文件到你 USB 设备的根目录。
