@@ -4,7 +4,7 @@ Cette page vous guidera tout au long du processus de modding de votre vWii.
 
 Nous allons maintenant placer les fichiers Homebrew nécessaires sur la carte SD.
 
-?> **Remarque** Votre carte SD devra être formatée en FAT32. Si votre carte SD n'est pas formatée en FAT32, utilisez [GUIFormat](http://www.ridgecrop.demon.co.uk/index.htm?guiformat.htm) avec 32k (32768) en taille d'unité d'allocation pour la formater. Il est conseillé de ne pas nommer la carte SD `wiiu` car cela peut causer des problèmes avec certaines applications.
+?> **Remarque** Votre carte SD devra être formatée en FAT32. Si votre carte SD n'est pas formatée en FAT32, utilisez [GUIFormat](https://web.archive.org/web/20200930150014/http://www.ridgecrop.demon.co.uk/guiformat.exe) avec 32k (32768) en taille d'unité d'allocation pour la formater. Il est conseillé de ne pas nommer la carte SD `wiiu` car cela peut causer des problèmes avec certaines applications.
 
 ### Ce dont vous avez besoin {docsify-ignore}
 
@@ -20,8 +20,8 @@ Nous allons maintenant placer les fichiers Homebrew nécessaires sur la carte SD
 
 1. Insérez la carte SD de votre Wii U dans votre PC.
 1. Copiez le contenu du fichier `wuphax.zip` vers la racine de votre carte SD.
-1. Copy the `boot.elf` file from the <code>hackmii_<wbr>installer_<wbr>v1.2<wbr>.zip</code> file to the root of your SD Card.
-1. Copy the `apps` folder from the <code>Patched_<wbr>IOS80_<wbr>Installer_<wbr>for_<wbr>vWii<wbr>.zip</code> file to the root of your SD Card.
+1. Copiez le fichier `boot.elf` du fichier <code>hackmii_<wbr>installer_<wbr>v1.2<wbr>.zip</code> vers la racine de votre carte SD.
+1. Copiez le dossier `apps` du fichier <code>Patched_<wbr>IOS80_<wbr>Installer_<wbr>for_<wbr>vWii<wbr>.zip</code> vers la racine de votre carte SD.
 1. Copiez le contenu du fichier <code>d2x_<wbr>cIOS_<wbr>Installer<wbr>.zip</code> vers la racine de votre carte SD.
 1. Copiez le contenu du fichier `nanddumper.zip` vers la racine de votre carte SD.
 1. Copiez le contenu du fichier <code>homebrew_<wbr>launcher.<wbr>v1.4.zip</code> vers la racine de votre carte SD.
