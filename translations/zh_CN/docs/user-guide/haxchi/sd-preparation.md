@@ -4,7 +4,7 @@
 
 我们现在需要把一些 CFW 需要使用到的文件放进你的 SD 卡。
 
-?> **注意** 你的 SD 卡需要被格式化为 FAT32。 If your SD Card is not formatted to FAT32, use [GUIFormat](https://web.archive.org/web/20200930150014/http://www.ridgecrop.demon.co.uk/guiformat.exe) with 32k (32768) allocation unit size to format it. 建议不要将 SD 卡卷标命名为 `wiiu` 或 `haxchi`，因为它可能会引起一些程序的问题。
+?> **注意** 你的 SD 卡需要被格式化为 FAT32。 如果你的 SD 卡的格式不是 FAT32，则你需要用 [GUIFormat](https://web.archive.org/web/20200930150014/http://www.ridgecrop.demon.co.uk/guiformat.exe) 格式化，格式化时请将分配单元大小设置为 32k（32768）。 建议不要将 SD 卡卷标命名为 `wiiu` 或 `haxchi`，因为它可能会引起一些程序的问题。
 
 ### 你需要准备些啥？ {docsify-ignore}
 
