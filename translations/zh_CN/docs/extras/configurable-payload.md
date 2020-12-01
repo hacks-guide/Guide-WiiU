@@ -1,6 +1,6 @@
 # 可配置的 Payload
 ---
-像 Haxchi 一样，这个 playload 是可以配置的。 这可能对使用 Mocha 的用户非常有用，因为它节省了一点从 Homebrew Launcher 启动 Mocha 的时间。
+像 Haxchi 一样，这个 payload 是可以配置的。 这可能对使用 Mocha 的用户非常有用，因为它节省了一点从 Homebrew Launcher 启动 Mocha 的时间。
 
 ### 你需要准备些啥？ {docsify-ignore}
 
