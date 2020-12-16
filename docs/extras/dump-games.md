@@ -135,7 +135,7 @@ Dumping your Discs allows you to install a copy of your game to the system NAND/
 ### Instructions {docsify-ignore}
 
 1. Extract Dumpling to the root of your SD card.
-1. If dumping to a USB, insert the USB. If dumping a game disc, also insert that beforehand.
+1. If dumping to a USB, insert the USB (and Y-Cable if needed). If dumping a game disc, also insert that beforehand.
 
 !> Do not format the USB for the Wii U. Doing so will render the USB unusable for Dumpling!
 
