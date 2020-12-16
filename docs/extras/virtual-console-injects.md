@@ -154,7 +154,7 @@ Virtual Console Injects allow you to play your iso's on the Wii U's Virtual Cons
 
 #### **TGFX**
 
-### TBGX Virtual Console
+### TGFX Virtual Console
 
 ### Instructions
 
