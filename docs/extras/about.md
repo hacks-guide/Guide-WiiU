@@ -47,3 +47,4 @@ This guide was written by staff members of the [Nintendo Homebrew Discord Server
 >
 > - **GabyPCgeeK** and **Ryuzaki-MrL** for [SaveMii Mod](https://github.com/GabyPCgeeK/savemii).
 >
+> - **NicoAICP** for [Ultimate Wii U Virtual Console Injector (UWUVCI)](https://gbatemp.net/threads/release-uwuvci-injectiine.486781/).
