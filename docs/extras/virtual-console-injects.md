@@ -263,6 +263,8 @@ Virtual Console Injects allow you to play your iso's on the Wii U's Virtual Cons
 
 <!-- tabs:end -->
 
+### Installing to the Wii U {docsify-ignore}
+
 1. Extract WUP Installer GX2 to the root of your SD card.
 1. Install the inject using the WUP Installer to either your NAND or a Wii U formatted USB.
 
