@@ -122,6 +122,32 @@ Dumping your Discs allows you to install a copy of your game to the system NAND/
 1. Take the USB device out of your Wii U and plug it into your PC.
 2. Delete the `WUP-X-XXXX` folder in the `install` directory on your USB device to free up space.
 
+#### **Dumping for Emulation**
+
+### Dumping for Emulation
+
+?> You can also play your discs on emulators by dumping the discs (and digital games) into a "code,content,meta" format.
+
+### What You Need {docsify-ignore}
+
+1. The latest version of [dumpling](https://github.com/emiyl/dumpling/releases/download/2.1.1/dumpling.zip).
+
+### Instructions {docsify-ignore}
+
+1. Extract Dumpling to the root of your SD card.
+1. If dumping to a USB, insert the USB. If dumping a game disc, also insert that beforehand.
+
+!> Do not format the USB for the Wii U. Doing so will render the USB unusable for Dumpling!
+
+1. Launch Dumpling from the Homebrew Channel.
+1. Select whether you want to dump a digital game or a game disc.
+1. Select all the games you would like to dump and then press A.
+  - If dumping a disc, skip this step.
+1. Select the destination you want to dump to and the account you want to dump with and select "Start".
+1. The application will now start dumping your games.
+
+!> Do not unplug the USB while the application is dumping to a USB!
+
 <!-- tabs:end -->
 
 ### Moving Games To USB
