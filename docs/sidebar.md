@@ -14,6 +14,7 @@
 - [Dumping Wii U Discs](dump-games)
 - [Dumping Wii Discs](dump-wii-games)
 - [Uninstall CBHC](uninstall-cbhc)
+- [Virtual Console Injects](virtual-console-injects)
 - [Uninstall Indexiine](uninstall-indexiine)
 - [Frequently Asked Questions](faq)
 - **Links**
