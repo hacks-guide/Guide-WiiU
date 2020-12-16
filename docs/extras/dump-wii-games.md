@@ -1,8 +1,14 @@
 # Dumping Wii Discs
 ---
-Dumping your Discs allows you to: play them on a Wii emulator (namely Dolphin), play them using a USB/SD Card loader such as Wiiflow, make Virtual Console injects that can be installed on a Wii U formatted USB drive or the NAND and launched from the Wii U Menu.
+Dumping your Discs allows you to: play them on a Wii emulator (namely Dolphin), play them using a USB/SD Card loader such as Wiiflow, make [Virtual Console Injects](virtual-console-injects) that can be installed on a Wii U formatted USB drive or the NAND and launched from the Wii U Menu.
 
 ?> Dumping Wii games require a working homebrew setup on vWii, so make sure to finish the [vWii Modding guide](vwii-modding) beforehand.
+
+<!-- tabs:start -->
+
+#### **Dumping to SD/USB**
+
+### Dumping to SD/USB
 
 ### What You Need {docsify-ignore}
 
@@ -37,7 +43,35 @@ Dumping your Discs allows you to: play them on a Wii emulator (namely Dolphin), 
 
 ?> Be prepared to wait a while. The dumping process can take 30 minutes to 1 hour depending on your SD Card's speeds.
 
-### Joining Split Files
+#### **Dumping over a network**
+
+### Dumping over a Network
+
+?> Your Wii U and your device must be located on the same network.
+
+### What You Need {docsify-ignore}
+
+1. The latest release of [DVD Dump Tool](https://wii.guide/assets/files/DVDDumpTool.zip).
+
+### Instructions {docsify-ignore}
+
+1. Extract DVD Dump Tool to the `apps` folder on your SD card.
+1. Launch the DVD Dump Tool on the HBC in vWii.
+1. Scroll using the D-Pad until you reach "Wi-Fi Connection". Press A.
+1. Go [on this page](https://wiki.dolphin-emu.org/index.php?title=Category:Dual_Layer_Disc_games) to see if your disc is dual-layered.
+1. Scroll through and select either `Single Layer` or `Dual Layer` (Select `Dual Layer` if your disc is dual-layered).
+
+?> GCN Discs cannot be dumped using this tool, as the Wii U cannot play GCN discs.
+
+1. Now, place your disc into the Wii U. If your disc was already in the console, eject the disc and reinsert the disc.
+1. Next, remember the URL that is shown on the screen. On your device, type in that URL and click "Download XXXX.iso".
+1. The dumping process will now begin.
+
+?> Be prepared to wait a while. The dumping process can take a very long time based on whether you are dumping a Single Layer or Dual Layer Disc.
+
+<!-- tabs:end -->
+
+### Joining Split Files (Only for Cleanrip)
 
 ?> If you dumped the disc on a FAT32 formatted, device, you should've got at least 2 files that end with `.partX.iso`. They need to be joined up.
 
