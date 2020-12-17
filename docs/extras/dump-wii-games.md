@@ -73,7 +73,7 @@ Dumping your Discs allows you to: play them on a Wii emulator (namely Dolphin), 
 
 ### Joining Split Files (Only for Cleanrip)
 
-?> If you dumped the disc on a FAT32 formatted, device, you should've got at least 2 files that end with `.partX.iso`. They need to be joined up.
+?> If you dumped the disc on a FAT32 formatted device, you should've got at least 2 files that end with `.partX.iso`. They need to be joined up.
 
 1. Copy all the files that share the same name and end with `.partX.iso` in a folder on your computer.
 1. Open up a Command Prompt window.
