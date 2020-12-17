@@ -43,7 +43,7 @@ Dumping your Discs allows you to: play them on a Wii emulator (namely Dolphin), 
 
 ?> Be prepared to wait a while. The dumping process can take 30 minutes to 1 hour depending on your SD Card's speeds.
 
-#### **Dumping over a network**
+#### **Dumping over a Network**
 
 ### Dumping over a Network
 
