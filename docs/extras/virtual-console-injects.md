@@ -33,7 +33,7 @@ Virtual Console Injects allow you to play your iso's on the Wii U's Virtual Cons
   - The icon image is the image that you will see on the Wii U menu. If nothing is selected, a default icon will be used.
   - The TV image is the image that will show up while your title is loading. If nothing is selected, a default image will be used.
   - The gamepad image is optional. It is the image that will be shown on the gamepad while the title is loading. If nothing is selected, the TV image is used.
-  - The logo image
+  - The logo image is optional. It is the image that is displayed in the top left corner. If nothing is selected, the Nintendo logo is used.
   - The boot sound is optional. It is the sound that will be played while the title is loading. If nothing is selected, the default sound is used.
 1. Enter in your inject's name. If you would like to add a second line, use a | to seperate the two lines.
 1. Select "Inject". Your ROM will be injected into the base ROM. This may take a little while, based on how large your ROM is.
@@ -60,7 +60,7 @@ Virtual Console Injects allow you to play your iso's on the Wii U's Virtual Cons
   - The icon image is the image that you will see on the Wii U menu. If nothing is selected, a default icon will be used.
   - The TV image is the image that will show up while your title is loading. If nothing is selected, a default image will be used.
   - The gamepad image is optional. It is the image that will be shown on the gamepad while the title is loading. If nothing is selected, the TV image is used.
-  - The logo image
+  - The logo image is optional. It is the image that is displayed in the top left corner. If nothing is selected, the Nintendo logo is used.
   - The boot sound is optional. It is the sound that will be played while the title is loading. If nothing is selected, the default sound is used.
 1. Enter in your inject's name. If you would like to add a second line, use a | to seperate the two lines.
 1. Select "Inject". Your ROM will be injected into the base ROM. This may take a little while, based on how large your ROM is.
@@ -87,7 +87,7 @@ Virtual Console Injects allow you to play your iso's on the Wii U's Virtual Cons
   - The icon image is the image that you will see on the Wii U menu. If nothing is selected, a default icon will be used.
   - The TV image is the image that will show up while your title is loading. If nothing is selected, a default image will be used.
   - The gamepad image is optional. It is the image that will be shown on the gamepad while the title is loading. If nothing is selected, the TV image is used.
-  - The logo image
+  - The logo image is optional. It is the image that is displayed in the top left corner. If nothing is selected, the Nintendo logo is used.
   - The boot sound is optional. It is the sound that will be played while the title is loading. If nothing is selected, the default sound is used.
 1. Enter in your inject's name. If you would like to add a second line, use a | to seperate the two lines.
 1. Select "Inject". Your ROM will be injected into the base ROM. This may take a little while, based on how large your ROM is.
@@ -114,7 +114,7 @@ Virtual Console Injects allow you to play your iso's on the Wii U's Virtual Cons
   - The icon image is the image that you will see on the Wii U menu. If nothing is selected, a default icon will be used.
   - The TV image is the image that will show up while your title is loading. If nothing is selected, a default image will be used.
   - The gamepad image is optional. It is the image that will be shown on the gamepad while the title is loading. If nothing is selected, the TV image is used.
-  - The logo image
+  - The logo image is optional. It is the image that is displayed in the top left corner. If nothing is selected, the Nintendo logo is used.
   - The boot sound is optional. It is the sound that will be played while the title is loading. If nothing is selected, the default sound is used.
 1. Enter in your inject's name. If you would like to add a second line, use a | to seperate the two lines.
 1. Select "Inject". Your ROM will be injected into the base ROM. This may take a little while, based on how large your ROM is.
@@ -141,7 +141,7 @@ Virtual Console Injects allow you to play your iso's on the Wii U's Virtual Cons
   - The icon image is the image that you will see on the Wii U menu. If nothing is selected, a default icon will be used.
   - The TV image is the image that will show up while your title is loading. If nothing is selected, a default image will be used.
   - The gamepad image is optional. It is the image that will be shown on the gamepad while the title is loading. If nothing is selected, the TV image is used.
-  - The logo image
+  - The logo image is optional. It is the image that is displayed in the top left corner. If nothing is selected, the Nintendo logo is used.
   - The boot sound is optional. It is the sound that will be played while the title is loading. If nothing is selected, the default sound is used.
 1. Enter in your inject's name. If you would like to add a second line, use a | to seperate the two lines.
 1. Select "Inject". Your ROM will be injected into the base ROM. This may take a little while, based on how large your ROM is.
@@ -168,7 +168,7 @@ Virtual Console Injects allow you to play your iso's on the Wii U's Virtual Cons
   - The icon image is the image that you will see on the Wii U menu. If nothing is selected, a default icon will be used.
   - The TV image is the image that will show up while your title is loading. If nothing is selected, a default image will be used.
   - The gamepad image is optional. It is the image that will be shown on the gamepad while the title is loading. If nothing is selected, the TV image is used.
-  - The logo image
+  - The logo image is optional. It is the image that is displayed in the top left corner. If nothing is selected, the Nintendo logo is used.
   - The boot sound is optional. It is the sound that will be played while the title is loading. If nothing is selected, the default sound is used.
 1. Enter in your inject's name. If you would like to add a second line, use a | to seperate the two lines.
 1. Select "Inject". Your ROM will be injected into the base ROM. This may take a little while, based on how large your ROM is.
@@ -195,7 +195,7 @@ Virtual Console Injects allow you to play your iso's on the Wii U's Virtual Cons
   - The icon image is the image that you will see on the Wii U menu. If nothing is selected, a default icon will be used.
   - The TV image is the image that will show up while your title is loading. If nothing is selected, a default image will be used.
   - The gamepad image is optional. It is the image that will be shown on the gamepad while the title is loading. If nothing is selected, the TV image is used.
-  - The logo image
+  - The logo image is optional. It is the image that is displayed in the top left corner. If nothing is selected, the Nintendo logo is used.
   - The boot sound is optional. It is the sound that will be played while the title is loading. If nothing is selected, the default sound is used.
 1. Enter in your inject's name. If you would like to add a second line, use a | to seperate the two lines.
 1. Select "Inject". Your ROM will be injected into the base ROM. This may take a little while, based on how large your ROM is.
@@ -222,7 +222,7 @@ Virtual Console Injects allow you to play your iso's on the Wii U's Virtual Cons
   - The icon image is the image that you will see on the Wii U menu. If nothing is selected, a default icon will be used.
   - The TV image is the image that will show up while your title is loading. If nothing is selected, a default image will be used.
   - The gamepad image is optional. It is the image that will be shown on the gamepad while the title is loading. If nothing is selected, the TV image is used.
-  - The logo image
+  - The logo image is optional. It is the image that is displayed in the top left corner. If nothing is selected, the Nintendo logo is used.
   - The boot sound is optional. It is the sound that will be played while the title is loading. If nothing is selected, the default sound is used.
 1. Enter in your inject's name. If you would like to add a second line, use a | to seperate the two lines.
 1. Select "Inject". Your ROM will be injected into the base ROM. This may take a little while, based on how large your ROM is.
@@ -250,7 +250,7 @@ Virtual Console Injects allow you to play your iso's on the Wii U's Virtual Cons
   - The icon image is the image that you will see on the Wii U menu. If nothing is selected, a default icon will be used.
   - The TV image is the image that will show up while your title is loading. If nothing is selected, a default image will be used.
   - The gamepad image is optional. It is the image that will be shown on the gamepad while the title is loading. If nothing is selected, the TV image is used.
-  - The logo image
+  - The logo image is optional. It is the image that is displayed in the top left corner. If nothing is selected, the Nintendo logo is used.
   - The boot sound is optional. It is the sound that will be played while the title is loading. If nothing is selected, the default sound is used.
 1. Enter in your inject's name. If you would like to add a second line, use a | to seperate the two lines.
 1. Select "Inject". Your ROM will be injected into the base ROM. This may take a little while, based on how large your ROM is.
