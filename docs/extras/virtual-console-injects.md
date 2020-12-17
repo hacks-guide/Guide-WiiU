@@ -242,7 +242,7 @@ Virtual Console Injects allow you to play your iso's on the Wii U's Virtual Cons
 1. Select the GCN logo in the sidebar of UWUVCI.
 1. Select a base from the dropdown menu. The base ROM is the base game that the console will see. Your new ROM will replace the base ROM.
 1. If it is your first time using UWUVCI, choose "Enter CKey" and select "Read from otp.bin". Then, select "Check".
-1. If you have not downloaded the base ROM before, select "Enter TKey". Enter the Title Key for the Base ROM that you selected. To do this, download the base ROM from the eshop, and then use [Tik2SD](https://github.com/FIX94/tik2sd/releases/download/v1.1u2/tik2sd.elf) to get the titlekey. Click "Check". 
+1. If you have not downloaded the base ROM before, select "Enter TKey". Enter the Title Key for the Base ROM that you selected. Click "Check". 
 1. If you have never downloaded the ROM before, select "Download".
 1. Select your ROM by clicking "Select File" and selecting your ROM. The formats supported are .iso, .gcm, .nkit.iso or .nkit.gzm.
 1. If you have a 2nd Gamecube Disc, click "Select File" and select your ROM. If this does not apply to you, leave the prompt blank.
