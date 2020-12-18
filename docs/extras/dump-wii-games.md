@@ -1,6 +1,6 @@
 # Dumping Wii Discs
 ---
-Dumping your Discs allows you to: play them on a Wii emulator (namely Dolphin), play them using a USB/SD Card loader such as Wiiflow, make [Virtual Console Injects](virtual-console-injects) that can be installed on a Wii U formatted USB drive or the NAND and launched from the Wii U Menu.
+Dumping your Discs allows you to: play them on a Wii emulator (namely Dolphin), play them using a USB/SD Card loader such as Wiiflow, make Virtual Console Injects that can be installed on a Wii U formatted USB drive or the NAND and launched from the Wii U Menu.
 
 ?> Dumping Wii games require a working homebrew setup on vWii, so make sure to finish the [vWii Modding guide](vwii-modding) beforehand.
 
