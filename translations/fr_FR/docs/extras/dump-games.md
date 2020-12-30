@@ -17,8 +17,8 @@ Dumper vos disques vous permet d'installer une copie de votre jeu sur la NAND / 
 ### Ce dont vous avez besoin {docsify-ignore}
 
 - Votre carte SD a besoin de suffisamment d'espace pour stocker le jeu que vous voulez dumper.
-- La dernière version de [WUP Installer GX2](http://wiiubru.com/appstore/zips/wup_installer_gx2.zip).
-- L'application Homebrew [disc2app](http://www.wiiubru.com/appstore/zips/disc2app.zip).
+- The latest release of [WUP Installer GX2](https://wiiubru.com/appstore/zips/wup_installer_gx2.zip).
+- The [disc2app](https://www.wiiubru.com/appstore/zips/disc2app.zip) homebrew application.
 
 ### Instructions {docsify-ignore}
 
@@ -51,8 +51,8 @@ Dumper vos disques vous permet d'installer une copie de votre jeu sur la NAND / 
 
 - Votre carte SD a besoin de suffisamment d'espace pour stocker le jeu que vous voulez dumper.
 - Un disque dur USB (+ un câble en Y si nécessaire)
-- La dernière version de [WUP Installer GX2](http://wiiubru.com/appstore/zips/wup_installer_gx2.zip)
-- L'application Homebrew [disc2app](http://www.wiiubru.com/appstore/zips/disc2app.zip)
+- The latest release of [WUP Installer GX2](https://wiiubru.com/appstore/zips/wup_installer_gx2.zip)
+- The [disc2app](https://www.wiiubru.com/appstore/zips/disc2app.zip) Homebrew app
 
 ### Instructions {docsify-ignore}
 
@@ -84,8 +84,8 @@ Dumper vos disques vous permet d'installer une copie de votre jeu sur la NAND / 
 ### Ce dont vous avez besoin {docsify-ignore}
 
 - Un périphérique de stockage USB (+un câble Y si nécessaire) avec suffisamment d'espace pour s'adapter au jeu que vous voulez dumper.
-- La dernière version de [WUP Installer GX2](http://wiiubru.com/appstore/zips/wup_installer_gx2.zip)
-- L'application Homebrew [disc2app](http://www.wiiubru.com/appstore/zips/disc2app.zip).
+- The latest release of [WUP Installer GX2](https://wiiubru.com/appstore/zips/wup_installer_gx2.zip)
+- The [disc2app](https://www.wiiubru.com/appstore/zips/disc2app.zip) Homebrew app.
 - L'application Homebrew [Mocha FAT32](https://www.wiiubru.com/appstore/zips/mocha_fat32.zip).
 - La version 1.4 de [l'Homebrew Launcher](https://github.com/dimok789/homebrew_launcher/releases/tag/1.4)
   - Vous devrez télécharger la version 1.4 `homebrew_launcher.v1.4.zip` de l'Homebrew Launcher.
