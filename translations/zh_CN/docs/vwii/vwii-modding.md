@@ -8,7 +8,7 @@
 
 ### 你需要准备些啥？ {docsify-ignore}
 
-- 最新版 [Wuphax](http://wiiubru.com/appstore/zips/wuphax.zip)。
+- The latest release of [Wuphax](https://wiiubru.com/appstore/zips/wuphax.zip).
 - 最新版 [Wii U NAND Dumper](https://github.com/koolkdev/wiiu-nanddumper/releases/latest)。
 - 最新版 [HackMii Installer](https://bootmii.org/download/)。
 - vWii 的 <a href="docs/files/Patched_IOS80_Installer_for_vWii.zip" download>Patched IOS 80 Installer</a>。

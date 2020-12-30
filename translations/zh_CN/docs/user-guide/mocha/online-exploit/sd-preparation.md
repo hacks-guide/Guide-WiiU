@@ -13,7 +13,7 @@
   - 你需要下载 `payload.zip` 文件。
 - 1.4 版的 [The Homebrew Launcher](https://github.com/dimok789/homebrew_launcher/releases/tag/1.4)。
   - 你需要下载 v1.4 `homebrew_launcher.v1.4.zip` 的 Homebrew Launcher。
-- 最新版 [WUP Installer GX2](http://wiiubru.com/appstore/zips/wup_installer_gx2.zip)。
+- The latest release of [WUP Installer GX2](https://wiiubru.com/appstore/zips/wup_installer_gx2.zip).
 - 最新版 [Wii U NAND Dumper](https://github.com/koolkdev/wiiu-nanddumper/releases/latest)。
 - 最新版 [Homebrew App Store](https://github.com/vgmoose/hbas/releases/latest)。
   - 你需要下载 `wiiu-extracttosd.zip` 文件。

@@ -17,8 +17,8 @@ Ved å Dumpe en Wii U Disk, kan du installere en kopi av spillet til system NAND
 ### Dette Trenger Du {docsify-ignore}
 
 - SD-kortet må ha nok plass til spillet du vil dumpe.
-- Siste utgave av [WUP Installer GX2](http://wiiubru.com/appstore/zips/wup_installer_gx2.zip).
-- Homebrew appen [disc2app](http://www.wiiubru.com/appstore/zips/disc2app.zip).
+- The latest release of [WUP Installer GX2](https://wiiubru.com/appstore/zips/wup_installer_gx2.zip).
+- The [disc2app](https://www.wiiubru.com/appstore/zips/disc2app.zip) homebrew application.
 
 ### Instruksjoner {docsify-ignore}
 
@@ -51,8 +51,8 @@ Ved å Dumpe en Wii U Disk, kan du installere en kopi av spillet til system NAND
 
 - SD-kortet må ha nok plass til spillet du vil dumpe.
 - En USB-lagringsenhet (+ en Y-kabel hvis nødvendig)
-- Siste utgave av [WUP Installer GX2](http://wiiubru.com/appstore/zips/wup_installer_gx2.zip)
-- Homebrew appen [disc2app](http://www.wiiubru.com/appstore/zips/disc2app.zip)
+- The latest release of [WUP Installer GX2](https://wiiubru.com/appstore/zips/wup_installer_gx2.zip)
+- The [disc2app](https://www.wiiubru.com/appstore/zips/disc2app.zip) Homebrew app
 
 ### Instruksjoner {docsify-ignore}
 
@@ -84,8 +84,8 @@ Ved å Dumpe en Wii U Disk, kan du installere en kopi av spillet til system NAND
 ### Dette Trenger Du {docsify-ignore}
 
 - En USB-lagringsenhet (+en Y-kabel hvis nødvendig) med nok lagringsplass til å ta imot spillet du vil dumpe.
-- Siste utgave av [WUP Installer GX2](http://wiiubru.com/appstore/zips/wup_installer_gx2.zip)
-- Homebrew appen [disc2app](http://www.wiiubru.com/appstore/zips/disc2app.zip).
+- The latest release of [WUP Installer GX2](https://wiiubru.com/appstore/zips/wup_installer_gx2.zip)
+- The [disc2app](https://www.wiiubru.com/appstore/zips/disc2app.zip) Homebrew app.
 - Homebrew appen [MochaFAT32](https://www.wiiubru.com/appstore/zips/mocha_fat32.zip).
 - [Homebrew Launcher](https://github.com/dimok789/homebrew_launcher/releases/tag/1.4) Versjon 1.4
   - Du må laste ned `homebrew_launcher.v.1.4.zip`.
