@@ -4,7 +4,7 @@
 
 Her vil vi plassere de nødvendige CFW-filene og noen ekstra homebrew filer på SD-kortet.
 
-?> **Merk** SD-kortet ditt må formateres til FAT32. If your SD Card is not formatted to FAT32, use [GUIFormat](https://web.archive.org/web/20200930150014/http://www.ridgecrop.demon.co.uk/guiformat.exe) with 32k (32768) allocation unit size to format it. Det anbefales at du ikke navngir SD kortet `wiiu` eller `haxchi` siden det kan forårsake problemer med noen apper.
+?> **Merk** SD-kortet ditt må formateres til FAT32. Hvis den ikke er formatert til FAT32, bør du bruke [GUIFormat](https://web.archive.org/web/20200930150014/http://www.ridgecrop.demon.co.uk/guiformat.exe) med 32k (32768) "Allocation unit size" for å formatere den. Det anbefales at du ikke navngir SD kortet `wiiu` eller `haxchi` siden det kan forårsake problemer med noen apper.
 
 ### Dette Trenger Du {docsify-ignore}
 
@@ -12,7 +12,7 @@ Her vil vi plassere de nødvendige CFW-filene og noen ekstra homebrew filer på 
   - Du må laste ned `payload.zip` filen.
 - [Homebrew Launcher](https://github.com/dimok789/homebrew_launcher/releases/tag/1.4) Versjon 1.4.
   - Du må laste ned `homebrew_launcher.v.1.4.zip`.
-- The latest release of [WUP Installer GX2](https://wiiubru.com/appstore/zips/wup_installer_gx2.zip).
+- Siste utgave av [WUP Installer GX2](https://wiiubru.com/appstore/zips/wup_installer_gx2.zip).
 - Siste utgave av [Homebrew Launcher Channel](https://github.com/GaryOderNichts/homebrew_launcher/releases/tag/v2.1_fix).
   - Du må laste ned `homebrew_launcher_channel.v2.1_fix.zip` filen.
 - Siste utgave av [Wii U NAND Dumper](https://github.com/koolkdev/wiiu-nanddumper/releases/latest).
