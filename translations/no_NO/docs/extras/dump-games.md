@@ -17,8 +17,8 @@ Ved å Dumpe en Wii U Disk, kan du installere en kopi av spillet til system NAND
 ### Dette Trenger Du {docsify-ignore}
 
 - SD-kortet må ha nok plass til spillet du vil dumpe.
-- The latest release of [WUP Installer GX2](https://wiiubru.com/appstore/zips/wup_installer_gx2.zip).
-- The [disc2app](https://www.wiiubru.com/appstore/zips/disc2app.zip) homebrew application.
+- Siste utgave av [WUP Installer GX2](https://wiiubru.com/appstore/zips/wup_installer_gx2.zip).
+- Homebrew appen [disc2app](https://www.wiiubru.com/appstore/zips/disc2app.zip).
 
 ### Instruksjoner {docsify-ignore}
 
@@ -51,8 +51,8 @@ Ved å Dumpe en Wii U Disk, kan du installere en kopi av spillet til system NAND
 
 - SD-kortet må ha nok plass til spillet du vil dumpe.
 - En USB-lagringsenhet (+ en Y-kabel hvis nødvendig)
-- The latest release of [WUP Installer GX2](https://wiiubru.com/appstore/zips/wup_installer_gx2.zip)
-- The [disc2app](https://www.wiiubru.com/appstore/zips/disc2app.zip) Homebrew app
+- Siste utgave av [WUP Installer GX2](https://wiiubru.com/appstore/zips/wup_installer_gx2.zip)
+- Homebrew appen [disc2app](https://www.wiiubru.com/appstore/zips/disc2app.zip)
 
 ### Instruksjoner {docsify-ignore}
 
@@ -84,15 +84,15 @@ Ved å Dumpe en Wii U Disk, kan du installere en kopi av spillet til system NAND
 ### Dette Trenger Du {docsify-ignore}
 
 - En USB-lagringsenhet (+en Y-kabel hvis nødvendig) med nok lagringsplass til å ta imot spillet du vil dumpe.
-- The latest release of [WUP Installer GX2](https://wiiubru.com/appstore/zips/wup_installer_gx2.zip)
-- The [disc2app](https://www.wiiubru.com/appstore/zips/disc2app.zip) Homebrew app.
+- Siste utgave av [WUP Installer GX2](https://wiiubru.com/appstore/zips/wup_installer_gx2.zip)
+- Homebrew appen [disc2app](https://www.wiiubru.com/appstore/zips/disc2app.zip).
 - Homebrew appen [MochaFAT32](https://www.wiiubru.com/appstore/zips/mocha_fat32.zip).
 - [Homebrew Launcher](https://github.com/dimok789/homebrew_launcher/releases/tag/1.4) Versjon 1.4
   - Du må laste ned `homebrew_launcher.v.1.4.zip`.
 
 ### Instruksjoner {docsify-ignore}
 
-?> **Merk** USB-lagringsenheten må formateres til FAT32. If your USB is not formatted to FAT32, use [GUIFormat](https://web.archive.org/web/20200930150014/http://www.ridgecrop.demon.co.uk/guiformat.exe) with 32k (32768) Allocation unit size to format it.
+?> **Merk** USB-lagringsenheten må formateres til FAT32. Hvis den ikke er formatert til FAT32, bruk [GUIFormat](https://web.archive.org/web/20200930150014/http://www.ridgecrop.demon.co.uk/guiformat.exe) med 32k (32768) Allocation unit size for å formatere den.
 
 1. Pakk ut `homebrew_launcher.v.1.4.zip` til roten av USB-pennen.
 1. Pakk ut `wup_installer_gx2.zip` til roten av USB-pennen.

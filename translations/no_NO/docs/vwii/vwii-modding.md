@@ -4,11 +4,11 @@ Denne siden vil hjelpe deg med å modifisere vWii.
 
 Vi starter med å plassere Homebrew filene du trenger på SD-kortet ditt.
 
-?> **Merk** SD-kortet ditt må formateres til FAT32. If your SD Card is not formatted to FAT32, use [GUIFormat](https://web.archive.org/web/20200930150014/http://www.ridgecrop.demon.co.uk/guiformat.exe) with 32k (32768) Allocation unit size to format it. Det anbefales at du ikke navngir SD kortet `wiiu` siden det kan forårsake problemer med noen apper.
+?> **Merk** SD-kortet ditt må formateres til FAT32. Hvis den ikke er formatert til FAT32, bør du bruke [GUIFormat](https://web.archive.org/web/20200930150014/http://www.ridgecrop.demon.co.uk/guiformat.exe) med 32k (32768) "Allocation unit size" for å formatere den. Det anbefales at du ikke navngir SD kortet `wiiu` siden det kan forårsake problemer med noen apper.
 
 ### Dette Trenger Du {docsify-ignore}
 
-- The latest release of [Wuphax](https://wiiubru.com/appstore/zips/wuphax.zip).
+- Siste utgave av [Wuphax](https://wiiubru.com/appstore/zips/wuphax.zip).
 - Siste utgave av [Wii U NAND Dumper](https://github.com/koolkdev/wiiu-nanddumper/releases/latest).
 - Siste utgave av [HackMii Installer](https://bootmii.org/download/).
 - <a href="docs/files/Patched_IOS80_Installer_for_vWii.zip" download>Patched IOS 80 Installer for vWii</a>.
