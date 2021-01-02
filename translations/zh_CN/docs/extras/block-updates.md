@@ -24,7 +24,7 @@
 
 ### DNS 屏蔽
 
-?> 这种方法比上面那种简单一些，推荐小白做这种方法。 然而这个方法会影响 eShop 的功能。 This can be worked around by running [NNUPatcher](https://www.wiiubru.com/appstore/zips/nnupatcher.zip) before starting the eShop.
+?> 这种方法比上面那种简单一些，推荐小白做这种方法。 然而这个方法会影响 eShop 的功能。 在启动 eShop 之前先运行 [NNUPatcher](https://www.wiiubru.com/appstore/zips/nnupatcher.zip) 可以解决这个问题。
 1. 将 SD 卡插入电脑。
 1. 复制 `nnupatcher.zip` 里的文件到你的 SD 卡根目录。 如果有覆盖提示，请点击覆盖所有已存在的文件。
 1. Plug the SD Card into your Wii U console and power it on.
