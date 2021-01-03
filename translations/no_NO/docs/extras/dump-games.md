@@ -92,7 +92,7 @@ Ved å Dumpe en Wii U Disk, kan du installere en kopi av spillet til system NAND
 
 ### Instruksjoner {docsify-ignore}
 
-?> **Merk** USB-lagringsenheten må formateres til FAT32. Hvis den ikke er formatert til FAT32, bruk [GUIFormat](https://web.archive.org/web/20200930150014/http://www.ridgecrop.demon.co.uk/guiformat.exe) med 32k (32768) Allocation unit size for å formatere den.
+?> **Merk** USB-lagringsenheten må formateres til FAT32. If your USB is not formatted to FAT32, use [GUIFormat](http://ridgecrop.co.uk/index.htm?guiformat.htm) with 32k (32768) Allocation unit size to format it.
 
 1. Pakk ut `homebrew_launcher.v.1.4.zip` til roten av USB-pennen.
 1. Pakk ut `wup_installer_gx2.zip` til roten av USB-pennen.
