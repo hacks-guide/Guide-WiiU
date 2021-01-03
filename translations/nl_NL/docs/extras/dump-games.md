@@ -92,7 +92,7 @@ Dumping your Discs allows you to install a copy of your game to the system NAND/
 
 ### Instructions {docsify-ignore}
 
-?> **Notice** Your USB device will need to be formatted as FAT32. If your USB is not formatted to FAT32, use [GUIFormat](https://web.archive.org/web/20200930150014/http://www.ridgecrop.demon.co.uk/guiformat.exe) with 32k (32768) Allocation unit size to format it.
+?> **Notice** Your USB device will need to be formatted as FAT32. If your USB is not formatted to FAT32, use [GUIFormat](http://ridgecrop.co.uk/index.htm?guiformat.htm) with 32k (32768) Allocation unit size to format it.
 
 1. Copy the contents of the `homebrew_launcher.v.1.4.zip` file to the root of your USB device.
 1. Copy the contents of the `wup_installer_gx2.zip` file to the root of your USB device.
