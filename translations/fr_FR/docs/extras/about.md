@@ -6,7 +6,7 @@ Ce guide a été rédigé par des membres du personnel du [Serveur Discord Ninte
 > 
 > **Elpunical, FlimFlam69, Flump, GaryOderNichts, Hiperhazz, huhen, ihaveahax/ihaveamac, Link5261, NoahAbc12345, Plailect, Profanity, et redcubie.**
 > 
-> Merci à [tout le monde](https://github.com/hacks-guide/Guide-WiiU/graphs/contributors) qui a contribué au guide sur GitHub.
+> Merci à [tous ceux](https://github.com/hacks-guide/Guide-WiiU/graphs/contributors) qui ont apporté leur contribution au guide sur GitHub.
 
 ?> [Vous pouvez trouver ce guide sur GitHub](https://github.com/hacks-guide/Guide-WiiU), Il est sous licence [ISC License](https://github.com/hacks-guide/Guide-WiiU/blob/master/LICENSE.md).
 
