@@ -92,7 +92,7 @@ Dumper vos disques vous permet d'installer une copie de votre jeu sur la NAND / 
 
 ### Instructions {docsify-ignore}
 
-?> **Notice** Votre périphérique USB devra être formaté en FAT32. If your USB is not formatted to FAT32, use [GUIFormat](http://ridgecrop.co.uk/index.htm?guiformat.htm) with 32k (32768) Allocation unit size to format it.
+?> **Notice** Votre périphérique USB devra être formaté en FAT32. Si votre périphérique USB n'est pas formaté en FAT32, utilisez [GUIFormat](http://ridgecrop.co.uk/index.htm?guiformat.htm) avec 32k (32768) en Taille d'unité d'allocation pour le formater.
 
 1. Copiez le contenu du fichier `homebrew_launcher.v.1.4.zip` vers la racine de votre périphérique USB.
 1. Copiez le contenu du fichier `wup_installer_gx2.zip` vers la racine de votre périphérique USB.
