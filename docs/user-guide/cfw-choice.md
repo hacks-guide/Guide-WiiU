@@ -1,6 +1,6 @@
 # Choose The CFW You Want
 ---
-?> Before starting, make sure to update your Wii U console to the latest firmware (5.5.4 for European consoles, 5.5.3 for all other regions) if you haven't already.
+?> Before starting, make sure to update your Wii U console to the latest firmware (5.5.5) if you haven't already.
 
 There are two main custom firmwares: Haxchi/Coldboot Haxchi (usually abbreviated as "CBHC"), as well as Mocha.
 

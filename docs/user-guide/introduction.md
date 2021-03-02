@@ -40,7 +40,7 @@ This guide has the end goal of taking a completely unmodified Wii U from stock t
 !> Before beginning the guide, you must know the risks of Wii U hacking: **EVERY** time you modify your system, there is always the potential for an **UNRECOVERABLE** brick. They’re rare but still a possibility so make sure you follow **ALL** directions **EXACTLY!**
 
 >
-> This guide will work on all Wii U consoles in all regions on firmware 5.5.4 or below.
+> This guide will work on all Wii U consoles in all regions on firmware 5.5.5 or below.
 >
 > You will need the following in order to successfully follow this guide:
 >
