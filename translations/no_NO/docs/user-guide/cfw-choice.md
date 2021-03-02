@@ -1,6 +1,6 @@
 # Velg CFW løsningen du ønsker å bruke
 ---
-?> Før du starter, oppdater Wii U konsollen til siste firmware (5.5.4 for europeiske konsoller, og 5.5.3 for alle andre regioner) hvis du ikke har gjort det allerede.
+?> Before starting, make sure to update your Wii U console to the latest firmware (5.5.5) if you haven't already.
 
 Det er 2 hoved custom firmares: Haxchi/Coldboot Haxchi (vanligst forkortet som "CBHC") og Mocha.
 
