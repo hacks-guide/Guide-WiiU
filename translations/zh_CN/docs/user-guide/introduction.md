@@ -37,7 +37,7 @@ Homebrew 是由用户自制的且 Nintendo 没有授权的程序。 包括存档
 
 !> 在开始之前，你必须知道破解 Wii U 的风险：对系统做**任何**的修改都有可能造成**不可恢复的**砖机。 这很罕见但仍有可能发生，所以请你**正确**做好**每一步**操作。
 >
-> This guide will work on all Wii U consoles in all regions on firmware 5.5.5 or below.
+> 此教程适用于任何固件版本为（或小于）5.5.5 的 Wii U 主机，任何区域均可。
 > 
 > 为了成功地做完本手册，你需要准备以下物品：
 > 

@@ -1,6 +1,6 @@
 # 选择一个 CFW
 ---
-?> Before starting, make sure to update your Wii U console to the latest firmware (5.5.5) if you haven't already.
+?> 开始前，请将你的 Wii U 主机升级至最新固件（5.5.5）。
 
 这里有两种主流自制固件：Haxchi/Coldboot Haxchi（简称为“CBHC”）和 Mocha。
 

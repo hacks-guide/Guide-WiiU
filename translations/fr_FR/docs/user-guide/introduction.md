@@ -37,7 +37,7 @@ Ce guide a pour but final de faire passer une Wii U de "non modifiée" à "modif
 
 !> Avant de commencer le guide, vous devez connaître les risques du hacking de la Wii U : **CHAQUE** fois que vous modifiez votre console, il y a toujours la possibilité d'un brick **IRRÉCUPÉRABLE**. Ils sont rares mais restent une possibilité, alors assurez-vous de suivre **TOUTES** les instructions **À LA LETTRE!**
 >
-> This guide will work on all Wii U consoles in all regions on firmware 5.5.5 or below.
+> Ce guide fonctionnera sur toutes les consoles Wii U de toutes les régions en version 5.5.5 ou inférieure.
 > 
 > Vous aurez besoin de ce qui suit pour suivre ce tutoriel avec succès :
 > 
