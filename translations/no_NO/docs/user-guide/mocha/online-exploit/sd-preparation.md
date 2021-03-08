@@ -4,7 +4,7 @@
 
 Her vil vi plassere de nødvendige CFW-filene og noen ekstra homebrew filer på SD-kortet.
 
-?> **Merk** SD-kortet ditt må formateres til FAT32. If your SD Card is not formatted to FAT32, use [GUIFormat](http://ridgecrop.co.uk/index.htm?guiformat.htm) with 32k (32768) Allocation unit size to format it. Det anbefales at du ikke navngir SD kortet `wiiu` siden det kan forårsake problemer med noen apper.
+?> **Merk** SD-kortet ditt må formateres til FAT32. If your SD Card is not formatted to FAT32, use [GUIFormat](http://ridgecrop.co.uk/index.htm?guiformat.htm) with 32k (32768) Allocation unit size to format it. **Do not** label the SD Card as `wiiu` or it will cause issues with homebrew.
 
 ### Dette Trenger Du {docsify-ignore}
 
