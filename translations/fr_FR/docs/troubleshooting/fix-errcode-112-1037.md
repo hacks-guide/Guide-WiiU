@@ -28,7 +28,7 @@ Cette page vous guidera tout au long du processus de correction du code d'erreur
     - Exemple: <code>cd C:\Users\username<wbr>\Downloads</code>.
 1. Utilisez la commande suivante : `py -3 -i wupclient.py`.
 1. Entrez l'adresse IP de votre Wii U.
-    - Vous ne savez pas comment le trouver? Lisez [cela](find-wiiu-ip-address).
+    - Vous ne savez pas comment la trouver? Lisez [cela](find-wiiu-ip-address).
 1. Utilisez la commande appropriée en fonction de la région de votre console :
     - JPN : <code>w.chmod("/vol<wbr>/storage_mlc01<wbr>/sys/title/00050030<wbr>/1001200a/content<wbr>/pages<wbr>/index.html", 0x644)</code>.
     - USA: <code>w.chmod("/vol<wbr>/storage_mlc01<wbr>/sys/title/00050030<wbr>/1001210a/content<wbr>/pages<wbr>/index.html", 0x644)</code>.
@@ -49,7 +49,7 @@ Cette page vous guidera tout au long du processus de correction du code d'erreur
     - Sous Linux, l'endroit le plus courant pour trouver vos fichiers téléchargés est <code>/home/username<wbr>/Downloads</code>.
 1. Utilisez la commande suivante : `python3 -i wupclient.py`.
 1. Entrez l'adresse IP de votre Wii U.
-    - Vous ne savez pas comment le trouver? Lisez [cela](find-wiiu-ip-address).
+    - Vous ne savez pas comment la trouver? Lisez [cela](find-wiiu-ip-address).
 1. Utilisez la commande appropriée en fonction de la région de votre console :
     - JPN : <code>w.chmod("/vol<wbr>/storage_mlc01<wbr>/sys/title/00050030<wbr>/1001200a/content<wbr>/pages<wbr>/index.html", 0x644)</code>.
     - USA: <code>w.chmod("/vol<wbr>/storage_mlc01<wbr>/sys/title/00050030<wbr>/1001210a/content<wbr>/pages<wbr>/index.html", 0x644)</code>.
