@@ -4,7 +4,7 @@ Cette page vous guidera tout au long du processus de modding de votre vWii.
 
 Nous allons maintenant placer les fichiers Homebrew nécessaires sur la carte SD.
 
-?> **Remarque** Votre carte SD devra être formatée en FAT32. Si votre carte SD n'est pas formatée en FAT32, utilisez [GUIFormat](http://ridgecrop.co.uk/index.htm?guiformat.htm) avec 32k (32768) en Taille d'unité d'allocation pour la formater. **Do not** label the SD Card as `wiiu` or it will cause issues with homebrew.
+?> **Remarque** Votre carte SD devra être formatée en FAT32. Si votre carte SD n'est pas formatée en FAT32, utilisez [GUIFormat](http://ridgecrop.co.uk/index.htm?guiformat.htm) avec 32k (32768) en Taille d'unité d'allocation pour la formater. **Ne nommez pas** la carte SD en tant que `wiiu` ou cela causera des problèmes avec les homebrews.
 
 ### Ce dont vous avez besoin {docsify-ignore}
 
