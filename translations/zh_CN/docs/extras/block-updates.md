@@ -30,8 +30,8 @@
 1. Plug the SD Card into your Wii U console and power it on.
 1. 进入的 Wii U 的系统设置，并移动至`互联网（Internet） > 连接至互联网（Connect to the Internet） > 接入点列表（Connection List） >` `你的 WiFi 接入点（Your WiFi connection） > 更改设置（Change Settings） > DNS` 然后设置选项为 `不自动获取（Do not auto-obtain）`。
 1. 你会被分别要求输入一个首先 DNS 和备用 DNS。 输入以下 IP 地址：
- - 首选 DNS：168.235.092.108
- - 备用DNS：081.004.127.020 <img src="docs/assets/img/DNS.png" alt="DNS 屏蔽" />
+    - 首选 DNS：168.235.092.108
+    - 备用DNS：081.004.127.020 <img src="docs/assets/img/DNS.png" alt="DNS 屏蔽" />
 1. 点击确认。
 1. You are now blocking updates. 如果你想要启动 eShop，则你需要在 Homebrew Launcher 里运行 NNUPatcher 程序后再启动 eShop。
 

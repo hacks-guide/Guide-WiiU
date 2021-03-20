@@ -30,8 +30,8 @@ For tiden finnes det to måter å blokkere systemoppdateringer på Wii U:
 1. Sett SD-kortet inn i Wii U konsollen din og skru den på.
 1. På Wii U konsollen, gå inn på systeminnstillinger og naviger til `Internet > Connect to the Internet > Connection List >` `Your WiFi connection > Change Settings > DNS` og sett den til `Do not auto-obtain`.
 1. Du vil bli bedt om å legge inn en primær og sekundær DNS. Oppgi følgende IP adresser:
- - Primary DNS: 168.235.092.108
- - Secondary DNS: 081.004.127.020 <img src="docs/assets/img/DNS.png" alt="DNS-blokkering" />
+    - Primary DNS: 168.235.092.108
+    - Secondary DNS: 081.004.127.020 <img src="docs/assets/img/DNS.png" alt="DNS-blokkering" />
 1. Klikk på "confirm".
 1. Du blokkerer nå systemoppdateringer. Men for å få tilgang til eShop igjen, må du starte nnu-patcher appen fra Homebrew Launcher før du starter eShop.
 

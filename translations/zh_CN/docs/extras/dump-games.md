@@ -103,11 +103,11 @@
 1. 插入你的 USB 设备。 你的 Wii U 会提示你格式化它。 点击 No! 取消它。
 1. 打开 Homebrew Launcher 并启动 MochaFAT32 程序。
 1. 在配置菜单中，设置以下选项：
-  - Config view mode: default
-  - Skip this menu on launch: on
-  - Don't relaunch OS: off
-  - Launch System Menu: on
-  - RedNAND: off
+    - Config view mode: default
+    - Skip this menu on launch: on
+    - Don't relaunch OS: off
+    - Launch System Menu: on
+    - RedNAND: off
 1. 你的设备将与 USB 设备一并加载 Wii U 菜单，并以 USB 设备代替 SD 卡。
 1. 启动 Homebrew Launcher 并启动 disc2app 应用。
 1. 弹出任何已插入的游戏光盘，然后按下 A 键开始导出进程。

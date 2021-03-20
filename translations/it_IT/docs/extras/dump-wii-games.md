@@ -24,15 +24,15 @@ Dumpare i tuoi dischi ti permette di: giocarli su un emulatore Wii (come Dolphin
 1. Leggi le avvertenze e premi A.
 1. Seleziona Yes per abilitare Checksum Calculations.
 1. Seleziona lo USB o la SD a dipendenza del dispositivo che vuoi utilizzare per il processo di dumping.
- - Si prega di notare che il dispositivo che sceglierai deve essere formattato in FAT32 o NTFS.
+    - Si prega di notare che il dispositivo che sceglierai deve essere formattato in FAT32 o NTFS.
 1. Premi A per continuare.
 1. Seleziona No nella schermata che chiede di scaricare i file DAT di redump.org.
 1. Inserisci il tuo disco e premi A.
 1. Vai [su questa pagina](https://wiki.dolphin-emu.org/index.php?title=Category:Dual_Layer_Disc_games) per vedere se il tuo disco è a doppio strato.
 1. Imposta tutto in modo da corrispondere a quanto segue:
- - Dual Layer: `Yes/No` (Seleziona `Yes` se il tuo disco è a doppio strato)
- - Chunk Size: `Max`
- - New device per chunk: `No`
+    - Dual Layer: `Yes/No` (Seleziona `Yes` se il tuo disco è a doppio strato)
+    - Chunk Size: `Max`
+    - New device per chunk: `No`
 1. Se vuoi dumpare più dischi, seleziona Yes per memorizzare le impostazioni. In caso contrario, seleziona No.
 
 ?> Preparati ad aspettare un po'. Il processo di dumping può richiedere dai 30 minuti a 1 ora a dipendenza della velocità della tua scheda SD.

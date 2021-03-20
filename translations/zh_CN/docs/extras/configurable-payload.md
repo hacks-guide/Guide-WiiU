@@ -19,4 +19,4 @@
 1. 解压 `Configurable_Payload.zip` 到你的 SD 卡中的根目录中。 如果弹出了需要覆盖文件的提示，请选择覆盖。
 1. 将 SD 卡插入 Wii U，然后启动 Wii U 并打开 Wii U 的浏览器，然后访问 `wiiuexploit.xyz` 网站。
 1. 点击 `Run Homebrew Launcher!`。 如果一切正常，系统将会自动回到 Wii U 主菜单。 Mocha 现在已被启用，且你可以使用你早前安装的 Homebrew Launcher Channel。
- - 如果你的 Wii U 卡住不动或白屏了，请等一会。 如果什么都没有发生，那就重启主机后[重置浏览器保存的数据](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1507/~/how-to-delete-the-internet-browser-history)，然后再来一次。
+    - 如果你的 Wii U 卡住不动或白屏了，请等一会。 如果什么都没有发生，那就重启主机后[重置浏览器保存的数据](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1507/~/how-to-delete-the-internet-browser-history)，然后再来一次。

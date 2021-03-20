@@ -30,8 +30,8 @@ Actuellement, il existe deux moyens de bloquer les mises à jour sur le système
 1. Insérez la carte SD dans votre console Wii U et allumez-la.
 1. Entrez les paramètres du système de la Wii U et naviguez jusqu'à `Internet > Connexion à Internet > Liste des connexions >` `Votre connexion WiFi > Modifiez les paramètres > DNS` et réglez l'option sur `Ne pas obtenir automatiquement`.
 1. Il vous sera demandé de saisir un DNS primaire et un DNS secondaire. Entrez les adresses IP suivantes :
- - DNS primaire: 168.235.092.108
- - DNS secondaire: 081.004.127.020 <img src="docs/assets/img/DNS.png" alt="Blocage par DNS" />
+    - DNS primaire: 168.235.092.108
+    - DNS secondaire: 081.004.127.020 <img src="docs/assets/img/DNS.png" alt="Blocage par DNS" />
 1. Cliquez sur OK.
 1. Vous avez maintenant bloqué les mises à jour. Pour accéder à l'eShop, lancez l'application NNUPatcher à partir de l'Homebrew Launcher avant de lancer le Nintendo eShop.
 

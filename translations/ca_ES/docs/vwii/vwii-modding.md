@@ -35,11 +35,11 @@ In case anything goes wrong in the later process and your vWii ends up bricked, 
 1. Launch the [Homebrew Launcher](vwii/browser-exploit).
 1. Launch the `Wii U NAND Dumper` application.
 1. Use the Wii U GamePad's D-Pad to enter the following configuration:
- - Dump SLC: **optional**
- - Dump SLCCMPT: **yes**
- - Dump MLC: **optional**
- - Dump OTP: **yes**
- - Dump SEEPROM: **optional**
+    - Dump SLC: **optional**
+    - Dump SLCCMPT: **yes**
+    - Dump MLC: **optional**
+    - Dump OTP: **yes**
+    - Dump SEEPROM: **optional**
 1. Press the A button to start the dumping process.
 1. When the process completed, power off your Wii U, take your SD Card out of the Wii U and plug it into your PC.
 1. To make sure you don't lose the files, copy the `slccmpt.bin`, `otp.bin` and if you chose to go with a full backup, `seeprom.bin`, `slc.bin`, and `every mlc.bin.part` file to your computer.
@@ -51,10 +51,10 @@ In case anything goes wrong in the later process and your vWii ends up bricked, 
 1. Launch the [Homebrew Launcher](vwii/browser-exploit).
 1. Launch Wuphax.
 1. Press `A` to backup the Mii Channel and inject the Hackmii Installer then wait until it says <code>Successfully <wbr>injected <wbr>wuphax!</code>.
- - You will be taken back to the Wii U Menu after a few seconds.
+    - You will be taken back to the Wii U Menu after a few seconds.
 1. Launch vWii (the Wii Menu icon).
 1. Launch the vWii Mii Channel.
- - If Wuphax has successfully been injected, you will now see the scam warning screen.
+   - If Wuphax has successfully been injected, you will now see the scam warning screen.
 1. Wait until you see `Press 1 to continue` and then press the `1` button.
 1. Select `continue`, <code>Install <wbr>The <wbr>Homebrew <wbr>Channel</code> and `Yes, continue`.
 1. If The Homebrew Channel has successfully been installed, select `continue` and then `exit`.
@@ -62,8 +62,8 @@ In case anything goes wrong in the later process and your vWii ends up bricked, 
 1. Launch the [Homebrew Launcher](vwii/browser-exploit).
 1. Launch Wuphax.
 1. Press `B` to restore the Mii Channel then wait until it says <code>Mii <wbr>Channel <wbr>restored!</code>.
- - You will be taken back to the Wii U Menu after a few seconds.
- - If for some reason, you cannot restore your backup, you will need to [reinstall your Mii Channel](recover-vwii-ioses-channels).
+   - You will be taken back to the Wii U Menu after a few seconds.
+   - If for some reason, you cannot restore your backup, you will need to [reinstall your Mii Channel](recover-vwii-ioses-channels).
 
 ### Installing cIOSes
 
@@ -75,19 +75,19 @@ In case anything goes wrong in the later process and your vWii ends up bricked, 
 1. Launch The Homebrew Channel.
 1. Launch d2x cIOS Installer.
 1. Set everything to match the following:
- - Select cIOS: `v10 d2x-v10-beta52-vWii`
- - Select cIOS base: `56`
- - Select cIOS slot: `249`
+    - Select cIOS: `v10 d2x-v10-beta52-vWii`
+    - Select cIOS base: `56`
+    - Select cIOS slot: `249`
 1. Press the `A` button to install.
 1. Set everything to match the following:
- - Select cIOS: `v10 d2x-v10-beta52-vWii`
- - Select cIOS base: `57`
- - Select cIOS slot: `250`
+    - Select cIOS: `v10 d2x-v10-beta52-vWii`
+    - Select cIOS base: `57`
+    - Select cIOS slot: `250`
 1. Press the `A` button to install.
 1. Set everything to match the following:
- - Select cIOS: `v10 d2x-v10-beta52-vWii`
- - Select cIOS base: `58`
- - Select cIOS slot: `251`
+    - Select cIOS: `v10 d2x-v10-beta52-vWii`
+    - Select cIOS base: `58`
+    - Select cIOS slot: `251`
 1. Press the `A` button to install.
 1. Press the `B` button to exit.
 
