@@ -93,7 +93,7 @@ Au cas où quelque chose se passe mal dans le processus ultérieur et que votre 
 
 ### Patching de l'IOS 80
 
-> Si pour une raison quelconque, la Wii U est éteinte pendant la patching de l'IOS 80, votre vWii sera brickée. Cela peut être corrigé soit en extrayant l'IOS 80 de votre sauvegarde de la NAND précédemment créée, puis en le remplaçant par FTP, soit en [réinstallant l'IOS 80](recover-vwii-ioses-channels).
+!> Si pour une raison quelconque, la Wii U est éteinte pendant la patching de l'IOS 80, votre vWii sera brickée. Cela peut être corrigé soit en extrayant l'IOS 80 de votre sauvegarde de la NAND précédemment créée, puis en le remplaçant par FTP, soit en [réinstallant l'IOS 80](recover-vwii-ioses-channels).
 
 1. Lancez Patched IOS 80 Installer for vWii.
 1. Lisez l'écran d'avertissement et attendez 30 secondes.
