@@ -1,40 +1,40 @@
-# Choose The CFW You Want
+# Scegli il CFW Che Vuoi
 ---
-?> Before starting, make sure to update your Wii U console to the latest firmware (5.5.5) if you haven't already.
+?> Prima di iniziare, assicurati di aver aggiornato la tua Wii U al firmware più recente (5.5.5) se non l'hai già fatto.
 
-There are two main custom firmwares: Haxchi/Coldboot Haxchi (usually abbreviated as "CBHC"), as well as Mocha.
+Ci sono due CFW principali: Haxchi/CBHC, e anche Mocha.
 
-Haxchi/CBHC are both injected into a paid DS Virtual Console game. Haxchi will need to be manually started off the Wii U Menu to boot custom firmware, while CBHC will boot custom firmware automatically while the system is booting up. Mocha is accessed through the browser exploit or the Indexiine method, which makes it the only free custom firmware.
+Haxchi e CBHC vengono iniettati in un gioco pagato della Virtual Console del Nintendo DS. Haxchi dovrà essere avviato manualmente dal Menu Wii U, invece CBHC avvierà Haxchi automaticamente mentre il Wii U si avvierà. Mocha è accessibile dal browser con il metodo di Indexiine, quindi è l'unico custom firmware gratuito.
 
-The custom firmware you decide to use is ultimately **your** preference. There is no right or wrong custom firmware to go with, so it is recommended that you feel free to pick the one that sounds the best for your needs!
+Il custom firmware che userai sarà una **tua** preferenza. Non c'è nessun CFW giusto o sbagliato con cui continuare, quindi è raccomandato che tu ti sentirai libero di scegliere il tuo CFW, vedendo quale fa al caso tuo!
 
 ## Haxchi
 
-- Requires a legitimately installed, paid DS Virtual Console game from the eShop.
-- Can be used to launch CFW directly from the Wii U Menu.
-- Needs to be re-launched from the Wii U Menu every reboot to enable custom firmware.
-- Its functionality can be extended by installing Coldboot Haxchi (CBHC) to a Haxchi installation.
+- Richiede un gioco DS Virtual Console legittimo dall'eShop.
+- Può essere avviato direttamente dal menu Wii U.
+- Deve essere riavviato dal Menu Wii U ad ogni riavvio per abilitare il CFW.
+- La sua funzionalità può essere estesa installando CBHC su un installazione di Haxchi.
 
-### [**Continue with Haxchi**](haxchi/ds-vc-choice) {docsify-ignore}
+### [**Continua con Haxchi**](haxchi/ds-vc-choice) {docsify-ignore}
 
 ## CBHC
 
-!> Installing CBHC incorrectly can brick your Wii U! Make sure to follow the following rules when installing CBHC: <br>- The DS game has to be legitimately installed from the eShop! <br>- Don't format the system while CBHC is installed! <br>- Don't delete the user account that bought the DS Virtual Console game! <br>- Don't re-install the same game using WUP Installer or from the eShop! <br>- Don't install Haxchi over CBHC! (You will not brick, but it will cause a boot-loop! Hold A when booting to access the Homebrew Launcher and uninstall CBHC.) <br>- Don't uninstall the DS Virtual Console game without [properly uninstalling CBHC first](uninstall-cbhc)! <br>- Don't move the DS Virtual Console game to a USB drive!
+!> Installare CBHC in modo errato può brickare il tuo Wii U! Quindi assicurati di seguire queste regole nell'installazione di CBHC: <br>- Il gioco DS deve essere installato legittimamente dall'eShop! <br>- Non Formattare il sistema mentre CBHC è installato! <br>- Non eliminare l'account che ha comprato il gioco DS per Virtual Console! <br>- Non reinstallare lo stesso gioco utilizzando WUP Installer o l' eShop! <br>- Non installare Haxchi sopra CBHC! (Non brickerà, ma causerà un boot-loop! Tieni premuto A durante l'accesso all'Homebrew Launcher per disinstallare CBHC.) <br>- Non disinstallare il gioco DS Virtual Console senza prima [aver disinstallato correttamente CBHC](uninstall-cbhc)! <br>- Non spostare il gioco DS Virtual Console su un dispositivo USB!
 
-!> Breaking one of the above rules **can** result in a brick!
+!> Infrangere una di queste regole **può** causare un brick!
 
-> If you are worried about breaking one of these rules while using CBHC, consider setting up Parental Controls for your user! Blocking `Data Management` and setting `Game Rating` to the highest possible rating can help prevent common mistakes users may make when using CBHC. Check [here](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1081/~/how-to-change-parental-controls) for more information on how to change your Parental Controls settings.
+> Se sei preoccupato di violare una di queste regole durante l'uso di CBHC, considera l'uso del Filtro Famiglia per il tuo utente! Bloccare l'accesso a `Gestione Dati` e impostare la `Classificazione di gioco` alla valutazione più alta possibile, può aiutarti a prevenire errori che potresti fare quando utilizzi CBHC. Controlla [qui](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1081/~/how-to-change-parental-controls) per più informazioni su come cambiare le impostazioni del Filtro Famiglia.
 
-- Requires a legitimately installed paid DS Virtual Console game from the eShop.
-- Automatically launches custom firmware on every boot.
+- Richiede un gioco DS Virtual Console legittimo dall'eShop.
+- Avvia direttamente il custom firmware all'avvio.
 
-### [**Continue with CBHC**](cbhc/ds-vc-choice) {docsify-ignore}
+### [**Continua con CBHC**](cbhc/ds-vc-choice) {docsify-ignore}
 
 ## Mocha
 
-- Does not require any game, and is therefore free.
-- Needs to be re-launched through the browser exploit every reboot to enable custom firmware.
-- Is not compatible with the Homebrew Launcher Channel.
-- May require an Internet connection depending on what entry point you choose.
+- Non richiede alcun gioco, ed è quindi gratuito.
+- Deve essere riavviato da Indexiine, quindi dall'Homebrew Launcher ad ogni riavvio per abilitare il CFW.
+- Non è compatibile con il canale dell'Homebrew Channel.
+- Può richiedere una connessione a Internet a seconda di quale entry point si sceglie.
 
-### [**Continue with Mocha**](mocha/entrypoint-choice) {docsify-ignore}
+### [**Continua con Mocha**](mocha/entrypoint-choice) {docsify-ignore}
