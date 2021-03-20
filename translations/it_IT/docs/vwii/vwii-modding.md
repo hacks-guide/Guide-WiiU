@@ -6,7 +6,7 @@ We will now place the required Homebrew files on the SD Card.
 
 ?> **Notice** Your SD Card will need to be formatted as FAT32. If your SD Card is not formatted to FAT32, use [GUIFormat](http://ridgecrop.co.uk/index.htm?guiformat.htm) with 32k (32768) Allocation unit size to format it. **Do not** label the SD Card as `wiiu` or it will cause issues with homebrew.
 
-### What You Need {docsify-ignore}
+### Cosa ti servirà {docsify-ignore}
 
 - The latest release of [Wuphax](https://wiiubru.com/appstore/zips/wuphax.zip).
 - The latest release of [Wii U NAND Dumper](https://github.com/koolkdev/wiiu-nanddumper/releases/latest).
@@ -16,7 +16,7 @@ We will now place the required Homebrew files on the SD Card.
 - The [Homebrew Launcher](https://github.com/dimok789/homebrew_launcher/releases/download/1.4/homebrew_launcher.v1.4.zip).
 - The latest release of the [Homebrew Launcher Installer](https://github.com/wiiu-env/homebrew_launcher_installer/releases/download/v1.4/payload.zip).
 
-### Instructions {docsify-ignore}
+### Istruzioni {docsify-ignore}
 
 1. Insert your Wii U's SD Card into your PC.
 1. Copy the contents of the `wuphax.zip` file to the root of your SD Card.
@@ -26,7 +26,7 @@ We will now place the required Homebrew files on the SD Card.
 1. Copy the contents of the `nanddumper.zip` file to the root of your SD Card.
 1. Copy the contents of the <code>homebrew_<wbr>launcher.<wbr>v1.4.zip</code> file to the root of your SD Card.
 1. Copy the contents of the `payload.zip` file to the `wiiu` folder on your SD Card.
-1. Take the SD Card out of your computer and plug it into your Wii U console.
+1. Togli la scheda SD dal computer e inseriscila nella console Wii U.
 
 ### NAND Backup
 
@@ -44,7 +44,7 @@ In case anything goes wrong in the later process and your vWii ends up bricked, 
 1. When the process completed, power off your Wii U, take your SD Card out of the Wii U and plug it into your PC.
 1. To make sure you don't lose the files, copy the `slccmpt.bin`, `otp.bin` and if you chose to go with a full backup, `seeprom.bin`, `slc.bin`, and `every mlc.bin.part` file to your computer.
 1. Delete the files from your SD Card to free up space.
-1. Take the SD Card out of your computer and plug it into your Wii U console.
+1. Togli la scheda SD dal computer e inseriscila nella console Wii U.
 
 ### Wuphax
 
@@ -74,17 +74,17 @@ In case anything goes wrong in the later process and your vWii ends up bricked, 
 1. Power on your Wii U and launch vWii.
 1. Launch The Homebrew Channel.
 1. Launch d2x cIOS Installer.
-1. Set everything to match the following:
+1. Imposta tutto in modo da corrispondere a quanto segue:
  - Select cIOS: `v10 d2x-v10-beta52-vWii`
  - Select cIOS base: `56`
  - Select cIOS slot: `249`
 1. Press the `A` button to install.
-1. Set everything to match the following:
+1. Imposta tutto in modo da corrispondere a quanto segue:
  - Select cIOS: `v10 d2x-v10-beta52-vWii`
  - Select cIOS base: `57`
  - Select cIOS slot: `250`
 1. Press the `A` button to install.
-1. Set everything to match the following:
+1. Imposta tutto in modo da corrispondere a quanto segue:
  - Select cIOS: `v10 d2x-v10-beta52-vWii`
  - Select cIOS base: `58`
  - Select cIOS slot: `251`
