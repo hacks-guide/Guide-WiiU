@@ -12,11 +12,11 @@ In case anything should go wrong in the later process and your Wii U ends up bri
 
 1. Navigate through the Homebrew Launcher and launch the `Wii U NAND Dumper` app.
 1. Use the Wii U GamePad's D-Pad to enter the following configuration:
- - Dump SLC: **yes**
- - Dump SLCCMPT: **yes**
- - Dump MLC: **optional**
- - Dump OTP: **yes**
- - Dump SEEPROM: **yes**
+    - Dump SLC: **yes**
+    - Dump SLCCMPT: **yes**
+    - Dump MLC: **optional**
+    - Dump OTP: **yes**
+    - Dump SEEPROM: **yes**
 1. Press the A button to start the dumping process.
 1. When the process completed, power off your Wii U, take your SD Card out of the Wii U and plug it into your PC.
 1. To make sure you don't lose the files, copy the `slc.bin`, `slccmpt.bin`, `seeprom.bin`, `otp.bin` and if you chose to go with a full backup, `every mlc.bin.part` file to your computer.
