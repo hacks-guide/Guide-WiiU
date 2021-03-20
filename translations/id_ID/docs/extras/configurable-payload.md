@@ -19,4 +19,4 @@ This payload is configurable, similar to Haxchi's configuration. This could be v
 1. Extract the `Configurable_Payload.zip` file to the root of your SD Card. If it prompts you to overwrite the files on your SD Card, do so.
 1. Place the SD Card into your Wii U and launch the Internet Browser and navigate to the website `wiiuexploit.xyz`.
 1. Click on `Run Homebrew Launcher!`. If everything has been done correctly, you should be taken back to the Wii U Menu. Mocha has now been enabled and you can use the Homebrew Launcher Channel you installed earlier.
- - If your Wii U gets stuck on a white or otherwise frozen screen, wait a few seconds. If nothing happens, reboot the console, [reset the browser's save data](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1507/~/how-to-delete-the-internet-browser-history) and try again.
+    - If your Wii U gets stuck on a white or otherwise frozen screen, wait a few seconds. If nothing happens, reboot the console, [reset the browser's save data](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1507/~/how-to-delete-the-internet-browser-history) and try again.
