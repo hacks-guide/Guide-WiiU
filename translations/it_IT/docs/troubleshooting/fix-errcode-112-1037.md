@@ -2,13 +2,13 @@
 ---
 This page will guide you through the process of fixing the error code 112-1037.
 
-### What You Need {docsify-ignore}
+### Cosa ti servirà {docsify-ignore}
 
 - A working [homebrew installation](introduction).
 - [wupclient.py](https://raw.githubusercontent.com/Elpunical/mocha/master/ios_mcp/wupclient.py) **(right-click -> Save link as... -> Click Save).**
 - The latest release of [Python](https://www.python.org/downloads/).
 
-### Instructions {docsify-ignore}
+### Istruzioni {docsify-ignore}
 
 1. Install Python on your computer.
 
@@ -20,7 +20,7 @@ This page will guide you through the process of fixing the error code 112-1037.
 
 ### Windows
 
-1. Power on your Wii U.
+1. Accendi il tuo Wii U.
 1. Launch the Homebrew Launcher and launch Mocha.
 1. Go back to the Wii U Menu.
 1. Open up a command prompt window.
@@ -40,7 +40,7 @@ This page will guide you through the process of fixing the error code 112-1037.
 
 ### macOS & Linux
 
-1. Power on your Wii U.
+1. Accendi il tuo Wii U.
 1. Launch the Homebrew Launcher and launch Mocha.
 1. Go back to the Wii U Menu.
 1. Open up a Terminal window.
