@@ -1,22 +1,22 @@
 # Mocha - Indexiine
 
-## Internet Browser Modding {docsify-ignore}
+## Modificazioni al Browser Internet {docsify-ignore}
 
-Now that you have your NAND backup in case anything goes wrong later, you can install Indexiine on your system.
+Ora che hai il tuo backup della NAND in caso qualcosa andasse storto, puoi installare indexiine sul tuo sistema.
 
-?> In case you haven't plugged your SD Card back into your Wii U after copying your NAND backup to a computer, do so now.
+?> Nel caso in cui non hai rimesso la tua SD dentro la tua Wii U dopo aver copiato il backup della NAND sul tuo computer, fallo ora.
 
 
-### Instructions {docsify-ignore}
+### Istruzioni {docsify-ignore}
 
-1. Turn on your Wii U.
-1. Launch the internet browser and open the website `wiiuexploit.xyz`.
-1. Click on `Run Homebrew Launcher!`. Your console should launch the Homebrew Launcher.
- - If your Wii U gets stuck on a white or otherwise frozen screen, wait a few seconds. If nothing happens, reboot the console, [reset the browser's save data](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1507/~/how-to-delete-the-internet-browser-history) and try again.
-1. Navigate through the Homebrew Launcher and launch the `Indexiine Installer` app.
-1. Press the A button to install Indexiine.
-1. When the process completed, close the Homebrew Launcher to get back to your Wii U menu.
+1. Accendi la tua Wii U.
+1. Avvia il browser e apri il sito `wiiuexploit.xyz`.
+1. Premi su `Run Homebrew Launcher!`. La tua console dovrebbe avviare l'Homebrew Launcher.
+ - Se il tuo Wii U rimane bloccato su uno schermo bianco o un altro schermo bloccato, aspetta qualche secondo. Se non accade nulla, riavvia la console, [resetta i dati del browser](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1507/~/how-to-delete-the-internet-browser-history) e riprova.
+1. Naviga attraverso l'Homebrew Launcher e avvia l'app `Indexiine Installer`.
+1. Premi A per installare Indexiine.
+1. Quando il processo ha finito, chiudi l'Homebrew Launcher per tornare indietro nel tuo Menu Wii U.
 
-The Homebrew Launcher will now be launched every time you launch the Internet Browser even without an internet connection. If you want to visit another website, open it before Indexiine triggers the exploit.
+L'Homebrew Launcher verrà ora avviato ogni volta che aprirai il browser internet anche senza una connessione internet. Se vuoi visitare un altro sito, aprilo prima che Indexiine inneschi l'exploit.
 
-?> In case you ever want to uninstall Indexiine, see the [Uninstall Indexiine](/uninstall-indexiine) page
+?> Nel caso vorresti mai disinstallare Indexiine, visita la pagina [Disinstallare Indexiine](/uninstall-indexiine)
