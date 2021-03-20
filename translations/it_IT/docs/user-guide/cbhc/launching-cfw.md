@@ -12,9 +12,9 @@ Unlike systems such as the DSi, Wii, or 3DS, Wii U CFW is temporary. This means 
 
 > If you are worried about breaking one of these rules while using CBHC, consider setting up Parental Controls for your user! Blocking `Data Management` and setting `Game Rating` to the highest possible rating can help prevent common mistakes users may make when using CBHC. Check [here](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1081/~/how-to-change-parental-controls) for more information on how to change your Parental Controls settings.
 
-### Instructions {docsify-ignore}
+### Istruzioni {docsify-ignore}
 
-1. Take the SD Card out of your PC and plug it into your Wii U.
+1. Togli la scheda SD dal tuo PC e inseriscila nel Wii U.
 1. If you haven't already, now download your DS Virtual Console game of choice from the eShop.
 1. Launch the Homebrew Launcher on your system as [previously explained](browser-exploit).
 1. Navigate the Homebrew Launcher and open the Haxchi app.
