@@ -1,38 +1,38 @@
-# Blocking Updates
+# Bloccare gli aggiornamenti
 ---
-All currently known Wii U exploits can, unlike e.g. the Nintendo Switch RCM exploit, be patched by a system update. Although the Wii U is no longer officially supported, Nintendo may still release updates for it. Namely, the updates 5.5.3 and 5.5.4 were both released after the Wii U was discontinued, so blocking updates is still a recommended action.
+Tutti gli exploit Wii U conosciuti possono venir bloccati da un aggiornamento, a differenza, per esempio, dell'exploit RCM di Nintendo Switch. Anche se il Wii U non è più ufficialmente supportato, Nintendo potrebbe ancora rilasciare aggiornamenti per la console. Ad esempio, gli aggiornamenti 5.5.3 e 5.5.4 furono entrambi rilasciati dopo che il Wii U venne discontinuato, quindi bloccare gli aggiornamenti è ancora un'azione consigliata.
 
-### Instructions {docsify-ignore}
+### Istruzioni {docsify-ignore}
 
-Currently, two ways exist to block updates on the Wii U system:
+Attualmente, esistono due metodi per bloccare gli aggiornamenti di sistema:
 <!-- tabs:start -->
 
-#### **Deleting Update Folder**
+#### **Eliminare la cartella Update**
 
-### Deleting Update Folder
+### Eliminare la cartella Update
 
-?> This method of update blocking is a bit more advanced than DNS Blocking and uses a homebrew app to modify system files. However, it has the advantage that the eShop's functionality will not be restricted.
-1. Plug your SD Card into your Computer.
-1. Download and extract [UFDiine](https://github.com/GaryOderNichts/UFDiine/releases) to the root of your SD Card.
-1. Plug the SD Card into your Wii U console and power it on.
-1. Enter the Homebrew Launcher.
-1. Navigate the Homebrew Launcher and run the UFDiine app.
-1. Press the A button to delete the update folder.
-1. Confirm that it says `Update folder is deleted`. You are now blocking updates.
+?> Questo metodo è un po' più avanzato del blocco tramite DNS, e utilizza una app Homebrew per modificare i file di sistema. Tuttavia, ha il vantaggio di non limitare l'accesso all'eShop.
+1. Inserisci la scheda SD nel tuo computer.
+1. Scarica ed estrai [UFDiine](https://github.com/GaryOderNichts/UFDiine/releases) nella root della tua scheda SD.
+1. Inserisci la scheda SD nel tuo Wii U e accendilo.
+1. Entra nell'Homebrew Launcher.
+1. Naviga nell'Homebrew Launcher ed esegui l'app UFDiine.
+1. Premi il pulsante A per eliminare la cartella Update.
+1. Controlla che dica `Update folder is deleted`. Ora stai bloccando gli aggiornamenti.
 
-#### **DNS Blocking**
+#### **Blocco tramite DNS**
 
-### DNS Blocking
+### Blocco tramite DNS
 
-?> This method is the easier method and is recommended to less advanced users. It does, however, prevent the eShop from working. This can be worked around by running [NNUPatcher](https://www.wiiubru.com/appstore/zips/nnupatcher.zip) before starting the eShop.
-1. Plug your SD Card into your Computer.
-1. Copy the contents of the `nnupatcher.zip` file to the root of your SD Card. If asked, overwrite any duplicate files.
-1. Plug the SD Card into your Wii U console and power it on.
-1. Enter the Wii U's system settings and navigate to `Internet > Connect to the Internet > Connection List >` `Your WiFi connection > Change Settings > DNS` and set the option to `Do not auto-obtain`.
-1. You will be asked to input a primary and secondary DNS. Enter the following IP addresses:
- - Primary DNS: 168.235.092.108
- - Secondary DNS: 081.004.127.020 <img src="docs/assets/img/DNS.png" alt="DNS Block" />
-1. Click on confirm.
-1. You are now blocking updates. In order to access the eShop, run the NNUPatcher app from the Homebrew Launcher before launching the eShop.
+?> Questo metodo è il più facile ed è consigliato alle persone meno esperte. Non ti farà, però, accedere all'eShop. Questo può venir aggirato eseguendo [NNUPatcher](https://www.wiiubru.com/appstore/zips/nnupatcher.zip) prima di aprire l'eShop.
+1. Inserisci la scheda SD nel tuo computer.
+1. Copia i contenuti di `nnupatcher.zip` nella root della tua scheda SD. Se viene chiesto, sovrascrivi tutti i file duplicati.
+1. Inserisci la scheda SD nel tuo Wii U e accendilo.
+1. Entra nelle Impostazioni della console Wii U e vai su `Internet > Collegati a Internet > Lista delle connessioni >` `La tua connessione Wi-Fi > Modifica le impostazioni > DNS` e imposta `Inserimento manuale`.
+1. Ti chiederà di inserire un DNS primario e uno secondario. Inserisci i seguenti indirizzi IP:
+ - DNS primario: 168.235.092.108
+ - DNS secondario: 081.004.127.020 <img src="docs/assets/img/DNS.png" alt="Blocco DNS" />
+1. Clicca su OK.
+1. Ora stai bloccando gli aggiornamenti. Per accedere all'eShop, esegui l'app NNUPatcher dall'Homebrew Launcher prima di aprire l'eShop.
 
 <!-- tabs:end -->
