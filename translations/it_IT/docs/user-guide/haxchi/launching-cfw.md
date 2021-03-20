@@ -6,11 +6,11 @@ Now that you have your NAND backup in case anything goes wrong later, you can ru
 
 Unlike systems such as the DSi, Wii, or 3DS, Wii U CFW is temporary. This means that as soon as your system reboots, you will lose CFW and have to follow these instructions again. This can be skipped by installing CBHC to a Haxchi CFW installation.
 
-### Instructions {docsify-ignore}
+### Istruzioni {docsify-ignore}
 
 ?> If the install fails for some reason, try uninstalling and redownloading the DS VC game from the eShop and make sure it is being installed to the NAND.
 
-1. Take the SD Card out of your PC and plug it into your Wii U.
+1. Togli la scheda SD dal tuo PC e inseriscila nel Wii U.
 1. If you haven't already, now download your DS VC game of choice from the eShop.
 1. Launch the Homebrew Launcher on your system as [previously explained](browser-exploit).
 1. Navigate the Homebrew Launcher and open the Haxchi app.
