@@ -103,11 +103,11 @@ Dumping your Discs allows you to install a copy of your game to the system NAND/
 1. Plug in your USB device. The Wii U will ask you format it. Cancel with No!
 1. Launch the Homebrew Launcher and start the MochaFAT32 app.
 1. In the configuration menu, set the following settings:
-  - Config view mode: default
-  - Skip this menu on launch: on
-  - Don't relaunch OS: off
-  - Launch System Menu: on
-  - RedNAND: off
+    - Config view mode: default
+    - Skip this menu on launch: on
+    - Don't relaunch OS: off
+    - Launch System Menu: on
+    - RedNAND: off
 1. Your console will load the Wii U menu with your USB device now replacing the SD Card.
 1. Launch the Homebrew Launcher and open the disc2app app.
 1. Eject any inserted game disc and press the A button to begin the dumping process.
