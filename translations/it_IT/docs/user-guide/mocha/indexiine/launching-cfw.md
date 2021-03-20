@@ -1,12 +1,12 @@
 # Mocha - Indexiine
 
-## Launching CFW {docsify-ignore}
+## Avviare CFW {docsify-ignore}
 
-Unlike systems such as the DSi, Wii, or 3DS, Wii U CFW is temporary. This means that as soon as your system reboots, you will lose CFW and have to follow these instructions again. This can be skipped by installing CBHC to a Haxchi CFW installation.
+A differenza di altre console tipo DSi, Wii, o 3DS, il CFW della Wii U è temporaneo. Questo significa che appena la tua console viene riavviata, perderai il CFW e dovrai seguire queste istruzioni nuovamente. Questo può venir saltato installando CBHC.
 
 ### Istruzioni {docsify-ignore}
 
-1. Launch the Homebrew Launcher by launching the Internet Browser.
-1. Navigate the Homebrew Launcher and open the Mocha CFW app.
-1. It will take you back to the Homebrew Launcher and enable CFW.
-1. You will need to re-do these steps every reboot to launch CFW.
+1. Avvia l'Homebrew Launcher aprendo il Browser.
+1. Naviga nell'Homebrew Launcher e apri l'app Mocha CFW.
+1. Ti riporterà nell'Homebrew Launcher e abiliterà CFW.
+1. Dovrai ri-fare questi passaggi ogni riavvio per avviare CFW.
