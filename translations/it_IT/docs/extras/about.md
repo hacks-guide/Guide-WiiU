@@ -2,47 +2,47 @@
 ---
 Questa guida è stata scritta da membri dello staff del [Nintendo Homebrew Discord Server](https://discord.gg/C29hYvh)
 
-> **Credits**
+> **Crediti**
 > 
-> **Elpunical, FlimFlam69, Flump, GaryOderNichts, Hiperhazz, huhen, ihaveahax/ihaveamac, Link5261, NoahAbc12345, Plailect, Profanity, and redcubie.**
+> **Elpunical, FlimFlam69, Flump, GaryOderNichts, Hiperhazz, huhen, ihaveahax/ihaveamac, Link5261, NoahAbc12345, Plailect, Profanity, e redcubie.**
 > 
-> Thank you to [everyone else](https://github.com/hacks-guide/Guide-WiiU/graphs/contributors) that contributed to the guide on GitHub.
+> Grazie a [tutte le altre persone](https://github.com/hacks-guide/Guide-WiiU/graphs/contributors) che hanno contribuito alla guida su GitHub.
 
-?> [You can find this guide on GitHub](https://github.com/hacks-guide/Guide-WiiU), It is licensed under the [ISC License](https://github.com/hacks-guide/Guide-WiiU/blob/master/LICENSE.md).
+?> [Puoi trovare questa guida su GitHub](https://github.com/hacks-guide/Guide-WiiU), è concessa in licenza sotto la [Licenza ISC](https://github.com/hacks-guide/Guide-WiiU/blob/master/LICENSE.md).
 
 <figure class="thumbnails">
     <img src="docs/assets/img/nh.jpg" alt="Nintendo Homebrew" title="Nintendo Homebrew">
 </figure>
 
 >
-> **Developer / Tool Credits**
+> **Crediti agli sviluppatori / creatori degli strumenti**
 > 
-> - **dragbe** and **FIX94** for <u>d2x cIOS Installer</u>.
+> - **dragbe** e ** FIX94** per <u> d2x cIOS installer</u>.
 > 
-> - **koolkdev** and **FIX94** for [disc2app](https://github.com/koolkdev/disc2app).
+> - **koolkdev** e **FIX94** per [disc2app](https://github.com/koolkdev/disc2app).
 > 
-> - **FIX94** and **smealum** for [Haxchi and CBHC](https://github.com/FIX94/haxchi).
+> - **FIX94** e **smealum** per [Haxchi e CBHC](https://github.com/FIX94/haxchi).
 > 
-> - **dimok789** for the [Homebrew Launcher](https://github.com/dimok789/homebrew_launcher), the [Homebrew Launcher Channel](https://github.com/dimok789/homebrew_launcher), and [Mocha](https://github.com/dimok789/mocha).
+> - **dimok789** per l'[Homebrew Launcher](https://github.com/dimok789/homebrew_launcher), l'[Homebrew Launcher Channel](https://github.com/dimok789/homebrew_launcher), e [Mocha](https://github.com/dimok789/mocha).
 > 
-> - **orboditilt** and **dimok789** for the [Homebrew Launcher Installer](https://github.com/wiiu-env/homebrew_launcher_installer).
+> - **orboditilt** e **dimok789** per l' [Homebrew Launcher Installer](https://github.com/wiiu-env/homebrew_launcher_installer).
 > 
-> - **vgmoose**, **pwsincd**, **rw-r-r_0644**, **crc32** and **Compucat** for [hb-appstore](https://github.com/vgmoose/hb-appstore).
+> - **vgmoose**, **pwsincd**, **rw-r-r_0644**, **crc32** e **Compucat** per [hb-appstore](https://github.com/vgmoose/hb-appstore).
 > 
-> - **Jonhyjp** for [Indexiine](https://gbatemp.net/threads/indexiine-load-cfw-during-boot-and-offline-without-a-vc-ds-title.553681/).
+> - **Jonhyjp** per [Indexiine](https://gbatemp.net/threads/indexiine-load-cfw-during-boot-and-offline-without-a-vc-ds-title.553681/).
 > 
-> - **JumpCallPop**, **jam1garner**, **hedgeberg**, **yellows8** and **orboditilt** for [JSTypeHax](https://github.com/wiiu-env/JsTypeHax).
+> - **JumpCallPop**, **jam1garner**, **hedgeberg**, **yellows8** e **orboditilt** per [JSTypeHax](https://github.com/wiiu-env/JsTypeHax).
 > 
-> - **Dr Clipper**, **ZRicky11**, **dmm** and **FIX94** for <u>Patched IOS80 Installer for vWii</u>.
+> - **Dr Clipper**, **ZRicky11**, **dmm** e **FIX94** per <u> Patched IOS80 Installer for vWii</u>.
 > 
-> - **djskual**, **Loadiine GX2 Team**, **Yardape** and **brienj** for [WUP Installer GX2](https://sourceforge.net/projects/wup-installer-gx2/).
+> - **djskual**, il **Gruppo Loadiine GX2**, **Yardape** e **brienj** per [WUP Installer GX2](https://sourceforge.net/projects/wup-installer-gx2/).
 > 
-> - **koolkdev** for [Wii U NAND Dumper](https://github.com/koolkdev/wiiu-nanddumper).
+> - **koolkdev** per [Wii U NAND Dumper](https://github.com/koolkdev/wiiu-nanddumper).
 > 
-> - **dimok789** for [wupclient.py](https://github.com/dimok789/mocha/blob/master/ios_mcp/wupclient.py).
+> - **dimok789** per [wupclient.py](https://github.com/dimok789/mocha/blob/master/ios_mcp/wupclient.py).
 > 
-> - **FIX94** for [Wuphax](https://github.com/FIX94/wuphax).
+> - **FIX94** per [Wuphax](https://github.com/FIX94/wuphax).
 > 
-> - **GaryOderNichts** for the [Configurable Payload](https://github.com/GaryOderNichts/configurable-payload), [Indexiine-Installer](https://github.com/GaryOderNichts/indexiine-installer), [UFDiine](https://github.com/GaryOderNichts/UFDiine), [vWii Decaffeinator](https://github.com/GaryOderNichts/vWii-Decaffeinator), and the fixed version of the [Homebrew Launcher Channel](https://github.com/GaryOderNichts/homebrew_launcher/).
+> - **GaryOderNichts** per il [Payload Configurabile](https://github.com/GaryOderNichts/configurable-payload), [Indexiine-Installer](https://github.com/GaryOderNichts/indexiine-installer), [UFDiine](https://github.com/GaryOderNichts/UFDiine), [vWii Decaffeinator](https://github.com/GaryOderNichts/vWii-Decaffeinator), e la versione corretta dell'[Homebrew Launcher Channel](https://github.com/GaryOderNichts/homebrew_launcher/).
 > 
-> - **GabyPCgeeK** and **Ryuzaki-MrL** for [SaveMii Mod](https://github.com/GabyPCgeeK/savemii).
+> - **GabyPCgeeK** e **Ryuzaki-MrL** per [SaveMii Mod](https://github.com/GabyPCgeeK/savemii).
