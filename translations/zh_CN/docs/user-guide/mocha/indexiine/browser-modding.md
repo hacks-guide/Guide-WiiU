@@ -12,7 +12,7 @@
 1. 打开你的 Wii U。
 1. 启动 Wii U 的浏览器，打开 `wiiuexploit.xyz` 。
 1. 点击 `Run Homebrew Launcher!`。 然后你的主机应该就启动到 Homebrew Launcher 了。
- - 如果你的 Wii U 卡住不动或白屏了，请等一会。 如果什么都没有发生，那就重启主机后[重置浏览器保存的数据](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1507/~/how-to-delete-the-internet-browser-history)，然后再来一次。
+    - 如果你的 Wii U 卡住不动或白屏了，请等一会。 如果什么都没有发生，那就重启主机后[重置浏览器保存的数据](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1507/~/how-to-delete-the-internet-browser-history)，然后再来一次。
 1. 移动 Homebrew Launcher 至 `Indexiine Installer` 程序并启动。
 1. 按下 A 键安装 Indexiine。
 1. 当进程完成后，请关闭 Homebrew Launcher 来返回你的 Wii U 主菜单。
