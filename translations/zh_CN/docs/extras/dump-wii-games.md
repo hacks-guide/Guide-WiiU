@@ -24,15 +24,15 @@
 1. 阅读免责声明，然后按下 A 键。
 1. 选择 Yes 来启用校验计算。
 1. 选择导出过程中你想使用的 USB 设备或 SD 卡。
- - 请注意，你选择的设备需要格式化为 FAT32 或 NTFS。
+    - 请注意，你选择的设备需要格式化为 FAT32 或 NTFS。
 1. 按 A 继续。
 1. 如果屏幕上提示是否从 redump.org 上下载 DAT 文件，选择 No。
 1. 插入你的光盘，然后按下 A 键。
 1. 在[这个页面](https://wiki.dolphin-emu.org/index.php?title=Category:Dual_Layer_Disc_games)中可以检查你的光盘是否是双层的。
 1. 设定以下选项：
- - Dual Layer: `Yes/No`（如果你的光盘是双层的，请选择 `Yes`）
- - Chunk Size: `Max`
- - New device per chunk: `No`
+    - Dual Layer: `Yes/No`（如果你的光盘是双层的，请选择 `Yes`）
+    - Chunk Size: `Max`
+    - New device per chunk: `No`
 1. 如果你想要导出多个光盘，请选择 Yes 来保存你的设置。 反之，请选择 No。
 
 ?> 请等待一段时间。 导出过程可能要 30 分钟至 1 小时，这取决于你的 SD 卡速度。
