@@ -24,15 +24,15 @@ Dumper vos diques vous permet de : les lire sur un émulateur Wii (à savoir Dol
 1. Lisez la clause de non-responsabilité puis appuyez sur A.
 1. Sélectionnez Yes pour activer les calculs de la somme de contrôle.
 1. Sélectionnez USB ou Front SD selon le périphérique que vous souhaitez utiliser pour le processus de dumping.
- - Veuillez noter que l'appareil que vous choisirez doit être formaté soit en FAT32 soit en NTFS.
+    - Veuillez noter que l'appareil que vous choisirez doit être formaté soit en FAT32 soit en NTFS.
 1. Appuyez sur A pour continuer.
 1. Sélectionnez No sur l'écran qui vous demande de télécharger les fichiers DAT de redump.org.
 1. Insérez votre disque puis appuyez sur A.
 1. Allez [sur cette page](https://wiki.dolphin-emu.org/index.php?title=Category:Dual_Layer_Disc_games) pour voir si votre disque est à double couche.
 1. Faites en sorte que ce qui suit soit identique à ce qui est affiché sur votre console :
- - Dual Layer: `Yes/No` (Sélectionnez `Yes` si votre disque de jeu est de type double couche)
- - Chunk Size: `Max`
- - New device per chunk: `No`
+    - Dual Layer: `Yes/No` (Sélectionnez `Yes` si votre disque de jeu est de type double couche)
+    - Chunk Size: `Max`
+    - New device per chunk: `No`
 1. Si vous souhaitez dumper plusieurs disques, sélectionnez Oui pour mémoriser vos paramètres. Si ce n'est pas le cas, sélectionnez Non.
 
 ?> Soyez prêts à attendre un moment. Le processus de dumping peut prendre de 30 minutes à 1 heure selon la vitesse de votre carte SD.
