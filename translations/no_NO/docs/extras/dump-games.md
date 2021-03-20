@@ -103,11 +103,11 @@ Ved å Dumpe en Wii U Disk, kan du installere en kopi av spillet til system NAND
 1. Koble til USB-pennen. Wii U'en vil spørre deg om å formatere den. Avbryt med å klikke "No"!
 1. Start Homebrew Launcher og kjør MochaFAT32 appen.
 1. Bruk disse instillingene i menyen:
-  - Config view mode: default
-  - Skip this menu on launch: on
-  - Don't relaunch OS: off
-  - Launch System Menu: on
-  - RedNAND: off
+    - Config view mode: default
+    - Skip this menu on launch: on
+    - Don't relaunch OS: off
+    - Launch System Menu: on
+    - RedNAND: off
 1. Konsollen vil gå tilbake til Wii U-menyen og erstatte SD kortet med USB-pennen.
 1. Start Homebrew Launcher og kjør disc2app.
 1. Ta ut spill-disken hvis du allerede har satt den inn i konsollen og trykk på A knappen for å starte dumping-prosessen.
