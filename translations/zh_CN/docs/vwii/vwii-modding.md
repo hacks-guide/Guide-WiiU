@@ -35,11 +35,11 @@
 1. 启动 [Homebrew Launcher](vwii/browser-exploit)。
 1. 启动 `Wii U NAND Dumper`。
 1. 使用 Wii U 游戏手柄上的十字键来配置以下内容：
- - Dump SLC: **可选**
- - Dump SLCCMPT: **yes**
- - Dump MLC: **可选**
- - Dump OTP: **yes**
- - Dump SEEPROM: **可选**
+    - Dump SLC: **可选**
+    - Dump SLCCMPT: **yes**
+    - Dump MLC: **可选**
+    - Dump OTP: **yes**
+    - Dump SEEPROM: **可选**
 1. 按下 A 键启动导出的进程。
 1. 当完成后，将 Wii U 关机，然后把 SD 卡从 Wii U 上拔出并插入电脑。
 1. 为了确保你不会丢掉某些文件，请复制 `slccmpt.bin` 和 `otp.bin` 到你的电脑上，如果你选择全部备份则还要复制 `seeprom.bin`、`slc.bin` 和`所有的 mlc.bin.part` 文件到电脑上。
@@ -51,10 +51,10 @@
 1. 启动 [Homebrew Launcher](vwii/browser-exploit)。
 1. 启动 Wuphax。
 1. 按下 `A` 键然后等一会来备份 Mii Channel 并注入 Hackmii Installer，直到屏幕上提示 <code>Successfully <wbr>injected <wbr>wuphax!</code>。
- - 你将会在几秒后回到 Wii U 主菜单。
+    - 你将会在几秒后回到 Wii U 主菜单。
 1. 启动 vWii（Wii 菜单图标）。
 1. 启动 vWii Mii Channel。
- - 如果 Wuphax 被成功注入，此时你将会看到警告提示。
+   - 如果 Wuphax 被成功注入，此时你将会看到警告提示。
 1. 等一会，直到你看到 `Press 1 to continue` 后，按下 `1` 键。
 1. 选择 `continue`，然后选择 <code>Install <wbr>The <wbr>Homebrew <wbr>Channel</code> 再然后选择 `Yes, continue`。
 1. 如果 Homebrew Channel 被顺利安装，请选择 `continue`，然后选择 `exit`。
@@ -62,8 +62,8 @@
 1. 启动 [Homebrew Launcher](vwii/browser-exploit)。
 1. 启动 Wuphax。
 1. 按下 `B` 键后等一会来还原 Mii Channel，直到它提示 <code>Mii <wbr>Channel <wbr>restored!</code>。
- - 你将会在几秒后回到 Wii U 主菜单。
- - 如果由于一些原因你无法恢复备份，则你需要[重新安装你的 Mii Channel](recover-vwii-ioses-channels)。
+   - 你将会在几秒后回到 Wii U 主菜单。
+   - 如果由于一些原因你无法恢复备份，则你需要[重新安装你的 Mii Channel](recover-vwii-ioses-channels)。
 
 ### 安装 cIOS
 
@@ -75,19 +75,19 @@
 1. 启动 Homebrew Channel。
 1. 启动 d2x cIOS Installer。
 1. 设定以下选项：
- - Select cIOS: `v10 d2x-v10-beta52-vWii`
- - Select cIOS base: `56`
- - Select cIOS slot: `249`
+    - Select cIOS: `v10 d2x-v10-beta52-vWii`
+    - Select cIOS base: `56`
+    - Select cIOS slot: `249`
 1. 按下 `A` 键来安装。
 1. 设定以下选项：
- - Select cIOS: `v10 d2x-v10-beta52-vWii`
- - Select cIOS base: `57`
- - Select cIOS slot: `250`
+    - Select cIOS: `v10 d2x-v10-beta52-vWii`
+    - Select cIOS base: `57`
+    - Select cIOS slot: `250`
 1. 按下 `A` 键来安装。
 1. 设定以下选项：
- - Select cIOS: `v10 d2x-v10-beta52-vWii`
- - Select cIOS base: `58`
- - Select cIOS slot: `251`
+    - Select cIOS: `v10 d2x-v10-beta52-vWii`
+    - Select cIOS base: `58`
+    - Select cIOS slot: `251`
 1. 按下 `A` 键来安装。
 1. 按下 `B` 键来退出。
 
