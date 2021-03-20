@@ -1,48 +1,48 @@
-# Frequently Asked Questions {docsify-ignore-all}
+# Domande frequenti {docsify-ignore-all}
 ---
-### Does homebrew have any risks?
+### La modifica ha dei rischi?
 
-Currently, homebrewing the Wii U does not expose you to a risk of being banned by Nintendo unless you cheat in online games. You should, however, always be careful with launching downloaded homebrew, especially if you don't trust the source, as homebrew can potentially damage your system!
+Attualmente, modificare il Wii U non ti espone al rischio di venire bannano da Nintendo a meno che non usi trucchi su giochi online. Dovresti, tuttavia, fare sempre attenzione quando avvii homebrew scaricati, specialmente se non ti fidi della fonte, dato che potenzialmente gli homebrew possono danneggiare il tuo sistema!
 
-### What is Haxchi, and do I need it?
+### Cos'è Haxchi, e ne ho bisogno?
 
-Haxchi is a secondary entry point which uses certain DS Virtual Console titles to allow for access to homebrew while being completely offline (still works with online but no connection required to launch CFW)
+Haxchi è un punto d'ingresso secondario che utilizza determinati titoli della Virtual Console DS per consentire l'accesso agli homebrew mentre si è completamente offline (funziona anche online ma non necessita di una connessione per avviare il CFW)
 
-Haxchi is not required, however, if you want to use homebrew on your Wii U while offline you will need it. It’s highly recommended as it’s more stable than the browser entry point, especially on the newest firmware.
+Haxchi non è necessario, però ne avrai bisogno se vuoi usare homebrew sul tuo Wii U mentre è offline. È altamente consigliato dato che è più stabile del punto d'ingresso da browser, specialmente sui firmware più recenti.
 
-The cheapest DS Virtual Console games usable for this exploit:
+I più economici giochi della Virtual Console DS utilizzabili per questo exploit sono:
  - Dr. Kawashima's Brain Training [PAL]
  - Brain Age: Train Your Brain in Minutes a Day! [USA]
  - Kawashima: Motto Nou wo Kitaeru Otona no DS Training [JPN]
 
-### Can I install games from my USB instead of SD?
+### Posso installare giochi dal mio USB invece della SD?
 
-Yes. It is, however, a bit more complicated than installing from SD Card. Detailed instructions are in the `Install from USB` tab in the [Dumping guide](dump-games).
+Sì. È, tuttavia, un po' più complicato dell'installazione dalla scheda SD. Istruzioni dettagliate sono nella tabella `Installazione da USB` nella [guida sul dumping dei dischi Wii U](dump-games).
 
-### How to Delete Update Folder to Block Updates on Wii U
+### Come eliminare la cartella Update per bloccare gli aggiornamenti su Wii U
 
-If you want to delete the update folder to block updates, see its tab in the [Blocking Updates guide](block-updates).
+Se vuoi eliminare la cartella Update per bloccare gli aggiornamenti, guarda la tabella relativa nella [guida sul blocco degli aggiornamenti](block-updates).
 
-### What SD Card size is recommended?
+### Quale dimensione della scheda SD è consigliata?
 
- - **Installing game backups:** 32GB (Smaller size may be used, but certain titles are 20GB in size)
- - **Running game mods:** 8GB (FAT32 USB drive may be used as well for mods)
- - **Only running homebrew apps:** Any size.
+ - **Installare backup di giochi:** 32GB (potrebbe essere utilizzata una dimensione inferiore, ma determinati titoli sono di 20GB)
+ - **Eseguire mod di giochi:** 8GB (dispositivi USB in FAT32 potrebbero essere utilizzati per le mod)
+ - **Solo eseguire app homebrew:** Qualsiasi dimensione.
 
-**Recommended brands:** SanDisk, Samsung or PNY
+**Marche consigliate:** SanDisk, Samsung o PNY
 
-?> Note: Avoid class 4 SD Cards, and avoid eBay!
+?> Nota: evita schede SD di classe 4, ed evita eBay!
 
-### Can I install homebrew on Wii U with a USB instead of SD Card?
+### Posso installare homebrew su Wii U con un USB invece di una scheda SD?
 
-No, you must have an SD Card for a first time setup. A USB can then be used to install game backups, Virtual Console injects, etc, but not to store homebrew applications which are required to set everything up.
+No, devi avere una scheda SD per la prima configurazione. Un USB può poi essere utilizzato per installare backup di giochi, iniettare Virtual Console e altro, ma non per memorizzare applicazioni homebrew che sono necessarie per configurare tutto.
 
-### When extracting some of the files there are duplicates of certain ones called "info.json" & "manifest.install", what do I do with those?
+### Quando si estraggono alcuni file ci sono determinati duplicati chiamati "info.json" & "manifest.install", cosa devo fare con questi?
 
-Nothing special, you can leave them there, delete them or replace them with new ones. Those files are not used in the process, and therefore, won't have any impact by being or not being there.
+Niente di speciale, puoi lasciarli lì, eliminarli o sostituirli con dei nuovi. Questi file non vengono utilizzati nel processo, perciò non avrà alcun impatto se sono presenti o meno.
 
-### What is a Wii U formatted USB drive?
+### Cos'è un dispositivo USB formattato in Wii U?
 
-It's a USB drive that has been formatted by a Wii U console to its proprietary format.  
-A Wii U formatted USB drive ***cannot be read by any other devices than the Wii U that originally formatted it.***  
-If you ever want to use it with another Wii U console or any other devices, you will have to reformat it.
+È un dispositivo USB che è stato formattato da una console Wii U nel suo formato proprietario.  
+Un dispositivo USB formattato in Wii U ***non può essere letto da nessun altro dispositivo oltre al Wii U che lo ha formattato originariamente.***  
+Se vorrai mai usarlo con un'altra console Wii U o con altri dispositivi, dovrai formattarlo nuovamente.

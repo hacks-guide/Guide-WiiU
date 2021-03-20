@@ -1,15 +1,15 @@
 # Haxchi {docsify-ignore-all}
 
-## Choose Your DS VC Game
+## Scegli il tuo gioco DS VC
 
-The first thing to decide is what DS Virtual Console (usually abbreviated as "VC") game you will buy.  
-Please note that the game you injected Haxchi/CBHC into will not be playable anymore until you uninstall Haxchi/CBHC and reinstall the game from the eShop.
+La prima cosa da fare è decidere quale gioco DS Virtual Console (solitamente abbreviato come "VC") comprerai.  
+Ricorda che il gioco in cui inietterai Haxchi/CBHC non sarà più giocabile fino a quando non disinstallerai Haxchi/CBHC e reinstallerai il gioco dall'eShop.
 
-### Compatible DS VC Games
+### Giochi DS VC Compatibili
 
-?> If you have a European region console, there is a chance that you might already have got <code>Dr. Kawashima's <wbr>Brain <wbr>Training: <wbr>How <wbr>Old <wbr>is <wbr>Your <wbr>Brain?</code> for free. Head over [to the eShop](https://en-americas-support.nintendo.com/app/answers/detail/a_id/8563/~/how-to-view-previously-downloaded-titles-on-wii-u) and check if you got the game.
+?> Se hai una console Europea, c'è una possibilità che potresti già avere <code>Dr. Kawashima's <wbr>Brain <wbr>Training: <wbr>How <wbr>Old <wbr>is <wbr>Your <wbr>Brain?</code> gratuitamente. Vai [nell'eShop](https://en-americas-support.nintendo.com/app/answers/detail/a_id/8563/~/how-to-view-previously-downloaded-titles-on-wii-u) e controlla se hai il gioco.
 
-If you do not own any of the games listed below, we recommend buying Brain Age (North America) or Brain Training (Europe) as it currently is in the cheapest price bracket of compatible games and is the game we least expect you to want to play.
+Se non hai nessuno dei giochi Menzionati qui sotto, ti consigliamo di comprare Brain Age (Nord America) o Brain Training (Europa) poiche è il più economico tra tutti questi giochi compatibili, ed è il gioco che probabilmente giocheresti di meno.
 
 - **Animal Crossing: Wild World** - [EUR](https://www.nintendo.eu/Games/Nintendo-DS/Animal-Crossing-Wild-World-270011.html "Buy it from the European eShop") [USA](https://www.nintendo.com/games/detail/animal-crossing-wild-world-wii-u/ "Buy it from the American eShop") [JPN](https://www.nintendo.co.jp/titles/20010000023019 "Buy it from the Japanese eShop")
 - **Big Brain Academy** - [EUR](https://www.nintendo.eu/Games/Nintendo-DS/Big-Brain-Academy-270143.html "Buy it from the European eShop") [USA](https://www.nintendo.com/games/detail/big-brain-academy-wii-u/ "Buy it from the American eShop") [JPN](https://www.nintendo.co.jp/titles/20010000013967 "Buy it from the Japanese eShop")

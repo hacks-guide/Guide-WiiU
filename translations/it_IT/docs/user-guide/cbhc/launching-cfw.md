@@ -1,32 +1,32 @@
 # CBHC
 
-## Launching CFW {docsify-ignore}
+## Avviare CFW {docsify-ignore}
 
-Now that you have your NAND backup in case anything goes wrong later, you can run CFW on your system.
+Ora che hai il tuo backup della NAND in caso qualcosa andasse storto, puoi avviare CFW.
 
-Unlike systems such as the DSi, Wii, or 3DS, Wii U CFW is temporary. This means that as soon as your system reboots, you will lose CFW and have to follow these instructions again. This can be skipped by installing CBHC to a Haxchi CFW installation.
+A differenza di altre console tipo DSi, Wii, o 3DS, il CFW della Wii U è temporaneo. Questo significa che appena la tua console viene riavviata, perderai il CFW e dovrai seguire queste istruzioni nuovamente. Questo può venir saltato installando CBHC.
 
-!> Installing CBHC incorrectly can brick your Wii U. Make sure to follow the following rules when installing CBHC: <br>- The DS game has to be legitimately installed from the eShop! <br>- Don't format the system while CBHC is installed! <br>- Don't delete the user account that bought the DS Virtual Console game! <br>- Don't re-install the same game using WUP Installer or from the eShop! <br>- Don't install Haxchi over CBHC! <br>- Don't uninstall the DS Virtual Console game without [properly uninstalling CBHC first](../uninstall-cbhc)! <br>- Don't move the DS Virtual Console game to a USB drive!
+!> Installare CBHC in modo errato può brickare la tua Wii U. Assicurati di seguire le seguenti regole durante l'installazione di CBHC: <br>- Il gioco DS deve venir installato legittimamente dall'eShop! <br>- Non Formattare il sistema mentre CBHC è installato! <br>- Non eliminare l'account che ha comprato il gioco DS Virtual Console! <br>- Non reinstallare lo stesso gioco utilizzando WUP Installer o l' eShop! <br>- Non installare Haxchi sopra CBHC! <br>- Non disinstallare il gioco DS Virtual Console senza prima [disinstallare correttamente CBHC](../uninstall-cbhc)! <br>- Non spostare il gioco DS Virtual Console su un dispositivo USB!
 
-!> Breaking one of the above rules will result in a brick.
+!> Non seguire una delle regole qui sopra risulterà in un brick.
 
-> If you are worried about breaking one of these rules while using CBHC, consider setting up Parental Controls for your user! Blocking `Data Management` and setting `Game Rating` to the highest possible rating can help prevent common mistakes users may make when using CBHC. Check [here](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1081/~/how-to-change-parental-controls) for more information on how to change your Parental Controls settings.
+> Se sei preoccupato di infrangere una di queste regole durante l'utilizzo di CBHC, prendi in considerazione l'utilizzo di controlli parentali per il tuo utente! Bloccare l'accesso a `Gestione Dati` e impostare la `Classificazione di gioco` alla valutazione più alta possibile, può aiutarti a prevenire errori che potresti fare quando utilizzi CBHC. Controlla [qui](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1081/~/how-to-change-parental-controls) per più informazioni su come cambiare le impostazioni del controllo parentale.
 
-### Instructions {docsify-ignore}
+### Istruzioni {docsify-ignore}
 
-1. Take the SD Card out of your PC and plug it into your Wii U.
-1. If you haven't already, now download your DS Virtual Console game of choice from the eShop.
-1. Launch the Homebrew Launcher on your system as [previously explained](browser-exploit).
-1. Navigate the Homebrew Launcher and open the Haxchi app.
-1. Use the D-Pad to navigate the cursor to the game you want to install Haxchi to and press the A button to install it.
-1. Once the installation has finished, your console will launch the Wii U Menu. You will see your game replaced by a Haxchi icon.
-1. Run the modified DS game. This will reboot the console and enable CFW.
-1. Run the modified DS game again and hold the A button after launching it. This will run the Homebrew Launcher.
-1. Navigate the Homebrew launcher and run the CBHC app.
-1. Use the D-Pad to navigate the cursor to the game you previously installed Haxchi to and press the A button to install CBHC.
-1. Once the installation has finished, your console will launch the Wii U Menu.
-1. Reboot your console. If CBHC installed correctly, you should see a new boot menu. (CBHC is not compatible with Quick Start. If you are using the Quick Start Menu, please turn it off.)
-1. Use the D-Pad to navigate to `Autoboot: Disabled` and press the A button until it says `Autoboot: System Menu`.
-1. Use the D-Pad to navigate to `Boot System Menu` and press the A button. This will launch the Wii U Menu with CFW enabled.
-1. Your console now automatically boots into CFW every reboot.
-1. You can now re-attach any USB devices you had attached before starting the guide.
+1. Togli la scheda SD dal tuo PC e inseriscila nel Wii U.
+1. Se non l'hai già fatto, installa il gioco DS Virtual Console che hai scelto dall'eShop.
+1. Avvia l'Homebrew Launcher come [spiegato precedentemente](browser-exploit).
+1. Naviga nell'Homebrew Launcher e apri l'app Haxchi.
+1. Usa il d-pad per muovere il cursore sul gioco nel quale vuoi installare Haxchi e premi A.
+1. Appena l'installazione ha finito, la tua console avvierà il Menu Wii U. Vedrai il tuo gioco rimpiazzato da un icona Haxchi.
+1. Avvia il gioco Modificato. Questo riavvierà la console e abiliterà il CFW.
+1. Avvia di nuovo il gioco modificato e tieni premuto A dopo averlo avviato. Questo avvierà l'Homebrew Launcher.
+1. Naviga nell'Homebrew Launcher e avvia l'app CBHC.
+1. Usa il d-pad per muovere il cursore sul gioco in cui avevi precedentemente installato Haxchi e premi A per installare CBHC.
+1. Appena l'installazione ha finito, la tua console avvierà il Menu Wii U.
+1. Riavvia la tua console. Se CBHC è stato installato correttamente, dovresti vedere un nuovo menu quando accendi la console. (CBHC non è compatibile con Quick Start. Se stai usando il Menu Quick Start, disattivalo.)
+1. Usa il d-pad per spostarti su `Autoboot: Disabled` e premi A fino a quando non dice `Autoboot: System Menu`.
+1. Usa il d-pad per spostarti su `Boot System Menu` e premi A. Questo avvierà il Menu Wii U con il CFW abilitato.
+1. Ora la tua console avvierà automaticamente il CFW ad ogni riavvio della console.
+1. Puoi inserire nuovamente qualunque dispositivo USB che avevi inserito prima della guida.

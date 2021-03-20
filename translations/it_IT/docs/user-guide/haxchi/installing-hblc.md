@@ -1,18 +1,18 @@
 # Haxchi
 
-## Installing the Homebrew Launcher Channel {docsify-ignore}
+## Installare l'Homebrew Launcher Channel {docsify-ignore}
 
-This page will install the Homebrew Launcher Channel as an application directly to your Wii U Menu for easy access.
+Questa pagina ti farà installare l'Homebrew Launcher Channel come applicazione direttamente nel tuo Wii U Menu per un accesso facile.
 
-### Instructions {docsify-ignore}
+### Istruzioni {docsify-ignore}
 
-?> Installing the Homebrew Launcher Channel is optional as you can already launch it by holding the A button while launching Haxchi.
+?> Installare il canale Dell'Homebrew Launcher è opzionale, poiche puoi già accederci tenendo premuto A mentre apri Haxchi.
 
-1. Power on your console.
-1. Launch the Haxchi DS game from the Wii U Menu. This will re-launch the Wii U Menu with CFW activated.
-1. Launch the Haxchi DS game again while holding the A button. This will launch the Homebrew Launcher.
-1. Navigate the Homebrew Launcher and launch the WUP Installer GX2 application.
-1. Use the touchscreen to select `Homebrew Launcher Channel`. Press `Install` and confirm with `Yes`.
-1. Select NAND as the installation destination. This will install the Homebrew Launcher Channel to the Wii U Menu.
-1. Once the process is finished, press the Home button until you're back at the Wii U Menu.
-1. You will now see the Homebrew Launcher Channel installed on your Wii U Menu. Keep in mind you will need to launch CFW every reboot to run this channel.
+1. Accendi la tua console.
+1. Avvia il gioco DS Haxchi dall' Menu Wii U. Questo avvierà nuovamente il Menu Wii U col CFW attivato.
+1. Avvia il gioco DS Haxchi di nuovo tenendo premuto A. Questo avvierà l'Homebrew Launcher.
+1. Naviga nell'Homebrew Launcher e avvia l'applicazione WUP Installer GX2.
+1. Usa lo schermo per selezionare `Homebrew Launcher Channel`. Premi `Install` e conferma con `Sì`.
+1. Scegli NAND come destinazione dell'installazione. Questo installerà l'Homebrew Launcher Channel nel Menu Wii U.
+1. Una volta che il processo è finito, premi il pulsante Home fino a quando non sei tornato nel Menu Wii U.
+1. Ora vedrai il canale dell'Homebrew Launcher installato nel Menu della tua Wii U. Tieni a mente che dovrai avviare il CFW ogni riavvio della console per avviare questo canale.

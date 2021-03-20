@@ -1,22 +1,22 @@
-# Configurable Payload
+# Payload configurabile
 ---
-This payload is configurable, similar to Haxchi's configuration. This could be very useful for Mocha users, as it saves a bit of time having to launch Mocha through the Homebrew Launcher.
+Questa payload è configurabile, similmente alla configurazione di Haxchi. Questo potrebbe essere molto utile per gli utenti di Mocha, in quanto risparmia un po' del tempo che si utilizzerebbe per avviare Mocha tramite Homebrew Launcher.
 
-### What You Need {docsify-ignore}
+### Cosa ti servirà {docsify-ignore}
 
-- The <a href="docs/files/Configurable_Payload.zip" download>configurable payload</a>.
-- The latest release of [The Homebrew Launcher Channel](https://github.com/GaryOderNichts/homebrew_launcher/releases/tag/v2.1_fix).
+- Il <a href="docs/files/Configurable_Payload.zip" download>configurable payload</a>.
+- L'ultima versione di [The Homebrew Launcher Channel](https://github.com/GaryOderNichts/homebrew_launcher/releases/tag/v2.1_fix).
 
-### Instructions {docsify-ignore}
+### Istruzioni {docsify-ignore}
 
-1. Extract the `homebrew_launcher_channel.v2.1_fix.zip` file to the `install` folder on the root of your SD Card.
-1. Place the SD Card into your Wii U and launch the [Homebrew Launcher](mocha/online-exploit/browser-exploit).
-1. Navigate the Homebrew Launcher and launch the WUP Installer GX2 application.
-1. Select `Homebrew Launcher Channel`. Press `Install` and install to NAND as the installation destination. This will install the Homebrew Launcher Channel to the Wii U Menu.
-1. Once the process is finished, press the HOME Button until you're back at the Wii U Menu.
-1. At this point the channel will not launch as it will conflict with the version running on SD Card you were just using. Restart the Wii U.
-1. Eject the SD Card from your Wii U and insert it into your computer.
-1. Extract the `Configurable_Payload.zip` file to the root of your SD Card. If it prompts you to overwrite the files on your SD Card, do so.
-1. Place the SD Card into your Wii U and launch the Internet Browser and navigate to the website `wiiuexploit.xyz`.
-1. Click on `Run Homebrew Launcher!`. If everything has been done correctly, you should be taken back to the Wii U Menu. Mocha has now been enabled and you can use the Homebrew Launcher Channel you installed earlier.
- - If your Wii U gets stuck on a white or otherwise frozen screen, wait a few seconds. If nothing happens, reboot the console, [reset the browser's save data](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1507/~/how-to-delete-the-internet-browser-history) and try again.
+1. Estrai il file `homebrew_launcher_channel.v2.1_fix.zip` nella cartella `install` che si trova nella root della tua scheda SD.
+1. Metti la scheda SD nel tuo Wii U e avvia l' [Homebrew Launcher](mocha/online-exploit/browser-exploit).
+1. Naviga nell'Homebrew Launcher e avvia l'applicazione WUP Installer GX2.
+1. Seleziona `Homebrew Launcher Channel`. Premi `install` e installa sulla NAND come destinazione. Questo installerà l'Homebrew Launcher nel menu Wii U.
+1. Una volta terminato il processo, premi il pulsante HOME fino a quando non sarai nuovamente nel menu Wii U.
+1. A questo punto il canale non si avvierà, poiché andrà in conflitto con la versione in esecuzione sulla scheda SD che stavi utilizzando. Riavvia il Wii U.
+1. Espelli la scheda SD dal tuo Wii U e inseriscila nel tuo computer.
+1. Estrai il file `Configurable_Payload.zip` nella root della tua scheda SD. Se ti chiede di sovrascrivere alcuni file sulla tua SD, fallo.
+1. Rimetti la scheda SD nel tuo Wii U, avvia il Browser Internet e recati sul sito `wiiuexploit.xyz`.
+1. Clicca su `Run Homebrew Launcher`. Se tutto è stato fatto correttamente, dovresti essere riportato indietro nel menu Wii U. Mocha è ora stato abilitato e puoi utilizzare il Canale Homebrew Launcher che hai installato precedentemente.
+ - Se il tuo Wii U si blocca su una schermata bianca o su una qualsiasi altra schermata, aspetta qualche secondo. Se non accade nulla, riavvia la console, [resetta i dati del browser](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1507/~/how-to-delete-the-internet-browser-history) e riprova.

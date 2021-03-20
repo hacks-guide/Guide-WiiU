@@ -1,18 +1,18 @@
-# How To Fix The Error Code 112-1037
+Come risolvere il codice errore 112-1037
 ---
-This page will guide you through the process of fixing the error code 112-1037.
+Questa pagina ti guiderà nel processo di risolvimento del codice errore 112-1037.
 
-### What You Need {docsify-ignore}
+### Cosa ti servirà {docsify-ignore}
 
-- A working [homebrew installation](introduction).
-- [wupclient.py](https://raw.githubusercontent.com/Elpunical/mocha/master/ios_mcp/wupclient.py) **(right-click -> Save link as... -> Click Save).**
-- The latest release of [Python](https://www.python.org/downloads/).
+- Un'installazione funzionante di [homebrew](introduction).
+- [wupclient.py](https://raw.githubusercontent.com/Elpunical/mocha/master/ios_mcp/wupclient.py) **(tasto destro -> Salva il link come... -> Clicca salva).**
+- L'ultima versione di [Python](https://www.python.org/downloads/).
 
-### Instructions {docsify-ignore}
+### Istruzioni {docsify-ignore}
 
-1. Install Python on your computer.
+1. Installa Python sul computer.
 
-### Fixing The Error Code
+### Risolvere l'errore
 
 <!-- tabs:start -->
 
@@ -20,41 +20,41 @@ This page will guide you through the process of fixing the error code 112-1037.
 
 ### Windows
 
-1. Power on your Wii U.
-1. Launch the Homebrew Launcher and launch Mocha.
-1. Go back to the Wii U Menu.
-1. Open up a command prompt window.
-1. Use the following command: `cd <directory>`.
-  - Example: <code>cd C:\Users\username<wbr>\Downloads</code>.
-1. Use the following command: `py -3 -i wupclient.py`.
-1. Enter the IP address of your Wii U.
- - Don't know how to find it? Read [this](find-wiiu-ip-address).
-1. Use the appropriate command depending on the region of your console:
+1. Accendi il tuo Wii U.
+1. Avvia l'Homebrew Launcher e avvia Mocha.
+1. Torna al menu Wii U.
+1. Apri una del finestra del Prompt dei Comandi sul PC.
+1. Utilizzare il seguente comando: `cd <directory>`.
+  - Esempio: <code>cd C:\Users\username<wbr>\Downloads</code>.
+1. Usa il seguente comando: `py -3 -i wupclient.py`.
+1. Inserisci l'indirizzo IP del tuo Wii U.
+ - Non sai come trovarlo? Leggi [qui](find-wiiu-ip-address).
+1. Usa il comando appropriato a seconda della regione della tua console:
  - JPN: <code>w.chmod("/vol<wbr>/storage_mlc01<wbr>/sys/title/00050030<wbr>/1001200a/content<wbr>/pages<wbr>/index.html", 0x644)</code>.
  - USA: <code>w.chmod("/vol<wbr>/storage_mlc01<wbr>/sys/title/00050030<wbr>/1001210a/content<wbr>/pages<wbr>/index.html", 0x644)</code>.
  - EUR: <code>w.chmod("/vol<wbr>/storage_mlc01<wbr>/sys/title/00050030<wbr>/1001220a/content<wbr>/pages<wbr>/index.html", 0x644)</code>.
-1. If the command worked, you will get the following response: `chmod returned 0x0`.
-1. The error code should now be gone.
+1. Se tutto è andato bene, otterrai la seguente risposta: `chmod returned 0x0`.
+1. Il codice errore dovrebbe essere sparito.
 
 #### **macOS & Linux**
 
 ### macOS & Linux
 
-1. Power on your Wii U.
-1. Launch the Homebrew Launcher and launch Mocha.
-1. Go back to the Wii U Menu.
-1. Open up a Terminal window.
-1. Use the following command: `cd <directory>`.
- - On macOS, the most common place to find your downloaded files is <code>/Users/username<wbr>/Downloads</code>.
- - On Linux, the most common place to find your downloaded files is <code>/home/username<wbr>/Downloads</code>.
-1. Use the following command: `python3 -i wupclient.py`.
-1. Enter the IP address of your Wii U.
- - Don't know how to find it? Read [this](find-wiiu-ip-address).
-1. Use the appropriate command depending on the region of your console:
+1. Accendi il tuo Wii U.
+1. Avvia l'Homebrew Launcher e avvia Mocha.
+1. Torna al menu Wii U.
+1. Apri una finestra del Terminale.
+1. Utilizzare il seguente comando: `cd <directory>`.
+ - Su macOS, il luogo più comune per trovare i file scaricati è <code>/Users/username<wbr>/Downloads</code>.
+ - Su Linux, il luogo più comune per trovare i file scaricati è <code>/home/username<wbr>/Downloads</code>.
+1. Usa il seguente comando: `python3 -i wupclient.py`.
+1. Inserisci l'indirizzo IP del tuo Wii U.
+ - Non sai come trovarlo? Leggi [qui](find-wiiu-ip-address).
+1. Usa il comando appropriato a seconda della regione della tua console:
  - JPN: <code>w.chmod("/vol<wbr>/storage_mlc01<wbr>/sys/title/00050030<wbr>/1001200a/content<wbr>/pages<wbr>/index.html", 0x644)</code>.
  - USA: <code>w.chmod("/vol<wbr>/storage_mlc01<wbr>/sys/title/00050030<wbr>/1001210a/content<wbr>/pages<wbr>/index.html", 0x644)</code>.
  - EUR: <code>w.chmod("/vol<wbr>/storage_mlc01<wbr>/sys/title/00050030<wbr>/1001220a/content<wbr>/pages<wbr>/index.html", 0x644)</code>.
-1. If the command worked, you will get the following response: `chmod returned 0x0`.
-1. The error code should now be gone.
+1. Se tutto è andato bene, otterrai la seguente risposta: `chmod returned 0x0`.
+1. Il codice errore dovrebbe essere sparito.
 
 <!-- tabs:end -->

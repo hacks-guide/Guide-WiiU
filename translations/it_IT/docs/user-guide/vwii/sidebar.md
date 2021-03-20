@@ -1,10 +1,10 @@
-- **Navigation**
-- [Home Page](../introduction)
-- [vWii Modding](../vwii-modding)
-- [Browser Exploit](browser-exploit)
-- **Links**
+- **Navigazione**
+- [Pagina Iniziale](../introduction)
+- [Modding vWii](../vwii-modding)
+- [Exploit del Browser](browser-exploit)
+- **Collegamenti**
 - [![GitHub](https://icongr.am/simple/github.svg?color=808080&size=16)GitHub](https://github.com/hacks-guide/Guide-WiiU)
 - [![Discord](https://icongr.am/simple/discord.svg?colored&size=16)Discord](https://discord.gg/C29hYvh)
-- [![Translate](https://icongr.am/material/translate.svg?color=808080&size=16)Translate](https://hacks-guide.crowdin.com/u/projects/10)
-- [Donate](../donations)
-- [About](../about)
+- [![Traduci](https://icongr.am/material/translate.svg?color=808080&size=16)Traduci](https://hacks-guide.crowdin.com/u/projects/10)
+- [Dona](../donations)
+- [Informazioni](../about)

@@ -1,28 +1,28 @@
-# Unblocking Updates
+# Sbloccare gli aggiornamenti
 ---
-This is needed if you ever need to perform a System Update.
+Questo è necessario se avrai mai bisogno di eseguire un Aggiornamento della Console.
 
-### Instructions {docsify-ignore}
+### Istruzioni {docsify-ignore}
 
 <!-- tabs:start -->
 
-#### **Recreating Update Folder**
+#### **Ricreare la cartella Update**
 
-### Recreating Update Folder
+### Ricreare la cartella Update
 
-1. Plug your SD Card into your Computer.
-1. Download and extract [UFDiine](https://github.com/GaryOderNichts/UFDiine/releases) to the root of your SD Card.
-1. Plug the SD Card into your Wii U console and power it on.
-1. Enter the Homebrew Launcher.
-1. Navigate the Homebrew Launcher and run the UFDiine app.
-1. Press the A button to create the update folder.
-1. Confirm that it says `Update folder exists`. You are no longer blocking updates.
+1. Inserisci la scheda SD nel tuo computer.
+1. Scarica ed estrai [UFDiine](https://github.com/GaryOderNichts/UFDiine/releases) nella root della tua scheda SD.
+1. Inserisci la scheda SD nel tuo Wii U e accendilo.
+1. Entra nell'Homebrew Launcher.
+1. Naviga nell'Homebrew Launcher ed esegui l'app UFDiine.
+1. Premi A per creare la cartella Update.
+1. Controlla che dica `Update folder exists`. Ora non stai più bloccando gli aggiornamenti.
 
-#### **Removing DNS Blocks**
+#### **Rimuovere i blocchi DNS**
 
-### Removing DNS Blocks
+### Rimuovere i blocchi DNS
 
-1. Enter the Wii U's system settings and navigate to `Internet > Connect to the Internet > Connection List >` `Your WiFi connection > Change Settings > DNS` and set the option to `Auto-obtain`.
-1. You are no longer blocking system updates.
+1. Entra nelle impostazioni della console Wii U e vai su `Internet> Collegati a Internet> Lista delle connessioni >` ` La tua connessione Wi-Fi > Modifica le impostazioni > DNS` e imposta `Ottenimento automatico`.
+1. Non stai più bloccando gli aggiornamenti di sistema.
 
 <!-- tabs:end -->
