@@ -31,8 +31,8 @@ Currently, two ways exist to block updates on the Wii U system:
 1. Enter the Wii U's system settings and navigate to `Internet > Connect to the Internet > Connection List >`
 `Your WiFi connection > Change Settings > DNS` and set the option to `Do not auto-obtain`.
 1. You will be asked to input a primary and secondary DNS. Enter the following IP addresses:
- - Primary DNS: 168.235.092.108
- - Secondary DNS: 081.004.127.020
+    - Primary DNS: 168.235.092.108
+    - Secondary DNS: 081.004.127.020
 <img src="docs/assets/img/DNS.png" alt="DNS Block">
 1. Click on confirm.
 1. You are now blocking updates. In order to access the eShop, run the NNUPatcher app from the Homebrew Launcher before launching the eShop.
