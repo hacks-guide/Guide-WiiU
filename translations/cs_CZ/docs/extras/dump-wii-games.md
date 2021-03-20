@@ -24,15 +24,15 @@ Dumping your Discs allows you to: play them on a Wii emulator (namely Dolphin), 
 1. Read the Disclaimer then press A.
 1. Select Yes to enable Checksum Calculations.
 1. Select either USB or Front SD depending on which device you want to use for the dumping process.
- - Please note that the device you will choose needs to be formatted either in FAT32 or NTFS.
+    - Please note that the device you will choose needs to be formatted either in FAT32 or NTFS.
 1. Press A to continue.
 1. Select No on the screen that asks you to download redump.org DAT files.
 1. Insert your disc then press A.
 1. Go [on this page](https://wiki.dolphin-emu.org/index.php?title=Category:Dual_Layer_Disc_games) to see if your disc is dual-layered.
 1. Set everything to match the following:
- - Dual Layer: `Yes/No` (Select `Yes` if your game's disc is dual-layered)
- - Chunk Size: `Max`
- - New device per chunk: `No`
+    - Dual Layer: `Yes/No` (Select `Yes` if your game's disc is dual-layered)
+    - Chunk Size: `Max`
+    - New device per chunk: `No`
 1. If you want to dump multiple discs, select Yes to remember your settings. If not, select No.
 
 ?> Be prepared to wait a while. The dumping process can take 30 minutes to 1 hour depending on your SD Card's speeds.
