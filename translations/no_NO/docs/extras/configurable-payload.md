@@ -19,4 +19,4 @@ Denne payloaden er konfigurerbar, lignende Haxchi sin config. Dette kan være ny
 1. Pakk ut `Configurable_Payload.zip` til roten av SD-kortet. La den overskrive filer på SD kortet ditt om den ber om det.
 1. Sett inn SD kortet i Wii U'en, start nettleseren og gå til `wiiuexploit.xyz`.
 1. Klikk på `Run Homebrew Launcher!`. Hvis alt er gjort riktig, skal du ende tilbake til Wii U menyen. Mocha er nå aktivert og du kan bruke Homebrew Launcher Kanalen som du installerte tidligere.
- - Hvis Wii U konsollen blir sittende fast på en hvit eller fryst skjerm, vent noen få sekunder. Hvis ingenting skjer, start konsollen på nytt og [tilbakestill nettleserens lagringsdata](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1507/~/how-to-delete-the-internet-browser-history) og prøv igjen.
+    - Hvis Wii U konsollen blir sittende fast på en hvit eller fryst skjerm, vent noen få sekunder. Hvis ingenting skjer, start konsollen på nytt og [tilbakestill nettleserens lagringsdata](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1507/~/how-to-delete-the-internet-browser-history) og prøv igjen.
