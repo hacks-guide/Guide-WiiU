@@ -103,11 +103,11 @@ Dumpare i tuoi dischi ti permette di installare una copia del tuo gioco sulla NA
 1. Collega il tuo dispositivo USB. Il Wii U ti chiederà di formattarlo. Annulla con No!
 1. Apri l'Homebrew Launcher e avvia l'app MochaFAT32.
 1. Nel menù di configurazione, imposta le seguenti impostazioni:
-  - Config view mode: default
-  - Skip this menu on launch: on
-  - Don't relaunch OS: off
-  - Launch System Menu: on
-  - RedNAND: off
+    - Config view mode: default
+    - Skip this menu on launch: on
+    - Don't relaunch OS: off
+    - Launch System Menu: on
+    - RedNAND: off
 1. La tua console caricherà il menu Wii U con il tuo dispositivo USB al posto della scheda SD.
 1. Avvia l'Homebrew Launcher e apri l'app disc2app.
 1. Espelli qualsiasi disco inserito e premi il pulsante A per iniziare il processo di dumping.
