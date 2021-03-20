@@ -12,11 +12,11 @@ In caso qualcosa vada storto nei processi successivi e la tua Wii U si bricka, r
 
 1. Naviga attraverso l'Homebrew Launcher e avvia l'app `Wii U NAND Dumper`.
 1. Usa il D-Pad del GamePad per inserire la seguente configurazione:
- - Dump SLC: **yes**
- - Dump SLCCMPT: **yes**
- - Dump MLC: **opzionale**
- - Dump OTP: **yes**
- - Dump SEEPROM: **yes**
+    - Dump SLC: **yes**
+    - Dump SLCCMPT: **yes**
+    - Dump MLC: **opzionale**
+    - Dump OTP: **yes**
+    - Dump SEEPROM: **yes**
 1. Premi A per iniziare il processo di dumping.
 1. Quando il processo è completo, spegni la tua Wii U, prendi la SD fuori dalla Wii U ed inseriscila nel tuo PC.
 1. Per assicurarti di non perdere file, copia i file: `slc.bin`, `slccmpt.bin`, `seeprom.bin`, `otp.bin` e se scegli di usare un backup completo, `ogni file chiamato mlc.bin.part` sul tuo computer.
