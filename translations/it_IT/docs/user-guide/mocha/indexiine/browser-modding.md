@@ -19,4 +19,4 @@ Ora che hai il tuo backup della NAND in caso qualcosa andasse storto, puoi insta
 
 L'Homebrew Launcher verrà ora avviato ogni volta che aprirai il browser internet anche senza una connessione internet. Se vuoi visitare un altro sito, aprilo prima che Indexiine inneschi l'exploit.
 
-?> Nel caso vorresti mai disinstallare Indexiine, visita la pagina [Disinstallare Indexiine](/uninstall-indexiine)
+?> Nel caso vuoi disinstallare Indexiine, vai a vedere la pagina [Disinstallare Indexiine](../../uninstall-indexiine)

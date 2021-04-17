@@ -19,4 +19,4 @@ Nå som du har en NAND backup i tilfelle noe går galt senere, kan du installere
 
 Nettleseren vil nå sende deg rett til Homebrew Launcher selv om du ikke har internett tilkobling. Hvis du vil besøke et annet nettsted, kan du søke før Indexiine starter exploit'en.
 
-?> Hvis du ønsker å avinstallere Indexiine, se [Avinstallere Indexiine](/uninstall-indexiine) siden
+?> Hvis du ønsker å avinstallere Indexiine, se [Avinstallere Indexiine](../../uninstall-indexiine) siden
