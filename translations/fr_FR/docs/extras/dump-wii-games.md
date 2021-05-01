@@ -4,6 +4,9 @@ Dumper vos diques vous permet de : les lire sur un émulateur Wii (à savoir Dol
 
 ?> Dumper des jeux Wii nécessite une installation fonctionnelle de Homebrew sur la vWii, alors assurez-vous de terminer le [Modding de la vWii](vwii-modding) au préalable.
 
+!> It is **ILLEGAL** to share the files dumped with this guide.  
+If you intend to use this guide to share your dumped games, don't.
+
 ### Ce dont vous avez besoin {docsify-ignore}
 
 1. La dernière version de [CleanRip](https://github.com/emukidid/cleanrip/releases/download/2.1.1/CleanRip-v2.1.1.zip).
@@ -35,11 +38,11 @@ Dumper vos diques vous permet de : les lire sur un émulateur Wii (à savoir Dol
     - New device per chunk: `No`
 1. Si vous souhaitez dumper plusieurs disques, sélectionnez Oui pour mémoriser vos paramètres. Si ce n'est pas le cas, sélectionnez Non.
 
-?> Soyez prêts à attendre un moment. Le processus de dumping peut prendre de 30 minutes à 1 heure selon la vitesse de votre carte SD.
+?> Be prepared to wait a while. The dumping process can take 30 minutes to 1 hour depending on your SD Card's speeds.
 
 ### Fusionner les fichiers scindés
 
-?> Si vous avez dumpé le disque sur un appareil formaté en FAT32, vous devriez avoir au moins 2 fichiers qui se terminent par `.partX.iso`. Il faut les fusionner.
+?> If you dumped the disc on a FAT32 formatted, device, you should've got at least 2 files that end with `.partX.iso`. They need to be joined up.
 
 1. Copiez tous les fichiers qui portent le même nom et qui se terminent par `.partX.iso` dans un dossier de votre ordinateur.
 1. Ouvrez une fenêtre d'invite de commande.
