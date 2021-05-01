@@ -122,7 +122,7 @@ If you intend to use this guide to share your dumped games, don't.
 1. When the process is complete, your Wii U will launch the Wii U Menu.
 1. You should see your game installed, ready to be played.
 1. Take the USB device out of your Wii U and plug it into your PC.
-2. Delete the `WUP-X-XXXX` folder in the `install` directory on your USB device to free up space.
+1. Delete the `WUP-X-XXXX` folder in the `install` directory on your USB device to free up space.
 
 <!-- tabs:end -->
 
