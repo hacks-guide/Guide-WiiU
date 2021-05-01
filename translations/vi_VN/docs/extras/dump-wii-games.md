@@ -4,6 +4,9 @@ Dumping your Discs allows you to: play them on a Wii emulator (namely Dolphin), 
 
 ?> Dumping Wii games require a working homebrew setup on vWii, so make sure to finish the [vWii Modding guide](vwii-modding) beforehand.
 
+!> It is **ILLEGAL** to share the files dumped with this guide.  
+If you intend to use this guide to share your dumped games, don't.
+
 ### What You Need {docsify-ignore}
 
 1. The latest release of [CleanRip](https://github.com/emukidid/cleanrip/releases/download/2.1.1/CleanRip-v2.1.1.zip).
