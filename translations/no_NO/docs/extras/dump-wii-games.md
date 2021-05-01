@@ -4,8 +4,8 @@ Dumping av Wii diskene dine lar deg spille dem på en Wii-emulator (Dolphin), sp
 
 ?> Dumping av Wii spill krever et fungerende Homebrew oppsett på vWii, så fullfør [vWii Modifiserings guiden](vwii-modding) på forhånd.
 
-!> It is **ILLEGAL** to share the files dumped with this guide.  
-If you intend to use this guide to share your dumped games, don't.
+!> Det er **ULOVLIG** å dele filer dumpet med denne guiden.  
+Ikke bruk denne guiden til å dele spillene dine.
 
 ### Dette Trenger Du {docsify-ignore}
 
@@ -38,11 +38,11 @@ If you intend to use this guide to share your dumped games, don't.
     - New device per chunk: `No`
 1. Dersom du ønsker å dumpe flere Wii disker, velg "Yes" for å huske innstillingene dine. Hvis ikke, velg "No".
 
-?> Be prepared to wait a while. The dumping process can take 30 minutes to 1 hour depending on your SD Card's speeds.
+?> Vær forberedt på å vente en stund. Dumpeprosessen kan ta rundt 30 til 60 minutter avhengig av hastigheten på SD-kortet ditt.
 
 ### Slå sammen Split Filer
 
-?> If you dumped the disc on a FAT32 formatted, device, you should've got at least 2 files that end with `.partX.iso`. They need to be joined up.
+?> Hvis du dumpet Wii disken på en FAT32-formatert enhet, så burde du ha fått minst 2 filer som ender med `.partX.iso`. De må slåes sammen.
 
 1. Kopier alle filene som deler samme navn og slutter med `.partX.iso` i en mappe på PC'en din.
 1. Åpne opp et Command Prompt vindu.
