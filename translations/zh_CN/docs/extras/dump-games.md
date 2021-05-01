@@ -122,7 +122,7 @@ If you intend to use this guide to share your dumped games, don't.
 1. 过程完成后，Wii U 将启动 Wii U 主菜单。
 1. 然后你就应该看到游戏已经安装好了，准备好玩吧。
 1. 将 USB 设备从 Wii U 上弹出，然后插入电脑。
-2. 你可以删除 USB 设备的 `install` 文件夹里的 `WUP-X-XXXX` 文件夹来腾出一些空间。
+1. 你可以删除 USB 设备的 `install` 文件夹里的 `WUP-X-XXXX` 文件夹来腾出一些空间。
 
 <!-- tabs:end -->
 
