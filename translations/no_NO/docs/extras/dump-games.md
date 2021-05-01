@@ -4,8 +4,8 @@ Ved å Dumpe en Wii U Disk, kan du installere en kopi av spillet til system NAND
 
 ?> Det krever et fungerende Homebrew oppsett. Så sørg først for å fullføre guiden for å installere CFW før du går videre.
 
-!> It is **ILLEGAL** to share the files dumped with this guide.  
-If you intend to use this guide to share your dumped games, don't.
+!> Det er **ULOVLIG** å dele filer dumpet med denne guiden.  
+Ikke bruk denne guiden til å dele spillene dine.
 
 ### Instruksjoner {docsify-ignore}
 
@@ -15,7 +15,7 @@ If you intend to use this guide to share your dumped games, don't.
 
 ### Installere til NAND
 
-?> Installing a game to the system memory (NAND) is not recommended as it's limited to either 8GB or 32GB depending on your model, making you run out of space pretty quickly if you want to install multiple games.
+?> Det anbefales ikke å installere et spill til systemminnet (NAND) siden lagringsplassen er begrenset til enten 8gb eller 32gb avhengig av modellen din, det blir fort fullt hvis du ønsker å installere flere spill.
 
 ### Dette Trenger Du {docsify-ignore}
 
@@ -46,9 +46,9 @@ If you intend to use this guide to share your dumped games, don't.
 
 ### Installere til USB
 
-?> When installing a game to a USB device, we recommend that you use an HDD and not a flash drive, as those are not optimized for constant reading and writing, therefore making them fail quickly. If your HDD is not externally powered, you will need a Y-cable to connect it to two USB slots on the Wii U.
+?> Når du installerer et spill til en USB-enhet, anbefaler vi at du bruker en ekstern harddisk istedenfor en USB-penn, siden de ikke er laget for kontinuerlig lesing og skriving, og vil brenne ut minnet fort. Hvis den eksterne harddisken din ikke har eget strømadapter, trenger du en Y-kabel for å koble den til to USB-porter i Wii U konsollen din.
 
-!> In order to install to a USB device, it has to be formatted by the Wii U. Doing this will erase all contents of it, and prevent it from being used on another system unless you reformat it.
+!> For å installere til en USB-enhet må den bli formatert av Wii U konsollen. Når du formaterer USB-enheten så slettes alt innhold og hindrer at enheten kan brukes med en annen Wii U konsoll eller PC ol. med mindre du formaterer den på nytt til ett annet format.
 
 ### Dette Trenger Du {docsify-ignore}
 
@@ -82,7 +82,7 @@ If you intend to use this guide to share your dumped games, don't.
 
 ### Installere fra USB
 
-?> If you do not have enough space on your SD Card, you can use an advanced technique to install dumps from a USB device. This is not the easiest thing to do and has the disadvantage of only being able to install the game onto your system memory (NAND).
+?> Hvis du ikke har nok plass på SD-kortet, så kan du bruke en avansert teknikk for å installere spill dumps fra en USB-penn. Dette er en tungvint metode og man kan bare installere spill til systemminnet (NAND).
 
 ### Dette Trenger Du {docsify-ignore}
 
@@ -95,7 +95,7 @@ If you intend to use this guide to share your dumped games, don't.
 
 ### Instruksjoner {docsify-ignore}
 
-?> **Notice** Your USB device will need to be formatted as FAT32. If your USB is not formatted to FAT32, use [GUIFormat](http://ridgecrop.co.uk/index.htm?guiformat.htm) with 32k (32768) Allocation unit size to format it.
+?> **Merk** USB-lagringsenheten må formateres til FAT32. Hvis den ikke er formatert til FAT32, bruk [GUIFormat](http://ridgecrop.co.uk/index.htm?guiformat.htm) med 32k (32768) Allocation unit size for å formatere den.
 
 1. Pakk ut `homebrew_launcher.v.1.4.zip` til roten av USB-pennen.
 1. Pakk ut `wup_installer_gx2.zip` til roten av USB-pennen.
@@ -128,9 +128,9 @@ If you intend to use this guide to share your dumped games, don't.
 
 ### Flytte spill til USB
 
-?> If you don't want to keep the game installed on NAND, you can use the Wii U's data management to move the game to a USB device.
+?> Hvis du ikke vil ha spillet installert på NAND, så kan du bruke Wii U konsollens databehandling for å flytte spillet til en USB-enhet.
 
-!> In order to move your game to a USB device, it has to be formatted by the Wii U. Doing this will erase all contents of it, and prevent it from being used on another system unless you reformat it.
+!> For å flytte spillet til en USB-enhet, må den være formatert av Wii U konsollen. Når du formaterer USB-enheten så slettes alt innhold og hindrer enheten i å brukes med en annet Wii U konsoll eller PC ol. med mindre du formaterer det på nytt til ett annet format.
 
 1. Start Wii U konsollen på nytt for å avløse MochaFAT32.
 1. Koble USB-enheten til Wii U konsollen din.
@@ -142,7 +142,7 @@ If you intend to use this guide to share your dumped games, don't.
 
 ### Flytte oppdateringer til USB
 
-?> If your disc game had DLC or updates installed, you will need to transfer the files over to your USB device. You can do this using the Wii U's data management.
+?> Hvis spillet ditt hadde DLC eller oppdateringer installert, må du overføre filene over til USB-enheten din. Du kan gjøre dette ved å bruke Wii U konsollens "data management".
 
 1. Slå på Wii U konsollen
 1. Gå inn på systeminnstillinger.
