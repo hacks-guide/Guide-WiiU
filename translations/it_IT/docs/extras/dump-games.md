@@ -4,6 +4,9 @@ Dumpare i tuoi dischi ti permette di installare una copia del tuo gioco sulla NA
 
 ?> Dumpare e installare giochi richiede una console modificata, quindi assicurati di aver seguito la guida principale sull'installazione di CFW prima di seguire questa guida.
 
+!> It is **ILLEGAL** to share the files dumped with this guide.  
+If you intend to use this guide to share your dumped games, don't.
+
 ### Istruzioni {docsify-ignore}
 
 <!-- tabs:start -->
@@ -12,7 +15,7 @@ Dumpare i tuoi dischi ti permette di installare una copia del tuo gioco sulla NA
 
 ### Installazione sulla NAND
 
-?> Installare un gioco sulla memoria di sistema (NAND) non è consigliato poiché è limitata a soli 8GB o 32GB a dipendenza del tuo modello, facendoti finire lo spazio in fretta se vuoi installare più giochi.
+?> Installing a game to the system memory (NAND) is not recommended as it's limited to either 8GB or 32GB depending on your model, making you run out of space pretty quickly if you want to install multiple games.
 
 ### Cosa ti servirà {docsify-ignore}
 
@@ -43,9 +46,9 @@ Dumpare i tuoi dischi ti permette di installare una copia del tuo gioco sulla NA
 
 ### Installazione su USB
 
-?> Quando si installa un gioco su un dispositivo USB, consigliamo di usare un HDD e non una chiave USB, poiché queste ultime non sono ottimizzate per una costante lettura e scrittura, e portano quindi a errori frequenti. Se il tuo HDD non è alimentato esternamente, ti servirà un cavo a Y per collegarlo alle due porte USB del Wii U.
+?> When installing a game to a USB device, we recommend that you use an HDD and not a flash drive, as those are not optimized for constant reading and writing, therefore making them fail quickly. If your HDD is not externally powered, you will need a Y-cable to connect it to two USB slots on the Wii U.
 
-!> Per poter installare su un dispositivo USB, quest'ultimo deve essere formattato dal Wii U. Facendo ciò, i contenuti del dispositivo verranno eliminati e non sarà possibile utilizzarlo su altri sistemi, a meno che non lo riformatti.
+!> In order to install to a USB device, it has to be formatted by the Wii U. Doing this will erase all contents of it, and prevent it from being used on another system unless you reformat it.
 
 ### Cosa Ti Servirà {docsify-ignore}
 
@@ -79,7 +82,7 @@ Dumpare i tuoi dischi ti permette di installare una copia del tuo gioco sulla NA
 
 ### Installazione da USB
 
-?> Se non hai abbastanza spazio sulla tua scheda SD, puoi usare una tecnica avanzata per installare i giochi dumpati da un dispositivo USB. Questa non è la cosa più facile da fare ed ha lo svantaggio di poter installare il gioco solo sulla tua memoria di sistema (NAND).
+?> If you do not have enough space on your SD Card, you can use an advanced technique to install dumps from a USB device. This is not the easiest thing to do and has the disadvantage of only being able to install the game onto your system memory (NAND).
 
 ### Cosa ti servirà {docsify-ignore}
 
@@ -92,7 +95,7 @@ Dumpare i tuoi dischi ti permette di installare una copia del tuo gioco sulla NA
 
 ### Istruzioni {docsify-ignore}
 
-?> **Nota bene** Il tuo dispositivo USB dovrà essere formattato in FAT32. Se il tuo USB non è formattato in FAT32, usa [GUIFormat](http://ridgecrop.co.uk/index.htm?guiformat.htm) con 32k (32768) di Unità di allocazione per formattarlo.
+?> **Notice** Your USB device will need to be formatted as FAT32. If your USB is not formatted to FAT32, use [GUIFormat](http://ridgecrop.co.uk/index.htm?guiformat.htm) with 32k (32768) Allocation unit size to format it.
 
 1. Copia i contenuti del file `homebrew_launcher.v.1.4.zip` nella root della tua scheda SD.
 1. Copia i contenuti del file `wup_installer_gx2.zip` nella root del tuo dispositivo USB.
@@ -119,15 +122,15 @@ Dumpare i tuoi dischi ti permette di installare una copia del tuo gioco sulla NA
 1. Quando il processo è completo, il tuo Wii U ti porterà nel menu Wii U.
 1. Dovresti vedere il tuo gioco installato, pronto per essere giocato.
 1. Togli il dispositivo USB dal tuo Wii U e inseriscilo nel tuo PC.
-2. Elimina la sotto-cartella `WUP-X-XXXX` della cartella `install` sul tuo dispositivo USB per liberare spazio.
+1. Elimina la sotto-cartella `WUP-X-XXXX` della cartella `install` sul tuo dispositivo USB per liberare spazio.
 
 <!-- tabs:end -->
 
 ### Spostare giochi su USB
 
-?> Se non vuoi tenere i tuoi giochi installati sulla NAND, puoi utilizzare la gestione dati del Wii U per spostare il gioco su un dispositivo USB.
+?> If you don't want to keep the game installed on NAND, you can use the Wii U's data management to move the game to a USB device.
 
-!> Per spostare il gioco su un dispositivo USB, deve essere formattato dal Wii U. Facendo ciò, i contenuti del dispositivo verranno eliminati e non sarà possibile utilizzarlo su altri sistemi, a meno che non lo riformatti.
+!> In order to move your game to a USB device, it has to be formatted by the Wii U. Doing this will erase all contents of it, and prevent it from being used on another system unless you reformat it.
 
 1. Riavvia il tuo Wii U per rimuovere l'effetto di MochaFAT32.
 1. Collega il tuo dispositivo USB al Wii U.
@@ -139,7 +142,7 @@ Dumpare i tuoi dischi ti permette di installare una copia del tuo gioco sulla NA
 
 ### Spostare aggiornamenti su USB
 
-?> Se il tuo disco ha DLC o aggiornamenti installati, dovrai trasferire i file sul tuo dispositivo USB. Puoi farlo utilizzando la gestione dati del Wii U.
+?> If your disc game had DLC or updates installed, you will need to transfer the files over to your USB device. You can do this using the Wii U's data management.
 
 1. Accendi il tuo Wii U
 1. Apri le Impostazioni della console Wii U.

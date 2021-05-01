@@ -4,6 +4,9 @@ Dumper vos disques vous permet d'installer une copie de votre jeu sur la NAND / 
 
 ?> Le dumping et l'installation de jeux nécessitent une installation Homebrew fonctionnelle, donc assurez-vous de terminer le guide principal sur l'installation de CFW avant de le suivre.
 
+!> Il est **ILLÉGAL** de partager les fichiers dumpés à l'aide de ce guide.  
+Si vous avez l'intention d'utiliser ce guide pour ensuite partager vos jeux dumpés, ne le faites pas.
+
 ### Instructions {docsify-ignore}
 
 <!-- tabs:start -->
@@ -12,7 +15,7 @@ Dumper vos disques vous permet d'installer une copie de votre jeu sur la NAND / 
 
 ### Installer sur la NAND
 
-?> Installer un jeu dans la mémoire système (NAND) n'est pas recommandé car elle est limitée à 8 Go ou 32 Go selon votre modèle, ce qui vous ferait manquer d'espace assez rapidement si vous souhaitez installer plusieurs jeux.
+?> Installer un jeu dans la mémoire interne de la console (NAND) n'est pas recommandé car elle est limitée à 8 Go ou 32 Go selon le modèle de votre console, ce qui vous ferait manquer d'espace assez rapidement si vous souhaitez installer plusieurs jeux.
 
 ### Ce dont vous avez besoin {docsify-ignore}
 
@@ -43,7 +46,7 @@ Dumper vos disques vous permet d'installer une copie de votre jeu sur la NAND / 
 
 ### Installer sur un périphérique USB
 
-?> Lors de l'installation d'un jeu sur un périphérique USB, nous vous recommandons d'utiliser un disque dur et non un lecteur flash, car ils ne sont pas optimisés pour la lecture et l'écriture constantes, ce qui les abîmeraient assez rapidement. Si votre disque dur n'est pas alimenté en externe, vous aurez besoin d'un câble en Y pour le connecter à deux ports USB sur la Wii U.
+?> Lors de l'installation d'un jeu sur un périphérique USB, nous vous recommandons d'utiliser un disque dur plutôt qu'un périphérique à mémoire flash (comme par exemple, une clé USB), car ils ne sont pas optimisés pour la lecture et l'écriture constantes, ce qui les uses rapidement. Si votre disque dur n'est pas alimenté par une source externe, vous aurez besoin d'un câble en Y pour le connecter à deux ports USB sur la Wii U.
 
 !> Afin d'installer sur un périphérique USB, celui-ci doit être formaté par la Wii U. Cela effacera tout le contenu et empêchera son utilisation sur un autre système, à moins que vous ne le reformatiez.
 
@@ -79,7 +82,7 @@ Dumper vos disques vous permet d'installer une copie de votre jeu sur la NAND / 
 
 ### Installer depuis l'USB
 
-?> Si vous n'avez pas assez d'espace sur votre carte SD, vous pouvez utiliser une technique avancée pour installer des dumps à partir d'un périphérique USB. Ce n'est pas la chose la plus facile à faire et a le désavantage de ne pouvoir installer le jeu que sur votre mémoire système (NAND).
+?> Si vous n'avez pas assez de place sur votre carte SD, vous pouvez utiliser une technique avancée pour installer des dumps à partir d'un périphérique USB. Ce n'est pas la chose la plus facile à faire et a le désavantage de ne pouvoir installer le jeu que sur la mémoire interne de la console (NAND).
 
 ### Ce dont vous avez besoin {docsify-ignore}
 
@@ -119,7 +122,7 @@ Dumper vos disques vous permet d'installer une copie de votre jeu sur la NAND / 
 1. Une fois le processus terminé, votre Wii U lancera le Menu Wii U.
 1. Vous devriez voir votre jeu installé, prêt à être joué.
 1. Sortez le périphérique USB de votre Wii U et branchez-le sur votre PC.
-2. Supprimez le dossier `WUP-X-XXXX` dans le répertoire `install` de votre périphérique USB pour libérer de l'espace.
+1. Supprimez le dossier `WUP-X-XXXX` dans le répertoire `install` de votre périphérique USB pour libérer de l'espace.
 
 <!-- tabs:end -->
 
@@ -127,7 +130,7 @@ Dumper vos disques vous permet d'installer une copie de votre jeu sur la NAND / 
 
 ?> Si vous ne voulez pas garder le jeu installé sur la NAND, vous pouvez utiliser le menu Gestion des données de la Wii U pour déplacer le jeu vers un périphérique USB.
 
-!> Afin de déplacer votre jeu vers un périphérique USB, celui-ci doit être formaté par la Wii U. Cela effacera tout le contenu et empêchera son utilisation sur un autre système, à moins que vous ne le reformatiez.
+!> Afin de déplacer votre jeu sur un périphérique USB, celui-ci doit être formaté par la Wii U. Cela effacera tout le contenu et empêchera son utilisation sur un autre système, à moins que vous ne le reformatiez.
 
 1. Redémarrez votre Wii U pour supprimer l'effet de MochaFAT32.
 1. Branchez votre périphérique USB dans la Wii U.

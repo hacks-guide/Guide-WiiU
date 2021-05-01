@@ -4,6 +4,9 @@
 
 ?> 导出和安装游戏需要你先完成 Homebrew 的设置，所以你需要先完成关于安装自制固件的主要教程，然后再来关注下面的步骤。
 
+!> It is **ILLEGAL** to share the files dumped with this guide.  
+If you intend to use this guide to share your dumped games, don't.
+
 ### 步骤 {docsify-ignore}
 
 <!-- tabs:start -->
@@ -12,7 +15,7 @@
 
 ### 安装至 NAND
 
-?> 我们不建议将游戏安装到系统内存中（NAND），因为主机的内存容量为 8 GB 或 32 GB，如果你想安装好几个游戏，剩余空间会很快用完。
+?> Installing a game to the system memory (NAND) is not recommended as it's limited to either 8GB or 32GB depending on your model, making you run out of space pretty quickly if you want to install multiple games.
 
 ### 你需要准备些啥？ {docsify-ignore}
 
@@ -43,9 +46,9 @@
 
 ### 安装到 USB 设备
 
-?> 如果你需要将游戏安装到 USB 设备，我们建议你使用 HDD 而不要用闪存驱动器（U盘），闪存驱动器没有对读写文件的特别优化，导致它们会很快就无法正常使用。 如果你的 HDD 没有外接电源，则你需要一根硬盘 Y 形线将硬盘连接至 Wii U 上的两个 USB 接口上。
+?> When installing a game to a USB device, we recommend that you use an HDD and not a flash drive, as those are not optimized for constant reading and writing, therefore making them fail quickly. If your HDD is not externally powered, you will need a Y-cable to connect it to two USB slots on the Wii U.
 
-!> 要将游戏安装到的 USB 设备必须经过 Wii U 的格式化才能使用。格式化将会删除 USB 设备上的所有文件，且再被格式化之前你无法在 Wii U 以外的设备上继续使用这个 USB 设备。
+!> In order to install to a USB device, it has to be formatted by the Wii U. Doing this will erase all contents of it, and prevent it from being used on another system unless you reformat it.
 
 ### 你需要准备些啥？ {docsify-ignore}
 
@@ -79,7 +82,7 @@
 
 ### 从 USB 设备中安装
 
-?> 如果你的 SD 卡中没有足够的空间，你可以使用高级技巧从 USB 设备中安装导出的文件。 这不是容易做的事情，且它的缺点是只能将游戏安装到系统内存中（NAND）。
+?> If you do not have enough space on your SD Card, you can use an advanced technique to install dumps from a USB device. This is not the easiest thing to do and has the disadvantage of only being able to install the game onto your system memory (NAND).
 
 ### 你需要准备些啥？ {docsify-ignore}
 
@@ -92,7 +95,7 @@
 
 ### 步骤 {docsify-ignore}
 
-?> **注意** 你的 USB 设备需要格式化为 FAT32。 如果你的 USB 设备没有格式化为 FAT32，则你需要用 [GUIFormat](http://ridgecrop.co.uk/index.htm?guiformat.htm) 格式化，格式化时请将分配单元大小设置为 32k（32768）。
+?> **Notice** Your USB device will need to be formatted as FAT32. If your USB is not formatted to FAT32, use [GUIFormat](http://ridgecrop.co.uk/index.htm?guiformat.htm) with 32k (32768) Allocation unit size to format it.
 
 1. 复制 `homebrew_launcher.v.1.4.zip` 里的文件到你 USB 设备的根目录中。
 1. 复制 `wup_installer_gx2.zip` 里的文件到你 USB 设备的根目录。
@@ -119,15 +122,15 @@
 1. 过程完成后，Wii U 将启动 Wii U 主菜单。
 1. 然后你就应该看到游戏已经安装好了，准备好玩吧。
 1. 将 USB 设备从 Wii U 上弹出，然后插入电脑。
-2. 你可以删除 USB 设备的 `install` 文件夹里的 `WUP-X-XXXX` 文件夹来腾出一些空间。
+1. 你可以删除 USB 设备的 `install` 文件夹里的 `WUP-X-XXXX` 文件夹来腾出一些空间。
 
 <!-- tabs:end -->
 
 ### 移动游戏到 USB 设备
 
-?> 如果你不想让你的游戏一直安装在 NAND 上，你可以使用 Wii U 的数据管理来将游戏移动到 USB 设备中。
+?> If you don't want to keep the game installed on NAND, you can use the Wii U's data management to move the game to a USB device.
 
-!> 要将游戏移动到的 USB 设备必须经过 Wii U 的格式化才能使用。格式化将会删除 USB 设备上的所有文件，且再被格式化之前你无法在 Wii U 以外的设备上继续使用这个 USB 设备。
+!> In order to move your game to a USB device, it has to be formatted by the Wii U. Doing this will erase all contents of it, and prevent it from being used on another system unless you reformat it.
 
 1. 重启 Wii U 来解除 MochaFAT32 的效果。
 1. 将你的 USB 设备连接至 Wii U。
@@ -139,7 +142,7 @@
 
 ### 将游戏更新移动至 USB
 
-?> 如果你光盘的游戏中安装了更新或 DLC，你需要将这些文件传输至 USB 设备中。 你可以使用 Wii U 的数据管理来做到这点。
+?> If your disc game had DLC or updates installed, you will need to transfer the files over to your USB device. You can do this using the Wii U's data management.
 
 1. 将你的 Wii U 开机。
 1. 打开 Wii U 的系统设置。

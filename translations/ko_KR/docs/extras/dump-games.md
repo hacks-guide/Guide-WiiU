@@ -4,6 +4,9 @@ Dumping your Discs allows you to install a copy of your game to the system NAND/
 
 ?> Dumping and installing games requires a working Homebrew setup, so make sure to finish the main guide on installing CFW first before following this.
 
+!> It is **ILLEGAL** to share the files dumped with this guide.  
+If you intend to use this guide to share your dumped games, don't.
+
 ### Instructions {docsify-ignore}
 
 <!-- tabs:start -->
@@ -119,7 +122,7 @@ Dumping your Discs allows you to install a copy of your game to the system NAND/
 1. When the process is complete, your Wii U will launch the Wii U Menu.
 1. You should see your game installed, ready to be played.
 1. Take the USB device out of your Wii U and plug it into your PC.
-2. Delete the `WUP-X-XXXX` folder in the `install` directory on your USB device to free up space.
+1. Delete the `WUP-X-XXXX` folder in the `install` directory on your USB device to free up space.
 
 <!-- tabs:end -->
 
