@@ -4,6 +4,9 @@ Dumping your Discs allows you to install a copy of your game to the system NAND/
 
 ?> Dumping and installing games requires a working Homebrew setup, so make sure to finish the main guide on installing CFW first before following this.
 
+!> It is **ILLEGAL** to share the files dumped with this guide.  
+If you intend to use this guide to share your dumped games, don't.
+
 ### Instructions {docsify-ignore}
 
 <!-- tabs:start -->
