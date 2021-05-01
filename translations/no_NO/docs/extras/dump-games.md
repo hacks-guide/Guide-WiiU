@@ -122,7 +122,7 @@ If you intend to use this guide to share your dumped games, don't.
 1. Når den er ferdig, vil Wii U'en gå tilbake til Wii U menyen.
 1. Nå er spillet ditt installert, og klart til å spille.
 1. Ta USB-pennen ut av Wii U konsollen og koble den til PC'en.
-2. Slett `WUP-X-XXXXXX` mappen i `install` mappen på USB-pennen for å frigjøre plass.
+1. Slett `WUP-X-XXXXXX` mappen i `install` mappen på USB-pennen for å frigjøre plass.
 
 <!-- tabs:end -->
 
