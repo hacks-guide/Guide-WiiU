@@ -4,8 +4,8 @@ Dumpare i tuoi dischi ti permette di: giocarli su un emulatore Wii (come Dolphin
 
 ?> Dumpare i giochi Wii richiede la modifica del vWii, quindi assicurati di seguire tutta la [guida alla modifica del vWii](vwii-modding) prima di procedere.
 
-!> It is **ILLEGAL** to share the files dumped with this guide.  
-If you intend to use this guide to share your dumped games, don't.
+!> E' **ILLEGALE** condividere i file dumpati con questa guida.  
+Se hai intenti di utilizzare questa guida per condividere i tuoi giochi dumpati, non farlo.
 
 ### Cosa ti servirà {docsify-ignore}
 
@@ -38,11 +38,11 @@ If you intend to use this guide to share your dumped games, don't.
     - New device per chunk: `No`
 1. Se vuoi dumpare più dischi, seleziona Yes per memorizzare le impostazioni. In caso contrario, seleziona No.
 
-?> Be prepared to wait a while. The dumping process can take 30 minutes to 1 hour depending on your SD Card's speeds.
+?> Preparati ad aspettare un po'. Il processo di dumping può richiedere dai 30 minuti a 1 ora a dipendenza della velocità della tua scheda SD.
 
 ### Unire i file divisi
 
-?> If you dumped the disc on a FAT32 formatted, device, you should've got at least 2 files that end with `.partX.iso`. They need to be joined up.
+?> Se hai dumpato il disco su un dispositivo formattato in FAT32, dovresti avere almeno due file che terminano con `.partX.iso`. Hanno bisogno di essere uniti.
 
 1. Copia tutti i file che condividono lo stesso nome e che terminano con `.partX.iso` in una cartella sul tuo computer.
 1. Apri una finestra del Prompt dei comandi.
