@@ -19,4 +19,4 @@
 
 Homebrew Launcher 现在会在打开 Wii U 浏览器时自动启动（即使是没有联网的情况下）。 如果你想使用浏览器访问一个网站，请在 Indexiine 触发漏洞前打开它。
 
-?> In case you ever want to uninstall Indexiine, see the [Uninstall Indexiine](../../uninstall-indexiine) page
+?> 如果你想要卸载 Indexiine，请参见[卸载 Indexiine](../../uninstall-indexiine) 页面。
