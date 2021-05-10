@@ -4,8 +4,8 @@
 
 ?> 导出 Wii 游戏需要提前完成 vWii 的 Homebrew 设置，所以你需要先完成 [vWii 修改教程](vwii-modding) 再来关注这一部分的内容。
 
-!> It is **ILLEGAL** to share the files dumped with this guide.  
-If you intend to use this guide to share your dumped games, don't.
+!> 分享本教程导出的文件是 **非法的**。  
+如果你想要使用这个教程导出游戏并分享出去，请不要这么做。
 
 ### 你需要准备些啥？ {docsify-ignore}
 
@@ -38,11 +38,11 @@ If you intend to use this guide to share your dumped games, don't.
     - New device per chunk: `No`
 1. 如果你想要导出多个光盘，请选择 Yes 来保存你的设置。 反之，请选择 No。
 
-?> Be prepared to wait a while. The dumping process can take 30 minutes to 1 hour depending on your SD Card's speeds.
+?> 请等待一段时间。 导出过程可能要 30 分钟至 1 小时，这取决于你的 SD 卡速度。
 
 ### 合并拆分文件
 
-?> If you dumped the disc on a FAT32 formatted, device, you should've got at least 2 files that end with `.partX.iso`. They need to be joined up.
+?> 如果你选择将光盘的文件导入一个文件格式是 FAT32 的设备中，则你至少会得到两个名字尾部为 `.partX.iso` （X为数字）的文件。 它们需要被合并起来。
 
 1. 将以 `.partX.iso` 结尾文件名的文件复制到你的电脑上。
 1. 打开命令提示符。
