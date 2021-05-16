@@ -15,7 +15,7 @@ Ora inseriremo i file CFW richiesti e alcuni altri file homebrew sulla scheda SD
 - La versione più recente di [WUP Installer GX2](https://wiiubru.com/appstore/zips/wup_installer_gx2.zip).
 - La versione più recente di [Homebrew Launcher Channel](https://github.com/GaryOderNichts/homebrew_launcher/releases/tag/v2.1_fix).
   - Dovrai installare il file `homebrew_launcher_channel.v2.1_fix.zip`.
-- L'ultima versione di [Wii U NAND Dumper](https://github.com/koolkdev/wiiu-nanddumper/releases/latest).
+- The latest release of [Wii U NAND Dumper](https://www.wiiubru.com/appstore/zips/nanddumper.zip).
 - La versione più recente dell'[Homebrew App Store](https://github.com/vgmoose/hbas/releases/latest).
   - Dovrai installare il file `wiiu-extracttosd.zip`.
 - La versione più recente di [Haxchi](https://www.wiiubru.com/appstore/zips/haxchi.zip).
