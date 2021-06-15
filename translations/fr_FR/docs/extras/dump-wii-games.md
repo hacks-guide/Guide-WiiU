@@ -51,7 +51,7 @@ Si vous avez l'intention d'utiliser ce guide pour ensuite partager vos jeux dump
 1. Utilisez la commande `cd <path>` et remplacez `<path>` par le chemin d'accès à vos fichiers `.partX.iso`.
 1. Utilisez la commande suivante comme telle : `copie /b *.part ?.iso game.iso`.
 
-#### MacOS/Linux {docsify-ignore}
+#### macOS/Linux {docsify-ignore}
 
 1. Copiez tous les fichiers qui portent le même nom et qui se terminent par `.partX.iso` dans un dossier de votre ordinateur.
 1. Open up a Terminal.
