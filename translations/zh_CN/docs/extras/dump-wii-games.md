@@ -51,7 +51,7 @@
 1. 使用 `cd <path>` 命令将路径移动至你的 `.partX.iso` 文件夹中。
 1. 输入以下命令：`copy /b *.part?.iso game.iso` 来合并文件为 game.iso。
 
-#### MacOS/Linux {docsify-ignore}
+#### macOS/Linux {docsify-ignore}
 
 1. 将以 `.partX.iso` 结尾文件名的文件复制到你的电脑上。
 1. Open up a Terminal.
