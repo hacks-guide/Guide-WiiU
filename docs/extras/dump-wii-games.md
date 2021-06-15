@@ -44,15 +44,16 @@ If you intend to use this guide to share your dumped games, don't.
 
 ?> If you dumped the disc on a FAT32 formatted, device, you should've got at least 2 files that end with `.partX.iso`. They need to be joined up.
 
-#### Windows
+#### Windows {docsify-ignore}
 
 1. Copy all the files that share the same name and end with `.partX.iso` in a folder on your computer.
 1. Open up a Command Prompt window.
 1. Use the `cd <path>` command and replace `<path>` by the path to your `.partX.iso` files.
 1. Use the following command as is: `copy /b *.part?.iso game.iso`.
 
-#### MacOS/Linux
+#### MacOS/Linux {docsify-ignore}
+
 1. Copy all the files that share the same name and end with `.partX.iso` in a folder on your computer.
-2. Open up a Terminal.
-3. Use the `cd <path>` command and replace `<path>` by the path to your `.partX.iso` files.
-4. Use the following command as is: `cat *.part?.iso > game.iso`
+1. Open up a Terminal.
+1. Use the `cd <path>` command and replace `<path>` by the path to your `.partX.iso` files.
+1. Use the following command as is: `cat *.part?.iso > game.iso`.
