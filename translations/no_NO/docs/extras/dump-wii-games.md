@@ -44,7 +44,16 @@ Ikke bruk denne guiden til å dele spillene dine.
 
 ?> Hvis du dumpet Wii disken på en FAT32-formatert enhet, så burde du ha fått minst 2 filer som ender med `.partX.iso`. De må slåes sammen.
 
+#### Windows {docsify-ignore}
+
 1. Kopier alle filene som deler samme navn og slutter med `.partX.iso` i en mappe på PC'en din.
 1. Åpne opp et Command Prompt vindu.
 1. Skriv `cd <path>` og erstatt `<path>` med adressen til `.partX.iso` filene.
 1. Skriv `copy /b *.part?.iso game.iso`.
+
+#### MacOS/Linux {docsify-ignore}
+
+1. Kopier alle filene som deler samme navn og slutter med `.partX.iso` i en mappe på PC'en din.
+1. Open up a Terminal.
+1. Skriv `cd <path>` og erstatt `<path>` med adressen til `.partX.iso` filene.
+1. Use the following command as is: `cat *.part?.iso > game.iso`.
