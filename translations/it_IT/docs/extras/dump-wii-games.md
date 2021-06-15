@@ -44,7 +44,16 @@ Se hai intenti di utilizzare questa guida per condividere i tuoi giochi dumpati,
 
 ?> Se hai dumpato il disco su un dispositivo formattato in FAT32, dovresti avere almeno due file che terminano con `.partX.iso`. Hanno bisogno di essere uniti.
 
+#### Windows {docsify-ignore}
+
 1. Copia tutti i file che condividono lo stesso nome e che terminano con `.partX.iso` in una cartella sul tuo computer.
 1. Apri una finestra del Prompt dei comandi.
 1. Usa il comando `cd <path>` e sostituisci `<path>` con il percorso dei tuoi file `.partX.iso`.
 1. Usa il seguente comando come viene riportato affianco: `copy /b *.part?.iso game.iso`.
+
+#### MacOS/Linux {docsify-ignore}
+
+1. Copia tutti i file che condividono lo stesso nome e che terminano con `.partX.iso` in una cartella sul tuo computer.
+1. Open up a Terminal.
+1. Usa il comando `cd <path>` e sostituisci `<path>` con il percorso dei tuoi file `.partX.iso`.
+1. Use the following command as is: `cat *.part?.iso > game.iso`.
