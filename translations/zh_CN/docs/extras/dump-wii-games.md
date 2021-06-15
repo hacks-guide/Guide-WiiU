@@ -44,7 +44,16 @@
 
 ?> 如果你选择将光盘的文件导入一个文件格式是 FAT32 的设备中，则你至少会得到两个名字尾部为 `.partX.iso` （X为数字）的文件。 它们需要被合并起来。
 
+#### Windows {docsify-ignore}
+
 1. 将以 `.partX.iso` 结尾文件名的文件复制到你的电脑上。
 1. 打开命令提示符。
 1. 使用 `cd <path>` 命令将路径移动至你的 `.partX.iso` 文件夹中。
 1. 输入以下命令：`copy /b *.part?.iso game.iso` 来合并文件为 game.iso。
+
+#### MacOS/Linux {docsify-ignore}
+
+1. 将以 `.partX.iso` 结尾文件名的文件复制到你的电脑上。
+1. Open up a Terminal.
+1. 使用 `cd <path>` 命令将路径移动至你的 `.partX.iso` 文件夹中。
+1. Use the following command as is: `cat *.part?.iso > game.iso`.
