@@ -51,7 +51,7 @@ Ikke bruk denne guiden til å dele spillene dine.
 1. Skriv `cd <path>` og erstatt `<path>` med adressen til `.partX.iso` filene.
 1. Skriv `copy /b *.part?.iso game.iso`.
 
-#### MacOS/Linux {docsify-ignore}
+#### macOS/Linux {docsify-ignore}
 
 1. Kopier alle filene som deler samme navn og slutter med `.partX.iso` i en mappe på PC'en din.
 1. Open up a Terminal.
