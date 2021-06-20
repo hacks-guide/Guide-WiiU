@@ -1,3 +1,6 @@
+@import url("dark.css");
+@import url("light.css") (prefers-color-scheme: light);
+
 .markdown-section iframe[src*="buttons.github.io"] {
     margin: 0;
 }
