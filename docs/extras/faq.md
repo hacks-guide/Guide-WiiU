@@ -1,9 +1,6 @@
 # Frequently Asked Questions {docsify-ignore-all}
 ---
 
-### Does this work on the latest version?
-Yes, at the time of reading this it's at 5.5.5
-
 ### Does homebrew have any risks?
 
 Currently, homebrewing the Wii U does not expose you to a risk of being banned by Nintendo unless you cheat in online games, or do eShop fraud. You should, however, always be careful with launching downloaded homebrew, especially if you don't trust the source, as homebrew can potentially damage your system!
@@ -12,7 +9,7 @@ Currently, homebrewing the Wii U does not expose you to a risk of being banned b
 
 Haxchi is a secondary entry point which uses certain DS Virtual Console titles to allow for access to homebrew while being completely offline (still works with online but no connection required to launch CFW)
 
-Haxchi is not required, however, if you want to use homebrew on your Wii U without the internet browser you will need it. It’s highly recommended as it’s more stable than the browser entry point, especially on the newest firmware.
+Haxchi is **not** required, however, if you want to use homebrew on your Wii U without the internet browser you will need it. It's recommended as it's more convenient to get into CFW than using the Browser Exploit and Mocha CFW.
 
 The cheapest DS Virtual Console games usable for this exploit:  
  - Dr. Kawashima's Brain Training [PAL]
