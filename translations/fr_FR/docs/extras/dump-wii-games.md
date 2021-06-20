@@ -44,7 +44,16 @@ Si vous avez l'intention d'utiliser ce guide pour ensuite partager vos jeux dump
 
 ?> Si vous avez dumpé le disque sur un périphérique formaté en FAT32, vous devriez avoir au moins 2 fichiers qui se terminent par `.partX.iso`. Il faut les fusionner.
 
+#### Windows {docsify-ignore}
+
 1. Copiez tous les fichiers qui portent le même nom et qui se terminent par `.partX.iso` dans un dossier de votre ordinateur.
 1. Ouvrez une fenêtre d'invite de commande.
 1. Utilisez la commande `cd <path>` et remplacez `<path>` par le chemin d'accès à vos fichiers `.partX.iso`.
 1. Utilisez la commande suivante comme telle : `copie /b *.part ?.iso game.iso`.
+
+#### macOS/Linux {docsify-ignore}
+
+1. Copiez tous les fichiers qui portent le même nom et qui se terminent par `.partX.iso` dans un dossier de votre ordinateur.
+1. Open up a Terminal.
+1. Utilisez la commande `cd <path>` et remplacez `<path>` par le chemin d'accès à vos fichiers `.partX.iso`.
+1. Use the following command as is: `cat *.part?.iso > game.iso`.

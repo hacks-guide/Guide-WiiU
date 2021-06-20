@@ -9,7 +9,7 @@ Vi starter med å plassere Homebrew filene du trenger på SD-kortet ditt.
 ### Dette Trenger Du {docsify-ignore}
 
 - Siste utgave av [Wuphax](https://wiiubru.com/appstore/zips/wuphax.zip).
-- The latest release of [Wii U NAND Dumper](https://www.wiiubru.com/appstore/zips/nanddumper.zip).
+- Siste utgave av [Wii U NAND Dumper](https://www.wiiubru.com/appstore/zips/nanddumper.zip).
 - Siste utgave av [HackMii Installer](https://bootmii.org/download/).
 - <a href="docs/files/Patched_IOS80_Installer_for_vWii.zip" download>Patched IOS 80 Installer for vWii</a>.
 - <a href ="docs/files/d2x_cIOS_Installer.zip" download>d2x cIOS Installer</a>.
