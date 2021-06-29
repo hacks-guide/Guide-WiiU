@@ -1,14 +1,15 @@
 # Ofte stilte spørsmål {docsify-ignore-all}
 ---
+
 ### Er det noen risikoer ved å bruke homebrew?
 
-For øyeblikket er det ingen risiko for å bli banned av Nintendo ved bruk av homebrew med mindre du jukser i online spill. Men du bør alltid være forsiktig med å kjøre nedlastede homebrew filer, spesielt hvis du ikke stoler på kilden, da homebrew kan potensielt skade systemet ditt!
+Currently, homebrewing the Wii U does not expose you to a risk of being banned by Nintendo unless you cheat in online games, or do eShop fraud. Men du bør alltid være forsiktig med å kjøre nedlastede homebrew filer, spesielt hvis du ikke stoler på kilden, da homebrew kan potensielt skade systemet ditt!
 
 ### Hva er Haxchi, og trenger jeg det?
 
 Haxchi er et sekundært inngangspunkt som bruker visse DS Virtual Console titler til å gi tilgang til homebrew uten å være koblet til internett (det fungerer fortsatt online, men trenger ikke tilkobling for å starte CFW)
 
-Haxchi er ikke nødvendig, men hvis du ønsker å bruke homebrew på Wii U konsollen uten internett så trenger du det. Men det er anbefalt allikevel fordi det er mer stabilt enn nettleser exploiten, spesielt på den nyeste firmware versjonen.
+Haxchi is **not** required, however, if you want to use homebrew on your Wii U without the internet browser you will need it. It's recommended as it's more convenient to get into CFW than using the Browser Exploit and Mocha CFW.
 
 Det billigste, og mest anbefalte DS VC-spillet for Haxchi er:
  - Dr. Kawashima's Brain Training [PAL]
