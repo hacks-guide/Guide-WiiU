@@ -39,3 +39,36 @@ Nothing special, you can leave them there, delete them or replace them with new 
 
 The internal antenna may have been influenced by the hard drive magnet.  
 You can move the HDD to a different position atop the Wii U, or move it off the Wii U entirely.
+----------
+# SD Card Layout
+This is an example of what your SD card should look like after you set it up. If you have a `-5` error or the `FSOpenFile failed` error your file locations may be incorrect
+```
+💾sd:
+ ┣ 📂cbhc                             (CBHC only)
+ ┃ ┣ 📜bootDrcTex.tga
+ ┃ ┣ 📜bootTvTex.tga
+ ┃ ┣ 📜iconTex.tga
+ ┃ ┗ 📜title.txt
+ ┣ 📂haxchi                           (Haxchi & CBHC only)
+ ┃ ┣ 📜bootDrcTex.tga
+ ┃ ┣ 📜bootTvTex.tga
+ ┃ ┣ 📜config.txt
+ ┃ ┣ 📜iconTex.tga
+ ┃ ┗ 📜title.txt
+ ┣ 📂install
+ ┃ ┗ 📂Homebrew Launcher Channel      (Haxchi & CBHC only)
+ ┃   ┣ 📜00000000.app
+ ┃   ┣ 📜00000003.h3
+ ┃   ┣ ...
+ ┃   ┣ 📜title.cert
+ ┃   ┣ 📜title.tik
+ ┃   ┗ 📜title.tmd
+ ┗ 📂wiiu
+   ┣ 📂apps
+   ┃ ┣ 📂homebrew_launcher
+   ┃ ┃ ┣ 📜homebrew_launcher.elf
+   ┃ ┃ ┣ 📜icon.png
+   ┃ ┃ ┗ 📜meta.xml
+   ┃ ┗ (All other apps like disc2app, nanddumper, etc. should be here too)
+   ┗ 📜payload.elf
+   ```

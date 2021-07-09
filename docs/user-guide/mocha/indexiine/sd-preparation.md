@@ -37,3 +37,19 @@ We will now place the required CFW files and some additional homebrew files on t
 1. Copy the contents of the `savemii_mod.zip` file to the root of your SD Card.
 1. Copy the `config.ini` file to the `/wiiu/apps/mocha` folder on your SD Card.
 1. Copy the `payload.elf` from the `payload.zip` to the `wiiu` folder on your SD Card.
+----------
+### SD Layout
+
+So after all this, it should look something like this
+
+```
+💾sd:
+ ┗ 📂wiiu
+   ┣ 📂apps
+   ┃ ┣ 📂homebrew_launcher
+   ┃ ┃ ┣ 📜homebrew_launcher.elf
+   ┃ ┃ ┣ 📜icon.png
+   ┃ ┃ ┗ 📜meta.xml
+   ┃ ┗ (All other apps like disc2app, nanddumper, etc. should be here too)
+   ┗ 📜payload.elf
+```
