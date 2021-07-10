@@ -3,13 +3,13 @@
 
 ### Homebrew 是否有风险？
 
-Currently, homebrewing the Wii U does not expose you to a risk of being banned by Nintendo unless you cheat in online games, or do eShop fraud. 然而尤其是当你不信任程序的源代码的时候，你要对你下载并启动的 Homebrew 程序保持一定的警惕，因为 Homebrew 可以破坏系统！
+当前，破解 Wii U 不会使你被任天堂封禁，除非你在在线游戏中作弊或欺骗 eShop。 然而尤其是当你不信任程序的源代码的时候，你要对你下载并启动的 Homebrew 程序保持一定的警惕，因为 Homebrew 可以破坏系统！
 
 ### 什么是 Haxchi，可以吃吗？我需要准备什么东西？
 
 Haxchi 是通过某个 NDS VC（Virtual Console）程序来允许 Homebrew 程序在离线环境下运行的一个辅助入口。（不过仍然可以在在线时使用，但需要在无连接时启动 CFW）
 
-Haxchi is **not** required, however, if you want to use homebrew on your Wii U without the internet browser you will need it. It's recommended as it's more convenient to get into CFW than using the Browser Exploit and Mocha CFW.
+Haxchi **不是**必要的，然而如果你想在不依靠浏览器的情况下运行自制软件则需要它。 建议使用它进入自制固件，因为它比浏览器和 Mocha 自制固件更方便。
 
 这里列出了可用于此漏洞的最便宜的 DS VC 游戏：
  - Dr. Kawashima's Brain Training [PAL]
