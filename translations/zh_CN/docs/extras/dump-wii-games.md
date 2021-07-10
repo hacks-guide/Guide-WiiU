@@ -54,6 +54,6 @@
 #### macOS/Linux {docsify-ignore}
 
 1. 将以 `.partX.iso` 结尾文件名的文件复制到你的电脑上。
-1. Open up a Terminal.
+1. 打开一个终端窗口
 1. 使用 `cd <path>` 命令将路径移动至你的 `.partX.iso` 文件夹中。
-1. Use the following command as is: `cat *.part?.iso > game.iso`.
+1. 输入以下命令：`cat *.part?.iso > game.iso`
