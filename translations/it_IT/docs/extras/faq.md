@@ -1,14 +1,15 @@
 # Domande frequenti {docsify-ignore-all}
 ---
+
 ### La modifica ha dei rischi?
 
-Attualmente, modificare il Wii U non ti espone al rischio di venire bannano da Nintendo a meno che non usi trucchi su giochi online. Dovresti, tuttavia, fare sempre attenzione quando avvii homebrew scaricati, specialmente se non ti fidi della fonte, dato che potenzialmente gli homebrew possono danneggiare il tuo sistema!
+Currently, homebrewing the Wii U does not expose you to a risk of being banned by Nintendo unless you cheat in online games, or do eShop fraud. Dovresti, tuttavia, fare sempre attenzione quando avvii homebrew scaricati, specialmente se non ti fidi della fonte, dato che potenzialmente gli homebrew possono danneggiare il tuo sistema!
 
 ### Cos'è Haxchi, e ne ho bisogno?
 
 Haxchi è un punto d'ingresso secondario che utilizza determinati titoli della Virtual Console DS per consentire l'accesso agli homebrew mentre si è completamente offline (funziona anche online ma non necessita di una connessione per avviare il CFW)
 
-Haxchi non è necessario, però ne avrai bisogno se vuoi usare homebrew sul tuo Wii U mentre è offline. È altamente consigliato dato che è più stabile del punto d'ingresso da browser, specialmente sui firmware più recenti.
+Haxchi is **not** required, however, if you want to use homebrew on your Wii U without the internet browser you will need it. It's recommended as it's more convenient to get into CFW than using the Browser Exploit and Mocha CFW.
 
 I più economici giochi della Virtual Console DS utilizzabili per questo exploit sono:
  - Dr. Kawashima's Brain Training [PAL]

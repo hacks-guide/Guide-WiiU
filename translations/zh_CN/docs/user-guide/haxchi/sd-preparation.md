@@ -15,7 +15,7 @@
 - 最新版 [WUP Installer GX2](https://wiiubru.com/appstore/zips/wup_installer_gx2.zip)。
 - 最新版 [The Homebrew Launcher Channel](https://github.com/GaryOderNichts/homebrew_launcher/releases/tag/v2.1_fix)。
   - 你需要下载 `homebrew_launcher_channel.v2.1_fix.zip` 文件。
-- The latest release of [Wii U NAND Dumper](https://www.wiiubru.com/appstore/zips/nanddumper.zip).
+- 最新版 [Wii U NAND Dumper](https://www.wiiubru.com/appstore/zips/nanddumper.zip)。
 - 最新版 [Homebrew App Store](https://github.com/vgmoose/hbas/releases/latest)。
   - 你需要下载 `wiiu-extracttosd.zip` 文件。
 - 最新版 [Haxchi](https://www.wiiubru.com/appstore/zips/haxchi.zip)。
