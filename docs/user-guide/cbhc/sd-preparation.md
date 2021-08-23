@@ -40,9 +40,11 @@ We will now place the required CFW files and some additional homebrew files on t
 1. Copy the contents of the `savemii_mod.zip` file to the root of your SD Card.
 1. Copy the `payload.elf` from the `payload.zip` to the `wiiu` folder on your SD Card.
 ----------
-### SD Layout
 
-So after all this, it should look something like this
+### SD Card Layout {docsify-ignore}
+
+<details>
+<summary>Click here to show the final SD Card layout.</summary>
 
 ```
 💾sd:
@@ -74,3 +76,5 @@ So after all this, it should look something like this
    ┃ ┗ (All other apps like disc2app, nanddumper, etc. should be here too)
    ┗ 📜payload.elf
 ```
+
+</details>

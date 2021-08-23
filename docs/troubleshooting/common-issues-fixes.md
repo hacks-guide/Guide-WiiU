@@ -40,8 +40,9 @@ Nothing special, you can leave them there, delete them or replace them with new 
 The internal antenna may have been influenced by the hard drive magnet.  
 You can move the HDD to a different position atop the Wii U, or move it off the Wii U entirely.
 ----------
+
 # SD Card Layout
-This is an example of what your SD card should look like after you set it up. If you have a `-5` error or the `FSOpenFile failed` error your file locations may be incorrect
+This is an example of what your SD Card should look like after you set it up. If you have a `-5` error or the `FSOpenFile failed` error your file locations may be incorrect.
 ```
 💾sd:
  ┣ 📂cbhc                             (CBHC only)
@@ -71,4 +72,4 @@ This is an example of what your SD card should look like after you set it up. If
    ┃ ┃ ┗ 📜meta.xml
    ┃ ┗ (All other apps like disc2app, nanddumper, etc. should be here too)
    ┗ 📜payload.elf
-   ```
+```
