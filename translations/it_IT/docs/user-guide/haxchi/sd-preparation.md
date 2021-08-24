@@ -35,3 +35,37 @@ Ora inseriremo i file del CFW richiesti e alcuni altri file homebrew sulla sched
 1. Copia i contenuti del file `homebrew_launcher.v.1.4.zip` nella root della tua SD.
 1. Copia i contenuti del file `savemii_mod.zip` nella root della tua SD.
 1. Copia il `payload.elf` dal `payload.zip` nella cartella `wiiu`.
+----------
+
+### SD Card Layout {docsify-ignore}
+
+<details>
+<summary>Click here to show the final SD Card layout.</summary>
+
+```
+💾sd:
+ ┣ 📂haxchi
+ ┃ ┣ 📜bootDrcTex.tga
+ ┃ ┣ 📜bootTvTex.tga
+ ┃ ┣ 📜config.txt
+ ┃ ┣ 📜iconTex.tga
+ ┃ ┗ 📜title.txt
+ ┣ 📂install
+ ┃ ┗ 📂Homebrew Launcher Channel
+ ┃   ┣ 📜00000000.app
+ ┃   ┣ 📜00000003.h3
+ ┃   ┣ ...
+ ┃   ┣ 📜title.cert
+ ┃   ┣ 📜title.tik
+ ┃   ┗ 📜title.tmd
+ ┗ 📂wiiu
+   ┣ 📂apps
+   ┃ ┣ 📂homebrew_launcher
+   ┃ ┃ ┣ 📜homebrew_launcher.elf
+   ┃ ┃ ┣ 📜icon.png
+   ┃ ┃ ┗ 📜meta.xml
+   ┃ ┗ (All other apps like disc2app, nanddumper, etc. should be here too)
+   ┗ 📜payload.elf
+```
+
+</details>
