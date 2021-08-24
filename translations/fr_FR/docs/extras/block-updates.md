@@ -1,6 +1,6 @@
 # Blocage des mises à jour
 ---
-Tous les exploits actuellement connus de la Wii U peuvent, contrairement par exemple à l'exploit du Nintendo Switch RCM, être corrigés par une mise à jour du système. Bien que la Wii U ne soit plus officiellement prise en charge, Nintendo peut toujours publier des mises à jour pour celle-ci. En effet, les mises à jour 5.5.3 et 5.5.4 ont toutes deux été publiées après l'abandon de la Wii U, donc le blocage des mises à jour est toujours une action recommandée.
+Tous les exploits actuellement connus de la Wii U peuvent, contrairement par exemple à l'exploit du Nintendo Switch RCM, être corrigés par une mise à jour du système. Bien que la Wii U ne soit plus officiellement prise en charge, Nintendo peut toujours publier des mises à jour pour celle-ci. Namely, the updates 5.5.3, 5.5.4 and 5.5.5 were all released after the Wii U was discontinued, so blocking updates is still a recommended action.
 
 ### Instructions {docsify-ignore}
 
