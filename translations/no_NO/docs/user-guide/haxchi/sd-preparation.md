@@ -37,10 +37,10 @@ Her vil vi plassere de nødvendige CFW-filene og noen ekstra homebrew filer på 
 1. Kopier `payload.elf` fila fra `payload.zip` til `wiiu` mappen på SD-kortet.
 ----------
 
-### SD Card Layout {docsify-ignore}
+### SD-kort oppsett {docsify-ignore}
 
 <details>
-<summary>Click here to show the final SD Card layout.</summary>
+<summary>Klikk her for å se hvordan SD-kort oppsettet skal se ut.</summary>
 
 ```
 💾sd:
@@ -64,7 +64,7 @@ Her vil vi plassere de nødvendige CFW-filene og noen ekstra homebrew filer på 
    ┃ ┃ ┣ 📜homebrew_launcher.elf
    ┃ ┃ ┣ 📜icon.png
    ┃ ┃ ┗ 📜meta.xml
-   ┃ ┗ (All other apps like disc2app, nanddumper, etc. should be here too)
+   ┃ ┗ (Alle andre apper som disc2app, nanddumper, etc. skal være her også)
    ┗ 📜payload.elf
 ```
 
