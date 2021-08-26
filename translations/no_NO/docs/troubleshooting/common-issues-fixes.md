@@ -36,27 +36,27 @@ Du kan la dem ligge, slette dem eller kopiere over dem med de nye filene. Disse 
 
 ### Wii U konsollen min mistet plutselig internett, og jeg har en ekstern harddisk oppå konsollen min. Hva må jeg gjøre?
 
-The internal antenna may have been influenced by the hard drive magnet.
-You can move the HDD to a different position atop the Wii U, or move it off the Wii U entirely.
+Wifi signalet kan bli forstyrret av magneten i en harddisk.
+Du kan flytte harddisken til ett annet sted, eller en annen possisjon for å løse problemer med dårlig nettsignal.
 ----------
 
-# SD Card Layout
-This is an example of what your SD Card should look like after you set it up. If you have a `-5` error or the `FSOpenFile failed` error your file locations may be incorrect.
+# SD-kort oppsett
+Dette er et eksempel på hvordan SD-kortet skal se ut etter at du har satt det opp. Hvis du får en `-5` eller `FSOpenFile failed` feilmelding så er 1 eller flere filer plassert feil.
 ```
 💾sd:
- ┣ 📂cbhc                             (CBHC only)
+ ┣ 📂cbhc                             (Bare CBHC)
  ┃ ┣ 📜bootDrcTex.tga
  ┃ ┣ 📜bootTvTex.tga
  ┃ ┣ 📜iconTex.tga
  ┃ ┗ 📜title.txt
- ┣ 📂haxchi                           (Haxchi & CBHC only)
+ ┣ 📂haxchi                           (Bare Haxchi & CBHC)
  ┃ ┣ 📜bootDrcTex.tga
  ┃ ┣ 📜bootTvTex.tga
  ┃ ┣ 📜config.txt
  ┃ ┣ 📜iconTex.tga
  ┃ ┗ 📜title.txt
  ┣ 📂install
- ┃ ┗ 📂Homebrew Launcher Channel      (Haxchi & CBHC only)
+ ┃ ┗ 📂Homebrew Launcher Channel      (Bare Haxchi & CBHC)
  ┃   ┣ 📜00000000.app
  ┃   ┣ 📜00000003.h3
  ┃   ┣ ...
@@ -69,6 +69,6 @@ This is an example of what your SD Card should look like after you set it up. If
    ┃ ┃ ┣ 📜homebrew_launcher.elf
    ┃ ┃ ┣ 📜icon.png
    ┃ ┃ ┗ 📜meta.xml
-   ┃ ┗ (All other apps like disc2app, nanddumper, etc. should be here too)
+   ┃ ┗ (Alle andre apper som disc2app, nanddumper, etc. skal være her også)
    ┗ 📜payload.elf
 ```
