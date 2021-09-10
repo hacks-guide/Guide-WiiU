@@ -36,5 +36,39 @@ Rien de spécial, vous pouvez les laisser là, les supprimer ou les remplacer pa
 
 ### Ma console a soudainement perdu sa connectivité en ligne et j'ai un disque dur posé sur le dessus de la console, que dois-je faire ?
 
-Des interférences peuvent être causées par l'aimant du disque dur car l'antenne interne est située sur le dessus de la console.  
-Vous pouvez déplacer légèrement le disque dur du dessus de la Wii U, ou le retirer complètement.
+The internal antenna may have been influenced by the hard drive magnet.
+You can move the HDD to a different position atop the Wii U, or move it off the Wii U entirely.
+----------
+
+# SD Card Layout
+This is an example of what your SD Card should look like after you set it up. If you have a `-5` error or the `FSOpenFile failed` error your file locations may be incorrect.
+```
+💾sd:
+ ┣ 📂cbhc                             (CBHC only)
+ ┃ ┣ 📜bootDrcTex.tga
+ ┃ ┣ 📜bootTvTex.tga
+ ┃ ┣ 📜iconTex.tga
+ ┃ ┗ 📜title.txt
+ ┣ 📂haxchi                           (Haxchi & CBHC only)
+ ┃ ┣ 📜bootDrcTex.tga
+ ┃ ┣ 📜bootTvTex.tga
+ ┃ ┣ 📜config.txt
+ ┃ ┣ 📜iconTex.tga
+ ┃ ┗ 📜title.txt
+ ┣ 📂install
+ ┃ ┗ 📂Homebrew Launcher Channel      (Haxchi & CBHC only)
+ ┃   ┣ 📜00000000.app
+ ┃   ┣ 📜00000003.h3
+ ┃   ┣ ...
+ ┃   ┣ 📜title.cert
+ ┃   ┣ 📜title.tik
+ ┃   ┗ 📜title.tmd
+ ┗ 📂wiiu
+   ┣ 📂apps
+   ┃ ┣ 📂homebrew_launcher
+   ┃ ┃ ┣ 📜homebrew_launcher.elf
+   ┃ ┃ ┣ 📜icon.png
+   ┃ ┃ ┗ 📜meta.xml
+   ┃ ┗ (All other apps like disc2app, nanddumper, etc. should be here too)
+   ┗ 📜payload.elf
+```

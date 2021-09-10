@@ -35,3 +35,37 @@ Her vil vi plassere de nødvendige CFW-filene og noen ekstra homebrew filer på 
 1. Pakk ut `homebrew_launcher.v.1.4.zip` til roten av SD-kortet.
 1. Pakk ut `savemii_mod.zip` til roten av SD-kortet.
 1. Kopier `payload.elf` fila fra `payload.zip` til `wiiu` mappen på SD-kortet.
+----------
+
+### SD-kort oppsett {docsify-ignore}
+
+<details>
+<summary>Klikk her for å se hvordan SD-kort oppsettet skal se ut.</summary>
+
+```
+💾sd:
+ ┣ 📂haxchi
+ ┃ ┣ 📜bootDrcTex.tga
+ ┃ ┣ 📜bootTvTex.tga
+ ┃ ┣ 📜config.txt
+ ┃ ┣ 📜iconTex.tga
+ ┃ ┗ 📜title.txt
+ ┣ 📂install
+ ┃ ┗ 📂Homebrew Launcher Channel
+ ┃   ┣ 📜00000000.app
+ ┃   ┣ 📜00000003.h3
+ ┃   ┣ ...
+ ┃   ┣ 📜title.cert
+ ┃   ┣ 📜title.tik
+ ┃   ┗ 📜title.tmd
+ ┗ 📂wiiu
+   ┣ 📂apps
+   ┃ ┣ 📂homebrew_launcher
+   ┃ ┃ ┣ 📜homebrew_launcher.elf
+   ┃ ┃ ┣ 📜icon.png
+   ┃ ┃ ┗ 📜meta.xml
+   ┃ ┗ (Alle andre apper som disc2app, nanddumper, etc. skal være her også)
+   ┗ 📜payload.elf
+```
+
+</details>

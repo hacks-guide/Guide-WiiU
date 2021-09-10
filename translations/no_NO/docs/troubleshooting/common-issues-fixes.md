@@ -36,5 +36,39 @@ Du kan la dem ligge, slette dem eller kopiere over dem med de nye filene. Disse 
 
 ### Wii U konsollen min mistet plutselig internett, og jeg har en ekstern harddisk oppå konsollen min. Hva må jeg gjøre?
 
-Den indre antennen kan bli påvirket av magneten i mekaniske harddisker.   
-Du kan flytte harddisken til en annen plass enn oppå, eller intill Wii U konsollen.
+Wifi signalet kan bli forstyrret av magneten i en harddisk.
+Du kan flytte harddisken til ett annet sted, eller en annen possisjon for å løse problemer med dårlig nettsignal.
+----------
+
+# SD-kort oppsett
+Dette er et eksempel på hvordan SD-kortet skal se ut etter at du har satt det opp. Hvis du får en `-5` eller `FSOpenFile failed` feilmelding så er 1 eller flere filer plassert feil.
+```
+💾sd:
+ ┣ 📂cbhc                             (Bare CBHC)
+ ┃ ┣ 📜bootDrcTex.tga
+ ┃ ┣ 📜bootTvTex.tga
+ ┃ ┣ 📜iconTex.tga
+ ┃ ┗ 📜title.txt
+ ┣ 📂haxchi                           (Bare Haxchi & CBHC)
+ ┃ ┣ 📜bootDrcTex.tga
+ ┃ ┣ 📜bootTvTex.tga
+ ┃ ┣ 📜config.txt
+ ┃ ┣ 📜iconTex.tga
+ ┃ ┗ 📜title.txt
+ ┣ 📂install
+ ┃ ┗ 📂Homebrew Launcher Channel      (Bare Haxchi & CBHC)
+ ┃   ┣ 📜00000000.app
+ ┃   ┣ 📜00000003.h3
+ ┃   ┣ ...
+ ┃   ┣ 📜title.cert
+ ┃   ┣ 📜title.tik
+ ┃   ┗ 📜title.tmd
+ ┗ 📂wiiu
+   ┣ 📂apps
+   ┃ ┣ 📂homebrew_launcher
+   ┃ ┃ ┣ 📜homebrew_launcher.elf
+   ┃ ┃ ┣ 📜icon.png
+   ┃ ┃ ┗ 📜meta.xml
+   ┃ ┗ (Alle andre apper som disc2app, nanddumper, etc. skal være her også)
+   ┗ 📜payload.elf
+```
