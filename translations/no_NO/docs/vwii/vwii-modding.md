@@ -8,24 +8,22 @@ Vi starter med å plassere Homebrew filene du trenger på SD-kortet ditt.
 
 ### Dette Trenger Du {docsify-ignore}
 
-- Siste utgave av [Wuphax](https://wiiubru.com/appstore/zips/wuphax.zip).
-- Siste utgave av [Wii U NAND Dumper](https://www.wiiubru.com/appstore/zips/nanddumper.zip).
-- Siste utgave av [HackMii Installer](https://bootmii.org/download/).
-- <a href="docs/files/Patched_IOS80_Installer_for_vWii.zip" download>Patched IOS 80 Installer for vWii</a>.
-- <a href ="docs/files/d2x_cIOS_Installer.zip" download>d2x cIOS Installer</a>.
-- [Homebrew Launcher](https://github.com/dimok789/homebrew_launcher/releases/download/1.4/homebrew_launcher.v1.4.zip).
-- Siste utgave av [Homebrew Launcher Installer](https://github.com/wiiu-env/homebrew_launcher_installer/releases/download/v1.4/payload.zip).
+- The latest release of the [vwii-compat-installer](https://github.com/TheLordScruffy/vwii-compat-installer/releases).
+- The latest release of the [Wii U NAND Dumper](https://www.wiiubru.com/appstore/zips/nanddumper.zip).
+- The <a href="docs/files/Patched_IOS80_Installer_for_vWii.zip" download>Patched IOS 80 Installer for vWii</a>.
+- The <a href ="docs/files/d2x_cIOS_Installer.zip" download>d2x cIOS Installer</a>.
+- The [Homebrew Launcher](https://github.com/dimok789/homebrew_launcher/releases/download/1.4/homebrew_launcher.v1.4.zip).
+- The latest release of the [Homebrew Launcher Installer](https://github.com/wiiu-env/homebrew_launcher_installer/releases/download/v1.4/payload.zip).
 
 ### Instruksjoner {docsify-ignore}
 
 1. Sett SD-kortet ditt i PC'en din.
-1. Pakk ut `wuphax.zip` til roten av SD-kortet.
-1. Pakk ut `boot.elf` fra <code>hackmii_<wbr>installer_<wbr>v1.2<wbr>.zip</code> til roten av SD-kortet.
-1. Pakk ut `apps` mappen fra <code>Patched_<wbr>IOS80_<wbr>Installer_<wbr>for_<wbr>vWii<wbr>.zip</code> til roten av SD kortet.
-1. Pakk ut <code>d2x_<wbr>cIOS_<wbr>Installer<wbr>.zip</code> til roten av SD-kortet.
+1. Copy the `compat_installer.elf` file to the `wiiu/apps` folder on the root of your SD Card.
+1. Copy the `apps` folder from the <code>Patched_<wbr>IOS80_<wbr>Installer_<wbr>for_<wbr>vWii<wbr>.zip</code> file to the root of your SD Card.
+1. Copy the contents of the <code>d2x_<wbr>cIOS_<wbr>Installer<wbr>.zip</code> file to the root of your SD Card.
 1. Pakk ut `nanddumper.zip` til roten av SD-kortet.
-1. Pakk ut <code>homebrew_<wbr>launcher.<wbr>v1.4.zip</code> til roten av SD-kortet.
-1. Pakk ut `payload.zip` til `wiiu` mappen på SD-kortet.
+1. Copy the contents of the <code>homebrew_<wbr>launcher.<wbr>v1.4.zip</code> file to the root of your SD Card.
+1. Copy the contents of the `payload.zip` file to the `wiiu` folder on your SD Card.
 1. Ta SD-kortet ut av PC'en og sett den inn i Wii U konsollen.
 
 ### NAND Backup
@@ -46,24 +44,13 @@ Hvis noe går galt senere i prosessen og vWii "bricker", vil gjenoppretting av e
 1. Slett filene fra SD-kortet for å frigjøre plass.
 1. Ta SD-kortet ut av PC'en og sett den inn i Wii U konsollen.
 
-### Wuphax
+### Installing the Homebrew Channel
 
 1. Start [Homebrew Launcher](vwii/browser-exploit).
-1. Kjør Wuphax.
-1. Trykk `A` for å lage en backup av "Mii Channel" så installer du Hackmii og venter til det står <code>Successfully <wbr>injected <wbr>wuphax!</code>.
-    - Du vil bli sendt tilbake til Wii U menyen etter noen sekunder.
-1. Start vWii (Wii meny ikonet).
-1. Start vWii Mii Channel.
-   - Hvis Wuphax ble installert riktig, vil du nå se en advarselskjerm om scamming.
-1. Vent til du ser `Press 1 to continue` og trykk `1` knappen.
-1. Trykk på `continue`, <code>Install <wbr>The <wbr>Homebrew <wbr>Channel</code> og `Yes, continue`.
-1. Når Homebrew Channel har blitt installert, velger du `continue` og så `exit`.
-1. Start Wii U Menu kanalen for å gå tilbake til Wii U menyen.
-1. Start [Homebrew Launcher](vwii/browser-exploit).
-1. Kjør Wuphax.
-1. Trykk `B` for å gjenopprette "Mii Channel" og vent til det står <code>Mii <wbr>Channel <wbr>restored!</code>.
-   - Du vil bli sendt tilbake til Wii U menyen etter noen sekunder.
-   - Hvis du av en eller annen grunn ikke kan gjenopprette sikkerhetskopien, må du [reinstallere Mii Channel](recover-vwii-ioses-channels).
+1. Launch the compat_installer.
+1. Press `A` to install the Homebrew Channel and wait until you see `Install succeeded`. Then press the HOME button to return to the Wii U Menu.
+1. Launch vWii (the Wii Menu icon).
+   - If the installation has succeeded, you should see the Homebrew Channel in your Wii Menu.
 
 ### Installerer cIOS'er
 
