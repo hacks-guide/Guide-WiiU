@@ -8,24 +8,22 @@
 
 ### 你需要准备些啥？ {docsify-ignore}
 
-- 最新版 [Wuphax](https://wiiubru.com/appstore/zips/wuphax.zip)。
-- 最新版 [Wii U NAND Dumper](https://www.wiiubru.com/appstore/zips/nanddumper.zip)。
-- 最新版 [HackMii Installer](https://bootmii.org/download/)。
-- vWii 的 <a href="docs/files/Patched_IOS80_Installer_for_vWii.zip" download>Patched IOS 80 Installer</a>。
-- <a href ="docs/files/d2x_cIOS_Installer.zip" download>d2x cIOS Installer</a>。
-- [Homebrew Launcher](https://github.com/dimok789/homebrew_launcher/releases/download/1.4/homebrew_launcher.v1.4.zip)。
-- 最新版 [Homebrew Launcher Installer](https://github.com/wiiu-env/homebrew_launcher_installer/releases/download/v1.4/payload.zip)。
+- The latest release of the [vwii-compat-installer](https://github.com/TheLordScruffy/vwii-compat-installer/releases).
+- The latest release of the [Wii U NAND Dumper](https://www.wiiubru.com/appstore/zips/nanddumper.zip).
+- The <a href="docs/files/Patched_IOS80_Installer_for_vWii.zip" download>Patched IOS 80 Installer for vWii</a>.
+- The <a href ="docs/files/d2x_cIOS_Installer.zip" download>d2x cIOS Installer</a>.
+- The [Homebrew Launcher](https://github.com/dimok789/homebrew_launcher/releases/download/1.4/homebrew_launcher.v1.4.zip).
+- The latest release of the [Homebrew Launcher Installer](https://github.com/wiiu-env/homebrew_launcher_installer/releases/download/v1.4/payload.zip).
 
 ### 步骤 {docsify-ignore}
 
 1. 将你的 Wii U SD 卡 插入你的电脑。
-1. 复制 `wuphax.zip` 里的文件到你的 SD 卡根目录。
-1. 从 <code>hackmii_<wbr>installer_<wbr>v1.2<wbr>.zip</code> 文件中解压 `boot.elf` 到 SD 卡根目录。
-1. 从 <code>Patched_<wbr>IOS80_<wbr>Installer_<wbr>for_<wbr>vWii<wbr>.zip</code> 解压 `apps` 文件夹到 SD 卡根目录。
-1. 复制 <code>d2x_<wbr>cIOS_<wbr>Installer<wbr>.zip</code> 里的文件到 SD 卡根目录。
+1. Copy the `compat_installer.elf` file to the `wiiu/apps` folder on the root of your SD Card.
+1. Copy the `apps` folder from the <code>Patched_<wbr>IOS80_<wbr>Installer_<wbr>for_<wbr>vWii<wbr>.zip</code> file to the root of your SD Card.
+1. Copy the contents of the <code>d2x_<wbr>cIOS_<wbr>Installer<wbr>.zip</code> file to the root of your SD Card.
 1. 复制 `nanddumper.zip` 里的文件到你的 SD 卡根目录。
-1. 复制 <code>homebrew_<wbr>launcher.<wbr>v1.4.zip</code> 里的文件到 SD 卡根目录。
-1. 复制 `payload.zip` 里的文件到 SD 卡中的 `wiiu` 文件夹中。
+1. Copy the contents of the <code>homebrew_<wbr>launcher.<wbr>v1.4.zip</code> file to the root of your SD Card.
+1. Copy the contents of the `payload.zip` file to the `wiiu` folder on your SD Card.
 1. 把 SD 卡从电脑中弹出并插入 Wii U 主机。
 
 ### NAND 备份
@@ -46,24 +44,13 @@
 1. 从 SD 卡中删除文件来腾出空间。
 1. 把 SD 卡从电脑中弹出并插入 Wii U 主机。
 
-### Wuphax
+### Installing the Homebrew Channel
 
 1. 启动 [Homebrew Launcher](vwii/browser-exploit)。
-1. 启动 Wuphax。
-1. 按下 `A` 键然后等一会来备份 Mii Channel 并注入 Hackmii Installer，直到屏幕上提示 <code>Successfully <wbr>injected <wbr>wuphax!</code>。
-    - 你将会在几秒后回到 Wii U 主菜单。
-1. 启动 vWii（Wii 菜单图标）。
-1. 启动 vWii Mii Channel。
-   - 如果 Wuphax 被成功注入，此时你将会看到警告提示。
-1. 等一会，直到你看到 `Press 1 to continue` 后，按下 `1` 键。
-1. 选择 `continue`，然后选择 <code>Install <wbr>The <wbr>Homebrew <wbr>Channel</code> 再然后选择 `Yes, continue`。
-1. 如果 Homebrew Channel 被顺利安装，请选择 `continue`，然后选择 `exit`。
-1. 启动 Wii U 主菜单 Channel 来回到 Wii U 主菜单。
-1. 启动 [Homebrew Launcher](vwii/browser-exploit)。
-1. 启动 Wuphax。
-1. 按下 `B` 键后等一会来还原 Mii Channel，直到它提示 <code>Mii <wbr>Channel <wbr>restored!</code>。
-   - 你将会在几秒后回到 Wii U 主菜单。
-   - 如果由于一些原因你无法恢复备份，则你需要[重新安装你的 Mii Channel](recover-vwii-ioses-channels)。
+1. Launch the compat_installer.
+1. Press `A` to install the Homebrew Channel and wait until you see `Install succeeded`. Then press the HOME button to return to the Wii U Menu.
+1. Launch vWii (the Wii Menu icon).
+   - If the installation has succeeded, you should see the Homebrew Channel in your Wii Menu.
 
 ### 安装 cIOS
 
