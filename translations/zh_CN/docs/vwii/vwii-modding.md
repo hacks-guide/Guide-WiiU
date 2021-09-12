@@ -18,12 +18,12 @@
 ### 步骤 {docsify-ignore}
 
 1. 将你的 Wii U SD 卡 插入你的电脑。
-1. Copy the `compat_installer.elf` file to the `wiiu/apps` folder on the root of your SD Card.
 1. Copy the `apps` folder from the <code>Patched_<wbr>IOS80_<wbr>Installer_<wbr>for_<wbr>vWii<wbr>.zip</code> file to the root of your SD Card.
 1. Copy the contents of the <code>d2x_<wbr>cIOS_<wbr>Installer<wbr>.zip</code> file to the root of your SD Card.
 1. 复制 `nanddumper.zip` 里的文件到你的 SD 卡根目录。
 1. Copy the contents of the <code>homebrew_<wbr>launcher.<wbr>v1.4.zip</code> file to the root of your SD Card.
 1. Copy the contents of the `payload.zip` file to the `wiiu` folder on your SD Card.
+1. Copy the `compat_installer.elf` file to the `wiiu/apps` folder on the root of your SD Card.
 1. 把 SD 卡从电脑中弹出并插入 Wii U 主机。
 
 ### NAND 备份
