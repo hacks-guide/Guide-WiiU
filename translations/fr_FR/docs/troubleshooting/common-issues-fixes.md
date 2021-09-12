@@ -36,27 +36,27 @@ Rien de spécial, vous pouvez les laisser là, les supprimer ou les remplacer pa
 
 ### Ma console a soudainement perdu sa connectivité en ligne et j'ai un disque dur posé sur le dessus de la console, que dois-je faire ?
 
-The internal antenna may have been influenced by the hard drive magnet.
-You can move the HDD to a different position atop the Wii U, or move it off the Wii U entirely.
+L'antenne interne peut avoir été influencée par l'aimant du disque dur.
+Vous pouvez déplacer le disque dur à une position différente sur la Wii U, ou l'enlever complètement du dessus de la Wii U.
 ----------
 
-# SD Card Layout
-This is an example of what your SD Card should look like after you set it up. If you have a `-5` error or the `FSOpenFile failed` error your file locations may be incorrect.
+# Disposition de la carte SD
+Voici un exemple de ce à quoi devrait ressembler votre carte SD après l'avoir configurée. Si vous avez une erreur `-5` ou l'erreur `FSOpenFile failed`, la disposition des fichiers peut être incorrecte.
 ```
 💾sd:
- ┣ 📂cbhc                             (CBHC only)
+ ┣ 📂cbhc                             (Seulement pour CBHC)
  ┃ ┣ 📜bootDrcTex.tga
  ┃ ┣ 📜bootTvTex.tga
  ┃ ┣ 📜iconTex.tga
  ┃ ┗ 📜title.txt
- ┣ 📂haxchi                           (Haxchi & CBHC only)
+ ┣ 📂haxchi                           (Seulement pour Haxchi et CBHC)
  ┃ ┣ 📜bootDrcTex.tga
  ┃ ┣ 📜bootTvTex.tga
  ┃ ┣ 📜config.txt
  ┃ ┣ 📜iconTex.tga
  ┃ ┗ 📜title.txt
  ┣ 📂install
- ┃ ┗ 📂Homebrew Launcher Channel      (Haxchi & CBHC only)
+ ┃ ┗ 📂Homebrew Launcher Channel      (Seulement pour Haxchi et CBHC)
  ┃   ┣ 📜00000000.app
  ┃   ┣ 📜00000003.h3
  ┃   ┣ ...
@@ -69,6 +69,6 @@ This is an example of what your SD Card should look like after you set it up. If
    ┃ ┃ ┣ 📜homebrew_launcher.elf
    ┃ ┃ ┣ 📜icon.png
    ┃ ┃ ┗ 📜meta.xml
-   ┃ ┗ (All other apps like disc2app, nanddumper, etc. should be here too)
+   ┃ ┗ (Toutes les autres applications comme disc2app, nanddumper, etc. devraient être ici aussi)
    ┗ 📜payload.elf
 ```
