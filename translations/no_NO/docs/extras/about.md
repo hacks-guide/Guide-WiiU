@@ -41,8 +41,8 @@ Denne guiden er skrevet av staff fra [Nintendo Homebrew Discord Server](https://
 > 
 > - **dimok789** for [wupclient.py](https://github.com/dimok789/mocha/blob/master/ios_mcp/wupclient.py).
 > 
-> - **GaryOderNichts** for the [Configurable Payload](https://github.com/GaryOderNichts/configurable-payload), [Indexiine-Installer](https://github.com/GaryOderNichts/indexiine-installer), [UFDiine](https://github.com/GaryOderNichts/UFDiine), [vWii Decaffeinator](https://github.com/GaryOderNichts/vWii-Decaffeinator), and the fixed version of the [Homebrew Launcher Channel](https://github.com/GaryOderNichts/homebrew_launcher/).
+> - **GaryOderNichts** for [Configurable Payload](https://github.com/GaryOderNichts/configurable-payload), [Indexiine-Installer](https://github.com/GaryOderNichts/indexiine-installer), [UFDiine](https://github.com/GaryOderNichts/UFDiine), [vWii Decaffeinator](https://github.com/GaryOderNichts/vWii-Decaffeinator), og "fixed" versjonen av [Homebrew Launcher Channel](https://github.com/GaryOderNichts/homebrew_launcher/).
 > 
-> - **GabyPCgeeK** and **Ryuzaki-MrL** for [SaveMii Mod](https://github.com/GabyPCgeeK/savemii).
+> - **GabyPCgeeK** og **Ryuzaki-MrL** for [SaveMii Mod](https://github.com/GabyPCgeeK/savemii).
 > 
-> - **TheLordScruffy** for the [vwii-compat-installer](https://github.com/TheLordScruffy/vwii-compat-installer).
+> - **TheLordScruffy** for [vwii-compat-installer](https://github.com/TheLordScruffy/vwii-compat-installer).

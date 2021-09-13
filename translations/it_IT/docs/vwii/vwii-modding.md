@@ -18,12 +18,12 @@ Ora andremo ad inserire i file Homebrew nella SD.
 ### Istruzioni {docsify-ignore}
 
 1. Inserisci la SD del tuo Wii U nel PC.
-1. Copy the `compat_installer.elf` file to the `wiiu/apps` folder on the root of your SD Card.
 1. Copy the `apps` folder from the <code>Patched_<wbr>IOS80_<wbr>Installer_<wbr>for_<wbr>vWii<wbr>.zip</code> file to the root of your SD Card.
 1. Copy the contents of the <code>d2x_<wbr>cIOS_<wbr>Installer<wbr>.zip</code> file to the root of your SD Card.
 1. Copia i contenuti del file `nanddumper.zip` nella root della tua SD.
 1. Copy the contents of the <code>homebrew_<wbr>launcher.<wbr>v1.4.zip</code> file to the root of your SD Card.
 1. Copy the contents of the `payload.zip` file to the `wiiu` folder on your SD Card.
+1. Copy the `compat_installer.elf` file to the `wiiu/apps` folder on the root of your SD Card.
 1. Togli la scheda SD dal computer e inseriscila nella console Wii U.
 
 ### Backup della NAND

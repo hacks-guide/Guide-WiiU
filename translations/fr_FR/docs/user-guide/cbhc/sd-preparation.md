@@ -15,7 +15,7 @@ Nous allons maintenant placer les fichiers du CFW requis et quelques fichiers ho
 - La dernière version de [WUP Installer GX2](https://wiiubru.com/appstore/zips/wup_installer_gx2.zip).
 - La dernière version de [The Homebrew Launcher Channel](https://github.com/GaryOderNichts/homebrew_launcher/releases/tag/v2.1_fix).
   - Vous devrez télécharger le fichier `homebrew_launcher_channel.v2.1_fix.zip`.
-- The latest release of [Wii U NAND Dumper](https://www.wiiubru.com/appstore/zips/nanddumper.zip).
+- La dernière version de [Wii U NAND Dumper](https://www.wiiubru.com/appstore/zips/nanddumper.zip).
 - La dernière version de l'[Homebrew App Store](https://github.com/vgmoose/hbas/releases/latest).
   - Vous devrez télécharger le fichier `wiiu-extracttosd.zip`.
 - La dernière version de [Haxchi](https://www.wiiubru.com/appstore/zips/haxchi.zip).
@@ -39,10 +39,10 @@ Nous allons maintenant placer les fichiers du CFW requis et quelques fichiers ho
 1. Copiez le fichier `payload.elf` du fichier `payload.zip` vers le dossier `wiiu` de votre carte SD.
 ----------
 
-### SD Card Layout {docsify-ignore}
+### Disposition de la carte SD {docsify-ignore}
 
 <details>
-<summary>Click here to show the final SD Card layout.</summary>
+<summary>Cliquez ici pour afficher la disposition finale de la carte SD.</summary>
 
 ```
 💾sd:
@@ -71,7 +71,7 @@ Nous allons maintenant placer les fichiers du CFW requis et quelques fichiers ho
    ┃ ┃ ┣ 📜homebrew_launcher.elf
    ┃ ┃ ┣ 📜icon.png
    ┃ ┃ ┗ 📜meta.xml
-   ┃ ┗ (All other apps like disc2app, nanddumper, etc. should be here too)
+   ┃ ┗ (Toutes les autres applications comme disc2app, nanddumper, etc. devraient être ici aussi)
    ┗ 📜payload.elf
 ```
 
