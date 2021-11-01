@@ -6,7 +6,7 @@ Vi starter med å plassere Homebrew filene du trenger på SD-kortet ditt.
 
 ?> **Merk** SD-kortet ditt må formateres til FAT32. Hvis den ikke er formatert til FAT32, bør du bruke [GUIFormat](http://ridgecrop.co.uk/index.htm?guiformat.htm) med 32k (32768) "Allocation unit size" for å formatere den. **Ikke** sett navnet på SD kortet til `wiiu`, det vil skape problemer med noen homebrew apper.
 
-?> If you have hacked your Wii U in the past, you can use the same SD Card for this process.
+?> Hvis du har hacket Wii U'en din tidligere, kan du bruke det samme SD-kortet i denne prosessen.
 
 
 
@@ -32,9 +32,9 @@ Vi starter med å plassere Homebrew filene du trenger på SD-kortet ditt.
 
 ### NAND Backup
 
-In case anything goes wrong in the later process and your vWii ends up bricked, restoring a previously made NAND backup can fix it.
+Hvis noe går galt senere i prosessen og vWii "bricker", vil gjenoppretting av en NAND backup muligens fikse den.
 
-?> If you have recently made a NAND backup that includes SLCCMPT and OTP, feel free to skip this step.
+?> Hvis du nylig har laget en NAND sikkerhetskopi som inneholder SLCCMPT og OTP, kan du hoppe over dette trinnet.
 
 1. Start [Homebrew Launcher](vwii/browser-exploit).
 1. Kjør `Wii U NAND Dumper`.
@@ -60,9 +60,9 @@ In case anything goes wrong in the later process and your vWii ends up bricked, 
 
 ### Installerer cIOS'er
 
-!> Make sure you have no `.wad` files anywhere else than in the `apps` folder on your SD Card.
+!> sørg for at du ikke har noen `.wad` filer noe annet sted enn i `apps` mappen på SD-kortet ditt.
 
-?> **Tip** You can hold the `B` button on the GamePad when turning on the Wii U to boot directly into vWii.
+?> **Tips: ** Du kan holde inne `B` knappen på GamePadden når du slår på Wii U konsollen for å starte opp direkte til vWii.
 
 1. Slå på Wii U konsollen og start vWii.
 1. Start Homebrew Channel.
@@ -86,7 +86,7 @@ In case anything goes wrong in the later process and your vWii ends up bricked, 
 
 ### Patche IOS 80
 
-!> If for any reason, the Wii U is turned off while patching IOS 80, your vWii will be bricked. This can be fixed by either extracting the IOS 80 from your previously made NAND backup and then replacing it over FTP or by [reinstalling IOS 80](recover-vwii-ioses-channels).
+!> Hvis Wii U konsollen din slår seg av mens du patcher IOS 80, vil vWii bli "bricket". Dette kan du fikse ved å enten pakke ut IOS 80 fila fra NAND backupen din og erstatte den over FTP, eller ved å [reinstalle IOS 80](recover-vwii-ioses-channels) på nytt.
 
 1. Kjør Patched IOS 80 Installer for vWii.
 1. Les advarselen og vent 30 sekunder.
@@ -94,8 +94,8 @@ In case anything goes wrong in the later process and your vWii ends up bricked, 
 1. Vent til det står <code>IOS80 <wbr>Installaton <wbr>is <wbr>complete!</code>.
 1. Trykk en knapp for å avslutte.
 
-!> Installing custom System Menu is a definite brick risk and you should always have an effective backup before installing one but when done right, won't brick the vWii.
+!> Det er stor sjangse for å bricke vWii hvis man installerer en custom System Menu og du bør alltid ha en backup av systemet før du prøver å installerer en, men hvis du installerer det riktig så vil det ikke være noen risiko.
 
-!> Installing any IOS (including TED IOSes) or wads made for the original Wii on your vWii will brick it.
+!> Installering av IOS (inkludert TED IOS'er) eller wads formattert for den originale Wii'en vil "bricke vWii'en din.
 
-!> Installing Priiloader will brick your vWii.
+!> Installere Priiloader vil bricke vWii.
