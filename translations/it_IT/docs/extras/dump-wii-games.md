@@ -54,6 +54,6 @@ Se hai intenti di utilizzare questa guida per condividere i tuoi giochi dumpati,
 #### macOS/Linux {docsify-ignore}
 
 1. Copia tutti i file che condividono lo stesso nome e che terminano con `.partX.iso` in una cartella sul tuo computer.
-1. Open up a Terminal.
+1. Apri un terminale.
 1. Usa il comando `cd <path>` e sostituisci `<path>` con il percorso dei tuoi file `.partX.iso`.
-1. Use the following command as is: `cat *.part?.iso > game.iso`.
+1. Usare il seguente comando: `cat *.part?.iso > game.iso`.
