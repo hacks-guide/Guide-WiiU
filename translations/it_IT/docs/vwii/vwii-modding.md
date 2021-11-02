@@ -12,22 +12,22 @@ Ora andremo ad inserire i file Homebrew nella SD.
 
 ### Cosa ti servirà {docsify-ignore}
 
-- The latest release of the [vwii-compat-installer](https://github.com/TheLordScruffy/vwii-compat-installer/releases).
-- The latest release of the [Wii U NAND Dumper](https://www.wiiubru.com/appstore/zips/nanddumper.zip).
-- The <a href="docs/files/Patched_IOS80_Installer_for_vWii.zip" download>Patched IOS 80 Installer for vWii</a>.
-- The <a href ="docs/files/d2x_cIOS_Installer.zip" download>d2x cIOS Installer</a>.
-- The [Homebrew Launcher](https://github.com/dimok789/homebrew_launcher/releases/download/1.4/homebrew_launcher.v1.4.zip).
-- The latest release of the [Homebrew Launcher Installer](https://github.com/wiiu-env/homebrew_launcher_installer/releases/download/v1.4/payload.zip).
+- L'ultima versione di [vwii-compat-installer](https://github.com/TheLordScruffy/vwii-compat-installer/releases).
+- L'ultima versione di [Wii U NAND Dumper](https://www.wiiubru.com/appstore/zips/nanddumper.zip).
+- <a href="docs/files/Patched_IOS80_Installer_for_vWii.zip" download>Patched IOS 80 Installer for vWii</a>.
+- <a href ="docs/files/d2x_cIOS_Installer.zip" download>d2x cIOS Installer</a>.
+- L' [Homebrew Launcher](https://github.com/dimok789/homebrew_launcher/releases/download/1.4/homebrew_launcher.v1.4.zip).
+- L'ultima versione dell'[Homebrew Launcher Installer](https://github.com/wiiu-env/homebrew_launcher_installer/releases/download/v1.4/payload.zip).
 
 ### Istruzioni {docsify-ignore}
 
 1. Inserisci la SD del tuo Wii U nel PC.
-1. Copy the `apps` folder from the <code>Patched_<wbr>IOS80_<wbr>Installer_<wbr>for_<wbr>vWii<wbr>.zip</code> file to the root of your SD Card.
-1. Copy the contents of the <code>d2x_<wbr>cIOS_<wbr>Installer<wbr>.zip</code> file to the root of your SD Card.
+1. Copia la cartella `apps` dalla cartella <code>Patched_<wbr>IOS80_<wbr>Installer_<wbr>for_<wbr>vWii<wbr>.zip</code> file nella radice della scheda SD.
+1. Copia i contenuti del file <code>d2x_<wbr>cIOS_<wbr>Installer<wbr>.zip</code> nella radice della tua scheda SD.
 1. Copia i contenuti del file `nanddumper.zip` nella root della tua SD.
-1. Copy the contents of the <code>homebrew_<wbr>launcher.<wbr>v1.4.zip</code> file to the root of your SD Card.
-1. Copy the contents of the `payload.zip` file to the `wiiu` folder on your SD Card.
-1. Copy the `compat_installer.elf` file to the `wiiu/apps` folder on the root of your SD Card.
+1. Copia i contenuti del file <code>homebrew_<wbr>launcher.<wbr>v1.4.zip</code> nella radice della tua scheda SD.
+1. Copia i contenuti del file `payload.zip` nella cartella `wiiu` della tua scheda SD.
+1. Copia il file `compat_installer.elf` nella cartella `wiiu/apps` nella radice della tua scheda SD.
 1. Togli la scheda SD dal computer e inseriscila nella console Wii U.
 
 ### Backup della NAND
@@ -50,13 +50,13 @@ In case anything goes wrong in the later process and your vWii ends up bricked, 
 1. Elimina i file dalla tua SD per liberare spazio.
 1. Togli la scheda SD dal computer e inseriscila nella console Wii U.
 
-### Installing the Homebrew Channel
+### Installazione dell'Homebrew Channel
 
 1. Avvia l'[Homebrew Launcher](vwii/browser-exploit).
-1. Launch the compat_installer.
-1. Press `A` to install the Homebrew Channel and wait until you see `Install succeeded`. Then press the HOME button to return to the Wii U Menu.
-1. Launch vWii (the Wii Menu icon).
-   - If the installation has succeeded, you should see the Homebrew Channel in your Wii Menu.
+1. Avvia il compat_installer.
+1. Premi `A` per installare l'Homebrew Channel e attendi fino a che non vedi `Install succeeded`. Poi premi il pulsante HOME per tornare al menu Wii U.
+1. Avvia la vWii (l'icona del menu Wii).
+   - Se l'installazione è riuscita, dovresti vedere l'Homebrew Channel nel tuo menu Wii.
 
 ### Installazione dei cIOS
 
