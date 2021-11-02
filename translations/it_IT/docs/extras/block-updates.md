@@ -1,6 +1,6 @@
 # Bloccare gli aggiornamenti
 ---
-Tutti gli exploit Wii U conosciuti possono venir bloccati da un aggiornamento, a differenza, per esempio, dell'exploit RCM di Nintendo Switch. Anche se il Wii U non è più ufficialmente supportato, Nintendo potrebbe ancora rilasciare aggiornamenti per la console. Namely, the updates 5.5.3, 5.5.4 and 5.5.5 were all released after the Wii U was discontinued, so blocking updates is still a recommended action.
+Tutti gli exploit Wii U conosciuti possono venir bloccati da un aggiornamento, a differenza, per esempio, dell'exploit RCM di Nintendo Switch. Anche se il Wii U non è più ufficialmente supportato, Nintendo potrebbe ancora rilasciare aggiornamenti per la console. Ad esempio, gli aggiornamenti 5.5.3, 5.5.4 e 5.5.5 sono stati tutti rilasciati dopo che la Wii U è stata interrotta, quindi bloccare gli aggiornamenti è ancora un'azione raccomandata.
 
 ### Istruzioni {docsify-ignore}
 
