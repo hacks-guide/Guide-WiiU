@@ -68,17 +68,17 @@ In case anything goes wrong in the later process and your vWii ends up bricked, 
 1. 启动 Homebrew Channel。
 1. 启动 d2x cIOS Installer。
 1. 设定以下选项：
-    - Select cIOS: `v10 d2x-v10-beta52-vWii`
+    - Select cIOS: `v10 beta52 d2x-v10-beta52-vWii`
     - Select cIOS base: `56`
     - Select cIOS slot: `249`
 1. 按下 `A` 键来安装。
 1. 设定以下选项：
-    - Select cIOS: `v10 d2x-v10-beta52-vWii`
+    - Select cIOS: `v10 beta52 d2x-v10-beta52-vWii`
     - Select cIOS base: `57`
     - Select cIOS slot: `250`
 1. 按下 `A` 键来安装。
 1. 设定以下选项：
-    - Select cIOS: `v10 d2x-v10-beta52-vWii`
+    - Select cIOS: `v10 beta52 d2x-v10-beta52-vWii`
     - Select cIOS base: `58`
     - Select cIOS slot: `251`
 1. 按下 `A` 键来安装。
