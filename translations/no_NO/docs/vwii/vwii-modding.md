@@ -68,17 +68,17 @@ Hvis noe går galt senere i prosessen og vWii "bricker", vil gjenoppretting av e
 1. Start Homebrew Channel.
 1. Kjør d2x cIOS Installer.
 1. Velg følgende instillinger:
-    - Velg cIOS `v10 d2x-v10-beta52-vWii`
+    - Select cIOS: `v10 beta52 d2x-v10-beta52-vWii`
     - Velg cIOS base `56`
     - Velg cIOS slot `249`
 1. Trykk på `A`-knappen for å installere dem.
 1. Velg følgende instillinger:
-    - Velg cIOS `v10 d2x-v10-beta52-vWii`
+    - Select cIOS: `v10 beta52 d2x-v10-beta52-vWii`
     - Velg cIOS base `57`
     - Velg cIOS slot `250`
 1. Trykk på `A`-knappen for å installere dem.
 1. Velg følgende instillinger:
-    - Velg cIOS `v10 d2x-v10-beta52-vWii`
+    - Select cIOS: `v10 beta52 d2x-v10-beta52-vWii`
     - Velg cIOS base `58`
     - Velg cIOS slot `251`
 1. Trykk på `A`-knappen for å installere dem.
