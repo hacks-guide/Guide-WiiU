@@ -68,17 +68,17 @@ In case anything goes wrong in the later process and your vWii ends up bricked, 
 1. Launch The Homebrew Channel.
 1. Launch d2x cIOS Installer.
 1. Set everything to match the following:
-    - Select cIOS: `v10 d2x-v10-beta52-vWii`
+    - Select cIOS: `v10 beta52 d2x-v10-beta52-vWii`
     - Select cIOS base: `56`
     - Select cIOS slot: `249`
 1. Press the `A` button to install.
 1. Set everything to match the following:
-    - Select cIOS: `v10 d2x-v10-beta52-vWii`
+    - Select cIOS: `v10 beta52 d2x-v10-beta52-vWii`
     - Select cIOS base: `57`
     - Select cIOS slot: `250`
 1. Press the `A` button to install.
 1. Set everything to match the following:
-    - Select cIOS: `v10 d2x-v10-beta52-vWii`
+    - Select cIOS: `v10 beta52 d2x-v10-beta52-vWii`
     - Select cIOS base: `58`
     - Select cIOS slot: `251`
 1. Press the `A` button to install.
