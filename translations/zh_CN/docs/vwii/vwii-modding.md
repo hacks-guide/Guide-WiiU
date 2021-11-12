@@ -6,6 +6,10 @@
 
 ?> **注意** 你的 SD 卡需要被格式化为 FAT32。 如果你的 SD 卡的格式不是 FAT32，则你需要用 [GUIFormat](http://ridgecrop.co.uk/index.htm?guiformat.htm) 格式化，格式化时请将分配单元大小设置为 32k（32768）。 **不要**把 SD 卡分区命名为 `wiiu`，这样做会导致出现 homebrew 程序上的问题。
 
+?> If you have hacked your Wii U in the past, you can use the same SD Card for this process.
+
+
+
 ### 你需要准备些啥？ {docsify-ignore}
 
 - The latest release of the [vwii-compat-installer](https://github.com/TheLordScruffy/vwii-compat-installer/releases).
@@ -28,7 +32,9 @@
 
 ### NAND 备份
 
-如果你在之后做错了什么导致 vWii 损坏了，恢复 NAND 备份就可以修复它。
+In case anything goes wrong in the later process and your vWii ends up bricked, restoring a previously made NAND backup can fix it.
+
+?> If you have recently made a NAND backup that includes SLCCMPT and OTP, feel free to skip this step.
 
 1. 启动 [Homebrew Launcher](vwii/browser-exploit)。
 1. 启动 `Wii U NAND Dumper`。
@@ -54,25 +60,25 @@
 
 ### 安装 cIOS
 
-!> 请确保你的 SD 卡中除了 `apps` 文件夹中有 `.wad` 文件外其他的地方都没有此后缀的文件。
+!> Make sure you have no `.wad` files anywhere else than in the `apps` folder on your SD Card.
 
-?> **小贴士** 你可以在 Wii U 开机的时候按住游戏手柄中的 `B` 键来直接启动至 vWii。
+?> **Tip** You can hold the `B` button on the GamePad when turning on the Wii U to boot directly into vWii.
 
 1. 将 Wii U 开机，然后启动 vWii。
 1. 启动 Homebrew Channel。
 1. 启动 d2x cIOS Installer。
 1. 设定以下选项：
-    - Select cIOS: `v10 d2x-v10-beta52-vWii`
+    - Select cIOS: `v10 beta52 d2x-v10-beta52-vWii`
     - Select cIOS base: `56`
     - Select cIOS slot: `249`
 1. 按下 `A` 键来安装。
 1. 设定以下选项：
-    - Select cIOS: `v10 d2x-v10-beta52-vWii`
+    - Select cIOS: `v10 beta52 d2x-v10-beta52-vWii`
     - Select cIOS base: `57`
     - Select cIOS slot: `250`
 1. 按下 `A` 键来安装。
 1. 设定以下选项：
-    - Select cIOS: `v10 d2x-v10-beta52-vWii`
+    - Select cIOS: `v10 beta52 d2x-v10-beta52-vWii`
     - Select cIOS base: `58`
     - Select cIOS slot: `251`
 1. 按下 `A` 键来安装。
@@ -80,7 +86,7 @@
 
 ### 为 IOS 80 打补丁
 
-!> 在给 IOS 80 打补丁的时候如果出现一些情况导致 Wii U 被关机将导致 vWii 损坏。 这可以通过提取你 NAND 备份中的 IOS 80，然后通过 FTP 替换文件或 [重新安装 IOS 80](recover-vwii-ioses-channels) 来修复。
+!> If for any reason, the Wii U is turned off while patching IOS 80, your vWii will be bricked. This can be fixed by either extracting the IOS 80 from your previously made NAND backup and then replacing it over FTP or by [reinstalling IOS 80](recover-vwii-ioses-channels).
 
 1. 启动 vWii 的 Patched IOS 80 Installer。
 1. 阅读警告信息并等待 30 秒。
@@ -88,8 +94,8 @@
 1. 等一会，直到它提示 <code>IOS80 <wbr>Installation <wbr>is <wbr>complete!</code>。
 1. 按下任意键来退出。
 
-!> 安装自制系统菜单是一件绝对有损坏风险的事情，在你决定安装之前你需要有一份可用的备份。但是如果安装正确理应不会导致 vWii 损坏。
+!> Installing custom System Menu is a definite brick risk and you should always have an effective backup before installing one but when done right, won't brick the vWii.
 
-!> 在 vWii 中安装任何 IOS（包括 TED IOS）或为 Wii 制作的 wad 将会导致 vWii 损坏。
+!> Installing any IOS (including TED IOSes) or wads made for the original Wii on your vWii will brick it.
 
-!> 安装 Priiloader 会导致 vWii 损坏。
+!> Installing Priiloader will brick your vWii.

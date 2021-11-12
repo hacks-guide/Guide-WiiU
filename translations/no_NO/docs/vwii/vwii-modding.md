@@ -6,6 +6,10 @@ Vi starter med å plassere Homebrew filene du trenger på SD-kortet ditt.
 
 ?> **Merk** SD-kortet ditt må formateres til FAT32. Hvis den ikke er formatert til FAT32, bør du bruke [GUIFormat](http://ridgecrop.co.uk/index.htm?guiformat.htm) med 32k (32768) "Allocation unit size" for å formatere den. **Ikke** sett navnet på SD kortet til `wiiu`, det vil skape problemer med noen homebrew apper.
 
+?> Hvis du har hacket Wii U'en din tidligere, kan du bruke det samme SD-kortet i denne prosessen.
+
+
+
 ### Dette Trenger Du {docsify-ignore}
 
 - Siste utgave av [vwii-compat-installer](https://github.com/TheLordScruffy/vwii-compat-installer/releases).
@@ -29,6 +33,8 @@ Vi starter med å plassere Homebrew filene du trenger på SD-kortet ditt.
 ### NAND Backup
 
 Hvis noe går galt senere i prosessen og vWii "bricker", vil gjenoppretting av en NAND backup muligens fikse den.
+
+?> Hvis du nylig har laget en NAND sikkerhetskopi som inneholder SLCCMPT og OTP, kan du hoppe over dette trinnet.
 
 1. Start [Homebrew Launcher](vwii/browser-exploit).
 1. Kjør `Wii U NAND Dumper`.
@@ -62,17 +68,17 @@ Hvis noe går galt senere i prosessen og vWii "bricker", vil gjenoppretting av e
 1. Start Homebrew Channel.
 1. Kjør d2x cIOS Installer.
 1. Velg følgende instillinger:
-    - Velg cIOS `v10 d2x-v10-beta52-vWii`
+    - Select cIOS: `v10 beta52 d2x-v10-beta52-vWii`
     - Velg cIOS base `56`
     - Velg cIOS slot `249`
 1. Trykk på `A`-knappen for å installere dem.
 1. Velg følgende instillinger:
-    - Velg cIOS `v10 d2x-v10-beta52-vWii`
+    - Select cIOS: `v10 beta52 d2x-v10-beta52-vWii`
     - Velg cIOS base `57`
     - Velg cIOS slot `250`
 1. Trykk på `A`-knappen for å installere dem.
 1. Velg følgende instillinger:
-    - Velg cIOS `v10 d2x-v10-beta52-vWii`
+    - Select cIOS: `v10 beta52 d2x-v10-beta52-vWii`
     - Velg cIOS base `58`
     - Velg cIOS slot `251`
 1. Trykk på `A`-knappen for å installere dem.

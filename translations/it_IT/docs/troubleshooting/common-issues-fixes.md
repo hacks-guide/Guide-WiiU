@@ -36,12 +36,12 @@ Niente di speciale, puoi lasciarli lì, eliminarli o sostituirli con dei nuovi. 
 
 ### La mia console all'improvviso ha perso la connettività online e ho un HDD sulla parte superiore della console, che faccio?
 
-The internal antenna may have been influenced by the hard drive magnet.
-You can move the HDD to a different position atop the Wii U, or move it off the Wii U entirely.
+L'antenna interna può essere stata influenzata dal magnete del disco rigido.
+È possibile spostare l'HDD in una posizione diversa sulla Wii U o spostarlo completamente fuori dalla Wii U.
 ----------
 
-# SD Card Layout
-This is an example of what your SD Card should look like after you set it up. If you have a `-5` error or the `FSOpenFile failed` error your file locations may be incorrect.
+# Layout della scheda SD
+Questo è un esempio di come dovrebbe apparire la scheda SD dopo averla configurata. Se si dispone di un errore `-5` o l'errore `FSOpenFile failed` la posizione dei file potrebbe non essere corretta.
 ```
 💾sd:
  ┣ 📂cbhc                             (CBHC only)
@@ -69,6 +69,6 @@ This is an example of what your SD Card should look like after you set it up. If
    ┃ ┃ ┣ 📜homebrew_launcher.elf
    ┃ ┃ ┣ 📜icon.png
    ┃ ┃ ┗ 📜meta.xml
-   ┃ ┗ (All other apps like disc2app, nanddumper, etc. should be here too)
+   ┃ ┗ (Anche tutte le altre app come disc2app, nanddumper, ecc. dovrebbero essere qui)
    ┗ 📜payload.elf
 ```
