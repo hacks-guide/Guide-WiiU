@@ -21,7 +21,7 @@
 
 - 你的 SD 卡需要保存游戏的导出文件的足够的空间。
 - 最新版 [WUP Installer GX2](https://wiiubru.com/appstore/zips/wup_installer_gx2.zip)。
-- [Disc2app](https://www.wiiubru.com/appstore/zips/disc2app.zip) homebrew 程序。
+- The [disc2app](https://wiiubru.com/appstore/zips/disc2app.zip) homebrew application.
 
 ### 步骤 {docsify-ignore}
 
@@ -55,7 +55,7 @@
 - 你的 SD 卡需要保存游戏的导出文件的足够的空间。
 - 一块 USB HDD（如果需要的话还需要准备 Y 型线）
 - 最新版 [WUP Installer GX2](https://wiiubru.com/appstore/zips/wup_installer_gx2.zip)
-- [Disc2app](https://www.wiiubru.com/appstore/zips/disc2app.zip) Homebrew 程序
+- The [disc2app](https://wiiubru.com/appstore/zips/disc2app.zip) Homebrew app
 
 ### 步骤 {docsify-ignore}
 
@@ -88,8 +88,8 @@
 
 - 一个有足够空间放进你的游戏导出文件的 USB 存储设备（如果需要的话还需要准备 Y 型线）。
 - 最新版 [WUP Installer GX2](https://wiiubru.com/appstore/zips/wup_installer_gx2.zip)
-- [Disc2app](https://www.wiiubru.com/appstore/zips/disc2app.zip) Homebrew 程序。
-- [MochaFAT32](https://www.wiiubru.com/appstore/zips/mocha_fat32.zip) Homebrew 程序。
+- The [disc2app](https://wiiubru.com/appstore/zips/disc2app.zip) Homebrew app.
+- The [MochaFAT32](https://wiiubru.com/appstore/zips/mocha_fat32.zip) Homebrew app.
 - 1.4 版本的 [The Homebrew Launcher](https://github.com/dimok789/homebrew_launcher/releases/tag/1.4)
   - 你需要下载 `homebrew_launcher.v.1.4.zip` 版本。
 

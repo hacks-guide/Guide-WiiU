@@ -24,7 +24,7 @@ Actuellement, il existe deux moyens de bloquer les mises à jour sur le système
 
 ### Blocage par DNS
 
-?> Cette méthode est la plus simple et est recommandée aux utilisateurs moins avancés. Elle empêche toutefois le fonctionnement du Nintendo eShop. Ce problème peut être contourné en exécutant [NNUPatcher](https://www.wiiubru.com/appstore/zips/nnupatcher.zip) avant de lancer le Nintendo eShop.
+?> Cette méthode est la plus simple et est recommandée aux utilisateurs moins avancés. Elle empêche toutefois le fonctionnement du Nintendo eShop. This can be worked around by running [NNUPatcher](https://wiiubru.com/appstore/zips/nnupatcher.zip) before starting the eShop.
 1. Insérez votre carte SD dans votre ordinateur.
 1. Copiez le contenu du fichier `nnupatcher.zip` vers la racine de votre carte SD. Si on vous le demande, écrasez les fichiers en double.
 1. Insérez la carte SD dans votre console Wii U et allumez-la.

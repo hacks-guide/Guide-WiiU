@@ -21,7 +21,7 @@ Ikke bruk denne guiden til å dele spillene dine.
 
 - SD-kortet må ha nok plass til spillet du vil dumpe.
 - Siste utgave av [WUP Installer GX2](https://wiiubru.com/appstore/zips/wup_installer_gx2.zip).
-- Homebrew appen [disc2app](https://www.wiiubru.com/appstore/zips/disc2app.zip).
+- Homebrew appen [disc2app](https://wiiubru.com/appstore/zips/disc2app.zip).
 
 ### Instruksjoner {docsify-ignore}
 
@@ -55,7 +55,7 @@ Ikke bruk denne guiden til å dele spillene dine.
 - SD-kortet må ha nok plass til spillet du vil dumpe.
 - En USB-lagringsenhet (+ en Y-kabel hvis nødvendig)
 - Siste utgave av [WUP Installer GX2](https://wiiubru.com/appstore/zips/wup_installer_gx2.zip)
-- Homebrew appen [disc2app](https://www.wiiubru.com/appstore/zips/disc2app.zip)
+- Homebrew appen [disc2app](https://wiiubru.com/appstore/zips/disc2app.zip)
 
 ### Instruksjoner {docsify-ignore}
 
@@ -88,8 +88,8 @@ Ikke bruk denne guiden til å dele spillene dine.
 
 - En USB-lagringsenhet (+en Y-kabel hvis nødvendig) med nok lagringsplass til å ta imot spillet du vil dumpe.
 - Siste utgave av [WUP Installer GX2](https://wiiubru.com/appstore/zips/wup_installer_gx2.zip)
-- Homebrew appen [disc2app](https://www.wiiubru.com/appstore/zips/disc2app.zip).
-- Homebrew appen [MochaFAT32](https://www.wiiubru.com/appstore/zips/mocha_fat32.zip).
+- Homebrew appen [disc2app](https://wiiubru.com/appstore/zips/disc2app.zip).
+- Homebrew appen [MochaFAT32](https://wiiubru.com/appstore/zips/mocha_fat32.zip).
 - [Homebrew Launcher](https://github.com/dimok789/homebrew_launcher/releases/tag/1.4) Versjon 1.4
   - Du må laste ned `homebrew_launcher.v.1.4.zip`.
 

@@ -24,7 +24,7 @@ Attualmente, esistono due metodi per bloccare gli aggiornamenti di sistema:
 
 ### Blocco tramite DNS
 
-?> Questo metodo è il più facile ed è consigliato alle persone meno esperte. Non ti farà, però, accedere all'eShop. Questo può venir aggirato eseguendo [NNUPatcher](https://www.wiiubru.com/appstore/zips/nnupatcher.zip) prima di aprire l'eShop.
+?> Questo metodo è il più facile ed è consigliato alle persone meno esperte. Non ti farà, però, accedere all'eShop. This can be worked around by running [NNUPatcher](https://wiiubru.com/appstore/zips/nnupatcher.zip) before starting the eShop.
 1. Inserisci la scheda SD nel tuo computer.
 1. Copia i contenuti di `nnupatcher.zip` nella root della tua scheda SD. Se viene chiesto, sovrascrivi tutti i file duplicati.
 1. Inserisci la scheda SD nel tuo Wii U e accendilo.

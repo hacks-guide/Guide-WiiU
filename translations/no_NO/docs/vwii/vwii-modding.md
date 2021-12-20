@@ -13,7 +13,7 @@ Vi starter med å plassere Homebrew filene du trenger på SD-kortet ditt.
 ### Dette Trenger Du {docsify-ignore}
 
 - Siste utgave av [vwii-compat-installer](https://github.com/TheLordScruffy/vwii-compat-installer/releases).
-- Siste utgave av [Wii U NAND Dumper](https://www.wiiubru.com/appstore/zips/nanddumper.zip).
+- Siste utgave av [Wii U NAND Dumper](https://wiiubru.com/appstore/zips/nanddumper.zip).
 - <a href="docs/files/Patched_IOS80_Installer_for_vWii.zip" download>Patched IOS 80 Installer for vWii</a>.
 - <a href ="docs/files/d2x_cIOS_Installer.zip" download>d2x cIOS Installer</a>.
 - [Homebrew Launcher](https://github.com/dimok789/homebrew_launcher/releases/download/1.4/homebrew_launcher.v1.4.zip).
@@ -68,17 +68,17 @@ Hvis noe går galt senere i prosessen og vWii "bricker", vil gjenoppretting av e
 1. Start Homebrew Channel.
 1. Kjør d2x cIOS Installer.
 1. Velg følgende instillinger:
-    - Select cIOS: `v10 beta52 d2x-v10-beta52-vWii`
+    - Velg cIOS: `v10 beta52 d2x-v10-beta52-vWii`
     - Velg cIOS base `56`
     - Velg cIOS slot `249`
 1. Trykk på `A`-knappen for å installere dem.
 1. Velg følgende instillinger:
-    - Select cIOS: `v10 beta52 d2x-v10-beta52-vWii`
+    - Velg cIOS: `v10 beta52 d2x-v10-beta52-vWii`
     - Velg cIOS base `57`
     - Velg cIOS slot `250`
 1. Trykk på `A`-knappen for å installere dem.
 1. Velg følgende instillinger:
-    - Select cIOS: `v10 beta52 d2x-v10-beta52-vWii`
+    - Velg cIOS: `v10 beta52 d2x-v10-beta52-vWii`
     - Velg cIOS base `58`
     - Velg cIOS slot `251`
 1. Trykk på `A`-knappen for å installere dem.

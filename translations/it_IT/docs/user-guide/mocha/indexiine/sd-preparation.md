@@ -14,10 +14,10 @@ Ora inseriremo i file CFW richiesti e alcuni altri file homebrew sulla scheda SD
 - La versione 1.4 dell' [Homebrew Launcher](https://github.com/dimok789/homebrew_launcher/releases/tag/1.4).
   - Dovrai installare la versione 1.4 di `homebrew_launcher.v1.4.zip`.
 - La versione più recente di [WUP Installer GX2](https://wiiubru.com/appstore/zips/wup_installer_gx2.zip).
-- La versione più recente di [Wii U NAND Dumper](https://www.wiiubru.com/appstore/zips/nanddumper.zip).
+- The latest release of [Wii U NAND Dumper](https://wiiubru.com/appstore/zips/nanddumper.zip).
 - La versione più recente dell' [Homebrew App Store](https://github.com/vgmoose/hbas/releases/latest).
   - Dovrai installare il file `wiiu-extracttosd.zip`.
-- La versione più recente di [Mocha](https://www.wiiubru.com/appstore/zips/mocha.zip).
+- The latest release of [Mocha](https://wiiubru.com/appstore/zips/mocha.zip).
 - La versione più recente di <a href="docs/files/SaveMii_Mod.zip" download>SaveMii Mod</a>.
 - La versione più recente di [Indexiine Installer](https://github.com/GaryOderNichts/indexiine-installer/releases/latest).
 
