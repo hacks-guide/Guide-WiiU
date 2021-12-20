@@ -21,7 +21,7 @@ Si vous avez l'intention d'utiliser ce guide pour ensuite partager vos jeux dump
 
 - Votre carte SD a besoin de suffisamment d'espace pour stocker le jeu que vous voulez dumper.
 - La dernière version de [WUP Installer GX2](https://wiiubru.com/appstore/zips/wup_installer_gx2.zip).
-- L'application Homebrew [disc2app](https://www.wiiubru.com/appstore/zips/disc2app.zip).
+- The [disc2app](https://wiiubru.com/appstore/zips/disc2app.zip) homebrew application.
 
 ### Instructions {docsify-ignore}
 
@@ -55,7 +55,7 @@ Si vous avez l'intention d'utiliser ce guide pour ensuite partager vos jeux dump
 - Votre carte SD a besoin de suffisamment d'espace pour stocker le jeu que vous voulez dumper.
 - Un disque dur USB (+ un câble en Y si nécessaire)
 - La dernière version de [WUP Installer GX2](https://wiiubru.com/appstore/zips/wup_installer_gx2.zip)
-- L'application Homebrew [disc2app](https://www.wiiubru.com/appstore/zips/disc2app.zip)
+- The [disc2app](https://wiiubru.com/appstore/zips/disc2app.zip) Homebrew app
 
 ### Instructions {docsify-ignore}
 
@@ -88,8 +88,8 @@ Si vous avez l'intention d'utiliser ce guide pour ensuite partager vos jeux dump
 
 - Un périphérique de stockage USB (+un câble Y si nécessaire) avec suffisamment d'espace pour s'adapter au jeu que vous voulez dumper.
 - La dernière version de [WUP Installer GX2](https://wiiubru.com/appstore/zips/wup_installer_gx2.zip)
-- L'application Homebrew [disc2app](https://www.wiiubru.com/appstore/zips/disc2app.zip).
-- L'application Homebrew [Mocha FAT32](https://www.wiiubru.com/appstore/zips/mocha_fat32.zip).
+- The [disc2app](https://wiiubru.com/appstore/zips/disc2app.zip) Homebrew app.
+- The [MochaFAT32](https://wiiubru.com/appstore/zips/mocha_fat32.zip) Homebrew app.
 - La version 1.4 de [l'Homebrew Launcher](https://github.com/dimok789/homebrew_launcher/releases/tag/1.4)
   - Vous devrez télécharger la version 1.4 `homebrew_launcher.v1.4.zip` de l'Homebrew Launcher.
 
