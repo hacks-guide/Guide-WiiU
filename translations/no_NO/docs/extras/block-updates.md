@@ -24,7 +24,7 @@ For tiden finnes det to måter å blokkere systemoppdateringer på Wii U:
 
 ### DNS-blokkering
 
-?> Dette er den enkleste metoden og anbefales for de som er usikker på å slette "update" mappen. Den vil derimot gjøre sånn at eShop ikke fungerer normalt. Men hvis du bruker [NNUPatcher](https://www.wiiubru.com/appstore/zips/nnupatcher.zip) så vil du ha tilgang til eShop igjen.
+?> Dette er den enkleste metoden og anbefales for de som er usikker på å slette "update" mappen. Den vil derimot gjøre sånn at eShop ikke fungerer normalt. This can be worked around by running [NNUPatcher](https://wiiubru.com/appstore/zips/nnupatcher.zip) before starting the eShop.
 1. Sett SD-kortet inn i PC'en.
 1. Pakk ut `nnupatcher.zip` til roten av SD-kortet. Hvis den sier at filene er der allerede, kan du overskrive disse.
 1. Sett SD-kortet inn i Wii U konsollen din og skru den på.
