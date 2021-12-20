@@ -15,10 +15,10 @@ We will now place the required CFW files and some additional homebrew files on t
 - The latest release of [WUP Installer GX2](https://wiiubru.com/appstore/zips/wup_installer_gx2.zip).
 - The latest release of [The Homebrew Launcher Channel](https://github.com/GaryOderNichts/homebrew_launcher/releases/tag/v2.1_fix).
   - You will need to download the `homebrew_launcher_channel.v2.1_fix.zip` file.
-- The latest release of [Wii U NAND Dumper](https://www.wiiubru.com/appstore/zips/nanddumper.zip).
+- The latest release of [Wii U NAND Dumper](https://wiiubru.com/appstore/zips/nanddumper.zip).
 - The latest release of the [Homebrew App Store](https://github.com/vgmoose/hbas/releases/latest).
   - You will need to download the `wiiu-extracttosd.zip` file.
-- The latest release of [Haxchi](https://www.wiiubru.com/appstore/zips/haxchi.zip).
+- The latest release of [Haxchi](https://wiiubru.com/appstore/zips/haxchi.zip).
 - The latest release of <a href="docs/files/SaveMii_Mod.zip" download>SaveMii Mod</a>.
 
 ### Instructions {docsify-ignore}
