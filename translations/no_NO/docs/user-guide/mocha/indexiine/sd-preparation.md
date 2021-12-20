@@ -14,10 +14,10 @@ Her vil vi plassere de nødvendige CFW-filene og noen ekstra homebrew filer på 
 - [Homebrew Launcher](https://github.com/dimok789/homebrew_launcher/releases/tag/1.4) Versjon 1.4.
   - Du må laste ned `homebrew_launcher.v.1.4.zip`.
 - Siste utgave av [WUP Installer GX2](https://wiiubru.com/appstore/zips/wup_installer_gx2.zip).
-- Siste utgave av [Wii U NAND Dumper](https://www.wiiubru.com/appstore/zips/nanddumper.zip).
+- The latest release of [Wii U NAND Dumper](https://wiiubru.com/appstore/zips/nanddumper.zip).
 - Siste utgave av [Homebrew App Store](https://github.com/vgmoose/hbas/releases/latest).
   - Du må laste ned `wiiu-extracttosd.zip` filen.
-- Siste utgave av [Mocha](https://www.wiiubru.com/appstore/zips/mocha.zip).
+- The latest release of [Mocha](https://wiiubru.com/appstore/zips/mocha.zip).
 - Siste utgave av <a href="docs/files/SaveMii_Mod.zip" download>SaveMii Mod</a>.
 - Siste utgave av [Indexiine-Installer](https://github.com/GaryOderNichts/indexiine-installer/releases/latest).
 
