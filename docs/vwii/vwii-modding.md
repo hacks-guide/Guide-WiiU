@@ -14,7 +14,7 @@ We will now place the required Homebrew files on the SD Card.
 ### What You Need {docsify-ignore}
 
 - The latest release of the [vwii-compat-installer](https://github.com/TheLordScruffy/vwii-compat-installer/releases).
-- The latest release of the [Wii U NAND Dumper](https://www.wiiubru.com/appstore/zips/nanddumper.zip).
+- The latest release of the [Wii U NAND Dumper](https://wiiubru.com/appstore/zips/nanddumper.zip).
 - The <a href="docs/files/Patched_IOS80_Installer_for_vWii.zip" download>Patched IOS 80 Installer for vWii</a>.
 - The <a href ="docs/files/d2x_cIOS_Installer.zip" download>d2x cIOS Installer</a>.
 - The [Homebrew Launcher](https://github.com/dimok789/homebrew_launcher/releases/download/1.4/homebrew_launcher.v1.4.zip).
