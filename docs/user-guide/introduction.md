@@ -60,4 +60,4 @@ It is advised that you read the entire guide from start to finish one or more ti
 
 ---
 
-### [Continue to Choose a CFW](cfw-choice) {docsify-ignore}
+### [Continue to Tiramisu](tiramisu) {docsify-ignore}
