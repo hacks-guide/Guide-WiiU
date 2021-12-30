@@ -16,3 +16,5 @@ Installing the PayloadLoader will let you access Tiramisu just by running the He
 1. You'll be asked if you are sure you want to install the PayloadLoader. Use the D-Pad to select `Install` and press A.
 1. After installing finishes, press A to shut down the console.
 1. Now turn your console back on and open the Health and Safety Information app to launch the PayloadLoader. After a bit of time, you'll be sent back to the Wii U Menu.
+
+!> If you do not wish to autoboot Tiramisu on your console, you can skip the `Autobooting Tiramisu` part. </br> But you need to be aware that system updates won't be blocked and will need to be blocked by following [this guide](../block-updates). This is not required but it's highly recommended.
