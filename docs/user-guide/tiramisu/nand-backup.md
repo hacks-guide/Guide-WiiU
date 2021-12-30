@@ -12,8 +12,8 @@ In case anything should go wrong in the later process and your Wii U ends up bri
 <br>However, making a NAND Backup is **always** useful, so please do not skip it.
 <br>Your NAND Backup is unique to your system. Backups from other consoles **won't** work.
 
-1. Navigate through the Tiramisu Boot Selector using the D-Pad and launch the `Homebrew Launcher` app by pressing A.
-1. Navigate through the Homebrew Launcher and launch the `nanddumper.elf` app.
+1. Launch web browser exploit as [previously explained](browser-exploit) but this time, you will need to hold the B button.
+1. Navigate to `nanddumper` using the Gamepad and press A to launch it.
 1. Use the Wii U GamePad's D-Pad to enter the following configuration:
     - Dump SLC: **yes**
     - Dump SLCCMPT: **yes**

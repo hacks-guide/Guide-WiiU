@@ -6,8 +6,8 @@ Currently, every time you want to launch Tiramisu you will have to launch the He
 
 ### Instructions
 
-1. From the Wii U Menu, launch the Health and Safety Information app and hold the X button.
-1. Navigate the list using the D-Pad and select the `install` app.
+1. From the Wii U Menu, launch the Health and Safety Information app and hold the X button  to open the Environment Loader menu.
+1. Navigate the list using the D-Pad and navigate to the `install` environment, press A to launch it.
 1. Press A to select `Check`.
 1. Select `Boot options`.
 1. You will be asked if you want to switch the boot title. Press A to select `Switch to PayloadLoader`.
