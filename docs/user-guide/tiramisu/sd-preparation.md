@@ -18,3 +18,5 @@ We will now place the required CFW files and some additional homebrew files on t
 1. Insert your Wii U's SD Card into your PC.
 1. Copy the contents of the newly downloaded `files.zip` file to the root of your SD Card.
 1. Copy the `01_sigpatches.rpx` file to `/wiiu/environments/tiramisu/modules/setup` on your SD Card
+
+?> If your computer asks you to overwrite existing files on your SD Card, you will need to click yes.
