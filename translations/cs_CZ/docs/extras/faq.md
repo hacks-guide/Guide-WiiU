@@ -5,16 +5,17 @@
 
 Currently, homebrewing the Wii U does not expose you to a risk of being banned by Nintendo unless you cheat in online games, or do eShop fraud. You should, however, always be careful with launching downloaded homebrew, especially if you don't trust the source, as homebrew can potentially damage your system!
 
-### What is Haxchi, and do I need it?
+### What are exploits?
 
-Haxchi is a secondary entry point which uses certain DS Virtual Console titles to allow for access to homebrew while being completely offline (still works with online but no connection required to launch CFW)
+Exploits are entry points which allow further homebrew to be run. In the main guide, you will use exploits such as the browser exploit (http://wiiuexploit.xyz) and PayloadLoader (Health & Safety exploit). All current exploits load `SD:/wiiu/payload.elf` which takes over further loading of homebrew.
 
-Haxchi is **not** required, however, if you want to use homebrew on your Wii U without the internet browser you will need it. It's recommended as it's more convenient to get into CFW than using the Browser Exploit and Mocha CFW.
+### What are payloads?
 
-The cheapest DS Virtual Console games usable for this exploit:
- - Dr. Kawashima's Brain Training [PAL]
- - Brain Age: Train Your Brain in Minutes a Day! [USA]
- - Kawashima: Motto Nou wo Kitaeru Otona no DS Training [JPN]
+Payloads, which are normally found with the filename `payload.elf`, exist to make it easier to have different exploits load the same next stage, which allows easier updateability. It doesn't matter what exploit loads the payload, the result is always the same. Multiple payloads can be switched between using the PayloadLoaderPayload. The payload used in the main guide is CustomRPXLoader which loads `SD:/wiiu/payload.rpx` and the `payload.rpx` used in the guide is EnvironmentLoader, which allows you to load different environments.
+
+### What are environments?
+
+An environment is a collection of "setup modules", which will be run in a certain order when launching the environment. One such environment is Tiramisu. Setup modules are small pieces of homebrew/code that are executed once to set up an environment.
 
 ### Can I install games from my USB instead of SD?
 
