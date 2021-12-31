@@ -1,6 +1,6 @@
 - **Guide de l'utilisateur**
 - [Introduction](introduction)
-- [Choisissez un CFW](cfw-choice)
+- [Tiramisu](tiramisu/sd-preparation)
 - **vWii**
 - [Modding de la vWii](vwii-modding)
 - **Résolution de problèmes**
@@ -10,12 +10,15 @@
 - **Extras**
 - [Blocage des mises à jour](block-updates)
 - [Déblocage des mises à jour](unblock-updates)
-- [Payload configurable](configurable-payload)
-- [Dump des disques Wii U](dump-games)
-- [Dump des disques Wii](dump-wii-games)
-- [Désinstaller CBHC](uninstall-cbhc)
-- [Désinstaller Indexiine](uninstall-indexiine)
+- [Dumping Wii U Discs](dump-games)
+- [Dumping Wii Discs](dump-wii-games)
+- [Uninstall CBHC](uninstall-cbhc)
+- [Uninstall Indexiine](uninstall-indexiine)
+- [Uninstall Payloadloader](uninstall-payloadloader)
 - [Foire Aux Questions](faq)
+- **Archive**
+- [Previous Methods](archive/cfw-choice)
+- [Configurable Payload](configurable-payload)
 - **Liens**
 - [![GitHub](https://icongr.am/simple/github.svg?color=808080&size=16)GitHub](https://github.com/hacks-guide/Guide-WiiU)
 - [![Discord](https://icongr.am/simple/discord.svg?colored&size=16)Discord](https://discord.gg/C29hYvh)
