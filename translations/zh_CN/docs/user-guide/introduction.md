@@ -51,7 +51,7 @@ Homebrew 是由用户自制的且 Nintendo 没有授权的程序。 包括存档
 
 在做步骤的时候请将你的主机接上充电器充电，以避免意外关机造成数据丢失或损坏。
 
-After following this guide, CFW will be loaded and enabled on boot. Unless you choose to not autoboot PayloadLoader.
+After following this guide, CFW will be loaded and enabled on boot, unless you choose to not follow the Autobooting Tiramisu section.
 
 请从头开始阅读此手册，完成一项或若干次操作后再继续进行操作步骤。
 
