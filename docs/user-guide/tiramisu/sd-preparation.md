@@ -7,6 +7,12 @@ We will now place the required CFW files and some additional homebrew files on t
 ?> **Notice**
     Your SD Card will need to be formatted as FAT32. If your SD Card is not formatted to FAT32, use [GUIFormat](http://ridgecrop.co.uk/index.htm?guiformat.htm) with 32k (32768) allocation unit size to format it. </br> **Do not** label the SD Card as `wiiu` or it will cause issues with homebrew.
 
+?> **If you have an existing legacy CFW setup** </br>
+    For **CBHC** users: go to the [Uninstall CBHC](../uninstall-cbhc) page to uninstall CBHC. </br>
+    For **Haxchi** users: uninstall the Haxchi app from Data Management in the System Settings app. </br>
+    For **Mocha CFW (Indexiine)** users: go to the [Uninstall Indexiine](../uninstall-indexiine) page to uninstall Indexiine. </br>
+    For **Mocha CFW (Online Exploit)** users: you do not need to do anything before following this guide.
+
 ### What You Need {docsify-ignore}
 
 - The latest files from [Tiramisu for your café](https://tiramisu.foryour.cafe).
