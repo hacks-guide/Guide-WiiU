@@ -51,7 +51,7 @@ Hvis du følger guiden riktig, vil du fortsatt ha alt du startet med (spill, sav
 
 La Wii U konsollen og gamepad være tilkoblet til strøm under hele prosessen for å unngå datatap eller skade ved ett uventet strømbrudd.
 
-After following this guide, CFW will be loaded and enabled on boot. Unless you choose to not autoboot PayloadLoader.
+After following this guide, CFW will be loaded and enabled on boot, unless you choose to not follow the Autobooting Tiramisu section.
 
 Det anbefales at du leser igjennom hele guiden fra start til slutt, minst én gang før du setter igang med å modifiserere konsollen din.
 
