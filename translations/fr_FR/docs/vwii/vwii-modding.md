@@ -4,7 +4,7 @@ Cette page vous guidera tout au long du processus de modding de votre vWii.
 
 Nous allons maintenant placer les fichiers Homebrew nécessaires sur la carte SD.
 
-?> **Remarque** Votre carte SD devra être formatée en FAT32. Si votre carte SD n'est pas formatée en FAT32, utilisez [GUIFormat](http://ridgecrop.co.uk/index.htm?guiformat.htm) avec 32k (32768) en Taille d'unité d'allocation pour la formater. **Ne nommez pas** la carte SD en tant que `wiiu` ou cela causera des problèmes avec les homebrews.
+?> **Remarque** Votre carte SD devra être formatée en FAT32. Si votre carte SD n'est pas formatée en FAT32, utilisez [GUIFormat](http://ridgecrop.co.uk/index.htm?guiformat.htm) avec 32k (32768) en taille d'unité d'Allocation pour la formater. **Ne nommez pas** la carte SD en tant que `wiiu` ou cela causera des problèmes avec les homebrews.
 
 ?> If you have hacked your Wii U in the past, you can use the same SD Card for this process.
 
@@ -12,22 +12,19 @@ Nous allons maintenant placer les fichiers Homebrew nécessaires sur la carte SD
 
 ### Ce dont vous avez besoin {docsify-ignore}
 
-- La dernière version de [vwii-compat-installer](https://github.com/TheLordScruffy/vwii-compat-installer/releases).
-- The latest release of the [Wii U NAND Dumper](https://wiiubru.com/appstore/zips/nanddumper.zip).
+- The latest files from [Tiramisu for your café](https://tiramisu.foryour.cafe).
+    - Select `Nanddumper` and `Base-Tiramisu`.
+- The latest release of the [vwii-compat-installer](https://github.com/TheLordScruffy/vwii-compat-installer/releases).
 - L'application <a href="docs/files/Patched_IOS80_Installer_for_vWii.zip" download>Patched IOS 80 Installer for vWii</a>.
 - Les <a href ="docs/files/d2x_cIOS_Installer.zip" download>vWii cIOS apps</a>.
-- L'[Homebrew Launcher](https://github.com/dimok789/homebrew_launcher/releases/download/1.4/homebrew_launcher.v1.4.zip).
-- La dernière version de [Homebrew Launcher Installer](https://github.com/wiiu-env/homebrew_launcher_installer/releases/download/v1.4/payload.zip).
 
 ### Instructions {docsify-ignore}
 
 1. Insérez la carte SD de votre Wii U dans votre PC.
 1. Copiez le dossier `apps` du fichier <code>Patched_<wbr>IOS80_<wbr>Installer_<wbr>for_<wbr>vWii<wbr>.zip</code> vers la racine de votre carte SD.
 1. Copiez le contenu du fichier <code>d2x_<wbr>cIOS_<wbr>Installer<wbr>.zip</code> vers la racine de votre carte SD.
-1. Copiez le contenu du fichier `nanddumper.zip` vers la racine de votre carte SD.
-1. Copiez le contenu du fichier <code>homebrew_<wbr>launcher.<wbr>v1.4.zip</code> vers la racine de votre carte SD.
-1. Copiez le contenu du fichier `payload.zip` dans le dossier `wiiu` de votre carte SD.
-1. Copiez le fichier `compat_installer.elf` dans le dossier `wiiu/apps` à la racine de votre carte SD.
+1. Copy the contents of the newly downloaded `files.zip` file to the root of your SD Card.
+1. Copy the `compat_installer.elf` file to the `wiiu/apps` folder on the root of your SD Card.
 1. Retirez la carte SD de votre ordinateur et branchez-la sur votre console Wii U.
 
 ### Sauvegarde de la NAND
@@ -36,17 +33,16 @@ In case anything goes wrong in the later process and your vWii ends up bricked, 
 
 ?> If you have recently made a NAND backup that includes SLCCMPT and OTP, feel free to skip this step.
 
-1. Lancez l'[Homebrew Launcher](vwii/browser-exploit).
-1. Lancez l'application `Wii U NAND Dumper`.
+1. Launch the [Wii U NAND Dumper](vwii/browser-exploit).
 1. Utilisez la croix directionnelle du Wii U GamePad pour entrer la configuration suivante :
-    - Dump SLC: **optionnel**
+    - Dump SLC: **optional**
     - Dump SLCCMPT: **yes**
     - Dump MLC: **optionnel**
     - Dump OTP: **yes**
-    - Dump SEEPROM: **optionnel**
+    - Dump SEEPROM: **optional**
 1. Appuyez sur le bouton A pour démarrer le processus de dumping.
 1. Une fois le processus terminé, éteignez votre Wii U, retirez votre carte SD de la Wii U et insérez-la dans votre PC.
-1. Pour vous assurer de ne pas perdre les fichiers, copiez `slccmpt.bin`, `otp.bin` et si vous avez choisi de faire une sauvegarde complète, `seeprom.bin`, `slc.bin`, et `chaque fichier mlc.bin.part` sur votre ordinateur.
+1. To make sure you don't lose the files, copy the `slccmpt.bin`, `otp.bin` and if you chose to go with a full backup, `seeprom.bin`, `slc.bin`, and `every mlc.bin.part` file to your computer.
 1. Supprimez les fichiers de votre carte SD pour libérer de l'espace.
 1. Retirez la carte SD de votre ordinateur et branchez-la sur votre console Wii U.
 
