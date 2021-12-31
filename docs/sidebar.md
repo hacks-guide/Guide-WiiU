@@ -15,6 +15,7 @@
 - [Dumping Wii Discs](dump-wii-games)
 - [Uninstall CBHC](uninstall-cbhc)
 - [Uninstall Indexiine](uninstall-indexiine)
+- [Uninstall Payloadloader](uninstall-payloadloader)
 - [Frequently Asked Questions](faq)
 - **Archive**
 - [Previous Methods](archive/cfw-choice)

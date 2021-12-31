@@ -6,6 +6,8 @@ Now that you have your NAND backup in case anything goes wrong later, you can in
 
 Installing the PayloadLoader will let you access Tiramisu just by running the Health and Safety Information app.
 
+!> A factory reset **won't** uninstall the injected PayloadLoader. Follow [uninstall PayloadLoader](../../uninstall-payloadloader) to remove the PayloadLoader. 
+
 ### Instructions {docsify-ignore}
 
 1. Take the SD Card out of your PC and plug it into your Wii U.

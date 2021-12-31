@@ -4,7 +4,7 @@
 
 Currently, every time you want to launch Tiramisu you will have to launch the Health and Safety information app. If you wish to automatically launch into Tiramisu on every boot, you can autoboot the Health and Safety Information app.
 
-### Instructions
+### Instructions  {docsify-ignore}
 
 1. From the Wii U Menu, launch the Health and Safety Information app and hold the X button  to open the Environment Loader menu.
 1. Navigate the list using the D-Pad and navigate to the `installer` environment, press A to launch it.
@@ -16,3 +16,4 @@ Currently, every time you want to launch Tiramisu you will have to launch the He
 1. Reboot your Wii U.
 1. Navigate the list using the D-Pad to hover on `Wii U Menu` then press the Y button to launch the Wii U Menu with CFW enabled on boot.
 1. Press A to launch the Wii U Menu with CFW enabled.
+
