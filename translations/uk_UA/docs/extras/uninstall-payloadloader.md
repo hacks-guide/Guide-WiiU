@@ -2,7 +2,7 @@
 ---
 This page will guide through the process of uninstalling the PayloadLoader from your Wii U.
 
-!> A factory reset **won't** uninstall the injected PayloadLoader. You fully uninstall it, follow this guide.
+!> A factory reset **won't** uninstall the injected PayloadLoader. To fully uninstall it, follow this guide.
 
 ### What You Need {docsify-ignore}
 
