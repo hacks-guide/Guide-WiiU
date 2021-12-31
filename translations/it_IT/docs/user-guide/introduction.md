@@ -51,7 +51,7 @@ Se tutto va secondo i piani, non perderai nessun dato e rimarrai con tutto quell
 
 Mantieni il dispositivo collegato durante tutto il processo per evitare la perdita di dati o danni da uno spegnimento imprevisto.
 
-After following this guide, CFW will be loaded and enabled on boot. Unless you choose to not autoboot PayloadLoader.
+After following this guide, CFW will be loaded and enabled on boot, unless you choose to not follow the Autobooting Tiramisu section.
 
 È consigliato che tu legga l'intera guida dall'inizio alla fine una o più volte prima di fare qualsiasi cosa con il tuo sistema.
 
