@@ -11,7 +11,7 @@ We will now place the required CFW files and some additional homebrew files on t
 ### What You Need {docsify-ignore}
 
 - The latest files from [Tiramisu for your café](https://tiramisu.foryour.cafe).
-    - Select `Nanddumper`, `PayloadLoader Installer`, `Base-Tiramisu` and `Bloopair for Tiramisu`
+    - Select `Nanddumper`, `PayloadLoader Installer` and `Base-Tiramisu`.
 - `wiiu-extracttosd.zip` of the [HB Appstore](https://gitlab.com/4TU/hb-appstore/-/releases)
 - The [01_sigpatches.rpx](/docs/files/01_sigpatches.rpx ":ignore") file
 
