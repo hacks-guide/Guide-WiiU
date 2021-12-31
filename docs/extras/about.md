@@ -17,6 +17,8 @@ This guide was written by staff members of the [Nintendo Homebrew Discord Server
 >
 > **Developer / Tool Credits**
 >
+> - **GaryOderNichts** and **Maschell** for the [AutobootModule](https://github.com/wiiu-env/AutobootModule).
+>
 > - **GaryOderNichts** for the [Configurable Payload](https://github.com/GaryOderNichts/configurable-payload), [Indexiine-Installer](https://github.com/GaryOderNichts/indexiine-installer), [UFDiine](https://github.com/GaryOderNichts/UFDiine), [vWii Decaffeinator](https://github.com/GaryOderNichts/vWii-Decaffeinator), and the fixed version of the [Homebrew Launcher Channel](https://github.com/GaryOderNichts/homebrew_launcher/).
 >
 > - **dragbe** and **FIX94** for <u>d2x cIOS Installer</u>.
@@ -27,13 +29,13 @@ This guide was written by staff members of the [Nintendo Homebrew Discord Server
 >
 > - **jhildenbiddle** for [docsify-themeable](https://github.com/jhildenbiddle/docsify-themeable).
 >
-> - **Maschell** for [FailST](https://maschell.github.io/homebrew/2020/12/02/failst.html) and [Tiramisu](https://tiramisu.foryour.cafe/).
+> - **Maschell** for the [CustomRPXLoader](https://github.com/wiiu-env/CustomRPXLoader), [FailST](https://maschell.github.io/homebrew/2020/12/02/failst.html), [EnvironmentLoader](https://github.com/wiiu-env/EnvironmentLoader), [HBLInstallerWrapper](https://github.com/wiiu-env/HBLInstallerWrapper), [LaunchInstaller](https://github.com/wiiu-env/LaunchInstaller), [MochaPayload](https://github.com/wiiu-env/MochaPayload), [PayloadFromRPX](https://github.com/wiiu-env/PayloadFromRPX), [PayloadLoaderInstaller](https://github.com/wiiu-env/PayloadLoaderInstaller), [PayloadLoaderInstallerEnvironment](https://github.com/wiiu-env/PayloadLoaderInstallerEnvironment), [PayloadloaderPayload](https://github.com/wiiu-env/PayloadloaderPayload), and the [Tiramisu Downloader](https://tiramisu.foryour.cafe/).
 >
 > - **FIX94** and **smealum** for [Haxchi and CBHC](https://github.com/FIX94/haxchi).
 >
 > - **dimok789** for the [Homebrew Launcher](https://github.com/dimok789/homebrew_launcher), the [Homebrew Launcher Channel](https://github.com/dimok789/homebrew_launcher), and [Mocha](https://github.com/dimok789/mocha).
 >
-> - **orboditilt** and **dimok789** for the [Homebrew Launcher Installer](https://github.com/wiiu-env/homebrew_launcher_installer).
+> - **Maschell** and **dimok789** for the [Homebrew Launcher Installer](https://github.com/wiiu-env/homebrew_launcher_installer).
 >
 > - **vgmoose**, **pwsincd**, **rw-r-r_0644**, **crc32**, **Compucat** and the **4TU Team** for [hb-appstore](https://github.com/vgmoose/hb-appstore).
 >
@@ -48,6 +50,8 @@ This guide was written by staff members of the [Nintendo Homebrew Discord Server
 > - **djskual**, **Loadiine GX2 Team**, **Yardape** and **brienj** for [WUP Installer GX2](https://sourceforge.net/projects/wup-installer-gx2/).
 >
 > - **koolkdev** for [Wii U NAND Dumper](https://github.com/koolkdev/wiiu-nanddumper).
+>
+> - **koolkdev** and **Maschell** for [Wii U NAND Dumper payload](https://github.com/wiiu-env/wiiu-nanddumper-payload).
 >
 > - **dimok789** for [wupclient.py](https://github.com/dimok789/mocha/blob/master/ios_mcp/wupclient.py).
 >
