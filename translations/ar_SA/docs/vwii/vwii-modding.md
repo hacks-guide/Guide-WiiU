@@ -12,21 +12,18 @@ We will now place the required Homebrew files on the SD Card.
 
 ### What You Need {docsify-ignore}
 
+- The latest files from [Tiramisu for your café](https://tiramisu.foryour.cafe).
+    - Select `Nanddumper` and `Base-Tiramisu`.
 - The latest release of the [vwii-compat-installer](https://github.com/TheLordScruffy/vwii-compat-installer/releases).
-- The latest release of the [Wii U NAND Dumper](https://wiiubru.com/appstore/zips/nanddumper.zip).
 - The <a href="docs/files/Patched_IOS80_Installer_for_vWii.zip" download>Patched IOS 80 Installer for vWii</a>.
 - The <a href ="docs/files/d2x_cIOS_Installer.zip" download>d2x cIOS Installer</a>.
-- The [Homebrew Launcher](https://github.com/dimok789/homebrew_launcher/releases/download/1.4/homebrew_launcher.v1.4.zip).
-- The latest release of the [Homebrew Launcher Installer](https://github.com/wiiu-env/homebrew_launcher_installer/releases/download/v1.4/payload.zip).
 
 ### Instructions {docsify-ignore}
 
 1. Insert your Wii U's SD Card into your PC.
 1. Copy the `apps` folder from the <code>Patched_<wbr>IOS80_<wbr>Installer_<wbr>for_<wbr>vWii<wbr>.zip</code> file to the root of your SD Card.
 1. Copy the contents of the <code>d2x_<wbr>cIOS_<wbr>Installer<wbr>.zip</code> file to the root of your SD Card.
-1. Copy the contents of the `nanddumper.zip` file to the root of your SD Card.
-1. Copy the contents of the <code>homebrew_<wbr>launcher.<wbr>v1.4.zip</code> file to the root of your SD Card.
-1. Copy the contents of the `payload.zip` file to the `wiiu` folder on your SD Card.
+1. Copy the contents of the newly downloaded `files.zip` file to the root of your SD Card.
 1. Copy the `compat_installer.elf` file to the `wiiu/apps` folder on the root of your SD Card.
 1. Take the SD Card out of your computer and plug it into your Wii U console.
 
@@ -36,8 +33,7 @@ In case anything goes wrong in the later process and your vWii ends up bricked, 
 
 ?> If you have recently made a NAND backup that includes SLCCMPT and OTP, feel free to skip this step.
 
-1. Launch the [Homebrew Launcher](vwii/browser-exploit).
-1. Launch the `Wii U NAND Dumper` application.
+1. Launch the [Wii U NAND Dumper](vwii/browser-exploit).
 1. Use the Wii U GamePad's D-Pad to enter the following configuration:
     - Dump SLC: **optional**
     - Dump SLCCMPT: **yes**
