@@ -12,22 +12,19 @@ Ora andremo ad inserire i file Homebrew nella SD.
 
 ### Cosa ti servirà {docsify-ignore}
 
-- L'ultima versione di [vwii-compat-installer](https://github.com/TheLordScruffy/vwii-compat-installer/releases).
-- The latest release of the [Wii U NAND Dumper](https://wiiubru.com/appstore/zips/nanddumper.zip).
+- The latest files from [Tiramisu for your café](https://tiramisu.foryour.cafe).
+    - Select `Nanddumper` and `Base-Tiramisu`.
+- The latest release of the [vwii-compat-installer](https://github.com/TheLordScruffy/vwii-compat-installer/releases).
 - <a href="docs/files/Patched_IOS80_Installer_for_vWii.zip" download>Patched IOS 80 Installer for vWii</a>.
 - <a href ="docs/files/d2x_cIOS_Installer.zip" download>d2x cIOS Installer</a>.
-- L' [Homebrew Launcher](https://github.com/dimok789/homebrew_launcher/releases/download/1.4/homebrew_launcher.v1.4.zip).
-- L'ultima versione dell'[Homebrew Launcher Installer](https://github.com/wiiu-env/homebrew_launcher_installer/releases/download/v1.4/payload.zip).
 
 ### Istruzioni {docsify-ignore}
 
 1. Inserisci la SD del tuo Wii U nel PC.
 1. Copia la cartella `apps` dalla cartella <code>Patched_<wbr>IOS80_<wbr>Installer_<wbr>for_<wbr>vWii<wbr>.zip</code> file nella radice della scheda SD.
 1. Copia i contenuti del file <code>d2x_<wbr>cIOS_<wbr>Installer<wbr>.zip</code> nella radice della tua scheda SD.
-1. Copia i contenuti del file `nanddumper.zip` nella root della tua SD.
-1. Copia i contenuti del file <code>homebrew_<wbr>launcher.<wbr>v1.4.zip</code> nella radice della tua scheda SD.
-1. Copia i contenuti del file `payload.zip` nella cartella `wiiu` della tua scheda SD.
-1. Copia il file `compat_installer.elf` nella cartella `wiiu/apps` nella radice della tua scheda SD.
+1. Copy the contents of the newly downloaded `files.zip` file to the root of your SD Card.
+1. Copy the `compat_installer.elf` file to the `wiiu/apps` folder on the root of your SD Card.
 1. Togli la scheda SD dal computer e inseriscila nella console Wii U.
 
 ### Backup della NAND
@@ -36,8 +33,7 @@ Nel caso qualcosa andasse storto durante il processo e la tua vWii si bricka, ri
 
 ?> Se recentemente hai fatto un backup della NAND che contiene SLCCMPT e OTP, sentiti libero di saltare questo passaggio.
 
-1. Avvia l'[Homebrew Launcher](vwii/browser-exploit).
-1. Avvia l'applicazione `Wii U NAND Dumper`.
+1. Launch the [Wii U NAND Dumper](vwii/browser-exploit).
 1. Usa il D-Pad del GamePad per inserire la seguente configurazione:
     - Dump SLC: **optional**
     - Dump SLCCMPT: **yes**
@@ -46,7 +42,7 @@ Nel caso qualcosa andasse storto durante il processo e la tua vWii si bricka, ri
     - Dump SEEPROM: **optional**
 1. Premi A per iniziare il processo di dumping.
 1. Quando il processo è completo, spegni la tua Wii U, prendi la SD fuori dalla Wii U ed inseriscila nel tuo PC.
-1. Assicurati di non perdere i file, copia `slccmpt.bin`, `otp.bin`, e se scegli di fare il backup intero, copia i file `seeprom.bin`, `slc.bin`, e ogni parte di `mlc.bin.part` sul tuo computer.
+1. To make sure you don't lose the files, copy the `slccmpt.bin`, `otp.bin` and if you chose to go with a full backup, `seeprom.bin`, `slc.bin`, and `every mlc.bin.part` file to your computer.
 1. Elimina i file dalla tua SD per liberare spazio.
 1. Togli la scheda SD dal computer e inseriscila nella console Wii U.
 
