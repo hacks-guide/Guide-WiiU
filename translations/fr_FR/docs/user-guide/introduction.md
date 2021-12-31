@@ -51,7 +51,7 @@ Si tout se passe comme prévu, vous ne perdrez aucune donnée et finirez avec to
 
 Gardez votre console branchée tout au long du processus pour éviter une perte de données ou des dommages causés par une mise hors tension inattendue.
 
-After following this guide, CFW will be loaded and enabled on boot. Unless you choose to not autoboot PayloadLoader.
+After following this guide, CFW will be loaded and enabled on boot, unless you choose to not follow the Autobooting Tiramisu section.
 
 Il est conseillé de lire l'intégralité du guide du début à la fin une ou plusieurs fois avant de commencer à suivre les étapes avec votre console.
 
