@@ -11,6 +11,7 @@ Installing the PayloadLoader will let you access Tiramisu just by running the He
 ### Instructions {docsify-ignore}
 
 1. Take the SD Card out of your PC and plug it into your Wii U.
+1. If you're already booted into Tiramisu, restart your console before executing the browser exploit again.
 1. Execute the web browser exploit as [previously explained](browser-exploit) but this time, you will need to hold the X button to open the Environment Loader menu.
 1. Navigate the list using the D-Pad and navigate to the `installer` environment, press A to launch it.
 1. Press the A button to check if you can install the PayloadLoader. It should now tell you what app the PayloadLoader can be installed onto.
