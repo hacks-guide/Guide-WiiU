@@ -1,6 +1,6 @@
 # Wii U 破解手册
 ---
-一份由 Nintendo Homebrew 群组的志愿者和团队们共同完成的手册，教你将原厂主机破解至 CBHC。
+A guide collaboration between Nintendo Homebrew's Helpers and Staff, from stock to Tiramisu custom firmware.
 
 ?> **Discord 支持** 如需要本手册的实时技术支持。请加入我们的 [Nintendo Homebrew Discord](https://discord.gg/C29hYvh)，然后在 **#wiiu-assistance** 频道以英文交流获取技术支持。 请先阅读 **#faq-wiiu** 频道和我们这里的[常见问题](faq)页面来确认你的问题是否已经有解决方法。
 
@@ -51,10 +51,10 @@ Homebrew 是由用户自制的且 Nintendo 没有授权的程序。 包括存档
 
 在做步骤的时候请将你的主机接上充电器充电，以避免意外关机造成数据丢失或损坏。
 
-除了 CBHC 以外的 CFW 会在重启系统后失效。
+After following this guide, CFW will be loaded and enabled on boot, unless you choose to not follow the Autobooting Tiramisu section.
 
 请从头开始阅读此手册，完成一项或若干次操作后再继续进行操作步骤。
 
 ---
 
-### [继续至 选择一个 CFW](cfw-choice) {docsify-ignore}
+### [Continue to Tiramisu](tiramisu/sd-preparation) {docsify-ignore}

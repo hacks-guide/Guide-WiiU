@@ -1,6 +1,6 @@
 # Wii U Hacks Guide
 ---
-Una guida in collaborazione tra gli Helper e lo Staff di Nintendo Homebrew da stock a CBHC Custom Firmware.
+A guide collaboration between Nintendo Homebrew's Helpers and Staff, from stock to Tiramisu custom firmware.
 
 ?> **Assistenza su Discord** per supporto in tempo reale, visitaci in **#wiiu-assistance** nel [Nintendo Homebrew Discord](https://discord.gg/C29hYvh) e chiedi, in inglese, per assistenza. Per favore leggi **#faq-wiiu**, così come la pagina [Frequently Asked Questions](faq) per vedere se la tua domanda è già stata risposta.
 
@@ -51,10 +51,10 @@ Se tutto va secondo i piani, non perderai nessun dato e rimarrai con tutto quell
 
 Mantieni il dispositivo collegato durante tutto il processo per evitare la perdita di dati o danni da uno spegnimento imprevisto.
 
-Con l'eccezione di CBHC, il Custom Firmware non è permanente con i metodi attuali e verrà disabilitato al riavvio del sistema.
+After following this guide, CFW will be loaded and enabled on boot, unless you choose to not follow the Autobooting Tiramisu section.
 
 È consigliato che tu legga l'intera guida dall'inizio alla fine una o più volte prima di fare qualsiasi cosa con il tuo sistema.
 
 ---
 
-### [Continua Scegliendo un CFW](cfw-choice) {docsify-ignore}
+### [Continue to Tiramisu](tiramisu/sd-preparation) {docsify-ignore}

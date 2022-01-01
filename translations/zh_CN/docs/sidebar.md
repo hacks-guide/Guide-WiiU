@@ -1,6 +1,6 @@
 - **用户手册**
 - [介绍](introduction)
-- [选择一个 CFW](cfw-choice)
+- [Tiramisu](tiramisu/sd-preparation)
 - **vWii**
 - [vWii 修改](vwii-modding)
 - **故障排查**
@@ -10,12 +10,15 @@
 - **扩展**
 - [阻止更新](block-updates)
 - [解除阻止更新](unblock-updates)
-- [可配置的 Payload](configurable-payload)
-- [导出 Wii U 光盘](dump-games)
-- [导出 Wii 光盘](dump-wii-games)
-- [卸载 CBHC](uninstall-cbhc)
-- [卸载 Indexiine](uninstall-indexiine)
+- [Dumping Wii U Discs](dump-games)
+- [Dumping Wii Discs](dump-wii-games)
+- [Uninstall CBHC](uninstall-cbhc)
+- [Uninstall Indexiine](uninstall-indexiine)
+- [Uninstall Payloadloader](uninstall-payloadloader)
 - [常见问题](faq)
+- **Archive**
+- [Previous Methods](archive/cfw-choice)
+- [Configurable Payload](configurable-payload)
 - **链接**
 - [![GitHub](https://icongr.am/simple/github.svg?color=808080&size=16)GitHub](https://github.com/hacks-guide/Guide-WiiU)
 - [![Discord](https://icongr.am/simple/discord.svg?colored&size=16)Discord](https://discord.gg/C29hYvh)

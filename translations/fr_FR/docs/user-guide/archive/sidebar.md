@@ -1,0 +1,11 @@
+- **Archive**
+- [Page d'accueil](../../introduction)
+- [Previous Methods](cfw-choice)
+- **Liens**
+- [![GitHub](https://icongr.am/simple/github.svg?color=808080&size=16)GitHub](https://github.com/hacks-guide/Guide-WiiU)
+- [![Discord](https://icongr.am/simple/discord.svg?colored&size=16)Discord](https://discord.gg/C29hYvh)
+- [![Traduire](https://icongr.am/material/translate.svg?color=808080&size=16)Traduire](https://hacks-guide.crowdin.com/u/projects/10)
+- [Faire un don](../../donations)
+- [À propos](../../about)
+- **Confidentialité**
+- [Politique de confidentialité](../../privacy-policy)
