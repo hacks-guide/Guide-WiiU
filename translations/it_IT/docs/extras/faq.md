@@ -5,36 +5,37 @@
 
 Attualmente, modificare il Wii U non ti espone al rischio di venire bannato da Nintendo a meno che non usi trucchi su giochi online, o se commetti frode sull'eShop. Dovresti, tuttavia, fare sempre attenzione quando avvii homebrew scaricati, specialmente se non ti fidi della fonte, dato che potenzialmente gli homebrew possono danneggiare il tuo sistema!
 
-### Cos'è Haxchi, e ne ho bisogno?
+### What are exploits?
 
-Haxchi è un punto d'ingresso secondario che utilizza determinati titoli della Virtual Console DS per consentire l'accesso agli homebrew mentre si è completamente offline (funziona anche online ma non necessita di una connessione per avviare il CFW)
+Exploits are entry points which allow further homebrew to be run. In the main guide, you will use exploits such as the browser exploit (http://wiiuexploit.xyz) and PayloadLoader (Health & Safety exploit). All current exploits load `SD:/wiiu/payload.elf` which takes over further loading of homebrew.
 
-Haxchi **non** è richiesto, tuttavia, se si desidera utilizzare homebrew sulla Wii U senza il browser internet, ne avrai bisogno. È raccomandato in quanto è più conveniente entrare nel CFW che utilizzare Browser Exploit e Mocha CFW.
+### What are payloads?
 
-I più economici giochi della Virtual Console DS utilizzabili per questo exploit sono:
- - Dr. Kawashima's Brain Training [PAL]
- - Brain Age: Train Your Brain in Minutes a Day! [USA]
- - Kawashima: Motto Nou wo Kitaeru Otona no DS Training [JPN]
+Payloads, which are normally found with the filename `payload.elf`, exist to make it easier to have different exploits load the same next stage, which allows easier updateability. It doesn't matter what exploit loads the payload, the result is always the same. Multiple payloads can be switched between using the PayloadLoaderPayload. The payload used in the main guide is CustomRPXLoader which loads `SD:/wiiu/payload.rpx` and the `payload.rpx` used in the guide is EnvironmentLoader, which allows you to load different environments.
 
-### Posso installare giochi dal mio USB invece della SD?
+### What are environments?
+
+An environment is a collection of "setup modules", which will be run in a certain order when launching the environment. One such environment is Tiramisu. Setup modules are small pieces of homebrew/code that are executed once to set up an environment.
+
+### Can I install games from my USB instead of SD?
 
 Sì. È, tuttavia, un po' più complicato dell'installazione dalla scheda SD. Istruzioni dettagliate sono nella tabella `Installazione da USB` nella [guida sul dumping dei dischi Wii U](dump-games).
 
-### Come eliminare la cartella Update per bloccare gli aggiornamenti su Wii U
+### How to Delete Update Folder to Block Updates on Wii U
 
 Se vuoi eliminare la cartella Update per bloccare gli aggiornamenti, guarda la tabella relativa nella [guida sul blocco degli aggiornamenti](block-updates).
 
-### Quale dimensione della scheda SD è consigliata?
+### What SD Card size is recommended?
 
- - **Installare backup di giochi:** 32GB (potrebbe essere utilizzata una dimensione inferiore, ma determinati titoli sono di 20GB)
- - **Eseguire mod di giochi:** 8GB (dispositivi USB in FAT32 potrebbero essere utilizzati per le mod)
- - **Solo eseguire app homebrew:** Qualsiasi dimensione.
+ - **Installing game backups:** 32GB (Smaller size may be used, but certain titles are 20GB in size)
+ - **Running game mods:** 8GB (FAT32 USB drive may be used as well for mods)
+ - **Only running homebrew apps:** Any size.
 
 **Marche consigliate:** SanDisk, Samsung o PNY
 
 ?> Nota: evita schede SD di classe 4, ed evita eBay!
 
-### Posso installare homebrew su Wii U con un USB invece di una scheda SD?
+### Can I install homebrew on Wii U with a USB instead of SD Card?
 
 No, devi avere una scheda SD per la prima configurazione. Un USB può poi essere utilizzato per installare backup di giochi, iniettare Virtual Console e altro, ma non per memorizzare applicazioni homebrew che sono necessarie per configurare tutto.
 
@@ -42,7 +43,7 @@ No, devi avere una scheda SD per la prima configurazione. Un USB può poi essere
 
 Niente di speciale, puoi lasciarli lì, eliminarli o sostituirli con dei nuovi. Questi file non vengono utilizzati nel processo, perciò non avrà alcun impatto se sono presenti o meno.
 
-### Cos'è un dispositivo USB formattato in Wii U?
+### What is a Wii U formatted USB drive?
 
 È un dispositivo USB che è stato formattato da una console Wii U nel suo formato proprietario.  
 Un dispositivo USB formattato in Wii U ***non può essere letto da nessun altro dispositivo oltre al Wii U che lo ha formattato originariamente.***  
