@@ -15,7 +15,7 @@ Installing the PayloadLoader will let you access Tiramisu just by running the He
 1. Execute the web browser exploit as [previously explained](browser-exploit) but this time, you will need to hold the X button to open the Environment Loader menu.
 1. Navigate the list using the D-Pad and navigate to the `installer` environment, press A to launch it.
 1. Press the A button to check if you can install the PayloadLoader. It should now tell you what app the PayloadLoader can be installed onto.
-1. Press the A button to select `Install / Update`
+1. Press the A button to select `Install / Update`.
 1. You'll be asked if you are sure you want to install the PayloadLoader. Use the D-Pad to select `Install` and press A.
 1. After installing finishes, press A to shut down the console.
 
