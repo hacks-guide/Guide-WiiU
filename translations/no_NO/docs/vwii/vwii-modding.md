@@ -48,11 +48,12 @@ Hvis noe går galt senere i prosessen og vWii "bricker", vil gjenoppretting av e
 
 ### Installere Homebrew Channel
 
-1. Start [Homebrew Launcher](vwii/browser-exploit).
-1. Start compat_installer.
-1. Trykk `A` for å installere Homebrew Channel og vent til du ser `Install succeeded`. Så trykker du HOME-knappen for å gå tilbake til Wii U menyen.
-1. Start vWii (Wii meny ikonet).
-   - Hvis installasjonen ble ferdig, bør du se Homebrew Channel kanalen i Wii Menyen.
+1. Boot into [Tiramisu](vwii/browser-exploit).
+1. Launch the Homebrew Launcher, by opening the Mii Maker.
+1. Launch the compat_installer.
+1. Press `A` to install the Homebrew Channel and wait until you see `Install succeeded`. Then press the HOME button to return to the Wii U Menu.
+1. Launch vWii (the Wii Menu icon).
+   - If the installation has succeeded, you should see the Homebrew Channel in your Wii Menu.
 
 ### Installerer cIOS'er
 
