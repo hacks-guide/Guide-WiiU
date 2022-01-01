@@ -49,7 +49,8 @@ In case anything goes wrong in the later process and your vWii ends up bricked, 
 
 ### Installing the Homebrew Channel
 
-1. Launch the [Homebrew Launcher](vwii/browser-exploit).
+1. Boot into [Tiramisu](vwii/browser-exploit).
+1. Launch the Homebrew Launcher, by opening the Mii Maker.
 1. Launch the compat_installer.
 1. Press `A` to install the Homebrew Channel and wait until you see `Install succeeded`. Then press the HOME button to return to the Wii U Menu.
 1. Launch vWii (the Wii Menu icon).
