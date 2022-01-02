@@ -10,7 +10,8 @@
 
 ?> 不过恢复 NAND 备份需要额外的设备和一点微焊技能。 <br>但是备份 NAND **是** 为了以防万一，所以不要跳过这些步骤。 <br>你从某一台设备导出的 NAND 备份是那一台设备所独有的。 恢复其他主机的 NAND 备份 **不能救砖**。
 
-1. Launch web browser exploit as [previously explained](browser-exploit) but this time, you will need to hold the B button.
+1. If you're already booted into Tiramisu, restart your console before executing the browser exploit again.
+1. Launch the browser exploit as [previously explained](browser-exploit) but this time, you will need to hold the B button.
 1. Navigate to `nanddumper` using the Gamepad and press A to launch it.
 1. 使用 Wii U 游戏手柄上的十字键来配置以下内容：
     - Dump SLC: **yes**
