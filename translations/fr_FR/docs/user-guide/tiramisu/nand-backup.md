@@ -10,9 +10,7 @@ Au cas où quelque chose se passe mal dans le processus ultérieur et que votre 
 
 ?> La restauration d'une sauvegarde de la NAND sur la Wii U nécessite du matériel supplémentaire et des compétences en micro soudure. <br>Cependant, faire une sauvegarde de la NAND est **toujours** utile, donc ne l'ignorez pas. <br>Votre sauvegarde de la NAND est unique à votre système. Les sauvegardes des autres consoles **ne fonctionneront pas**.
 
-1. If you're already booted into Tiramisu, restart your console before executing the browser exploit again.
-1. Launch the browser exploit as [previously explained](browser-exploit) but this time, you will need to hold the B button.
-1. Navigate to `nanddumper` using the Gamepad and press A to launch it.
+1. Navigate to `nanddumper` using the GamePad and press A to launch it.
 1. Utilisez la croix directionnelle du Wii U GamePad pour entrer la configuration suivante :
     - Dump SLC: **yes**
     - Dump SLCCMPT: **yes**
