@@ -12,14 +12,12 @@ Her vil vi plassere de nødvendige CFW-filene og noen ekstra homebrew filer på 
 
 - The latest files from [Tiramisu for your café](https://tiramisu.foryour.cafe).
     - Select `Nanddumper`, `PayloadLoader Installer` and `Base-Tiramisu`.
-- `wiiu-extracttosd.zip` of the [HB Appstore](https://gitlab.com/4TU/hb-appstore/-/releases).
 - The [01_sigpatches.rpx](/docs/files/01_sigpatches.rpx ":ignore") file.
 
 ### Instruksjoner
 
 1. Sett SD-kortet ditt i PC'en din.
 1. Copy the contents of the newly downloaded `files.zip` file to the root of your SD Card.
-1. Copy the contents of the newly downloaded `wiiu-extracttosd.zip` file to the root of your SD Card.
 1. Copy the `01_sigpatches.rpx` file to `/wiiu/environments/tiramisu/modules/setup` on your SD Card.
 
 ?> If your computer asks you to overwrite existing files on your SD Card, you will need to click yes.
