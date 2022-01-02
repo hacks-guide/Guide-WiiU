@@ -10,7 +10,8 @@ Hvis noe går galt senere i prosessen og Wii U konsollen "bricker", vil gjenoppr
 
 ?> Å gjenopprette en NAND backup på Wii U konsollen krever litt kunskap om maskinvare og loddeferdigheter av mikro elektronikk. <br>Men å lage en NAND backup er **alltid** lurt, så du burde ikke hoppe over det. <br>NAND backupen din er unik for ditt system. backups fra andre konsoller vil **ikke** fungere.
 
-1. Launch web browser exploit as [previously explained](browser-exploit) but this time, you will need to hold the B button.
+1. If you're already booted into Tiramisu, restart your console before executing the browser exploit again.
+1. Launch the browser exploit as [previously explained](browser-exploit) but this time, you will need to hold the B button.
 1. Navigate to `nanddumper` using the Gamepad and press A to launch it.
 1. Bruk D-padden for å sette opp følgende konfigurasjon:
     - Dump SLC: **yes**
