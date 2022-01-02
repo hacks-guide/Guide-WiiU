@@ -1,10 +1,10 @@
-# Tiramisu
+# Tiramisu {docsify-ignore-all}
 
-## Autobooting Tiramisu {docsify-ignore}
+## Autobooting Tiramisu
 
 Currently, every time you want to launch Tiramisu you will have to launch the Health and Safety information app. If you wish to automatically launch into Tiramisu on every boot, you can autoboot the Health and Safety Information app.
 
-### Instructions  {docsify-ignore}
+### Instructions
 
 1. Start the console to boot into the Wii U Menu, launch the Health and Safety Information app and hold the X button to open the Environment Loader menu.
 1. Navigate the list using the D-Pad and navigate to the `installer` environment, press A to launch it.
