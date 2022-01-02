@@ -10,7 +10,7 @@ Hvis noe går galt senere i prosessen og Wii U konsollen "bricker", vil gjenoppr
 
 ?> Å gjenopprette en NAND backup på Wii U konsollen krever litt kunskap om maskinvare og loddeferdigheter av mikro elektronikk. <br>Men å lage en NAND backup er **alltid** lurt, så du burde ikke hoppe over det. <br>NAND backupen din er unik for ditt system. backups fra andre konsoller vil **ikke** fungere.
 
-1. Navigate to `nanddumper` using the GamePad and press A to launch it.
+1. Naviger til `nanddumper` ved å bruke GamePaden og trykk A for å kjøre den.
 1. Bruk D-padden for å sette opp følgende konfigurasjon:
     - Dump SLC: **yes**
     - Dump SLCCMPT: **yes**
@@ -22,4 +22,4 @@ Hvis noe går galt senere i prosessen og Wii U konsollen "bricker", vil gjenoppr
 1. For å forsikre deg om at du ikke mister filene, kopier `slc.bin`, `slccmpt.bin`, `seeprom.bin`, `otp. ` og hvis du valgte å gå for full sikkerhetskopi, `hver mlc.bin.part` til PC'en din.
 1. Slett filene fra SD-kortet for å frigjøre plass.
 
-?> **If the PayloadLoader is already installed into the Health and Safety Information app and your console is already autobooting it, you do not need to continue following the guide.**
+?> **Hvis PayloadLoader allerede er installert over Health and Safety Information appen og konsollen din allerede autobooter det, trenger du ikke følge denne guiden mer.**
