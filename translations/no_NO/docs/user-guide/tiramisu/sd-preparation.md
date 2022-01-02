@@ -1,6 +1,6 @@
-# Tiramisu
+# Tiramisu {docsify-ignore-all}
 
-## Forberede SD-kortet {docsify-ignore}
+## Forberede SD-kortet
 
 Her vil vi plassere de nødvendige CFW-filene og noen ekstra homebrew filer på SD-kortet.
 
@@ -8,14 +8,14 @@ Her vil vi plassere de nødvendige CFW-filene og noen ekstra homebrew filer på 
 
 ?> **If you have an existing legacy CFW setup** </br> For **CBHC** users: go to the [Uninstall CBHC](../uninstall-cbhc) page to uninstall CBHC. </br> For **Haxchi** users: uninstall the Haxchi app from Data Management in the System Settings app. </br> For **Mocha CFW (Indexiine)** users: go to the [Uninstall Indexiine](../uninstall-indexiine) page to uninstall Indexiine. </br> For **Mocha CFW (Online Exploit)** users: you do not need to do anything before following this guide.
 
-### Dette Trenger Du {docsify-ignore}
+### Dette trenger du
 
 - The latest files from [Tiramisu for your café](https://tiramisu.foryour.cafe).
     - Select `Nanddumper`, `PayloadLoader Installer` and `Base-Tiramisu`.
 - `wiiu-extracttosd.zip` of the [HB Appstore](https://gitlab.com/4TU/hb-appstore/-/releases).
 - The [01_sigpatches.rpx](/docs/files/01_sigpatches.rpx ":ignore") file.
 
-### Instruksjoner {docsify-ignore}
+### Instruksjoner
 
 1. Sett SD-kortet ditt i PC'en din.
 1. Copy the contents of the newly downloaded `files.zip` file to the root of your SD Card.
