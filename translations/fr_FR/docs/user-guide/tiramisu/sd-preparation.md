@@ -12,14 +12,12 @@ Nous allons maintenant placer les fichiers du CFW requis et quelques fichiers ho
 
 - Les derniers fichiers de [Tiramisu for your café](https://tiramisu.foryour.cafe).
     - Sélectionnez `Nanddumper`, `PayloadLoader Installer` et `Base-Tiramisu`.
-- `wiiu-extracttosd.zip` of the [HB Appstore](https://gitlab.com/4TU/hb-appstore/-/releases).
 - The [01_sigpatches.rpx](/docs/files/01_sigpatches.rpx ":ignore") file.
 
 ### Instructions
 
 1. Insérez la carte SD de votre Wii U dans votre PC.
 1. Copiez le contenu du fichier `files.zip` récemment téléchargé vers la racine de votre carte SD.
-1. Copiez le contenu du fichier `wiiu-extracttosd.zip nouvellement téléchargé` vers la racine de votre carte SD.
 1. Copy the `01_sigpatches.rpx` file to `/wiiu/environments/tiramisu/modules/setup` on your SD Card.
 
 ?> Si votre ordinateur vous demande d'écraser les fichiers existants sur votre carte SD, vous devrez cliquer sur Oui.
