@@ -1,6 +1,6 @@
-# Tiramisu
+# Tiramisu {docsify-ignore-all}
 
-## SD 卡准备 {docsify-ignore}
+## SD 卡准备
 
 我们现在需要把一些 CFW 需要使用到的文件放进你的 SD 卡。
 
@@ -8,14 +8,14 @@
 
 ?> **If you have an existing legacy CFW setup** </br> For **CBHC** users: go to the [Uninstall CBHC](../uninstall-cbhc) page to uninstall CBHC. </br> For **Haxchi** users: uninstall the Haxchi app from Data Management in the System Settings app. </br> For **Mocha CFW (Indexiine)** users: go to the [Uninstall Indexiine](../uninstall-indexiine) page to uninstall Indexiine. </br> For **Mocha CFW (Online Exploit)** users: you do not need to do anything before following this guide.
 
-### 你需要准备些啥？ {docsify-ignore}
+### 你需要准备点啥？
 
 - The latest files from [Tiramisu for your café](https://tiramisu.foryour.cafe).
     - Select `Nanddumper`, `PayloadLoader Installer` and `Base-Tiramisu`.
 - `wiiu-extracttosd.zip` of the [HB Appstore](https://gitlab.com/4TU/hb-appstore/-/releases).
 - The [01_sigpatches.rpx](/docs/files/01_sigpatches.rpx ":ignore") file.
 
-### 步骤 {docsify-ignore}
+### 操作步骤
 
 1. 将你的 Wii U SD 卡 插入你的电脑。
 1. Copy the contents of the newly downloaded `files.zip` file to the root of your SD Card.
