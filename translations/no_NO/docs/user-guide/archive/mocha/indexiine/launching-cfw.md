@@ -1,7 +1,7 @@
 # Archive - Mocha - Indexiine
 
-!> **THIS METHOD IS NO LONGER SUPPORTED**  
-**CURRENT METHOD IS AVAILABLE [HERE](../../../introduction)**
+!> **DENNE METODEN ER IKKE LENGER STØTTET**  
+**OPPDATERTE METODER ER TILGJENGELIG [HER](../../../introduction)**
 
 ## Bruke CFW {docsify-ignore}
 
