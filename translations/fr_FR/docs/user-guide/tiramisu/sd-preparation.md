@@ -1,6 +1,6 @@
-# Tiramisu
+# Tiramisu {docsify-ignore-all}
 
-## Préparation de la carte SD {docsify-ignore}
+## Préparation de la carte SD
 
 Nous allons maintenant placer les fichiers du CFW requis et quelques fichiers homebrew supplémentaires sur la carte SD.
 
@@ -8,14 +8,14 @@ Nous allons maintenant placer les fichiers du CFW requis et quelques fichiers ho
 
 ?> **Si vous avez une ancienne installation existante d'un CFW** </br> Pour les utilisateurs de **CBHC** : allez à la page [Désinstaller CBHC](../uninstall-cbhc) pour désinstaller CBHC. </br> Pour les utilisateurs de **Haxchi** : désinstallez l'application Haxchi depuis le menu de Gestion des données dans l'application Paramètres de la console. </br> Pour les utilisateurs de **Mocha CFW (Indexiine)** : allez à la page [Désinstaller Indexiine](../uninstall-indexiine) pour désinstaller Indexiine. </br> Pour les utilisateurs de **Mocha CFW (Exploit en ligne)** : vous n'avez rien d'autre à faire avant de suivre ce guide.
 
-### Ce dont vous avez besoin {docsify-ignore}
+### Ce dont vous avez besoin
 
 - Les derniers fichiers de [Tiramisu for your café](https://tiramisu.foryour.cafe).
     - Sélectionnez `Nanddumper`, `PayloadLoader Installer` et `Base-Tiramisu`.
 - `wiiu-extracttosd.zip` of the [HB Appstore](https://gitlab.com/4TU/hb-appstore/-/releases).
 - The [01_sigpatches.rpx](/docs/files/01_sigpatches.rpx ":ignore") file.
 
-### Instructions {docsify-ignore}
+### Instructions
 
 1. Insérez la carte SD de votre Wii U dans votre PC.
 1. Copiez le contenu du fichier `files.zip` récemment téléchargé vers la racine de votre carte SD.
