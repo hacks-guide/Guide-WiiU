@@ -1,28 +1,28 @@
-# Uninstall PayloadLoader
+# Avinstallere PayloadLoader
 ---
-This page will guide through the process of uninstalling the PayloadLoader from your Wii U.
+Denne siden vil hjelpe deg med å avinstallere PayloadLoader fra Wii U konsollen din.
 
-!> A factory reset **won't** uninstall the injected PayloadLoader. To fully uninstall it, follow this guide.
+!> En factory reset **vil ikke** avinstallere en injected PayloadLoader. For å avinstallere det, følg denne guiden.
 
 ### Dette Trenger Du {docsify-ignore}
 
-- The latest files from [Tiramisu for your café](https://tiramisu.foryour.cafe).
-    - Select `EnvironmentLoader` and `PayloadLoader Installer`
+- De nyeste filene i [Tiramisu for your café](https://tiramisu.foryour.cafe).
+    - Velg `EnvironmentLoader` og `PayloadLoader Installer`
 
-### Undo Autobooting into PayloadLoader
+### Tilbakestille Autobooting inn i PayloadLoader
 
-1. Boot the console while holding X on the Gamepad.
-1. Navigate to the `installer` environment and launch it by pressing A.
-1. Press A to select `Check`.
-1. Select `Boot options`.
-1. You will be asked if you want to switch the boot title. Press A to select `Switch back to Wii U Menu`.
-1. When the process finished, press A to shutdown the console.
-1. The console will now boot again into the Wii U Menu. The PayloadLoader can still be launched by launching the Health & Safety Application.
+1. Start konsollen mens du holder X på Gamepad'en.
+1. Gå til `installer` environment og kjør den ved å trykke på A.
+1. Trykk A for å velge `Check`.
+1. Velg `Boot options`.
+1. Du vil bli spurt om du vil bytte boot title. Trykk A for å velge `Switch back to Wii U Menu`.
+1. Når prosessen er ferdig, trykk A for å slå av konsollen.
+1. Konsollen vil slå seg på igjen og gå til Wii U Menu. PayloadLoader kan fortsatt startes ved å kjøre Health & Safety Appen.
 
-### Uninstall PayloadLoader
+### Avinstallere PayloadLoader
 
-1. Launch the Health & Safety Application while holding X on the Gamepad
-1. Navigate to the `installer` environment and launch it by pressing A.
-1. Select `Remove`.
-1. You will be asked if you really want to remove the PayloadLoader. Select `Remove` again.
-1. When the process finished, press A to shutdown the console.
+1. Kjør Health & Safety Appen mens du holder X på Gamepad'en
+1. Gå til `installer` environment og kjør den ved å trykke på A.
+1. Velg `Remove`.
+1. Du vil bli spurt om du vil fjerne PayloadLoader. Velg `Remove` igjen.
+1. Når prosessen er ferdig, trykk A for å slå av konsollen.
