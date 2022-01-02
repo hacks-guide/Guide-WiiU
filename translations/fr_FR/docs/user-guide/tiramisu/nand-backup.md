@@ -1,10 +1,10 @@
-# Tiramisu
+# Tiramisu {docsify-ignore-all}
 
-## Faire une sauvegarde de la NAND {docsify-ignore}
+## Faire une sauvegarde de la NAND
 
 Au cas où quelque chose se passe mal dans le processus ultérieur et que votre Wii U se retrouve brickée, restaurer une sauvegarde de la NAND précédemment créée peut la faire fonctionner de nouveau.
 
-### Instructions {docsify-ignore}
+### Instructions
 
 ?> La NAND d'une Wii U fait (selon votre modèle) soit 8 Go soit 32 Go. Par conséquent, pour créer une sauvegarde complète de la NAND de votre console, votre carte SD doit être plus grande que la taille de votre NAND. Si vous n'avez pas une carte SD assez grande, vous pouvez sauter la partie `MLC` qui est optionnelle et inclut des fichiers de sauvegarde et des données de jeu et par conséquent, n'est pas nécessaire pour récupérer la plupart des types de bricks.
 
