@@ -1,7 +1,7 @@
 # Archive - Haxchi
 
-!> **THIS METHOD IS NO LONGER SUPPORTED**  
-**CURRENT METHOD IS AVAILABLE [HERE](../../introduction)**
+!> **DENNE METODEN ER IKKE LENGER STØTTET**  
+**OPPDATERTE METODER ER TILGJENGELIG [HER](../../introduction)**
 
 ## Bruke CFW {docsify-ignore}
 
@@ -11,7 +11,7 @@ I motsetning til systemer som DSi, Wii eller 3DS, er Wii U CFW midlertidig. Dett
 
 ### Instruksjoner {docsify-ignore}
 
-?> If the install fails for some reason, try uninstalling and redownloading the DS VC game from the eShop and make sure it is being installed to the NAND.
+?> Hvis du ikke får installert Haxchi, prøv å avinstallere og laste ned DS VC spillet fra eShop på nytt og sørg for at det blir installert i NAND.
 
 1. Ta SD-kortet ut av PCen og sett det inn i Wii U konsollen.
 1. Hvis du ikke har gjort det enda, last ned DS VC spillet du valgte fra eShop.
