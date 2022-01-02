@@ -1,6 +1,6 @@
-# Tiramisu
+# Tiramisu {docsify-ignore-all}
 
-## Installing PayloadLoader {docsify-ignore}
+## Installing PayloadLoader
 
 Now that you have your NAND backup in case anything goes wrong later, you can install the PayloadLoader on your system.
 
@@ -8,7 +8,7 @@ Installing the PayloadLoader will let you access Tiramisu just by running the He
 
 !> A factory reset **won't** uninstall the injected PayloadLoader. Follow [uninstall PayloadLoader](../../uninstall-payloadloader) to remove the PayloadLoader.
 
-### Istruzioni {docsify-ignore}
+### Istruzioni
 
 1. Togli la scheda SD dal tuo PC e inseriscila nel Wii U.
 1. If you're already booted into Tiramisu, restart your console before executing the browser exploit again.
