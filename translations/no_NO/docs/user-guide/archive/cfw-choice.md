@@ -1,15 +1,15 @@
 # Velg CFW løsningen du ønsker å bruke
 ---
-!> **THE METHODS DESCRIBED IN THIS PAGE ARE NO LONGER SUPPORTED**  
-**CURRENT METHOD IS AVAILABLE [HERE](../introduction)**
+!> **METODENE BESKREVET PÅ DENNE SIDEN ER IKKE LENGER STØTTET**  
+**OPPDATERTE METODER ER TILGJENGELIG [HER](../introduction)**
 
-?> Before starting, make sure to update your Wii U console to the latest firmware (5.5.5) if you haven't already.
+?> Før du starter, oppdater Wii U konsollen til siste firmware (5.5.5) hvis du ikke har gjort det enda.
 
-There are two main custom firmwares: Haxchi/Coldboot Haxchi (usually abbreviated as "CBHC"), as well as Mocha.
+Det er 2 hoved custom firmwares: Haxchi/Coldboot Haxchi (vanligst forkortet som "CBHC") og Mocha.
 
-Haxchi/CBHC are both injected into a paid DS Virtual Console game. Haxchi will need to be manually started off the Wii U Menu to boot custom firmware, while CBHC will boot custom firmware automatically while the system is booting up. Mocha is accessed through the browser exploit or the Indexiine method, which makes it the only free custom firmware.
+Haxchi/CBHC blir begge installert over ett originalt DS Virtual Console spill. Haxchi må startes fra Wii U Menu manuelt for å starte opp custom firmware, mens CBHC starter opp curstom firmware automatisk når systemet starter opp. Mocha er tilgjengelig gjennom browser exploit eller Indexiine, som gjør det til den eneste custom firmware'n som kan kjøres uten å måtte kjøpe ett spill den kan brukes med.
 
-The custom firmware you decide to use is ultimately **your** preference. There is no right or wrong custom firmware to go with, so it is recommended that you feel free to pick the one that sounds the best for your needs!
+custom firmware versjonen du velger er ut fra **dine** preferanser. Det er ikke noen riktig eller feil custom firmware å velge, så det anbefales at du velger den som passer best til dine behov!
 
 ## Haxchi
 
@@ -22,9 +22,9 @@ The custom firmware you decide to use is ultimately **your** preference. There i
 
 ## CBHC
 
-!> Installing CBHC incorrectly can brick your Wii U! Make sure to follow the following rules when installing CBHC: <br>- The DS game has to be legitimately installed from the eShop! <br>- Ikke formater konsollen mens CBHC er installert! <br>- Ikke slett bruker kontoen som kjøpte DS VC spillet! <br>- Ikke installer spillet på nytt ved bruk av WUP installer eller fra eShop! <br>- Ikke installer Haxchi over CBHC! (You will not brick, but it will cause a boot-loop! Hold A when booting to access the Homebrew Launcher and uninstall CBHC.) <br>- Don't uninstall the DS Virtual Console game without [properly uninstalling CBHC first](uninstall-cbhc)! <br>- Ikke flytt DS VC spillet til en USB lagringsenhet!
+!> Hvis du installerer CBHC feil, så kan den bricke Wii U'en din! Sørg for å følge reglene ved installasjon av CBHC: <br>- DS spillet må være legitimt installert fra eShop! <br>- Ikke formater konsollen mens CBHC er installert! <br>- Ikke slett bruker kontoen som kjøpte DS VC spillet! <br>- Ikke installer spillet på nytt ved bruk av WUP installer eller fra eShop! <br>- Ikke installer Haxchi over CBHC! (Ikke akkurat en brick, men vil sette konsollen i en boot-loop! Hold A når du starter konsollen for å få tilgang til Homebrew Launcher og avinstaller CBHC.) <br>- Ikke slett DS Virtual Console spillet uten å [slette CBHC på riktig måte først](uninstall-cbhc)! <br>- Ikke flytt DS VC spillet til en USB lagringsenhet!
 
-!> Breaking one of the above rules **can** result in a brick!
+!> Bryter du 1 av reglene over, så **kan** Wii U'en bricke!
 
 > Hvis du er redd for å tilfeldigvis bryte en av disse reglene mens du bruker CBHC, foreslår vi å sette opp Parental Controls for brukeren din! Blokkere `Data Management` og sette `Game Rating` til det høyeste nivået kan stoppe deg fra å gjøre de vanligste feilene som forårsaker en CBHC brick. Sjekk [her](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1081/~/how-to-change-parental-controls) for mer informasjon om hvordan du endrer Parental Controls innstillinger.
 
