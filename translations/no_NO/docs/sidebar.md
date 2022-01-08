@@ -10,14 +10,14 @@
 - **Extras**
 - [Blokkere Systemoppdateringer](block-updates)
 - [Fjerne blokkering av oppdateringer](unblock-updates)
-- [Dumping Wii U Discs](dump-games)
-- [Dumping Wii Discs](dump-wii-games)
-- [Uninstall CBHC](uninstall-cbhc)
-- [Uninstall Indexiine](uninstall-indexiine)
-- [Uninstall Payloadloader](uninstall-payloadloader)
+- [Dumpe Wii U spill fra disk](dump-games)
+- [Dumpe Wii spill fra disk](dump-wii-games)
+- [Avinstallere CBHC](uninstall-cbhc)
+- [Avinstallere Indexiine](uninstall-indexiine)
+- [Avinstallere PayloadLoader](uninstall-payloadloader)
 - [Ofte stilte spørsmål](faq)
 - **Archive**
-- [Previous Methods](archive/cfw-choice)
+- [Utdaterte Metoder](archive/cfw-choice)
 - [Configurable Payload](configurable-payload)
 - **Lenker**
 - [![GitHub](https://icongr.am/simple/github.svg?color=808080&size=16)GitHub](https://github.com/hacks-guide/Guide-WiiU)

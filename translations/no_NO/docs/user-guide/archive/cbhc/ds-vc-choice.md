@@ -1,7 +1,7 @@
 # Archive - CBHC {docsify-ignore-all}
 
-!> **THIS METHOD IS NO LONGER SUPPORTED**  
-**CURRENT METHOD IS AVAILABLE [HERE](../../introduction)**
+!> **DENNE METODEN ER IKKE LENGER STØTTET**  
+**OPPDATERTE METODER ER TILGJENGELIG [HER](../../introduction)**
 
 ## Velg ett DS VC-spill
 

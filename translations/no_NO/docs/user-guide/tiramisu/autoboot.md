@@ -1,19 +1,19 @@
-# Tiramisu
+# Tiramisu {docsify-ignore-all}
 
-## Autobooting Tiramisu {docsify-ignore}
+## Autobooting Tiramisu
 
-Currently, every time you want to launch Tiramisu you will have to launch the Health and Safety information app. If you wish to automatically launch into Tiramisu on every boot, you can autoboot the Health and Safety Information app.
+Hver gang du vil kjøre Tiramisu så må du starte Health and Safety Information appen. Hvis du ønsker å starte Tiramisu automatisk ved oppstart, så kan du autoboote Health and Safety Information appen.
 
-### Instructions  {docsify-ignore}
+### Instruksjoner
 
-1. Start the console to boot into the Wii U Menu, launch the Health and Safety Information app and hold the X button to open the Environment Loader menu.
-1. Navigate the list using the D-Pad and navigate to the `installer` environment, press A to launch it.
-1. Press A to select `Check`.
-1. Select `Boot options`.
-1. You will be asked if you want to switch the boot title. Press A to select `Switch to PayloadLoader`.
-1. When the process finished, press A to shutdown the console.
-1. The PayloadLoader will now be launched automatically on every boot.
-    - To change the default boot title hold Start (+) on the Gamepad while booting the console.
-    - Navigate the list using the D-Pad to hover on the title you want to autoboot in, then press the Y button to set this to your autoboot title.
-    - Press A to launch the selected title.
+1. Start konsollen for å komme inn i Wii U menu, kjør Health and Safety Information appen og hold X kanppen for å åpne Environment Loader menu.
+1. Naviger lista ved å bruke D-Paden og velg `installer` environment, trykk A for å kjøre den.
+1. Trykk A for å velge `Check`.
+1. Velg `Boot options`.
+1. Du vil bli spurt om du vil bytte boot title. Trykk A for å velge `Switch to PayloadLoader`.
+1. Når prosessen er ferdig, trykk A for å slå av konsollen.
+1. PayloadLoader vil nå kjøre automatisk når konsollen starter.
+    - For å endre "default boot title" hold Start (+) på Gamepaden mens konsollen slår seg på.
+    - Naviger lista ved å bruke D-Paden og velg hvilken tittel du vil autoboote inn i, så trykker du Y knappen for å sette det til autoboot tittel.
+    - Trykk på A for å starte den valgte tittelen.
 

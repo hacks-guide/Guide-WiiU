@@ -1,25 +1,23 @@
-# Tiramisu
+# Tiramisu {docsify-ignore-all}
 
-## Forberede SD-kortet {docsify-ignore}
+## Forberede SD-kortet
 
 Her vil vi plassere de nødvendige CFW-filene og noen ekstra homebrew filer på SD-kortet.
 
-?> **Merk** SD-kortet ditt må formateres til FAT32. Hvis den ikke er formatert til FAT32, bør du bruke [GUIFormat](http://ridgecrop.co.uk/index.htm?guiformat.htm) med 32k (32768) "Allocation unit size" for å formatere den. </br> **Do not** label the SD Card as `wiiu` or it will cause issues with homebrew.
+?> **Merk** SD-kortet ditt må formateres til FAT32. Hvis den ikke er formatert til FAT32, bør du bruke [GUIFormat](http://ridgecrop.co.uk/index.htm?guiformat.htm) med 32k (32768) "Allocation unit size" for å formatere den. </br> **Ikke** sett navnet på SD-kortet til `wiiu`, det vil skape problemer med noen homebrew apper.
 
-?> **If you have an existing legacy CFW setup** </br> For **CBHC** users: go to the [Uninstall CBHC](../uninstall-cbhc) page to uninstall CBHC. </br> For **Haxchi** users: uninstall the Haxchi app from Data Management in the System Settings app. </br> For **Mocha CFW (Indexiine)** users: go to the [Uninstall Indexiine](../uninstall-indexiine) page to uninstall Indexiine. </br> For **Mocha CFW (Online Exploit)** users: you do not need to do anything before following this guide.
+?> **Hvis du allerede har en eldre CFW satt opp** </br> For **CBHC** brukere: gå til [Uninstall CBHC](../uninstall-cbhc) siden og avinstaller CBHC. </br> For **Haxchi** brukere: avinstaller Haxchi appen fra Data Management i System Settings. </br> For **Mocha CFW (Indexiine)** brukere: gå ttil [Uninstall Indexiine](../uninstall-indexiine) siden for å avinstallere Indexiine. </br> For **Mocha CFW (Online Exploit)** brukere: du trenger ikke gjøre noenting for å følge denne guiden.
 
-### Dette Trenger Du {docsify-ignore}
+### Dette trenger du
 
-- The latest files from [Tiramisu for your café](https://tiramisu.foryour.cafe).
-    - Select `Nanddumper`, `PayloadLoader Installer` and `Base-Tiramisu`.
-- `wiiu-extracttosd.zip` of the [HB Appstore](https://gitlab.com/4TU/hb-appstore/-/releases)
-- The [01_sigpatches.rpx](/docs/files/01_sigpatches.rpx ":ignore") file
+- Nyeste utgave av [Tiramisu for your café](https://tiramisu.foryour.cafe).
+    - Velg `Nanddumper`, `PayloadLoader Installer` og `Base-Tiramisu`.
+- [01_sigpatches.rpx](/docs/files/01_sigpatches.rpx ":ignore") fila.
 
-### Instruksjoner {docsify-ignore}
+### Instruksjoner
 
 1. Sett SD-kortet ditt i PC'en din.
-1. Copy the contents of the newly downloaded `files.zip` file to the root of your SD Card.
-1. Copy the contents of the newly downloaded `wiiu-extracttosd.zip` file to the root of your SD Card.
-1. Copy the `01_sigpatches.rpx` file to `/wiiu/environments/tiramisu/modules/setup` on your SD Card
+1. Pakk ut `files.zip` til roten av SD-kortet.
+1. Kopier `01_sigpatches.rpx` fila til `/wiiu/environments/tiramisu/modules/setup` på SD-kortet.
 
-?> If your computer asks you to overwrite existing files on your SD Card, you will need to click yes.
+?> Hvis pc'en din spør deg om å erstatte eksisterende filer på SD-kortet, skal du trykke ja.

@@ -12,7 +12,7 @@ Nous allons maintenant placer les fichiers Homebrew nécessaires sur la carte SD
 
 ### Ce dont vous avez besoin {docsify-ignore}
 
-- The latest files from [Tiramisu for your café](https://tiramisu.foryour.cafe).
+- Les derniers fichiers de [Tiramisu for your café](https://tiramisu.foryour.cafe).
     - Select `Nanddumper` and `Base-Tiramisu`.
 - The latest release of the [vwii-compat-installer](https://github.com/TheLordScruffy/vwii-compat-installer/releases).
 - L'application <a href="docs/files/Patched_IOS80_Installer_for_vWii.zip" download>Patched IOS 80 Installer for vWii</a>.
@@ -23,7 +23,7 @@ Nous allons maintenant placer les fichiers Homebrew nécessaires sur la carte SD
 1. Insérez la carte SD de votre Wii U dans votre PC.
 1. Copiez le dossier `apps` du fichier <code>Patched_<wbr>IOS80_<wbr>Installer_<wbr>for_<wbr>vWii<wbr>.zip</code> vers la racine de votre carte SD.
 1. Copiez le contenu du fichier <code>d2x_<wbr>cIOS_<wbr>Installer<wbr>.zip</code> vers la racine de votre carte SD.
-1. Copy the contents of the newly downloaded `files.zip` file to the root of your SD Card.
+1. Copiez le contenu du fichier `files.zip` récemment téléchargé vers la racine de votre carte SD.
 1. Copy the `compat_installer.elf` file to the `wiiu/apps` folder on the root of your SD Card.
 1. Retirez la carte SD de votre ordinateur et branchez-la sur votre console Wii U.
 
@@ -48,11 +48,12 @@ In case anything goes wrong in the later process and your vWii ends up bricked, 
 
 ### Installer l'Homebrew Channel
 
-1. Lancez l'[Homebrew Launcher](vwii/browser-exploit).
-1. Lancez compat_installer.
-1. Appuyez sur `A` pour installer la Homebrew Channel et attendez que vous voyez `Install succeeded`. Puis appuyez sur le bouton HOME pour retourner au Menu Wii U.
-1. Lancez la vWii (l'icône du Menu Wii).
-   - Si l'installation a réussi, vous devriez voir la Homebrew Channel dans votre Menu Wii.
+1. Boot into [Tiramisu](vwii/browser-exploit).
+1. Launch the Homebrew Launcher, by opening the Mii Maker.
+1. Launch the compat_installer.
+1. Press `A` to install the Homebrew Channel and wait until you see `Install succeeded`. Then press the HOME button to return to the Wii U Menu.
+1. Launch vWii (the Wii Menu icon).
+   - If the installation has succeeded, you should see the Homebrew Channel in your Wii Menu.
 
 ### Installation des cIOS
 

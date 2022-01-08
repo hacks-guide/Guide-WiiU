@@ -1,7 +1,7 @@
 # Archive - CBHC
 
-!> **THIS METHOD IS NO LONGER SUPPORTED**  
-**CURRENT METHOD IS AVAILABLE [HERE](../../introduction)**
+!> **DENNE METODEN ER IKKE LENGER STØTTET**  
+**OPPDATERTE METODER ER TILGJENGELIG [HER](../../introduction)**
 
 ## Bruke CFW {docsify-ignore}
 
@@ -9,9 +9,9 @@ Nå som du har en NAND backup i tilfelle noe går galt senere, kan du kjøre CFW
 
 I motsetning til systemer som DSi, Wii eller 3DS, er Wii U CFW midlertidig. Dette betyr at så snart systemet starter på nytt, vil du miste CFW og må følge disse instruksjonene igjen. Det trenger du ikke ved å installere CBHC på en Haxchi CFW installasjon.
 
-!> Installing CBHC incorrectly can brick your Wii U. Make sure to follow the following rules when installing CBHC: <br>- The DS game has to be legitimately installed from the eShop! <br>- Ikke formater konsollen mens CBHC er installert! <br>- Ikke slett bruker kontoen som kjøpte DS VC spillet! <br>- Ikke installer spillet på nytt ved bruk av WUP installer eller fra eShop! <br>- Ikke installer Haxchi over CBHC! <br>- Don't uninstall the DS Virtual Console game without [properly uninstalling CBHC first](../uninstall-cbhc)! <br>- Ikke flytt DS VC spillet til en USB lagringsenhet!
+!> Å installere CBHC kan "bricke" Wii U konsollen. Følg reglene under når du installerer CBHC: <br>- DS spillet må være legitimt installert gjennom eShop! <br>- Ikke formater konsollen mens CBHC er installert! <br>- Ikke slett bruker kontoen som kjøpte DS VC spillet! <br>- Ikke installer spillet på nytt ved bruk av WUP installer eller fra eShop! <br>- Ikke installer Haxchi over CBHC! <br>- Ikke slett DS Virtual Console spillet uten å [slette CBHC på riktig måte først](../uninstall-cbhc)! <br>- Ikke flytt DS VC spillet til en USB lagringsenhet!
 
-!> Breaking one of the above rules will result in a brick.
+!> Hvis du bryter en av reglene ovenfor, vil du "bricke" konsollen.
 
 > Hvis du er redd for å tilfeldigvis bryte en av disse reglene mens du bruker CBHC, foreslår vi å sette opp Parental Controls for brukeren din! Blokkere `Data Management` og sette `Game Rating` til det høyeste nivået kan stoppe deg fra å gjøre de vanligste feilene som forårsaker en CBHC brick. Sjekk [her](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1081/~/how-to-change-parental-controls) for mer informasjon om hvordan du endrer Parental Controls innstillinger.
 

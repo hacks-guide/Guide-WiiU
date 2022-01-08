@@ -12,9 +12,9 @@ Vi starter med å plassere Homebrew filene du trenger på SD-kortet ditt.
 
 ### Dette Trenger Du {docsify-ignore}
 
-- The latest files from [Tiramisu for your café](https://tiramisu.foryour.cafe).
-    - Select `Nanddumper` and `Base-Tiramisu`.
-- The latest release of the [vwii-compat-installer](https://github.com/TheLordScruffy/vwii-compat-installer/releases).
+- De nyeste filene i [Tiramisu for your café](https://tiramisu.foryour.cafe).
+    - Velg `Nanddumper` og `Base-Tiramisu`.
+- Siste utgave av [vwii-compat-installer](https://github.com/TheLordScruffy/vwii-compat-installer/releases).
 - <a href="docs/files/Patched_IOS80_Installer_for_vWii.zip" download>Patched IOS 80 Installer for vWii</a>.
 - <a href ="docs/files/d2x_cIOS_Installer.zip" download>d2x cIOS Installer</a>.
 
@@ -23,8 +23,8 @@ Vi starter med å plassere Homebrew filene du trenger på SD-kortet ditt.
 1. Sett SD-kortet ditt i PC'en din.
 1. Pakk ut `apps` mappen fra <code>Patched_<wbr>IOS80_<wbr>Installer_<wbr>for_<wbr>vWii<wbr>.zip</code> til roten av SD kortet.
 1. Pakk ut <code>d2x_<wbr>cIOS_<wbr>Installer<wbr>.zip</code> til roten av SD-kortet.
-1. Copy the contents of the newly downloaded `files.zip` file to the root of your SD Card.
-1. Copy the `compat_installer.elf` file to the `wiiu/apps` folder on the root of your SD Card.
+1. Pakk ut `files.zip` til roten av SD-kortet.
+1. Kopier `compat_installer.elf` fila til `wiiu/apps` mappen i roten av SD-kortet.
 1. Ta SD-kortet ut av PC'en og sett den inn i Wii U konsollen.
 
 ### NAND Backup
@@ -33,7 +33,7 @@ Hvis noe går galt senere i prosessen og vWii "bricker", vil gjenoppretting av e
 
 ?> Hvis du nylig har laget en NAND sikkerhetskopi som inneholder SLCCMPT og OTP, kan du hoppe over dette trinnet.
 
-1. Launch the [Wii U NAND Dumper](vwii/browser-exploit).
+1. Kjør [Wii U NAND Dumper](vwii/browser-exploit).
 1. Bruk D-padden for å sette opp følgende konfigurasjon:
     - Dump SLC: **optional**
     - Dump SLCCMPT: **yes**
@@ -42,17 +42,18 @@ Hvis noe går galt senere i prosessen og vWii "bricker", vil gjenoppretting av e
     - Dump SEEPROM: **optional**
 1. Trykk på A knappen for å starte dumpingprosessen.
 1. Når prosessen er fullført, skru av Wii U konsollen, ta ut SD-kortet og sett den inn i PC-en din.
-1. To make sure you don't lose the files, copy the `slccmpt.bin`, `otp.bin` and if you chose to go with a full backup, `seeprom.bin`, `slc.bin`, and `every mlc.bin.part` file to your computer.
+1. For å være sikker på at du ikke mister filene, kopier `slccmpt.bin`, `otp.bin` og hvis du velger å ta en full backup, `seeprom.bin`, `slc.bin`, og `alle mlc.bin.part` filene til pc'en din.
 1. Slett filene fra SD-kortet for å frigjøre plass.
 1. Ta SD-kortet ut av PC'en og sett den inn i Wii U konsollen.
 
 ### Installere Homebrew Channel
 
-1. Start [Homebrew Launcher](vwii/browser-exploit).
-1. Start compat_installer.
-1. Trykk `A` for å installere Homebrew Channel og vent til du ser `Install succeeded`. Så trykker du HOME-knappen for å gå tilbake til Wii U menyen.
-1. Start vWii (Wii meny ikonet).
-   - Hvis installasjonen ble ferdig, bør du se Homebrew Channel kanalen i Wii Menyen.
+1. Start opp [Tiramisu](vwii/browser-exploit).
+1. Kjør Homebrew Launcher ved å starte Mii Maker.
+1. Kjør compat_installer.
+1. Trykk `A` for å installere Homebrew Channel og vent til du ser `Install succeeded`. Så trykker du HOME-knappen for å gå tilbake til Wii U menu.
+1. Start vWii (Wii menu ikonet).
+   - Hvis installasjonen ble ferdig, bør du se Homebrew Channel kanalen i Wii Menu.
 
 ### Installerer cIOS'er
 

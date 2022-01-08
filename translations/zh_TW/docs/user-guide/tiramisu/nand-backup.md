@@ -1,17 +1,16 @@
-# Tiramisu
+# Tiramisu {docsify-ignore-all}
 
-## Making a NAND Backup {docsify-ignore}
+## Making a NAND Backup
 
 In case anything should go wrong in the later process and your Wii U ends up bricked, restoring a previously made NAND backup can fix it.
 
-### Instructions {docsify-ignore}
+### Instructions
 
 ?> The Wii U NAND is (depending on your model) either 8GB or 32GB. As a result of this, to create a full backup of your console's NAND, your SD Card has to be larger than the size of your NAND. If you do not have a large enough SD Card, you can skip the optional `MLC` section which includes save files and game data and is not needed to recover most types of bricks.
 
 ?> Restoring a NAND Backup on the Wii U requires additional hardware and micro soldering skills. <br>However, making a NAND Backup is **always** useful, so please do not skip it. <br>Your NAND Backup is unique to your system. Backups from other consoles **won't** work.
 
-1. Launch web browser exploit as [previously explained](browser-exploit) but this time, you will need to hold the B button.
-1. Navigate to `nanddumper` using the Gamepad and press A to launch it.
+1. Navigate to `nanddumper` using the GamePad and press A to launch it.
 1. Use the Wii U GamePad's D-Pad to enter the following configuration:
     - Dump SLC: **yes**
     - Dump SLCCMPT: **yes**

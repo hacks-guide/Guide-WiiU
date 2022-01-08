@@ -1,21 +1,24 @@
-# Tiramisu
+# Tiramisu {docsify-ignore-all}
 
-## Installing PayloadLoader {docsify-ignore}
+## Installere PayloadLoader
 
-Now that you have your NAND backup in case anything goes wrong later, you can install the PayloadLoader on your system.
+Nå som du har en NAND backup i tilfelle noe går galt senere, kan du installere PayloadLoader på Wii U konsollen.
 
-Installing the PayloadLoader will let you access Tiramisu just by running the Health and Safety Information app.
+Å installere PayloadLoader lar deg bruke Tiramisu ved å kjøre Health and Safety Information appen.
 
-!> A factory reset **won't** uninstall the injected PayloadLoader. Follow [uninstall PayloadLoader](../../uninstall-payloadloader) to remove the PayloadLoader.
+!> En factory reset vil **ikke** fjerne en installert PayloadLoader. Følg [avinstallere PayloadLoader](../../uninstall-payloadloader) for å fjerne PayloadLoader.
 
-### Instruksjoner {docsify-ignore}
+### Instruksjoner
+
+?> Hvis du allerede er i Tiramisu, start Wii U konsollen din på nytt før du kjører browser exploiten igjen.
 
 1. Ta SD-kortet ut av PCen og sett det inn i Wii U konsollen.
-1. Execute the web browser exploit as [previously explained](browser-exploit) but this time, you will need to hold the X button to open the Environment Loader menu.
-1. Navigate the list using the D-Pad and navigate to the `installer` environment, press A to launch it.
-1. Press the A button to check if you can install the PayloadLoader. It should now tell you what app the PayloadLoader can be installed onto.
-1. Press the A button to select `Install / Update`
-1. You'll be asked if you are sure you want to install the PayloadLoader. Use the D-Pad to select `Install` and press A.
-1. After installing finishes, press A to shut down the console.
+1. Kjør browser exploiten som [tidligere forklart](browser-exploit) men denne gangen, må du holde X knappen inne for å åpne Environment Loader menu.
+1. Naviger lista ved å bruke D-Paden og velg `installer` environment, trykk A for å kjøre den.
+1. Trykk A knappen for å skjekke om du kan installere PayloadLoader.
+    - Det burde nå stå at PayloadLoader kan installeres oppå Health and Safety Information appen.
+1. Trykk A for å velge `Install / Update`.
+1. Du vil bli spurt om du er sikker på at du vil installere PayloadLoader. Bruk D-Paden for å velge `Install` og trykk A.
+1. Etter installasjonen er fullført, trykk A for å slå av konsollen.
 
-!> If you do not wish to autoboot Tiramisu on your console, you can skip the `Autobooting Tiramisu` part. </br> But you need to be aware that system updates won't be blocked and will need to be blocked by following [this guide](../block-updates). This is not required but it's highly recommended.
+!> Hvis du ikke ønsker å autoboote Tiramisu på konsollen din, kan du skippe `Autobooting Tiramisu`. </br> Men du må være klar over at systemoppdateringer ikke blokkeres og må blokkes ved å følge [denne guiden](../block-updates). Dette er ikke nødvendig, men det anbefales sterkt.

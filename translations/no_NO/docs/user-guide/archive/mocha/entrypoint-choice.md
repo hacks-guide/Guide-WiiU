@@ -1,7 +1,7 @@
-# Archive - Mocha - Choose An Entrypoint
+# Archive - Mocha - Velg Ett Inngangspunkt
 
-!> **THE METHODS DESCRIBED IN THIS PAGE ARE NO LONGER SUPPORTED**  
-**CURRENT METHOD IS AVAILABLE [HERE](../../introduction)**
+!> **METODENE BESKREVET PÅ DENNE SIDEN ER IKKE LENGER STØTTET**  
+**OPPDATERTE METODER ER TILGJENGELIG [HER](../../introduction)**
 
 ## Online Exploit
 
