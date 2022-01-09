@@ -5,37 +5,37 @@
 
 Attualmente, modificare il Wii U non ti espone al rischio di venire bannato da Nintendo a meno che non usi trucchi su giochi online, o se commetti frode sull'eShop. Dovresti, tuttavia, fare sempre attenzione quando avvii homebrew scaricati, specialmente se non ti fidi della fonte, dato che potenzialmente gli homebrew possono danneggiare il tuo sistema!
 
-### What are exploits?
+### Cos'è un exploit?
 
-Exploits are entry points which allow further homebrew to be run. In the main guide, you will use exploits such as the browser exploit (http://wiiuexploit.xyz) and PayloadLoader (Health & Safety exploit). All current exploits load `SD:/wiiu/payload.elf` which takes over further loading of homebrew.
+Un exploit è un punto d'entrata che permette di eseguire ulteriore homebrew. Nella guida principale userai exploit come l'exploit browser (http://wiiuexploit.xyz) e PayloadLoader (exploit & Informazioni per la salute e sicurezza). Tutti gli exploit attuali caricano `SD:/wiiu/payload.elf`, che controlla il caricamento di ulteriori homebrew.
 
-### What are payloads?
+### Cos'è un payload?
 
-Payloads, which are normally found with the filename `payload.elf`, exist to make it easier to have different exploits load the same next stage, which allows easier updateability. It doesn't matter what exploit loads the payload, the result is always the same. Multiple payloads can be switched between using the PayloadLoaderPayload. The payload used in the main guide is CustomRPXLoader which loads `SD:/wiiu/payload.rpx` and the `payload.rpx` used in the guide is EnvironmentLoader, which allows you to load different environments.
+Un payload, il cui file è solitamente chiamato `payload.elf`, esiste per portare exploit diversi a caricare lo stesso passo successivo, permettendo un aggiornamento più facile. Non importa quale exploit carica il payload, il risultato è sempre lo stesso. È possibile cambiare tra diversi exploit utilizzando PayloadLoaderPayload. Il payload utilizzato nella guida principale è CustomRPXLoader, che carica `SD:/wiiu/payload.rpx`, e il `payload.rpx` utilizzato nella guida è EnvironmentLoader, che consente di caricare diversi ambienti.
 
-### What are environments?
+### Cos'è un ambiente?
 
-An environment is a collection of "setup modules", which will be run in a certain order when launching the environment. One such environment is Tiramisu. Setup modules are small pieces of homebrew/code that are executed once to set up an environment.
+Un ambiente è una raccolta di "moduli di configurazione", che saranno eseguiti in un certo ordine quando si avvia l'ambiente. Un ambiente è per esempio Tiramisu. I moduli di configurazione sono piccoli pezzi di homebrew/codice che vengono eseguiti una volta per configurare un ambiente.
 
-### Can I install games from my USB instead of SD?
+### Posso installare giochi dal mio USB invece della SD?
 
 Sì. È, tuttavia, un po' più complicato dell'installazione dalla scheda SD. Istruzioni dettagliate sono nella tabella `Installazione da USB` nella [guida sul dumping dei dischi Wii U](dump-games).
 
-### How to Delete Update Folder to Block Updates on Wii U
+### Come eliminare la cartella Update per bloccare gli aggiornamenti su Wii U
 
 Se vuoi eliminare la cartella Update per bloccare gli aggiornamenti, guarda la tabella relativa nella [guida sul blocco degli aggiornamenti](block-updates).
 
-### What SD Card size is recommended?
+### Quale dimensione della scheda SD è consigliata?
 
- - **Installing game backups:** 32GB (Smaller size may be used, but certain titles are 20GB in size)
- - **Running game mods:** 8GB (FAT32 USB drive may be used as well for mods)
- - **Only running homebrew apps:** Any size.
+ - **Installare backup di giochi:** 32GB (si potrebbe usare una dimensione inferiore, ma certi titoli sono di 20GB)
+ - **Eseguire mod di giochi:** 8GB (USB FAT32 potrebbero anche essere utilizzate per le mod)
+ - **Solo eseguire app homebrew:** Qualsiasi dimensione.
 
 **Marche consigliate:** SanDisk, Samsung o PNY
 
 ?> Nota: evita schede SD di classe 4, ed evita eBay!
 
-### Can I install homebrew on Wii U with a USB instead of SD Card?
+### Posso installare homebrew su Wii U con un'USB invece di una scheda SD?
 
 No, devi avere una scheda SD per la prima configurazione. Un USB può poi essere utilizzato per installare backup di giochi, iniettare Virtual Console e altro, ma non per memorizzare applicazioni homebrew che sono necessarie per configurare tutto.
 
@@ -43,7 +43,7 @@ No, devi avere una scheda SD per la prima configurazione. Un USB può poi essere
 
 Niente di speciale, puoi lasciarli lì, eliminarli o sostituirli con dei nuovi. Questi file non vengono utilizzati nel processo, perciò non avrà alcun impatto se sono presenti o meno.
 
-### What is a Wii U formatted USB drive?
+### Cos'è un dispositivo USB formattato con Wii U?
 
 È un dispositivo USB che è stato formattato da una console Wii U nel suo formato proprietario.  
 Un dispositivo USB formattato in Wii U ***non può essere letto da nessun altro dispositivo oltre al Wii U che lo ha formattato originariamente.***  
