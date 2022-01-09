@@ -1,13 +1,13 @@
-# Archive - CBHC
+# Archivio - CBHC
 
-!> **THIS METHOD IS NO LONGER SUPPORTED**  
-**CURRENT METHOD IS AVAILABLE [HERE](../../introduction)**
+!> **QUESTO METODO NON È PIÙ SUPPORTATO**  
+**IL METODO CORRENTE È DISPONIBILE [QUI](../../introduction)**
 
 ## Installare l'Homebrew Launcher Channel {docsify-ignore}
 
-This page will install the Homebrew Launcher Channel as an application directly to your Home Menu for easy access.
+Questa pagina ti farà installare l'Homebrew Launcher Channel come applicazione direttamente nel tuo Menu Home per un facile accesso.
 
-?> This page is only for Haxchi and CBHC users. The Homebrew Launcher Channel (the version of the Homebrew Channel you launch from the Wii U Menu) will **not** work with Mocha CFW!
+?> Questa pagina è solo per gli utenti Haxchi e CBHC. L'Homebrew Launcher Channel (la versione dell'Homebrew Launcher che avvii dal Menu Wii U) **non** funzionerà con Mocha CFW!
 
 ### Istruzioni {docsify-ignore}
 
