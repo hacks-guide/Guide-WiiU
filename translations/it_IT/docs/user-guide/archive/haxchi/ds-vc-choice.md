@@ -1,7 +1,7 @@
-# Archive - Haxchi {docsify-ignore-all}
+# Archivio - Haxchi {docsify-ignore-all}
 
-!> **THIS METHOD IS NO LONGER SUPPORTED**  
-**CURRENT METHOD IS AVAILABLE [HERE](../../introduction)**
+!> **QUESTO METODO NON È PIÙ SUPPORTATO**  
+**IL METODO CORRENTE È DISPONIBILE [QUI](../../introduction)**
 
 ## Scegli il tuo gioco DS VC
 
