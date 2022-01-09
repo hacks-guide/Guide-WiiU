@@ -1,15 +1,15 @@
-# Archive - Haxchi
+# Archivio - Haxchi
 
-!> **THIS METHOD IS NO LONGER SUPPORTED**  
-**CURRENT METHOD IS AVAILABLE [HERE](../../introduction)**
+!> **QUESTO METODO NON È PIÙ SUPPORTATO**  
+**IL METODO CORRENTE È DISPONIBILE [QUI](../../introduction)**
 
 ## Installare l'Homebrew Launcher Channel {docsify-ignore}
 
-This page will install the Homebrew Launcher Channel as an application directly to your Wii U Menu for easy access.
+Questa pagina ti farà installare l'Homebrew Launcher Channel come applicazione direttamente nel tuo Wii U Menu per un accesso facile.
 
 ### Istruzioni {docsify-ignore}
 
-?> Installing the Homebrew Launcher Channel is optional as you can already launch it by holding the A button while launching Haxchi.
+?> Installare l'Homebrew Launcher Channel è opzionale, poiché puoi già accederci tenendo premuto A mentre apri Haxchi.
 
 1. Accendi la tua console.
 1. Avvia il gioco DS Haxchi dall' Menu Wii U. Questo avvierà nuovamente il Menu Wii U col CFW attivato.
