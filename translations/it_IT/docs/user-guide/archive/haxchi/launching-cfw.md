@@ -1,7 +1,7 @@
-# Archive - Haxchi
+# Archivio - Haxchi
 
-!> **THIS METHOD IS NO LONGER SUPPORTED**  
-**CURRENT METHOD IS AVAILABLE [HERE](../../introduction)**
+!> **QUESTO METODO NON È PIÙ SUPPORTATO**  
+**IL METODO CORRENTE È DISPONIBILE [QUI](../../introduction)**
 
 ## Avviare CFW {docsify-ignore}
 
@@ -11,7 +11,7 @@ A differenza di altre console come DSi, Wii o 3DS, il CFW della Wii U è tempora
 
 ### Istruzioni {docsify-ignore}
 
-?> If the install fails for some reason, try uninstalling and redownloading the DS VC game from the eShop and make sure it is being installed to the NAND.
+?> Se l'installazione fallisce per qualche motivo, prova a disinstallare e riinstallare il gioco DS VC dall'eShop e assicurati che sta venendo installato sulla NAND.
 
 1. Togli la sd dal tuo PC e mettila nella Wii U.
 1. Se non l'hai già fatto, installa il gioco DS VC che hai scelto o che avevi.
