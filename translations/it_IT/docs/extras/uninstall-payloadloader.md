@@ -1,28 +1,28 @@
-# Uninstall PayloadLoader
+# Disinstallare PayloadLoader
 ---
-This page will guide through the process of uninstalling the PayloadLoader from your Wii U.
+Questa pagina ti guiderà attraverso il processo di disinstallazione di PayloadLoader dalla tua Wii U.
 
-!> A factory reset **won't** uninstall the injected PayloadLoader. To fully uninstall it, follow this guide.
+!> Un reset di fabbrica **non** disinstallerà il PayloadLoader iniettato. Per disinstallarlo completamente, segui questa guida.
 
 ### Cosa ti servirà {docsify-ignore}
 
-- The latest files from [Tiramisu for your café](https://tiramisu.foryour.cafe).
-    - Select `EnvironmentLoader` and `PayloadLoader Installer`
+- Gli ultimi file da [Tiramisu per il tuo caffè](https://tiramisu.foryour.cafe).
+    - Seleziona `EnvironmentLoader` e `PayloadLoader Installer`
 
-### Undo Autobooting into PayloadLoader
+### Annullare l'auto-avvio in PayloadLoader
 
-1. Boot the console while holding X on the Gamepad.
-1. Navigate to the `installer` environment and launch it by pressing A.
-1. Press A to select `Check`.
-1. Select `Boot options`.
-1. You will be asked if you want to switch the boot title. Press A to select `Switch back to Wii U Menu`.
-1. When the process finished, press A to shutdown the console.
-1. The console will now boot again into the Wii U Menu. The PayloadLoader can still be launched by launching the Health & Safety Application.
+1. Avviare la console tenendo premuto X sul Gamepad.
+1. Vai all'ambiente `installer` e lancialo premendo A.
+1. Premi A per selezionare `Check`.
+1. Seleziona `Boot options`.
+1. Ti verrà chiesto se vuoi cambiare il titolo di avvio. Premi A per selezionare `Switch back to Wii U Menu`.
+1. Al termine del processo, premi A per spegnere la console.
+1. La console si riavvierà nuovamente nel menu Wii U. Il PayloadLoader può ancora essere lanciato lanciando l'applicazione Informazioni per la salute e la sicurezza.
 
-### Uninstall PayloadLoader
+### Disinstallare PayloadLoader
 
-1. Launch the Health & Safety Application while holding X on the Gamepad
-1. Navigate to the `installer` environment and launch it by pressing A.
-1. Select `Remove`.
-1. You will be asked if you really want to remove the PayloadLoader. Select `Remove` again.
-1. When the process finished, press A to shutdown the console.
+1. Avvia l'applicazione Informazioni per la salute e la sicurezza tenendo premuto X sul Gamepad
+1. Vai all'ambiente `installer` e lancialo premendo A.
+1. Seleziona `Remove`.
+1. Ti verrà chiesto se vuoi davvero rimuovere il PayloadLoader. Seleziona `Remove` di nuovo.
+1. Al termine del processo, premi A per spegnere la console.
