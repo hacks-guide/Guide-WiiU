@@ -36,39 +36,5 @@ Niente di speciale, puoi lasciarli lì, eliminarli o sostituirli con dei nuovi. 
 
 ### La mia console all'improvviso ha perso la connettività online e ho un HDD sulla parte superiore della console, che faccio?
 
-L'antenna interna può essere stata influenzata dal magnete del disco rigido.
-È possibile spostare l'HDD in una posizione diversa sulla Wii U o spostarlo completamente fuori dalla Wii U.
-----------
-
-# Layout della scheda SD
-Questo è un esempio di come dovrebbe apparire la scheda SD dopo averla configurata. Se si dispone di un errore `-5` o l'errore `FSOpenFile failed` la posizione dei file potrebbe non essere corretta.
-```
-💾sd:
- ┣ 📂cbhc                             (CBHC only)
- ┃ ┣ 📜bootDrcTex.tga
- ┃ ┣ 📜bootTvTex.tga
- ┃ ┣ 📜iconTex.tga
- ┃ ┗ 📜title.txt
- ┣ 📂haxchi                           (Haxchi & CBHC only)
- ┃ ┣ 📜bootDrcTex.tga
- ┃ ┣ 📜bootTvTex.tga
- ┃ ┣ 📜config.txt
- ┃ ┣ 📜iconTex.tga
- ┃ ┗ 📜title.txt
- ┣ 📂install
- ┃ ┗ 📂Homebrew Launcher Channel      (Haxchi & CBHC only)
- ┃   ┣ 📜00000000.app
- ┃   ┣ 📜00000003.h3
- ┃   ┣ ...
- ┃   ┣ 📜title.cert
- ┃   ┣ 📜title.tik
- ┃   ┗ 📜title.tmd
- ┗ 📂wiiu
-   ┣ 📂apps
-   ┃ ┣ 📂homebrew_launcher
-   ┃ ┃ ┣ 📜homebrew_launcher.elf
-   ┃ ┃ ┣ 📜icon.png
-   ┃ ┃ ┗ 📜meta.xml
-   ┃ ┗ (Anche tutte le altre app come disc2app, nanddumper, ecc. dovrebbero essere qui)
-   ┗ 📜payload.elf
-```
+The internal antenna may have been influenced by the hard drive magnet.  
+You can move the HDD to a different position atop the Wii U, or move it off the Wii U entirely.
