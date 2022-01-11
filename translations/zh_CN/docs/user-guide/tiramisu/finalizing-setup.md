@@ -27,7 +27,7 @@ We are going to make the Tiramisu environment start automatically when your cons
 
 - The latest version of [SaveMii mod](https://wiiubru.com/appstore/zips/savemii_mod.zip).
 - The latest version of [Bloopair - Tiramisu Edition](https://github.com/GaryOderNichts/Bloopair/releases).
-- `wiiu-extracttosd.zip` of the [HB Appstore](https://gitlab.com/4TU/hb-appstore/-/releases).
+- `wiiu-extracttosd.zip` of the [HB Appstore](https://github.com/fortheusers/hb-appstore/releases/).
 
 ### Additional Homebrew Apps - Extracting Files to the SD Card
 
