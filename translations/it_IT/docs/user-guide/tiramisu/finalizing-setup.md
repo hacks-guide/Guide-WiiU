@@ -27,7 +27,7 @@ Faremo in modo che l'ambiente di Tiramisu si avvii automaticamente quando la con
 
 - La versione più recente di [SaveMii mod](https://wiiubru.com/appstore/zips/savemii_mod.zip).
 - La versione più recente di [Bloopair - Tiramisu Edition](https://github.com/GaryOderNichts/Bloopair/releases).
-- `wiiu-extracttosd.zip` dell'[HB Appstore](https://gitlab.com/4TU/hb-appstore/-/releases).
+- `wiiu-extracttosd.zip` of the [HB Appstore](https://github.com/fortheusers/hb-appstore/releases/).
 
 ### App Homebrew aggiuntive - Estrazione dei file sulla scheda SD
 
