@@ -17,7 +17,7 @@ Ora inseriremo i file del CFW richiesti e alcuni altri file homebrew sulla sched
 ### Istruzioni
 
 1. Inserisci la SD della tua Wii U nel PC.
-1. Copia nella root della tua scheda SD i contenuti di `files.zip` appena scaricato.
+1. Copy the contents of the newly downloaded Tiramisu *`.zip`* file to the root of your SD Card.
 1. Copia in `/wiiu/environments/tiramisu/modules/setup` sulla tua scheda SD il file `01_sigpatches.rpx`.
 
 ?> Se il tuo computer ti chiede se vuoi sovrascrivere i file esistenti sulla scheda SD, dovrai cliccare su sì.
