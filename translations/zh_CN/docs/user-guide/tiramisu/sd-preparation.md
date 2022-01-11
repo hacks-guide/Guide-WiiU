@@ -17,7 +17,7 @@
 ### 操作步骤
 
 1. 将你的 Wii U SD 卡 插入你的电脑。
-1. Copy the contents of the newly downloaded `files.zip` file to the root of your SD Card.
+1. Copy the contents of the newly downloaded Tiramisu *`.zip`* file to the root of your SD Card.
 1. Copy the `01_sigpatches.rpx` file to `/wiiu/environments/tiramisu/modules/setup` on your SD Card.
 
 ?> If your computer asks you to overwrite existing files on your SD Card, you will need to click yes.
