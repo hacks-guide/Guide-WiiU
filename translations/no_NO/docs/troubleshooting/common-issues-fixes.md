@@ -36,5 +36,5 @@ Du kan la dem ligge, slette dem eller kopiere over dem med de nye filene. Disse 
 
 ### Wii U konsollen min mistet plutselig internett, og jeg har en ekstern harddisk oppå konsollen min. Hva må jeg gjøre?
 
-The internal antenna may have been influenced by the hard drive magnet.  
-You can move the HDD to a different position atop the Wii U, or move it off the Wii U entirely.
+Wifi antenna inni konsollen kan bli forstyrra av magneten inni den eksterne hard disken.  
+Du kan flytte harddisken til en annen posisjon oppå Wii U'en, eller flytte den litt vekk fra Wii U'en.
