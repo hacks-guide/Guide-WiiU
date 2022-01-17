@@ -3,6 +3,7 @@
 ## Making a NAND Backup
 
 In case anything should go wrong in the later process and your Wii U ends up bricked, restoring a previously made NAND backup can fix it.
+(You do not need to do this if you already have a NAND backup.)
 
 ### Instructions
 
