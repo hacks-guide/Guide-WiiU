@@ -1,7 +1,7 @@
-# Archive - CBHC
+# Archivio - CBHC
 
-!> **THIS METHOD IS NO LONGER SUPPORTED**  
-**CURRENT METHOD IS AVAILABLE [HERE](../../introduction)**
+!> **QUESTO METODO NON È PIÙ SUPPORTATO**  
+**IL METODO CORRENTE È DISPONIBILE [QUI](../../introduction)**
 
 ## Avviare CFW {docsify-ignore}
 
@@ -9,9 +9,9 @@ Ora che hai il tuo backup della NAND in caso qualcosa andasse storto, puoi avvia
 
 A differenza di altre console come DSi, Wii o 3DS, il CFW della Wii U è temporaneo. Questo significa che appena la tua console viene riavviata, perderai il CFW e dovrai seguire queste istruzioni di nuovo. Questo può venir saltato installando CBHC.
 
-!> Installing CBHC incorrectly can brick your Wii U. Make sure to follow the following rules when installing CBHC: <br>- The DS game has to be legitimately installed from the eShop! <br>- Non Formattare il sistema mentre CBHC è installato! <br>- Non eliminare l'account che ha comprato il gioco DS per Virtual Console! <br>- Non reinstallare lo stesso gioco utilizzando WUP Installer o l' eShop! <br>- Non installare Haxchi sopra CBHC! <br>- Don't uninstall the DS Virtual Console game without [properly uninstalling CBHC first](../uninstall-cbhc)! <br>- Non spostare il gioco DS Virtual Console su un dispositivo USB!
+!> Installare CBHC in modo errato può brickare la tua Wii U. Assicurati di seguire le seguenti regole durante l'installazione di CBHC: <br>- Il gioco DS deve essere installato legittimamente dall'eShop! <br>- Non Formattare il sistema mentre CBHC è installato! <br>- Non eliminare l'account che ha comprato il gioco DS per Virtual Console! <br>- Non reinstallare lo stesso gioco utilizzando WUP Installer o l' eShop! <br>- Non installare Haxchi sopra CBHC! <br>- Non disinstallare il gioco DS Virtual Console senza prima [disinstallare correttamente CBHC](../uninstall-cbhc)! <br>- Non spostare il gioco DS Virtual Console su un dispositivo USB!
 
-!> Breaking one of the above rules will result in a brick.
+!> Infrangere una di queste regole causerà un brick.
 
 > Se sei preoccupato di infrangere una di queste regole durante l'utilizzo di CBHC, prendi in considerazione l'utilizzo di controlli parentali per il tuo utente! Bloccare l'accesso a `Gestione Dati` e impostare la `Classificazione di gioco` alla valutazione più alta possibile, può aiutarti a prevenire errori che potresti fare quando utilizzi CBHC. Controlla [qui](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1081/~/how-to-change-parental-controls) per più informazioni su come cambiare le impostazioni del controllo parentale.
 

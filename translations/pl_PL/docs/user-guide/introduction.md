@@ -1,59 +1,59 @@
-# Wii U Hacks Guide
+# Poradnik Wii U Hacks
 ---
-A guide collaboration between Nintendo Homebrew's Helpers and Staff, from stock to Tiramisu custom firmware.
+Poradnik - jak przejść z fabrycznej wersji oprogramowania do Tiramisu - powstał dzięki Nintendo Homebrew's Helpers and Staff.
 
-?> **Discord Help** For live support with this guide please visit us in **#wiiu-assistance** on the [Nintendo Homebrew Discord](https://discord.gg/C29hYvh) and ask, in English, for assistance. Please read **#faq-wiiu**, as well as our [Frequently Asked Questions](faq) page beforehand to see if your question has already been answered.
+?> **Pomoc na Discord'zie** Aby uzyskać wsparcie na żywo, odwiedź nas w **#wiiu-assistance** na [Nintendo Homebrew Discord](https://discord.gg/C29hYvh). Pomocy udzielamy tylko w języku angielskim. Przeczytaj **#faq-wiiu**, odwiedź też stronę [Najczęściej zadawane pytania](faq) wcześniej, aby sprawdzić, czy odpowiedź na Twoje pytanie nie została już udzielona wcześniej.
 
-> If you appreciate this guide, we accept [donations](donations).
+> Jeśli doceniasz ten poradnik, udziel nam [wsparcia](donations).
 
-> For complete guides to homebrew and custom firmware for other devices, check out [hacks.guide](https://hacks.guide).
+> Aby uzyskać kompletne poradniki dla homebrew i niestandardowego oprogramowania dla innych urządzeń, sprawdź [hacks.guide](https://hacks.guide).
 
 ### Homebrew
 
-Homebrew applications are custom, user-made software, which haven’t been authorized by Nintendo. This can include save editing tools, games, emulators, and more.
+Aplikacje Homebrew są niestandardowym oprogramowaniem, które nie zostało autoryzowane przez Nintendo. Należą do nich narzędzi do edycji zapisanych danych, gier, emulatorów i innych.
 
-Homebrew can be run on your Wii U as long as you have a way to put files on an SD Card and your Wii U is updated to the latest version for your region.
+Homebrew może być uruchomiony na Wii U o ile masz możliwość umieszczenia plików na karcie SD, a Wii U jest zaktualizowane do najnowszej wersji dla Twojego regionu.
 
-### Custom Firmware
+### Custom Firmware - Oprogramowanie niestandardowe
 
-Custom firmware (often abbreviated as "CFW") enables you to use more advanced hacks that userland homebrew can’t easily do. For instance, installing game modifications with ease. CFW can be set up on any console on the latest version.
+Custom firmware (zwane w skrócie "CFW") pozwala CI na używanie bardziej zaawansowanych hacków i programów. Na przykład możesz instalować modyfikacje gier bez problemu. CFW można skonfigurować na dowolnej konsoli w najnowszej wersji.
 
-### Homebrew & CFW Uses
+### Zastosowanie Homebrew & CFW
 
-Among other things, it allows you to do the following:
+Umożliwia między innymi wykonanie następujących zadań:
 
-- Use “ROM hacks” for games that you own.
-- Backup, edit and restore saves for many games.
-- Play games for older systems with various emulators, using RetroArch or other standalone emulators.
-- Play out-of-region games.
-- Dump your Wii U game discs to a format that can be installed on your internal or external Wii U storage drive.
+- Używanie "ROM hacks" dla gier, które posiadasz.
+- Tworzenie kopii zapasowej, edycja i przywracanie danych dla wielu gier.
+- Granie w gry dla starszych systemów z różnymi emulatorami, używając RetroArch lub innych niezależnych emulatorów.
+- Granie w gry z innego regionu.
+- Zrzucanie zawartości płyt z grami Wii U do formatu, który można zainstalować na wewnętrznym lub zewnętrznym dysku pamięci Wii U.
 
 
-### End Goal
+### Cel końcowy
 
-This guide has the end goal of taking a completely unmodified Wii U from stock to custom firmware.
+Ten poradnik ma na celu przekształcenie całkowicie niezmodyfikowanego Wii U, do takiego, w którym będzie można uruchomić niestandardowe oprogramowanie.
 
-### Before Starting
+### Przed rozpoczęciem
 
-!> Before beginning the guide, you must know the risks of Wii U hacking: **EVERY** time you modify your system, there is always the potential for an **UNRECOVERABLE** brick. They’re rare but still a possibility so make sure you follow **ALL** directions **EXACTLY!**
+!> Przed rozpoczęciem poradnika, musisz znać zagrożenia związane z hakowaniem Wii U: **ZA KAŻDYM RAZEM** gdy modyfikujesz system, zawsze istnieje ryzyko uszkodzenia Wii U **NIEODWRACALNIE**. Ryzyko jest niewielkie, jednak istnieje. Upewnij się więc, że wykonujesz **WSZYSTKIE** kroki **DOKŁADNIE!**. Tak jak jest to opisane w poradniku
 >
-> This guide will work on all Wii U consoles in all regions on firmware 5.5.5 or below.
+> Ten poradnik zadziała na wszystkich konsolach Wii U ze wszystkich regionów na oprogramowaniu 5.5.5 lub niższym.
 > 
-> You will need the following in order to successfully follow this guide:
+> Aby pomyślnie przejść przez ten poradnik, będziesz potrzebował:
 > 
-> - An SD Card.
-> - A device such as a computer to place files onto the SD Card.
-> - A Wii U with internet access.
+> - Karta SD.
+> - Urządzenie takie jak komputer do umieszczania plików na karcie SD.
+> - Wii U z dostępem do Internetu.
 > 
-> Your SD Card should preferably be 32 gigabytes large, as a full NAND backup for the console will take up around 8 or 30 gigabytes depending on your model.
+> Twoja karta SD powinna mieć co najmniej 32 gigabajty pojemności, ponieważ pełna kopia zapasowa NAND dla konsoli zajmie od około 8 do 30 gigabajtów pamięci w zależności od modelu.
 
-If everything goes according to plan, you will lose no data and end up with everything that you started with (games, saves, NNID, etc, will be preserved).
+Jeśli wszystko pójdzie zgodnie z planem, nie stracisz żadnych danych i wszystkie gry, zapisy, NNID itp., zostaną zachowane.
 
-Keep your device plugged in throughout the entire process to avoid data loss or damage from an unexpected power-off.
+Trzymaj urządzenie podłączone do zasilania przez cały proces, aby uniknąć utraty danych wynikających z niespodziewanego wyłączenia.
 
-After following this guide, CFW will be loaded and enabled on boot, unless you choose to not follow the Autobooting Tiramisu section.
+Po wykonaniu tego poradnika, CFW zostanie załadowany i włączony podczas uruchamiania, chyba że zdecydujesz się nie stosować się do sekcji Autobootowania Tiramisu.
 
-It is advised that you read the entire guide from start to finish one or more times before actually running through the guide with your system.
+Zaleca się przeczytanie całego poradnika od początku do końca jeden lub więcej razy, zanim rzeczywiście rozpoczniesz modyfikację systemu.
 
 ---
 

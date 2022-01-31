@@ -23,7 +23,7 @@ Nous allons maintenant placer les fichiers Homebrew nécessaires sur la carte SD
 1. Insérez la carte SD de votre Wii U dans votre PC.
 1. Copiez le dossier `apps` du fichier <code>Patched_<wbr>IOS80_<wbr>Installer_<wbr>for_<wbr>vWii<wbr>.zip</code> vers la racine de votre carte SD.
 1. Copiez le contenu du fichier <code>d2x_<wbr>cIOS_<wbr>Installer<wbr>.zip</code> vers la racine de votre carte SD.
-1. Copiez le contenu du fichier `files.zip` récemment téléchargé vers la racine de votre carte SD.
+1. Copy the contents of the downloaded Tiramisu *`.zip`* file to the root of your SD Card.
 1. Copy the `compat_installer.elf` file to the `wiiu/apps` folder on the root of your SD Card.
 1. Retirez la carte SD de votre ordinateur et branchez-la sur votre console Wii U.
 

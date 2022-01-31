@@ -1,74 +1,40 @@
-# Common Issues & Fixes {docsify-ignore-all}
+# Najczęstsze Błędy i Ich Naprawa {docsify-ignore-all}
 ---
-### Haxchi common errors
+### Najczęstsze błędy Haxchi
 
- - **-3:** No SD Card detected. Re-insert the SD Card and try again. Make sure the SD Card is in FAT32 format. If the error persists, try blowing into the SD slot as it can get dusty inside.
+ - **-3:** "No SD Card detected." Nie wykryto karty SD. Spróbuj wyjąć i włożyć kartę ponownie. Upewnij się, że karta SD jest w formacie FAT32. Jeśli błąd będzie się powtarzał, spróbuj przedmuchać gniazdo na kartę SD, ponieważ może być zabrudzone.
 
- - **-4:** SD detected but could not mount. Check to see if the SD is using MBR and not GPT. Also, check to see if there are any other partitions on the SD Card and merge them into one primary partition.
+ - **-4:**"SD detected but could not mount." Karta SD wykryta, ale nie można jej zamontować. Sprawdź, czy karta SD używa tablicy MBR, a nie GPT. Sprawdź też, czy istnieją inne partycje na karcie SD, jeżeli tak, połącz je w jedną główną partycję.
 
- - **-5:** Missing files on the SD. Check to see if your SD has Homebrew Launcher located in <code>/wiiu<wbr>/apps<wbr>/homebrew_launcher<wbr>/homebrew_launcher.elf</code>.
+ - **-5:** "Missing files on the SD." Brakujące pliki na karcie SD. Sprawdź, czy na karcie SD jest Homebrew Launcher zlokalizowany w <code>/wiiu<wbr>/apps<wbr>/homebrew_launcher<wbr>/homebrew_launcher.elf</code>.
 
-### Browser errors
+### Błędy przeglądarki
 
- - **FSGetMountSource failed:** Same as -3 above, means no SD Card detected. Re-insert the SD and try again.
+ - **FSGetMountSource failed:** Tak samo jak -3 powyżej, oznacza że nie wykryto karty SD. Spróbuj wyjąć i włożyć kartę ponownie.
 
- - **FSOpenFile failed [...] payload.elf:** Missing payload file on SD. Make sure you have payload.elf in the wiiu folder.
+ - **FSOpenFile failed [...] payload.elf:** Brak pliku payload na karcie SD. Upewnij się, że masz payload.elf w folderze wiiu.
 
- - **FSOpenFile failed:** Missing `homebrew_launcher` on SD. Make sure you have `homebrew_launcher.elf` in the <code>/wiiu<wbr>/apps<wbr>/homebrew_launcher</code> folder.
+ - **FSOpenFile failed:** Brak `homebrew_launcher` na karcie SD. Upewnij się, że masz `homebrew_launcher.elf` w folderze <code>/wiiu<wbr>/apps<wbr>/homebrew_launcher</code>.
 
-### Data Management asks to delete unnecessary data, what does it mean?
+### Data Management prosi o "delete unnecessary data", co to oznacza?
 
-This refers to leftover files from incomplete installs. Always choose Yes to delete this data, as it takes up space for no good reason. If it ever stays stuck on deleting the data in an infinite loop, you can manually delete the data yourself.  
-Use FTPiiU Everywhere and browse to `/storage_mlc/usr/import` then delete any files in the folder if any exists. This is where the partial installs exist after incomplete installs. It'll be `/storage_usb/usr/import` if installed to a USB.  
-The `import` folder should always be kept empty.
+Tu chodzi o usunięcie plików pozostałych z instalacji które się nie powiodły. Zawsze wybieraj "Yes", aby usunąć te dane, ponieważ zajmują one miejsce niepotrzebnie. Jeśli kiedykolwiek Wii U zawiesi się na usuwaniu danych, możesz je usunąć ręcznie.  
+Użyj FTPiiU Everywhere i przejdź do`/storage_mlc/usr/import` a następnie usuń wszystkie pliki z folderu, jeśli takie istnieją. W tym miejscu znajdują się pliki po niekompletnych instalacjach. Jeśli jednak instalowałeś gry/aplikacje na USB to pliki będą tu: `/storage_usb/usr/import`  
+Folder `import` powinien być zawsze pusty.
 
-### My HDD doesn't work or makes a weird clicking sound, what should I do?
+### Mój dysk HDD nie działa lub wydaje dziwny dźwięk klikania, co powinienem zrobić?
 
-The reason behind that is that the Wii U doesn't give enough power through one USB port to use the Hard Drive.
+Powodem takiego stanu rzeczy jest to, że Wii U nie zapewnia wystarczającej ilości zasilania przez jeden port USB, aby używać dysku twardego.
 
-You can fix this by either using a powered HDD or using a Y-Cable to connect the HDD to two USB ports.
+Możesz to naprawić za pomocą zewnętrznego zasilania dysku HDD lub za pomocą kabla Y do podłączenia dysku HDD do dwóch portów USB.
 
-If your HDD worked for some time and then stopped working for some games/all games, it is the same issue and can be fixed with the same methods.
+Jeśli twój HDD pracował przez jakiś czas poprawnie i przestał pracować w przypadku niektórych gier/wszystkich gier, jest to ten sam problem jak wyżej i można go rozwiązać tymi samymi metodami.
 
-### When extracting some of the files there are duplicates of certain ones called "info.json" & "manifest.install", what do I do with those?
+### Podczas pobierania niektórych plików powstają duplikaty niektórych z nich o nazwie "info.json" & "manifest.install", co mam z nimi zrobić?
 
-Nothing special, you can leave them there, delete them or replace them with new ones. Those files are not used in the process, therefore, won't have any impact by being or not being there.
+Nic specjalnego, możesz je tam zostawić, usunąć lub zastąpić nowymi. Pliki te nie są używane, zatem nie jest ważne czy istnieją czy też nie.
 
-### My console suddenly lost online connectivity and I have an HDD sitting on top of the console, what should I do?
+### Moja konsola nagle straciła łączność online, a ja mam na konsoli położony dysk HDD, co powinienem zrobić?
 
-The internal antenna may have been influenced by the hard drive magnet.
-You can move the HDD to a different position atop the Wii U, or move it off the Wii U entirely.
-----------
-
-# SD Card Layout
-This is an example of what your SD Card should look like after you set it up. If you have a `-5` error or the `FSOpenFile failed` error your file locations may be incorrect.
-```
-💾sd:
- ┣ 📂cbhc                             (CBHC only)
- ┃ ┣ 📜bootDrcTex.tga
- ┃ ┣ 📜bootTvTex.tga
- ┃ ┣ 📜iconTex.tga
- ┃ ┗ 📜title.txt
- ┣ 📂haxchi                           (Haxchi & CBHC only)
- ┃ ┣ 📜bootDrcTex.tga
- ┃ ┣ 📜bootTvTex.tga
- ┃ ┣ 📜config.txt
- ┃ ┣ 📜iconTex.tga
- ┃ ┗ 📜title.txt
- ┣ 📂install
- ┃ ┗ 📂Homebrew Launcher Channel      (Haxchi & CBHC only)
- ┃   ┣ 📜00000000.app
- ┃   ┣ 📜00000003.h3
- ┃   ┣ ...
- ┃   ┣ 📜title.cert
- ┃   ┣ 📜title.tik
- ┃   ┗ 📜title.tmd
- ┗ 📂wiiu
-   ┣ 📂apps
-   ┃ ┣ 📂homebrew_launcher
-   ┃ ┃ ┣ 📜homebrew_launcher.elf
-   ┃ ┃ ┣ 📜icon.png
-   ┃ ┃ ┗ 📜meta.xml
-   ┃ ┗ (All other apps like disc2app, nanddumper, etc. should be here too)
-   ┗ 📜payload.elf
-```
+Antena wewnętrzna mogła zostać zakłócona przez magnesy dyskowe.  
+Możesz przesunąć HDD w inne miejsce na Wii U lub całkowicie zdjąć go z Wii U.

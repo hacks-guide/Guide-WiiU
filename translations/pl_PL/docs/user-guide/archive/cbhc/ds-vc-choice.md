@@ -1,18 +1,18 @@
-# Archive - CBHC {docsify-ignore-all}
+# Archiwum - CBHC {docsify-ignore-all}
 
-!> **THIS METHOD IS NO LONGER SUPPORTED**  
-**CURRENT METHOD IS AVAILABLE [HERE](../../introduction)**
+!> **TA METODA NIE JEST JUŻ WSPIERANA**  
+**AKTUALNA METODA JEST DOSTĘPNA [TUTAJ](../../introduction)**
 
-## Choose Your DS VC Game
+## Wybierz swoją grę DS VC
 
-The first thing to decide is what DS Virtual Console (usually abbreviated as "VC") game you will buy.  
-Please note that the game you injected Haxchi/CBHC into will not be playable anymore until you uninstall Haxchi/CBHC and reinstall the game from the eShop.
+Na początek musisz wybrać grę DS Virtual Console (w skrócie "VC"), którą kupisz.  
+Pamiętaj, że gra którą kupisz i zainstalujesz w niej Haxchi/CBHC, nie będzie już grywalna dopóki nie odinstalujesz Haxchi/CBHC i ponownie nie zainstalujesz gry z eShop.
 
-### Compatible DS VC Games
+### Kompatybilne gry DS VC
 
-?> If you have a European region console, there is a chance that you might already have got <code>Dr. Kawashima's <wbr>Brain <wbr>Training: <wbr>How <wbr>Old <wbr>is <wbr>Your <wbr>Brain?</code> for free. Head over [to the eShop](https://en-americas-support.nintendo.com/app/answers/detail/a_id/8563/~/how-to-view-previously-downloaded-titles-on-wii-u) and check if you got the game.
+?> Jeśli masz konsolę z regionu Europejskiego, jest szansa, że masz już za darmo <code>Dr. Kawashima's <wbr>Brain <wbr>Training: <wbr>How <wbr>Old <wbr>is <wbr>Your <wbr>Brain?</code>. Udaj się [do eShop](https://en-americas-support.nintendo.com/app/answers/detail/a_id/8563/~/how-to-view-previously-downloaded-titles-on-wii-u) i sprawdź, czy masz jedną z tych gier.
 
-If you do not own any of the games listed below, we recommend buying Brain Age (North America) or Brain Training (Europe) as it currently is in the cheapest price bracket of compatible games and is the game we least expect you to want to play.
+Jeśli nie posiadasz żadnej z gier wymienionych, zalecamy zakup Brain Age (Ameryka Północna) lub Brain Training (Europa), ponieważ obecnie znajdują się one w najtańszym przedziale cenowym zgodnych gier i są to gry w które raczej nie będziesz chciał grać. Poniżej lista kompatybilnych gier DS VC z CBHX.
 
 - **Animal Crossing: Wild World** - [EUR](https://www.nintendo.eu/Games/Nintendo-DS/Animal-Crossing-Wild-World-270011.html "Buy it from the European eShop") [USA](https://www.nintendo.com/games/detail/animal-crossing-wild-world-wii-u/ "Buy it from the American eShop") [JPN](https://www.nintendo.co.jp/titles/20010000023019 "Buy it from the Japanese eShop")
 - **Big Brain Academy** - [EUR](https://www.nintendo.eu/Games/Nintendo-DS/Big-Brain-Academy-270143.html "Buy it from the European eShop") [USA](https://www.nintendo.com/games/detail/big-brain-academy-wii-u/ "Buy it from the American eShop") [JPN](https://www.nintendo.co.jp/titles/20010000013967 "Buy it from the Japanese eShop")

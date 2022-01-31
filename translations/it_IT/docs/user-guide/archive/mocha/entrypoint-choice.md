@@ -1,7 +1,7 @@
-# Archive - Mocha - Choose An Entrypoint
+# Archivio - Mocha - Scegli un Entrypoint
 
-!> **THE METHODS DESCRIBED IN THIS PAGE ARE NO LONGER SUPPORTED**  
-**CURRENT METHOD IS AVAILABLE [HERE](../../introduction)**
+!> **I METODI DESCRITTI IN QUESTA PAGINA NON SONO PIÙ SUPPORTATI**  
+**IL METODO CORRENTE È DISPONIBILE [QUI](../../introduction)**
 
 ## Exploit Online
 

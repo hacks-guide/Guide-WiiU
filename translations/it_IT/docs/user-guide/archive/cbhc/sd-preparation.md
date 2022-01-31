@@ -1,7 +1,7 @@
-# Archive - CBHC
+# Archivio - CBHC
 
-!> **THIS METHOD IS NO LONGER SUPPORTED**  
-**CURRENT METHOD IS AVAILABLE [HERE](../../introduction)**
+!> **QUESTO METODO NON È PIÙ SUPPORTATO**  
+**IL METODO CORRENTE È DISPONIBILE [QUI](../../introduction)**
 
 ## Preparazione Della SD {docsify-ignore}
 
@@ -18,11 +18,11 @@ Ora inseriremo i file del CFW richiesti e alcuni altri file homebrew sulla sched
 - La versione più recente di [WUP Installer GX2](https://wiiubru.com/appstore/zips/wup_installer_gx2.zip).
 - La versione più recente di [Homebrew Launcher Channel](https://github.com/GaryOderNichts/homebrew_launcher/releases/tag/v2.1_fix).
   - Dovrai installare il file `homebrew_launcher_channel.v2.1_fix.zip`.
-- The latest release of [Wii U NAND Dumper](https://wiiubru.com/appstore/zips/nanddumper.zip).
+- La versione più recente di [Wii U NAND Dumper](https://wiiubru.com/appstore/zips/nanddumper.zip).
 - La versione più recente dell'[Homebrew App Store](https://github.com/vgmoose/hbas/releases/latest).
   - Dovrai installare il file `wiiu-extracttosd.zip`.
-- The latest release of [Haxchi](https://wiiubru.com/appstore/zips/haxchi.zip).
-- The latest release of [CBHC](https://wiiubru.com/appstore/zips/cbhc.zip).
+- La versione più recente di [Haxchi](https://wiiubru.com/appstore/zips/haxchi.zip).
+- La versione più recente di [CBHC](https://wiiubru.com/appstore/zips/cbhc.zip).
 - La versione più recente di <a href="docs/files/SaveMii_Mod.zip" download>SaveMii Mod</a>.
 
 ### Istruzioni {docsify-ignore}

@@ -1,13 +1,13 @@
-# Archive - Mocha - Indexiine
+# Archivio - Mocha - Indexiine
 
-!> **THIS METHOD IS NO LONGER SUPPORTED**  
-**CURRENT METHOD IS AVAILABLE [HERE](../../../introduction)**
+!> **QUESTO METODO NON È PIÙ SUPPORTATO**  
+**IL METODO CORRENTE È DISPONIBILE [QUI](../../../introduction)**
 
 ## Modificazioni al Browser Internet {docsify-ignore}
 
-Now that you have your NAND backup in case anything goes wrong later, you can install Indexiine on your system.
+Ora che hai il tuo backup della NAND in caso qualcosa andasse storto, puoi installare indexiine sul tuo sistema.
 
-?> In case you haven't plugged your SD Card back into your Wii U after copying your NAND backup to a computer, do so now.
+?> Nel caso tu non abbia rimesso la tua SD nella tua Wii U dopo aver copiato il backup della NAND sul tuo computer, fallo ora.
 
 
 ### Istruzioni {docsify-ignore}
@@ -20,6 +20,6 @@ Now that you have your NAND backup in case anything goes wrong later, you can in
 1. Premi A per installare Indexiine.
 1. Quando il processo ha finito, chiudi l'Homebrew Launcher per tornare indietro nel tuo Menu Wii U.
 
-The Homebrew Launcher will now be launched every time you launch the Internet Browser even without an internet connection. If you want to visit another website, open it before Indexiine triggers the exploit.
+L'Homebrew Launcher verrà ora avviato ogni volta che aprirai il Browser Internet anche senza una connessione internet. Se vuoi visitare un altro sito, aprilo prima che Indexiine inneschi l'exploit.
 
-?> In case you ever want to uninstall Indexiine, see the [Uninstall Indexiine](../../uninstall-indexiine) page
+?> Nel caso in cui desideri disinstallare Indexiine, vedi la pagina [Disinstalla Indexiine](../../uninstall-indexiine)

@@ -1,14 +1,14 @@
 - **Tiramisu**
-- [Home Page](../introduction)
-- [SD Preparation](sd-preparation)
-- [Browser Exploit](browser-exploit)
-- [Making a NAND Backup](nand-backup)
+- [Strona główna](../introduction)
+- [Przygotowanie SD](sd-preparation)
+- [Exploit przeglądarki](browser-exploit)
+- [Tworzenie kopii zapasowej NAND](nand-backup)
 - [Installing the PayloadLoader](installing-payloadloader)
 - [Autobooting Tiramisu](autobooting)
 - [Finalizing Setup](finalizing-setup)
-- **Links**
+- **Linki**
 - [![GitHub](https://icongr.am/simple/github.svg?color=808080&size=16)GitHub](https://github.com/hacks-guide/Guide-WiiU)
 - [![Discord](https://icongr.am/simple/discord.svg?colored&size=16)Discord](https://discord.gg/C29hYvh)
-- [![Translate](https://icongr.am/material/translate.svg?color=808080&size=16)Translate](https://hacks-guide.crowdin.com/u/projects/10)
+- [![Przetłumacz](https://icongr.am/material/translate.svg?color=808080&size=16)Przetłumacz](https://hacks-guide.crowdin.com/u/projects/10)
 - [Donate](../donations)
 - [About](../about)

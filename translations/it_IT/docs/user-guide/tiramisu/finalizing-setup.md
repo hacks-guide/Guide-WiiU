@@ -1,36 +1,36 @@
 # Tiramisu {docsify-ignore-all}
 
-## Finalizing Setup
+## Completamento dell'installazione
 
-Now that PayloadLoader, Environment Loader and Tiramisu are installed, we are going to finalize the setup.
+Ora che PayloadLoader, Environment Loader e Tiramisu sono installati, possiamo completare l'installazione.
 
-We are going to make the Tiramisu environment start automatically when your console autoboots the Health and Safety Information app (or when manually launching it if you chose not to autoboot it) and select Wii U Menu as default as well as getting additional homebrew apps.
+Faremo in modo che l'ambiente di Tiramisu si avvii automaticamente quando la console avvierà l'app Informazioni per la salute e la sicurezza (o quando la avvierai manualmente se hai scelto di non avviarlo automaticamente) e selezioneremo il Menu Wii U come predefinito oltre a scaricare applicazioni homebrew aggiuntive.
 
-### Setting up PayloadLoader, Environment Loader and Tiramisu
+### Impostare PayloadLoader, Environment Loader e Tiramisu
 
 1. Accendi la tua Wii U.
-    - The Environment Loader should show up.
-1. Using the D-Pad, navigate to `tiramisu` and press Y to set this to your default envrionment, then press A to launch into Tiramisu.
-    - To open the Environment Loader selector in the future, you have hold X while your Wii U is booting up.
-1. On the Tiramisu Boot Selector, the `Wii U Menu` should already be selected, press Y to set this to your default autobooting option, then press A to launch into the Wii U Menu.
-    - To open the Tiramisu Boot Selector in the future, you have hold START (+) while your Wii U is booting up.
+    - L'Environment Loader dovrebbe apparire.
+1. Usando il D-Pad, naviga su `tiramisu` e premi Y per impostarlo come ambiente predefinito, poi premi A per avviare Tiramisu.
+    - Per aprire l'Environment Loader in futuro, è necessario tenere premuto X durante l'avvio della Wii U.
+1. Nel Selettore di Avvio di Tiramisu, il `Menu Wii U` dovrebbe essere già selezionato, premi Y per impostarlo come opzione predefinita di autoavvio, e premi A per avviare il Menu Wii U.
+    - In futuro, per aprire il Selettore di Avvio di Tiramisu, è necessario tenere premuto START (+) mentre la Wii U si avvia.
 
-?> Once you're booted into the Tiramisu environment, you can open the Mii Maker at any time to get into the Homebrew Launcher. <br>To get back into the Mii Maker, simply press the HOME button while in the Homebrew Launcher.
+?> Una volta entrato nell'ambiente Tiramisu, puoi aprire il Mii Maker in qualsiasi momento per entrare nell'Homebrew Launcher. <br>Per tornare al Mii Maker, premi semplicemente il tasto HOME mentre sei nell'Homebrew Launcher.
 
-### Additional Homebrew Apps
+### App Homebrew Aggiuntive
 
-- **SaveMii mod** is a homebrew app that lets you manage your Wii U and vWii save data.
-- **Bloopair** is a Tiramisu module that lets you wirelessly connect most popular Bluetooth capable controllers. See [this page](https://gbatemp.net/threads/bloopair-connect-controllers-from-other-consoles-natively.594289/) for more details.
-- The **Homebrew Appstore** lets you browse and download homebrew apps directly from your Wii U.
+- **SaveMii mod** è un'app homebrew che serve a gestire la tua Wii U e i salvataggi del vWii.
+- **Bloopair** è un modulo di Tiramisu che ti permette di connettere i controller Bluetooth più popolari in modo wireless. Vedi [questa pagina](https://gbatemp.net/threads/bloopair-connect-controllers-from-other-consoles-natively.594289/) per maggiori dettagli.
+- L'**Homebrew Appstore** ti permette di navigare e scaricare app homebrew direttamente dalla tua Wii U.
 
-### Additional Homebrew Apps - What You Need
+### App Homebrew aggiuntive - Cosa ti serve
 
-- The latest version of [SaveMii mod](https://wiiubru.com/appstore/zips/savemii_mod.zip).
-- The latest version of [Bloopair - Tiramisu Edition](https://github.com/GaryOderNichts/Bloopair/releases).
-- `wiiu-extracttosd.zip` of the [HB Appstore](https://gitlab.com/4TU/hb-appstore/-/releases).
+- La versione più recente di [SaveMii mod](https://wiiubru.com/appstore/zips/savemii_mod.zip).
+- La versione più recente di [Bloopair - Tiramisu Edition](https://github.com/GaryOderNichts/Bloopair/releases).
+- `wiiu-extracttosd.zip` of the [HB Appstore](https://github.com/fortheusers/hb-appstore/releases/).
 
-### Additional Homebrew Apps - Extracting Files to the SD Card
+### App Homebrew aggiuntive - Estrazione dei file sulla scheda SD
 
-1. Copy the contents of the newly downloaded `savemii_mod.zip` file to the root of your SD Card.
-1. Copy the contents of the newly downloaded `Bloopair_vX.X.X-tiramisu.zip` file to the root of your SD Card.
-1. Copy the contents of the newly downloaded `wiiu-extracttosd.zip` file to the root of your SD Card.
+1. Copia nella root della tua scheda SD i contenuti di `savemii_mod.zip` appena scaricato.
+1. Copia nella root della tua scheda SD i contenuti di `Bloopair_vX.X.X-tiramisu.zip` appena scaricato.
+1. Copia nella root della tua scheda SD i contenuti di `wiiu-extracttosd.zip` appena scaricato.

@@ -1,25 +1,25 @@
-# Archive - Mocha - Indexiine
+# Archiwum - Mocha - Indexiine
 
-!> **THIS METHOD IS NO LONGER SUPPORTED**  
-**CURRENT METHOD IS AVAILABLE [HERE](../../../introduction)**
+!> **TA METODA NIE JEST JUŻ WSPIERANA**  
+**AKTUALNA METODA JEST DOSTĘPNA [TUTAJ](../../../introduction)**
 
-## Internet Browser Modding {docsify-ignore}
+## Modyfikacja przeglądarki internetowej {docsify-ignore}
 
-Now that you have your NAND backup in case anything goes wrong later, you can install Indexiine on your system.
+Mając kopię zapasową NAND na wypadek, gdy coś poszło nie tak, możesz zainstalować Indexiine w swoim systemie.
 
-?> In case you haven't plugged your SD Card back into your Wii U after copying your NAND backup to a computer, do so now.
+?> Jeśli nie podłączyłeś karty SD z powrotem do Wii U po skopiowaniu kopii zapasowej NAND do komputera, zrób to teraz.
 
 
-### Instructions {docsify-ignore}
+### Instrukcje {docsify-ignore}
 
-1. Turn on your Wii U.
-1. Launch the internet browser and open the website `wiiuexploit.xyz`.
-1. Click on `Run Homebrew Launcher!`. Your console should launch the Homebrew Launcher.
-    - If your Wii U gets stuck on a white or otherwise frozen screen, wait a few seconds. If nothing happens, reboot the console, [reset the browser's save data](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1507/~/how-to-delete-the-internet-browser-history) and try again.
-1. Navigate through the Homebrew Launcher and launch the `Indexiine Installer` app.
-1. Press the A button to install Indexiine.
-1. When the process completed, close the Homebrew Launcher to get back to your Wii U menu.
+1. Włącz Wii U.
+1. Uruchom przeglądarkę internetową i przejdź do strony `wiiuexploit.xyz`.
+1. Kliknij na `Run Homebrew Launcher!`. Twoja konsola powinna uruchomić Homebrew Launcher.
+    - Jeśli Twój Wii U utknie na białym ekranie lub się zawiesi, odczekaj kilka sekund. Jeśli nic się nie zmieni po kilku/kilkunastu sekundach, zrestartuj konsolę, [zresetuj zapisane dane przeglądarki](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1507/~/how-to-delete-the-internet-browser-history) i spróbuj ponownie.
+1. Przejdź do Homebrew Launcher i uruchom aplikację `Indexiine Installer`.
+1. Naciśnij przycisk A, aby zainstalować Indexiine.
+1. Po zakończeniu procesu, zamknij Homebrew Launcher aby wrócić do menu Wii U.
 
-The Homebrew Launcher will now be launched every time you launch the Internet Browser even without an internet connection. If you want to visit another website, open it before Indexiine triggers the exploit.
+Homebrew Launcher będzie uruchamiany za każdym razem, gdy uruchomisz przeglądarkę internetową nawet bez połączenia z Internetem. Jeśli chcesz odwiedzić inną stronę, otwórz ją, zanim Indexiine uruchomi exploit.
 
-?> In case you ever want to uninstall Indexiine, see the [Uninstall Indexiine](../../uninstall-indexiine) page
+?> Jeśli chcesz odinstalować Indexiine, zobacz stronę [Odinstaluj indexiine](../../uninstall-indexiine)

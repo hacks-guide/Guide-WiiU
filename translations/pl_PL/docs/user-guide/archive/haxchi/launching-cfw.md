@@ -1,24 +1,24 @@
-# Archive - Haxchi
+# Archiwum - Haxchi
 
-!> **THIS METHOD IS NO LONGER SUPPORTED**  
-**CURRENT METHOD IS AVAILABLE [HERE](../../introduction)**
+!> **TA METODA NIE JEST JUŻ WSPIERANA**  
+**AKTUALNA METODA JEST DOSTĘPNA [TUTAJ](../../introduction)**
 
-## Launching CFW {docsify-ignore}
+## Uruchamianie CFW {docsify-ignore}
 
-Now that you have your NAND backup in case anything goes wrong later, you can run CFW on your system.
+Mając kopię zapasową NAND na wypadek, gdyby coś poszło nie tak, możesz uruchomić CFW w swoim systemie.
 
-Unlike systems such as the DSi, Wii, or 3DS, Wii U CFW is temporary. This means that as soon as your system reboots, you will lose CFW and have to follow these instructions again. This can be skipped by installing CBHC to a Haxchi CFW installation.
+W przeciwieństwie do takich systemów jak DSi, Wii lub 3DS, Wii U CFW ma charakter tymczasowy. Oznacza to, że gdy tylko system zrestartuje się, CFW przestanie działać i znowu musisz postępować zgodnie z tą instrukcją. Można to ominąć poprzez zainstalowanie CBHC jako dodatek do instalacji Haxchi CFW.
 
-### Instructions {docsify-ignore}
+### Instrukcje {docsify-ignore}
 
-?> If the install fails for some reason, try uninstalling and redownloading the DS VC game from the eShop and make sure it is being installed to the NAND.
+?> Jeśli instalacja nie powiedzie się z jakiegoś powodu, spróbuj odinstalować i ponownie pobrać grę DS VC z eShop i upewnij się, że jest zainstalowana w NAND.
 
-1. Take the SD Card out of your PC and plug it into your Wii U.
-1. If you haven't already, now download your DS VC game of choice from the eShop.
-1. Launch the Homebrew Launcher on your system as [previously explained](browser-exploit).
-1. Navigate the Homebrew Launcher and open the Haxchi app.
-1. Use the D-Pad to navigate the cursor to the game you want to install Haxchi to and press the A button to install it.
-1. Once the installation has finished, your console will launch the Wii U Menu. You will see your game replaced by a Haxchi icon.
-1. Run the modified DS game. This will reboot the console and enable CFW.
-1. You will need to run your Haxchi DS game every reboot to launch CFW.
-1. You can now re-attach any USB devices you had attached before starting the guide.
+1. Wyciągnij kartę SD ze swojego komputera i podłącz ją do Wii U.
+1. Jeśli jeszcze tego nie zrobiłeś, pobierz wybraną grę DS Virtual Console z eShop.
+1. Uruchom Homebrew Launcher na swoim systemie, zgodnie z tym co [wcześniej opisano](browser-exploit).
+1. Przejdź do Homebrew Launcher i otwórz aplikację Haxchi.
+1. Użyj D-Pada, aby ustawić kursor na grze, na której chcesz zainstalować Haxchi i naciśnij przycisk A, aby to zrobić.
+1. Po zakończeniu instalacji, twoja konsola uruchomi menu Wii U. Zobaczysz, że Twoja gra została zastąpiona przez ikonę Haxchi.
+1. Uruchom zmodyfikowaną grę DS. Spowoduje to ponowne uruchomienie konsoli i włączenie CFW.
+1. Będziesz musiał uruchamiać swoją grę Haxchi DS po każdym ponownym uruchomieniu CFW.
+1. Możesz teraz ponownie podłączyć wszystkie urządzenia USB, które odłączyłeś przed rozpoczęciem tego poradnika.

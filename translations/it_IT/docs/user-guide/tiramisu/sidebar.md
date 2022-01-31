@@ -3,9 +3,9 @@
 - [Preparazione della SD](sd-preparation)
 - [Exploit del Browser](browser-exploit)
 - [Fare un Backup della NAND](nand-backup)
-- [Installing the PayloadLoader](installing-payloadloader)
-- [Autobooting Tiramisu](autobooting)
-- [Finalizing Setup](finalizing-setup)
+- [Installare il PayloadLoader](installing-payloadloader)
+- [Avvio automatico di Tiramisu](autobooting)
+- [Completamento del setup](finalizing-setup)
 - **Collegamenti**
 - [![GitHub](https://icongr.am/simple/github.svg?color=808080&size=16)GitHub](https://github.com/hacks-guide/Guide-WiiU)
 - [![Discord](https://icongr.am/simple/discord.svg?colored&size=16)Discord](https://discord.gg/C29hYvh)

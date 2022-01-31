@@ -27,7 +27,7 @@ Vi skal gjøre så Tiramisu environmentet starter automatisk når konsollen auto
 
 - Siste utgave av [SaveMii mod](https://wiiubru.com/appstore/zips/savemii_mod.zip).
 - Siste utgave av [Bloopair - Tiramisu Edition](https://github.com/GaryOderNichts/Bloopair/releases).
-- `wiiu-extracttosd.zip` fra [HB Appstore](https://gitlab.com/4TU/hb-appstore/-/releases).
+- `wiiu-extracttosd.zip` fra [HB Appstore](https://github.com/fortheusers/hb-appstore/releases/).
 
 ### Ekstra Homebrew Apper - Pakke ut Filer to SD-Kortet
 
