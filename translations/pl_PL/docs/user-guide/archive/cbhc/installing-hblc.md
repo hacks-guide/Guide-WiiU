@@ -1,21 +1,21 @@
-# Archive - CBHC
+# Archiwum - CBHC
 
-!> **THIS METHOD IS NO LONGER SUPPORTED**  
-**CURRENT METHOD IS AVAILABLE [HERE](../../introduction)**
+!> **TA METODA NIE JEST JUŻ WSPIERANA**  
+**AKTUALNA METODA JEST DOSTĘPNA [TUTAJ](../../introduction)**
 
-## Installing the Homebrew Launcher Channel {docsify-ignore}
+## Instalacja kanału Homebrew Launcher {docsify-ignore}
 
-This page will install the Homebrew Launcher Channel as an application directly to your Home Menu for easy access.
+Na tej stronie dowiesz się jak zainstalować kanał Homebrew Launcher jako aplikację, bezpośrednio do Home Menu.
 
-?> This page is only for Haxchi and CBHC users. The Homebrew Launcher Channel (the version of the Homebrew Channel you launch from the Wii U Menu) will **not** work with Mocha CFW!
+?> Ten poradnik jest tylko dla użytkowników Haxchi i CBHC. Homebrew Launcher Channel (wersja Homebrew Channel uruchamiana przez Wii U Menu) **nie** będzie działać z Mocha CFW!
 
-### Instructions {docsify-ignore}
+### Instrukcje {docsify-ignore}
 
-1. Power on your console.
-1. Press the Home button during the `Autobooting...` screen to get into the boot menu.
-1. Select `Boot Homebrew Launcher` to launch the Homebrew Launcher.
-1. Navigate the Homebrew Launcher and launch the WUP Installer GX2 application.
-1. Use the touchscreen to select `Homebrew Launcher Channel`. Press `Install` and confirm with `Yes`.
-1. Select NAND as the installation destination. This will install the Homebrew Launcher Channel to the Wii U Menu.
+1. Włącz konsolę.
+1. Naciśnij przycisk Home podczas ekranu `Autobooting...`, aby dostać się do menu uruchamiania.
+1. Wybierz `Boot Homebrew Launcher`, aby uruchomić Homebrew Launcher.
+1. Przejdź do Homebrew Launcher, znajdź i uruchom aplikację WUP Installer GX2.
+1. Użyj ekranu dotykowego, aby wybrać `Homebrew Launcher Channel`. Naciśnij `Install` i potwierdź naciskając `Yes`.
+1. Wybierz NAND jako miejsce docelowe instalacji. Spowoduje to instalację kanału Homebrew Launcher w menu Wii U.
 1. Once the process is finished, press the Home button until you're back at the Wii U Menu.
 1. You will now see the Homebrew Launcher Channel installed on your Wii U Menu.
