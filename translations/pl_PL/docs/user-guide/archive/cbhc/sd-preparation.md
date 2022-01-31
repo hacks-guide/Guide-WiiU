@@ -33,7 +33,7 @@ W tym punkcie umieścimy wymagane pliki CFW i dodatkowe pliki homebrew na karcie
 1. Utwórz folder o nazwie `install` w katalogu głównym karty SD.
 1. Skopiuj zawartość pliku `homebrew_launcher_channel.v2.1_fix.zip` do folderu `install`.
 1. Skopiuj zawartość pliku `haxchi.zip` do katalogu głównego karty SD.
-1. Copy the contents of the `cbhc.zip` file to the root of your SD Card.
+1. Skopiuj zawartość pliku `cbhc.zip` do katalogu głównego karty SD.
 1. Skopiuj zawartość pliku `wup_installer_gx2.zi` do katalogu głównego karty SD.
 1. Skopiuj zawartość pliku `nanddumper.zip` do katalogu głównego karty SD.
 1. Skopiuj zawartość pliku `wiiu-extracttosd.zip` do katalogu głównego karty SD.
@@ -42,10 +42,10 @@ W tym punkcie umieścimy wymagane pliki CFW i dodatkowe pliki homebrew na karcie
 1. Skopiuj `payload.elf` z `payload.zip` do folderu `wiiu` na karcie SD.
 ----------
 
-### SD Card Layout {docsify-ignore}
+### Układ karty SD {docsify-ignore}
 
 <details>
-<summary>Click here to show the final SD Card layout.</summary>
+<summary>Kliknij tutaj, aby wyświetlić końcowy układ plików na karcie SD.</summary>
 
 ```
 💾sd:
@@ -74,7 +74,7 @@ W tym punkcie umieścimy wymagane pliki CFW i dodatkowe pliki homebrew na karcie
    ┃ ┃ ┣ 📜homebrew_launcher.elf
    ┃ ┃ ┣ 📜icon.png
    ┃ ┃ ┗ 📜meta.xml
-   ┃ ┗ (All other apps like disc2app, nanddumper, etc. should be here too)
+   ┃ ┗ (Wszystkie inne aplikacje jak disc2app, nanddumper, etc. powinny być tu)
    ┗ 📜payload.elf
 ```
 
