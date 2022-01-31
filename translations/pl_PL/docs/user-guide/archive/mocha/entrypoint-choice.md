@@ -5,13 +5,13 @@
 
 ## Online Exploit
 
-- Requires an Internet connection every time you want to launch the Homebrew Launcher.
+- Wymaga połączenia z Internetem za każdym razem, gdy chcesz uruchomić Homebrew Launcher.
 
-### [**Continue with the Online Exploit**](online-exploit/sd-preparation) {docsify-ignore}
+### [**Kontynuuj z Online Exploit**](online-exploit/sd-preparation) {docsify-ignore}
 
 ## Indexiine
 
-- Requires an Internet connection for the setup process but can be used offline once it's been setup.
-- Requires you to modify a system file.
+- Wymaga połączenia z Internetem do konfiguracji, ale może być używana offline po jego ustawieniu.
+- Wymaga modyfikacji pliku systemowego.
 
-### [**Continue with Indexiine**](indexiine/sd-preparation) {docsify-ignore}
+### [**Kontynuuj z Indexiine**](indexiine/sd-preparation) {docsify-ignore}
