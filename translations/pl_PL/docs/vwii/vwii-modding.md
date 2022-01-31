@@ -18,14 +18,14 @@ We will now place the required Homebrew files on the SD Card.
 - The <a href="docs/files/Patched_IOS80_Installer_for_vWii.zip" download>Patched IOS 80 Installer for vWii</a>.
 - The <a href ="docs/files/d2x_cIOS_Installer.zip" download>d2x cIOS Installer</a>.
 
-### Instructions {docsify-ignore}
+### Instrukcje {docsify-ignore}
 
-1. Insert your Wii U's SD Card into your PC.
+1. Włóż kartę SD Wii U do komputera.
 1. Copy the `apps` folder from the <code>Patched_<wbr>IOS80_<wbr>Installer_<wbr>for_<wbr>vWii<wbr>.zip</code> file to the root of your SD Card.
 1. Copy the contents of the <code>d2x_<wbr>cIOS_<wbr>Installer<wbr>.zip</code> file to the root of your SD Card.
 1. Copy the contents of the downloaded Tiramisu *`.zip`* file to the root of your SD Card.
 1. Copy the `compat_installer.elf` file to the `wiiu/apps` folder on the root of your SD Card.
-1. Take the SD Card out of your computer and plug it into your Wii U console.
+1. Wyjmij kartę SD ze swojego komputera i podłącz ją do konsoli Wii U.
 
 ### NAND Backup
 
@@ -34,17 +34,17 @@ In case anything goes wrong in the later process and your vWii ends up bricked, 
 ?> If you have recently made a NAND backup that includes SLCCMPT and OTP, feel free to skip this step.
 
 1. Launch the [Wii U NAND Dumper](vwii/browser-exploit).
-1. Use the Wii U GamePad's D-Pad to enter the following configuration:
+1. Użyj D-Pada na Wii U GamePad'zie, aby ustawić następującą konfigurację:
     - Dump SLC: **optional**
     - Dump SLCCMPT: **yes**
     - Dump MLC: **optional**
     - Dump OTP: **yes**
     - Dump SEEPROM: **optional**
-1. Press the A button to start the dumping process.
-1. When the process completed, power off your Wii U, take your SD Card out of the Wii U and plug it into your PC.
+1. Naciśnij przycisk A, aby rozpocząć proces zrzucania na kartę SD.
+1. Po zakończeniu procesu, wyłącz Wii U, wyciągnij kartę SD z Wii U i podłącz ją do komputera.
 1. To make sure you don't lose the files, copy the `slccmpt.bin`, `otp.bin` and if you chose to go with a full backup, `seeprom.bin`, `slc.bin`, and `every mlc.bin.part` file to your computer.
-1. Delete the files from your SD Card to free up space.
-1. Take the SD Card out of your computer and plug it into your Wii U console.
+1. Usuń pliki z karty SD aby zwolnić miejsce.
+1. Wyjmij kartę SD ze swojego komputera i podłącz ją do konsoli Wii U.
 
 ### Installing the Homebrew Channel
 
@@ -64,17 +64,17 @@ In case anything goes wrong in the later process and your vWii ends up bricked, 
 1. Power on your Wii U and launch vWii.
 1. Launch The Homebrew Channel.
 1. Launch d2x cIOS Installer.
-1. Set everything to match the following:
+1. Ustaw wszystko tak jak poniżej:
     - Select cIOS: `v10 beta52 d2x-v10-beta52-vWii`
     - Select cIOS base: `56`
     - Select cIOS slot: `249`
 1. Press the `A` button to install.
-1. Set everything to match the following:
+1. Ustaw wszystko tak jak poniżej:
     - Select cIOS: `v10 beta52 d2x-v10-beta52-vWii`
     - Select cIOS base: `57`
     - Select cIOS slot: `250`
 1. Press the `A` button to install.
-1. Set everything to match the following:
+1. Ustaw wszystko tak jak poniżej:
     - Select cIOS: `v10 beta52 d2x-v10-beta52-vWii`
     - Select cIOS base: `58`
     - Select cIOS slot: `251`
