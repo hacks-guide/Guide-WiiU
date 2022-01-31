@@ -45,14 +45,14 @@ Ten poradnik został napisany przez członków [Nintendo Homebrew Discord Server
 > 
 > - **Dr Clipper**, **ZRicky11**, **dmm** i **FIX94** za <u>Patched IOS80 Installer for vWii</u>.
 > 
-> - **GabyPCgeeK** and **Ryuzaki-MrL** for [SaveMii Mod](https://github.com/GabyPCgeeK/savemii).
+> - **GabyPCgeeK** i **Ryuzaki-MrL** za [SaveMii Mod](https://github.com/GabyPCgeeK/savemii).
 > 
-> - **djskual**, **Loadiine GX2 Team**, **Yardape** and **brienj** for [WUP Installer GX2](https://sourceforge.net/projects/wup-installer-gx2/).
+> - **djskual**, **Loadiine GX2 Team**, **Yardape** i **brienj** za [WUP Installer GX2](https://sourceforge.net/projects/wup-installer-gx2/).
 > 
-> - **koolkdev** for [Wii U NAND Dumper](https://github.com/koolkdev/wiiu-nanddumper).
+> - **koolkdev** za [Wii U NAND Dumper](https://github.com/koolkdev/wiiu-nanddumper).
 > 
-> - **koolkdev** and **Maschell** for [Wii U NAND Dumper payload](https://github.com/wiiu-env/wiiu-nanddumper-payload).
+> - **koolkdev** i **Maschell** za [Wii U NAND Dumper payload](https://github.com/wiiu-env/wiiu-nanddumper-payload).
 > 
-> - **dimok789** for [wupclient.py](https://github.com/dimok789/mocha/blob/master/ios_mcp/wupclient.py).
+> - **dimok789** za [wupclient.py](https://github.com/dimok789/mocha/blob/master/ios_mcp/wupclient.py).
 > 
-> - **TheLordScruffy** for the [vwii-compat-installer](https://github.com/TheLordScruffy/vwii-compat-installer).
+> - **TheLordScruffy** za [vwii-compat-installer](https://github.com/TheLordScruffy/vwii-compat-installer).
