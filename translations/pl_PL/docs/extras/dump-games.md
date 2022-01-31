@@ -1,150 +1,150 @@
-# Dumping Wii U Discs
+# Zrzucanie Zawartości Płyt Wii U
 ---
-Dumping your Discs allows you to install a copy of your game to the system NAND/a USB device so you can play it without needing the disc.
+Zrzucanie zawartości twoich płyt pozwala na zainstalowanie kopii gry w pamięci NAND/USB, dzięki czemu możesz grać bez potrzeby wkładania płyty.
 
-?> Dumping and installing games requires a working Homebrew setup, so make sure to finish the main guide on installing CFW first before following this.
+?> Zrzucanie i instalacja gier wymaga działającej konfiguracji Homebrew, więc upewnij się, że ukończyłeś główny poradnik na temat instalacji CFW zanim przejdziesz dalej.
 
-!> It is **ILLEGAL** to share the files dumped with this guide.  
-If you intend to use this guide to share your dumped games, don't.
+!> **NIELEGALNE** jest udostępnianie plików zrzuconych za pomocą tego poradnika.  
+Jeśli zamierzasz użyć tego przewodnika do dzielenia się twoimi zrzuconymi grami, nie rób tego.
 
-### Instructions {docsify-ignore}
+### Instrukcje {docsify-ignore}
 
 <!-- tabs:start -->
 
-#### **Install To NAND**
+#### **Zainstaluj do NAND**
 
-### Install To NAND
+### Zainstaluj do NAND
 
-?> Installing a game to the system memory (NAND) is not recommended as it's limited to either 8GB or 32GB depending on your model, making you run out of space pretty quickly if you want to install multiple games.
+?> Instalacja gry w pamięci systemowej (NAND) nie jest zalecana, ponieważ jest ona ograniczona do 8GB lub 32GB w zależności od modelu, co sprawia, że miejsce na gry skończy się bardzo szybko.
 
-### What You Need {docsify-ignore}
+### Czego Potrzebujesz {docsify-ignore}
 
-- Your SD Card needs to have enough space to fit the game you want to dump.
-- The latest release of [WUP Installer GX2](https://wiiubru.com/appstore/zips/wup_installer_gx2.zip).
-- The [disc2app](https://wiiubru.com/appstore/zips/disc2app.zip) homebrew application.
+- Karta SD z odpowiednią ilością miejsca na gry, które będziesz zrzucał.
+- Najnowsze wydanie [WUP Installer GX2](https://wiiubru.com/appstore/zips/wup_installer_gx2.zip).
+- Aplikacja homebrew [disc2app](https://wiiubru.com/appstore/zips/disc2app.zip).
 
-### Instructions {docsify-ignore}
+### Instrukcje {docsify-ignore}
 
-1. Copy the contents of the `wup_installer_gx2.zip` file to the root of your SD Card.
-1. Copy the contents of the `disc2app.zip` file to the root of your SD Card.
-1. Take the SD Card out of your PC and plug it into your Wii U.
-1. Power on your Wii U.
-1. Eject your game disc if you have one inserted.
-1. Launch the Homebrew Launcher and start the disc2app app.
-1. Press the A button to start the dumping process to the SD Card.
-1. When prompted, insert the game disc you want to dump.
-1. When the process is complete, your Wii U will launch the Wii U Menu.
-1. Launch the Homebrew Launcher and start the WUP Installer GX2 app.
-1. Select your game (`WUP-X-XXXX`), press `Install` and confirm with `Yes`.
-1. Select NAND as the installation destination.
-1. When the process is complete, your Wii U will launch the Wii U Menu.
-1. You should see your game installed, ready to be played.
-1. Take the SD Card out of your Wii U and plug it into your PC.
-1. Delete the `WUP-X-XXXX` folder in the `install` directory on your SD Card to free up space.
+1. Skopiuj zawartość pliku `wup_installer_gx2.zi` do katalogu głównego karty SD.
+1. Skopiuj zawartość pliku `disc2app.zip` do katalogu głównego karty SD.
+1. Wyciągnij kartę SD ze swojego komputera i podłącz ją do Wii U.
+1. Włącz Wii U.
+1. Wyjmij płytę z grą z czytnika, jeżeli masz jakąkolwiek włożoną.
+1. Uruchom Homebrew Launcher i uruchom aplikację disc2App.
+1. Naciśnij przycisk A, aby rozpocząć proces zrzucania na kartę SD.
+1. Kiedy zostaniesz o to poproszony, włóż dysk z grą, którą chcesz zrzucić.
+1. Po zakończeniu procesu, konsola Wii U uruchomi menu Wii U.
+1. Uruchom Homebrew Launcher i uruchom aplikację WUP Installer GX2.
+1. Wybierz swoją grę (`WUP-X-XXXX`), naciśnij `Install` oraz potwierdź `Yes`.
+1. Wybierz NAND jako miejsce docelowe instalacji.
+1. Po zakończeniu procesu, konsola Wii U uruchomi menu Wii U.
+1. Powinieneś zobaczyć zainstalowaną grę, gotową do gry.
+1. Wyjmij kartę SD ze swojego Wii U i podłącz ją do komputera.
+1. Usuń folder `WUP-X-XXXX` w katalogu `Install` na karcie SD, aby zwolnić miejsce.
 
-#### **Install To USB**
+#### **Instalacja na USB**
 
-### Install To USB
+### Instalacja na USB
 
-?> When installing a game to a USB device, we recommend that you use an HDD and not a flash drive, as those are not optimized for constant reading and writing, therefore making them fail quickly. If your HDD is not externally powered, you will need a Y-cable to connect it to two USB slots on the Wii U.
+?> Podczas instalacji gry na urządzeniu USB zalecamy użycie dysków HDD, a nie dysków flash/SSD, ponieważ nie są one zoptymalizowane do ciągłego odczytywania i zapisywania danych, co sprawia, że szybko się zużywają. Jeśli twój dysk HDD nie jest zasilany z zewnątrz, będziesz potrzebował kabla Y, aby podłączyć go do dwóch gniazd USB na Wii U.
 
-!> In order to install to a USB device, it has to be formatted by the Wii U. Doing this will erase all contents of it, and prevent it from being used on another system unless you reformat it.
+!> Aby zainstalować grę na urządzeniu USB, musi być ono sformatowane przez Wii U. Wykonanie tego kroku spowoduje usunięcie całej zawartości dysku USB i uniemożliwi jego użycie w innym systemie, chyba że go zreformatujesz.
 
-### What You Need {docsify-ignore}
+### Czego Potrzebujesz {docsify-ignore}
 
-- Your SD Card needs to have enough space to fit the game you want to dump.
-- A USB HDD (+ a Y-cable if needed)
-- The latest release of [WUP Installer GX2](https://wiiubru.com/appstore/zips/wup_installer_gx2.zip)
-- The [disc2app](https://wiiubru.com/appstore/zips/disc2app.zip) Homebrew app
+- Karta SD z odpowiednią ilością miejsca na gry, które będziesz zrzucał.
+- Kabel HDD USB (+ kabel Y w razie potrzeby)
+- Najnowsza wersja [WUP Installer GX2](https://wiiubru.com/appstore/zips/wup_installer_gx2.zip)
+- Aplikacja homebrew [disc2app](https://wiiubru.com/appstore/zips/disc2app.zip)
 
-### Instructions {docsify-ignore}
+### Instrukcje {docsify-ignore}
 
-1. Copy the contents of the `wup_installer_gx2.zip` file to the root of your SD Card.
-1. Copy the contents of the `disc2app.zip` file to the root of your SD Card.
-1. Take the SD Card out of your PC and plug it into your Wii U.
-1. Plug your USB HDD into the Wii U.
-1. Power on your Wii U.
-1. Your Wii U will prompt you to format your HDD. Confirm with Yes.
-1. Eject your game disc if you have one inserted
-1. Launch the Homebrew Launcher and start the disc2app app.
-1. Press the A button to start the dumping process to the SD Card.
-1. When prompted, insert the game disc you want to dump
-1. When the process is complete, your Wii U will launch the Wii U Menu.
-1. Launch the Homebrew Launcher and start the WUP Installer GX2 app.
-1. Select your game (`WUP-X-XXXX`), press `Install` and confirm with `Yes`.
-1. Select USB as the installation destination.
-1. When the process is complete, your Wii U will launch the Wii U Menu.
-1. You should see your game installed, ready to be played.
-1. Take the SD Card out of your Wii U and plug it into your PC.
-1. Delete the `WUP-X-XXXX` folder in the `install` directory on your SD Card to free up space.
+1. Skopiuj zawartość pliku `wup_installer_gx2.zi` do katalogu głównego karty SD.
+1. Skopiuj zawartość pliku `disc2app.zip` do katalogu głównego karty SD.
+1. Wyciągnij kartę SD ze swojego komputera i podłącz ją do Wii U.
+1. Podłącz dysk HDD do portu USB Wii U.
+1. Włącz Wii U.
+1. Wii U poprosi Cię o sformatowanie dysku HDD. Potwierdź "Yes".
+1. Wyjmij płytę z grą z czytnika, jeżeli masz jakąkolwiek włożoną
+1. Uruchom Homebrew Launcher i uruchom aplikację disc2App.
+1. Naciśnij przycisk A, aby rozpocząć proces zrzucania na kartę SD.
+1. Kiedy zostaniesz o to poproszony, włóż dysk z grą, którą chcesz zrzucić
+1. Po zakończeniu procesu, Wii U uruchomi menu Wii U.
+1. Uruchom Homebrew Launcher i uruchom aplikację WUP Installer GX2.
+1. Wybierz swoją grę (`WUP-X-XXXX`), naciśnij `Install` i potwierdź `Yes`.
+1. Wybierz USB jako miejsce docelowe instalacji.
+1. Po zakończeniu procesu Wii U uruchomi menu Wii U.
+1. Powinieneś zobaczyć zainstalowaną grę, gotową do gry.
+1. Wyjmij kartę SD ze swojego Wii U i podłącz ją do komputera.
+1. Usuń folder `WUP-X-XXXX` w katalogu `Install` na karcie SD, aby zwolnić miejsce.
 
-#### **Install From USB**
+#### **Instalacja z USB**
 
-### Install From USB
+### Instalacja z USB
 
-?> If you do not have enough space on your SD Card, you can use an advanced technique to install dumps from a USB device. This is not the easiest thing to do and has the disadvantage of only being able to install the game onto your system memory (NAND).
+?> Jeśli nie masz wystarczająco dużo miejsca na karcie SD, możesz użyć zaawansowanej techniki do instalacji zrzutów gier z urządzenia USB. To nie jest najprostsza rzecz do zrobienia i ma wadę, ponieważ jest tylko w stanie zainstalować grę w pamięci systemowej (NAND).
 
-### What You Need {docsify-ignore}
+### Czego Potrzebujesz {docsify-ignore}
 
-- A USB storage device (+a Y-cable if needed) with enough space to fit the game you want to dump.
-- The latest release of [WUP Installer GX2](https://wiiubru.com/appstore/zips/wup_installer_gx2.zip)
-- The [disc2app](https://wiiubru.com/appstore/zips/disc2app.zip) Homebrew app.
-- The [MochaFAT32](https://wiiubru.com/appstore/zips/mocha_fat32.zip) Homebrew app.
-- The  1.4 release of [The Homebrew Launcher](https://github.com/dimok789/homebrew_launcher/releases/tag/1.4)
-  - You will need to download the v1.4 `homebrew_launcher.v.1.4.zip` release.
+- Urządzenie pamięci na USB (+a kabel Y w razie potrzeby) z wystarczającą ilością miejsca, aby zmieścić grę, którą chcesz zrzucić.
+- Najnowsza wersja [WUP Installer GX2](https://wiiubru.com/appstore/zips/wup_installer_gx2.zip)
+- Aplikacja Homebrew [disc2app](https://wiiubru.com/appstore/zips/disc2app.zip).
+- Aplikacja Homebrew [MochaFAT32](https://wiiubru.com/appstore/zips/mocha_fat32.zip).
+- [Homebrew Launcher](https://github.com/dimok789/homebrew_launcher/releases/tag/1.4) w wersji 1.4
+  - Musisz pobrać wersję v1.4 `homebrew_launcher.v.1.4.zip`.
 
-### Instructions {docsify-ignore}
+### Instrukcje {docsify-ignore}
 
-?> **Notice** Your USB device will need to be formatted as FAT32. If your USB is not formatted to FAT32, use [GUIFormat](http://ridgecrop.co.uk/index.htm?guiformat.htm) with 32k (32768) Allocation unit size to format it.
+?> **Uwaga** Twoje urządzenie USB będzie musiało być już sformatowane jako FAT32. Jeśli twoje urządzenie USB nie jest sformatowane do FAT32, użyj [GUIFormat](http://ridgecrop.co.uk/index.htm?guiformat.htm) z 32k (32768) rozmiarem jednostki alokacji do sformatowania.
 
-1. Copy the contents of the `homebrew_launcher.v.1.4.zip` file to the root of your USB device.
-1. Copy the contents of the `wup_installer_gx2.zip` file to the root of your USB device.
-1. Copy the contents of the `disc2app.zip` file to the root of your USB device.
-1. Copy the contents of the `mocha_fat32.zip` file to the root of your SD Card.
-1. Take the SD Card out of your PC and plug it into your Wii U console.
-1. Power on your Wii U.
-1. Plug in your USB device. The Wii U will ask you format it. Cancel with No!
-1. Launch the Homebrew Launcher and start the MochaFAT32 app.
-1. In the configuration menu, set the following settings:
+1. Skopiuj zawartość pliku `homebrew_launcher.v.1.4.zip` do katalogu głównego urządzenia USB.
+1. Skopiuj zawartość pliku `wup_installer_gx2.zip` do katalogu głównego urządzenia USB.
+1. Skopiuj zawartość pliku `disc2app.zip` do katalogu głównego urządzenia USB.
+1. Skopiuj zawartość pliku `mocha_fat32.zip` do katalogu głównego karty SD.
+1. Wyciągnij kartę SD ze swojego komputera i podłącz ją do konsoli Wii U.
+1. Włącz Wii U.
+1. Podłącz swoje urządzenie USB. Wii U zapyta Cię o sformatowanie. Anuluj naciskając "No"!
+1. Uruchom Homebrew Launcher i uruchom aplikację MochaFAT32.
+1. W menu konfiguracji ustaw następujące ustawienia:
     - Config view mode: default
     - Skip this menu on launch: on
     - Don't relaunch OS: off
     - Launch System Menu: on
     - RedNAND: off
-1. Your console will load the Wii U menu with your USB device now replacing the SD Card.
-1. Launch the Homebrew Launcher and open the disc2app app.
-1. Eject any inserted game disc and press the A button to begin the dumping process.
-1. When prompted, insert the game disc you want to dump.
-1. When the process is complete, your Wii U will launch the Wii U Menu.
-1. Launch the Homebrew Launcher and start the WUP Installer GX2 app.
-1. Select your game (`WUP-X-XXXX`), press `Install` and confirm with `Yes`.
-1. Select NAND as the installation destination.
-1. When the process is complete, your Wii U will launch the Wii U Menu.
-1. You should see your game installed, ready to be played.
-1. Take the USB device out of your Wii U and plug it into your PC.
-1. Delete the `WUP-X-XXXX` folder in the `install` directory on your USB device to free up space.
+1. Twoja konsola załaduje menu Wii U za pomocą urządzenia USB zastępującego teraz kartę SD.
+1. Uruchom Homebrew Launcher i otwórz aplikację disc2App.
+1. Wyjmij jakikolwiek włożony dysk z grą i naciśnij przycisk A, aby rozpocząć proces dumpingu.
+1. Kiedy zostaniesz o to poproszony, włóż dysk z grą, którą chcesz zrzucić.
+1. Po zakończeniu procesu Wii U uruchomi menu Wii U.
+1. Uruchom Homebrew Launcher i uruchom aplikację WUP Installer GX2.
+1. Wybierz swoją grę (`WUP-X-XXXX`), naciśnij `Install` i potwierdź `Yes`.
+1. Wybierz NAND jako miejsce docelowe instalacji.
+1. Po zakończeniu procesu Wii U uruchomi menu Wii U.
+1. Powinieneś zobaczyć zainstalowaną grę, gotową do gry.
+1. Odłącz urządzenie USB z Wii U i podłącz je do komputera.
+1. Usuń folder `WUP-X-XXXX` w katalogu `Install` na urządzeniu USB, aby zwolnić miejsce.
 
 <!-- tabs:end -->
 
-### Moving Games To USB
+### Przenoszenie gier do USB
 
-?> If you don't want to keep the game installed on NAND, you can use the Wii U's data management to move the game to a USB device.
+?> Jeśli nie chcesz zachować gry zainstalowanej na NAND, możesz użyć zarządzania danymi Wii U, aby przenieść grę na urządzenie USB.
 
-!> In order to move your game to a USB device, it has to be formatted by the Wii U. Doing this will erase all contents of it, and prevent it from being used on another system unless you reformat it.
+!> Aby przenieść swoją grę na urządzenie pamięci USB, urządzenie musi zostać sformatowane przez Wii U. Wykonanie tego kroku spowoduje usunięcie całej zawartości tego urządzenia i uniemożliwi jego użycie w innym systemie, chyba że ponownie go zreformujesz.
 
-1. Reboot your Wii U to remove the effect of MochaFAT32.
-1. Plug your USB device into the Wii U.
-1. Power on your Wii U.
-1. Your Wii U will prompt you to format your USB device. Confirm with Yes.
-1. Open the Wii U's System Settings.
-1. Navigate to `Data Management > Copy/Move/Delete Data > System Memory > Move Items (X)`
-1. Select the game and move all data (including updates and DLC if any are installed) to your USB device.
+1. Uruchom ponownie Wii U, aby wyłączyć działanie MochaFAT32.
+1. Podłącz urządzenie USB do Wii U.
+1. Włącz Wii U.
+1. Twój Wii U poprosi Cię o sformatowanie urządzenia USB. Potwierdź "Yes".
+1. Otwórz System Settings na Wii U.
+1. Przejdź do `Data Management > Copy/Move/Delete Data > System Memory > Move Items (X)`
+1. Wybierz grę i przenieś wszystkie dane (w tym aktualizacje i DLC, jeśli są zainstalowane) na swoje urządzenie USB.
 
-### Move Updates To USB
+### Przenoszenie Aktualizacji Na USB
 
-?> If your disc game had DLC or updates installed, you will need to transfer the files over to your USB device. You can do this using the Wii U's data management.
+?> Jeśli twoja gra ma zainstalowane DLC lub aktualizacje, będziesz musiał przenieść te pliki na swoje urządzenie USB. Mozesz to zrobic korzystając z Data Management na Wii U.
 
-1. Power on your Wii U
-1. Open the Wii U's System Settings.
-1. Navigate to `Data Management > Copy/Move/Delete Data > System Memory > Move Items (X)`.
-1. Select your game and move the update and DLC data to the USB device.
+1. Włącz Wii U
+1. Otwórz System Settings na Wii U.
+1. Przejdź do `Data Management > Copy/Move/Delete Data > System Memory > Move Items (X)`.
+1. Wybierz swoją grę i przenieś aktualizację i dane DLC do urządzenia USB.
