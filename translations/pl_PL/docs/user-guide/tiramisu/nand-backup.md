@@ -1,12 +1,12 @@
 # Tiramisu {docsify-ignore-all}
 
-## Making a NAND Backup
+## Tworzenie kopii zapasowej NAND
 
-In case anything should go wrong in the later process and your Wii U ends up bricked, restoring a previously made NAND backup can fix it.
+W sytuacji, gdyby cokolwiek poszło nie tak w późniejszym procesie i Twoja Wii U zostanie uszkodzona, przywracanie poprzednio utworzonej kopii zapasowej NAND może ją naprawić.
 
 ### Instrukcje
 
-?> The Wii U NAND is (depending on your model) either 8GB or 32GB. As a result of this, to create a full backup of your console's NAND, your SD Card has to be larger than the size of your NAND. Jeśli nie masz wystarczająco dużej karty SD, możesz pominąć opcjonalną sekcję `MLC`, która zawiera zapisane pliki i dane gry i nie jest potrzebna do odzyskania w przypadku większości uszkodzeń.
+?> Wii U NAND w zależności od modelu ma pojemność 8GB albo 32GB. W związku z tym, aby utworzyć pełną kopię zapasową NAND Twojej konsoli, Twoja karta SD musi być większa niż rozmiar Twojego NAND. Jeśli nie masz wystarczająco dużej karty SD, możesz pominąć opcjonalną sekcję `MLC`, która zawiera zapisane pliki i dane gry i nie jest potrzebna do odzyskania w przypadku większości uszkodzeń.
 
 ?> Przywracanie kopii zapasowej NAND na Wii U wymaga dodatkowych umiejętności sprzętowych i mikrolutowniczych. <br>Jednak tworzenie kopii zapasowej NAND jest **zawsze** przydatne, więc nie pomijaj tego etapu. <br>Twoja kopia zapasowa NAND jest unikalna dla Twojego systemu. Kopie zapasowe z innych konsoli **nie będą** działać.
 
