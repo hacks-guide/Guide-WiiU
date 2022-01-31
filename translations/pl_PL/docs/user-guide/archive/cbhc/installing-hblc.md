@@ -17,5 +17,5 @@ Na tej stronie dowiesz się jak zainstalować kanał Homebrew Launcher jako apli
 1. Przejdź do Homebrew Launcher, znajdź i uruchom aplikację WUP Installer GX2.
 1. Użyj ekranu dotykowego, aby wybrać `Homebrew Launcher Channel`. Naciśnij `Install` i potwierdź naciskając `Yes`.
 1. Wybierz NAND jako miejsce docelowe instalacji. Spowoduje to instalację kanału Homebrew Launcher w menu Wii U.
-1. Once the process is finished, press the Home button until you're back at the Wii U Menu.
-1. You will now see the Homebrew Launcher Channel installed on your Wii U Menu.
+1. Po zakończeniu instalacji naciśnij przycisk HOME i wróć do menu głównego Wii U.
+1. Teraz zobaczysz Homebrew Launcher zainstalowany w menu Wii U.
