@@ -26,18 +26,18 @@ The custom firmware you decide to use is ultimately **your** preference. There i
 
 !> Breaking one of the above rules **can** result in a brick!
 
-> If you are worried about breaking one of these rules while using CBHC, consider setting up Parental Controls for your user! Blocking `Data Management` and setting `Game Rating` to the highest possible rating can help prevent common mistakes users may make when using CBHC. Check [here](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1081/~/how-to-change-parental-controls) for more information on how to change your Parental Controls settings.
+> Jeśli obawiasz się, przypadkowego złamania jednej z powyższych zasad, ustaw Parental Controls dla wybranego użytkownika! Zablokowanie `Data Management` i ustawienie `Game Rating` na najwyższy poziom, pomoże w uniknięciu błędów podczas używania CBHC. Wejdź [tu](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1081/~/how-to-change-parental-controls), aby uzyskać więcej informacji na temat zmiany ustawień kontrolki rodzicielskiej.
 
-- Requires a legitimately installed paid DS Virtual Console game from the eShop.
-- Automatically launches custom firmware on every boot.
+- Wymaga legalnie zainstalowanej, płatnej gry DS Virtual Console z eShop.
+- Automatycznie uruchamia niestandardowe oprogramowanie przy każdym uruchomieniu.
 
-### [**Continue with CBHC**](cbhc/ds-vc-choice) {docsify-ignore}
+### [**Kontynuuj z CBHC**](cbhc/ds-vc-choice) {docsify-ignore}
 
 ## Mocha
 
-- Does not require any game, and is therefore free.
-- Needs to be re-launched through the browser exploit every reboot to enable custom firmware.
-- Is not compatible with the Homebrew Launcher Channel.
-- May require an Internet connection depending on what entry point you choose.
+- Nie wymaga żadnej gry, a zatem jest darmowa.
+- Musi być uruchamiana przez exploit przeglądarki po każdym restarcie, aby włączyć niestandardowe oprogramowanie firmware.
+- Nie jest kompatybilna z Homebrew Launcher Channel.
+- Może wymagać połączenia z Internetem w zależności od wybranego przez Ciebie punktu wejścia.
 
-### [**Continue with Mocha**](mocha/entrypoint-choice) {docsify-ignore}
+### [**Kontynuuj z Mochą**](mocha/entrypoint-choice) {docsify-ignore}
