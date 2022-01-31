@@ -1,29 +1,29 @@
-- **User Guide**
-- [Introduction](introduction)
+- **Poradnik użytkownika**
+- [Wprowadzanie](introduction)
 - [Tiramisu](tiramisu/sd-preparation)
 - **vWii**
-- [vWii Modding](vwii-modding)
-- **Troubleshooting**
-- [Common Issues & Fixes](common-issues-fixes)
-- [Recover a vWii IOS/Channel](recover-vwii-ioses-channels)
-- [Fix Error Code 112-1037](fix-errcode-112-1037)
+- [Modyfikacja vWii](vwii-modding)
+- **Rozwiązywanie problemów**
+- [Najczęstsze problemy & ich naprawa](common-issues-fixes)
+- [Odzyskiwanie vWii IOS/Channel](recover-vwii-ioses-channels)
+- [Napraw kod błędu 112-1037](fix-errcode-112-1037)
 - **Extras**
-- [Blocking Updates](block-updates)
-- [Unblocking Updates](unblock-updates)
-- [Dumping Wii U Discs](dump-games)
-- [Dumping Wii Discs](dump-wii-games)
-- [Uninstall CBHC](uninstall-cbhc)
-- [Uninstall Indexiine](uninstall-indexiine)
-- [Uninstall Payloadloader](uninstall-payloadloader)
-- [Frequently Asked Questions](faq)
-- **Archive**
-- [Previous Methods](archive/cfw-choice)
+- [Blokowanie Aktualizacji](block-updates)
+- [Odblokowanie Aktualizacji](unblock-updates)
+- [Zrzucanie Zawartości Płyt Wii U](dump-games)
+- [Zrzucanie Zawartości Płyt z Grami Wii](dump-wii-games)
+- [Odinstalowanie CBHC](uninstall-cbhc)
+- [Odinstalowanie Indexiine](uninstall-indexiine)
+- [Odinstalowanie PayloadLoader](uninstall-payloadloader)
+- [Często Zadawane Pytania](faq)
+- **Archiwum**
+- [Poprzednie metody](archive/cfw-choice)
 - [Configurable Payload](configurable-payload)
-- **Links**
+- **Linki**
 - [![GitHub](https://icongr.am/simple/github.svg?color=808080&size=16)GitHub](https://github.com/hacks-guide/Guide-WiiU)
 - [![Discord](https://icongr.am/simple/discord.svg?colored&size=16)Discord](https://discord.gg/C29hYvh)
-- [![Translate](https://icongr.am/material/translate.svg?color=808080&size=16)Translate](https://hacks-guide.crowdin.com/u/projects/10)
-- [Donate](donations)
-- [About](about)
-- **Privacy**
-- [Privacy Policy](privacy-policy)
+- [![Przetłumacz](https://icongr.am/material/translate.svg?color=808080&size=16)Przetłumacz](https://hacks-guide.crowdin.com/u/projects/10)
+- [Wesprzyj](donations)
+- [O tej stronie](about)
+- **Prywatność**
+- [Polityka prywatności](privacy-policy)
