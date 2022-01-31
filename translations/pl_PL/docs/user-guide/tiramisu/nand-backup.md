@@ -10,7 +10,7 @@ W sytuacji, gdyby cokolwiek poszło nie tak w późniejszym procesie i Twoja Wii
 
 ?> Przywracanie kopii zapasowej NAND na Wii U wymaga dodatkowych umiejętności sprzętowych i mikrolutowniczych. <br>Jednak tworzenie kopii zapasowej NAND jest **zawsze** przydatne, więc nie pomijaj tego etapu. <br>Twoja kopia zapasowa NAND jest unikalna dla Twojego systemu. Kopie zapasowe z innych konsoli **nie będą** działać.
 
-1. Navigate to `nanddumper` using the GamePad and press A to launch it.
+1. Przejdź do `nanddumper` za pomocą GamePad i naciśnij A, aby go uruchomić.
 1. Użyj D-Pada na Wii U GamePad'zie, aby ustawić następującą konfigurację:
     - Dump SLC: **yes**
     - Dump SLCCMPT: **yes**
@@ -22,4 +22,4 @@ W sytuacji, gdyby cokolwiek poszło nie tak w późniejszym procesie i Twoja Wii
 1. Aby upewnić się, że nie utracisz plików, skopiuj `slc.bin`, `slccmpt.bin`, `seeprom.bin`, `otp.bin` i jeśli zdecydowałeś się na pełną kopię zapasową, `również mlc.bin.part` na komputer.
 1. Usuń pliki z karty SD aby zwolnić miejsce.
 
-?> **If the PayloadLoader is already installed into the Health and Safety Information app and your console is already autobooting it, you do not need to continue following the guide.**
+?> **Jeśli PayloadLoader jest już zainstalowany w aplikacji Health and Safety Information i uruchamia się przy starcie automatycznie, nie musisz kontynuwać dalej.**

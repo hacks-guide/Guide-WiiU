@@ -1,23 +1,23 @@
 # Tiramisu {docsify-ignore-all}
 
-## SD Preparation
+## Przygotowanie karty SD
 
-We will now place the required CFW files and some additional homebrew files on the SD Card.
+Teraz umieścimy wymagane pliki CFW i dodatkowe pliki homebrew na karcie SD.
 
-?> **Notice** Your SD Card will need to be formatted as FAT32. If your SD Card is not formatted to FAT32, use [GUIFormat](http://ridgecrop.co.uk/index.htm?guiformat.htm) with 32k (32768) allocation unit size to format it. </br> **Do not** label the SD Card as `wiiu` or it will cause issues with homebrew.
+?> **Uwaga** Twoja karta SD będzie musiała być już sformatowana jako FAT32. Jeśli Twoja karta SD nie jest sformatowana do FAT32, użyj [GUIFormat](http://ridgecrop.co.uk/index.htm?guiformat.htm) z ustawieniem 32k (32768) jednostek alokacji aby ją sformatować. **Nie** oznaczaj karty SD jako `wiiu` bo spowoduje to problemy z homebrew.
 
-?> **If you have an existing legacy CFW setup** </br> For **CBHC** users: go to the [Uninstall CBHC](../uninstall-cbhc) page to uninstall CBHC. </br> For **Haxchi** users: uninstall the Haxchi app from Data Management in the System Settings app. </br> For **Mocha CFW (Indexiine)** users: go to the [Uninstall Indexiine](../uninstall-indexiine) page to uninstall Indexiine. </br> For **Mocha CFW (Online Exploit)** users: you do not need to do anything before following this guide.
+?> **Jeśli masz już jakąś inną istniejącą konfigurację CFW** </br> Dla **użytkowników CBHC**: przejdź do strony [Odinstaluj CBHC](../uninstall-cbhc) aby odinstalować CBHC. </br> Dla **użytkowników Haxchi**: odinstaluj aplikację Haxchi z z poziomu Data Management w System Settings. </br> Dla użytkowników **Mocha CFW (Indexiine)**: przejdź do strony [Odinstaluj Indexiine](../uninstall-indexiine) aby odinstalować Indexiine. </br> Dla użytkowników **Mocha CFW (Online Exploit)**: nie musisz nic usuwać.
 
-### What You Need
+### Czego potrzebujesz
 
-- The latest files from [Tiramisu for your café](https://tiramisu.foryour.cafe).
-    - Select `Nanddumper`, `PayloadLoader Installer` and `Base-Tiramisu`.
-- The [01_sigpatches.rpx](/docs/files/01_sigpatches.rpx ":ignore") file.
+- Najnowsze pliki z [Tiramisu for your café](https://tiramisu.foryour.cafe).
+    - Wybierz `Nanddumper`, `PayloadLoader Installer` i `Base-Tiramisu`.
+- Plik [01_sigpatches.rpx](/docs/files/01_sigpatches.rpx ":ignore").
 
-### Instructions
+### Instrukcje
 
-1. Insert your Wii U's SD Card into your PC.
-1. Copy the contents of the newly downloaded Tiramisu *`.zip`* file to the root of your SD Card.
-1. Copy the `01_sigpatches.rpx` file to `/wiiu/environments/tiramisu/modules/setup` on your SD Card.
+1. Włóż kartę SD Wii U do komputera.
+1. Skopiuj zawartość nowo pobranego pliku Tiramisu *`.zip`* do katalogu głównego karty SD.
+1. Skopiuj plik `01_sigpatches.rpx` do `/wiiu/environments/tiramisu/modules/setup` na karcie SD.
 
-?> If your computer asks you to overwrite existing files on your SD Card, you will need to click yes.
+?> Jeśli twój komputer poprosi Cię o nadpisanie istniejących plików na karcie SD, musisz kliknąć Tak.
