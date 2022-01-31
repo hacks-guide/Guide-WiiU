@@ -57,4 +57,4 @@ Zaleca się przeczytanie całego poradnika od początku do końca jeden lub wię
 
 ---
 
-### [Continue to Tiramisu](tiramisu/sd-preparation) {docsify-ignore}
+### [Kontynuuj do Tiramisu](tiramisu/sd-preparation) {docsify-ignore}
