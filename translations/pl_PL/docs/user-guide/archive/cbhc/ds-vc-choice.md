@@ -1,4 +1,4 @@
-# Archive - CBHC {docsify-ignore-all}
+# Archiwum - CBHC {docsify-ignore-all}
 
 !> **TA METODA NIE JEST JUŻ WSPIERANA**  
 **AKTUALNA METODA JEST DOSTĘPNA [TUTAJ](../../introduction)**
