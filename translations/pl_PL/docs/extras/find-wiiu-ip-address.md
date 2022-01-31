@@ -1,4 +1,4 @@
-# How To Find The IP Address of your Wii U
+# Jak znaleźć adres IP twojego Wii U
 ---
 Szybki poradnik jak znaleźć adres IP konsoli Wii U.
 
