@@ -4,22 +4,22 @@
 
 In case anything should go wrong in the later process and your Wii U ends up bricked, restoring a previously made NAND backup can fix it.
 
-### Instructions
+### Instrukcje
 
-?> The Wii U NAND is (depending on your model) either 8GB or 32GB. As a result of this, to create a full backup of your console's NAND, your SD Card has to be larger than the size of your NAND. If you do not have a large enough SD Card, you can skip the optional `MLC` section which includes save files and game data and is not needed to recover most types of bricks.
+?> The Wii U NAND is (depending on your model) either 8GB or 32GB. As a result of this, to create a full backup of your console's NAND, your SD Card has to be larger than the size of your NAND. Jeśli nie masz wystarczająco dużej karty SD, możesz pominąć opcjonalną sekcję `MLC`, która zawiera zapisane pliki i dane gry i nie jest potrzebna do odzyskania w przypadku większości uszkodzeń.
 
-?> Restoring a NAND Backup on the Wii U requires additional hardware and micro soldering skills. <br>However, making a NAND Backup is **always** useful, so please do not skip it. <br>Your NAND Backup is unique to your system. Backups from other consoles **won't** work.
+?> Przywracanie kopii zapasowej NAND na Wii U wymaga dodatkowych umiejętności sprzętowych i mikrolutowniczych. <br>Jednak tworzenie kopii zapasowej NAND jest **zawsze** przydatne, więc nie pomijaj tego etapu. <br>Twoja kopia zapasowa NAND jest unikalna dla Twojego systemu. Kopie zapasowe z innych konsoli **nie będą** działać.
 
 1. Navigate to `nanddumper` using the GamePad and press A to launch it.
-1. Use the Wii U GamePad's D-Pad to enter the following configuration:
+1. Użyj D-Pada na Wii U GamePad'zie, aby ustawić następującą konfigurację:
     - Dump SLC: **yes**
     - Dump SLCCMPT: **yes**
     - Dump MLC: **optional**
     - Dump OTP: **yes**
     - Dump SEEPROM: **yes**
-1. Press the A button to start the dumping process.
-1. When the process completed, power off your Wii U, take your SD Card out of the Wii U and plug it into your PC.
-1. To make sure you don't lose the files, copy the `slc.bin`, `slccmpt.bin`, `seeprom.bin`, `otp.bin` and if you chose to go with a full backup, `every mlc.bin.part` file to your computer.
-1. Delete the files from your SD Card to free up space.
+1. Naciśnij przycisk A, aby rozpocząć proces zrzucania na kartę SD.
+1. Po zakończeniu procesu, wyłącz Wii U, wyciągnij kartę SD z Wii U i podłącz ją do komputera.
+1. Aby upewnić się, że nie utracisz plików, skopiuj `slc.bin`, `slccmpt.bin`, `seeprom.bin`, `otp.bin` i jeśli zdecydowałeś się na pełną kopię zapasową, `również mlc.bin.part` na komputer.
+1. Usuń pliki z karty SD aby zwolnić miejsce.
 
 ?> **If the PayloadLoader is already installed into the Health and Safety Information app and your console is already autobooting it, you do not need to continue following the guide.**
