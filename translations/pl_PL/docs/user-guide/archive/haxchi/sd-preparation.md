@@ -1,4 +1,4 @@
-# Archive - Haxchi
+# Archiwum - Haxchi
 
 !> **TA METODA NIE JEST JUŻ WSPIERANA**  
 **AKTUALNA METODA JEST DOSTĘPNA [TUTAJ](../../introduction)**
@@ -7,20 +7,20 @@
 
 W tym punkcie umieścimy wymagane pliki CFW i dodatkowe pliki homebrew na karcie SD.
 
-?> **Notice** Your SD Card will need to be formatted as FAT32. Jeśli Twoja karta SD nie jest sformatowana do FAT32, użyj [GUIFormat](http://ridgecrop.co.uk/index.htm?guiformat.htm) z 32k (32768) jednostek przydziału aby ją sformatować. **Do not** label the SD Card as `wiiu` or it will cause issues with homebrew.
+?> **Uwaga** Twoje urządzenie SD będzie musiało być już sformatowane jako FAT32. Jeśli Twoja karta SD nie jest sformatowana do FAT32, użyj [GUIFormat](http://ridgecrop.co.uk/index.htm?guiformat.htm) z 32k (32768) jednostek alokacji, aby ją sformatować. **Nie** oznaczaj karty SD jako `wiiu` bo spowoduje to problemy z homebrew.
 
-### What You Need {docsify-ignore}
+### Czego Potrzebujesz {docsify-ignore}
 
-- The latest release of [Homebrew Launcher Installer](https://github.com/wiiu-env/homebrew_launcher_installer/releases/latest).
-  - You will need to download the `payload.zip` file.
-- The 1.4 release of [The Homebrew Launcher](https://github.com/dimok789/homebrew_launcher/releases/tag/1.4).
-  - You will need to download the v1.4 `homebrew_launcher.v1.4.zip` release of The Homebrew Launcher.
+- Najnowsza wersja [Homebrew Launcher Installer](https://github.com/wiiu-env/homebrew_launcher_installer/releases/latest).
+  - Będziesz musiał pobrać plik `payload.zip`.
+- Wersja 1.4 [Homebrew Launcher](https://github.com/dimok789/homebrew_launcher/releases/tag/1.4).
+  - Musisz pobrać wersję v1.4 `homebrew_launcher.v.1.4.zip`.
 - Najnowsze wydanie [WUP Installer GX2](https://wiiubru.com/appstore/zips/wup_installer_gx2.zip).
-- The latest release of [The Homebrew Launcher Channel](https://github.com/GaryOderNichts/homebrew_launcher/releases/tag/v2.1_fix).
+- Najnowsza wersja [The Homebrew Launcher Channel](https://github.com/GaryOderNichts/homebrew_launcher/releases/tag/v2.1_fix).
   - Będziesz musiał pobrać plik `homebrew_launcher_channel.v2.1_fix.zip`.
 - Najnowsza wersja [Wii U NAND Dumper](https://wiiubru.com/appstore/zips/nanddumper.zip).
-- The latest release of the [Homebrew App Store](https://github.com/vgmoose/hbas/releases/latest).
-  - You will need to download the `wiiu-extracttosd.zip` file.
+- Najnowsza wersja [Homebrew App Store](https://github.com/vgmoose/hbas/releases/latest).
+  - Musisz pobrać plik `wiiu-extracttosd.zip`.
 - Najnowsza wersja [Haxchi](https://wiiubru.com/appstore/zips/haxchi.zip).
 - Najnowsza wersja <a href="docs/files/SaveMii_Mod.zip" download>SaveMii Mod</a>.
 
@@ -37,13 +37,13 @@ W tym punkcie umieścimy wymagane pliki CFW i dodatkowe pliki homebrew na karcie
 1. Skopiuj zawartość pliku `wiiu-extracttosd.zip` do katalogu głównego karty SD.
 1. Skopiuj zawartość pliku `homebrew_launcher.v.1.4.zip` do katalogu głównego karty SD.
 1. Skopiuj zawartość pliku `savemii_mod.zip` do katalogu głównego karty SD.
-1. Copy the `payload.elf` from the `payload.zip` to the `wiiu` folder on your SD Card.
+1. Skopiuj `payload.elf` z `payload.zip` do folderu `wiiu` na karcie SD.
 ----------
 
-### SD Card Layout {docsify-ignore}
+### Układ karty SD {docsify-ignore}
 
 <details>
-<summary>Click here to show the final SD Card layout.</summary>
+<summary>Kliknij tutaj, aby wyświetlić końcowy układ plików na karcie SD.</summary>
 
 ```
 💾sd:
@@ -67,7 +67,7 @@ W tym punkcie umieścimy wymagane pliki CFW i dodatkowe pliki homebrew na karcie
    ┃ ┃ ┣ 📜homebrew_launcher.elf
    ┃ ┃ ┣ 📜icon.png
    ┃ ┃ ┗ 📜meta.xml
-   ┃ ┗ (All other apps like disc2app, nanddumper, etc. should be here too)
+   ┃ ┗ (Wszystkie inne aplikacje jak disc2app, nanddumper, etc. powinny być tu)
    ┗ 📜payload.elf
 ```
 
