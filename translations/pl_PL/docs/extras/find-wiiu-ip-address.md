@@ -1,15 +1,15 @@
 # How To Find The IP Address of your Wii U
 ---
-Quick guide on how to find the IP address of your Wii U console.
+Szybki poradnik jak znaleźć adres IP konsoli Wii U.
 
-### What You Need
+### Czego potrzebujesz
 
-1. The latest release of [FTPiiU](https://apps.fortheusers.org/wiiu/ftpiiu).
- - Extract the `ftpiiu.zip` file to the root of your SD Card.
+1. Najnowsza wersja [FTPiiU](https://apps.fortheusers.org/wiiu/ftpiiu).
+ - Wyodrębnij plik `ftpiiu.zip` do katalogu głównego karty SD.
 
-### Instructions
+### Instrukcje
 
-1. Launch the Homebrew Launcher.
-1. Launch FTPiiU.
-1. The IP address of your Wii U will be displayed at the bottom of the screen.
-1. To exit FTPiiU, press the HOME button.
+1. Uruchom Homebrew Launcher.
+1. Uruchom FTPiiU.
+1. Adres IP Twojego Wii U będzie wyświetlany na dole ekranu.
+1. Aby wyjść z FTPiiU, naciśnij przycisk HOME.
