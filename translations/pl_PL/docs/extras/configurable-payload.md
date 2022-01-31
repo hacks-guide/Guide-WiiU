@@ -2,10 +2,10 @@
 ---
 This payload is configurable, similar to Haxchi's configuration. This could be very useful for Mocha users, as it saves a bit of time having to launch Mocha through the Homebrew Launcher.
 
-### What You Need {docsify-ignore}
+### Czego Potrzebujesz {docsify-ignore}
 
 - The <a href="docs/files/Configurable_Payload.zip" download>configurable payload</a>.
-- The latest release of [The Homebrew Launcher Channel](https://github.com/GaryOderNichts/homebrew_launcher/releases/tag/v2.1_fix).
+- Najnowsza wersja [The Homebrew Launcher Channel](https://github.com/GaryOderNichts/homebrew_launcher/releases/tag/v2.1_fix).
 
 ### Instrukcje {docsify-ignore}
 
