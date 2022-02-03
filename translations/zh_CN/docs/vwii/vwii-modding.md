@@ -59,8 +59,6 @@ In case anything goes wrong in the later process and your vWii ends up bricked, 
 
 !> Make sure you have no `.wad` files anywhere else than in the `apps` folder on your SD Card.
 
-?> **Tip** You can hold the `B` button on the GamePad when turning on the Wii U to boot directly into vWii.
-
 1. 将 Wii U 开机，然后启动 vWii。
 1. 启动 Homebrew Channel。
 1. 启动 d2x cIOS Installer。
