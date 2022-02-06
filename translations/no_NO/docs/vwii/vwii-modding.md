@@ -81,7 +81,7 @@ Hvis noe går galt senere i prosessen og vWii "bricker", vil gjenoppretting av e
 
 ### Patche IOS 80
 
-!> If for any reason, the Wii U is turned off while patching IOS 80, your vWii will be bricked. This can be fixed by either extracting the IOS 80 from your previously made NAND backup and then replacing it over FTP or by [reinstalling IOS 80](recover-vwii-ioses-channels).
+!> Hvis Wii U konsollen din slår seg av mens du patcher IOS 80, vil vWii bli "bricket". Dette kan du fikse ved å enten pakke ut IOS 80 fila fra NAND backupen din og erstatte den over FTP, eller ved å [reinstallere IOS 80](recover-vwii-ioses-channels) på nytt.
 
 1. Kjør Patched IOS 80 Installer for vWii.
 1. Les advarselen og vent 30 sekunder.
@@ -89,8 +89,8 @@ Hvis noe går galt senere i prosessen og vWii "bricker", vil gjenoppretting av e
 1. Vent til det står <code>IOS80 <wbr>Installaton <wbr>is <wbr>complete!</code>.
 1. Trykk en knapp for å avslutte.
 
-!> Installing custom System Menu is a definite brick risk and you should always have an effective backup before installing one but when done right, won't brick the vWii.
+!> Det er stor sjangse for å bricke vWii hvis man installerer en custom System Menu og du bør alltid ha en backup av systemet før du prøver å installerer en, men hvis du installerer det riktig så vil det ikke være noen risiko.
 
-!> Installing any IOS (including TED IOSes) or wads made for the original Wii on your vWii will brick it.
+!> Installering av IOS (inkludert TED IOS'er) eller wads formattert for den originale Wii'en vil "bricke" vWii'en din.
 
-!> Installing Priiloader will brick your vWii.
+!> Installere Priiloader vil bricke vWii.
