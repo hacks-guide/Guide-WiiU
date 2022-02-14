@@ -9,5 +9,5 @@
   - [Italiano](/it_IT/)
   - [简体中文](/zh_CN/)
   - [Norsk](/no_NO/)
-  - [Polskie](/pl_PL/)
+  - [Polski](/pl_PL/)
 - [![Discord](https://icongr.am/material/discord.svg?color=A9A9A9&size=37)](https://discord.gg/C29hYvh)
