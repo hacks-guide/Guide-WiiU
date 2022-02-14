@@ -2,18 +2,18 @@
 
 ## Autoboot de Tiramisu
 
-Currently, every time you want to launch Tiramisu you will have to launch the Health and Safety information app. If you wish to automatically launch into Tiramisu on every boot, you can autoboot the Health and Safety Information app.
+Actuellement, chaque fois que vous voudrez lancer Tiramisu, vous devrez lancer l'application Informations sur la santé et la sécurité. Si vous souhaitez démarrer automatiquement dans Tiramisu au démarrage de la console, vous pouvez démarrer automatiquement l'application Informations sur la santé et la sécurité.
 
 ### Instructions
 
-1. Start the console to boot into the Wii U Menu, launch the Health and Safety Information app and hold the X button to open the Environment Loader menu.
-1. Navigate the list using the D-Pad and navigate to the `installer` environment, press A to launch it.
-1. Press A to select `Check`.
-1. Select `Boot options`.
-1. You will be asked if you want to switch the boot title. Press A to select `Switch to PayloadLoader`.
-1. When the process finished, press A to shutdown the console.
-1. The PayloadLoader will now be launched automatically on every boot.
-    - To change the default boot title hold Start (+) on the Gamepad while booting the console.
-    - Navigate the list using the D-Pad to hover on the title you want to autoboot in, then press the Y button to set this to your autoboot title.
-    - Press A to launch the selected title.
+1. Allumez la console pour démarrer sur le Menu Wii U, lancez l'application Informations sur la santé et la sécurité et maintenez le bouton X enfoncé pour ouvrir le menu Environment Loader.
+1. Naviguez dans la liste à l'aide de la croix directionnelle et sélectionnez l'environnement « installer » `` , appuyez sur A pour le lancer.
+1. Appuyez sur A pour sélectionner `Check`.
+1. Sélectionnez `Boot options`.
+1. Vous serez invité à choisir si vous souhaitez modifier le titre qui sera lancé lors du démarrage de la console. Appuyez sur A pour sélectionner `Switch to PayloadLoader`.
+1. Une fois le processus terminé, appuyez sur A pour éteindre la console.
+1. Le PayloadLoader sera maintenant lancé automatiquement à chaque démarrage de la console.
+    - Pour modifier le titre lancé au démarrage de la console, maintenez la touche START (+) sur le Gamepad lors du démarrage de la console.
+    - Naviguez dans la liste en utilisant la croix directionnelle pour survoler le titre que vous voulez démarrer automatiquement, puis appuyez sur le bouton Y pour définir le titre qui sera lancé automatiquement au démarrage de la console.
+    - Appuyez sur A pour lancer le titre sélectionné.
 
