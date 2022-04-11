@@ -10,7 +10,16 @@ This is needed if you ever need to perform a System Update.
 
 ### Removing Tiramisu Autoboot
 
-?> When autobooting into the PayloadLoader, updates are automatically blocked. Follow [this Guide](uninstall-payloadloader) to temporarily disable it. (You only need to undo Autobooting.)
+?> When autobooting into the PayloadLoader, updates are automatically blocked. Follow the guide below to disable it.
+
+1. Boot the console while holding X on the Gamepad.
+1. Navigate to the `installer` environment and launch it by pressing A.
+1. Press A to select `Check`.
+1. Select `Boot options`.
+1. You will be asked if you want to switch the boot title. Press A to select `Switch back to Wii U Menu`.
+1. When the process finished, press A to shutdown the console.
+1. Perform the System Update.
+1. Follow [this](../docs/user-guide/tiramisu/autoboot) to re-enable autobooting.
 
 #### **Recreating Update Folder**
 
