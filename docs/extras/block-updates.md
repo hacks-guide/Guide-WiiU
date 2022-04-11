@@ -4,8 +4,14 @@ All currently known Wii U exploits can, unlike e.g. the Nintendo Switch RCM expl
 
 ### Instructions {docsify-ignore}
 
-Currently, two ways exist to block updates on the Wii U system:
+Currently, three ways exist to block updates on the Wii U system:
 <!-- tabs:start -->
+
+#### **Tiramisu Autoboot**
+
+### Tiramisu Autoboot
+
+?> When autobooting into the the PayloadLoader, updates are automatically blocked. To enable autobooting into the PayloadLoader follow [this](../docs/user-guide/tiramisu/autoboot).
 
 #### **Deleting Update Folder**
 
