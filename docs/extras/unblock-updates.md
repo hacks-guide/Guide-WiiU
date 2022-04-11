@@ -26,4 +26,15 @@ This is needed if you ever need to perform a System Update.
 `Your WiFi connection > Change Settings > DNS` and set the option to `Auto-obtain`.
 1. You are no longer blocking system updates.
 
+#### **Removing Tiramisu Autoboot**
+
+### Removing Tiramisu Autoboot
+
+1. Hold X on while booting the console.
+1. Select the `Installer` environment.
+1. Select `Check`.
+1. Select `Boot Options`.
+1. Select `Switch back to Wii U Menu`.
+1. Press A to shut down. You are no longer blocking updates.
+
 <!-- tabs:end -->
