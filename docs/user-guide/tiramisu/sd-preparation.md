@@ -26,7 +26,3 @@ We will now place the required CFW files and some additional homebrew files on t
 1. Copy the `01_sigpatches.rpx` file to `/wiiu/environments/tiramisu/modules/setup` on your SD Card.
 
 ?> If your computer asks you to overwrite existing files on your SD Card, you will need to click yes.
-
-?> Your SD Card should now look like this:  
-![](../docs/assets/img/sdroot.jpg)
-![](../docs/assets/img/modules.jpg)
