@@ -96,6 +96,8 @@
 
 ?> 你现在可以重新打开[阻止更新](block-updates)。
 
+> 如果你在使用完 vWii Decaffeinator 后启动系统时收到了 160-0101 错误代码，请弹出你插入的光盘并拔出所有的外接设备，然后重启系统。
+
 #### **Aggressive mode**
 
 ### Aggressive mode
@@ -113,4 +115,4 @@
 
 <!-- tabs:end -->
 
-> 如果你在进行系统升级的时候遇到了 105-3102 错误代码，则请重新启动主机然后再次更新。
+> If you receive Error Code 105-3102 when performing the system update, restart your console and reattempt the update.
