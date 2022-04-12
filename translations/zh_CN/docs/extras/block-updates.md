@@ -4,14 +4,20 @@
 
 ### 简介 {docsify-ignore}
 
-目前，这里有两种方法可以阻止 Wii U 进行系统更新：
+Currently, three ways exist to block updates on the Wii U system:
 <!-- tabs:start -->
 
-#### **删除更新文件夹**
+#### **Tiramisu Autoboot**
 
-### 删除更新文件夹
+### Tiramisu Autoboot
 
-?> 这个阻止更新的办法比使用 DNS 屏蔽更加高级，需要使用一个 Homebrew 程序来修改系统文件。 且 eShop 的功能不会受到限制。
+?> When autobooting into the the PayloadLoader, updates are automatically blocked. To enable autobooting into the PayloadLoader follow [this](../docs/user-guide/tiramisu/autoboot).
+
+#### **Deleting Update Folder**
+
+### Deleting Update Folder
+
+?> This method of update blocking is a bit more advanced than DNS Blocking and uses a homebrew app to modify system files. However, it has the advantage that the eShop's functionality will not be restricted.
 1. 将 SD 卡插入电脑。
 1. 下载并解压 [UFDiine](https://github.com/GaryOderNichts/UFDiine/releases) 到你的 SD 卡根目录。
 1. 将 SD 卡插回 Wii U 并将其开机。
@@ -20,11 +26,11 @@
 1. 按下 A 键删除更新文件夹。
 1. 确认它提示 `Update folder is deleted`。 你现在已阻止系统更新。
 
-#### **DNS 屏蔽**
+#### **DNS Blocking**
 
-### DNS 屏蔽
+### DNS Blocking
 
-?> 这种方法比上面那种简单一些，推荐小白做这种方法。 然而这个方法会影响 eShop 的功能。 This can be worked around by running [NNUPatcher](https://wiiubru.com/appstore/zips/nnupatcher.zip) before starting the eShop.
+?> This method is the easier method and is recommended to less advanced users. It does, however, prevent the eShop from working. This can be worked around by running [NNUPatcher](https://wiiubru.com/appstore/zips/nnupatcher.zip) before starting the eShop.
 1. 将 SD 卡插入电脑。
 1. 复制 `nnupatcher.zip` 里的文件到你的 SD 卡根目录。 如果有覆盖提示，请点击覆盖所有已存在的文件。
 1. Plug the SD Card into your Wii U console and power it on.
