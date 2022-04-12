@@ -4,14 +4,20 @@ Tutti gli exploit Wii U conosciuti possono venir bloccati da un aggiornamento, a
 
 ### Istruzioni {docsify-ignore}
 
-Attualmente, esistono due metodi per bloccare gli aggiornamenti di sistema:
+Currently, three ways exist to block updates on the Wii U system:
 <!-- tabs:start -->
 
-#### **Eliminare la cartella Update**
+#### **Tiramisu Autoboot**
 
-### Eliminare la cartella Update
+### Tiramisu Autoboot
 
-?> Questo metodo è un po' più avanzato del blocco tramite DNS, e utilizza una app Homebrew per modificare i file di sistema. Tuttavia, ha il vantaggio di non limitare l'accesso all'eShop.
+?> When autobooting into the the PayloadLoader, updates are automatically blocked. To enable autobooting into the PayloadLoader follow [this](../docs/user-guide/tiramisu/autoboot).
+
+#### **Deleting Update Folder**
+
+### Deleting Update Folder
+
+?> This method of update blocking is a bit more advanced than DNS Blocking and uses a homebrew app to modify system files. However, it has the advantage that the eShop's functionality will not be restricted.
 1. Inserisci la scheda SD nel tuo computer.
 1. Scarica ed estrai [UFDiine](https://github.com/GaryOderNichts/UFDiine/releases) nella root della tua scheda SD.
 1. Inserisci la scheda SD nel tuo Wii U e accendilo.
@@ -20,11 +26,11 @@ Attualmente, esistono due metodi per bloccare gli aggiornamenti di sistema:
 1. Premi il pulsante A per eliminare la cartella Update.
 1. Controlla che dica `Update folder is deleted`. Ora stai bloccando gli aggiornamenti.
 
-#### **Blocco tramite DNS**
+#### **DNS Blocking**
 
-### Blocco tramite DNS
+### DNS Blocking
 
-?> Questo metodo è il più facile ed è consigliato alle persone meno esperte. Non ti farà, però, accedere all'eShop. Questo può essere risolto eseguendo [NNUPatcher](https://wiiubru.com/appstore/zips/nnupatcher.zip) prima di aprire l'eShop.
+?> This method is the easier method and is recommended to less advanced users. It does, however, prevent the eShop from working. This can be worked around by running [NNUPatcher](https://wiiubru.com/appstore/zips/nnupatcher.zip) before starting the eShop.
 1. Inserisci la scheda SD nel tuo computer.
 1. Copia i contenuti di `nnupatcher.zip` nella root della tua scheda SD. Se viene chiesto, sovrascrivi tutti i file duplicati.
 1. Inserisci la scheda SD nel tuo Wii U e accendilo.
