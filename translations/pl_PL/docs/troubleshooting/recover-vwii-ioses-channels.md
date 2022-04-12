@@ -96,6 +96,8 @@ Masz kilka opcji. Jeśli wiesz, co przywrócić, zaleca się pierwszą próbę p
 
 ?> Możesz teraz ponownie włączyć [blokadę aktualizacji systemu](block-updates).
 
+> Jeśli otrzymasz kod błędu 160-0101 podczas uruchamiania systemu po użyciu vWii Decaffeinator, wyjmij z czytnika płytę i odłącz wszelkie zewnętrzne napędy oraz uruchom ponownie system.
+
 #### **Aggressive mode**
 
 ### Aggressive mode
@@ -113,4 +115,4 @@ Masz kilka opcji. Jeśli wiesz, co przywrócić, zaleca się pierwszą próbę p
 
 <!-- tabs:end -->
 
-> Jeśli otrzymasz kod błędu 105-3102 podczas wykonywania aktualizacji systemu, uruchom ponownie konsolę i ponów aktualizację.
+> If you receive Error Code 105-3102 when performing the system update, restart your console and reattempt the update.
