@@ -96,6 +96,8 @@ Du vil få noen diverse alternativer. Det anbefales å prøve å gjenopprette gj
 
 ?> Du kan nå reaktivere din [blokkeringsmetode mot systemoppdateringer](block-updates).
 
+> Hvis du mottar feilkode 160-0101 når du starter opp systemet etter at du har brukt vWii Decaffeinator ta ut den satte skiven og koble fra eventuelle eksterne stasjoner og start systemet på nytt.
+
 #### **Aggressive mode**
 
 ### Aggressive mode
@@ -113,4 +115,4 @@ Du vil få noen diverse alternativer. Det anbefales å prøve å gjenopprette gj
 
 <!-- tabs:end -->
 
-> Hvis du mottar feilkode 105-3102 når du utfører systemoppdateringen, restart konsollen og forsøk oppdateringen på nytt.
+> If you receive Error Code 105-3102 when performing the system update, restart your console and reattempt the update.
