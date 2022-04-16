@@ -36,7 +36,7 @@ If you want to delete the update folder to block updates, see its tab in the [Bl
 
 **Recommended brands:** SanDisk, Samsung or PNY
 
-?> Note: Avoid class 4 SD Cards, and avoid eBay!
+?> Note: Avoid class 4 SD Cards, and avoid eBay!, Despite popular belief microsd to SD card adapters do not effect read/write using a micro SD adapter is perfectly fine
 
 ### Can I install homebrew on Wii U with a USB instead of SD Card?
 
