@@ -96,6 +96,8 @@ Différentes options vous seront proposées. Il est recommandé de faire une pre
 
 ?> Vous pouvez maintenant réactiver votre méthode de [blocage des mises à jour du système](block-updates).
 
+> Si vous recevez le code d'erreur 160-0101 lorsque vous démarrez la console après avoir utilisé vWii Decaffeinator, retirez le disque inséré et débranchez tous les lecteurs externes et redémarrez la console.
+
 #### **Aggressive mode**
 
 ### Aggressive mode
@@ -113,4 +115,4 @@ Différentes options vous seront proposées. Il est recommandé de faire une pre
 
 <!-- tabs:end -->
 
-> Si vous recevez le code d'erreur 105-3102 lors de la mise à jour du système, redémarrez votre console et réessayez la mise à jour.
+> If you receive Error Code 105-3102 when performing the system update, restart your console and reattempt the update.

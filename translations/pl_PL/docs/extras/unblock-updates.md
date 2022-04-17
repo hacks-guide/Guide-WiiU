@@ -6,23 +6,38 @@ Musisz to zrobić, jeśli kiedykolwiek będziesz potrzebował dokonać aktualiza
 
 <!-- tabs:start -->
 
-#### **Przywracanie folderu aktualizacji**
+#### **Removing Tiramisu Autoboot**
 
-### Przywracanie folderu aktualizacji
+### Removing Tiramisu Autoboot
+
+?> When autobooting into the PayloadLoader, updates are automatically blocked. Follow the guide below to disable it.
+
+1. Uruchom konsolę trzymając wciśnięty X na Gamepad'zie.
+1. Przejdx do środowiska `installer` i uruchom je naciskając A.
+1. Naciśnij A, aby wybrać `Check`.
+1. Wybierz `Boot options`.
+1. Będziesz zapytany o to, czy chcesz zmienić aplikację/tutuł boot'owania. Naciśnij A wybierając `Switch back to Wii U Menu`.
+1. Po zakończeniu procesu, naciśnij A, aby zamknąć konsolę.
+1. Perform the System Update.
+1. Follow [this](../docs/user-guide/tiramisu/autoboot) to re-enable autobooting.
+
+#### **Recreating Update Folder**
+
+### Recreating Update Folder
 
 1. Podłącz kartę SD do swojego komputera.
 1. Pobierz i rozpakuj [UFDiine](https://github.com/GaryOderNichts/UFDiine/releases) do katalogu głównego karty SD.
 1. Podłącz kartę SD do swojej konsoli Wii U i włącz ją.
 1. Wejdź do Homebrew Launcher.
 1. Znajdź aplikację UFDiine i uruchom ją.
-1. Naciśnij przycisk A, aby utworzyć folder aktualizacji.
-1. Powinien pojawić się napis `Update folder exists`. Nie blokujesz już aktualizacji systemu.
+1. Press the A button to create the update folder.
+1. Confirm that it says `Update folder exists`. You are no longer blocking updates.
 
-#### **Usuwanie blokad DNS**
+#### **Removing DNS Blocks**
 
-### Usuwanie blokad DNS
+### Removing DNS Blocks
 
-1. Z menu Wii U przejdź do System Settings i dalej do `Internet > Connect to the Internet > Connection List >` `Your WiFi connection > Change Settings > DNS` i ustaw opcję na `Auto-obtain`.
-1. Nie blokujesz już aktualizacji systemu.
+1. Enter the Wii U's system settings and navigate to `Internet > Connect to the Internet > Connection List >` `Your WiFi connection > Change Settings > DNS` and set the option to `Auto-obtain`.
+1. You are no longer blocking system updates.
 
 <!-- tabs:end -->

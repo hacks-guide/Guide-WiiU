@@ -96,6 +96,8 @@ Avrai diverse opzioni. E' raccomandato di provare in primis `Advanced options` n
 
 ?> Adesso puoi riabilitare il [blocco degli aggiornamenti di sistema](block-updates).
 
+> Se ricevi l'errore 160-0101 quando avvii il sistema dopo aver utilizzato vWii Decaffeinator, rimuovi ogni disco, scollega eventuali dispositivi esterni e riavvia il sistema.
+
 #### **Aggressive mode**
 
 ### Aggressive mode
@@ -113,4 +115,4 @@ Avrai diverse opzioni. E' raccomandato di provare in primis `Advanced options` n
 
 <!-- tabs:end -->
 
-> Se ricevi il codice errore 105-3102 quando provi a fare un aggiornamento di sistema, riavvia la console e riprova.
+> If you receive Error Code 105-3102 when performing the system update, restart your console and reattempt the update.
