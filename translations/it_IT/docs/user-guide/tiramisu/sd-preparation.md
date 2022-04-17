@@ -12,7 +12,8 @@ Ora inseriremo i file del CFW richiesti e alcuni altri file homebrew sulla sched
 
 - Gli ultimi file da [Tiramisu per il tuo caffè](https://tiramisu.foryour.cafe).
     - Seleziona `Nanddumper`, `PayloadLoader Installer` e `Base-Tiramisu`.
-- Il file [01_sigpatches.rpx](/docs/files/01_sigpatches.rpx ":ignore").
+- The latest release of the [Sigpatches Module](https://github.com/marco-calautti/SigpatchesModuleWiiU/releases).
+    - You will need to download the `01_sigpatches.rpx` file.
 
 ### Istruzioni
 
