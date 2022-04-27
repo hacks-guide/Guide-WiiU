@@ -115,4 +115,4 @@ Du vil få noen diverse alternativer. Det anbefales å prøve å gjenopprette gj
 
 <!-- tabs:end -->
 
-> If you receive Error Code 105-3102 when performing the system update, restart your console and reattempt the update.
+> Hvis du mottar feilkode 105-3102 når du utfører systemoppdateringen, restart konsollen og forsøk oppdateringen på nytt.
