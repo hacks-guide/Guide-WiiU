@@ -12,8 +12,8 @@ Her vil vi plassere de nødvendige CFW-filene og noen ekstra homebrew filer på 
 
 - Nyeste utgave av [Tiramisu for your café](https://tiramisu.foryour.cafe).
     - Velg `Nanddumper`, `PayloadLoader Installer` og `Base-Tiramisu`.
-- The latest release of the [Sigpatches Module](https://github.com/marco-calautti/SigpatchesModuleWiiU/releases).
-    - You will need to download the `01_sigpatches.rpx` file.
+- Nyeste utgave av [Sigpatches Module](https://github.com/marco-calautti/SigpatchesModuleWiiU/releases).
+    - Du må laste ned `01_sigpatches.rpx` filen.
 
 ### Instruksjoner
 
