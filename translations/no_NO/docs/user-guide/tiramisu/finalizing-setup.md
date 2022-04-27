@@ -26,11 +26,11 @@ Vi skal gjøre så Tiramisu environmentet starter automatisk når konsollen auto
 ### Ekstra Homebrew Apper - Dette Trenger Du
 
 - Siste utgave av [SaveMii mod](https://wiiubru.com/appstore/zips/savemii_mod.zip).
-- The latest version of [Bloopair](https://github.com/GaryOderNichts/Bloopair/releases).
+- Siste utgave av [Bloopair](https://github.com/GaryOderNichts/Bloopair/releases).
 - `wiiu-extracttosd.zip` fra [HB Appstore](https://github.com/fortheusers/hb-appstore/releases/).
 
 ### Ekstra Homebrew Apper - Pakke ut Filer to SD-Kortet
 
 1. Pakk ut `savemii_mod.zip` til roten av SD-kortet.
-1. Copy the contents of the newly downloaded `Bloopair_vX.X.X.zip` file to the root of your SD Card.
+1. Pakk ut `Bloopair_vX.X.X.zip`til roten av SD-kortet.
 1. Pakk ut `wiiu-extracttosd.zip` til roten av SD-kortet.
