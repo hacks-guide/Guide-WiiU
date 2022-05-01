@@ -26,11 +26,11 @@ Faremo in modo che l'ambiente di Tiramisu si avvii automaticamente quando la con
 ### App Homebrew aggiuntive - Cosa ti serve
 
 - La versione più recente di [SaveMii mod](https://wiiubru.com/appstore/zips/savemii_mod.zip).
-- La versione più recente di [Bloopair - Tiramisu Edition](https://github.com/GaryOderNichts/Bloopair/releases).
+- The latest version of [Bloopair](https://github.com/GaryOderNichts/Bloopair/releases).
 - `wiiu-extracttosd.zip` of the [HB Appstore](https://github.com/fortheusers/hb-appstore/releases/).
 
 ### App Homebrew aggiuntive - Estrazione dei file sulla scheda SD
 
 1. Copia nella root della tua scheda SD i contenuti di `savemii_mod.zip` appena scaricato.
-1. Copia nella root della tua scheda SD i contenuti di `Bloopair_vX.X.X-tiramisu.zip` appena scaricato.
+1. Copy the contents of the newly downloaded `Bloopair_vX.X.X.zip` file to the root of your SD Card.
 1. Copia nella root della tua scheda SD i contenuti di `wiiu-extracttosd.zip` appena scaricato.

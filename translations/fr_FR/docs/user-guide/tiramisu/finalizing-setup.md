@@ -26,11 +26,11 @@ We are going to make the Tiramisu environment start automatically when your cons
 ### Additional Homebrew Apps - What You Need
 
 - The latest version of [SaveMii mod](https://wiiubru.com/appstore/zips/savemii_mod.zip).
-- The latest version of [Bloopair - Tiramisu Edition](https://github.com/GaryOderNichts/Bloopair/releases).
+- The latest version of [Bloopair](https://github.com/GaryOderNichts/Bloopair/releases).
 - `wiiu-extracttosd.zip` of the [HB Appstore](https://github.com/fortheusers/hb-appstore/releases/).
 
 ### Additional Homebrew Apps - Extracting Files to the SD Card
 
 1. Copy the contents of the newly downloaded `savemii_mod.zip` file to the root of your SD Card.
-1. Copy the contents of the newly downloaded `Bloopair_vX.X.X-tiramisu.zip` file to the root of your SD Card.
+1. Copy the contents of the newly downloaded `Bloopair_vX.X.X.zip` file to the root of your SD Card.
 1. Copiez le contenu du fichier `wiiu-extracttosd.zip nouvellement téléchargé` vers la racine de votre carte SD.

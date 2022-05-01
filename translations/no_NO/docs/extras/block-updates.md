@@ -4,20 +4,20 @@ Alle Wii U exploits vi kjenner til i dag, i motsetning til for eksempel Nintendo
 
 ### Instruksjoner {docsify-ignore}
 
-Currently, three ways exist to block updates on the Wii U system:
+For tiden finnes det tre måter å blokkere systemoppdateringer på Wii U:
 <!-- tabs:start -->
 
 #### **Tiramisu Autoboot**
 
 ### Tiramisu Autoboot
 
-?> When autobooting into the the PayloadLoader, updates are automatically blocked. To enable autobooting into the PayloadLoader follow [this](../docs/user-guide/tiramisu/autoboot).
+?> Når du booter inn i PayloadLoader, vil oppdateringer automatisk blokkeres. For å aktivere autobooting inn i PayloadLoader følg [denne linken](../docs/user-guide/tiramisu/autoboot).
 
-#### **Deleting Update Folder**
+#### **Slette "Update" Mappen**
 
-### Deleting Update Folder
+### Slette "Update" Mappen
 
-?> This method of update blocking is a bit more advanced than DNS Blocking and uses a homebrew app to modify system files. However, it has the advantage that the eShop's functionality will not be restricted.
+?> Denne metoden for å blokkere systemoppdateringer er litt mer avansert enn DNS blokkering og bruker en homebrew app for å modifisere systemfiler. Men fordelen ved å bruke denne metoden er at man blandt annet kan bruke eShop som vanlig.
 1. Sett SD-kortet inn i PC'en din.
 1. Last ned og pakk ut [UFDiine](https://github.com/GaryOderNichts/UFDiine/releases) til roten av SD-kortet ditt.
 1. Sett SD-kortet inn i Wii U konsollen og skru den på.
@@ -26,11 +26,11 @@ Currently, three ways exist to block updates on the Wii U system:
 1. Trykk A på gamepadden for å slette update mappen.
 1. Bekreft at det står `Update folder is deleted`. Du blokkerer nå systemoppdateringer.
 
-#### **DNS Blocking**
+#### **DNS-blokkering**
 
-### DNS Blocking
+### DNS-blokkering
 
-?> This method is the easier method and is recommended to less advanced users. It does, however, prevent the eShop from working. This can be worked around by running [NNUPatcher](https://wiiubru.com/appstore/zips/nnupatcher.zip) before starting the eShop.
+?> Dette er den enkleste metoden og anbefales for de som er usikker på å slette "update" mappen. Den vil derimot gjøre sånn at eShop ikke fungerer normalt. Men hvis du bruker [NNUPatcher](https://wiiubru.com/appstore/zips/nnupatcher.zip) så vil du ha tilgang til eShop igjen.
 1. Sett SD-kortet inn i PC'en.
 1. Pakk ut `nnupatcher.zip` til roten av SD-kortet. Hvis den sier at filene er der allerede, kan du overskrive disse.
 1. Sett SD-kortet inn i Wii U konsollen din og skru den på.
