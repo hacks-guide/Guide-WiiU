@@ -15,11 +15,11 @@ Installing the PayloadLoader will let you access Tiramisu just by running the He
 1. Take the SD Card out of your PC and plug it into your Wii U.
 1. Execute the web browser exploit as [previously explained](browser-exploit) but this time, you will need to hold the X button to open the Environment Loader menu.
     - As explained before, if it freezes or nothing happens, reboot the console, [reset the browser's save data](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1507/~/how-to-delete-the-internet-browser-history) and try again.
-3. Navigate the list using the D-Pad and navigate to the `installer` environment, press A to launch it.
-4. Press the A button to check if you can install the PayloadLoader.
+1. Navigate the list using the D-Pad and navigate to the `installer` environment, press A to launch it.
+1. Press the A button to check if you can install the PayloadLoader.
     - It should now tell you that the PayloadLoader can be installed onto the Health and Safety Information app.
-5. Press the A button to select `Install / Update`.
-6. You'll be asked if you are sure you want to install the PayloadLoader. Use the D-Pad to select `Install` and press A.
-7. After installing finishes, press A to shut down the console.
+1. Press the A button to select `Install / Update`.
+1. You'll be asked if you are sure you want to install the PayloadLoader. Use the D-Pad to select `Install` and press A.
+1. After installing finishes, press A to shut down the console.
 
 !> If you do not wish to autoboot Tiramisu on your console, you can skip the `Autobooting Tiramisu` part. </br> But you need to be aware that system updates won't be blocked and will need to be blocked by following [this guide](../block-updates). This is not required but it's highly recommended.
