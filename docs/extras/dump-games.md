@@ -21,26 +21,29 @@ If you intend to use this guide to share your dumped games, don't.
 
 - Your SD Card needs to have enough space to fit the game you want to dump.
 - The latest release of [WUP Installer GX2](https://wiiubru.com/appstore/zips/wup_installer_gx2.zip).
-- The [disc2app](https://wiiubru.com/appstore/zips/disc2app.zip) homebrew application.
+- The [wudd](https://github.com/wiiu-env/wudd/releases) homebrew application.
 
 ### Instructions {docsify-ignore}
 
 1. Copy the contents of the `wup_installer_gx2.zip` file to the root of your SD Card.
-1. Copy the contents of the `disc2app.zip` file to the root of your SD Card.
+1. Copy the contents of the newly downloaded wudd `.zip` file to the root of your SD Card.
 1. Take the SD Card out of your PC and plug it into your Wii U.
 1. Power on your Wii U.
-1. Eject your game disc if you have one inserted.
-1. Launch the Homebrew Launcher and start the disc2app app.
-1. Press the A button to start the dumping process to the SD Card.
-1. When prompted, insert the game disc you want to dump.
-1. When the process is complete, your Wii U will launch the Wii U Menu.
-1. Launch the Homebrew Launcher and start the WUP Installer GX2 app.
-1. Select your game (`WUP-X-XXXX`), press `Install` and confirm with `Yes`.
+1. Launch the Homebrew Launcher and start the wudd app.
+1. Change dump location to the SD Card.
+1. Select `Dump partition as .app`
+1. Select the `Game` partition to start dumping.
+1. When finished, exit wudd and navigate back to the Wii U Menu.
+1. Insert your SD Card into your computer.
+1. Copy the `GMXXXXXXXXXXXXXXXX` folder from `sd:/wudump/WUP-X-XXXX` to the `install` folder on your SD Card.
+1. Insert the SD Card.
+1. Open the Homebrew Launcher and then the WUP Installer GX2 app.
+1. Select your game (`GMXXXXXXXXXXXXXXXX`), press `Install` and confirm with `Yes`.
 1. Select NAND as the installation destination.
 1. When the process is complete, your Wii U will launch the Wii U Menu.
 1. You should see your game installed, ready to be played.
 1. Take the SD Card out of your Wii U and plug it into your PC.
-1. Delete the `WUP-X-XXXX` folder in the `install` directory on your SD Card to free up space.
+1. Delete the `GMXXXXXXXXXXXXXXXX` folder in the `install` directory on your SD Card to free up space.
 
 #### **Install To USB**
 
@@ -60,70 +63,26 @@ If you intend to use this guide to share your dumped games, don't.
 ### Instructions {docsify-ignore}
 
 1. Copy the contents of the `wup_installer_gx2.zip` file to the root of your SD Card.
-1. Copy the contents of the `disc2app.zip` file to the root of your SD Card.
+1. Copy the contents of the newly downloaded wudd `.zip` file to the root of your SD Card.
 1. Take the SD Card out of your PC and plug it into your Wii U.
 1. Plug your USB HDD into the Wii U.
 1. Power on your Wii U.
 1. Your Wii U will prompt you to format your HDD. Confirm with Yes.
-1. Eject your game disc if you have one inserted
-1. Launch the Homebrew Launcher and start the disc2app app.
-1. Press the A button to start the dumping process to the SD Card.
-1. When prompted, insert the game disc you want to dump
-1. When the process is complete, your Wii U will launch the Wii U Menu.
-1. Launch the Homebrew Launcher and start the WUP Installer GX2 app.
-1. Select your game (`WUP-X-XXXX`), press `Install` and confirm with `Yes`.
+1. Launch the Homebrew Launcher and start the wudd app.
+1. Change dump location to the SD Card.
+1. Select `Dump partition as .app`
+1. Select the `Game` partition to start dumping.
+1. When finished, exit wudd and navigate back to the Wii U Menu.
+1. Insert your SD Card into your computer.
+1. Copy the `GMXXXXXXXXXXXXXXXX` folder from `sd:/wudump/WUP-X-XXXX` to the `install` folder on your SD Card.
+1. Insert the SD Card into your Wii U.
+1. Open the Homebrew Launcher and then the WUP Installer GX2 app.
+1. Select your game (`GMXXXXXXXXXXXXXXXX`), press `Install` and confirm with `Yes`.
 1. Select USB as the installation destination.
 1. When the process is complete, your Wii U will launch the Wii U Menu.
 1. You should see your game installed, ready to be played.
 1. Take the SD Card out of your Wii U and plug it into your PC.
-1. Delete the `WUP-X-XXXX` folder in the `install` directory on your SD Card to free up space.
-
-#### **Install From USB**
-
-### Install From USB
-
-?> If you do not have enough space on your SD Card, you can use an advanced technique to install dumps from a USB device. This is not the easiest thing to do and has the disadvantage of only being able to install the game onto your system memory (NAND).
-
-### What You Need {docsify-ignore}
-
-- A USB storage device (+a Y-cable if needed) with enough space to fit the game you want to dump.
-- The latest release of [WUP Installer GX2](https://wiiubru.com/appstore/zips/wup_installer_gx2.zip)
-- The [disc2app](https://wiiubru.com/appstore/zips/disc2app.zip) Homebrew app.
-- The [MochaFAT32](https://wiiubru.com/appstore/zips/mocha_fat32.zip) Homebrew app.
-- The  1.4 release of [The Homebrew Launcher](https://github.com/dimok789/homebrew_launcher/releases/tag/1.4)
-  - You will need to download the v1.4 `homebrew_launcher.v.1.4.zip` release.
-
-### Instructions {docsify-ignore}
-
-?> **Notice**
-    Your USB device will need to be formatted as FAT32. If your USB is not formatted to FAT32, use [GUIFormat](http://ridgecrop.co.uk/index.htm?guiformat.htm) with 32k (32768) Allocation unit size to format it.
-
-1. Copy the contents of the `homebrew_launcher.v.1.4.zip` file to the root of your USB device.
-1. Copy the contents of the `wup_installer_gx2.zip` file to the root of your USB device.
-1. Copy the contents of the `disc2app.zip` file to the root of your USB device.
-1. Copy the contents of the `mocha_fat32.zip` file to the root of your SD Card.
-1. Take the SD Card out of your PC and plug it into your Wii U console.
-1. Power on your Wii U.
-1. Plug in your USB device. The Wii U will ask you format it. Cancel with No!
-1. Launch the Homebrew Launcher and start the MochaFAT32 app.
-1. In the configuration menu, set the following settings:
-    - Config view mode: default
-    - Skip this menu on launch: on
-    - Don't relaunch OS: off
-    - Launch System Menu: on
-    - RedNAND: off
-1. Your console will load the Wii U menu with your USB device now replacing the SD Card.
-1. Launch the Homebrew Launcher and open the disc2app app.
-1. Eject any inserted game disc and press the A button to begin the dumping process.
-1. When prompted, insert the game disc you want to dump.
-1. When the process is complete, your Wii U will launch the Wii U Menu.
-1. Launch the Homebrew Launcher and start the WUP Installer GX2 app.
-1. Select your game (`WUP-X-XXXX`), press `Install` and confirm with `Yes`.
-1. Select NAND as the installation destination.
-1. When the process is complete, your Wii U will launch the Wii U Menu.
-1. You should see your game installed, ready to be played.
-1. Take the USB device out of your Wii U and plug it into your PC.
-1. Delete the `WUP-X-XXXX` folder in the `install` directory on your USB device to free up space.
+1. Delete the `GMXXXXXXXXXXXXXXXX` folder in the `install` directory on your SD Card to free up space.
 
 <!-- tabs:end -->
 
