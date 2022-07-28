@@ -51,7 +51,6 @@ Si vous avez l'intention d'utiliser ce guide pour ensuite partager vos jeux dump
 
 !> In order to move your game to a USB device, it has to be formatted by the Wii U. Doing this will erase all contents of it, and prevent it from being used on another system unless you reformat it.
 
-1. Reboot your Wii U to remove the effect of MochaFAT32.
 1. Plug your USB device into the Wii U.
 1. Allumez votre Wii U.
 1. Your Wii U will prompt you to format your USB device. Confirm with Yes.
