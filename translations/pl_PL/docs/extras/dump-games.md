@@ -7,7 +7,7 @@ Zrzucanie zawartości twoich płyt pozwala na zainstalowanie kopii gry w pamięc
 !> **NIELEGALNE** jest udostępnianie plików zrzuconych za pomocą tego poradnika.  
 Jeśli zamierzasz użyć tego przewodnika do dzielenia się twoimi zrzuconymi grami, nie rób tego.
 
-### Instrukcje {docsify-ignore}
+### Dumping and Installing Wii U Discs {docsify-ignore}
 
 ?> Instalacja gry w pamięci systemowej (NAND) nie jest zalecana, ponieważ jest ona ograniczona do 8GB lub 32GB w zależności od modelu, co sprawia, że miejsce na gry skończy się bardzo szybko.
 
@@ -15,14 +15,14 @@ Jeśli zamierzasz użyć tego przewodnika do dzielenia się twoimi zrzuconymi gr
 
 !> In order to install to a USB device, it has to be formatted by the Wii U. Doing this will erase all contents of it, and prevent it from being used on another system unless you reformat it. To do this, plug your USB HDD into the Wii U, power on your Wii U, your Wii U will prompt you to format your HDD. Confirm with Yes.
 
-### Czego Potrzebujesz {docsify-ignore}
+#### Czego Potrzebujesz {docsify-ignore}
 
 - Karta SD z odpowiednią ilością miejsca na gry, które będziesz zrzucał.
 - If wanting to install to a USB, A USB HDD (+ a Y-cable if needed).
 - Najnowsze wydanie [WUP Installer GX2](https://wiiubru.com/appstore/zips/wup_installer_gx2.zip).
 - The [wudd](https://github.com/wiiu-env/wudd/releases) homebrew application.
 
-### Instrukcje {docsify-ignore}
+#### Instrukcje {docsify-ignore}
 
 1. Skopiuj zawartość pliku `wup_installer_gx2.zi` do katalogu głównego karty SD.
 1. Copy the contents of the newly downloaded wudd `.zip` file to the root of your SD Card.
