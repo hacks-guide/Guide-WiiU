@@ -7,7 +7,7 @@
 !> 分享本教程导出的文件是 **非法的**。  
 如果你想要使用这个教程导出游戏并分享出去，请不要这么做。
 
-### 步骤 {docsify-ignore}
+### Dumping and Installing Wii U Discs {docsify-ignore}
 
 ?> 我们不建议将游戏安装到系统内存中（NAND），因为主机的内存容量为 8 GB 或 32 GB，如果你想安装好几个游戏，剩余空间会很快用完。
 
@@ -15,14 +15,14 @@
 
 !> In order to install to a USB device, it has to be formatted by the Wii U. Doing this will erase all contents of it, and prevent it from being used on another system unless you reformat it. To do this, plug your USB HDD into the Wii U, power on your Wii U, your Wii U will prompt you to format your HDD. Confirm with Yes.
 
-### 你需要准备些啥？ {docsify-ignore}
+#### 你需要准备些啥？ {docsify-ignore}
 
 - 你的 SD 卡需要保存游戏的导出文件的足够的空间。
 - If wanting to install to a USB, A USB HDD (+ a Y-cable if needed).
 - 最新版 [WUP Installer GX2](https://wiiubru.com/appstore/zips/wup_installer_gx2.zip)。
 - The [wudd](https://github.com/wiiu-env/wudd/releases) homebrew application.
 
-### 步骤 {docsify-ignore}
+#### 步骤 {docsify-ignore}
 
 1. 复制 `wup_installer_gx2.zip` 里的文件到你的 SD 卡根目录。
 1. Copy the contents of the newly downloaded wudd `.zip` file to the root of your SD Card.
