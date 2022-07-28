@@ -7,7 +7,7 @@ Dumper vos disques vous permet d'installer une copie de votre jeu sur la NAND / 
 !> Il est **ILLÉGAL** de partager les fichiers dumpés à l'aide de ce guide.  
 Si vous avez l'intention d'utiliser ce guide pour ensuite partager vos jeux dumpés, ne le faites pas.
 
-### Instructions {docsify-ignore}
+### Dumping and Installing Wii U Discs {docsify-ignore}
 
 ?> Installer un jeu dans la mémoire interne de la console (NAND) n'est pas recommandé car elle est limitée à 8 Go ou 32 Go selon le modèle de votre console, ce qui vous ferait manquer d'espace assez rapidement si vous souhaitez installer plusieurs jeux.
 
@@ -15,14 +15,14 @@ Si vous avez l'intention d'utiliser ce guide pour ensuite partager vos jeux dump
 
 !> In order to install to a USB device, it has to be formatted by the Wii U. Doing this will erase all contents of it, and prevent it from being used on another system unless you reformat it. To do this, plug your USB HDD into the Wii U, power on your Wii U, your Wii U will prompt you to format your HDD. Confirm with Yes.
 
-### Ce dont vous avez besoin {docsify-ignore}
+#### Ce dont vous avez besoin {docsify-ignore}
 
 - Votre carte SD a besoin de suffisamment d'espace pour stocker le jeu que vous voulez dumper.
 - If wanting to install to a USB, A USB HDD (+ a Y-cable if needed).
 - La dernière version de [WUP Installer GX2](https://wiiubru.com/appstore/zips/wup_installer_gx2.zip).
 - The [wudd](https://github.com/wiiu-env/wudd/releases) homebrew application.
 
-### Instructions {docsify-ignore}
+#### Instructions {docsify-ignore}
 
 1. Copiez le contenu du fichier `wup_installer_gx2.zip` vers la racine de votre carte SD.
 1. Copy the contents of the newly downloaded wudd `.zip` file to the root of your SD Card.
