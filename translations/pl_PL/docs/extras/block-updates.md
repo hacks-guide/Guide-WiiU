@@ -1,6 +1,6 @@
 # Blokowanie Aktualizacji
 ---
-W przeciwieństwie do np. exploitów Nintendo Switch RCM, wszystkie obecnie znane exploity Wii U mogą być nadpisane przez aktualizację systemu. Chociaż Wii U nie jest już oficjalnie wspierane, Nintendo może nadal wydawać aktualizacje dla tej konsoli. Aktualizacje 5.5.3, 5.5.4 i 5.5.5 zostały opublikowane już po zakończeniu wsparcia dla Wii U, więc blokowanie aktualizacji jest nadal zalecane.
+W przeciwieństwie do np. exploitów Nintendo Switch RCM, wszystkie obecnie znane exploity Wii U mogą być nadpisane przez aktualizację systemu. Chociaż Wii U nie jest już oficjalnie wspierane, Nintendo może nadal wydawać aktualizacje dla tej konsoli. Namely, the updates 5.5.3 up to 5.5.6 were all released after the Wii U was discontinued, so blocking updates is still a recommended action.
 
 ### Instrukcje {docsify-ignore}
 

@@ -37,7 +37,7 @@ Ten poradnik ma na celu przekształcenie całkowicie niezmodyfikowanego Wii U, d
 
 !> Przed rozpoczęciem poradnika, musisz znać zagrożenia związane z hakowaniem Wii U: **ZA KAŻDYM RAZEM** gdy modyfikujesz system, zawsze istnieje ryzyko uszkodzenia Wii U **NIEODWRACALNIE**. Ryzyko jest niewielkie, jednak istnieje. Upewnij się więc, że wykonujesz **WSZYSTKIE** kroki **DOKŁADNIE!**. Tak jak jest to opisane w poradniku
 >
-> Ten poradnik zadziała na wszystkich konsolach Wii U ze wszystkich regionów na oprogramowaniu 5.5.5 lub niższym.
+> This guide will work on all Wii U consoles in all regions on the latest firmware (5.5.6 for North American consoles, 5.5.5 for all other regions) or below.
 > 
 > Aby pomyślnie przejść przez ten poradnik, będziesz potrzebował:
 > 

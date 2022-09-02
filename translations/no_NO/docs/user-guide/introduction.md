@@ -37,7 +37,7 @@ Målet med denne guiden er å gå fra en umodifisert konsoll til å kjøre custo
 
 !> Før du starter guiden, må du være klar over risikoen ved å hacke en Wii U konsoll: **HVER** gang du endrer systemfiler, kan du potensielt **"BRICKE"** konsollen. Det skjer sjeldent, men det er fortsatt mulig så følg **ALLE** trinnene **NØYAKTIG!**
 >
-> Denne guiden fungerer på alle Wii U konsoller i alle regioner med firmware 5.5.5 eller lavere.
+> This guide will work on all Wii U consoles in all regions on the latest firmware (5.5.6 for North American consoles, 5.5.5 for all other regions) or below.
 > 
 > Dette trenger du for å følge denne guiden:
 > 
