@@ -2,6 +2,8 @@
 ---
 如果你需要进行系统更新，则你就需要做这个教程。
 
+?> If you are running Tiramisu and have deleted the update folder, you need to disable both autobooting and recreate the update folder.
+
 ### 步骤 {docsify-ignore}
 
 <!-- tabs:start -->
