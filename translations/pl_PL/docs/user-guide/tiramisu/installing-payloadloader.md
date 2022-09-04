@@ -21,4 +21,4 @@ Instalacja PayloadLoader pozwoli Ci uzyskać dostęp do Tiramisu poprzez uruchom
 1. Zostaniesz zapytany, czy naprawdę chcesz zainstalować PayloadLoader. Użyj D-Pada, aby wybrać `Install` i naciśnij A.
 1. Po zakończeniu procesu, naciśnij A, aby zamknąć konsolę.
 
-!> Jeśli nie chcesz używać autoboota Tiramisu na swojej konsoli, możesz pominąć część `Autoboting Tiramisu`. </br> Ale musisz pamiętać, że aktualizacje systemu nie zostaną wtedy zablokowane i będą musiały zostać zablokowane przez [ten poradnik](../block-updates). Nie jest to wymagane, ale jest wysoce zalecane.
+!> If you do not wish to autoboot Tiramisu on your console, you can skip the `Autobooting Tiramisu` part and head directly to [Finalizing Setup](finalizing-setup).
