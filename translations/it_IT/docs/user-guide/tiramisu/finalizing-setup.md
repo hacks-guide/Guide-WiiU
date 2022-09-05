@@ -31,7 +31,7 @@ Anche se Tiramisu ha un sistema integrato per bloccare gli aggiornamenti, è con
 
 - La versione più recente di [SaveMii mod](https://wiiubru.com/appstore/zips/savemii_mod.zip).
 - The latest version of [Bloopair](https://github.com/GaryOderNichts/Bloopair/releases).
-- `wiiu-extracttosd.zip` of the [HB Appstore](https://github.com/fortheusers/hb-appstore/releases/).
+- Il file `wiiu-extracttosd.zip` di [HB Appstore](https://github.com/fortheusers/hb-appstore/releases/).
 
 ### Additional Homebrew Apps - Extracting Files to the SD Card
 
