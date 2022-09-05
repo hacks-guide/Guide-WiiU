@@ -36,5 +36,5 @@ Niente di speciale, puoi lasciarli lì, eliminarli o sostituirli con dei nuovi. 
 
 ### La mia console all'improvviso ha perso la connettività online e ho un HDD sulla parte superiore della console, che faccio?
 
-The internal antenna may have been influenced by the hard drive magnet.  
-You can move the HDD to a different position atop the Wii U, or move it off the Wii U entirely.
+L'antenna interna potrebbe subire interferenze dal magnete del disco rigido.  
+È possibile spostare l'HDD in una posizione diversa sulla Wii U o spostarlo completamente fuori dalla Wii U.
