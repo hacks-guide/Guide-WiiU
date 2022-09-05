@@ -36,5 +36,7 @@ While Tiramisu already has built-in update blocking functionality, it is recomme
 ### Additional Homebrew Apps - Extracting Files to the SD Card
 
 1. Pakk ut `savemii_mod.zip` til roten av SD-kortet.
-1. Pakk ut `Bloopair_vX.X.X.zip`til roten av SD-kortet.
-1. Pakk ut `wiiu-extracttosd.zip` til roten av SD-kortet.
+1. Extract the contents of the newly downloaded `Bloopair_vX.X.X.zip` file.  
+   Copy the `30_bloopair.rpx` to the `wiiu/environments/tiramisu/modules/setup/` folder on the root of your SD Card.  
+   Copy the `wiiu` folder to the root of your SD Card.
+1. Copy the contents of the newly downloaded `wiiu-extracttosd.zip` file to the root of your SD Card.
