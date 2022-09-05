@@ -19,7 +19,7 @@ Faremo in modo che l'ambiente di Tiramisu si avvii automaticamente quando la con
 ?> Una volta entrato nell'ambiente Tiramisu, puoi aprire il Mii Maker in qualsiasi momento per entrare nell'Homebrew Launcher. <br>Per tornare al Mii Maker, premi semplicemente il tasto HOME mentre sei nell'Homebrew Launcher.
 
 ### Bloccare gli aggiornamenti
-While Tiramisu already has built-in update blocking functionality, it is recommended to delete the update folder to effectively block system updates. If you get a red warning screen while booting into Tiramisu, the update folder still exists and it is recommended to delete it using [this guide](../block-updates).
+Anche se Tiramisu ha un sistema integrato per bloccare gli aggiornamenti, è consigliato cancellare la cartella degli aggiornamenti per bloccarli efficacemente. If you get a red warning screen while booting into Tiramisu, the update folder still exists and it is recommended to delete it using [this guide](../block-updates).
 
 ### Additional Homebrew Apps
 
