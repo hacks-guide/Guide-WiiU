@@ -81,7 +81,7 @@ Nel caso qualcosa andasse storto durante il processo e la tua vWii si bricka, ri
 
 ### Patchare l'IOS 80
 
-!> Se per qualche modo, il tuo Wii U viene spento mentre patchi IOS 80, il tuo vWii verrà brickato. This can be fixed by either extracting the IOS 80 from your previously made NAND backup and then replacing it over FTP or by [reinstalling IOS 80](recover-vwii-ioses-channels).
+!> Se per qualche modo, il tuo Wii U viene spento mentre patchi IOS 80, il tuo vWii verrà brickato. Questo può essere riparato estraendo IOS 80 dal tuo precedentemente fatto backup della NAND e poi scambiandolo con un FTP oppure [reinstallando IOS 80](recover-vwii-ioses-channels).
 
 1. Avvia Patched IOS 80 Installer for vWii.
 1. Leggi la schermata di avviso e aspetta 30 secondi.
@@ -89,8 +89,8 @@ Nel caso qualcosa andasse storto durante il processo e la tua vWii si bricka, ri
 1. Aspetta finchè dice <code>IOS80 <wbr>Installation <wbr>is <wbr>complete!</code>.
 1. Premi un qualsiasi pulsante per uscire.
 
-!> Installing custom System Menu is a definite brick risk and you should always have an effective backup before installing one but when done right, won't brick the vWii.
+!> Installando un Menu di Sistema personalizzato è un brick definitivo quindi dovresti sempre avere un backup prima di installare un Menu di Sistema ma quando fatto bene, non brickerà il vWii.
 
-!> Installing any IOS (including TED IOSes) or wads made for the original Wii on your vWii will brick it.
+!> Installando un IOS (includendo le IOS TED) o wad fatti per il Wii originale nella tua vWii ti brickerà il vWii.
 
-!> Installing Priiloader will brick your vWii.
+!> L'installazione di Priiloader ti brickerà il tuo vWii.
