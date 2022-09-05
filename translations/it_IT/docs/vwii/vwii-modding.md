@@ -23,7 +23,7 @@ Ora andremo ad inserire i file Homebrew nella SD.
 1. Inserisci la SD del tuo Wii U nel PC.
 1. Copia la cartella `apps` dalla cartella <code>Patched_<wbr>IOS80_<wbr>Installer_<wbr>for_<wbr>vWii<wbr>.zip</code> file nella radice della scheda SD.
 1. Copia i contenuti del file <code>d2x_<wbr>cIOS_<wbr>Installer<wbr>.zip</code> nella radice della tua scheda SD.
-1. Copy the contents of the downloaded Tiramisu *`.zip`* file to the root of your SD Card.
+1. Copia nella root della tua scheda SD il contenuto del file *`.zip`* di Tiramisu appena scaricato.
 1. Copia il file `compat_installer.elf` nella cartella `wiiu/apps` nel root della tua scheda SD.
 1. Togli la scheda SD dal computer e inseriscila nella console Wii U.
 
@@ -81,7 +81,7 @@ Nel caso qualcosa andasse storto durante il processo e la tua vWii si bricka, ri
 
 ### Patchare l'IOS 80
 
-!> If for any reason, the Wii U is turned off while patching IOS 80, your vWii will be bricked. This can be fixed by either extracting the IOS 80 from your previously made NAND backup and then replacing it over FTP or by [reinstalling IOS 80](recover-vwii-ioses-channels).
+!> Se per qualche modo, il tuo Wii U viene spento mentre patchi IOS 80, il tuo vWii verrà brickato. This can be fixed by either extracting the IOS 80 from your previously made NAND backup and then replacing it over FTP or by [reinstalling IOS 80](recover-vwii-ioses-channels).
 
 1. Avvia Patched IOS 80 Installer for vWii.
 1. Leggi la schermata di avviso e aspetta 30 secondi.
