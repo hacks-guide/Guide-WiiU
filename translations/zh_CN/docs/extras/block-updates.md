@@ -1,6 +1,6 @@
 # 阻止更新
 ---
-目前所有已知的 Wii U 漏洞（例如 Nintendo Switch RCM 漏洞）都可以被通过更新系统失效。 虽然 Wii U 不再会得到任天堂官方的技术支持，但任天堂仍然可以为其发布新的系统更新。 Namely, the updates 5.5.3, 5.5.4 and 5.5.5 were all released after the Wii U was discontinued, so blocking updates is still a recommended action.
+目前所有已知的 Wii U 漏洞（例如 Nintendo Switch RCM 漏洞）都可以被通过更新系统失效。 虽然 Wii U 不再会得到任天堂官方的技术支持，但任天堂仍然可以为其发布新的系统更新。 Namely, the updates 5.5.3 up to 5.5.6 were all released after the Wii U was discontinued, so blocking updates is still a recommended action.
 
 ### 简介 {docsify-ignore}
 

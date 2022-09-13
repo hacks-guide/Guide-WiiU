@@ -37,7 +37,7 @@ Questa guida ha l'obiettivo finale di prendere una Wii U completamente non modif
 
 !> Prima di iniziare la guida, devi sapere i rischi dell'hacking Wii U: **OGNI** volta che modifichi il sistema, c'è sempre una possibilità di un brick **IRRECUPERABILE**. Sono rari, ma sono sempre una possibilità quindi assicurati di seguire **TUTTE** indicazioni **ESATTAMENTE!**
 >
-> Questa guida funzionerà in tutte le console Wii U in tutte le regioni con la versione 5.5.5 o inferiore.
+> This guide will work on all Wii U consoles in all regions on the latest firmware (5.5.6 for North American consoles, 5.5.5 for all other regions) or below.
 > 
 > Per seguire con successo questa guida avrai bisogno di quanto segue:
 > 
