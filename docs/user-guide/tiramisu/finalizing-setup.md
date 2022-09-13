@@ -25,19 +25,19 @@ If you get a red warning screen while booting into Tiramisu, the update folder s
 
 ### Additional Homebrew Apps
 
-- **SaveMii mod** is a homebrew app that lets you manage your Wii U and vWii save data.
+- **SaveMii Mod WUT Port** is a homebrew app that lets you manage your Wii U and vWii save data.
 - **Bloopair** is a Tiramisu module that lets you wirelessly connect most popular Bluetooth capable controllers. See [this page](https://gbatemp.net/threads/bloopair-connect-controllers-from-other-consoles-natively.594289/) for more details.
 - The **Homebrew Appstore** lets you browse and download homebrew apps directly from your Wii U.
 
 ### Additional Homebrew Apps - What You Need
 
-- The latest version of [SaveMii mod](https://wiiubru.com/appstore/zips/savemii_mod.zip).
+- The latest version of [SaveMii Mod WUT Port](https://wiiubru.com/appstore/zips/SaveMiiModWUTPort.zip).
 - The latest version of [Bloopair](https://github.com/GaryOderNichts/Bloopair/releases).
 - `wiiu-extracttosd.zip` of the [HB Appstore](https://github.com/fortheusers/hb-appstore/releases/).
 
 ### Additional Homebrew Apps - Extracting Files to the SD Card
 
-1. Copy the contents of the newly downloaded `savemii_mod.zip` file to the root of your SD Card.
+1. Copy the contents of the newly downloaded `SaveMiiModWUTPort.zip` file to the root of your SD Card.
 1. Extract the contents of the newly downloaded `Bloopair_vX.X.X.zip` file.  
    Copy the `30_bloopair.rpx` to the `wiiu/environments/tiramisu/modules/setup/` folder on the root of your SD Card.  
    Copy the `wiiu` folder to the root of your SD Card.
