@@ -11,7 +11,7 @@
 ### 你需要准备点啥？
 
 - The latest files from [Tiramisu for your café](https://tiramisu.foryour.cafe).
-    - Select `Nanddumper`, `PayloadLoader Installer` and `Base-Tiramisu`.
+    - Click on `Download Tiramisu`.
 - The latest release of the [Sigpatches Module](https://github.com/marco-calautti/SigpatchesModuleWiiU/releases).
     - You will need to download the `01_sigpatches.rpx` file.
 
