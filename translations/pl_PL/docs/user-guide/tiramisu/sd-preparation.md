@@ -11,7 +11,7 @@ Teraz umieścimy wymagane pliki CFW i dodatkowe pliki homebrew na karcie SD.
 ### Czego potrzebujesz
 
 - Najnowsze pliki z [Tiramisu for your café](https://tiramisu.foryour.cafe).
-    - Wybierz `Nanddumper`, `PayloadLoader Installer` i `Base-Tiramisu`.
+    - Click on `Download Tiramisu`.
 - The latest release of the [Sigpatches Module](https://github.com/marco-calautti/SigpatchesModuleWiiU/releases).
     - You will need to download the `01_sigpatches.rpx` file.
 

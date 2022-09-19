@@ -2,6 +2,8 @@
 ---
 Ceci est nécessaire si vous avez besoin d'effectuer une mise à jour du système.
 
+?> If you are running Tiramisu and have deleted the update folder, you need to disable both autobooting and recreate the update folder.
+
 ### Instructions {docsify-ignore}
 
 <!-- tabs:start -->

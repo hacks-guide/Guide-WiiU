@@ -1,23 +1,19 @@
 # Bloccare gli aggiornamenti
 ---
-Tutti gli exploit Wii U conosciuti possono venir bloccati da un aggiornamento, a differenza, per esempio, dell'exploit RCM di Nintendo Switch. Anche se il Wii U non è più ufficialmente supportato, Nintendo potrebbe ancora rilasciare aggiornamenti per la console. Namely, the updates 5.5.3 up to 5.5.6 were all released after the Wii U was discontinued, so blocking updates is still a recommended action.
+Tutti gli exploit Wii U conosciuti possono venir bloccati da un aggiornamento, a differenza, per esempio, dell'exploit RCM di Nintendo Switch. Anche se il Wii U non è più ufficialmente supportato, Nintendo potrebbe ancora rilasciare aggiornamenti per la console. Ad esempio, gli aggiornamenti da 5.5.3 a 5.5.6 sono stati rilasciato quando il Wii U venne discontinuato, quindi è raccomandato bloccare gli aggiornamenti.
+
+Anche se Tiramisu ha un sistema integrato per bloccare gli aggiornamenti, è consigliato cancellare la cartella degli aggiornamenti per bloccarli efficacemente. Se ottieni una schermata rossa mentre stai avviando Tiramisu, significa che la cartella degli aggiornamenti esiste ancora e deve essere eliminata seguendo questa guida.
 
 ### Istruzioni {docsify-ignore}
 
-Currently, three ways exist to block updates on the Wii U system:
+Attualmente, esistono due metodi per bloccare gli aggiornamenti di sistema:
 <!-- tabs:start -->
 
-#### **Tiramisu Autoboot**
+#### **Eliminare la cartella Update**
 
-### Tiramisu Autoboot
+### Eliminare la cartella Update
 
-?> When autobooting into the the PayloadLoader, updates are automatically blocked. To enable autobooting into the PayloadLoader follow [this](../docs/user-guide/tiramisu/autoboot).
-
-#### **Deleting Update Folder**
-
-### Deleting Update Folder
-
-?> This method of update blocking is a bit more advanced than DNS Blocking and uses a homebrew app to modify system files. However, it has the advantage that the eShop's functionality will not be restricted.
+?> Questo metodo è più avanzato del blocco tramite DNS e usa un'app homebrew per modificare i file di sistema. Però, ha il vantaggio di non bloccare l'accesso alle funzionalità dell'eShop.
 1. Inserisci la scheda SD nel tuo computer.
 1. Scarica ed estrai [UFDiine](https://github.com/GaryOderNichts/UFDiine/releases) nella root della tua scheda SD.
 1. Inserisci la scheda SD nel tuo Wii U e accendilo.
@@ -26,11 +22,11 @@ Currently, three ways exist to block updates on the Wii U system:
 1. Premi il pulsante A per eliminare la cartella Update.
 1. Controlla che dica `Update folder is deleted`. Ora stai bloccando gli aggiornamenti.
 
-#### **DNS Blocking**
+#### **Blocco tramite DNS**
 
-### DNS Blocking
+### Blocco tramite DNS
 
-?> This method is the easier method and is recommended to less advanced users. It does, however, prevent the eShop from working. This can be worked around by running [NNUPatcher](https://wiiubru.com/appstore/zips/nnupatcher.zip) before starting the eShop.
+?> Questo metodo è il più facile ed è consigliato alle persone meno esperte. Non ti farà, però, accedere all'eShop. Questo può essere risolto eseguendo [NNUPatcher](https://wiiubru.com/appstore/zips/nnupatcher.zip) prima di aprire l'eShop.
 1. Inserisci la scheda SD nel tuo computer.
 1. Copia i contenuti di `nnupatcher.zip` nella root della tua scheda SD. Se viene chiesto, sovrascrivi tutti i file duplicati.
 1. Inserisci la scheda SD nel tuo Wii U e accendilo.

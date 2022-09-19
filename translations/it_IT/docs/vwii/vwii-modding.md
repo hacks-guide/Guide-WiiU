@@ -23,7 +23,7 @@ Ora andremo ad inserire i file Homebrew nella SD.
 1. Inserisci la SD del tuo Wii U nel PC.
 1. Copia la cartella `apps` dalla cartella <code>Patched_<wbr>IOS80_<wbr>Installer_<wbr>for_<wbr>vWii<wbr>.zip</code> file nella radice della scheda SD.
 1. Copia i contenuti del file <code>d2x_<wbr>cIOS_<wbr>Installer<wbr>.zip</code> nella radice della tua scheda SD.
-1. Copy the contents of the downloaded Tiramisu *`.zip`* file to the root of your SD Card.
+1. Copia nella root della tua scheda SD il contenuto del file *`.zip`* di Tiramisu appena scaricato.
 1. Copia il file `compat_installer.elf` nella cartella `wiiu/apps` nel root della tua scheda SD.
 1. Togli la scheda SD dal computer e inseriscila nella console Wii U.
 
@@ -81,7 +81,7 @@ Nel caso qualcosa andasse storto durante il processo e la tua vWii si bricka, ri
 
 ### Patchare l'IOS 80
 
-!> If for any reason, the Wii U is turned off while patching IOS 80, your vWii will be bricked. This can be fixed by either extracting the IOS 80 from your previously made NAND backup and then replacing it over FTP or by [reinstalling IOS 80](recover-vwii-ioses-channels).
+!> Se per qualche modo, il tuo Wii U viene spento mentre patchi IOS 80, il tuo vWii verrà brickato. Questo può essere riparato estraendo IOS 80 dal tuo precedentemente fatto backup della NAND e poi scambiandolo con un FTP oppure [reinstallando IOS 80](recover-vwii-ioses-channels).
 
 1. Avvia Patched IOS 80 Installer for vWii.
 1. Leggi la schermata di avviso e aspetta 30 secondi.
@@ -89,8 +89,8 @@ Nel caso qualcosa andasse storto durante il processo e la tua vWii si bricka, ri
 1. Aspetta finchè dice <code>IOS80 <wbr>Installation <wbr>is <wbr>complete!</code>.
 1. Premi un qualsiasi pulsante per uscire.
 
-!> Installing custom System Menu is a definite brick risk and you should always have an effective backup before installing one but when done right, won't brick the vWii.
+!> Installando un Menu di Sistema personalizzato è un brick definitivo quindi dovresti sempre avere un backup prima di installare un Menu di Sistema ma quando fatto bene, non brickerà il vWii.
 
-!> Installing any IOS (including TED IOSes) or wads made for the original Wii on your vWii will brick it.
+!> Installando un IOS (includendo le IOS TED) o wad fatti per il Wii originale nella tua vWii ti brickerà il vWii.
 
-!> Installing Priiloader will brick your vWii.
+!> L'installazione di Priiloader ti brickerà il tuo vWii.

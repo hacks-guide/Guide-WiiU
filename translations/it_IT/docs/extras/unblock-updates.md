@@ -2,6 +2,8 @@
 ---
 Questo è necessario se avrai mai bisogno di eseguire un Aggiornamento della Console.
 
+?> If you are running Tiramisu and have deleted the update folder, you need to disable both autobooting and recreate the update folder.
+
 ### Istruzioni {docsify-ignore}
 
 <!-- tabs:start -->
