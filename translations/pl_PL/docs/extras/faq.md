@@ -17,34 +17,30 @@ Payload'y, o nazwie `payload.elf`, istnieją aby ułatwić ładowanie różnych 
 
 Środowisko jest kolekcją "modułów konfiguracji", które będą uruchamiane w określonej kolejności podczas uruchamiania środowiska. Jednym z takich środowisk jest Tiramisu. Moduły konfiguracyjne są małymi częściami homebrew/kodu, które są wykonywane w celu utworzenia środowiska.
 
-### Czy mogę zainstalować gry z mojego USB zamiast SD?
+### How to Delete Update Folder to Block Updates on Wii U
 
-Tak. Jest to jednak nieco bardziej skomplikowane niż instalowanie z karty SD. Szczegółowe instrukcje znajdują się na stronie `Instalacja z USB` w [Poradniku zrzucania gry z płyt](dump-games).
+If you want to delete the update folder to block updates, see its tab in the [Blocking Updates guide](block-updates).
 
-### Jak usunąć folder "Update", aby zablokować aktualizacje na Wii U
-
-Jeśli chcesz usunąć folder aktualizacji, aby zablokować aktualizacje, sprawdź stronę [Instrukcja blokowania aktualizacji](block-updates).
-
-### Jaki rozmiar karty SD jest zalecany?
+### What SD Card size is recommended?
 
  - **Instalacja kopii zapasowych gier:** 32GB (można użyć mniejszego rozmiaru, ale niektóre tytuły mają rozmiar 20GB)
  - **Uruchamianie modyfikacji gry:** 8GB (urządzenie FAT32 na USB może być również używane do modów)
  - **Uruchamianie tylko aplikacji homebrew** Dowolny rozmiar.
 
-**Rekomendowane marki:** SanDisk, Samsung lub PNY
+**Recommended brands:** SanDisk, Samsung or PNY
 
-?> Uwaga: Unikaj kart SD klasy 4 i unikaj eBay!
+?> Note: Avoid class 4 SD Cards, and avoid eBay!
 
-### Czy mogę zainstalować homebrew na Wii U za pomocą urządzenia USB zamiast karty SD?
+### Can I install homebrew on Wii U with a USB instead of SD Card?
 
-Nie, musisz mieć kartę SD do pierwszej konfiguracji. USB może być używane do instalowania kopii zapasowych gier, na Wii U, w konsoli wirtualnej vWii itp., ale nie do przechowywania aplikacji homebrew które są wymagane do skonfigurowania systemu/środowiska.
+No, you must have an SD Card for a first time setup. A USB can then be used to install game backups, Virtual Console injects, etc, but not to store homebrew applications which are required to set everything up.
 
-### Podczas pobierania niektórych plików istnieją duplikaty niektórych z nich o nazwie "info.json" & "manifest.install", co z nimi robię?
+### Podczas pobierania niektórych plików powstają duplikaty niektórych z nich o nazwie "info.json" & "manifest.install", co mam z nimi zrobić?
 
-Nic specjalnego, możesz je tam zostawić, usunąć lub zastąpić nowymi. Pliki te nie są używane, a zatem nie jest ważne czy istnieją czy też nie.
+Nic specjalnego, możesz je tam zostawić, usunąć lub zastąpić nowymi. Those files are not used in the process, and therefore, won't have any impact by being or not being there.
 
-### Czym jest sformatowany dysk USB Wii U?
+### What is a Wii U formatted USB drive?
 
-To jest dysk USB, który został sformatowany przez konsolę Wii U do jej własnego formatu.  
-Dysk USB sformatowany przez Wii U ***nie może być odczytany przez żadne inne urządzenia niż Wii U, które pierwotnie go sformatowało.***  
-Jeśli chcesz użyć go z inną konsolą Wii U lub innymi urządzeniami, będzie musiał go zreformatować.
+It's a USB drive that has been formatted by a Wii U console to its proprietary format.  
+A Wii U formatted USB drive ***cannot be read by any other devices than the Wii U that originally formatted it.***  
+If you ever want to use it with another Wii U console or any other devices, you will have to reformat it.
