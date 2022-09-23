@@ -48,7 +48,7 @@ This guide has the end goal of taking a completely unmodified Wii U from stock t
 > - A device such as a computer to place files onto the SD Card.
 > - A Wii U with internet access.
 >
-> Your SD Card should preferably be 32 gigabytes large, as a full NAND backup for the console will take up around 8 or 30 gigabytes depending on your model.
+>  A 32GB SD Card will be enough for most use-cases. A Micro SD Card in an adapter will work fine.
 
 If everything goes according to plan, you will lose no data and end up with everything that you started with (games, saves, NNID, etc, will be preserved).
 
