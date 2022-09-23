@@ -17,13 +17,9 @@ Payloads, which are normally found with the filename `payload.elf`, exist to mak
 
 An environment is a collection of "setup modules", which will be run in a certain order when launching the environment. One such environment is Tiramisu. Setup modules are small pieces of homebrew/code that are executed once to set up an environment.
 
-### Can I install games from my USB instead of SD?
-
-是的。 然而它会比从 SD 卡上安装要复杂一点点。 详细说明在[导出手册](dump-games)中的`从 USB 设备中安装`选项卡里头可以看到。
-
 ### How to Delete Update Folder to Block Updates on Wii U
 
-如果你想删除更新文件夹来阻止更新，请参见[阻止更新手册](block-updates)中的选项卡。
+If you want to delete the update folder to block updates, see its tab in the [Blocking Updates guide](block-updates).
 
 ### What SD Card size is recommended?
 
@@ -31,20 +27,20 @@ An environment is a collection of "setup modules", which will be run in a certai
  - **Running game mods:** 8GB (FAT32 USB drive may be used as well for mods)
  - **Only running homebrew apps:** Any size.
 
-**推荐内存卡品牌：** 闪迪、三星或必恩威
+**Recommended brands:** SanDisk, Samsung or PNY
 
-?> 注意：远离 class 4 SD 卡和淘宝或 eBay 上的杂牌内存卡！
+?> Note: Avoid class 4 SD Cards, and avoid eBay!
 
 ### Can I install homebrew on Wii U with a USB instead of SD Card?
 
-不行，你必须在 SD 卡中做完初始安装。 USB 存储设备可用于安装游戏备份或注入 VC 游戏等等，但请不要在里头存任何需要用来启动 Homebrew 所需要的程序。
+No, you must have an SD Card for a first time setup. A USB can then be used to install game backups, Virtual Console injects, etc, but not to store homebrew applications which are required to set everything up.
 
 ### 当我解压一些文件时，某些叫做 “info.json” & “manifest.install” 的文件重复了，我对这些文件要咋整？
 
-你自己看着整吧，无论是把它们留在原处、删除它们或者替换它们为新的什么的等等都由你自己摆布。 也就是说，这些东西它有没有都无伤大雅。
+你自己看着整吧，无论是把它们留在原处、删除它们或者替换它们为新的什么的等等都由你自己摆布。 Those files are not used in the process, and therefore, won't have any impact by being or not being there.
 
 ### What is a Wii U formatted USB drive?
 
-Wii U 会把你的 USB 设备格式化成这台 Wii U 独有的格式。  
-一个被一台 Wii U 格式化的 USB 设备***不能被格式化它以外的设备读取。***  
-如果你想要将其用在另一台 Wii U 主机上或者其他的设备上，则你就必须重新再次格式化它。
+It's a USB drive that has been formatted by a Wii U console to its proprietary format.  
+A Wii U formatted USB drive ***cannot be read by any other devices than the Wii U that originally formatted it.***  
+If you ever want to use it with another Wii U console or any other devices, you will have to reformat it.
