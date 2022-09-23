@@ -20,7 +20,7 @@ Si vous avez l'intention d'utiliser ce guide pour ensuite partager vos jeux dump
 - Votre carte SD a besoin de suffisamment d'espace pour stocker le jeu que vous voulez dumper.
 - If wanting to install to a USB, A USB HDD (+ a Y-cable if needed).
 - La dernière version de [WUP Installer GX2](https://wiiubru.com/appstore/zips/wup_installer_gx2.zip).
-- The [wudd](https://github.com/wiiu-env/wudd/releases) homebrew application.
+- The [wudd](https://wiiubru.com/appstore/zips/wudd.zip) homebrew application.
 
 #### Instructions {docsify-ignore}
 
