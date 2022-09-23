@@ -43,9 +43,9 @@ Målet med denne guiden er å gå fra en umodifisert konsoll til å kjøre custo
 > 
 > - Et SD-kort.
 > - Noe til å overføre filer til SD-kortet som for eksempel en PC.
-> - En Wii U konsoll med internett tilkobling.
-> 
-> Vi anbefaler at du bruker ett 32gb SD-kort, siden en full NAND backup av konsollen vil ta rundt 8gb eller 30gb avhengig av hvilken modell du har.
+> - A Wii U with internet access.
+>     
+>     A 32GB SD Card will be enough for most use-cases. A Micro SD Card in an adapter will work fine.
 
 Hvis du følger guiden riktig, vil du fortsatt ha alt du startet med (spill, saves, NNID osv blir bevart).
 
