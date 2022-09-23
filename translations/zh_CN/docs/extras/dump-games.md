@@ -20,7 +20,7 @@
 - 你的 SD 卡需要保存游戏的导出文件的足够的空间。
 - If wanting to install to a USB, A USB HDD (+ a Y-cable if needed).
 - 最新版 [WUP Installer GX2](https://wiiubru.com/appstore/zips/wup_installer_gx2.zip)。
-- The [wudd](https://github.com/wiiu-env/wudd/releases) homebrew application.
+- The [wudd](https://wiiubru.com/appstore/zips/wudd.zip) homebrew application.
 
 #### 步骤 {docsify-ignore}
 
