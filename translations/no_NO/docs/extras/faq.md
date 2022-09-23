@@ -17,34 +17,30 @@ Payloads, som normalt har filnavnet `payload.elf`, finnes for å gjøre det lett
 
 Ett Environment er en kolleksjon av "setup moduler", som vil kjøre i en bestemt rekkefølge når man starter ett environment. Tiramisu er navnet på ett environment. Setup moduler er små biter med homebrew/kode som kjører en gang for å sette opp ett environment.
 
-### Kan jeg installere spill fra USB penn istedenfor SD-kort?
+### How to Delete Update Folder to Block Updates on Wii U
 
-Ja. Men det er mer komplisert enn å installere fra ett SD-kort. Detaljerte instruksjoner finner du i `Installere fra USB` fanen i [Dump guiden](dump-games).
+If you want to delete the update folder to block updates, see its tab in the [Blocking Updates guide](block-updates).
 
-### Hvordan sletter man update mappa for å blokkere systemoppdateringer på Wii U konsollen
-
-Hvis du vil slette update mappa for å blokkere systemoppdateringer, skjekk ut hvordan man kan [Blokke Oppdateringer ](block-updates).
-
-### Hva slags SD-kort størrelse anbefales?
+### What SD Card size is recommended?
 
  - **Installering av spill:** 32gb (man kan bruke mindre størrelser, men noen spill er oppe i 20gb)
  - **Kjøre spill mods:** 8gb (FAT32 USB penn kan også brukes til mods)
  - **Bare homebrew-apper:** Alle størrelser.
 
-**Anbefalte merkevarer:** SanDisk, Samsung eller PNY
+**Recommended brands:** SanDisk, Samsung or PNY
 
-?> Merk: Unngå class 4 SD-kort, og kort fra eBay!
+?> Note: Avoid class 4 SD Cards, and avoid eBay!
 
-### Kan jeg installere homebrew på Wii U med en USB penn i stedenfor ett SD-kort?
+### Can I install homebrew on Wii U with a USB instead of SD Card?
 
-Nei, du må ha et SD-kort for et første gangs oppsett. En USB-enhet kan deretter brukes til å installere spill, VC injections osv, men ikke lagre homebrew apper som er nødvendig for å sette opp alt.
+No, you must have an SD Card for a first time setup. A USB can then be used to install game backups, Virtual Console injects, etc, but not to store homebrew applications which are required to set everything up.
 
 ### Når jeg pakker ut noen av filene er det duplikater av noen som heter "info.json" & "manifest.install", hva gjør jeg med dem?
 
-Du kan la dem ligge, slette dem eller kopiere over dem med de nye filene. Disse filene brukes ikke i prosessen, derfor er det ingen forskjell på om de er der eller ikke.
+Du kan la dem ligge, slette dem eller kopiere over dem med de nye filene. Those files are not used in the process, and therefore, won't have any impact by being or not being there.
 
-### Hva er en Wii U formatert USB lagringsenhet?
+### What is a Wii U formatted USB drive?
 
-Det er en USB lagringsenhet som er formatert av en Wii U konsoll til sitt proprietære format.  
-En Wii U-formatert USB-enhet ***kan ikke leses av noen andre enheter enn Wii U konsollen som formaterte den. ***   
-Hvis du vil bruke den med en annen Wii U konsoll eller en PC, må du formatere den igjen.
+It's a USB drive that has been formatted by a Wii U console to its proprietary format.  
+A Wii U formatted USB drive ***cannot be read by any other devices than the Wii U that originally formatted it.***  
+If you ever want to use it with another Wii U console or any other devices, you will have to reformat it.
