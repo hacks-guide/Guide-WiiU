@@ -17,10 +17,6 @@ Payloads, which are normally found with the filename `payload.elf`, exist to mak
 
 An environment is a collection of "setup modules", which will be run in a certain order when launching the environment. One such environment is Tiramisu. Setup modules are small pieces of homebrew/code that are executed once to set up an environment.
 
-### Can I install games from my USB instead of SD?
-
-Yes. It is, however, a bit more complicated than installing from SD Card. Detailed instructions are in the `Install from USB` tab in the [Dumping guide](dump-games).
-
 ### How to Delete Update Folder to Block Updates on Wii U
 
 If you want to delete the update folder to block updates, see its tab in the [Blocking Updates guide](block-updates).
