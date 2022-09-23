@@ -43,9 +43,9 @@ Homebrew 是由用户自制的且 Nintendo 没有授权的程序。 包括存档
 > 
 > - 一张 SD 卡。
 > - 一台能够向 SD 卡存入文件的设备（比如电脑）。
-> - 一台可联网的 Wii U。
-> 
-> 你选择使用的 SD 卡最好是 32 GB 大的，因为完整地备份 NAND 需要占用 8 或 30 GB（取决于你准备破解的型号）。
+> - A Wii U with internet access.
+>     
+>     A 32GB SD Card will be enough for most use-cases. A Micro SD Card in an adapter will work fine.
 
 按照本教程给的步骤进行破解不会丢失你的数据（游戏、NNID和存档等等都应会被保存）。
 
