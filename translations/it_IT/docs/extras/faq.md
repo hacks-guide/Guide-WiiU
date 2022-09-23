@@ -17,34 +17,30 @@ Un payload, il cui file è solitamente chiamato `payload.elf`, esiste per portar
 
 Un ambiente è una raccolta di "moduli di configurazione", che saranno eseguiti in un certo ordine quando si avvia l'ambiente. Un ambiente è per esempio Tiramisu. I moduli di configurazione sono piccoli pezzi di homebrew/codice che vengono eseguiti una volta per configurare un ambiente.
 
-### Posso installare giochi dal mio USB invece della SD?
+### How to Delete Update Folder to Block Updates on Wii U
 
-Sì. È, tuttavia, un po' più complicato dell'installazione dalla scheda SD. Istruzioni dettagliate sono nella tabella `Installazione da USB` nella [guida sul dumping dei dischi Wii U](dump-games).
+If you want to delete the update folder to block updates, see its tab in the [Blocking Updates guide](block-updates).
 
-### Come eliminare la cartella Update per bloccare gli aggiornamenti su Wii U
-
-Se vuoi eliminare la cartella Update per bloccare gli aggiornamenti, guarda la tabella relativa nella [guida sul blocco degli aggiornamenti](block-updates).
-
-### Quale dimensione della scheda SD è consigliata?
+### What SD Card size is recommended?
 
  - **Installare backup di giochi:** 32GB (si potrebbe usare una dimensione inferiore, ma certi titoli sono di 20GB)
  - **Eseguire mod di giochi:** 8GB (USB FAT32 potrebbero anche essere utilizzate per le mod)
  - **Solo eseguire app homebrew:** Qualsiasi dimensione.
 
-**Marche consigliate:** SanDisk, Samsung o PNY
+**Recommended brands:** SanDisk, Samsung or PNY
 
-?> Nota: evita schede SD di classe 4, ed evita eBay!
+?> Note: Avoid class 4 SD Cards, and avoid eBay!
 
-### Posso installare homebrew su Wii U con un'USB invece di una scheda SD?
+### Can I install homebrew on Wii U with a USB instead of SD Card?
 
-No, devi avere una scheda SD per la prima configurazione. Un USB può poi essere utilizzato per installare backup di giochi, iniettare Virtual Console e altro, ma non per memorizzare applicazioni homebrew che sono necessarie per configurare tutto.
+No, you must have an SD Card for a first time setup. A USB can then be used to install game backups, Virtual Console injects, etc, but not to store homebrew applications which are required to set everything up.
 
 ### Quando si estraggono alcuni file ci sono determinati duplicati chiamati "info.json" & "manifest.install", cosa devo fare con questi?
 
-Niente di speciale, puoi lasciarli lì, eliminarli o sostituirli con dei nuovi. Questi file non vengono utilizzati nel processo, perciò non avrà alcun impatto se sono presenti o meno.
+Niente di speciale, puoi lasciarli lì, eliminarli o sostituirli con dei nuovi. Those files are not used in the process, and therefore, won't have any impact by being or not being there.
 
-### Cos'è un dispositivo USB formattato con Wii U?
+### What is a Wii U formatted USB drive?
 
-È un dispositivo USB che è stato formattato da una console Wii U nel suo formato proprietario.  
-Un dispositivo USB formattato in Wii U ***non può essere letto da nessun altro dispositivo oltre al Wii U che lo ha formattato originariamente.***  
-Se vorrai mai usarlo con un'altra console Wii U o con altri dispositivi, dovrai formattarlo nuovamente.
+It's a USB drive that has been formatted by a Wii U console to its proprietary format.  
+A Wii U formatted USB drive ***cannot be read by any other devices than the Wii U that originally formatted it.***  
+If you ever want to use it with another Wii U console or any other devices, you will have to reformat it.
