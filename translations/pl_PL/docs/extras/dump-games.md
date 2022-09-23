@@ -20,7 +20,7 @@ Jeśli zamierzasz użyć tego przewodnika do dzielenia się twoimi zrzuconymi gr
 - Karta SD z odpowiednią ilością miejsca na gry, które będziesz zrzucał.
 - If wanting to install to a USB, A USB HDD (+ a Y-cable if needed).
 - Najnowsze wydanie [WUP Installer GX2](https://wiiubru.com/appstore/zips/wup_installer_gx2.zip).
-- The [wudd](https://github.com/wiiu-env/wudd/releases) homebrew application.
+- The [wudd](https://wiiubru.com/appstore/zips/wudd.zip) homebrew application.
 
 #### Instrukcje {docsify-ignore}
 
