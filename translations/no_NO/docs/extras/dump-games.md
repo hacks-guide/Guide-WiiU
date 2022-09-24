@@ -20,7 +20,7 @@ Ikke bruk denne guiden til å dele spillene dine.
 - SD-kortet må ha nok plass til spillet du vil dumpe.
 - Hvis du ønsker å installere til USB, så trenger du en USB harddisk (+ en Y-kabel hvis det trengs).
 - Siste utgave av [WUP Installer GX2](https://wiiubru.com/appstore/zips/wup_installer_gx2.zip).
-- The [wudd](https://wiiubru.com/appstore/zips/wudd.zip) homebrew application.
+- Homebrew appen [wudd](https://wiiubru.com/appstore/zips/wudd.zip).
 
 #### Instruksjoner {docsify-ignore}
 
