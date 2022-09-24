@@ -21,4 +21,4 @@ Nå som du har en NAND backup i tilfelle noe går galt senere, kan du installere
 1. Du vil bli spurt om du er sikker på at du vil installere PayloadLoader. Bruk D-Paden for å velge `Install` og trykk A.
 1. Etter installasjonen er fullført, trykk A for å slå av konsollen.
 
-!> If you do not wish to autoboot Tiramisu on your console, you can skip the `Autobooting Tiramisu` part and head directly to [Finalizing Setup](finalizing-setup).
+!> Hvis du ikke ønsker å autoboote Tiramisu på konsollen, kan du hoppe over `Autobooting Tiramisu` delen og gå rett til [Fullføre Installasjon](finalizing-setup).
