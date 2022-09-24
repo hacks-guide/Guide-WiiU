@@ -2,7 +2,7 @@
 ---
 Dette må du gjøre hvis du noen gang trenger en systemoppdatering.
 
-?> If you are running Tiramisu and have deleted the update folder, you need to disable both autobooting and recreate the update folder.
+?> Hvis du kjører Tiramisu og har sletta update mappa, så må du deaktivere autobooting og lage en ny update mappe på konsollen.
 
 ### Instruksjoner {docsify-ignore}
 
@@ -12,7 +12,7 @@ Dette må du gjøre hvis du noen gang trenger en systemoppdatering.
 
 ### Fjerne Tiramisu Autoboot
 
-?> When autobooting into the PayloadLoader, updates are automatically blocked. Follow the guide below to disable it.
+?> Når du booter inn i PayloadLoader, vil oppdateringer automatisk blokkeres. Følg guiden nedenfor for å deaktivere den.
 
 1. Start konsollen mens du holder X på Gamepad'en.
 1. Gå til `installer` environment og kjør den ved å trykke på A.
