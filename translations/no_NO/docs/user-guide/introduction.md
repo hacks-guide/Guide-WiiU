@@ -37,15 +37,15 @@ Målet med denne guiden er å gå fra en umodifisert konsoll til å kjøre custo
 
 !> Før du starter guiden, må du være klar over risikoen ved å hacke en Wii U konsoll: **HVER** gang du endrer systemfiler, kan du potensielt **"BRICKE"** konsollen. Det skjer sjeldent, men det er fortsatt mulig så følg **ALLE** trinnene **NØYAKTIG!**
 >
-> This guide will work on all Wii U consoles in all regions on the latest firmware (5.5.6 for North American consoles, 5.5.5 for all other regions) or below.
+> Denne guiden vil fungere på alle Wii-U konsoller i alle regioner på siste firmware versjon (5.5.6 for Nord Amerikanske konsoller, 5.5.5 for alle andre regioner) eller lavere.
 > 
 > Dette trenger du for å følge denne guiden:
 > 
 > - Et SD-kort.
 > - Noe til å overføre filer til SD-kortet som for eksempel en PC.
-> - A Wii U with internet access.
+> - En Wii U konsoll med internett tilkobling.
 >     
->     A 32GB SD Card will be enough for most use-cases. A Micro SD Card in an adapter will work fine.
+>     Ett 32gb SD-kort vil være godt nok for de aller fleste. Ett micro SD-kort i adapter er helt greit.
 
 Hvis du følger guiden riktig, vil du fortsatt ha alt du startet med (spill, saves, NNID osv blir bevart).
 
