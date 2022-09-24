@@ -11,7 +11,7 @@ Her vil vi plassere de nødvendige CFW-filene og noen ekstra homebrew filer på 
 ### Dette trenger du
 
 - Nyeste utgave av [Tiramisu for your café](https://tiramisu.foryour.cafe).
-    - Click on `Download Tiramisu`.
+    - Klikk på `Download Tiramisu`.
 - Nyeste utgave av [Sigpatches Module](https://github.com/marco-calautti/SigpatchesModuleWiiU/releases).
     - Du må laste ned `01_sigpatches.rpx` filen.
 
