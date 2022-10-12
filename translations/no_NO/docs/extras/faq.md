@@ -17,13 +17,9 @@ Payloads, som normalt har filnavnet `payload.elf`, finnes for å gjøre det lett
 
 Ett Environment er en kolleksjon av "setup moduler", som vil kjøre i en bestemt rekkefølge når man starter ett environment. Tiramisu er navnet på ett environment. Setup moduler er små biter med homebrew/kode som kjører en gang for å sette opp ett environment.
 
-### Kan jeg installere spill fra USB penn istedenfor SD-kort?
-
-Ja. Men det er mer komplisert enn å installere fra ett SD-kort. Detaljerte instruksjoner finner du i `Installere fra USB` fanen i [Dump guiden](dump-games).
-
 ### Hvordan sletter man update mappa for å blokkere systemoppdateringer på Wii U konsollen
 
-Hvis du vil slette update mappa for å blokkere systemoppdateringer, skjekk ut hvordan man kan [Blokke Oppdateringer ](block-updates).
+Hvis du vil slette update mappa for å blokkere systemoppdateringer, skjekk ut hvordan man kan [Blokkere Oppdateringer ](block-updates).
 
 ### Hva slags SD-kort størrelse anbefales?
 
@@ -31,7 +27,7 @@ Hvis du vil slette update mappa for å blokkere systemoppdateringer, skjekk ut h
  - **Kjøre spill mods:** 8gb (FAT32 USB penn kan også brukes til mods)
  - **Bare homebrew-apper:** Alle størrelser.
 
-**Anbefalte merkevarer:** SanDisk, Samsung eller PNY
+**Anbefalte merker:** SanDisk, Samsung eller PNY
 
 ?> Merk: Unngå class 4 SD-kort, og kort fra eBay!
 
@@ -45,6 +41,6 @@ Du kan la dem ligge, slette dem eller kopiere over dem med de nye filene. Disse 
 
 ### Hva er en Wii U formatert USB lagringsenhet?
 
-Det er en USB lagringsenhet som er formatert av en Wii U konsoll til sitt proprietære format.  
+Det er en USB penn eller harddisk som er formatert av en Wii U konsoll til sitt proprietære format.  
 En Wii U-formatert USB-enhet ***kan ikke leses av noen andre enheter enn Wii U konsollen som formaterte den. ***   
 Hvis du vil bruke den med en annen Wii U konsoll eller en PC, må du formatere den igjen.

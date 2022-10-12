@@ -43,9 +43,9 @@ Ce guide a pour but final de faire passer une Wii U de "non modifiée" à "modif
 > 
 > - Une carte SD.
 > - Un appareil tel qu'un ordinateur pour placer des fichiers sur la carte SD.
-> - Une Wii U avec un accès à Internet.
-> 
-> Votre carte SD devrait de préférence faire 32 gigaoctets, étant donné qu'une sauvegarde complète de la NAND de votre console prendra environ 8 ou 30 gigaoctets selon votre modèle.
+> - A Wii U with internet access.
+>     
+>     A 32GB SD Card will be enough for most use-cases. A Micro SD Card in an adapter will work fine.
 
 Si tout se passe comme prévu, vous ne perdrez aucune donnée et finirez avec tout ce que vous aviez avant de commencer (jeux, NNID, les données de sauvegarde, etc seront conservés).
 

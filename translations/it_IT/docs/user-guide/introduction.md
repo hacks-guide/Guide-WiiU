@@ -43,9 +43,9 @@ Questa guida ha l'obiettivo finale di prendere una Wii U completamente non modif
 > 
 > - Una Scheda Sd.
 > - Un dispositivo come un computer per inserire determinati file nella Scheda SD.
-> - Una Wii U con accesso ad Internet.
-> 
-> La tua Scheda SD dovrebbe essere preferibilmente da 32 Gigabyte, poiché un backup della NAND completo peserà 8GB o 32GB, dipende dal modello di console.
+> - A Wii U with internet access.
+>     
+>     A 32GB SD Card will be enough for most use-cases. A Micro SD Card in an adapter will work fine.
 
 Se tutto va secondo i piani, non perderai nessun dato e rimarrai con tutto quello che avevi prima di iniziare la guida (giochi, salvataggi, NNID, etc verranno conservati).
 

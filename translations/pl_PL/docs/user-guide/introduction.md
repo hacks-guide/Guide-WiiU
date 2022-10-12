@@ -43,9 +43,9 @@ Ten poradnik ma na celu przekształcenie całkowicie niezmodyfikowanego Wii U, d
 > 
 > - Karta SD.
 > - Urządzenie takie jak komputer do umieszczania plików na karcie SD.
-> - Wii U z dostępem do Internetu.
-> 
-> Twoja karta SD powinna mieć co najmniej 32 gigabajty pojemności, ponieważ pełna kopia zapasowa NAND dla konsoli zajmie od około 8 do 30 gigabajtów pamięci w zależności od modelu.
+> - A Wii U with internet access.
+>     
+>     A 32GB SD Card will be enough for most use-cases. A Micro SD Card in an adapter will work fine.
 
 Jeśli wszystko pójdzie zgodnie z planem, nie stracisz żadnych danych i wszystkie gry, zapisy, NNID itp., zostaną zachowane.
 
