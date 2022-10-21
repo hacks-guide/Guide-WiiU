@@ -15,7 +15,7 @@ We will now place the required Homebrew files on the SD Card.
 
 - The latest files from [Tiramisu for your café](https://tiramisu.foryour.cafe).
     - Select `Nanddumper` and `Base-Tiramisu`.
-- The latest release of the [vwii-compat-installer](https://github.com/TheLordScruffy/vwii-compat-installer/releases).
+- The latest release of the [vwii-compat-installer](https://github.com/Xpl0itU/vwii-compat-installer/releases).
 - The <a href="docs/files/Patched_IOS80_Installer_for_vWii.zip" download>Patched IOS 80 Installer for vWii</a>.
 - The <a href ="docs/files/d2x_cIOS_Installer.zip" download>d2x cIOS Installer</a>.
 
@@ -25,7 +25,7 @@ We will now place the required Homebrew files on the SD Card.
 1. Copy the `apps` folder from the <code>Patched_<wbr>IOS80_<wbr>Installer_<wbr>for_<wbr>vWii<wbr>.zip</code> file to the root of your SD Card.
 1. Copy the contents of the <code>d2x_<wbr>cIOS_<wbr>Installer<wbr>.zip</code> file to the root of your SD Card.
 1. Copy the contents of the downloaded Tiramisu *`.zip`* file to the root of your SD Card.
-1. Copy the `compat_installer.elf` file to the `wiiu/apps` folder on the root of your SD Card.
+1. Copy the `compat_installer.rpx` file to the `wiiu/apps` folder on the root of your SD Card.
 1. Take the SD Card out of your computer and plug it into your Wii U console.
 
 ### NAND Backup
