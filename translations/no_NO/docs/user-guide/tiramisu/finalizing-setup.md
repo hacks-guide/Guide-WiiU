@@ -19,7 +19,7 @@ Vi skal gjøre så Tiramisu environmentet starter automatisk når konsollen auto
 ?> Når du har kommet inn i Tiramisu environment, kan du åpne Mii Maker appen når som helst for å komme inn i Homebrew Launcher. <br>For å gå tilbake til Mii Maker, trykk HOME knappen mens du er i Homebrew Launcher.
 
 ### Blokkere Systemoppdateringer
-Selv om Tiramisu allerede har en update block funksjon, så er det anbefalt å slette update mappen for være sikker på at systemet ikke oppdateres automatisk. Hvis du får ett rødt advarselvindu mens du starter opp i Tiramisu, så betyr det at update mappen fortsatt er i systemet og det er anbefalt å slette den med [denne guiden](../block-updates).
+While Tiramisu's PayloadLoader already has built-in update blocking functionality, it is recommended to delete the update folder to effectively block system updates. Hvis du får ett rødt advarselvindu mens du starter opp i Tiramisu, så betyr det at update mappen fortsatt er i systemet og det er anbefalt å slette den med [denne guiden](../block-updates).
 
 ### Ekstra Homebrew-apper
 
