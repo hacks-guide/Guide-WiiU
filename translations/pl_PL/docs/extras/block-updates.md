@@ -2,7 +2,7 @@
 ---
 W przeciwieństwie do np. exploitów Nintendo Switch RCM, wszystkie obecnie znane exploity Wii U mogą być nadpisane przez aktualizację systemu. Chociaż Wii U nie jest już oficjalnie wspierane, Nintendo może nadal wydawać aktualizacje dla tej konsoli. Namely, the updates 5.5.3 up to 5.5.6 were all released after the Wii U was discontinued, so blocking updates is still a recommended action.
 
-While Tiramisu already has built-in update blocking functionality, it is recommended to delete the update folder to effectively block system updates. If you get a red warning screen while booting into Tiramisu, the update folder still exists and it is recommended to delete it using the guide below.
+While Tiramisu's PayloadLoader already has built-in update blocking functionality, it is recommended to delete the update folder to effectively block system updates. If you get a red warning screen while booting into Tiramisu, the update folder still exists and it is recommended to delete it using the guide below.
 
 ### Instrukcje {docsify-ignore}
 
@@ -15,7 +15,7 @@ Currently, two ways exist to effectively block updates on the Wii U system:
 
 ?> This method of update blocking is a bit more advanced than DNS Blocking and uses a homebrew app to modify system files. However, it has the advantage that the eShop's functionality will not be restricted.
 1. Podłącz kartę SD do swojego komputera.
-1. Pobierz i rozpakuj [UFDiine](https://github.com/GaryOderNichts/UFDiine/releases) do katalogu głównego karty SD.
+1. Download and extract [UFDiine](https://github.com/GaryOderNichts/UFDiine/releases/tag/v1.1) to the root of your SD Card.
 1. Podłącz kartę SD do swojej konsoli Wii U i włącz ją.
 1. Wejdź do Homebrew Launcher.
 1. Znajdź aplikację UFDiine i uruchom ją.
