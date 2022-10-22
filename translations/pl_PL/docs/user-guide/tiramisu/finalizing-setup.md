@@ -19,7 +19,7 @@ Zamierzamy sprawić, by środowisko Tiramisu ładowało się automatycznie kiedy
 ?> Po uruchomieniu się środowiska Tiramisu możesz otworzyć Mii Maker w dowolnym momencie, aby dostać się do Homebrew Launchera. <br>Aby wrócić do Mii Maker, po prostu naciśnij przycisk HOME będąc w Homebrew Launcher.
 
 ### Blokowanie Aktualizacji
-While Tiramisu already has built-in update blocking functionality, it is recommended to delete the update folder to effectively block system updates. If you get a red warning screen while booting into Tiramisu, the update folder still exists and it is recommended to delete it using [this guide](../block-updates).
+While Tiramisu's PayloadLoader already has built-in update blocking functionality, it is recommended to delete the update folder to effectively block system updates. If you get a red warning screen while booting into Tiramisu, the update folder still exists and it is recommended to delete it using [this guide](../block-updates).
 
 ### Additional Homebrew Apps
 
