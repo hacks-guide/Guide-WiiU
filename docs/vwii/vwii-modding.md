@@ -14,8 +14,10 @@ We will now place the required Homebrew files on the SD Card.
 ### What You Need {docsify-ignore}
 
 - The latest files from [Tiramisu for your café](https://tiramisu.foryour.cafe).
-    - Select `Nanddumper` and `Base-Tiramisu`.
-- The latest release of the [vwii-compat-installer](https://github.com/TheLordScruffy/vwii-compat-installer/releases).
+    - Click on `Download Tiramisu`.
+- The latest files from [Aroma for your caf](https://aroma.foryour.cafe)
+    - Select `Environment Loader`, `Nanddumper`, `fw.img loader` and `Base-Aroma`.
+- The latest release of the [vwii-compat-installer](https://github.com/Xpl0itU/vwii-compat-installer/releases).
 - The <a href="docs/files/Patched_IOS80_Installer_for_vWii.zip" download>Patched IOS 80 Installer for vWii</a>.
 - The <a href ="docs/files/d2x_cIOS_Installer.zip" download>d2x cIOS Installer</a>.
 
@@ -24,8 +26,9 @@ We will now place the required Homebrew files on the SD Card.
 1. Insert your Wii U's SD Card into your PC.
 1. Copy the `apps` folder from the <code>Patched_<wbr>IOS80_<wbr>Installer_<wbr>for_<wbr>vWii<wbr>.zip</code> file to the root of your SD Card.
 1. Copy the contents of the <code>d2x_<wbr>cIOS_<wbr>Installer<wbr>.zip</code> file to the root of your SD Card.
-1. Copy the contents of the downloaded Tiramisu *`.zip`* file to the root of your SD Card.
-1. Copy the `compat_installer.elf` file to the `wiiu/apps` folder on the root of your SD Card.
+1. **Extract** and copy the contents of the downloaded Tiramisu *`.zip`* file to the root of your SD Card.
+1. **Extract** and copy the contents of the newly downloaded from the Payloads and Base-Aroma `.zip` files to the root of the SD Card.
+1. Copy the `compat_installer.rpx` file to the `wiiu/apps` folder on the root of your SD Card.
 1. Take the SD Card out of your computer and plug it into your Wii U console.
 
 ### NAND Backup
@@ -49,8 +52,7 @@ In case anything goes wrong in the later process and your vWii ends up bricked, 
 
 ### Installing the Homebrew Channel
 
-1. Boot into [Tiramisu](vwii/browser-exploit).
-1. Launch the Homebrew Launcher, by opening the Mii Maker.
+1. Boot into [Aroma](vwii/browser-exploit).
 1. Launch the compat_installer.
 1. Press `A` to install the Homebrew Channel and wait until you see `Install succeeded`. Then press the HOME button to return to the Wii U Menu.
 1. Launch vWii (the Wii Menu icon).
@@ -65,12 +67,12 @@ In case anything goes wrong in the later process and your vWii ends up bricked, 
 1. Launch d2x cIOS Installer.
 1. Set everything to match the following:
     - Select cIOS: `v10 beta52 d2x-v10-beta52-vWii`
-    - Select cIOS base: `56`
+    - Select cIOS base: `57`
     - Select cIOS slot: `249`
 1. Press the `A` button to install.
 1. Set everything to match the following:
     - Select cIOS: `v10 beta52 d2x-v10-beta52-vWii`
-    - Select cIOS base: `57`
+    - Select cIOS base: `56`
     - Select cIOS slot: `250`
 1. Press the `A` button to install.
 1. Set everything to match the following:
