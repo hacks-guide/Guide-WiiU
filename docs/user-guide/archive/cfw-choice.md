@@ -5,11 +5,18 @@
 
 ?> Before starting, make sure to update your Wii U console to the latest firmware (5.5.5) if you haven't already.
 
-There are two main custom firmwares: Haxchi/Coldboot Haxchi (usually abbreviated as "CBHC"), as well as Mocha.
+There are three main custom firmwares: Haxchi/Coldboot Haxchi (usually abbreviated as "CBHC"), as well as Mocha and Tiramisu.
 
-Haxchi/CBHC are both injected into a paid DS Virtual Console game. Haxchi will need to be manually started off the Wii U Menu to boot custom firmware, while CBHC will boot custom firmware automatically while the system is booting up. Mocha is accessed through the browser exploit or the Indexiine method, which makes it the only free custom firmware.
+Haxchi/CBHC are both injected into a paid DS Virtual Console game. Haxchi will need to be manually started off the Wii U Menu to boot custom firmware, while CBHC will boot custom firmware automatically while the system is booting up. Tiramisu is injected into the Health and Safety Information app allowing to run CFW without paying for a DS Virtual Console game or modifying the internet browser. Mocha is accessed through the browser exploit or the Indexiine method, which makes it one free custom firmware.
 
 The custom firmware you decide to use is ultimately **your** preference. There is no right or wrong custom firmware to go with, so it is recommended that you feel free to pick the one that sounds the best for your needs!
+
+## Tiramisu
+- Does not require any game, and is therefore free.
+- Needs to be re-launched through the Health and Safety Information app every reboot to enable custom firmware unless deciding to autoboot.
+- Is not compatible with the Homebrew Launcher Channel.
+
+### [**Continue with Tiramisu**](tiramisu/sd-preparation.md) {docsify-ignore}
 
 ## Haxchi
 
