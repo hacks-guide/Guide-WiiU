@@ -2,17 +2,17 @@
 ---
 This is needed if you ever need to perform a System Update.
 
-?> If you are running Tiramisu and have deleted the update folder, you need to disable both autobooting and recreate the update folder.
+?> If you are running Aroma and have deleted the update folder, you need to disable both autobooting and recreate the update folder.
 
 ### Instructions {docsify-ignore}
 
 <!-- tabs:start -->
 
-#### **Removing Tiramisu Autoboot**
+#### **Removing PayloadLoader Autoboot**
 
-### Removing Tiramisu Autoboot
+### Removing PayloadLoader Autoboot
 
-?> When autobooting into the PayloadLoader, updates are automatically blocked. Follow the guide below to disable it.
+?> When autobooting into the PayloadLoader, updates are **NOT ALWAYS** automatically blocked. Follow the guide below to disable it.
 
 1. Boot the console while holding X on the Gamepad.
 1. Navigate to the `installer` environment and launch it by pressing A.
@@ -21,17 +21,16 @@ This is needed if you ever need to perform a System Update.
 1. You will be asked if you want to switch the boot title. Press A to select `Switch back to Wii U Menu`.
 1. When the process finished, press A to shutdown the console.
 1. Perform the System Update.
-1. Follow [this](../docs/user-guide/tiramisu/autoboot) to re-enable autobooting.
+1. Follow [this](../docs/user-guide/aroma/autoboot) to re-enable autobooting.
 
 #### **Recreating Update Folder**
 
 ### Recreating Update Folder
 
 1. Plug your SD Card into your Computer.
-1. Download and extract [UFDiine](https://github.com/GaryOderNichts/UFDiine/releases/tag/v1.1) to the root of your SD Card.
+1. Download and extract [UFDiine](https://github.com/GaryOderNichts/UFDiine/releases/latest) to the root of your SD Card.
 1. Plug the SD Card into your Wii U console and power it on.
-1. Enter the Homebrew Launcher.
-1. Navigate the Homebrew Launcher and run the UFDiine app.
+1. Run the UFDiine app from the Wii U Menu.
 1. Press the A button to create the update folder.
 1. Confirm that it says `Update folder exists`. You are no longer blocking updates.
 

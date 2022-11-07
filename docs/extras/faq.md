@@ -17,7 +17,7 @@ The payload used in the main guide is CustomRPXLoader which loads `SD:/wiiu/payl
 
 ### What are environments?
 
-An environment is a collection of "setup modules", which will be run in a certain order when launching the environment. One such environment is Tiramisu.
+An environment is a collection of "setup modules", which will be run in a certain order when launching the environment. One such environment is Aroma.
 Setup modules are small pieces of homebrew/code that are executed once to set up an environment.
 
 ### How to Delete Update Folder to Block Updates on Wii U
@@ -30,7 +30,7 @@ If you want to delete the update folder to block updates, see its tab in the [Bl
  - **Running game mods:** 8GB (FAT32 USB drive may be used as well for mods)
  - **Only running homebrew apps:** Any size.
 
-**Recommended brands:** SanDisk, Samsung or PNY
+**Recommended brands:** SanDisk (Best choice), Samsung or PNY
 
 ?> Note: Avoid class 4 SD Cards, and avoid eBay!
 
@@ -47,3 +47,8 @@ Nothing special, you can leave them there, delete them or replace them with new 
 It's a USB drive that has been formatted by a Wii U console to its proprietary format.  
 A Wii U formatted USB drive ***cannot be read by any other devices than the Wii U that originally formatted it.***  
 If you ever want to use it with another Wii U console or any other devices, you will have to reformat it.
+
+### Why can't I run some of my homebrew apps on Aroma?
+
+Aroma is **NOT** compatible with .elf homebrew and will never support it due to technical limitations. To continue using these homebrew apps, you need to launch into Tiramisu.
+And also note that not all .rpx homebrew apps will be compatible out of the box. Make sure the application doesn’t launch it’s own exploits and implements the ProcUI loop properly. 
