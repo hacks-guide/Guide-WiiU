@@ -11,8 +11,8 @@ Zamierzamy sprawić, by środowisko Tiramisu ładowało się automatycznie kiedy
 1. Włącz Wii U.
     - Environment Loader powinien się pokazać.
 1. Korzystając z D-Pad, przejdź do `tiramisu` i naciśnij Y aby ustawić je jako domyślne środowisko, a następnie naciśnij A, aby uruchomić Tiramisu.
-    - You might get a red warning screen telling you that updates aren't blocked properly. Press A to continue anyways. We're going to block updates in the "Blocking Updates" section below.
-    - To open the Environment Loader selector in the future, you have hold X while your Wii U is booting up.
+    - You might get a red warning screen telling you that updates aren't blocked properly. Press A to continue anyway. We're going to block updates in the "Blocking Updates" section below.
+    - To open the Environment Loader in the future, you have to hold X while your Wii U is booting up.
 1. Będąc w Boot Selector, `Wii U Menu` powinno być już zaznaczone, Naciśnij Y, aby ustawić je jako domyślną opcję autobootingu, a następnie naciśnij A, aby uruchomić menu Wii U.
     - Aby otworzyć Boot Selector Tiramisu w przyszłości, musisz przytrzymać START (+) podczas uruchamiania Wii U.
 
