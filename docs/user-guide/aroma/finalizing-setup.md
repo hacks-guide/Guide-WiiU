@@ -11,8 +11,8 @@ We are going to make the Aroma environment start automatically when your console
 1. Turn on your Wii U.
     - The Environment Loader should show up.
 1. Using the D-Pad, navigate to `aroma` and press Y to set this to your default envrionment, then press A to launch into Aroma.
-    - You might get a red warning screen telling you that updates aren't blocked properly. Press A to continue anyways. We're going to block updates in the "Blocking Updates" section below.
-    - To open the Environment Loader selector in the future, you have hold X while your Wii U is booting up.
+    - You might get a red warning screen telling you that updates aren't blocked properly. Press A to continue anyway. We're going to block updates in the "Blocking Updates" section below.
+    - To open the Environment Loader in the future, you have to hold X while your Wii U is booting up.
 1. On the Aroma Boot Selector, the `Wii U Menu` should already be selected, press Y to set this to your default autobooting option, then press A to launch into the Wii U Menu.
     - To open the Aroma Boot Selector in the future, you have hold START (+) while your Wii U is booting up.
 
