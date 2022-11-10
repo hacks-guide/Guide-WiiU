@@ -2,7 +2,7 @@
 ---
 This page will guide you through the process of modding your vWii.
 
-We will now place the required Homebrew files on the SD Card.
+We will start by placing the required homebrew files on the SD Card.
 
 ?> **Notice**
     Your SD Card will need to be formatted as FAT32. If your SD Card is not formatted to FAT32, use [GUIFormat](http://ridgecrop.co.uk/index.htm?guiformat.htm) with 32k (32768) Allocation unit size to format it. **Do not** label the SD Card as `wiiu` or it will cause issues with homebrew.
@@ -16,16 +16,16 @@ We will now place the required Homebrew files on the SD Card.
 - The latest files from [Tiramisu for your café](https://tiramisu.foryour.cafe).
     - Select `Nanddumper` and `Base-Tiramisu`.
 - The latest release of the [vwii-compat-installer](https://github.com/TheLordScruffy/vwii-compat-installer/releases).
-- The <a href="docs/files/Patched_IOS80_Installer_for_vWii.zip" download>Patched IOS 80 Installer for vWii</a>.
 - The <a href ="docs/files/d2x_cIOS_Installer.zip" download>d2x cIOS Installer</a>.
+- The <a href="docs/files/Patched_IOS80_Installer_for_vWii.zip" download>Patched IOS 80 Installer for vWii</a>.
 
-### Instructions {docsify-ignore}
+### SD Preparation {docsify-ignore}
 
 1. Insert your Wii U's SD Card into your PC.
-1. Copy the `apps` folder from the <code>Patched_<wbr>IOS80_<wbr>Installer_<wbr>for_<wbr>vWii<wbr>.zip</code> file to the root of your SD Card.
-1. Copy the contents of the <code>d2x_<wbr>cIOS_<wbr>Installer<wbr>.zip</code> file to the root of your SD Card.
 1. Copy the contents of the downloaded Tiramisu *`.zip`* file to the root of your SD Card.
 1. Copy the `compat_installer.elf` file to the `wiiu/apps` folder on the root of your SD Card.
+1. Copy the contents of the <code>d2x_<wbr>cIOS_<wbr>Installer<wbr>.zip</code> file to the root of your SD Card.
+1. Copy the `apps` folder from the <code>Patched_<wbr>IOS80_<wbr>Installer_<wbr>for_<wbr>vWii<wbr>.zip</code> file to the root of your SD Card.
 1. Take the SD Card out of your computer and plug it into your Wii U console.
 
 ### NAND Backup
@@ -43,7 +43,7 @@ In case anything goes wrong in the later process and your vWii ends up bricked, 
     - Dump SEEPROM: **optional**
 1. Press the A button to start the dumping process.
 1. When the process completed, power off your Wii U, take your SD Card out of the Wii U and plug it into your PC.
-1. To make sure you don't lose the files, copy the `slccmpt.bin`, `otp.bin` and if you chose to go with a full backup, `seeprom.bin`, `slc.bin`, and `every mlc.bin.part` file to your computer.
+1. To make sure you don't lose the files, copy the `slccmpt.bin` and `otp.bin` files, and if you chose to go with a full backup, `seeprom.bin`, `slc.bin`, and `every mlc.bin.part` file to your computer.
 1. Delete the files from your SD Card to free up space.
 1. Take the SD Card out of your computer and plug it into your Wii U console.
 
@@ -86,11 +86,11 @@ In case anything goes wrong in the later process and your vWii ends up bricked, 
 
 1. Launch Patched IOS 80 Installer for vWii.
 1. Read the warning screen and wait 30 seconds.
-1. Press any buttons to install.
+1. Press any button to install.
 1. Wait until it says <code>IOS80 <wbr>Installation <wbr>is <wbr>complete!</code>.
-1. Press any buttons to exit.
+1. Press any button to exit.
 
-!> Installing custom System Menu is a definite brick risk and you should always have an effective backup before installing one but when done right, won't brick the vWii.
+!> Installing a custom System Menu is a definite brick risk and you should always have an effective backup before installing one but when done right, won't brick the vWii.
 
 !> Installing any IOS (including TED IOSes) or wads made for the original Wii on your vWii will brick it.
 
