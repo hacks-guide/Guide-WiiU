@@ -52,8 +52,6 @@ This guide has the end goal of taking a completely unmodified Wii U from stock t
 
 If everything goes according to plan, you will lose no data and end up with everything that you started with (games, saves, NNID, etc, will be preserved).
 
-Keep your device plugged in throughout the entire process to avoid data loss or damage from an unexpected power-off.
-
 After following this guide, CFW will be loaded and enabled on boot, unless you choose to not follow the Autobooting Tiramisu section.
 
 It is advised that you read the entire guide from start to finish one or more times before actually running through the guide with your system.
