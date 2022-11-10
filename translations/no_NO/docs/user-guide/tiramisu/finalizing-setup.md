@@ -11,8 +11,8 @@ Vi skal gjøre så Tiramisu environmentet starter automatisk når konsollen auto
 1. Slå på Wii U konsollen.
     - Environment Loader burde komme opp.
 1. Ved å bruke D-Paden, naviger til `tiramisu` og trykk Y for å sette dette til default envrionment, så trykker du A for å kjøre Tiramisu.
-    - Det kan hende du får ett rødt advarselvindu som forteller deg at oppdateringer ikke er blokkert ordentlig. Trykk likevel A for å fortsette. Vi går gjennom hvordan man blokkerer oppdateringer i "Blokkere Systemoppdateringer" delen nedenfor.
-    - For å åpne Environment Loader selector i fremtiden, må du holde X mens Wii U konsollen slår seg på.
+    - Det kan hende du får ett rødt advarselvindu som forteller deg at oppdateringer ikke er blokkert ordentlig. Press A to continue anyway. Vi går gjennom hvordan man blokkerer oppdateringer i "Blokkere Systemoppdateringer" delen nedenfor.
+    - To open the Environment Loader in the future, you have to hold X while your Wii U is booting up.
 1. På Tiramisu Boot Selector, `Wii U Menu` burde allerede være valgt, trykk Y for å sette det til default autobooting option, så trykker du A for å komme inn i Wii U Menu.
     - For å åpne Tiramisu Boot Selector i fremtiden, må du holde START (+) mens Wii U konsollen slår seg på.
 
