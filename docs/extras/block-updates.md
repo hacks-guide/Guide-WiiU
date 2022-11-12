@@ -26,7 +26,7 @@ Currently, two ways exist to effectively block updates on the Wii U system:
 
 ### DNS Blocking
 
-?> This method of update blocking is a bit more advanced than deleting a system file using a homebrew tool, however, it does prevent the eShop from working. This can be worked around by running [NNUPatcher](https://wiiubru.com/appstore/zips/nnupatcher.zip) before starting the eShop.
+?> This method of update blocking is a bit more advanced than deleting a system file, however, it does prevent the eShop from working. (Basically it just blocks the Nintendo spdate servers). This can be worked around by running [NNUPatcher](https://wiiubru.com/appstore/zips/nnupatcher.zip) before starting the eShop.
 1. Plug your SD Card into your Computer.
 1. Copy the contents of the `nnupatcher.zip` file to the root of your SD Card. If asked, overwrite any duplicate files.
 1. Plug the SD Card into your Wii U console and power it on.
