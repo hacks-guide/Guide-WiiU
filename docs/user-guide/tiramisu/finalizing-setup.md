@@ -11,8 +11,8 @@ We are going to make the Tiramisu environment start automatically when your cons
 1. Turn on your Wii U.
     - The Environment Loader should show up.
 1. Using the D-Pad, navigate to `tiramisu` and press Y to set this to your default envrionment, then press A to launch into Tiramisu.
-    - You might get a red warning screen telling you that updates aren't blocked properly. Press A to continue anyways. We're going to block updates in the "Blocking Updates" section below.
-    - To open the Environment Loader selector in the future, you have hold X while your Wii U is booting up.
+    - You might get a red warning screen telling you that updates aren't blocked properly. Press A to continue anyway. We're going to block updates in the "Blocking Updates" section below.
+    - To open the Environment Loader in the future, you have to hold X while your Wii U is booting up.
 1. On the Tiramisu Boot Selector, the `Wii U Menu` should already be selected, press Y to set this to your default autobooting option, then press A to launch into the Wii U Menu.
     - To open the Tiramisu Boot Selector in the future, you have hold START (+) while your Wii U is booting up.
 
@@ -20,7 +20,7 @@ We are going to make the Tiramisu environment start automatically when your cons
 <br>To get back into the Mii Maker, simply press the HOME button while in the Homebrew Launcher.
 
 ### Blocking Updates
-While Tiramisu already has built-in update blocking functionality, it is recommended to delete the update folder to effectively block system updates.
+While Tiramisu's PayloadLoader already has built-in update blocking functionality, it is recommended to delete the update folder to effectively block system updates.
 If you get a red warning screen while booting into Tiramisu, the update folder still exists and it is recommended to delete it using [this guide](../block-updates).
 
 ### Additional Homebrew Apps
