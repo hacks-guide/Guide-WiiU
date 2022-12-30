@@ -34,7 +34,8 @@ Ikke bruk denne guiden til å dele spillene dine.
 1. Velg `Game` partisjonen for å starte dumping.
 1. Når det er ferdig, gå ut av wudd og gå tilbake til Wii U-menyen.
 1. Sett SD-kortet ditt i PC'en din.
-1. Kopier `GMXXXXXXXXXXXXXXXX` mappen fra `sd:/wudump/WUP-X-XXXX` til `install` mappen på SD-kortet.
+1. Copy the `GMXXXXXXXXXXXXXXXX` folder from `sd:/wudump/WUP-X-XXXX` to the `install` folder on your SD Card.
+    - If the `install` folder does not exist, create it.
 1. Løs ut og sett SD-kortet inn i Wii U-en.
 1. Start Homebrew Launcher og kjør WUP Installer GX2.
 1. Velg spillet ditt (`GMXXXXXXXXXXXXXXXX`), trykk `Install` og bekreft med `Yes`.
