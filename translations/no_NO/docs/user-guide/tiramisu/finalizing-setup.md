@@ -40,3 +40,9 @@ While Tiramisu's PayloadLoader already has built-in update blocking functionalit
    Kopier `30_bloopair.rpx` til `wiiu/environments/tiramisu/modules/setup/` mappen på roten av SD-kortet ditt.  
    Kopier `wiiu` mappa til roten av SD-kortet ditt.
 1. Pakk ut `wiiu-extracttosd.zip` til roten av SD-kortet.
+
+### Installing Aroma
+Aroma is a work-in-progress environment with support for plugins, modules and homebrew bundles.  
+Aroma can be installed additionally to Tiramisu, if you want to try out any of its features.
+
+[**The Aroma guide can be found here**](../aroma/getting-started)
