@@ -27,7 +27,7 @@ Ikke bruk denne guiden til å dele spillene dine.
 1. Pakk ut `wup_installer_gx2.zip` til roten av SD-kortet.
 1. Pakk ut `wudd.zip` til roten av SD-kortet.
 1. Ta SD-kortet ut av PCen og sett det inn i Wii U konsollen.
-1. Slå på Wii U konsollen.
+1. Power on your Wii U and boot into Tiramisu.
 1. Start Homebrew Launcher og kjør wudd.
 1. Endre dump plassering til SD-kortet.
 1. Velg `Dump partition as .app`
