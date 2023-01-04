@@ -16,7 +16,7 @@ Currently, two ways exist to effectively block updates on the Wii U system:
 ?> This method of update blocking is a bit more advanced than DNS Blocking and uses a homebrew app to modify system files. However, it has the advantage that the eShop's functionality will not be restricted.
 1. Podłącz kartę SD do swojego komputera.
 1. Download and extract [UFDiine](https://github.com/GaryOderNichts/UFDiine/releases/tag/v1.1) to the root of your SD Card.
-1. Podłącz kartę SD do swojej konsoli Wii U i włącz ją.
+1. Plug the SD Card into your Wii U console and boot Tiramisu.
 1. Wejdź do Homebrew Launcher.
 1. Znajdź aplikację UFDiine i uruchom ją.
 1. Naciśnij przycisk A, aby usunąć folder aktualizacji.
