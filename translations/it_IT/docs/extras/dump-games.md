@@ -27,7 +27,7 @@ Se hai intenti di utilizzare questa guida per condividere i tuoi giochi dumpati,
 1. Copia i contenuti di `wup_installer_gx2.zip` nella root della tua scheda SD.
 1. Copy the contents of the newly downloaded wudd `.zip` file to the root of your SD Card.
 1. Take the SD Card out of your PC and insert it into your Wii U.
-1. Accendi il tuo Wii U.
+1. Power on your Wii U and boot into Tiramisu.
 1. Launch the Homebrew Launcher and start the wudd app.
 1. Change dump location to the SD Card.
 1. Select `Dump partition as .app`
