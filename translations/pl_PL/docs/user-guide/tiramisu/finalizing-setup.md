@@ -11,15 +11,15 @@ Zamierzamy sprawić, by środowisko Tiramisu ładowało się automatycznie kiedy
 1. Włącz Wii U.
     - Environment Loader powinien się pokazać.
 1. Korzystając z D-Pad, przejdź do `tiramisu` i naciśnij Y aby ustawić je jako domyślne środowisko, a następnie naciśnij A, aby uruchomić Tiramisu.
-    - You might get a red warning screen telling you that updates aren't blocked properly. Press A to continue anyways. We're going to block updates in the "Blocking Updates" section below.
-    - To open the Environment Loader selector in the future, you have hold X while your Wii U is booting up.
+    - You might get a red warning screen telling you that updates aren't blocked properly. Press A to continue anyway. We're going to block updates in the "Blocking Updates" section below.
+    - To open the Environment Loader in the future, you have to hold X while your Wii U is booting up.
 1. Będąc w Boot Selector, `Wii U Menu` powinno być już zaznaczone, Naciśnij Y, aby ustawić je jako domyślną opcję autobootingu, a następnie naciśnij A, aby uruchomić menu Wii U.
     - Aby otworzyć Boot Selector Tiramisu w przyszłości, musisz przytrzymać START (+) podczas uruchamiania Wii U.
 
 ?> Po uruchomieniu się środowiska Tiramisu możesz otworzyć Mii Maker w dowolnym momencie, aby dostać się do Homebrew Launchera. <br>Aby wrócić do Mii Maker, po prostu naciśnij przycisk HOME będąc w Homebrew Launcher.
 
 ### Blokowanie Aktualizacji
-While Tiramisu already has built-in update blocking functionality, it is recommended to delete the update folder to effectively block system updates. If you get a red warning screen while booting into Tiramisu, the update folder still exists and it is recommended to delete it using [this guide](../block-updates).
+While Tiramisu's PayloadLoader already has built-in update blocking functionality, it is recommended to delete the update folder to effectively block system updates. If you get a red warning screen while booting into Tiramisu, the update folder still exists and it is recommended to delete it using [this guide](../block-updates).
 
 ### Additional Homebrew Apps
 
@@ -40,3 +40,9 @@ While Tiramisu already has built-in update blocking functionality, it is recomme
    Copy the `30_bloopair.rpx` to the `wiiu/environments/tiramisu/modules/setup/` folder on the root of your SD Card.  
    Copy the `wiiu` folder to the root of your SD Card.
 1. Copy the contents of the newly downloaded `wiiu-extracttosd.zip` file to the root of your SD Card.
+
+### Installing Aroma
+Aroma is a work-in-progress environment with support for plugins, modules and homebrew bundles.  
+Aroma can be installed additionally to Tiramisu, if you want to try out any of its features.
+
+[**The Aroma guide can be found here**](../aroma/getting-started)

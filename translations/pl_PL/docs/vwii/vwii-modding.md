@@ -13,9 +13,9 @@ Teraz umieścimy wymagane pliki Homebrew na karcie SD.
 ### Czego Potrzebujesz {docsify-ignore}
 
 - Najnowsze pliki z [Tiramisu for your café](https://tiramisu.foryour.cafe).
-    - Wybierz `Nanddumper` i `Base-Tiramisu`.
+    - Click on `Download Tiramisu`.
 - Najnowsza wersja [vwii-compat-installer-](https://github.com/TheLordScruffy/vwii-compat-installer/releases).
-- <a href="docs/files/Patched_IOS80_Installer_for_vWii.zip" download>Patched IOS 80 Installer dla vWii</a>.
+- The <a href="docs/files/Patched_IOS80_Installer_for_vWii.zip" download>Patched IOS 80 Installer for vWii</a>. ([Source](https://github.com/Lazr1026/Patched-IOS80-Installer-for-vWii))
 - Instalator <a href ="docs/files/d2x_cIOS_Installer.zip" download>d2x cIOS</a>.
 
 ### Instrukcje {docsify-ignore}

@@ -2,7 +2,7 @@
 ---
 Tutti gli exploit Wii U conosciuti possono venir bloccati da un aggiornamento, a differenza, per esempio, dell'exploit RCM di Nintendo Switch. Anche se il Wii U non è più ufficialmente supportato, Nintendo potrebbe ancora rilasciare aggiornamenti per la console. Ad esempio, gli aggiornamenti da 5.5.3 a 5.5.6 sono stati rilasciato quando il Wii U venne discontinuato, quindi è raccomandato bloccare gli aggiornamenti.
 
-Anche se Tiramisu ha un sistema integrato per bloccare gli aggiornamenti, è consigliato cancellare la cartella degli aggiornamenti per bloccarli efficacemente. Se ottieni una schermata rossa mentre stai avviando Tiramisu, significa che la cartella degli aggiornamenti esiste ancora e deve essere eliminata seguendo questa guida.
+While Tiramisu's PayloadLoader already has built-in update blocking functionality, it is recommended to delete the update folder to effectively block system updates. Se ottieni una schermata rossa mentre stai avviando Tiramisu, significa che la cartella degli aggiornamenti esiste ancora e deve essere eliminata seguendo questa guida.
 
 ### Istruzioni {docsify-ignore}
 
@@ -15,8 +15,8 @@ Attualmente, esistono due metodi per bloccare gli aggiornamenti di sistema:
 
 ?> Questo metodo è più avanzato del blocco tramite DNS e usa un'app homebrew per modificare i file di sistema. Però, ha il vantaggio di non bloccare l'accesso alle funzionalità dell'eShop.
 1. Inserisci la scheda SD nel tuo computer.
-1. Scarica ed estrai [UFDiine](https://github.com/GaryOderNichts/UFDiine/releases) nella root della tua scheda SD.
-1. Inserisci la scheda SD nel tuo Wii U e accendilo.
+1. Download and extract [UFDiine](https://github.com/GaryOderNichts/UFDiine/releases/tag/v1.1) to the root of your SD Card.
+1. Plug the SD Card into your Wii U console and boot Tiramisu.
 1. Entra nell'Homebrew Launcher.
 1. Naviga nell'Homebrew Launcher ed esegui l'app UFDiine.
 1. Premi il pulsante A per eliminare la cartella Update.

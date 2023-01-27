@@ -13,9 +13,9 @@ Vi starter med å plassere Homebrew filene du trenger på SD-kortet ditt.
 ### Dette Trenger Du {docsify-ignore}
 
 - De nyeste filene i [Tiramisu for your café](https://tiramisu.foryour.cafe).
-    - Velg `Nanddumper` og `Base-Tiramisu`.
+    - Klikk på `Download Tiramisu`.
 - Siste utgave av [vwii-compat-installer](https://github.com/TheLordScruffy/vwii-compat-installer/releases).
-- <a href="docs/files/Patched_IOS80_Installer_for_vWii.zip" download>Patched IOS 80 Installer for vWii</a>.
+- The <a href="docs/files/Patched_IOS80_Installer_for_vWii.zip" download>Patched IOS 80 Installer for vWii</a>. ([Source](https://github.com/Lazr1026/Patched-IOS80-Installer-for-vWii))
 - <a href ="docs/files/d2x_cIOS_Installer.zip" download>d2x cIOS Installer</a>.
 
 ### Instruksjoner {docsify-ignore}
