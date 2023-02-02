@@ -13,7 +13,7 @@ In case anything should go wrong in the later process and your Wii U ends up bri
 <br>Your NAND Backup is unique to your system. Backups from other consoles **won't** work.
 
 1. Navigate to `nanddumper` using the GamePad and press A to launch it.
-<img src="/docs/assets/img/Tiramisu Guide Images/navigatenanddumper.png" alt="">
+<img src="docs/assets/img/Tiramisu Guide Images/navigatenanddumper.png" alt="">
 1. Use the Wii U GamePad's D-Pad to enter the following configuration:
     - Dump SLC: **yes**
     - Dump SLCCMPT: **yes**
@@ -24,7 +24,7 @@ In case anything should go wrong in the later process and your Wii U ends up bri
 1. When the process completed, power off your Wii U, take your SD Card out of the Wii U and plug it into your PC.
 1. To make sure you don't lose the files, copy the `slc.bin`, `slccmpt.bin`, `seeprom.bin`, `otp.bin` and if you chose to go with a full backup, `every mlc.bin.part` file to your computer.
 1. Delete the files from your SD Card to free up space.
-<img src="/docs/assets/img/Tiramisu Guide Images/nandbackup.png" alt="">
+<img src="docs/assets/img/Tiramisu Guide Images/nandbackup.png" alt="">
 
 
 ?> **If the PayloadLoader is already installed into the Health and Safety Information app and your console is already autobooting it, you do not need to continue following the guide.**

@@ -11,8 +11,8 @@ We are going to make the Tiramisu environment start automatically when your cons
 1. Turn on your Wii U.
     - The Environment Loader should show up.
 1. Using the D-Pad, navigate to `tiramisu` and press Y to set this to your default envrionment, then press A to launch into Tiramisu.
-<img src="/docs/assets/img/Tiramisu Guide Images/tiramisu_environmentloader.png" alt="">
-<img src="/docs/assets/img/Tiramisu Guide Images/tiramisu_environmentloader_afterY.png" alt="">
+<img src="docs/assets/img/Tiramisu Guide Images/tiramisu_environmentloader.png" alt="">
+<img src="docs/assets/img/Tiramisu Guide Images/tiramisu_environmentloader_afterY.png" alt="">
 
     - You might get a red warning screen telling you that updates aren't blocked properly. Press A to continue anyway. We're going to block updates in the "Blocking Updates" section below.
     - To open the Environment Loader in the future, you have to hold X while your Wii U is booting up.
@@ -49,7 +49,7 @@ If you get a red warning screen while booting into Tiramisu, the update folder s
    Copy the `wiiu` folder to the root of your SD Card.
 1. Copy the contents of the newly downloaded `wiiu-extracttosd.zip` file to the root of your SD Card.
 
-<img src="/docs/assets/img/Tiramisu Guide Images/finalizing.gif" alt="">
+<img src="docs/assets/img/Tiramisu Guide Images/finalizing.gif" alt="">
 
 ### Installing Aroma
 Aroma is a work-in-progress environment with support for plugins, modules and homebrew bundles.  
