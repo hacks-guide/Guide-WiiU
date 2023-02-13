@@ -42,8 +42,7 @@ We will now place the required CFW files and some additional homebrew files on t
    ┃ ┃ ┣ 📜homebrew_launcher.elf
    ┃ ┃ ┣ 📜icon.png
    ┃ ┃ ┗ 📜meta.xml
-   ┃ ┣ 📜PayloadLoaderInstaller.wuhb
-   ┃ ┗ (All other apps like savemii, bloopair, etc. should be here too)
+   ┃ ┗ 📜PayloadLoaderInstaller.wuhb
    ┣ 📂environment
    ┃ ┣ 📂installer
    ┃ ┃ ┗ 📂modules
