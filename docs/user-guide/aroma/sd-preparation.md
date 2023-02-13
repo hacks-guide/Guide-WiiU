@@ -47,7 +47,7 @@ We will now place the required Aroma files on the SD Card.
    ┃ ┃ ┃ ┃ ┣ 📜01_sigpatches.rpx
    ┃ ┃ ┃ ┃ ┣ 📜10_wums_loader.rpx
    ┃ ┃ ┃ ┃ ┗ 📜99_autoboot.rpx
-   ┃ ┃ ┃ ┗ (All of the Aroma modules ending with .wms like AromaBaseModule, WUHBUtilityModule, etc. should be here too)
+   ┃ ┃ ┃ ┗ (All of the Aroma modules ending with .wms should be here too)
    ┃ ┃ ┣ 📂plugins
    ┃ ┃ ┃ ┣ 📜AromaBasePlugin.wps
    ┃ ┃ ┃ ┣ 📜drc_region_free.wps
