@@ -33,9 +33,12 @@ We will now place the required Aroma files on the SD Card.
 💾sd:
  ┗ 📂wiiu
    ┣ 📂apps
+   ┃ ┣ 📂homebrew_launcher
+   ┃ ┃ ┣ 📜homebrew_launcher.elf
+   ┃ ┃ ┣ 📜icon.png
+   ┃ ┃ ┗ 📜meta.xml
    ┃ ┣ 📜AromaUpdater.wuhb
-   ┃ ┣ 📜PayloadLoaderInstaller.wuhb
-   ┃ ┗ (All other apps like wudd, bloopair, etc. should be here too)
+   ┃ ┗ 📜PayloadLoaderInstaller.wuhb
    ┣ 📂environment
    ┃ ┣ 📂aroma
    ┃ ┃ ┣ 📂modules
@@ -44,7 +47,7 @@ We will now place the required Aroma files on the SD Card.
    ┃ ┃ ┃ ┃ ┣ 📜01_sigpatches.rpx
    ┃ ┃ ┃ ┃ ┣ 📜10_wums_loader.rpx
    ┃ ┃ ┃ ┃ ┗ 📜99_autoboot.rpx
-   ┃ ┃ ┃ ┗ (All of the aroma modules ending with.wms like AromaBaseModule, WUHBUtilityModule, etc. should be here too)
+   ┃ ┃ ┃ ┗ (All of the aroma modules ending with .wms like AromaBaseModule, WUHBUtilityModule, etc. should be here too)
    ┃ ┃ ┣ 📂plugins
    ┃ ┃ ┃ ┣ 📜AromaBasePlugin.wps
    ┃ ┃ ┃ ┣ 📜drc_region_free.wps
