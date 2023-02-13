@@ -22,3 +22,57 @@ We will now place the required Aroma files on the SD Card.
     - The two `wiiu` folders should be merged if not done automatically.
 
 ?> If your computer asks you to overwrite existing files on your SD Card, you will need to click yes.
+----------
+
+### SD Card Layout {docsify-ignore}
+
+<details>
+<summary>Click here to show the final SD Card layout.</summary>
+
+```
+💾sd:
+ ┗ 📂wiiu
+   ┣ 📂apps
+   ┃ ┣ 📜AromaUpdater.wuhb
+   ┃ ┣ 📜PayloadLoaderInstaller.wuhb
+   ┃ ┗ (All other apps like wudd, bloopair, etc. should be here too)
+   ┣ 📂environment
+   ┃ ┣ 📂aroma
+   ┃ ┃ ┣ 📂modules
+   ┃ ┃ ┃ ┣ 📂setup
+   ┃ ┃ ┃ ┃ ┣ 📜00_mocha.rpx
+   ┃ ┃ ┃ ┃ ┣ 📜01_sigpatches.rpx
+   ┃ ┃ ┃ ┃ ┣ 📜10_wums_loader.rpx
+   ┃ ┃ ┃ ┃ ┗ 📜99_autoboot.rpx
+   ┃ ┃ ┃ ┗ (All of the aroma modules ending with.wms like AromaBaseModule, WUHBUtilityModule, etc. should be here too)
+   ┃ ┃ ┣ 📂plugins
+   ┃ ┃ ┃ ┣ 📜AromaBasePlugin.wps
+   ┃ ┃ ┃ ┣ 📜drc_region_free.wps
+   ┃ ┃ ┃ ┣ 📜homebrew_on_menu.wps
+   ┃ ┃ ┃ ┗ 📜99_autoboot.rpx
+   ┃ ┃ ┗ 📜root.rpx
+   ┃ ┣ 📂installer
+   ┃ ┃ ┗ 📂modules
+   ┃ ┃   ┗ 📂setup
+   ┃ ┃     ┣ 📜00_mocha.rpx
+   ┃ ┃     ┗ 📜90_launch_installer.rpx
+   ┃ ┗ 📂tiramisu
+   ┃   ┣ 📂modules
+   ┃   ┃ ┗ 📂setup
+   ┃   ┃   ┣ 📜00_mocha.rpx
+   ┃   ┃   ┣ 📜01_sigpatches.rpx
+   ┃   ┃   ┣ 📜50_hbl_installer.rpx
+   ┃   ┃   ┗ 📜99_autoboot.rpx
+   ┃   ┗ 📜root.rpx
+   ┣ 📂payloads
+   ┃ ┣ 📂default
+   ┃ ┃ ┗ 📜payload.elf
+   ┃ ┣ 📂fw_img_loader 
+   ┃ ┃ ┗ 📜payload.elf
+   ┃ ┗ 📂nanddumper
+   ┃   ┗ 📜payload.elf
+   ┣ 📜payload.rpx
+   ┗ 📜payload.elf
+```
+
+</details>
