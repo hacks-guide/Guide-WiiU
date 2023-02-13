@@ -38,7 +38,8 @@ We will now place the required Aroma files on the SD Card.
    ┃ ┃ ┣ 📜icon.png
    ┃ ┃ ┗ 📜meta.xml
    ┃ ┣ 📜AromaUpdater.wuhb
-   ┃ ┗ 📜PayloadLoaderInstaller.wuhb
+   ┃ ┣ 📜PayloadLoaderInstaller.wuhb
+   ┃ ┗ (All other apps should be here too)
    ┣ 📂environment
    ┃ ┣ 📂aroma
    ┃ ┃ ┣ 📂modules
