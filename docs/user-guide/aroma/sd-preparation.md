@@ -33,45 +33,25 @@ We will now place the required Aroma files on the SD Card.
 💾sd:
  ┗ 📂wiiu
    ┣ 📂apps
-   ┃ ┣ 📂homebrew_launcher
-   ┃ ┃ ┣ 📜homebrew_launcher.elf
-   ┃ ┃ ┣ 📜icon.png
-   ┃ ┃ ┗ 📜meta.xml
    ┃ ┣ 📜AromaUpdater.wuhb
    ┃ ┣ 📜PayloadLoaderInstaller.wuhb
    ┃ ┗ (All other apps should be here too)
    ┣ 📂environment
-   ┃ ┣ 📂aroma
-   ┃ ┃ ┣ 📂modules
-   ┃ ┃ ┃ ┣ 📂setup
-   ┃ ┃ ┃ ┃ ┣ 📜00_mocha.rpx
-   ┃ ┃ ┃ ┃ ┣ 📜01_sigpatches.rpx
-   ┃ ┃ ┃ ┃ ┣ 📜10_wums_loader.rpx
-   ┃ ┃ ┃ ┃ ┗ 📜99_autoboot.rpx
-   ┃ ┃ ┃ ┗ (All other Aroma modules ending with .wms should be here too)
-   ┃ ┃ ┣ 📂plugins
-   ┃ ┃ ┃ ┣ 📜AromaBasePlugin.wps
-   ┃ ┃ ┃ ┣ 📜drc_region_free.wps
-   ┃ ┃ ┃ ┣ 📜homebrew_on_menu.wps
-   ┃ ┃ ┃ ┗ 📜99_autoboot.rpx
-   ┃ ┃ ┗ 📜root.rpx
-   ┃ ┣ 📂installer
-   ┃ ┃ ┗ 📂modules
-   ┃ ┃   ┗ 📂setup
-   ┃ ┃     ┣ 📜00_mocha.rpx
-   ┃ ┃     ┗ 📜90_launch_installer.rpx
-   ┃ ┗ 📂tiramisu
+   ┃ ┗ 📂aroma
    ┃   ┣ 📂modules
-   ┃   ┃ ┗ 📂setup
-   ┃   ┃   ┣ 📜00_mocha.rpx
-   ┃   ┃   ┣ 📜01_sigpatches.rpx
-   ┃   ┃   ┣ 📜50_hbl_installer.rpx
-   ┃   ┃   ┗ 📜99_autoboot.rpx
+   ┃   ┃ ┣ 📂setup
+   ┃   ┃ ┃ ┣ 📜00_mocha.rpx
+   ┃   ┃ ┃ ┣ 📜10_wums_loader.rpx
+   ┃   ┃ ┃ ┗ 📜99_autoboot.rpx
+   ┃   ┃ ┗ (All other Aroma modules ending with .wms should be here too)
+   ┃   ┣ 📂plugins
+   ┃   ┃ ┣ 📜AromaBasePlugin.wps
+   ┃   ┃ ┣ 📜drc_region_free.wps
+   ┃   ┃ ┣ 📜homebrew_on_menu.wps
+   ┃   ┃ ┗ 📜regionfree.rpx
    ┃   ┗ 📜root.rpx
    ┣ 📂payloads
    ┃ ┣ 📂default
-   ┃ ┃ ┗ 📜payload.elf
-   ┃ ┣ 📂fw_img_loader 
    ┃ ┃ ┗ 📜payload.elf
    ┃ ┗ 📂nanddumper
    ┃   ┗ 📜payload.elf
