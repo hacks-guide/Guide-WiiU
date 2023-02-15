@@ -36,7 +36,7 @@ We will now place the required Aroma files on the SD Card.
    ┃ ┣ 📜AromaUpdater.wuhb
    ┃ ┣ 📜PayloadLoaderInstaller.wuhb
    ┃ ┗ (All other apps should be here too)
-   ┣ 📂environment
+   ┣ 📂environments
    ┃ ┗ 📂aroma
    ┃   ┣ 📂modules
    ┃   ┃ ┣ 📂setup
