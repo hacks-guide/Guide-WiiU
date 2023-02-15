@@ -44,7 +44,7 @@ We will now place the required CFW files and some additional homebrew files on t
    ┃ ┃ ┗ 📜meta.xml
    ┃ ┣ 📜PayloadLoaderInstaller.wuhb
    ┃ ┗ (All other apps should be here too)
-   ┣ 📂environment
+   ┣ 📂environments
    ┃ ┣ 📂installer
    ┃ ┃ ┗ 📂modules
    ┃ ┃   ┗ 📂setup
