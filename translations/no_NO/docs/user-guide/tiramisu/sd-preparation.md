@@ -21,4 +21,47 @@ Her vil vi plassere de nødvendige CFW-filene og noen ekstra homebrew filer på 
 1. **Pakk ut** Tiramisu *`.zip`* fila til roten av SD-kortet.
 1. Kopier `01_sigpatches.rpx` fila til `/wiiu/environments/tiramisu/modules/setup` på SD-kortet.
 
-?> Hvis pc'en din spør deg om å erstatte eksisterende filer på SD-kortet, skal du trykke ja.
+?> If your computer asks you to overwrite existing files on your SD Card, you will need to click yes.
+----------
+
+### SD-kort oppsett {docsify-ignore}
+
+<details>
+<summary>Klikk her for å se hvordan SD-kort oppsettet skal se ut.</summary>
+
+```
+💾sd:
+ ┗ 📂wiiu
+   ┣ 📂apps
+   ┃ ┣ 📂homebrew_launcher
+   ┃ ┃ ┣ 📜homebrew_launcher.elf
+   ┃ ┃ ┣ 📜icon.png
+   ┃ ┃ ┗ 📜meta.xml
+   ┃ ┣ 📜PayloadLoaderInstaller.wuhb
+   ┃ ┗ (All other apps should be here too)
+   ┣ 📂environments
+   ┃ ┣ 📂installer
+   ┃ ┃ ┗ 📂modules
+   ┃ ┃   ┗ 📂setup
+   ┃ ┃     ┣ 📜00_mocha.rpx
+   ┃ ┃     ┗ 📜90_launch_installer.rpx
+   ┃ ┗ 📂tiramisu
+   ┃   ┣ 📂modules
+   ┃   ┃ ┗ 📂setup
+   ┃   ┃   ┣ 📜00_mocha.rpx
+   ┃   ┃   ┣ 📜01_sigpatches.rpx
+   ┃   ┃   ┣ 📜50_hbl_installer.rpx
+   ┃   ┃   ┗ 📜99_autoboot.rpx
+   ┃   ┗ 📜root.rpx
+   ┣ 📂payloads
+   ┃ ┣ 📂default
+   ┃ ┃ ┗ 📜payload.elf
+   ┃ ┣ 📂fw_img_loader 
+   ┃ ┃ ┗ 📜payload.elf
+   ┃ ┗ 📂nanddumper
+   ┃   ┗ 📜payload.elf
+   ┣ 📜payload.rpx
+   ┗ 📜payload.elf
+```
+
+</details>
