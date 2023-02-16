@@ -21,4 +21,47 @@ Nous allons maintenant placer les fichiers du CFW requis et quelques fichiers ho
 1. **Extract** and copy the contents of the newly downloaded Tiramisu *`.zip`* file to the root of your SD Card.
 1. Copy the `01_sigpatches.rpx` file to `/wiiu/environments/tiramisu/modules/setup` on your SD Card.
 
-?> Si votre ordinateur vous demande d'écraser les fichiers existants sur votre carte SD, vous devrez cliquer sur Oui.
+?> If your computer asks you to overwrite existing files on your SD Card, you will need to click yes.
+----------
+
+### Disposition de la carte SD {docsify-ignore}
+
+<details>
+<summary>Cliquez ici pour afficher la disposition finale de la carte SD.</summary>
+
+```
+💾sd:
+ ┗ 📂wiiu
+   ┣ 📂apps
+   ┃ ┣ 📂homebrew_launcher
+   ┃ ┃ ┣ 📜homebrew_launcher.elf
+   ┃ ┃ ┣ 📜icon.png
+   ┃ ┃ ┗ 📜meta.xml
+   ┃ ┣ 📜PayloadLoaderInstaller.wuhb
+   ┃ ┗ (All other apps should be here too)
+   ┣ 📂environments
+   ┃ ┣ 📂installer
+   ┃ ┃ ┗ 📂modules
+   ┃ ┃   ┗ 📂setup
+   ┃ ┃     ┣ 📜00_mocha.rpx
+   ┃ ┃     ┗ 📜90_launch_installer.rpx
+   ┃ ┗ 📂tiramisu
+   ┃   ┣ 📂modules
+   ┃   ┃ ┗ 📂setup
+   ┃   ┃   ┣ 📜00_mocha.rpx
+   ┃   ┃   ┣ 📜01_sigpatches.rpx
+   ┃   ┃   ┣ 📜50_hbl_installer.rpx
+   ┃   ┃   ┗ 📜99_autoboot.rpx
+   ┃   ┗ 📜root.rpx
+   ┣ 📂payloads
+   ┃ ┣ 📂default
+   ┃ ┃ ┗ 📜payload.elf
+   ┃ ┣ 📂fw_img_loader 
+   ┃ ┃ ┗ 📜payload.elf
+   ┃ ┗ 📂nanddumper
+   ┃   ┗ 📜payload.elf
+   ┣ 📜payload.rpx
+   ┗ 📜payload.elf
+```
+
+</details>
