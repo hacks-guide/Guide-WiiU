@@ -22,3 +22,42 @@ We will now place the required Aroma files on the SD Card.
     - The two `wiiu` folders should be merged if not done automatically.
 
 ?> If your computer asks you to overwrite existing files on your SD Card, you will need to click yes.
+----------
+
+### SD Card Layout {docsify-ignore}
+
+<details>
+<summary>Click here to show the final SD Card layout.</summary>
+
+```
+💾sd:
+ ┗ 📂wiiu
+   ┣ 📂apps
+   ┃ ┣ 📜AromaUpdater.wuhb
+   ┃ ┣ 📜PayloadLoaderInstaller.wuhb
+   ┃ ┗ (All other apps should be here too)
+   ┣ 📂environments
+   ┃ ┗ 📂aroma
+   ┃   ┣ 📂modules
+   ┃   ┃ ┣ 📂setup
+   ┃   ┃ ┃ ┣ 📜00_mocha.rpx
+   ┃   ┃ ┃ ┣ 📜10_wums_loader.rpx
+   ┃   ┃ ┃ ┗ 📜99_autoboot.rpx
+   ┃   ┃ ┗ (All other Aroma modules ending with .wms should be here too)
+   ┃   ┣ 📂plugins
+   ┃   ┃ ┣ 📜AromaBasePlugin.wps
+   ┃   ┃ ┣ 📜drc_region_free.wps
+   ┃   ┃ ┣ 📜homebrew_on_menu.wps
+   ┃   ┃ ┣ 📜regionfree.wps
+   ┃   ┃ ┗ (All other Aroma plugins ending with .wps should be here too)
+   ┃   ┗ 📜root.rpx
+   ┣ 📂payloads
+   ┃ ┣ 📂default
+   ┃ ┃ ┗ 📜payload.elf
+   ┃ ┗ 📂nanddumper
+   ┃   ┗ 📜payload.elf
+   ┣ 📜payload.rpx
+   ┗ 📜payload.elf
+```
+
+</details>
