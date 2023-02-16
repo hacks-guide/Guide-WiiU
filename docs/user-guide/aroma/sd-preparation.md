@@ -48,7 +48,8 @@ We will now place the required Aroma files on the SD Card.
    ┃   ┃ ┣ 📜AromaBasePlugin.wps
    ┃   ┃ ┣ 📜drc_region_free.wps
    ┃   ┃ ┣ 📜homebrew_on_menu.wps
-   ┃   ┃ ┗ 📜regionfree.wps
+   ┃   ┃ ┣ 📜regionfree.wps
+   ┃   ┃ ┗ (All other Aroma plugins ending with .wps should be here too)
    ┃   ┗ 📜root.rpx
    ┣ 📂payloads
    ┃ ┣ 📂default
