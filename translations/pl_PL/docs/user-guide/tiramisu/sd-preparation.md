@@ -22,6 +22,7 @@ Teraz umieścimy wymagane pliki CFW i dodatkowe pliki homebrew na karcie SD.
 1. Skopiuj plik `01_sigpatches.rpx` do `/wiiu/environments/tiramisu/modules/setup` na karcie SD.
 
 ?> If your computer asks you to overwrite existing files on your SD Card, you will need to click yes.
+
 ----------
 
 ### Układ karty SD {docsify-ignore}
