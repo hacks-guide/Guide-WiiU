@@ -22,6 +22,7 @@ Nous allons maintenant placer les fichiers du CFW requis et quelques fichiers ho
 1. Copy the `01_sigpatches.rpx` file to `/wiiu/environments/tiramisu/modules/setup` on your SD Card.
 
 ?> If your computer asks you to overwrite existing files on your SD Card, you will need to click yes.
+
 ----------
 
 ### Disposition de la carte SD {docsify-ignore}
