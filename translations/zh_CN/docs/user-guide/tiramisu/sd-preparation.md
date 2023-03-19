@@ -22,6 +22,7 @@
 1. Copy the `01_sigpatches.rpx` file to `/wiiu/environments/tiramisu/modules/setup` on your SD Card.
 
 ?> If your computer asks you to overwrite existing files on your SD Card, you will need to click yes.
+
 ----------
 
 ### SD Card Layout {docsify-ignore}
