@@ -21,6 +21,7 @@ We will now place the required Aroma files on the SD Card.
     - The two `wiiu` folders should be merged if not done automatically.
 
 ?> If your computer asks you to overwrite existing files on your SD Card, you will need to click yes.
+
 ----------
 
 ### Disposition de la carte SD {docsify-ignore}
