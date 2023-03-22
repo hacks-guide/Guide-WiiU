@@ -19,7 +19,7 @@ In case anything should go wrong in the later process and your Wii U ends up bri
     - Dump MLC: **optional**
     - Dump OTP: **yes**
     - Dump SEEPROM: **yes**
-1. Press the A button to start the dumping process.
+1. Press the A button to start the dumping process. The screen will become white for a few seconds until `nanddumper` kicks in and shows the progress. If it stays blank for a quite while, you may reset the console and retry it with [the browser's data reset](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1507/~/how-to-delete-the-internet-browser-history).
 1. When the process completed, power off your Wii U, take your SD Card out of the Wii U and plug it into your PC.
 1. To make sure you don't lose the files, copy the `slc.bin`, `slccmpt.bin`, `seeprom.bin`, `otp.bin` and if you chose to go with a full backup, `every mlc.bin.part` file to your computer.
 1. Delete the files from your SD Card to free up space.
