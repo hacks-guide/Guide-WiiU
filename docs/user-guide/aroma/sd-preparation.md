@@ -15,7 +15,7 @@ We will now place the required Aroma files on the SD Card.
     1. Read through the steps and click on the checkboxes.
     1. Click on `Download Payloads` and `Download Base Aroma`.
 - The latest release of the [Sigpatches Module](https://github.com/marco-calautti/SigpatchesModuleWiiU/releases).
-    - You will need to download the `01_sigpatches.rpx` file.
+    1. You will need to download the `01_sigpatches.rpx` file.
 
 ### Instructions
 
