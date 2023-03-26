@@ -14,12 +14,15 @@ We will now place the required Aroma files on the SD Card.
     1. Scroll down to the **Download** section.
     1. Read through the steps and click on the checkboxes.
     1. Click on `Download Payloads` and `Download Base Aroma`.
+- The latest release of the [Sigpatches Module](https://github.com/marco-calautti/SigpatchesModuleWiiU/releases).
+    - You will need to download the `01_sigpatches.rpx` file.
 
 ### Instructions
 
 1. Insert your Wii U's SD Card into your PC.
 1. **Extract** and copy the `wiiu` folder of the two newly downloaded *`.zip`* files to the root of your SD Card.
     - The two `wiiu` folders should be merged if not done automatically.
+1. Copy the `01_sigpatches.rpx` file to `/wiiu/environments/aroma/modules/setup` on your SD Card.
 
 ?> If your computer asks you to overwrite existing files on your SD Card, you will need to click yes.
 
@@ -42,6 +45,7 @@ We will now place the required Aroma files on the SD Card.
    ┃   ┣ 📂modules
    ┃   ┃ ┣ 📂setup
    ┃   ┃ ┃ ┣ 📜00_mocha.rpx
+   ┃   ┃ ┃ ┣ 📜01_sigpatches.rpx
    ┃   ┃ ┃ ┣ 📜10_wums_loader.rpx
    ┃   ┃ ┃ ┗ 📜99_autoboot.rpx
    ┃   ┃ ┗ (All other Aroma modules ending with .wms should be here too)
