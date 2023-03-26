@@ -15,7 +15,9 @@ We will now place the required Aroma files on the SD Card.
     1. Read through the steps and click on the checkboxes.
     1. Click on `Download Payloads` and `Download Base Aroma`.
 - The latest release of the [Sigpatches Module](https://github.com/marco-calautti/SigpatchesModuleWiiU/releases).
-    1. You will need to download the `01_sigpatches.rpx` file.
+    - You will need to download the `01_sigpatches.rpx` file.
+- The latest release of the [c2w patcher Plugin](https://github.com/V10lator/c2w_patcher/releases).
+    - You will need to download the `c2w_patcher.wps` file.
 
 ### Instructions
 
@@ -23,6 +25,7 @@ We will now place the required Aroma files on the SD Card.
 1. **Extract** and copy the `wiiu` folder of the two newly downloaded *`.zip`* files to the root of your SD Card.
     - The two `wiiu` folders should be merged if not done automatically.
 1. Copy the `01_sigpatches.rpx` file to `/wiiu/environments/aroma/modules/setup` on your SD Card.
+1. Copy the `c2w_patcher.wps` file to `/wiiu/environments/aroma/plugins` on your SD Card.
 
 ?> If your computer asks you to overwrite existing files on your SD Card, you will need to click yes.
 
@@ -51,6 +54,7 @@ We will now place the required Aroma files on the SD Card.
    ┃   ┃ ┗ (All other Aroma modules ending with .wms should be here too)
    ┃   ┣ 📂plugins
    ┃   ┃ ┣ 📜AromaBasePlugin.wps
+   ┃   ┃ ┣ 📜c2w_patcher.wps
    ┃   ┃ ┣ 📜drc_region_free.wps
    ┃   ┃ ┣ 📜homebrew_on_menu.wps
    ┃   ┃ ┣ 📜regionfree.wps
