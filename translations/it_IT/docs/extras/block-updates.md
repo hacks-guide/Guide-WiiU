@@ -15,7 +15,7 @@ Attualmente, esistono due metodi per bloccare gli aggiornamenti di sistema:
 
 ?> Questo metodo è più avanzato del blocco tramite DNS e usa un'app homebrew per modificare i file di sistema. Però, ha il vantaggio di non bloccare l'accesso alle funzionalità dell'eShop.
 1. Inserisci la scheda SD nel tuo computer.
-1. Download and extract [UFDiine](https://github.com/GaryOderNichts/UFDiine/releases/tag/v1.1) to the root of your SD Card.
+1. Download and extract the contents of [UFDiine](https://github.com/GaryOderNichts/UFDiine/releases/tag/v1.1) to the root of your SD Card.
 1. Plug the SD Card into your Wii U console and boot Tiramisu.
 1. Entra nell'Homebrew Launcher.
 1. Naviga nell'Homebrew Launcher ed esegui l'app UFDiine.
