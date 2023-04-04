@@ -28,7 +28,7 @@ Ceci est nécessaire si vous avez besoin d'effectuer une mise à jour du systèm
 ### Recreating Update Folder
 
 1. Insérez votre carte SD dans votre ordinateur.
-1. Download and extract [UFDiine](https://github.com/GaryOderNichts/UFDiine/releases/tag/v1.1) to the root of your SD Card.
+1. Download and extract the contents of [UFDiine](https://github.com/GaryOderNichts/UFDiine/releases/tag/v1.1) to the root of your SD Card.
 1. Insérez la carte SD dans votre console Wii U et allumez-la.
 1. Entrez dans le Homebrew Launcher.
 1. Naviguez dans le Homebrew Launcher et lancez l'application UFDiine.
