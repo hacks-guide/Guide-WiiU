@@ -17,6 +17,7 @@ We are going to make the Tiramisu environment start automatically when your cons
     - To open the Tiramisu Boot Selector in the future, you have hold START (+) while your Wii U is booting up.
 
 ?> Once you're booted into the Tiramisu environment, you can open the Mii Maker at any time to get into the Homebrew Launcher.
+<br>Homebrew Launcher will be empty for first-time modders. Follow the rest of the guide to install apps into the Homebrew Launcher.
 <br>To get back into the Mii Maker, simply press the HOME button while in the Homebrew Launcher.
 
 ### Blocking Updates
