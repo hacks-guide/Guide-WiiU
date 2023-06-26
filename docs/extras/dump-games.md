@@ -13,18 +13,20 @@ If you intend to use this guide to share your dumped games, don't.
 
 ?> When installing a game to a USB device, we recommend that you use an HDD and not a flash drive, as those are not optimized for constant reading and writing, therefore making them fail quickly. If your HDD is not externally powered, you will need a Y-cable to connect it to two USB slots on the Wii U.
 
+?> When installing a game to a USB device, use the WiiU Data Management tools (in Settings) to transfer save / updates / data to the USB device **before** installing, or you risk data loss.
+
 !> In order to install to a USB device, it has to be formatted by the Wii U. Doing this will erase all contents of it, and prevent it from being used on another system unless you reformat it. To do this, plug your USB HDD into the Wii U, power on your Wii U, your Wii U will prompt you to format your HDD. Confirm with Yes.
 
 #### What You Need {docsify-ignore}
 
 - Your SD Card needs to have enough space to fit the game you want to dump.
 - If wanting to install to a USB, A USB HDD (+ a Y-cable if needed).
-- The latest release of [WUP Installer GX2](https://wiiubru.com/appstore/zips/wup_installer_gx2.zip).
+- The latest release of [NUSspli Lite](https://wiiubru.com/appstore/zips/NUSspli-Lite.zip).
 - The [wudd](https://wiiubru.com/appstore/zips/wudd.zip) homebrew application.
 
 #### Instructions {docsify-ignore}
 
-1. Copy the contents of the `wup_installer_gx2.zip` file to the root of your SD Card.
+1. Copy the contents of the `NUSspli-Lite.zip` file to the root of your SD Card.
 1. Copy the contents of the newly downloaded wudd `.zip` file to the root of your SD Card.
 1. Take the SD Card out of your PC and insert it into your Wii U.
 1. Power on your Wii U and boot into Tiramisu.
@@ -32,19 +34,18 @@ If you intend to use this guide to share your dumped games, don't.
 1. Change dump location to the SD Card.
 1. Select `Dump partition as .app`
 1. Select the `Game` partition to start dumping.
-1. When finished, exit wudd and navigate back to the Wii U Menu.
-1. Insert the SD Card into your computer.
-1. Copy the `GMXXXXXXXXXXXXXXXX` folder from `sd:/wudump/WUP-X-XXXX` to the `install` folder on your SD Card.
-	- If the `install` folder does not exist, create it.
-1. Eject and insert the SD Card into your Wii U.
-1. Open the Homebrew Launcher and then the WUP Installer GX2 app.
-1. Select your game (`GMXXXXXXXXXXXXXXXX`), press `Install` and confirm with `Yes`.
-1. Choose 'USB' to install to USB and 'NAND' to install to NAND
+1. When finished, exit wudd.
+1. Open the Homebrew Launcher and then the NUSspli Lite app.
+1. Move to `Install content`.
+1. Press `X` to switch to SD.
+1. Move to `../` and pess `A` to select.
+1. Find your game in the `wudump/` folder (`wudump/WUP-X-XXXX`).
+1. Move to `Install to:` to toggle between USB and NAND.
+1. Optionally toggle `Keep downloaded files` to 'No' to remove the dumped .app after installation.
+1. Press '+' to start the installation.
 1. When the process is complete, press HOME to return to the Homebrew Launcher.
 1. Exit the Homebrew Launcher to the Wii U Menu.
 1. You should see your game installed, ready to be played.
-1. Take the SD Card out of your Wii U and plug it into your PC.
-1. Delete the `GMXXXXXXXXXXXXXXXX` folder in the `install` directory on your SD Card to free up space.
 
 ### Moving Games To USB
 
