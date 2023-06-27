@@ -21,13 +21,13 @@ If you intend to use this guide to share your dumped games, don't.
 
 - Your SD Card needs to have enough space to fit the game you want to dump.
 - If wanting to install to a USB, A USB HDD (+ a Y-cable if needed).
-- The latest release of [NUSspli Lite](https://wiiubru.com/appstore/zips/NUSspli-Lite.zip).
+- The latest "HBL" (Homebrew Launcher) release of [NUSspli](https://github.com/V10lator/NUSspli/releases/latest).
 - The [wudd](https://wiiubru.com/appstore/zips/wudd.zip) homebrew application.
 
 #### Instructions {docsify-ignore}
 
-1. Copy the contents of the `NUSspli-Lite.zip` file to the root of your SD Card.
-1. Copy the contents of the newly downloaded wudd `.zip` file to the root of your SD Card.
+1. Extract the contents of `NUSspli-X.X-HBL.zip` to `/wiiu/apps/` on your SD Card.
+1. Extract the contents of `wudd.zip` to the root of your SD Card.
 1. Take the SD Card out of your PC and insert it into your Wii U.
 1. Power on your Wii U and boot into Tiramisu.
 1. Launch the Homebrew Launcher and start the wudd app.
@@ -35,9 +35,9 @@ If you intend to use this guide to share your dumped games, don't.
 1. Select `Dump partition as .app`
 1. Select the `Game` partition to start dumping.
 1. When finished, exit wudd.
-1. Open the Homebrew Launcher and then the NUSspli Lite app.
+1. Open the Homebrew Launcher then launch the NUSspli app.
 1. Move to `Install content`.
-1. Press `X` to switch to SD.
+1. Press `X` to switch to 'SD'.
 1. Move to `../` and pess `A` to select.
 1. Find your game in the `wudump/` folder (`wudump/WUP-X-XXXX`).
 1. Move to `Install to:` to toggle between USB and NAND.
