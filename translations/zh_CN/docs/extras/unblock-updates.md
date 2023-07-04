@@ -28,7 +28,7 @@
 ### Recreating Update Folder
 
 1. 将 SD 卡插入电脑。
-1. Download and extract [UFDiine](https://github.com/GaryOderNichts/UFDiine/releases/tag/v1.1) to the root of your SD Card.
+1. Download and extract the contents of [UFDiine](https://github.com/GaryOderNichts/UFDiine/releases/tag/v1.1) to the root of your SD Card.
 1. Plug the SD Card into your Wii U console and power it on.
 1. 启动 Homebrew Launcher。
 1. 移动 Homebrew Launcher 并启动 UFDiine app。

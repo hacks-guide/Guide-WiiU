@@ -22,7 +22,7 @@ Teraz umieścimy wymagane pliki Homebrew na karcie SD.
 
 1. Włóż kartę SD Wii U do komputera.
 1. Skopiuj folder `apps` z pliku <code>Patched_<wbr>IOS80_<wbr>Installer_<wbr>for_<wbr>vWii<wbr>.zip</code> do katalogu głównego karty SD.
-1. Skopiuj zawartość pliku <code>d2x_<wbr>cIOS_<wbr>Installer<wbr>.zip</code> do katalogu głównego karty SD.
+1. Copy the `d2x-cios-installer` from the <code>d2x_<wbr>cIOS_<wbr>Installer<wbr>.zip</code> file to the apps folder on your SD Card.
 1. Skopiuj zawartość pobranego pliku Tiramisu *`.zip`* do katalogu głównego karty SD.
 1. Skopiuj plik `compat_installer.elf` do folderu `wiiu/apps` w katalogu głównym karty SD.
 1. Wyjmij kartę SD ze swojego komputera i podłącz ją do konsoli Wii U.
@@ -63,17 +63,17 @@ W sytuacji, gdyby cokolwiek poszło nie tak w późniejszym procesie i twoja Wii
 1. Uruchom Kanał Homebrew Channel.
 1. Uruchom instalator d2x cIOS.
 1. Ustaw wszystko tak jak poniżej:
-    - Select cIOS: `v10 beta52 d2x-v10-beta52-vWii`
+    - Select cIOS: `d2x-v11-beta1-vWii`
     - Select cIOS base: `56`
     - Select cIOS slot: `249`
 1. Naciśnij przycisk `A`, aby zainstalować.
 1. Ustaw wszystko tak jak poniżej:
-    - Select cIOS: `v10 beta52 d2x-v10-beta52-vWii`
+    - Select cIOS: `d2x-v11-beta1-vWii`
     - Select cIOS base: `57`
     - Select cIOS slot: `250`
 1. Naciśnij przycisk `A`, aby zainstalować.
 1. Ustaw wszystko tak jak poniżej:
-    - Select cIOS: `v10 beta52 d2x-v10-beta52-vWii`
+    - Select cIOS: `d2x-v11-beta1-vWii`
     - Select cIOS base: `58`
     - Select cIOS slot: `251`
 1. Naciśnij przycisk `A`, aby zainstalować.

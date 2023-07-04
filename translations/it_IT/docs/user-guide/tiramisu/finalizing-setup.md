@@ -16,7 +16,7 @@ Faremo in modo che l'ambiente di Tiramisu si avvii automaticamente quando la con
 1. Nel Selettore di Avvio di Tiramisu, il `Menu Wii U` dovrebbe essere già selezionato, premi Y per impostarlo come opzione predefinita di autoavvio, e premi A per avviare il Menu Wii U.
     - In futuro, per aprire il Selettore di Avvio di Tiramisu, è necessario tenere premuto START (+) mentre la Wii U si avvia.
 
-?> Una volta entrato nell'ambiente Tiramisu, puoi aprire il Mii Maker in qualsiasi momento per entrare nell'Homebrew Launcher. <br>Per tornare al Mii Maker, premi semplicemente il tasto HOME mentre sei nell'Homebrew Launcher.
+?> Una volta entrato nell'ambiente Tiramisu, puoi aprire il Mii Maker in qualsiasi momento per entrare nell'Homebrew Launcher. <br>Homebrew Launcher will be empty for first-time modders. Follow the rest of the guide to install apps into the Homebrew Launcher. <br>To get back into the Mii Maker, simply press the HOME button while in the Homebrew Launcher.
 
 ### Bloccare gli aggiornamenti
 While Tiramisu's PayloadLoader already has built-in update blocking functionality, it is recommended to delete the update folder to effectively block system updates. If you get a red warning screen while booting into Tiramisu, the update folder still exists and it is recommended to delete it using [this guide](../block-updates).

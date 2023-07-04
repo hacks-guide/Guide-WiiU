@@ -22,7 +22,7 @@
 
 1. 将你的 Wii U SD 卡 插入你的电脑。
 1. Copy the `apps` folder from the <code>Patched_<wbr>IOS80_<wbr>Installer_<wbr>for_<wbr>vWii<wbr>.zip</code> file to the root of your SD Card.
-1. Copy the contents of the <code>d2x_<wbr>cIOS_<wbr>Installer<wbr>.zip</code> file to the root of your SD Card.
+1. Copy the `d2x-cios-installer` from the <code>d2x_<wbr>cIOS_<wbr>Installer<wbr>.zip</code> file to the apps folder on your SD Card.
 1. Copy the contents of the downloaded Tiramisu *`.zip`* file to the root of your SD Card.
 1. Copy the `compat_installer.elf` file to the `wiiu/apps` folder on the root of your SD Card.
 1. 把 SD 卡从电脑中弹出并插入 Wii U 主机。
@@ -63,17 +63,17 @@ In case anything goes wrong in the later process and your vWii ends up bricked, 
 1. 启动 Homebrew Channel。
 1. 启动 d2x cIOS Installer。
 1. 设定以下选项：
-    - Select cIOS: `v10 beta52 d2x-v10-beta52-vWii`
+    - Select cIOS: `d2x-v11-beta1-vWii`
     - Select cIOS base: `56`
     - Select cIOS slot: `249`
 1. 按下 `A` 键来安装。
 1. 设定以下选项：
-    - Select cIOS: `v10 beta52 d2x-v10-beta52-vWii`
+    - Select cIOS: `d2x-v11-beta1-vWii`
     - Select cIOS base: `57`
     - Select cIOS slot: `250`
 1. 按下 `A` 键来安装。
 1. 设定以下选项：
-    - Select cIOS: `v10 beta52 d2x-v10-beta52-vWii`
+    - Select cIOS: `d2x-v11-beta1-vWii`
     - Select cIOS base: `58`
     - Select cIOS slot: `251`
 1. 按下 `A` 键来安装。
