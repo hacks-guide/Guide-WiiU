@@ -6,16 +6,15 @@
 - **Résolution de problèmes**
 - [Problèmes courants & solutions](common-issues-fixes)
 - [Récupérer un·e IOS/Chaîne vWii](recover-vwii-ioses-channels)
-- [Corriger le code d'erreur 112-1037](fix-errcode-112-1037)
 - **Extras**
-- [Blocage des mises à jour](block-updates)
-- [Déblocage des mises à jour](unblock-updates)
+- [Blocking Updates](block-updates)
+- [Unblocking Updates](unblock-updates)
 - [Dumping Wii U Discs](dump-games)
 - [Dumping Wii Discs](dump-wii-games)
 - [Uninstall CBHC](uninstall-cbhc)
 - [Uninstall Indexiine](uninstall-indexiine)
 - [Uninstall Payloadloader](uninstall-payloadloader)
-- [Foire Aux Questions](faq)
+- [Frequently Asked Questions](faq)
 - **Archive**
 - [Previous Methods](archive/cfw-choice)
 - [Configurable Payload](configurable-payload)
