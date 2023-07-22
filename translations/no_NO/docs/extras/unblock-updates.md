@@ -28,7 +28,7 @@ Dette må du gjøre hvis du noen gang trenger en systemoppdatering.
 ### Gjenopprette "update" mappen
 
 1. Sett SD-kortet inn i PC'en din.
-1. Download and extract the contents of [UFDiine](https://github.com/GaryOderNichts/UFDiine/releases/tag/v1.1) to the root of your SD Card.
+1. Last ned og pakk ut innholdet i [UFDiine](https://github.com/GaryOderNichts/UFDiine/releases/tag/v1.1) til roten av SD-kortet ditt.
 1. Sett SD-kortet inn i Wii U konsollen din og skru den på.
 1. Start Homebrew Launcher.
 1. I Homebrew Launcher, kjør UFDiine appen.
