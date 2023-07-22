@@ -21,7 +21,7 @@ Her vil vi plassere de nødvendige CFW-filene og noen ekstra homebrew filer på 
 1. **Pakk ut** Tiramisu *`.zip`* fila til roten av SD-kortet.
 1. Kopier `01_sigpatches.rpx` fila til `/wiiu/environments/tiramisu/modules/setup` på SD-kortet.
 
-?> If your computer asks you to overwrite existing files on your SD Card, you will need to click yes.
+?> Hvis pc'en din spør deg om å erstatte eksisterende filer på SD-kortet, skal du trykke ja.
 
 ----------
 
