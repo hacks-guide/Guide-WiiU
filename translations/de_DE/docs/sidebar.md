@@ -6,7 +6,6 @@
 - **Troubleshooting**
 - [Common Issues & Fixes](common-issues-fixes)
 - [Recover a vWii IOS/Channel](recover-vwii-ioses-channels)
-- [Fix Error Code 112-1037](fix-errcode-112-1037)
 - **Extras**
 - [Blocking Updates](block-updates)
 - [Unblocking Updates](unblock-updates)
