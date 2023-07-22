@@ -15,14 +15,14 @@ Vi starter med å plassere Homebrew filene du trenger på SD-kortet ditt.
 - De nyeste filene i [Tiramisu for your café](https://tiramisu.foryour.cafe).
     - Klikk på `Download Tiramisu`.
 - Siste utgave av [vwii-compat-installer](https://github.com/TheLordScruffy/vwii-compat-installer/releases).
-- The <a href="docs/files/Patched_IOS80_Installer_for_vWii.zip" download>Patched IOS 80 Installer for vWii</a>. ([Source](https://github.com/Lazr1026/Patched-IOS80-Installer-for-vWii))
+- <a href="docs/files/Patched_IOS80_Installer_for_vWii.zip" download>Patched IOS 80 Installer for vWii</a>. ([kilde](https://github.com/Lazr1026/Patched-IOS80-Installer-for-vWii))
 - <a href ="docs/files/d2x_cIOS_Installer.zip" download>d2x cIOS Installer</a>.
 
 ### Instruksjoner {docsify-ignore}
 
 1. Sett SD-kortet ditt i PC'en din.
 1. Pakk ut `apps` mappen fra <code>Patched_<wbr>IOS80_<wbr>Installer_<wbr>for_<wbr>vWii<wbr>.zip</code> til roten av SD kortet.
-1. Copy the `d2x-cios-installer` from the <code>d2x_<wbr>cIOS_<wbr>Installer<wbr>.zip</code> file to the apps folder on your SD Card.
+1. Pakk ut `d2x-cios-installer` fra <code>d2x_<wbr>cIOS_<wbr>Installer<wbr>.zip</code> fila til apps mappen på SD-kortet.
 1. Pakk ut Tiramisu *`.zip`* fila til roten av SD-kortet.
 1. Kopier `compat_installer.elf` fila til `wiiu/apps` mappen i roten av SD-kortet.
 1. Ta SD-kortet ut av PC'en og sett den inn i Wii U konsollen.
@@ -63,17 +63,17 @@ Hvis noe går galt senere i prosessen og vWii "bricker", vil gjenoppretting av e
 1. Start Homebrew Channel.
 1. Kjør d2x cIOS Installer.
 1. Velg følgende instillinger:
-    - Select cIOS: `d2x-v11-beta1-vWii`
+    - Velg cIOS: `d2x-v11-beta1-vWii`
     - Velg cIOS base `56`
     - Velg cIOS slot `249`
 1. Trykk på `A`-knappen for å installere dem.
 1. Velg følgende instillinger:
-    - Select cIOS: `d2x-v11-beta1-vWii`
+    - Velg cIOS: `d2x-v11-beta1-vWii`
     - Velg cIOS base `57`
     - Velg cIOS slot `250`
 1. Trykk på `A`-knappen for å installere dem.
 1. Velg følgende instillinger:
-    - Select cIOS: `d2x-v11-beta1-vWii`
+    - Velg cIOS: `d2x-v11-beta1-vWii`
     - Velg cIOS base `58`
     - Velg cIOS slot `251`
 1. Trykk på `A`-knappen for å installere dem.
