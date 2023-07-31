@@ -10,7 +10,7 @@ Faremo in modo che l'ambiente di Tiramisu si avvii automaticamente quando la con
 
 1. Accendi la tua Wii U.
     - L'Environment Loader dovrebbe apparire.
-1. Usando il D-Pad, naviga su `tiramisu` e premi Y per impostarlo come ambiente predefinito, poi premi A per avviare Tiramisu.
+1. Using the D-Pad, navigate to `tiramisu` and press Y to set this to your default environment, then press A to launch into Tiramisu.
     - You might get a red warning screen telling you that updates aren't blocked properly. Press A to continue anyway. We're going to block updates in the "Blocking Updates" section below.
     - To open the Environment Loader in the future, you have to hold X while your Wii U is booting up.
 1. Nel Selettore di Avvio di Tiramisu, il `Menu Wii U` dovrebbe essere già selezionato, premi Y per impostarlo come opzione predefinita di autoavvio, e premi A per avviare il Menu Wii U.
