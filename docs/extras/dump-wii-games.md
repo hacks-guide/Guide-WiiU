@@ -48,8 +48,7 @@ If you intend to use this guide to share your dumped games, don't.
 
 1. Copy all the files that share the same name and end with `.partX.iso` in a folder on your computer.
 1. Right-click inside the folder while holding Shift and select `Open PowerShell Window Here`.
-1. In the PowerShell window, type in `cmd` and press Enter.
-1. Use the following command as is: `copy /b *.part?.iso game.iso`.
+1. In the PowerShell window, run the following command as is: `cmd.exe /c "copy /b *.part?.iso game.iso"`.
 
 #### macOS/Linux {docsify-ignore}
 
