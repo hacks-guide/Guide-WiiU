@@ -23,6 +23,7 @@ Questa pagina ti guiderà attraverso il processo di disinstallazione di PayloadL
 
 1. Avvia l'applicazione Informazioni per la salute e la sicurezza tenendo premuto X sul Gamepad
 1. Vai all'ambiente `installer` e lancialo premendo A.
-1. Seleziona `Remove`.
-1. Ti verrà chiesto se vuoi davvero rimuovere il PayloadLoader. Seleziona `Remove` di nuovo.
+1. Premi A per selezionare `Check`.
+1. Select `Remove`.
+1. You will be asked if you really want to remove the PayloadLoader. Select `Remove` again.
 1. Al termine del processo, premi A per spegnere la console.
