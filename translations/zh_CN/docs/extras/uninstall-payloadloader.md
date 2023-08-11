@@ -23,6 +23,7 @@ This page will guide through the process of uninstalling the PayloadLoader from 
 
 1. Launch the Health & Safety Application while holding X on the Gamepad
 1. Navigate to the `installer` environment and launch it by pressing A.
+1. Press A to select `Check`.
 1. Select `Remove`.
 1. You will be asked if you really want to remove the PayloadLoader. Select `Remove` again.
 1. When the process finished, press A to shutdown the console.
