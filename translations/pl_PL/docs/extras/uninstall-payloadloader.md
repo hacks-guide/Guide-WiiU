@@ -23,6 +23,7 @@ Ta strona przeprowadzi Cię przez proces odinstalowania PayloadLoader z Wii U.
 
 1. Uruchom aplikację Health & Safety trzymając X na Gamepad
 1. Przejdź do środowiska `installer` i uruchom je naciskając A.
-1. Wybierz `Remove`.
-1. Zostaniesz zapytany, czy naprawdę chcesz usunąć PayloadLoader. Wybierz `Remove` ponownie.
+1. Naciśnij A, aby wybrać `Check`.
+1. Select `Remove`.
+1. You will be asked if you really want to remove the PayloadLoader. Select `Remove` again.
 1. Po zakończeniu procesu, naciśnij A, aby zamknąć konsolę.
