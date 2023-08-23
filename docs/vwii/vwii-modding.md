@@ -98,8 +98,6 @@ In case anything goes wrong in the later process and your vWii ends up bricked, 
 
 ### Installing Priiloader
 
-!> 
-
 1. Launch Priiloader Installer.
 1. Press the + Button on Wii Remote or the A Button on a GameCube controller.
 1. Press A to return to the Homebrew Channel.
@@ -107,3 +105,5 @@ In case anything goes wrong in the later process and your vWii ends up bricked, 
 !> Installing custom System Menu is a definite brick risk and you should always have an effective backup before installing one but when done right, won't brick the vWii.
 
 !> Installing any IOS (including TED IOSes) or wads made for the original Wii on your vWii will brick it
+
+!> Installing a theme after installing Priiloader will brick your vWii.
