@@ -31,14 +31,16 @@ We will now place the required Homebrew files on the SD Card.
 1. Copy the `d2x-cios-installer` from the <code>d2x_<wbr>cIOS_<wbr>Installer<wbr>.zip</code> file to the apps folder on your SD Card.
 1. Copy the contents of the downloaded Tiramisu *`.zip`* file to the root of your SD Card.
 1. Copy the `compat_installer.elf` file to the `wiiu/apps` folder on the root of your SD Card.
-1. Copy the contents of the downloaded Priiloader *`.zip`* file to the root of your SD Card.
-1. Copy the contents of the downloaded *`LoadPriiloader.zip`* file to the root of your SD Card.
+1. Copy the contents of the downloaded `Priiloader_v0_10RC3.zip` file to the root of your SD Card.
+1. Copy the contents of the downloaded `LoadPriiloader.zip` file to the root of your SD Card.
 1. Copy the `PriiloaderWiiUForwarder.wuhb` file to the `wiiu/apps` folder on the root of your SD Card.
 1. Take the SD Card out of your computer and plug it into your Wii U console.
 
 ### NAND Backup
 
 In case anything goes wrong in the later process and your vWii ends up bricked, restoring a previously made NAND backup can fix it.
+
+?> If you have recently made a NAND backup that includes SLCCMPT and OTP, feel free to skip this step.
 
 1. Launch the [Wii U NAND Dumper](vwii/browser-exploit).
 1. Use the Wii U GamePad's D-Pad to enter the following configuration:
