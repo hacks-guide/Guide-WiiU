@@ -94,4 +94,4 @@ Hvis noe går galt senere i prosessen og vWii "bricker", vil gjenoppretting av e
 
 !> Installering av IOS (inkludert TED IOS'er) eller wads formattert for den originale Wii'en vil "bricke" vWii'en din.
 
-!> Installere Priiloader vil bricke vWii.
+!> Priiloader versions before 0.10.0 do not work with vWii. Priiloader versions before 0.8.2 will brick your vWii.
