@@ -94,4 +94,4 @@ Nel caso qualcosa andasse storto durante il processo e la tua vWii si bricka, ri
 
 !> Installando un IOS (includendo le IOS TED) o wad fatti per il Wii originale nella tua vWii ti brickerà il vWii.
 
-!> L'installazione di Priiloader ti brickerà il tuo vWii.
+!> Priiloader versions before 0.10.0 do not work with vWii. Priiloader versions before 0.8.2 will brick your vWii.
