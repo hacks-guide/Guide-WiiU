@@ -109,3 +109,5 @@ In case anything goes wrong in the later process and your vWii ends up bricked, 
 !> Installing any IOS (including TED IOSes) or wads made for the original Wii on your vWii will brick it
 
 !> Installing a theme after installing Priiloader will brick your vWii.
+
+!> Priiloader versions before 0.10.0 do not work with vWii. Priiloader versions before 0.8.2 will brick your vWii.
