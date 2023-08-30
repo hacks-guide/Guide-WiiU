@@ -22,7 +22,6 @@ We will now place the required Homebrew files on the SD Card.
 - The latest files from Priiloader.
     - Download [PriiloaderWiiUForwarder.wuhb](https://github.com/DacoTaco/priiloader/releases/download/0.10.0-RC3/PriiloaderWiiUForwarder.wuhb)`
     - Download [LoadPriiloader.zip](https://github.com/DacoTaco/priiloader/releases/download/0.10.0-RC3/LoadPriiloader.zip)
-    - Download [Priiloader_v0_10RC3.zip](https://github.com/DacoTaco/priiloader/releases/download/0.10.0-RC3/Priiloader_v0_10RC3.zip)
 
 ### Instructions {docsify-ignore}
 
@@ -33,7 +32,6 @@ We will now place the required Homebrew files on the SD Card.
 1. Copy the `compat_installer.elf` file to the `wiiu/apps` folder on the root of your SD Card.
 1. Copy the contents of the downloaded `Priiloader_v0_10RC3.zip` file to the root of your SD Card.
 1. Copy the contents of the downloaded `LoadPriiloader.zip` file to the root of your SD Card.
-1. Copy the `PriiloaderWiiUForwarder.wuhb` file to the `wiiu/apps` folder on the root of your SD Card.
 1. Take the SD Card out of your computer and plug it into your Wii U console.
 
 ### NAND Backup
@@ -100,6 +98,8 @@ In case anything goes wrong in the later process and your vWii ends up bricked, 
 
 ### Installing Priiloader
 
+!> Priiloader versions before 0.10.0 do not work with vWii. Priiloader versions before 0.8.2 will brick your vWii.
+
 1. Launch Priiloader Installer.
 1. Press the + Button on Wii Remote or the A Button on a GameCube controller.
 1. Press A to return to the Homebrew Channel.
@@ -109,5 +109,3 @@ In case anything goes wrong in the later process and your vWii ends up bricked, 
 !> Installing any IOS (including TED IOSes) or wads made for the original Wii on your vWii will brick it
 
 !> Installing a theme after installing Priiloader will brick your vWii.
-
-!> Priiloader versions before 0.10.0 do not work with vWii. Priiloader versions before 0.8.2 will brick your vWii.
