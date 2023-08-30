@@ -6,16 +6,15 @@
 - **故障排查**
 - [常见问题 & 修复](common-issues-fixes)
 - [恢复一个 vWii IOS/Channel](recover-vwii-ioses-channels)
-- [修复错误代码 112-1037](fix-errcode-112-1037)
-- **扩展**
-- [阻止更新](block-updates)
-- [解除阻止更新](unblock-updates)
+- **Extras**
+- [Blocking Updates](block-updates)
+- [Unblocking Updates](unblock-updates)
 - [Dumping Wii U Discs](dump-games)
 - [Dumping Wii Discs](dump-wii-games)
 - [Uninstall CBHC](uninstall-cbhc)
 - [Uninstall Indexiine](uninstall-indexiine)
 - [Uninstall Payloadloader](uninstall-payloadloader)
-- [常见问题](faq)
+- [Frequently Asked Questions](faq)
 - **Archive**
 - [Previous Methods](archive/cfw-choice)
 - [Configurable Payload](configurable-payload)

@@ -14,6 +14,7 @@ Ora andremo ad inserire i file Homebrew nella SD.
 
 - Gli ultimi file da [Tiramisu per il tuo caffè](https://tiramisu.foryour.cafe).
     - Click on `Download Tiramisu`.
+    - If you have already installed Tiramisu, you do not need to redownload it.
 - La versione più recente del [vwii-compat-installer](https://github.com/TheLordScruffy/vwii-compat-installer/releases).
 - The <a href="docs/files/Patched_IOS80_Installer_for_vWii.zip" download>Patched IOS 80 Installer for vWii</a>. ([Source](https://github.com/Lazr1026/Patched-IOS80-Installer-for-vWii))
 - <a href ="docs/files/d2x_cIOS_Installer.zip" download>d2x cIOS Installer</a>.
@@ -93,4 +94,4 @@ Nel caso qualcosa andasse storto durante il processo e la tua vWii si bricka, ri
 
 !> Installando un IOS (includendo le IOS TED) o wad fatti per il Wii originale nella tua vWii ti brickerà il vWii.
 
-!> L'installazione di Priiloader ti brickerà il tuo vWii.
+!> Priiloader versions before 0.10.0 do not work with vWii. Priiloader versions before 0.8.2 will brick your vWii.

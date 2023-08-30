@@ -6,19 +6,18 @@
 - **Risoluzione Dei Problemi**
 - [Problemi comuni & Soluzioni](common-issues-fixes)
 - [Recupera un Canale/IOS vWii](recover-vwii-ioses-channels)
-- [Soluzione Codice Errore 112-1037](fix-errcode-112-1037)
-- **Extra**
-- [Bloccare gli aggiornamenti](block-updates)
-- [Sbloccare gli aggiornamenti](unblock-updates)
-- [Dumpare dischi Wii U](dump-games)
-- [Dumpare dischi Wii](dump-wii-games)
-- [Disinstallare CBHC](uninstall-cbhc)
-- [Disinstallare Indexiine](uninstall-indexiine)
-- [Disinstallare Payloadloader](uninstall-payloadloader)
-- [Domande Frequenti](faq)
+- **Extras**
+- [Blocking Updates](block-updates)
+- [Unblocking Updates](unblock-updates)
+- [Dumping Wii U Discs](dump-games)
+- [Dumping Wii Discs](dump-wii-games)
+- [Uninstall CBHC](uninstall-cbhc)
+- [Uninstall Indexiine](uninstall-indexiine)
+- [Uninstall Payloadloader](uninstall-payloadloader)
+- [Frequently Asked Questions](faq)
 - **Archivio**
 - [Metodi precedenti](archive/cfw-choice)
-- [Payload configurabile](configurable-payload)
+- [Configurable Payload](configurable-payload)
 - **Collegamenti**
 - [![GitHub](https://icongr.am/simple/github.svg?color=808080&size=16)GitHub](https://github.com/hacks-guide/Guide-WiiU)
 - [![Discord](https://icongr.am/simple/discord.svg?colored&size=16)Discord](https://discord.gg/C29hYvh)
