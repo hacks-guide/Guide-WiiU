@@ -20,8 +20,8 @@ We will now place the required Homebrew files on the SD Card.
 - The <a href="docs/files/Patched_IOS80_Installer_for_vWii.zip" download>Patched IOS 80 Installer for vWii</a>. ([Source](https://github.com/Lazr1026/Patched-IOS80-Installer-for-vWii))
 - The <a href ="docs/files/d2x_cIOS_Installer.zip" download>d2x cIOS Installer</a>.
 - The latest files from Priiloader.
-    - Download [PriiloaderWiiUForwarder.wuhb](https://github.com/DacoTaco/priiloader/releases/download/0.10.0-RC3/PriiloaderWiiUForwarder.wuhb)`
-    - Download [LoadPriiloader.zip](https://github.com/DacoTaco/priiloader/releases/download/0.10.0-RC3/LoadPriiloader.zip)
+    - Download [Priiloader](https://github.com/DacoTaco/priiloader/releases/download/0.10.0/Priiloader_v0_10.zip)`
+    - Download [LoadPriiloader.zip](https://github.com/DacoTaco/priiloader/releases/download/0.10.0/LoadPriiloader.zip)
 
 ### Instructions {docsify-ignore}
 
