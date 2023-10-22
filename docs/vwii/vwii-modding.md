@@ -21,21 +21,21 @@ This page will guide you through the process of modding your vWii.
 ### Instructions {docsify-ignore}
 
 1. Insert your Wii U's SD Card into your PC.
-2. Copy the `apps` folder from the <code>Patched_<wbr>IOS80_<wbr>Installer_<wbr>for_<wbr>vWii<wbr>.zip</code> file to the root of your SD Card.
-3. Copy the `d2x-cios-installer` from the <code>d2x_<wbr>cIOS_<wbr>Installer<wbr>.zip</code> file to the apps folder on your SD Card.
-4. Copy the contents of the downloaded Tiramisu *`.zip`* file to the root of your SD Card.
-5. Copy the `compat_installer.rpx` file to the `wiiu/apps` folder on the root of your SD Card.
-6. Take the SD Card out of your computer and plug it into your Wii U console.
+2. Copy the `apps` folder from the <code>Patched_<wbr>IOS80_<wbr>Installer_<wbr>for_<wbr>vWii<wbr>.zip</code> file to the root of your SD Card
+3. Copy the `d2x-cios-installer` from the <code>d2x_<wbr>cIOS_<wbr>Installer<wbr>.zip</code> file to the apps folder on your SD Card
+4. Copy the contents of the downloaded Tiramisu *`.zip`* file to the root of your SD Card
+5. Copy the `compat_installer` folder to the `wiiu/apps` folder on your SD Card
+6. Take the SD Card out of your computer and plug it into your Wii U console
 
 ?> Please ensure you've made a NAND Backup before continuing. If you have not, please go to [here]( https://wiiu.hacks.guide/#/tiramisu/nand-backup) for instructions.
 
 ### Installing the Homebrew Channel
 
 1. Boot into Aroma
-2. Launch the compat_installer
-3. Press `A` to install the Homebrew Channel and wait until you see `Install succeeded`. Then press the HOME button to return to the Wii U Menu
-4. Launch vWii (the Wii Menu icon)
-   - If the installation has succeeded, you should see the Homebrew Channel in your Wii Menu
+2. Launch compat_installer from the Home Menu
+3. Press `A` to install the Homebrew Channel and wait until you see `Install succeeded`, then press the HOME button to return to the Wii U Menu
+4. Launch your vWii (the Wii Menu icon)
+   - If the installation has succeeded, you should see the Homebrew Channel installed on your Wii Menu
 
 ### Installing cIOSes
 
