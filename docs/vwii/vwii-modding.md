@@ -28,7 +28,7 @@ This page will guide you through the process of modding your vWii.
 5. Copy the `compat_installer` folder to the `wiiu/apps` folder on your SD Card
 6. Take the SD Card out of your computer and plug it into your Wii U console
 
-?> Please ensure you've made a NAND Backup before continuing. If you have not, please go to [here]( https://wiiu.hacks.guide/#/tiramisu/nand-backup) for instructions.
+?> Please ensure you've made a NAND Backup before continuing. If you have not, please go to [here](https://wiiu.hacks.guide/#/tiramisu/nand-backup) for instructions.
 
 ### Installing the Homebrew Channel
 
