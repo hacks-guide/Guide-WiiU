@@ -14,7 +14,8 @@ This page will guide you through the process of modding your vWii.
 - The latest version of [Aroma](https://aroma.foryour.cafe)
     - Click on `Download Payloads` and `Download Base Aroma`
     - If you have already installed Aroma, you will not need to redownload it.
-- The latest release of the [vwii-compat-installer](https://apps.fortheusers.org/wiiu/CompatTitleInstaller)
+- The latest release of the [vwii-compat-installer](https://wiiu.cdn.fortheusers.org/zips/CompatTitleInstaller.zip)
+
 - <a href="docs/files/Patched_IOS80_Installer_for_vWii.zip" download>Patched IOS 80 Installer for vWii</a>
 - <a href ="docs/files/d2x_cIOS_Installer.zip" download>d2x cIOS Installer</a>
 
