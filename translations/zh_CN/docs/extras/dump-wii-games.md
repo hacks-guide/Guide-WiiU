@@ -2,7 +2,7 @@
 ---
 导出你的光盘允许你：在 Wii 模拟器（即 Dolphin）中游玩它们，或使用 USB/SD 卡加载器（如Wiiflow）玩它们，亦或制作一个 VC （Virtual Console）模拟游戏并安装在 USB 设备或 NAND 中，允许它从 Wii U 菜单中启动。
 
-?> 导出 Wii 游戏需要提前完成 vWii 的 Homebrew 设置，所以你需要先完成 [vWii 修改教程](vwii-modding) 再来关注这一部分的内容。
+?> Dumping Wii games requires a working homebrew setup on vWii, so make sure to finish the [vWii Modding guide](vwii-modding) beforehand.
 
 !> 分享本教程导出的文件是 **非法的**。  
 如果你想要使用这个教程导出游戏并分享出去，请不要这么做。
@@ -27,7 +27,7 @@
 1. 阅读免责声明，然后按下 A 键。
 1. 选择 Yes 来启用校验计算。
 1. 选择导出过程中你想使用的 USB 设备或 SD 卡。
-    - 请注意，你选择的设备需要格式化为 FAT32 或 NTFS。
+    - Please note that the device you choose needs to be formatted either in FAT32 or NTFS.
 1. 按 A 继续。
 1. 如果屏幕上提示是否从 redump.org 上下载 DAT 文件，选择 No。
 1. 插入你的光盘，然后按下 A 键。
@@ -42,14 +42,13 @@
 
 ### 合并拆分文件
 
-?> 如果你选择将光盘的文件导入一个文件格式是 FAT32 的设备中，则你至少会得到两个名字尾部为 `.partX.iso` （X为数字）的文件。 它们需要被合并起来。
+?> If you dumped the disc on a FAT32 formatted device, you should've got at least 2 files that end with `.partX.iso`. 它们需要被合并起来。
 
 #### Windows {docsify-ignore}
 
 1. 将以 `.partX.iso` 结尾文件名的文件复制到你的电脑上。
-1. 打开命令提示符。
-1. 使用 `cd <path>` 命令将路径移动至你的 `.partX.iso` 文件夹中。
-1. 输入以下命令：`copy /b *.part?.iso game.iso` 来合并文件为 game.iso。
+1. Right-click inside the folder while holding Shift and select `Open PowerShell Window Here`.
+1. In the PowerShell window, run the following command as is: `cmd.exe /c "copy /b *.part?.iso game.iso"`.
 
 #### macOS/Linux {docsify-ignore}
 
