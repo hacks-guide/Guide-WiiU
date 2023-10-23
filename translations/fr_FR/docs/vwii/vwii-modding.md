@@ -2,7 +2,7 @@
 ---
 Cette page vous guidera tout au long du processus de modding de votre vWii.
 
-Nous allons maintenant placer les fichiers Homebrew nécessaires sur la carte SD.
+We will now start by placing the required Homebrew files on the SD Card.
 
 ?> **Remarque** Votre carte SD devra être formatée en FAT32. Si votre carte SD n'est pas formatée en FAT32, utilisez [GUIFormat](http://ridgecrop.co.uk/index.htm?guiformat.htm) avec 32k (32768) en taille d'unité d'Allocation pour la formater. **Ne nommez pas** la carte SD en tant que `wiiu` ou cela causera des problèmes avec les homebrews.
 
@@ -19,7 +19,7 @@ Nous allons maintenant placer les fichiers Homebrew nécessaires sur la carte SD
 - The <a href="docs/files/Patched_IOS80_Installer_for_vWii.zip" download>Patched IOS 80 Installer for vWii</a>. ([Source](https://github.com/Lazr1026/Patched-IOS80-Installer-for-vWii))
 - Les <a href ="docs/files/d2x_cIOS_Installer.zip" download>vWii cIOS apps</a>.
 
-### Instructions {docsify-ignore}
+### SD Preparations {docsify-ignore}
 
 1. Insérez la carte SD de votre Wii U dans votre PC.
 1. Copiez le dossier `apps` du fichier <code>Patched_<wbr>IOS80_<wbr>Installer_<wbr>for_<wbr>vWii<wbr>.zip</code> vers la racine de votre carte SD.
@@ -43,7 +43,7 @@ In case anything goes wrong in the later process and your vWii ends up bricked, 
     - Dump SEEPROM: **optional**
 1. Appuyez sur le bouton A pour démarrer le processus de dumping.
 1. Une fois le processus terminé, éteignez votre Wii U, retirez votre carte SD de la Wii U et insérez-la dans votre PC.
-1. To make sure you don't lose the files, copy the `slccmpt.bin`, `otp.bin` and if you chose to go with a full backup, `seeprom.bin`, `slc.bin`, and `every mlc.bin.part` file to your computer.
+1. To make sure you don't lose the files, copy the `slccmpt.bin` and `otp.bin` files, and if you chose to go with a full backup, `seeprom.bin`, `slc.bin`, and `every mlc.bin.part` file to your computer.
 1. Supprimez les fichiers de votre carte SD pour libérer de l'espace.
 1. Retirez la carte SD de votre ordinateur et branchez-la sur votre console Wii U.
 
@@ -88,7 +88,7 @@ In case anything goes wrong in the later process and your vWii ends up bricked, 
 1. Lisez l'écran d'avertissement et attendez 30 secondes.
 1. Appuyez sur n'importe quel bouton pour installer.
 1. Attendez que la console affiche <code>IOS80 <wbr>Installation <wbr>is <wbr>complete!</code>.
-1. Appuyez sur n'importe quel bouton pour quitter.
+1. Press any button to exit.
 
 !> Installing custom System Menu is a definite brick risk and you should always have an effective backup before installing one but when done right, won't brick the vWii.
 
