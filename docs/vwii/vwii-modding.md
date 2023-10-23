@@ -64,7 +64,7 @@ This page will guide you through the process of modding your vWii.
 
 ### Patching IOS 80
 
-!> If for any reason the Wii U is turned off while patching IOS 80, your vWii will be bricked. This can be fixed by either extracting the IOS 80 from your previously made NAND backup and then replacing it over FTP, or by [reinstalling IOS 80](recover-vwii-ioses-channels).
+!> If, for any reason, the Wii U is turned off while patching IOS 80, your vWii will be bricked. This can be fixed by either extracting the IOS 80 from your previously made NAND backup and then replacing it over FTP, or by [reinstalling IOS 80](recover-vwii-ioses-channels).
 
 1. Launch Patched IOS 80 Installer for vWii
 1. Read the warning screen and wait 30 seconds
