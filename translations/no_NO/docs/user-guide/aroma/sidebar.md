@@ -1,6 +1,6 @@
 - **Aroma**
 - [Hjemmesiden](../introduction)
-- [Getting Started with Aroma](getting-started)
+- [Kom i gang med Aroma](getting-started)
 - [Forberede SD-kortet](sd-preparation)
 - [Fullføre installasjon](finalizing-setup)
 - **Lenker**

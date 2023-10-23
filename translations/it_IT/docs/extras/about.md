@@ -4,7 +4,7 @@ Questa guida è stata scritta da membri dello staff del [Nintendo Homebrew Disco
 
 > **Crediti**
 > 
-> **Elpunical, FlimFlam69, Flump, GaryOderNichts, Hiperhazz, huhen, ihaveahax/ihaveamac, Link5261, Maschell, NoahAbc12345, Plailect, Profanity, e redcubie.**
+> **Elpunical, FlimFlam69, Flump, GaryOderNichts, Hiperhazz, huhen, ihaveahax/ihaveamac, Lazr1026, Link5261, Maschell, Nightkingale, Plailect, Profanity, and redcubie.**
 > 
 > Grazie a [tutte le altre persone](https://github.com/hacks-guide/Guide-WiiU/graphs/contributors) che hanno contribuito alla guida su GitHub.
 
@@ -19,7 +19,7 @@ Questa guida è stata scritta da membri dello staff del [Nintendo Homebrew Disco
 > 
 > - **GaryOderNichts** e **Maschell** per l'[AutobootModule](https://github.com/wiiu-env/AutobootModule).
 > 
-> - **GaryOderNichts** per la [Configurable Payload](https://github.com/GaryOderNichts/configurable-payload), [Indexiine-Installer](https://github.com/GaryOderNichts/indexiine-installer), [UFDiine](https://github.com/GaryOderNichts/UFDiine), [vWii Decaffeinator](https://github.com/GaryOderNichts/vWii-Decaffeinator), e la versione corretta dell'[Homebrew Launcher Channel](https://github.com/GaryOderNichts/homebrew_launcher/).
+> - **GaryOderNichts** for the [Configurable Payload](https://github.com/GaryOderNichts/configurable-payload), [Indexiine-Installer](https://github.com/GaryOderNichts/indexiine-installer), [UFDiine](https://github.com/GaryOderNichts/UFDiine), [vWii Decaffeinator](https://github.com/GaryOderNichts/vWii-Decaffeinator), the fixed version of the [Homebrew Launcher Channel](https://github.com/GaryOderNichts/homebrew_launcher/), and [Bloopair](https://github.com/GaryOderNichts/Bloopair).
 > 
 > - **dragbe** e **FIX94** per il <u>d2x cIOS Installer</u>.
 > 
@@ -29,7 +29,7 @@ Questa guida è stata scritta da membri dello staff del [Nintendo Homebrew Disco
 > 
 > - **jhildenbiddle** per [docsify-themeable](https://github.com/jhildenbiddle/docsify-themeable).
 > 
-> - **Maschell** per il [CustomRPXLoader](https://github.com/wiiu-env/CustomRPXLoader), [FailST](https://maschell.github.io/homebrew/2020/12/02/failst.html), [EnvironmentLoader](https://github.com/wiiu-env/EnvironmentLoader), [HBLInstallerWrapper](https://github.com/wiiu-env/HBLInstallerWrapper), [LaunchInstaller](https://github.com/wiiu-env/LaunchInstaller), [MochaPayload](https://github.com/wiiu-env/MochaPayload), [PayloadFromRPX](https://github.com/wiiu-env/PayloadFromRPX), [PayloadLoaderInstaller](https://github.com/wiiu-env/PayloadLoaderInstaller), [PayloadLoaderInstallerEnvironment](https://github.com/wiiu-env/PayloadLoaderInstallerEnvironment), [PayloadloaderPayload](https://github.com/wiiu-env/PayloadloaderPayload), e il [Tiramisu Downloader](https://tiramisu.foryour.cafe/).
+> - **Maschell** for the [CustomRPXLoader](https://github.com/wiiu-env/CustomRPXLoader), [FailST](https://maschell.github.io/homebrew/2020/12/02/failst.html), [EnvironmentLoader](https://github.com/wiiu-env/EnvironmentLoader), [HBLInstallerWrapper](https://github.com/wiiu-env/HBLInstallerWrapper), [LaunchInstaller](https://github.com/wiiu-env/LaunchInstaller), [MochaPayload](https://github.com/wiiu-env/MochaPayload), [PayloadFromRPX](https://github.com/wiiu-env/PayloadFromRPX), [PayloadLoaderInstaller](https://github.com/wiiu-env/PayloadLoaderInstaller), [PayloadLoaderInstallerEnvironment](https://github.com/wiiu-env/PayloadLoaderInstallerEnvironment), [PayloadloaderPayload](https://github.com/wiiu-env/PayloadloaderPayload), the [Tiramisu Downloader](https://tiramisu.foryour.cafe/), [wudd](https://github.com/wiiu-env/wudd), the [FTPiiU Plugin](https://github.com/wiiu-env/ftpiiu_plugin/), the [SDCafiine Plugin](https://github.com/wiiu-env/sdcafiine_plugin/), the [Screenshot Plugin](https://github.com/wiiu-env/ScreenshotWUPS/), the [Aroma Downloader](https://aroma.foryour.cafe), and <u>Tiramisu/Aroma</u>.
 > 
 > - **FIX94** e **smealum** per [Haxchi e CBHC](https://github.com/FIX94/haxchi).
 > 
@@ -37,7 +37,7 @@ Questa guida è stata scritta da membri dello staff del [Nintendo Homebrew Disco
 > 
 > - **Maschell** e **dimok789** per l'[Homebrew Launcher Installer](https://github.com/wiiu-env/homebrew_launcher_installer).
 > 
-> - **vgmoose**, **pwsincd**, **rw-r-r_0644**, **crc32**, **Compucat** e il **Team 4TU** per [hb-appstore](https://github.com/vgmoose/hb-appstore).
+> - **vgmoose**, **pwsincd**, **rw-r-r_0644**, **crc32**, **Compucat**, **Nightkingale** and the **4TU Team** for [hb-appstore](https://github.com/vgmoose/hb-appstore).
 > 
 > - **Jonhyjp** per [Indexiine](https://gbatemp.net/threads/indexiine-load-cfw-during-boot-and-offline-without-a-vc-ds-title.553681/).
 > 
@@ -45,7 +45,7 @@ Questa guida è stata scritta da membri dello staff del [Nintendo Homebrew Disco
 > 
 > - **Dr Clipper**, **ZRicky11**, **dmm** e **FIX94** per <u>Patched IOS80 Installer for vWii</u>.
 > 
-> - **GabyPCgeeK** e **Ryuzaki-MrL** per [SaveMii Mod](https://github.com/GabyPCgeeK/savemii).
+> - **GabyPCgeeK**,  **Ryuzaki-MrL**, and **Xpl0itU** for [SaveMii WUT Port](https://github.com/Xpl0itU/savemii)
 > 
 > - **djskual**, **Team Loadiine GX2**, **Yardape** e **brienj** per [WUP Installer GX2](https://sourceforge.net/projects/wup-installer-gx2/).
 > 
@@ -56,3 +56,5 @@ Questa guida è stata scritta da membri dello staff del [Nintendo Homebrew Disco
 > - **dimok789** per [wupclient.py](https://github.com/dimok789/mocha/blob/master/ios_mcp/wupclient.py).
 > 
 > - **TheLordScruffy** per il [vwii-compat-installer](https://github.com/TheLordScruffy/vwii-compat-installer).
+> 
+> - **marco-calautti** for the [Sigpatches Module](https://github.com/marco-calautti/SigpatchesModuleWiiU)

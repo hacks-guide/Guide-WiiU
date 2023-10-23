@@ -14,6 +14,7 @@ Teraz umieścimy wymagane pliki Homebrew na karcie SD.
 
 - Najnowsze pliki z [Tiramisu for your café](https://tiramisu.foryour.cafe).
     - Click on `Download Tiramisu`.
+    - If you have already installed Tiramisu, you do not need to redownload it.
 - Najnowsza wersja [vwii-compat-installer-](https://github.com/TheLordScruffy/vwii-compat-installer/releases).
 - The <a href="docs/files/Patched_IOS80_Installer_for_vWii.zip" download>Patched IOS 80 Installer for vWii</a>. ([Source](https://github.com/Lazr1026/Patched-IOS80-Installer-for-vWii))
 - Instalator <a href ="docs/files/d2x_cIOS_Installer.zip" download>d2x cIOS</a>.
@@ -22,7 +23,7 @@ Teraz umieścimy wymagane pliki Homebrew na karcie SD.
 
 1. Włóż kartę SD Wii U do komputera.
 1. Skopiuj folder `apps` z pliku <code>Patched_<wbr>IOS80_<wbr>Installer_<wbr>for_<wbr>vWii<wbr>.zip</code> do katalogu głównego karty SD.
-1. Skopiuj zawartość pliku <code>d2x_<wbr>cIOS_<wbr>Installer<wbr>.zip</code> do katalogu głównego karty SD.
+1. Copy the `d2x-cios-installer` from the <code>d2x_<wbr>cIOS_<wbr>Installer<wbr>.zip</code> file to the apps folder on your SD Card.
 1. Skopiuj zawartość pobranego pliku Tiramisu *`.zip`* do katalogu głównego karty SD.
 1. Skopiuj plik `compat_installer.elf` do folderu `wiiu/apps` w katalogu głównym karty SD.
 1. Wyjmij kartę SD ze swojego komputera i podłącz ją do konsoli Wii U.
@@ -63,17 +64,17 @@ W sytuacji, gdyby cokolwiek poszło nie tak w późniejszym procesie i twoja Wii
 1. Uruchom Kanał Homebrew Channel.
 1. Uruchom instalator d2x cIOS.
 1. Ustaw wszystko tak jak poniżej:
-    - Select cIOS: `v10 beta52 d2x-v10-beta52-vWii`
+    - Select cIOS: `d2x-v11-beta1-vWii`
     - Select cIOS base: `56`
     - Select cIOS slot: `249`
 1. Naciśnij przycisk `A`, aby zainstalować.
 1. Ustaw wszystko tak jak poniżej:
-    - Select cIOS: `v10 beta52 d2x-v10-beta52-vWii`
+    - Select cIOS: `d2x-v11-beta1-vWii`
     - Select cIOS base: `57`
     - Select cIOS slot: `250`
 1. Naciśnij przycisk `A`, aby zainstalować.
 1. Ustaw wszystko tak jak poniżej:
-    - Select cIOS: `v10 beta52 d2x-v10-beta52-vWii`
+    - Select cIOS: `d2x-v11-beta1-vWii`
     - Select cIOS base: `58`
     - Select cIOS slot: `251`
 1. Naciśnij przycisk `A`, aby zainstalować.
@@ -93,4 +94,4 @@ W sytuacji, gdyby cokolwiek poszło nie tak w późniejszym procesie i twoja Wii
 
 !> Installing any IOS (including TED IOSes) or wads made for the original Wii on your vWii will brick it.
 
-!> Installing Priiloader will brick your vWii.
+!> Priiloader versions before 0.10.0 do not work with vWii. Priiloader versions before 0.8.2 will brick your vWii.

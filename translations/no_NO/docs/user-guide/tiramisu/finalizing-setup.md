@@ -10,16 +10,16 @@ Vi skal gjøre så Tiramisu environmentet starter automatisk når konsollen auto
 
 1. Slå på Wii U konsollen.
     - Environment Loader burde komme opp.
-1. Ved å bruke D-Paden, naviger til `tiramisu` og trykk Y for å sette dette til default envrionment, så trykker du A for å kjøre Tiramisu.
-    - Det kan hende du får ett rødt advarselvindu som forteller deg at oppdateringer ikke er blokkert ordentlig. Press A to continue anyway. Vi går gjennom hvordan man blokkerer oppdateringer i "Blokkere Systemoppdateringer" delen nedenfor.
-    - To open the Environment Loader in the future, you have to hold X while your Wii U is booting up.
+1. Using the D-Pad, navigate to `tiramisu` and press Y to set this to your default environment, then press A to launch into Tiramisu.
+    - Det kan hende du får ett rødt advarselvindu som forteller deg at oppdateringer ikke er blokkert ordentlig. Trykk likevel A for å fortsette. Vi går gjennom hvordan man blokkerer oppdateringer i "Blokkere Systemoppdateringer" delen nedenfor.
+    - For å åpne Environment Loader i fremtiden, må du holde X mens Wii U konsollen slår seg på.
 1. På Tiramisu Boot Selector, `Wii U Menu` burde allerede være valgt, trykk Y for å sette det til default autobooting option, så trykker du A for å komme inn i Wii U Menu.
     - For å åpne Tiramisu Boot Selector i fremtiden, må du holde START (+) mens Wii U konsollen slår seg på.
 
-?> Når du har kommet inn i Tiramisu environment, kan du åpne Mii Maker appen når som helst for å komme inn i Homebrew Launcher. <br>For å gå tilbake til Mii Maker, trykk HOME knappen mens du er i Homebrew Launcher.
+?> Når du har kommet inn i Tiramisu environment, kan du åpne Mii Maker appen når som helst for å komme inn i Homebrew Launcher. <br>Homebrew Launcher vil være tom for førstegangs oppsett. Følg resten av guiden for å installere apper i Homebrew Launcher. <br>For å gå tilbake til Mii Maker, trykk HOME knappen mens du er i Homebrew Launcher.
 
-### Blokkere Systemoppdateringer
-While Tiramisu's PayloadLoader already has built-in update blocking functionality, it is recommended to delete the update folder to effectively block system updates. Hvis du får ett rødt advarselvindu mens du starter opp i Tiramisu, så betyr det at update mappen fortsatt er i systemet og det er anbefalt å slette den med [denne guiden](../block-updates).
+### Blocking Updates
+Selv om Tiramisu's PayloadLoader allerede har en update block funksjon, så er det anbefalt å slette update mappen for være sikker på at systemet ikke oppdateres automatisk. Hvis du får ett rødt advarselvindu mens du starter opp i Tiramisu, så betyr det at update mappen fortsatt er i systemet og det er anbefalt å slette den med [denne guiden](../block-updates).
 
 ### Ekstra Homebrew-apper
 
@@ -41,8 +41,8 @@ While Tiramisu's PayloadLoader already has built-in update blocking functionalit
    Kopier `wiiu` mappa til roten av SD-kortet ditt.
 1. Pakk ut `wiiu-extracttosd.zip` til roten av SD-kortet.
 
-### Installing Aroma
-Aroma is a work-in-progress environment with support for plugins, modules and homebrew bundles.  
-Aroma can be installed additionally to Tiramisu, if you want to try out any of its features.
+### Installere Aroma
+Aroma er ett work-in-progress environment med støtte til plugins, modules og homebrew bundles.  
+Aroma kan installeres i tillegg til Tiramisu, hvis du vil prøve ut funksjonene i den.
 
-[**The Aroma guide can be found here**](../aroma/getting-started)
+[**Aroma guiden finner du her**](../aroma/getting-started)

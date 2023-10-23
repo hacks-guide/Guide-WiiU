@@ -1,50 +1,50 @@
 # Aroma {docsify-ignore-all}
 
-Aroma is a work-in-progress environment and a possible successor for Tiramisu.
+Aroma er ett work-in-progress environment og kan muligens erstatte Tiramisu.
 
-!> **Aroma is currently in beta and still experimental!**  
-Expect potential issues and make sure to report them, if you encounter any.  
-If you still want to proceed, make sure to fully read this page.
+!> **Aroma er for øyeblikket i beta og er eksperimentelt**  
+Forvent potensielle problemer og sørg for å rapportere det hvis du ser noen.  
+Hvis du fortsatt ønsker å fortsette, bør du lese resten av denne siden.
 
-?> This guide will not remove Tiramisu. After following this guide you can still choose to boot into Tiramisu.
+?> Denne guiden vil ikke fjerne Tiramisu. Etter å ha fulgt denne guiden kan du fortsatt velge å boote Tiramisu.
 
-### What is Aroma?
+### Hva er Aroma?
 
-Aroma is an environment like Tiramisu, which can be booted through the Environment Loader.  
-Aroma, just like Tiramisu, uses the same Mocha version, support for setup modules, and comes with the Autoboot Module, which includes the boot selector and Quick Start support.  
-Aroma comes with several additional features, including a plugin system and a new way of launching homebrews.
+Aroma er ett environment som Tiramisu, som kan bootes gjennom Environment Loader.  
+Aroma, akkurat som Tiramisu, bruker den samme Mocha versionen, har støtte for setup modules, og kommer med Autoboot Module, som inkluderer boot selector og Quick Start support.  
+Aroma kommer med flere tilleggsfunksjoner, inkludert et pluginsystem og en ny måte å starte homebrew på.
 
-### What can I do with Aroma?
+### Hva kan jeg gjøre med Aroma?
 
-For a detailed overview check out [this blogpost](https://maschell.github.io/homebrew/2022/09/05/aroma.html). A quick summary is given below.
+For en detaljert oversikt, sjekk ut [denne bloggen](https://maschell.github.io/homebrew/2022/09/05/aroma.html). Her kommer det en kjapp oppsummering.
 
 #### Modules
 
-Aroma supports modules, which unlike setup modules, always run in the background.  
-This allows further extending the functionality of the console.
+Aroma støtter modules, som alltid kjører i bakgrunnen, i motsetning til setup modules.  
+Dette gjør det mulig å få mere funksjoner ut av konsollen.
 
 #### Plugins
 
-Plugins, similarly to modules, are also running in the background.  
-They can enhance the experience of the console by changing and providing additional features.  
-Plugins can be configured using a configuration menu, which can be opened using a button combination.
+Plugins, i likhet med modules, kjører også i bakgrunnen.  
+De kan forbedre opplevelsen på konsollen ved å endre og tilby flere funksjoner.  
+Plugins kan konfigureres i configuration menu, spm man åpner ved å trykke en knappekombinasjon.
 
 #### Wii U Homebrew Bundles
 
-Wii U Homebrew Bundles (WUHB) are a new way of launching homebrew.  
-These `.wuhb` files contain the main executable and can directly include icon and banner images and additional content.  
-With the `homebrew_on_menu` plugin, WUHB files can be directly launched from the Wii U menu, just like official channels.
+Wii U Homebrew Bundles (WUHB) er en ny måte å kjøre homebrew på.  
+Disse `.wuhb` filene inneholder hovedfilen og inkluderer både ikon og bannerbilder og ekstra innhold.  
+Med `homebrew_on_menu` plugin, kan WUHB filer kjøres direkte fra Wii U menu, akkurat som offisielle channels.
 
-### What are the limitations?
+### Hva er begrensningene?
 
-Due to technical limitations, a lot of old homebrew applications will no longer work with Aroma.  
-This includes all `.elf` homebrews, but also some `.rpx` homebrews, which don't implement necessary functionality properly.  
-These homebrews need to be updated with support for Aroma. To run old homebrews you need to boot the Tiramisu environment.  
-Launching homebrews through the now outdated Homebrew Launcher is no longer possible with Aroma.
+På grunn av tekniske begrensninger vil ikke mange gamle homebrew apper lenger virke i Aroma.  
+Dette inkluderer allel `.elf` homebrews, men også noen `.rpx` homebrews, som ikke oversetter funksjonene riktig.  
+Disse homebrew appene må bli oppdatert med Aroma support. For å kjøre gamle homebrews må du starte Tiramisu environment.  
+Det går ikke lenger ann å kjøre homebrew gjennom Homebrew Launcher i Aroma.
 
-Besides the limitations mentioned above, note that Aroma is still a beta release. Not everything has been tested yet, and additional issues might be discovered.
+I tillegg til begrensningene nevnt ovenfor skal det bemerkes at Aroma fortsatt er en betaversjon. Ikke alt er testet ennå, og eventuelle ytterligere problemer kan bli oppdaget.
 
-### Getting started
+### Komme i gang
 
-Before continuing to the next page, make sure to install the PayloadLoader.  
-This can be done by following the [Tiramisu guide](../tiramisu/sd-preparation).
+Før du fortsetter til neste side, må du installere PayloadLoader.  
+Det kan du gjøre ved å følge [Tiramisu guiden](../tiramisu/sd-preparation).
