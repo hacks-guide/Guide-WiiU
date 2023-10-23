@@ -1,5 +1,5 @@
 - **Tiramisu**
-- [Home Page](../introduction)
+- [Home Page](../../introduction)
 - [SD Preparation](sd-preparation)
 - [Browser Exploit](browser-exploit)
 - [Making a NAND Backup](nand-backup)

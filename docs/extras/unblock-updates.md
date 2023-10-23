@@ -2,26 +2,25 @@
 ---
 This is needed if you ever need to perform a System Update.
 
-?> If you are running Tiramisu and have deleted the update folder, you need to disable both autobooting and recreate the update folder.
+?> If you are running Aroma and have deleted the update folder, you need to disable both autobooting and recreate the update folder.
 
 ### Instructions {docsify-ignore}
 
 <!-- tabs:start -->
 
-#### **Removing Tiramisu Autoboot**
+#### **Removing Aroma Autoboot**
 
-### Removing Tiramisu Autoboot
+### Removing Aroma Autoboot
 
 ?> When autobooting into the PayloadLoader, updates are automatically blocked. Follow the guide below to disable it.
 
-1. Boot the console while holding X on the Gamepad.
-1. Navigate to the `installer` environment and launch it by pressing A.
+1. Launch the PayloadLoader Installer from the Wii U Menu.
 1. Press A to select `Check`.
 1. Select `Boot options`.
 1. You will be asked if you want to switch the boot title. Press A to select `Switch back to Wii U Menu`.
 1. When the process finished, press A to shutdown the console.
 1. Perform the System Update.
-1. Follow [this](../docs/user-guide/tiramisu/autoboot) to re-enable autobooting.
+1. Follow [this](../docs/user-guide/aroma/autoboot) to re-enable autobooting.
 
 #### **Recreating Update Folder**
 
