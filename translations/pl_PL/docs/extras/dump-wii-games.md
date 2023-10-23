@@ -2,7 +2,7 @@
 ---
 Zrzucanie zawartości płyt z grami pozwala na: granie na emulatorze Wii (mianowicie Dolphin), odtwarzanie ich przy użyciu aplikacji Homebrew dla Wii takich jak np. Wiiflow, instalowanie ich bezpośrednio na Wii U na sformatowanym dysku USB Wii U lub w pamięci NAND i uruchomione z menu Wii U.
 
-?> Zrzucanie gier Wii wymaga działającej konfiguracji Homebrew na vWii, więc upewnij się, że wcześniej wykonałeś wszystkie kroki opisane w [Poradniku vWii Modding](vwii-modding).
+?> Dumping Wii games requires a working homebrew setup on vWii, so make sure to finish the [vWii Modding guide](vwii-modding) beforehand.
 
 !> **NIELEGALNE** jest udostępnianie plików zrzuconych za pomocą tego poradnika.  
 Jeśli zamierzasz użyć tego poradnika do dzielenia się twoimi zrzuconymi grami, nie rób tego.
@@ -27,7 +27,7 @@ Jeśli zamierzasz użyć tego poradnika do dzielenia się twoimi zrzuconymi gram
 1. Przeczytaj zastrzeżenie, a następnie naciśnij przycisk A.
 1. Wybierz "Yes", aby włączyć Checksum Calculations.
 1. Wybierz USB lub SD w zależności od urządzenia, którego chcesz użyć do procesu zrzucania.
-    - Pamiętaj, że wybrane urządzenie musi być sformatowane do FAT32 lub NTFS.
+    - Please note that the device you choose needs to be formatted either in FAT32 or NTFS.
 1. Naciśnij A, aby kontynuować.
 1. Zaznacz "No" na ekranie, który prosi Cię o pobranie plików redump.org DAT.
 1. Włóż płytę, a następnie naciśnij przycisk A.
@@ -42,14 +42,13 @@ Jeśli zamierzasz użyć tego poradnika do dzielenia się twoimi zrzuconymi gram
 
 ### Łączenie Podzielonych Plików
 
-?> Jeśli zrzucisz płytę na urządzenie sformatowane do FAT32, powinieneś mieć na nim, co najmniej 2 pliki, które kończą się `. artX.iso`. Należy je połączyć.
+?> If you dumped the disc on a FAT32 formatted device, you should've got at least 2 files that end with `.partX.iso`. Należy je połączyć.
 
 #### Windows {docsify-ignore}
 
 1. Skopiuj wszystkie pliki, które mają tę samą nazwę i kończą się na `.partX.iso` do jednego folderu na komputerze.
-1. Otwórz okno wiersza poleceń.
-1. Użyj polecenia `cd <path>` i zastąp `<path>` ścieżką do plików `.partX.iso`.
-1. Użyj następnie polecenia: `copy /b *.part?.iso game.iso`.
+1. Right-click inside the folder while holding Shift and select `Open PowerShell Window Here`.
+1. In the PowerShell window, run the following command as is: `cmd.exe /c "copy /b *.part?.iso game.iso"`.
 
 #### macOS/Linux {docsify-ignore}
 
