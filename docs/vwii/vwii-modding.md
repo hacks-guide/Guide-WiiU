@@ -22,20 +22,20 @@ This page will guide you through the process of modding your vWii.
 ### Instructions {docsify-ignore}
 
 1. Insert your Wii U's SD Card into your PC.
-2. Copy the `apps` folder from the <code>Patched_<wbr>IOS80_<wbr>Installer_<wbr>for_<wbr>vWii<wbr>.zip</code> file to the root of your SD Card
-3. Copy the `d2x-cios-installer` from the <code>d2x_<wbr>cIOS_<wbr>Installer<wbr>.zip</code> file to the apps folder on your SD Card
-4. Copy the contents of the downloaded Tiramisu *`.zip`* file to the root of your SD Card
-5. Copy the `compat_installer` folder to the `wiiu/apps` folder on your SD Card
-6. Take the SD Card out of your computer and plug it into your Wii U console
+1. Copy the `apps` folder from the <code>Patched_<wbr>IOS80_<wbr>Installer_<wbr>for_<wbr>vWii<wbr>.zip</code> file to the root of your SD Card
+1. Copy the `d2x-cios-installer` from the <code>d2x_<wbr>cIOS_<wbr>Installer<wbr>.zip</code> file to the apps folder on your SD Card
+1. Copy the contents of the downloaded Tiramisu *`.zip`* file to the root of your SD Card
+1. Copy the `compat_installer` folder to the `wiiu/apps` folder on your SD Card
+1. Take the SD Card out of your computer and plug it into your Wii U console
 
 ?> Please ensure you've made a NAND Backup before continuing. If you have not, please go to [here](https://wiiu.hacks.guide/#/tiramisu/nand-backup) for instructions.
 
 ### Installing the Homebrew Channel
 
 1. Boot into Aroma
-2. Launch compat_installer from the Home Menu
-3. Press `A` to install the Homebrew Channel and wait until you see `Install succeeded`, then press the HOME button to return to the Wii U Menu
-4. Launch your vWii (the Wii Menu icon)
+1. Launch compat_installer from the Home Menu
+1. Press `A` to install the Homebrew Channel and wait until you see `Install succeeded`, then press the HOME button to return to the Wii U Menu
+1. Launch your vWii (the Wii Menu icon)
    - If the installation has succeeded, you should see the Homebrew Channel installed on your Wii Menu
 
 ### Installing cIOSes
@@ -43,34 +43,34 @@ This page will guide you through the process of modding your vWii.
 !> Make sure you have no `.wad` files anywhere else than in the `apps` folder on your SD Card.
 
 1. Power on your Wii U and launch the vWii
-2. Launch The Homebrew Channel
-3. Launch d2x cIOS Installer
-4. Set everything to match the following:
+1. Launch The Homebrew Channel
+1. Launch d2x cIOS Installer
+1. Set everything to match the following:
     - Select cIOS: `d2x-v11-beta1-vWii`
     - Select cIOS base: `56`
     - Select cIOS slot: `249`
-5. Press the `A` button to install
-6. Set everything to match the following:
+1. Press the `A` button to install
+1. Set everything to match the following:
     - Select cIOS: `d2x-v11-beta1-vWii`
     - Select cIOS base: `57`
     - Select cIOS slot: `250`
-7. Press the `A` button to install
-8. Set everything to match the following:
+1. Press the `A` button to install
+1. Set everything to match the following:
     - Select cIOS: `d2x-v11-beta1-vWii`
     - Select cIOS base: `58`
     - Select cIOS slot: `251`
-9. Press the `A` button to install
-10. Press the `B` button to exit
+1. Press the `A` button to install
+1. Press the `B` button to exit
 
 ### Patching IOS 80
 
 !> If for any reason the Wii U is turned off while patching IOS 80, your vWii will be bricked. This can be fixed by either extracting the IOS 80 from your previously made NAND backup and then replacing it over FTP, or by [reinstalling IOS 80](recover-vwii-ioses-channels).
 
 1. Launch Patched IOS 80 Installer for vWii
-2. Read the warning screen and wait 30 seconds
-3. Press any buttons to install
-4. Wait until it says <code>IOS80 <wbr>Installation <wbr>is <wbr>complete!</code>
-5. Press any buttons to exit
+1. Read the warning screen and wait 30 seconds
+1. Press any buttons to install
+1. Wait until it says <code>IOS80 <wbr>Installation <wbr>is <wbr>complete!</code>
+1. Press any buttons to exit
 
 !> Priiloader versions before 0.10.0 do not work with vWii. Installing versions of Priiloader before 0.8.2 will brick your vWii.
 
