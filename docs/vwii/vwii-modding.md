@@ -25,8 +25,8 @@ This page will guide you through the process of modding your vWii.
 1. Copy the `apps` folder from the <code>Patched_<wbr>IOS80_<wbr>Installer_<wbr>for_<wbr>vWii<wbr>.zip</code> file to the root of your SD Card
 1. Copy the `d2x-cios-installer` from the <code>d2x_<wbr>cIOS_<wbr>Installer<wbr>.zip</code> file to the apps folder on your SD Card
 1. Copy the contents of the downloaded Tiramisu *`.zip`* file to the root of your SD Card
-1. Copy the `compat_installer` folder to the `wiiu/apps` folder on your SD Card
-1. Take the SD Card out of your computer and plug it into your Wii U console
+1. Copy the `wiiu` folder to the root of your SD Card
+1. Take the SD Card out of your computer and plug it into the Wii U console
 
 ?> Please ensure you've made a NAND Backup before continuing. If you have not, please go to [here](https://wiiu.hacks.guide/#/tiramisu/nand-backup) for instructions.
 
