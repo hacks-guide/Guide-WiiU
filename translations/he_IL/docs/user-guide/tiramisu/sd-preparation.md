@@ -23,6 +23,8 @@ We will now place the required CFW files and some additional homebrew files on t
 
 ?> If your computer asks you to overwrite existing files on your SD Card, you will need to click yes.
 
+   If you're using a Mac, you have to select `Merge` instead of replace.
+
 ----------
 
 ### SD Card Layout {docsify-ignore}
