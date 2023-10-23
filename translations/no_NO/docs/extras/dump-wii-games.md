@@ -47,9 +47,8 @@ Ikke bruk denne guiden til å dele spillene dine.
 #### Windows {docsify-ignore}
 
 1. Kopier alle filene som deler samme navn og slutter med `.partX.iso` i en mappe på PC'en din.
-1. Åpne opp et Command Prompt vindu.
-1. Skriv `cd <path>` og erstatt `<path>` med adressen til `.partX.iso` filene.
-1. Skriv `copy /b *.part?.iso game.iso`.
+1. Right-click inside the folder while holding Shift and select `Open PowerShell Window Here`.
+1. In the PowerShell window, run the following command as is: `cmd.exe /c "copy /b *.part?.iso game.iso"`.
 
 #### macOS/Linux {docsify-ignore}
 
