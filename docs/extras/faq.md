@@ -17,7 +17,7 @@ The payload used in the main guide is CustomRPXLoader which loads `SD:/wiiu/payl
 
 ### What are environments?
 
-An environment is a collection of "setup modules", which will be run in a certain order when launching the environment. One such environment is Tiramisu.
+An environment is a collection of "setup modules", which will be run in a certain order when launching the environment. Such environments are Aroma and Tiramisu.
 Setup modules are small pieces of homebrew/code that are executed once to set up an environment.
 
 ### How to Delete Update Folder to Block Updates on Wii U
