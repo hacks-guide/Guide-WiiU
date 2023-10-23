@@ -9,7 +9,7 @@ This page will guide you through the process of modding your vWii.
 
 ### What You Need {docsify-ignore}
 
-?> If youre using Tiramisu, this tutorial will still work, simply skip the Aroma download step when reading the instructions.
+?> If you are using Tiramisu, this tutorial will still work; simply skip the Aroma download step when reading the instructions.
 
 - The latest version of [Aroma](https://aroma.foryour.cafe)
     - Click on `Download Payloads` and `Download Base Aroma`
