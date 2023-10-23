@@ -2,7 +2,7 @@
 ---
 此页将会教你如何修改 vWii。
 
-我们现在需要将 Homebrew 所需的文件放入 SD 卡中。
+We will now start by placing the required Homebrew files on the SD Card.
 
 ?> **注意** 你的 SD 卡需要被格式化为 FAT32。 如果你的 SD 卡的格式不是 FAT32，则你需要用 [GUIFormat](http://ridgecrop.co.uk/index.htm?guiformat.htm) 格式化，格式化时请将分配单元大小设置为 32k（32768）。 **不要**把 SD 卡分区命名为 `wiiu`，这样做会导致出现 homebrew 程序上的问题。
 
@@ -19,7 +19,7 @@
 - The <a href="docs/files/Patched_IOS80_Installer_for_vWii.zip" download>Patched IOS 80 Installer for vWii</a>. ([Source](https://github.com/Lazr1026/Patched-IOS80-Installer-for-vWii))
 - The <a href ="docs/files/d2x_cIOS_Installer.zip" download>d2x cIOS Installer</a>.
 
-### 步骤 {docsify-ignore}
+### SD Preparations {docsify-ignore}
 
 1. 将你的 Wii U SD 卡 插入你的电脑。
 1. Copy the `apps` folder from the <code>Patched_<wbr>IOS80_<wbr>Installer_<wbr>for_<wbr>vWii<wbr>.zip</code> file to the root of your SD Card.
@@ -43,7 +43,7 @@ In case anything goes wrong in the later process and your vWii ends up bricked, 
     - Dump SEEPROM: **optional**
 1. 按下 A 键启动导出的进程。
 1. 当完成后，将 Wii U 关机，然后把 SD 卡从 Wii U 上拔出并插入电脑。
-1. To make sure you don't lose the files, copy the `slccmpt.bin`, `otp.bin` and if you chose to go with a full backup, `seeprom.bin`, `slc.bin`, and `every mlc.bin.part` file to your computer.
+1. To make sure you don't lose the files, copy the `slccmpt.bin` and `otp.bin` files, and if you chose to go with a full backup, `seeprom.bin`, `slc.bin`, and `every mlc.bin.part` file to your computer.
 1. 从 SD 卡中删除文件来腾出空间。
 1. 把 SD 卡从电脑中弹出并插入 Wii U 主机。
 
@@ -88,7 +88,7 @@ In case anything goes wrong in the later process and your vWii ends up bricked, 
 1. 阅读警告信息并等待 30 秒。
 1. 按下任意键来安装。
 1. 等一会，直到它提示 <code>IOS80 <wbr>Installation <wbr>is <wbr>complete!</code>。
-1. 按下任意键来退出。
+1. Press any button to exit.
 
 !> Installing custom System Menu is a definite brick risk and you should always have an effective backup before installing one but when done right, won't brick the vWii.
 
