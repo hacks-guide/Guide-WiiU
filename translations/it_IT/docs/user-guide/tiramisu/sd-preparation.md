@@ -23,6 +23,8 @@ Ora inseriremo i file del CFW richiesti e alcuni altri file homebrew sulla sched
 
 ?> If your computer asks you to overwrite existing files on your SD Card, you will need to click yes.
 
+   If you're using a Mac, you have to select `Merge` instead of replace.
+
 ----------
 
 ### Layout scheda SD {docsify-ignore}
