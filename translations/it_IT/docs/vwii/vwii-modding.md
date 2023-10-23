@@ -2,7 +2,7 @@
 ---
 Questa pagina ti guiderà nel processo di modding del tuo vWii.
 
-Ora andremo ad inserire i file Homebrew nella SD.
+We will now start by placing the required Homebrew files on the SD Card.
 
 ?> **Nota Bene** La tua SD dovrà essere formattata in FAT32. Se la tua SD non è formattata in FAT32 usa [GUIFormat](http://ridgecrop.co.uk/index.htm?guiformat.htm) con 32k (32768) di Unità di allocazione per formattarla. **Non** chiamare la SD come `wiiu` o causerà problemi con homebrew.
 
@@ -19,7 +19,7 @@ Ora andremo ad inserire i file Homebrew nella SD.
 - The <a href="docs/files/Patched_IOS80_Installer_for_vWii.zip" download>Patched IOS 80 Installer for vWii</a>. ([Source](https://github.com/Lazr1026/Patched-IOS80-Installer-for-vWii))
 - <a href ="docs/files/d2x_cIOS_Installer.zip" download>d2x cIOS Installer</a>.
 
-### Istruzioni {docsify-ignore}
+### SD Preparations {docsify-ignore}
 
 1. Inserisci la SD del tuo Wii U nel PC.
 1. Copia la cartella `apps` dalla cartella <code>Patched_<wbr>IOS80_<wbr>Installer_<wbr>for_<wbr>vWii<wbr>.zip</code> file nella radice della scheda SD.
@@ -43,7 +43,7 @@ Nel caso qualcosa andasse storto durante il processo e la tua vWii si bricka, ri
     - Dump SEEPROM: **opzionale**
 1. Premi A per iniziare il processo di dumping.
 1. Quando il processo è completo, spegni la tua Wii U, prendi la SD fuori dalla Wii U ed inseriscila nel tuo PC.
-1. Per assicurarti di non perdere i file, copia `slccmpt.bin`, `otp.bin`, e se scegli di fare il backup intero, `seeprom.bin`, `slc.bin`, e ogni file `mlc.bin.part` sul tuo computer.
+1. To make sure you don't lose the files, copy the `slccmpt.bin` and `otp.bin` files, and if you chose to go with a full backup, `seeprom.bin`, `slc.bin`, and `every mlc.bin.part` file to your computer.
 1. Elimina i file dalla tua SD per liberare spazio.
 1. Togli la scheda SD dal computer e inseriscila nella console Wii U.
 
@@ -88,7 +88,7 @@ Nel caso qualcosa andasse storto durante il processo e la tua vWii si bricka, ri
 1. Leggi la schermata di avviso e aspetta 30 secondi.
 1. Premi qualsiasi tasto per installarlo.
 1. Aspetta finchè dice <code>IOS80 <wbr>Installation <wbr>is <wbr>complete!</code>.
-1. Premi un qualsiasi pulsante per uscire.
+1. Press any button to exit.
 
 !> Installando un Menu di Sistema personalizzato è un brick definitivo quindi dovresti sempre avere un backup prima di installare un Menu di Sistema ma quando fatto bene, non brickerà il vWii.
 
