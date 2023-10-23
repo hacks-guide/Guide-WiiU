@@ -23,6 +23,8 @@ Teraz umieścimy wymagane pliki CFW i dodatkowe pliki homebrew na karcie SD.
 
 ?> If your computer asks you to overwrite existing files on your SD Card, you will need to click yes.
 
+   If you're using a Mac, you have to select `Merge` instead of replace.
+
 ----------
 
 ### Układ karty SD {docsify-ignore}
