@@ -6,7 +6,7 @@ Now that PayloadLoader, Environment Loader and Aroma are installed, we are going
 
 We are going to make the Aroma environment start automatically when your console autoboots the Health and Safety Information app (or when manually launching it if you chose not to autoboot it) and select Wii U Menu as default as well as getting additional homebrew apps. Please note that the following steps assumes you are autobooting the Health and Safety Information app.
 
-### Setting up PayloadLoader, Environment Loader and Tiramisu
+### Setting up PayloadLoader, Environment Loader and Aroma
 
 1. Turn on your Wii U.
     - The Environment Loader should show up.
@@ -23,7 +23,7 @@ If you get a red warning screen while booting into Tiramisu, the update folder s
 ### Additional Homebrew Apps
 
 - **SaveMii Mod WUT Port** is a homebrew app that lets you manage your Wii U and vWii save data.
-- **Bloopair** is a Tiramisu module that lets you wirelessly connect most popular Bluetooth capable controllers. See [this page](https://gbatemp.net/threads/bloopair-connect-controllers-from-other-consoles-natively.594289/) for more details.
+- **Bloopair** is an Aroma module that lets you wirelessly connect most popular Bluetooth capable controllers. See [this page](https://gbatemp.net/threads/bloopair-connect-controllers-from-other-consoles-natively.594289/) for more details.
 - The **Homebrew Appstore** lets you browse and download homebrew apps directly from your Wii U.
 
 ### Additional Homebrew Apps - What You Need
@@ -45,7 +45,7 @@ If you get a red warning screen while booting into Tiramisu, the update folder s
 | [Bloopair](https://github.com/GaryOderNichts/Bloopair/) ([Download](https://github.com/GaryOderNichts/Bloopair/releases)) | Allows wirelessly connecting most popular Bluetooth capable controllers. | 1. Extract the contents of the newly downloaded `Bloopair_vX.X.X.zip` file. <br> 2. Copy the `30_bloopair.rpx` to the `wiiu/environments/aroma/modules/setup/` folder on the root of your SD Card. <br> 3. Copy the `wiiu` folder to the root of your SD Card. |
 | [Screenshot Plugin](https://github.com/wiiu-env/ScreenshotWUPS/) ([Download](https://github.com/wiiu-env/ScreenshotWUPS/releases)) | Allows taking screenshots directly to the SD Card. | 1. Extract the downloaded `screenshot_plugin_vX_X.zip` file. <br> 2. Copy the `screenshot.wps` to the `wiiu/environments/aroma/plugins` folder on the root of your SD Card. |
 
-### Booting Tirmamisu
+### Booting Tiramisu
 
 If you find the need to boot into Tiramisu, for example, to use a legacy Homebrew app, do the following:
 

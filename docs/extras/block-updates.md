@@ -10,7 +10,7 @@ If you get a red warning screen while booting into Aroma, the update folder stil
 Currently, one way exists to effectively block updates on the Wii U system:
 
 1. Plug your SD Card into your Computer.
-1. Download and extract the contents of [UFDiine](https://github.com/GaryOderNichts/UFDiine/releases/) to the root of your SD Card.
+1. Download [UFDiine](https://github.com/GaryOderNichts/UFDiine/releases/) and copy the `UFDiine.wuhb` file to `sd:/wiiu/apps` on the root of your SD Card.
 1. Plug the SD Card into your Wii U console and boot Aroma.
 1. Navigate the Wii U Menu and run the UFDiine app.
 1. Press the A button to delete the update folder.
