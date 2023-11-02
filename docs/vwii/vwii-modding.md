@@ -25,7 +25,7 @@ This page will guide you through the process of modding your vWii.
 1. Copy the `apps` folder from the <code>Patched_<wbr>IOS80_<wbr>Installer_<wbr>for_<wbr>vWii<wbr>.zip</code> file to the root of your SD Card.
 1. Copy the `d2x-cios-installer` from the <code>d2x_<wbr>cIOS_<wbr>Installer<wbr>.zip</code> file to the apps folder on your SD Card.
 1. Copy the contents of the downloaded Tiramisu *`.zip`* file to the root of your SD Card.
-1. Copy the `wiiu` folder to the root of your SD Card.
+1. Copy the `wiiu` folder from both Aroma `.zip` files to the root of your SD Card.
 1. Take the SD Card out of your computer and plug it into the Wii U console.
 
 ?> Please ensure you've made a NAND Backup before continuing. If you have not, please go to [here](https://wiiu.hacks.guide/#/tiramisu/nand-backup) for instructions.
@@ -33,9 +33,9 @@ This page will guide you through the process of modding your vWii.
 ### Installing the Homebrew Channel
 
 1. Boot into Aroma.
-1. Launch compat_installer from the Home Menu.
+1. Launch compat_installer from the Wii U Menu.
 1. Press `A` to install the Homebrew Channel and wait until you see `Install succeeded`, then press the HOME button to return to the Wii U Menu.
-1. Launch your vWii (the Wii Menu icon).
+1. Launch the vWii (the Wii Menu icon).
    - If the installation has succeeded, you should see the Homebrew Channel installed on your Wii Menu.
 
 ### Installing cIOSes
@@ -49,7 +49,7 @@ This page will guide you through the process of modding your vWii.
     - Select cIOS: `d2x-v11-beta1-vWii`
     - Select cIOS base: `56`
     - Select cIOS slot: `249`
-1. Press the `A` button to install
+1. Press the `A` button to install.
 1. Set everything to match the following:
     - Select cIOS: `d2x-v11-beta1-vWii`
     - Select cIOS base: `57`
