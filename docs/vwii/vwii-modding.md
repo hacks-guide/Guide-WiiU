@@ -54,7 +54,8 @@ This page will guide you through the process of modding your vWii.
     - Select cIOS: `d2x-v11-beta1-vWii`
     - Select cIOS base: `57`
     - Select cIOS slot: `250`
-1. Press the `A` button to install
+1. Press the `A` button to install.
+
 1. Set everything to match the following:
     - Select cIOS: `d2x-v11-beta1-vWii`
     - Select cIOS base: `58`
