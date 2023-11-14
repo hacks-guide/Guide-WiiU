@@ -39,7 +39,7 @@ We will now place the required CFW files and some additional homebrew files on t
 
 ```
 💾sd:
- ┗ 📂wiiu
+ ┣ 📂wiiu
    ┣ 📂apps
    ┃ ┣ 📂homebrew_launcher
    ┃ ┃ ┣ 📜homebrew_launcher.elf
