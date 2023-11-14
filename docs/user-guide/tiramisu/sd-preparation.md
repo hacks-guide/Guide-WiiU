@@ -70,6 +70,7 @@ We will now place the required CFW files and some additional homebrew files on t
    ┃   ┗ 📜payload.elf
    ┣ 📜payload.rpx
    ┗ 📜payload.elf
+ ┗ 📜versions.json
 ```
 
 </details>
