@@ -34,7 +34,7 @@ Teraz umieścimy wymagane pliki CFW i dodatkowe pliki homebrew na karcie SD.
 
 ```
 💾sd:
- ┗ 📂wiiu
+ ┣ 📂wiiu
    ┣ 📂apps
    ┃ ┣ 📂homebrew_launcher
    ┃ ┃ ┣ 📜homebrew_launcher.elf
@@ -65,6 +65,7 @@ Teraz umieścimy wymagane pliki CFW i dodatkowe pliki homebrew na karcie SD.
    ┃   ┗ 📜payload.elf
    ┣ 📜payload.rpx
    ┗ 📜payload.elf
+ ┗ 📜versions.json
 ```
 
 </details>
