@@ -34,7 +34,7 @@ Her vil vi plassere de nødvendige CFW-filene og noen ekstra homebrew filer på 
 
 ```
 💾sd:
- ┗ 📂wiiu
+ ┣ 📂wiiu
    ┣ 📂apps
    ┃ ┣ 📂homebrew_launcher
    ┃ ┃ ┣ 📜homebrew_launcher.elf
@@ -65,6 +65,7 @@ Her vil vi plassere de nødvendige CFW-filene og noen ekstra homebrew filer på 
    ┃   ┗ 📜payload.elf
    ┣ 📜payload.rpx
    ┗ 📜payload.elf
+ ┗ 📜versions.json
 ```
 
 </details>
