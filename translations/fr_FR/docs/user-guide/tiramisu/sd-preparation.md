@@ -34,7 +34,7 @@ Nous allons maintenant placer les fichiers du CFW requis et quelques fichiers ho
 
 ```
 💾sd:
- ┗ 📂wiiu
+ ┣ 📂wiiu
    ┣ 📂apps
    ┃ ┣ 📂homebrew_launcher
    ┃ ┃ ┣ 📜homebrew_launcher.elf
@@ -65,6 +65,7 @@ Nous allons maintenant placer les fichiers du CFW requis et quelques fichiers ho
    ┃   ┗ 📜payload.elf
    ┣ 📜payload.rpx
    ┗ 📜payload.elf
+ ┗ 📜versions.json
 ```
 
 </details>
