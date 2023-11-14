@@ -34,7 +34,7 @@ Ora inseriremo i file del CFW richiesti e alcuni altri file homebrew sulla sched
 
 ```
 💾sd:
- ┗ 📂wiiu
+ ┣ 📂wiiu
    ┣ 📂apps
    ┃ ┣ 📂homebrew_launcher
    ┃ ┃ ┣ 📜homebrew_launcher.elf
@@ -65,6 +65,7 @@ Ora inseriremo i file del CFW richiesti e alcuni altri file homebrew sulla sched
    ┃   ┗ 📜payload.elf
    ┣ 📜payload.rpx
    ┗ 📜payload.elf
+ ┗ 📜versions.json
 ```
 
 </details>
