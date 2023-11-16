@@ -29,7 +29,6 @@ If you intend to use this guide to share your dumped games, don't.
 1. Take the SD Card out of your PC and insert it into your Wii U.
 1. Power on your Wii U and boot into Aroma.
 1. Launch the Wii U Menu and start the wudd app.
-1. Change dump location to the SD Card.
 1. Select `Dump partition as .app`
 1. Select the `Game` partition to start dumping.
 1. When finished, exit wudd to the Wii U Menu.
