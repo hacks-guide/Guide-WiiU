@@ -1,6 +1,7 @@
 - **User Guide**
 - [Introduction](introduction)
 - [Tiramisu](tiramisu/sd-preparation)
+- [Aroma](aroma/sd-preparation)
 - **vWii**
 - [vWii Modding](vwii-modding)
 - **Troubleshooting**
