@@ -7,7 +7,7 @@ Denne siden vil hjelpe deg med å avinstallere PayloadLoader fra Wii U konsollen
 ### Dette Trenger Du {docsify-ignore}
 
 - De nyeste filene i [Tiramisu for your café](https://tiramisu.foryour.cafe).
-    - Velg `EnvironmentLoader` og `PayloadLoader Installer`
+    - Klikk på `Download Tiramisu`.
 
 ### Tilbakestille Autobooting inn i PayloadLoader
 
