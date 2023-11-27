@@ -7,7 +7,7 @@ This page will guide through the process of uninstalling the PayloadLoader from 
 ### Ce dont vous avez besoin {docsify-ignore}
 
 - Les derniers fichiers de [Tiramisu for your café](https://tiramisu.foryour.cafe).
-    - Select `EnvironmentLoader` and `PayloadLoader Installer`
+    - Click on `Download Tiramisu`.
 
 ### Undo Autobooting into PayloadLoader
 
