@@ -23,7 +23,7 @@ Her vil vi plassere de nødvendige CFW-filene og noen ekstra homebrew filer på 
 
 ?> Hvis pc'en din spør deg om å erstatte eksisterende filer på SD-kortet, skal du trykke ja.
 
-   If you're using a Mac, you have to select `Merge` instead of replace.
+   Hvis du bruker en Mac, må du velge `Merge` i stedet for å erstatte.
 
 ----------
 
