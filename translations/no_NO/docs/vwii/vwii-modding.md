@@ -2,7 +2,7 @@
 ---
 Denne siden vil hjelpe deg med å modifisere vWii.
 
-We will now start by placing the required Homebrew files on the SD Card.
+Vi starter med å plassere Homebrew filene du trenger på SD-kortet ditt.
 
 ?> **Merk** SD-kortet ditt må formateres til FAT32. Hvis den ikke er formatert til FAT32, bør du bruke [GUIFormat](http://ridgecrop.co.uk/index.htm?guiformat.htm) med 32k (32768) "Allocation unit size" for å formatere den. **Ikke** sett navnet på SD kortet til `wiiu`, det vil skape problemer med noen homebrew apper.
 
@@ -19,7 +19,7 @@ We will now start by placing the required Homebrew files on the SD Card.
 - <a href="docs/files/Patched_IOS80_Installer_for_vWii.zip" download>Patched IOS 80 Installer for vWii</a>. ([kilde](https://github.com/Lazr1026/Patched-IOS80-Installer-for-vWii))
 - <a href ="docs/files/d2x_cIOS_Installer.zip" download>d2x cIOS Installer</a>.
 
-### SD Preparations {docsify-ignore}
+### Forberede SD-kortet {docsify-ignore}
 
 1. Sett SD-kortet ditt i PC'en din.
 1. Pakk ut `apps` mappen fra <code>Patched_<wbr>IOS80_<wbr>Installer_<wbr>for_<wbr>vWii<wbr>.zip</code> til roten av SD kortet.
@@ -43,7 +43,7 @@ Hvis noe går galt senere i prosessen og vWii "bricker", vil gjenoppretting av e
     - Dump SEEPROM: **optional**
 1. Trykk på A knappen for å starte dumpingprosessen.
 1. Når prosessen er fullført, skru av Wii U konsollen, ta ut SD-kortet og sett den inn i PC-en din.
-1. To make sure you don't lose the files, copy the `slccmpt.bin` and `otp.bin` files, and if you chose to go with a full backup, `seeprom.bin`, `slc.bin`, and `every mlc.bin.part` file to your computer.
+1. For å være sikker på at du ikke mister filene, kopier `slccmpt.bin` og, `otp.bin`, og hvis du velger å ta en full backup, `seeprom.bin`, `slc.bin`, og `alle mlc.bin.part` filene til pc'en din.
 1. Slett filene fra SD-kortet for å frigjøre plass.
 1. Ta SD-kortet ut av PC'en og sett den inn i Wii U konsollen.
 
@@ -88,7 +88,7 @@ Hvis noe går galt senere i prosessen og vWii "bricker", vil gjenoppretting av e
 1. Les advarselen og vent 30 sekunder.
 1. Trykk en knapp for å installere.
 1. Vent til det står <code>IOS80 <wbr>Installaton <wbr>is <wbr>complete!</code>.
-1. Press any button to exit.
+1. Trykk en knapp for å avslutte.
 
 !> Det er stor sjangse for å bricke vWii hvis man installerer en custom System Menu og du bør alltid ha en backup av systemet før du prøver å installerer en, men hvis du installerer det riktig så vil det ikke være noen risiko.
 
