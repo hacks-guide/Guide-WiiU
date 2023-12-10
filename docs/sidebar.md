@@ -16,7 +16,8 @@
 - [Uninstall Payloadloader](uninstall-payloadloader)
 - [Frequently Asked Questions](faq)
 - **Archive**
-- [Previous Methods](archive/cfw-choice)
+- [Tiramisu](archive/tiramisu/sd-preparation)
+- [Legacy Methods](archive/cfw-choice)
 - [Configurable Payload](configurable-payload)
 - **Links**
 - [![GitHub](https://icongr.am/simple/github.svg?color=808080&size=16)GitHub](https://github.com/hacks-guide/Guide-WiiU)
