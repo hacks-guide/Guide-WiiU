@@ -11,6 +11,15 @@ Haxchi/CBHC are both injected into a paid DS Virtual Console game. Haxchi will n
 
 The custom firmware you decide to use is ultimately **your** preference. There is no right or wrong custom firmware to go with, so it is recommended that you feel free to pick the one that sounds the best for your needs!
 
+## Mocha
+
+- Does not require any game, and is therefore free.
+- Needs to be re-launched through the browser exploit every reboot to enable custom firmware.
+- Is not compatible with the Homebrew Launcher Channel.
+- May require an Internet connection depending on what entry point you choose.
+
+### [**Continue with Mocha**](mocha/entrypoint-choice) {docsify-ignore}
+
 ## Haxchi
 
 - Requires a legitimately installed, paid DS Virtual Console game from the eShop.
@@ -39,12 +48,3 @@ The custom firmware you decide to use is ultimately **your** preference. There i
 - Automatically launches custom firmware on every boot. 
 
 ### [**Continue with CBHC**](cbhc/ds-vc-choice) {docsify-ignore}
-
-## Mocha
-
-- Does not require any game, and is therefore free.
-- Needs to be re-launched through the browser exploit every reboot to enable custom firmware.
-- Is not compatible with the Homebrew Launcher Channel.
-- May require an Internet connection depending on what entry point you choose.
-
-### [**Continue with Mocha**](mocha/entrypoint-choice) {docsify-ignore}
