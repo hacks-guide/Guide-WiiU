@@ -2,7 +2,7 @@
 - [Introduction](introduction)
 - [Tiramisu](tiramisu/sd-preparation)
 - **vWii**
-- [vWii Modding](vwii-modding)
+- [vWii Modding](vwii/sd-preparation)
 - **Troubleshooting**
 - [Common Issues & Fixes](common-issues-fixes)
 - [Recover a vWii IOS/Channel](recover-vwii-ioses-channels)

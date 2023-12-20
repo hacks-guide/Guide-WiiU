@@ -1,7 +1,10 @@
-- **Navigation**
+**vWii Modding**
 - [Home Page](../introduction)
-- [vWii Modding](../vwii-modding)
-- [Browser Exploit](browser-exploit)
+- [SD Preparation](sd-preparation)
+- [Installing the Homebrew Channel](installing-homebrewchannel)
+- [Installing cIOSes](installing-cioses)
+- [Patching IOS 80](patching-ios80)
+- [Finalizing Setup](finalizing-setup)
 - **Links**
 - [![GitHub](https://icongr.am/simple/github.svg?color=808080&size=16)GitHub](https://github.com/hacks-guide/Guide-WiiU)
 - [![Discord](https://icongr.am/simple/discord.svg?colored&size=16)Discord](https://discord.gg/C29hYvh)
