@@ -62,6 +62,6 @@ We will now place the required Aroma files on the SD Card.
    ┗ 📜payload.elf
 ```
 
-?> If you already have the PayloadLoader installed, you may go directly to [Finalizing Setup](./finalizing-setup.md)
-
 </details>
+
+?> If you already have the PayloadLoader installed, you may go directly to [Finalizing Setup](./finalizing-setup.md)
