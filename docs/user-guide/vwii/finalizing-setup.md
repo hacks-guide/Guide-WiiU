@@ -6,9 +6,9 @@ Now that the required cIOSes and IOS80 patch have been applied, we are now going
 
 ### Additional Homebrew Apps
 
-- **SaveGame Manager GX** allows you to backup your saves and Miis and saves that can't usually be copied.
+- **SaveGame Manager GX** allows you to backup and restore your saves and Miis, especially saves that can't usually be copied.
 - **Nintendont** is a virtual machine that allows you to play Gamecube games.
-- **Open Shop Channel** is an appstore where you can download more apps.
+- The **Open Shop Channel** is an appstore where you can download more apps.
 
 ### Additional Homebrew Apps - What You Need
 
@@ -17,7 +17,7 @@ Now that the required cIOSes and IOS80 patch have been applied, we are now going
 - The `Homebrew Browser.zip` of the [Open Shop Channel](https://oscwii.org/library/app/homebrew_browser)
 
 ### Additional Homebrew Apps - Extracting Files to the SD Card
-1. Extract and Copy the contents of `SaveGame_Manager_GX.zip` to the root of the SD card.
+1. Extract and copy the contents of `SaveGame_Manager_GX.zip` to the root of the SD card.
 1. Follow the instructions in the link for copying Nintendont.
 1. Extract the contents of the `Homebrew Browser.zip` to the root of the SD card.
 
