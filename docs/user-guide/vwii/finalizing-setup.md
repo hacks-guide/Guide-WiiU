@@ -12,7 +12,7 @@ Now that the required cIOSes and IOS80 patch have been applied, we are now going
 
 ### Additional Homebrew Apps - What You Need
 
-- The latest release of [SaveGame ManagerGX](https://hbb1.oscwii.org/api/v3/contents/SaveGame_Manager_GX/SaveGame_Manager_GX.zip)
+- The latest release of [SaveGame Manager GX](https://hbb1.oscwii.org/api/v3/contents/SaveGame_Manager_GX/SaveGame_Manager_GX.zip)
 - The `loader.dol`, `meta.xml` and `icon.png` of [Nintendont](https://github.com/GaryOderNichts/Nintendont)
 - The `Homebrew Browser.zip` of the [Open Shop Channel](https://oscwii.org/library/app/homebrew_browser)
 
@@ -26,6 +26,6 @@ In order to play Wii games, you will need a USB loader. There are two popular lo
 
 ### Installing Priiloader
 
-Yes, Priiloader now works on vWii! The guide for installing it can be found [here](https://wii.hacks.guide/priiloader)
+Yes, Priiloader now works on vWii! The guide for installing it can be found [here](https://wii.hacks.guide/priiloader).
 
 !> Priiloader versions before 0.10.0 do not work with vWii. Priiloader versions before 0.8.2 will brick your vWii.

@@ -6,7 +6,7 @@ In case anything goes wrong in the later process and your vWii ends up bricked, 
 
 ?> If you have recently made a NAND backup that includes SLCCMPT and OTP, feel free to skip this step.
 
-1. Launch the [Wii U NAND Dumper](vwii/browser-exploit).
+1. Launch the [Wii U NAND Dumper](browser-exploit).
 1. Use the Wii U GamePad's D-Pad to enter the following configuration:
     - Dump SLC: **optional**
     - Dump SLCCMPT: **yes**
