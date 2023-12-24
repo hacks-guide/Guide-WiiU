@@ -14,12 +14,12 @@ Now that the required cIOSes and IOS80 patch have been applied, we are now going
 
 - The latest release of [SaveGame Manager GX](https://hbb1.oscwii.org/api/v3/contents/SaveGame_Manager_GX/SaveGame_Manager_GX.zip)
 - The `loader.dol`, `meta.xml` and `icon.png` of [Nintendont](https://github.com/GaryOderNichts/Nintendont)
-- The `Homebrew Browser.zip` of the [Open Shop Channel](https://oscwii.org/library/app/homebrew_browser)
+- The `Homebrew Browser.zip` of the [Open Shop Channel](https://hbb1.oscwii.org/api/v3/contents/homebrew_browser/homebrew_browser.zip)
 
 ### Additional Homebrew Apps - Extracting Files to the SD Card
 1. Extract and copy the contents of `SaveGame_Manager_GX.zip` to the root of the SD card.
 1. Follow the instructions in the link for copying Nintendont.
-1. Extract the contents of the `Homebrew Browser.zip` to the root of the SD card.
+1. Extract the contents of the `homebrew_browser.zip` to the root of the SD card.
 
 ### USB Loaders
 In order to play Wii games, you will need a USB loader. There are two popular loaders called WiiFlow Lite and USB Loader GX. Both can be found on [this site](https://wii.hacks.guide/wii-loaders).
