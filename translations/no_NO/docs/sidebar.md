@@ -1,8 +1,7 @@
 - **Bruker Guide**
 - [Introduksjon](introduction)
 - [Tiramisu](tiramisu/sd-preparation)
-- **vWii**
-- [vWii Modifisering](vwii-modding)
+- [vWii Modifisering](vwii/sd-preparation)
 - **Feilsøking**
 - [Vanlige Feil & Løsninger](common-issues-fixes)
 - [Gjenopprett en vWii IOS/Channel](recover-vwii-ioses-channels)
