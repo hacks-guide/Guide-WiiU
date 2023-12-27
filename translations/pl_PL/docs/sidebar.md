@@ -1,8 +1,7 @@
 - **Poradnik użytkownika**
 - [Wprowadzanie](introduction)
 - [Tiramisu](tiramisu/sd-preparation)
-- **vWii**
-- [Modyfikacja vWii](vwii-modding)
+- [Modyfikacja vWii](vwii/sd-preparation)
 - **Rozwiązywanie problemów**
 - [Najczęstsze problemy & ich naprawa](common-issues-fixes)
 - [Odzyskiwanie vWii IOS/Channel](recover-vwii-ioses-channels)
