@@ -1,8 +1,7 @@
 - **用户手册**
 - [介绍](introduction)
 - [Tiramisu](tiramisu/sd-preparation)
-- **vWii**
-- [vWii 修改](vwii-modding)
+- [vWii 修改](vwii/sd-preparation)
 - **故障排查**
 - [常见问题 & 修复](common-issues-fixes)
 - [恢复一个 vWii IOS/Channel](recover-vwii-ioses-channels)
