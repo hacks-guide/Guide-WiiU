@@ -2,10 +2,6 @@
 
 Aroma is a work-in-progress environment and the successor to Tiramisu.
 
-!> **Aroma is currently in beta and still experimental!**  
-Expect potential issues and make sure to report them, if you encounter any.  
-If you still want to proceed, make sure to fully read this page.
-
 ### What is Aroma?
 
 Aroma is an environment like Tiramisu, which can be booted through the Environment Loader.  
