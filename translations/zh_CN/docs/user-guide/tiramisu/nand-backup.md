@@ -19,7 +19,8 @@
     - Dump SEEPROM: **yes**
 1. 按下 A 键启动导出的进程。
 1. 当完成后，将 Wii U 关机，然后把 SD 卡从 Wii U 上拔出并插入电脑。
-1. 确认你的内存卡中有以下文件：`slc.bin`、`slccmpt.bin`、`seeprom.bin`、`otp.bin` 然后将其复制到电脑上。 若你选择了全部备份，则你还需要复制 `所有的 mlc.bin.part` 文件到电脑上。
+1. The files will appear on the root of the SD card.
+1. To make sure you don't lose the files, copy the `slc.bin`, `slccmpt.bin`, `seeprom.bin`, `otp.bin` (and if you chose to go with a full backup, `every mlc.bin.part`) file to your computer.
 1. 从 SD 卡中删除文件来腾出空间。
 
 ?> **If the PayloadLoader is already installed into the Health and Safety Information app and your console is already autobooting it, you do not need to continue following the guide.**

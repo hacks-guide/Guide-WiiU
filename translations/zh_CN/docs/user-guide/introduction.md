@@ -2,7 +2,7 @@
 ---
 A guide collaboration between Nintendo Homebrew's Helpers and Staff, from stock to Tiramisu custom firmware.
 
-?> **Discord 支持** 如需要本手册的实时技术支持。请加入我们的 [Nintendo Homebrew Discord](https://discord.gg/C29hYvh)，然后在 **#wiiu-assistance** 频道以英文交流获取技术支持。 请先阅读 **#faq-wiiu** 频道和我们这里的[常见问题](faq)页面来确认你的问题是否已经有解决方法。
+?> **Discord Help** For live support with this guide please visit us in **#wiiu-vwii-assistance** on the [Nintendo Homebrew Discord](https://discord.gg/C29hYvh) and ask, in English, for assistance. 请先阅读 **#faq-wiiu** 频道和我们这里的[常见问题](faq)页面来确认你的问题是否已经有解决方法。
 
 > 如果你认为这份手册对你很有帮助，请向我们[捐赠](donations)。
 

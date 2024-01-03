@@ -13,7 +13,7 @@ Attualmente, ogni volta che vorrai lanciare Tiramisu dovrai lanciare l'app Infor
 1. Ti verrà chiesto se vuoi cambiare il titolo di avvio. Premi A per selezionare `Switch to PayloadLoader`.
 1. Al termine del processo, premi A per spegnere la console.
 1. Il PayloadLoader verrà ora avviato automaticamente ad ogni avvio.
-    - Per modificare il titolo predefinito di avvio tieni premuto Start (+) sul Gamepad durante l'avvio della console.
+    - To change the default boot title hold Start (+) on the Gamepad while booting the console. You cannot change the boot title until you set a default environment first.
     - Naviga l'elenco utilizzando il D-Pad per selezionare il titolo che vuoi avviare automaticamente, poi premi il pulsante Y per impostarlo come titolo predefinito.
     - Premi A per avviare il titolo selezionato.
 

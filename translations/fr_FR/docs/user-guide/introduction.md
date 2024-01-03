@@ -2,7 +2,7 @@
 ---
 A guide collaboration between Nintendo Homebrew's Helpers and Staff, from stock to Tiramisu custom firmware.
 
-?> **Aide sur Discord** Pour une assistance en direct avec ce guide, veuillez nous rendre visite dans **#wiiu-assistance** sur le serveur [Nintendo Homebrew sur Discord](https://discord.gg/C29hYvh) et demandez de l'aide en anglais. Veuillez lire **#faq-wiiu**, ainsi que notre page [Foire Aux Questions](faq) pour voir si votre question a déjà reçu une réponse.
+?> **Discord Help** For live support with this guide please visit us in **#wiiu-vwii-assistance** on the [Nintendo Homebrew Discord](https://discord.gg/C29hYvh) and ask, in English, for assistance. Veuillez lire **#faq-wiiu**, ainsi que notre page [Foire Aux Questions](faq) pour voir si votre question a déjà reçu une réponse.
 
 > Si vous appréciez ce guide, nous acceptons les [dons](donations).
 

@@ -13,7 +13,7 @@ Obecnie za każdym razem, gdy chcesz uruchomić Tiramisu, będziesz musiał uruc
 1. Będziesz zapytany o to, czy chcesz zmienić aplikację/tutuł boot'owania. Naciśnij A, aby wybrać `Switch to PayloadLoader`.
 1. Po zakończeniu procesu, naciśnij A, aby zamknąć konsolę.
 1. Od teraz PayloadLoader będzie uruchamiany automatycznie przy każdym uruchomieniu konsoli.
-    - Aby zmienić domyślny tytuł rozruchu, przytrzymaj Start (+) na Gamepad podczas uruchamiania konsoli.
+    - To change the default boot title hold Start (+) on the Gamepad while booting the console. You cannot change the boot title until you set a default environment first.
     - Poruszaj się przy pomocy D-Pada, aby najechać na tytuł, który chcesz wybrać do autoboot'owania, a następnie naciśnij przycisk Y, aby ustawić ten tytuł na stałe do autoboot'owania.
     - Naciśnij A, aby uruchomić wybrany tytuł.
 

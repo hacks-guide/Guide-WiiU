@@ -2,7 +2,7 @@
 ---
 Poradnik - jak przejść z fabrycznej wersji oprogramowania do Tiramisu - powstał dzięki Nintendo Homebrew's Helpers and Staff.
 
-?> **Pomoc na Discord'zie** Aby uzyskać wsparcie na żywo, odwiedź nas w **#wiiu-assistance** na [Nintendo Homebrew Discord](https://discord.gg/C29hYvh). Pomocy udzielamy tylko w języku angielskim. Przeczytaj **#faq-wiiu**, odwiedź też stronę [Najczęściej zadawane pytania](faq) wcześniej, aby sprawdzić, czy odpowiedź na Twoje pytanie nie została już udzielona wcześniej.
+?> **Discord Help** For live support with this guide please visit us in **#wiiu-vwii-assistance** on the [Nintendo Homebrew Discord](https://discord.gg/C29hYvh) and ask, in English, for assistance. Przeczytaj **#faq-wiiu**, odwiedź też stronę [Najczęściej zadawane pytania](faq) wcześniej, aby sprawdzić, czy odpowiedź na Twoje pytanie nie została już udzielona wcześniej.
 
 > Jeśli doceniasz ten poradnik, udziel nam [wsparcia](donations).
 

@@ -19,7 +19,8 @@ In caso qualcosa vada storto nei processi successivi e la tua Wii U si bricka, r
     - Dump SEEPROM: **yes**
 1. Premi A per iniziare il processo di dumping.
 1. Quando il processo è completo, spegni la tua Wii U, prendi la SD fuori dalla Wii U ed inseriscila nel tuo PC.
-1. Per assicurarti di non perdere file, copia i file: `slc.bin`, `slccmpt.bin`, `seeprom.bin`, `otp.bin` e se scegli di usare un backup completo, `ogni file chiamato mlc.bin.part` sul tuo computer.
+1. The files will appear on the root of the SD card.
+1. To make sure you don't lose the files, copy the `slc.bin`, `slccmpt.bin`, `seeprom.bin`, `otp.bin` (and if you chose to go with a full backup, `every mlc.bin.part`) file to your computer.
 1. Elimina i file dalla tua SD per liberare spazio.
 
 ?> **Se il PayloadLoader è già installato nell'app Informazioni per la salute e la sicurezza e la tua console lo avvia automaticamente, non è necessario continuare a seguire la guida.**

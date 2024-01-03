@@ -7,7 +7,7 @@ Ta strona przeprowadzi Cię przez proces odinstalowania PayloadLoader z Wii U.
 ### Czego Potrzebujesz {docsify-ignore}
 
 - Najnowsze pliki z [Tiramisu for your café](https://tiramisu.foryour.cafe).
-    - Wybierz `EnvironmentLoader` i `PayloadLoader Installer`
+    - Click on `Download Tiramisu`.
 
 ### Anuluj autobotowanie do PayloadLoader
 

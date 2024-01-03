@@ -14,12 +14,12 @@ Vi starter med å plassere Homebrew filene du trenger på SD-kortet ditt.
 
 - De nyeste filene i [Tiramisu for your café](https://tiramisu.foryour.cafe).
     - Klikk på `Download Tiramisu`.
-    - If you have already installed Tiramisu, you do not need to redownload it.
+    - Hvis du allerede har installert Tiramisu, trenger du ikke å laste den ned på nytt.
 - Siste utgave av [vwii-compat-installer](https://github.com/TheLordScruffy/vwii-compat-installer/releases).
 - <a href="docs/files/Patched_IOS80_Installer_for_vWii.zip" download>Patched IOS 80 Installer for vWii</a>. ([kilde](https://github.com/Lazr1026/Patched-IOS80-Installer-for-vWii))
 - <a href ="docs/files/d2x_cIOS_Installer.zip" download>d2x cIOS Installer</a>.
 
-### Instruksjoner {docsify-ignore}
+### Forberede SD-kortet {docsify-ignore}
 
 1. Sett SD-kortet ditt i PC'en din.
 1. Pakk ut `apps` mappen fra <code>Patched_<wbr>IOS80_<wbr>Installer_<wbr>for_<wbr>vWii<wbr>.zip</code> til roten av SD kortet.
@@ -43,7 +43,7 @@ Hvis noe går galt senere i prosessen og vWii "bricker", vil gjenoppretting av e
     - Dump SEEPROM: **optional**
 1. Trykk på A knappen for å starte dumpingprosessen.
 1. Når prosessen er fullført, skru av Wii U konsollen, ta ut SD-kortet og sett den inn i PC-en din.
-1. For å være sikker på at du ikke mister filene, kopier `slccmpt.bin`, `otp.bin` og hvis du velger å ta en full backup, `seeprom.bin`, `slc.bin`, og `alle mlc.bin.part` filene til pc'en din.
+1. For å være sikker på at du ikke mister filene, kopier `slccmpt.bin` og, `otp.bin`, og hvis du velger å ta en full backup, `seeprom.bin`, `slc.bin`, og `alle mlc.bin.part` filene til pc'en din.
 1. Slett filene fra SD-kortet for å frigjøre plass.
 1. Ta SD-kortet ut av PC'en og sett den inn i Wii U konsollen.
 
@@ -94,4 +94,4 @@ Hvis noe går galt senere i prosessen og vWii "bricker", vil gjenoppretting av e
 
 !> Installering av IOS (inkludert TED IOS'er) eller wads formattert for den originale Wii'en vil "bricke" vWii'en din.
 
-!> Priiloader versions before 0.10.0 do not work with vWii. Priiloader versions before 0.8.2 will brick your vWii.
+!> Priiloader versjoner før 0.10.0 fungerer ikke med vWii. Priiloader versjoner før 0.8.2 vil bricke vWii.

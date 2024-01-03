@@ -2,7 +2,7 @@
 ---
 Dumping your Discs allows you to: play them on a Wii emulator (namely Dolphin), play them using a USB/SD Card loader such as Wiiflow, make Virtual Console injects that can be installed on a Wii U formatted USB drive or the NAND and launched from the Wii U Menu.
 
-?> Dumping Wii games require a working homebrew setup on vWii, so make sure to finish the [vWii Modding guide](vwii-modding) beforehand.
+?> Dumping Wii games requires a working homebrew setup on vWii, so make sure to finish the [vWii Modding guide](vwii-modding) beforehand.
 
 !> It is **ILLEGAL** to share the files dumped with this guide.  
 If you intend to use this guide to share your dumped games, don't.
@@ -27,7 +27,7 @@ If you intend to use this guide to share your dumped games, don't.
 1. Read the Disclaimer then press A.
 1. Select Yes to enable Checksum Calculations.
 1. Select either USB or Front SD depending on which device you want to use for the dumping process.
-    - Please note that the device you will choose needs to be formatted either in FAT32 or NTFS.
+    - Please note that the device you choose needs to be formatted either in FAT32 or NTFS.
 1. Press A to continue.
 1. Select No on the screen that asks you to download redump.org DAT files.
 1. Insert your disc then press A.
@@ -42,14 +42,13 @@ If you intend to use this guide to share your dumped games, don't.
 
 ### Joining Split Files
 
-?> If you dumped the disc on a FAT32 formatted, device, you should've got at least 2 files that end with `.partX.iso`. They need to be joined up.
+?> If you dumped the disc on a FAT32 formatted device, you should've got at least 2 files that end with `.partX.iso`. They need to be joined up.
 
 #### Windows {docsify-ignore}
 
 1. Copy all the files that share the same name and end with `.partX.iso` in a folder on your computer.
-1. Open up a Command Prompt window.
-1. Use the `cd <path>` command and replace `<path>` by the path to your `.partX.iso` files.
-1. Use the following command as is: `copy /b *.part?.iso game.iso`.
+1. Right-click inside the folder while holding Shift and select `Open PowerShell Window Here`.
+1. In the PowerShell window, run the following command as is: `cmd.exe /c "copy /b *.part?.iso game.iso"`.
 
 #### macOS/Linux {docsify-ignore}
 

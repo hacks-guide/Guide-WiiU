@@ -23,6 +23,8 @@ Her vil vi plassere de nødvendige CFW-filene og noen ekstra homebrew filer på 
 
 ?> Hvis pc'en din spør deg om å erstatte eksisterende filer på SD-kortet, skal du trykke ja.
 
+   Hvis du bruker en Mac, må du velge `Merge` i stedet for å erstatte.
+
 ----------
 
 ### SD-kort oppsett {docsify-ignore}
@@ -32,37 +34,38 @@ Her vil vi plassere de nødvendige CFW-filene og noen ekstra homebrew filer på 
 
 ```
 💾sd:
- ┗ 📂wiiu
-   ┣ 📂apps
-   ┃ ┣ 📂homebrew_launcher
-   ┃ ┃ ┣ 📜homebrew_launcher.elf
-   ┃ ┃ ┣ 📜icon.png
-   ┃ ┃ ┗ 📜meta.xml
-   ┃ ┣ 📜PayloadLoaderInstaller.wuhb
-   ┃ ┗ (All other apps should be here too)
-   ┣ 📂environments
-   ┃ ┣ 📂installer
-   ┃ ┃ ┗ 📂modules
-   ┃ ┃   ┗ 📂setup
-   ┃ ┃     ┣ 📜00_mocha.rpx
-   ┃ ┃     ┗ 📜90_launch_installer.rpx
-   ┃ ┗ 📂tiramisu
-   ┃   ┣ 📂modules
-   ┃   ┃ ┗ 📂setup
-   ┃   ┃   ┣ 📜00_mocha.rpx
-   ┃   ┃   ┣ 📜01_sigpatches.rpx
-   ┃   ┃   ┣ 📜50_hbl_installer.rpx
-   ┃   ┃   ┗ 📜99_autoboot.rpx
-   ┃   ┗ 📜root.rpx
-   ┣ 📂payloads
-   ┃ ┣ 📂default
-   ┃ ┃ ┗ 📜payload.elf
-   ┃ ┣ 📂fw_img_loader 
-   ┃ ┃ ┗ 📜payload.elf
-   ┃ ┗ 📂nanddumper
-   ┃   ┗ 📜payload.elf
-   ┣ 📜payload.rpx
-   ┗ 📜payload.elf
+ ┣ 📂wiiu
+ ┃ ┣ 📂apps
+ ┃ ┃ ┣ 📂homebrew_launcher
+ ┃ ┃ ┃ ┣ 📜homebrew_launcher.elf
+ ┃ ┃ ┃ ┣ 📜icon.png
+ ┃ ┃ ┃ ┗ 📜meta.xml
+ ┃ ┃ ┣ 📜PayloadLoaderInstaller.wuhb
+ ┃ ┃ ┗ (All other apps should be here too)
+ ┃ ┣ 📂environments
+ ┃ ┃ ┣ 📂installer
+ ┃ ┃ ┃ ┗ 📂modules
+ ┃ ┃ ┃   ┗ 📂setup
+ ┃ ┃ ┃     ┣ 📜00_mocha.rpx
+ ┃ ┃ ┃     ┗ 📜90_launch_installer.rpx
+ ┃ ┃ ┗ 📂tiramisu
+ ┃ ┃   ┣ 📂modules
+ ┃ ┃   ┃ ┗ 📂setup
+ ┃ ┃   ┃   ┣ 📜00_mocha.rpx
+ ┃ ┃   ┃   ┣ 📜01_sigpatches.rpx
+ ┃ ┃   ┃   ┣ 📜50_hbl_installer.rpx
+ ┃ ┃   ┃   ┗ 📜99_autoboot.rpx
+ ┃ ┃   ┗ 📜root.rpx
+ ┃ ┣ 📂payloads
+ ┃ ┃ ┣ 📂default
+ ┃ ┃ ┃ ┗ 📜payload.elf
+ ┃ ┃ ┣ 📂fw_img_loader 
+ ┃ ┃ ┃ ┗ 📜payload.elf
+ ┃ ┃ ┗ 📂nanddumper
+ ┃ ┃   ┗ 📜payload.elf
+ ┃ ┣ 📜payload.rpx
+ ┃ ┗ 📜payload.elf
+ ┗ 📜versions.json
 ```
 
 </details>

@@ -7,7 +7,7 @@ Questa pagina ti guiderà attraverso il processo di disinstallazione di PayloadL
 ### Cosa ti servirà {docsify-ignore}
 
 - Gli ultimi file da [Tiramisu per il tuo caffè](https://tiramisu.foryour.cafe).
-    - Seleziona `EnvironmentLoader` e `PayloadLoader Installer`
+    - Click on `Download Tiramisu`.
 
 ### Annullare l'auto-avvio in PayloadLoader
 
