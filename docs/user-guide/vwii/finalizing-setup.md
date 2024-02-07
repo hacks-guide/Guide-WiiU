@@ -18,11 +18,11 @@ Now that the required cIOSes and IOS80 patch have been applied, we are now going
 
 ### Additional Homebrew Apps - Extracting Files to the SD Card
 1. Extract and copy the contents of `SaveGame_Manager_GX.zip` to the root of the SD card.
-1. Follow the instructions in the link for copying Nintendont.
+1. Follow the instructions in the link for copying Nintendont, scrolling down.
 1. Extract the contents of the `homebrew_browser.zip` to the root of the SD card.
 
 ### USB Loaders
-In order to play Wii games, you will need a USB loader. There are two popular loaders called WiiFlow Lite and USB Loader GX. Both can be found on [this site](https://wii.hacks.guide/wii-loaders).
+In order to play Wii game backups, you will need a USB loader. There are two popular loaders called WiiFlow Lite and USB Loader GX. Both can be found on [this site](https://wii.hacks.guide/wii-loaders).
 
 ### Installing Priiloader
 
