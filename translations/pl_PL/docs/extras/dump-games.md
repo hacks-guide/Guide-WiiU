@@ -19,29 +19,27 @@ Jeśli zamierzasz użyć tego przewodnika do dzielenia się twoimi zrzuconymi gr
 
 - Karta SD z odpowiednią ilością miejsca na gry, które będziesz zrzucał.
 - If wanting to install to a USB, A USB HDD (+ a Y-cable if needed).
-- Najnowsze wydanie [WUP Installer GX2](https://wiiubru.com/appstore/zips/wup_installer_gx2.zip).
-- The [wudd](https://wiiubru.com/appstore/zips/wudd.zip) homebrew application.
+- The latest release of [WUP Installer GX2](https://wiiu.cdn.fortheusers.org/zips/wup_installer_gx2_wuhb.zip).
+- The [wudd](https://wiiu.cdn.fortheusers.org/zips/wudd.zip) homebrew application.
 
 #### Instrukcje {docsify-ignore}
 
-1. Skopiuj zawartość pliku `wup_installer_gx2.zi` do katalogu głównego karty SD.
+1. Copy the contents of the `wup_installer_gx2_wuhb.zip` file to the root of your SD Card.
 1. Copy the contents of the newly downloaded wudd `.zip` file to the root of your SD Card.
 1. Take the SD Card out of your PC and insert it into your Wii U.
-1. Power on your Wii U and boot into Tiramisu.
-1. Launch the Homebrew Launcher and start the wudd app.
-1. Change dump location to the SD Card.
+1. Power on your Wii U and boot into Aroma.
+1. Launch the Wii U Menu and start the wudd app.
 1. Select `Dump partition as .app`
 1. Select the `Game` partition to start dumping.
-1. When finished, exit wudd and navigate back to the Wii U Menu.
+1. When finished, exit wudd to the Wii U Menu.
 1. Insert the SD Card into your computer.
 1. Copy the `GMXXXXXXXXXXXXXXXX` folder from `sd:/wudump/WUP-X-XXXX` to the `install` folder on your SD Card.
     - If the `install` folder does not exist, create it.
 1. Eject and insert the SD Card into your Wii U.
-1. Open the Homebrew Launcher and then the WUP Installer GX2 app.
+1. Open the Wii U Menu and then the WUP Installer GX2 app.
 1. Select your game (`GMXXXXXXXXXXXXXXXX`), press `Install` and confirm with `Yes`.
 1. Choose 'USB' to install to USB and 'NAND' to install to NAND
-1. When the process is complete, press HOME to return to the Homebrew Launcher.
-1. Exit the Homebrew Launcher to the Wii U Menu.
+1. Exit the WUP Installer GX2 to the Wii U Menu.
 1. You should see your game installed, ready to be played.
 1. Take the SD Card out of your Wii U and plug it into your PC.
 1. Delete the `GMXXXXXXXXXXXXXXXX` folder in the `install` directory on your SD Card to free up space.
