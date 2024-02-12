@@ -3,7 +3,7 @@
 !> **THE METHODS DESCRIBED IN THIS PAGE ARE NO LONGER SUPPORTED**  
 **CURRENT METHOD IS AVAILABLE [HERE](../introduction)**
 
-?> Before starting, make sure to update your Wii U console to the latest firmware (5.5.5) if you haven't already.
+?> Before starting, make sure to update your Wii U console to the latest firmware (5.5.6 for North American consoles, 5.5.5 for all other regions) if you haven't already.
 
 There are two main custom firmwares: Haxchi/Coldboot Haxchi (usually abbreviated as "CBHC"), as well as Mocha.
 
@@ -22,7 +22,7 @@ The custom firmware you decide to use is ultimately **your** preference. There i
 
 ## CBHC
 
-!> Installing CBHC incorrectly can brick your Wii U! Make sure to follow the following rules when installing CBHC: <br>- The DS game has to be legitimately installed from the eShop! <br>- Don't format the system while CBHC is installed! <br>- Don't delete the user account that bought the DS Virtual Console game! <br>- Don't re-install the same game using WUP Installer or from the eShop! <br>- Don't install Haxchi over CBHC! (You will not brick, but it will cause a boot-loop! Hold A when booting to access the Homebrew Launcher and uninstall CBHC.) <br>- Don't uninstall the DS Virtual Console game without [properly uninstalling CBHC first](uninstall-cbhc)! <br>- Don't move the DS Virtual Console game to a USB drive!
+!> Installing CBHC incorrectly can brick your Wii U! Make sure to follow the following rules when installing CBHC: <br>- The DS game has to be legitimately installed from the eShop! <br>- Don't format the system while CBHC is installed! <br>- Don't delete the user account that bought the DS Virtual Console game! <br>- Don't re-install the same game using WUP Installer or from the eShop! <br>- Don't install Haxchi over CBHC! (You will not brick, but it will cause a boot-loop! Hold A when booting to access the Homebrew Launcher and uninstall CBHC.) <br>- Don't uninstall the DS Virtual Console game without [properly uninstalling CBHC first](../uninstall-cbhc)! <br>- Don't move the DS Virtual Console game to a USB drive!
 
 !> Breaking one of the above rules **can** result in a brick!
 
