@@ -26,7 +26,7 @@ Your SD Card will need to be formatted as FAT32. If your SD Card is not formatte
 
 1. Sett SD-kortet ditt i PC'en din.
 2. Copy the `apps` folder from the `Patched_IOS80_Installer_for_vWii.zip` file to the root of your SD Card.
-3. Copy the `d2x-cios-installer` from the `d2x_cIOS_Installer.zip` file to the apps folder on your SD Card.
+3. Copy the `d2x-cios-installer` from the `d2x_cIOS_Installer.zip` file to the apps folder on the root of your SD Card.
 4. Copy the contents of the downloaded Tiramisu _`.zip`_ file to the root of your SD Card.
 5. Copy the contents of the `CompatTitleInstaller.zip` file to the root of your SD Card.
 6. Ta SD-kortet ut av PC'en og sett den inn i Wii U konsollen.
