@@ -1,6 +1,6 @@
 # Wii U 破解手册
 ---
-A guide collaboration between Nintendo Homebrew's Helpers and Staff, from stock to Tiramisu custom firmware.
+A guide collaboration between Nintendo Homebrew's Helpers and Staff, from stock to Aroma custom firmware.
 
 ?> **Discord Help** For live support with this guide please visit us in **#wiiu-vwii-assistance** on the [Nintendo Homebrew Discord](https://discord.gg/C29hYvh) and ask, in English, for assistance. 请先阅读 **#faq-wiiu** 频道和我们这里的[常见问题](faq)页面来确认你的问题是否已经有解决方法。
 
@@ -51,10 +51,10 @@ Homebrew 是由用户自制的且 Nintendo 没有授权的程序。 包括存档
 
 在做步骤的时候请将你的主机接上充电器充电，以避免意外关机造成数据丢失或损坏。
 
-After following this guide, CFW will be loaded and enabled on boot, unless you choose to not follow the Autobooting Tiramisu section.
+After following this guide, CFW will be loaded and enabled on boot, unless you choose to not follow the Autobooting Aroma section.
 
 请从头开始阅读此手册，完成一项或若干次操作后再继续进行操作步骤。
 
 ---
 
-### [Continue to Tiramisu](tiramisu/sd-preparation) {docsify-ignore}
+### [Continue to Aroma](aroma/getting-started) {docsify-ignore}
