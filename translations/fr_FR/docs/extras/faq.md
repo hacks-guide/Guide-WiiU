@@ -15,7 +15,7 @@ Les payloads, qui sont normalement trouvés avec le nom de fichier `payload.elf`
 
 ### Que sont les environnements ?
 
-Un environnement est un ensemble de « modules de configuration », qui seront exécutés dans un certain ordre lors du lancement de l'environnement. L'un de ces environnements est Tiramisu. Les modules de configuration sont de petits morceaux de homebrew/code qui sont exécutés une fois pour configurer un environnement.
+Un environnement est un ensemble de « modules de configuration », qui seront exécutés dans un certain ordre lors du lancement de l'environnement. Such environments are Aroma and Tiramisu. Les modules de configuration sont de petits morceaux de homebrew/code qui sont exécutés une fois pour configurer un environnement.
 
 ### How to Delete Update Folder to Block Updates on Wii U
 
