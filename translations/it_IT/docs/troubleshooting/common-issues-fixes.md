@@ -12,7 +12,6 @@
 
  - **FSGetMountSource failed:**è uguale a -3, indica che la SD non viene rilevata. Re-inserisci la SD e riprova. This could also mean that the SD card is locked (Slider is down instead of up) or the SD card label is "WIIU", which is stated in the guide causes conflict. If it's not any of these issues, refer to the last suggestion from -3.
 
-
  - **FSOpenFile failed [...] payload.elf:** il payload non è stato trovato nella SD. Controlla di avere il file payload.elf nella cartella wiiu.
 
  - **FSOpenFile failed:** l'`homebrew_launcher` non è presente all'interno della SD. Controlla di avere `homebrew_launcher.elf` nella cartella <code>/wiiu<wbr>/apps<wbr>/homebrew_launcher</code>.
