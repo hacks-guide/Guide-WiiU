@@ -22,4 +22,4 @@ Mając kopię zapasową NAND na wypadek, gdy coś poszło nie tak, możesz zains
 
 Homebrew Launcher będzie uruchamiany za każdym razem, gdy uruchomisz przeglądarkę internetową nawet bez połączenia z Internetem. Jeśli chcesz odwiedzić inną stronę, otwórz ją, zanim Indexiine uruchomi exploit.
 
-?> Jeśli chcesz odinstalować Indexiine, zobacz stronę [Odinstaluj indexiine](../../uninstall-indexiine)
+?> In case you ever want to uninstall Indexiine, see the [Uninstall Indexiine](../../../uninstall-indexiine) page
