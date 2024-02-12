@@ -1,6 +1,7 @@
 - **Archive**
 - [Hjemmesiden](../../introduction)
-- [Utdaterte Metoder](cfw-choice)
+- [Tiramisu](tiramisu/sd-preparation)
+- [Legacy Methods](cfw-choice)
 - **Lenker**
 - [![GitHub](https://icongr.am/simple/github.svg?color=808080&size=16)GitHub](https://github.com/hacks-guide/Guide-WiiU)
 - [![Discord](https://icongr.am/simple/discord.svg?colored&size=16)Discord](https://discord.gg/C29hYvh)
