@@ -3,7 +3,7 @@
 !> **TA METODA NIE JEST JUŻ WSPIERANA**  
 **AKTUALNA METODA JEST DOSTĘPNA [TUTAJ](../introduction)**
 
-?> Przed rozpoczęciem, zaktualizuj swoją konsolę Wii U do najnowszego oprogramowania (5.5.5), jeśli jeszcze tego nie zrobiłeś.
+?> Before starting, make sure to update your Wii U console to the latest firmware (5.5.6 for North American consoles, 5.5.5 for all other regions) if you haven't already.
 
 Istnieją dwa główne rodzaje CFW: Haxchi/Coldboot Haxchi (zazwyczaj zwane jako „CBHC”) oraz Mocha.
 
@@ -22,7 +22,7 @@ Niestandardowe oprogramowanie, którego użyjesz, to **Twój** wybór. Nie ma le
 
 ## CBHC
 
-!> Niepoprawna instalacja CBHC może zblokować Wii U! Przestrzegaj poniższych zasad podczas instalacji CBHC: <br>- Gra DS musi być zainstalowana z eShop'u! <br>- Nie formatuj systemu, gdy CBHC jest zainstalowany! <br>- Nie usuwaj konta użytkownika, który kupił grę DS Virtual Console! <br>- Nie instaluj ponownie tej samej gry używając WUP Installer lub eShop'u! <br>- Nie instaluj Haxchi gdy masz już CBHC! (Nie uszkodzisz konsoli, ale Wii U wejdzie w boot-loop! Przytrzymaj A podczas uruchamiania, aby uzyskać dostęp do Homebrew Launcher i odinstaluj CBHC.) <br>- Nie odinstaluj gry DS Virtual Console bez [poprawnego odinstalowania CBHC najpierw](uninstall-cbhc)! <br>- Nie przenoś gry DS Virtual Console na dysk USB!
+!> Niepoprawna instalacja CBHC może zblokować Wii U! Przestrzegaj poniższych zasad podczas instalacji CBHC: <br>- Gra DS musi być zainstalowana z eShop'u! <br>- Nie formatuj systemu, gdy CBHC jest zainstalowany! <br>- Nie usuwaj konta użytkownika, który kupił grę DS Virtual Console! <br>- Nie instaluj ponownie tej samej gry używając WUP Installer lub eShop'u! <br>- Nie instaluj Haxchi gdy masz już CBHC! (Nie uszkodzisz konsoli, ale Wii U wejdzie w boot-loop! Przytrzymaj A podczas uruchamiania, aby uzyskać dostęp do Homebrew Launcher i odinstaluj CBHC.) <br>- Nie odinstaluj gry DS Virtual Console bez [poprawnego odinstalowania CBHC najpierw](../uninstall-cbhc)! <br>- Nie przenoś gry DS Virtual Console na dysk USB!
 
 !> Złamanie jednej z powyższych reguł **może** skutkować zablokowaniem konsoli!
 
