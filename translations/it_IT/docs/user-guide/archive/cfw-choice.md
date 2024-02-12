@@ -3,7 +3,7 @@
 !> **I METODI DESCRITTI IN QUESTA PAGINA NON SONO PIÙ SUPPORTATI**  
 **IL METODO CORRENTE È DISPONIBILE [QUI](../introduction)**
 
-?> Prima di iniziare, assicurati di aver aggiornato la tua Wii U al firmware più recente (5.5.5) se non l'hai già fatto.
+?> Before starting, make sure to update your Wii U console to the latest firmware (5.5.6 for North American consoles, 5.5.5 for all other regions) if you haven't already.
 
 Ci sono due firmware custom principali: Haxchi/Coldboot Haxchi (solitamente abbreviato come "CBHC"), e Mocha.
 
@@ -22,7 +22,7 @@ Il custom firmware che userai sarà alla fine una **tua** preferenza. Non c'è n
 
 ## CBHC
 
-!> Installare CBHC in modo errato può brickare la tua Wii U! Assicurati di seguire le seguenti regole durante l'installazione di CBHC: <br>- Il gioco DS deve venir installato legittimamente dall'eShop! <br>- Non Formattare il sistema mentre CBHC è installato! <br>- Non eliminare l'account che ha comprato il gioco DS per Virtual Console! <br>- Non reinstallare lo stesso gioco utilizzando WUP Installer o l' eShop! <br>- Non installare Haxchi sopra CBHC! (Non brickerà, ma causerà un boot-loop! Tieni premuto A durante l'avvio per accedere all'Homebrew Launcher e disinstallare CBHC.) <br>- Non disinstallare il gioco DS Virtual Console senza prima [aver disinstallato correttamente CBHC](uninstall-cbhc)! <br>- Non spostare il gioco DS Virtual Console su un dispositivo USB!
+!> Installare CBHC in modo errato può brickare la tua Wii U! Assicurati di seguire le seguenti regole durante l'installazione di CBHC: <br>- Il gioco DS deve venir installato legittimamente dall'eShop! <br>- Non Formattare il sistema mentre CBHC è installato! <br>- Non eliminare l'account che ha comprato il gioco DS per Virtual Console! <br>- Non reinstallare lo stesso gioco utilizzando WUP Installer o l' eShop! <br>- Non installare Haxchi sopra CBHC! (Non brickerà, ma causerà un boot-loop! Tieni premuto A durante l'avvio per accedere all'Homebrew Launcher e disinstallare CBHC.) <br>- Non disinstallare il gioco DS Virtual Console senza prima [disinstallare correttamente CBHC](../uninstall-cbhc)! <br>- Non spostare il gioco DS Virtual Console su un dispositivo USB!
 
 !> Infrangere una di queste regole **può** causare un brick!
 
