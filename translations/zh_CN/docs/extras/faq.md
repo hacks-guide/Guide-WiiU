@@ -15,7 +15,7 @@ Payloads, which are normally found with the filename `payload.elf`, exist to mak
 
 ### What are environments?
 
-An environment is a collection of "setup modules", which will be run in a certain order when launching the environment. One such environment is Tiramisu. Setup modules are small pieces of homebrew/code that are executed once to set up an environment.
+An environment is a collection of "setup modules", which will be run in a certain order when launching the environment. Such environments are Aroma and Tiramisu. Setup modules are small pieces of homebrew/code that are executed once to set up an environment.
 
 ### How to Delete Update Folder to Block Updates on Wii U
 
