@@ -12,7 +12,6 @@
 
  - **FSGetMountSource failed:** Tak samo jak -3 powyżej, oznacza że nie wykryto karty SD. Spróbuj wyjąć i włożyć kartę ponownie. This could also mean that the SD card is locked (Slider is down instead of up) or the SD card label is "WIIU", which is stated in the guide causes conflict. If it's not any of these issues, refer to the last suggestion from -3.
 
-
  - **FSOpenFile failed [...] payload.elf:** Brak pliku payload na karcie SD. Upewnij się, że masz payload.elf w folderze wiiu.
 
  - **FSOpenFile failed:** Brak `homebrew_launcher` na karcie SD. Upewnij się, że masz `homebrew_launcher.elf` w folderze <code>/wiiu<wbr>/apps<wbr>/homebrew_launcher</code>.
