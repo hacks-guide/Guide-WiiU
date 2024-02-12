@@ -12,7 +12,6 @@
 
  - **FSGetMountSource failed:** Samme som -3 ovenfor, betyr at SD-kortet ikke blir registrert. Sett inn SD-kortet på nytt og prøv igjen. Dette kan også bety at SD kortet har på skrivelås (Tappen på siden av kortet er dratt ned istedenfor opp) eller at du har gitt SD kortet navnet "WIIU", som vi tidligere har sagt vil lage konflikter. Hvis det ikke er noen av disse problemene, se på det siste forslaget om -3 ovenfor.
 
-
  - **FSOpenFile failed [...] payload.elf:** Mangler payload filen på SD-kortet. Kontroller at du har en payload.elf fil i wiiu mappen.
 
  - **FSOpenFile failed:** Mangler `homebrew_launcher` på SD-kortet. Skjekk at du har `homebrew_launcher.elf` i <code>/wiiu<wbr>/apps<wbr>/homebrew_launcher</code> mappen.
