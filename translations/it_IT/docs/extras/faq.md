@@ -15,7 +15,7 @@ Un payload, il cui file è solitamente chiamato `payload.elf`, esiste per portar
 
 ### Cos'è un ambiente?
 
-Un ambiente è una raccolta di "moduli di configurazione", che saranno eseguiti in un certo ordine quando si avvia l'ambiente. Un ambiente è per esempio Tiramisu. I moduli di configurazione sono piccoli pezzi di homebrew/codice che vengono eseguiti una volta per configurare un ambiente.
+Un ambiente è una raccolta di "moduli di configurazione", che saranno eseguiti in un certo ordine quando si avvia l'ambiente. Such environments are Aroma and Tiramisu. I moduli di configurazione sono piccoli pezzi di homebrew/codice che vengono eseguiti una volta per configurare un ambiente.
 
 ### How to Delete Update Folder to Block Updates on Wii U
 
