@@ -1,7 +1,8 @@
 - **Guide de l'utilisateur**
 - [Introduction](introduction)
-- [Tiramisu](tiramisu/sd-preparation)
-- [Modding de la vWii](vwii/sd-preparation)
+- [Aroma](aroma/getting-started)
+- **vWii**
+- [Modding de la vWii](vwii-modding)
 - **Résolution de problèmes**
 - [Problèmes courants & solutions](common-issues-fixes)
 - [Récupérer un·e IOS/Chaîne vWii](recover-vwii-ioses-channels)
@@ -15,7 +16,8 @@
 - [Uninstall Payloadloader](uninstall-payloadloader)
 - [Frequently Asked Questions](faq)
 - **Archive**
-- [Previous Methods](archive/cfw-choice)
+- [Tiramisu](archive/tiramisu/sd-preparation)
+- [Legacy Methods](archive/cfw-choice)
 - [Configurable Payload](configurable-payload)
 - **Liens**
 - [![GitHub](https://icongr.am/simple/github.svg?color=808080&size=16)GitHub](https://github.com/hacks-guide/Guide-WiiU)
