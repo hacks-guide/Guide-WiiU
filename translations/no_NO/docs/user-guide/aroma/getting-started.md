@@ -1,12 +1,6 @@
 # Aroma {docsify-ignore-all}
 
-Aroma er ett work-in-progress environment og kan muligens erstatte Tiramisu.
-
-!> **Aroma er for øyeblikket i beta og er eksperimentelt**  
-Forvent potensielle problemer og sørg for å rapportere det hvis du ser noen.  
-Hvis du fortsatt ønsker å fortsette, bør du lese resten av denne siden.
-
-?> Denne guiden vil ikke fjerne Tiramisu. Etter å ha fulgt denne guiden kan du fortsatt velge å boote Tiramisu.
+Aroma is a work-in-progress environment and the successor to Tiramisu.
 
 ### Hva er Aroma?
 
@@ -42,9 +36,4 @@ Dette inkluderer allel `.elf` homebrews, men også noen `.rpx` homebrews, som ik
 Disse homebrew appene må bli oppdatert med Aroma support. For å kjøre gamle homebrews må du starte Tiramisu environment.  
 Det går ikke lenger ann å kjøre homebrew gjennom Homebrew Launcher i Aroma.
 
-I tillegg til begrensningene nevnt ovenfor skal det bemerkes at Aroma fortsatt er en betaversjon. Ikke alt er testet ennå, og eventuelle ytterligere problemer kan bli oppdaget.
-
-### Komme i gang
-
-Før du fortsetter til neste side, må du installere PayloadLoader.  
-Det kan du gjøre ved å følge [Tiramisu guiden](../tiramisu/sd-preparation).
+I tillegg til begrensningene nevnt ovenfor skal det bemerkes at Aroma fortsatt er en betaversjon. Ikke alt er testet ennå, og eventuelle ytterligere problemer kan bli oppdaget.  
