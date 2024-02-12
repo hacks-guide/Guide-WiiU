@@ -25,7 +25,7 @@ We will now start by placing the required Homebrew files on the SD Card.
 
 1. Insert your Wii U's SD Card into your PC.
 1. Copy the `apps` folder from the `Patched_IOS80_Installer_for_vWii.zip` file to the root of your SD Card.
-1. Copy the `d2x-cios-installer` from the `d2x_cIOS_Installer.zip` file to the apps folder on your SD Card.
+1. Copy the `d2x-cios-installer` from the `d2x_cIOS_Installer.zip` file to the apps folder on the root of your SD Card.
 1. Copy the contents of the downloaded Tiramisu *`.zip`* file to the root of your SD Card.
 1. Copy the contents of the `CompatTitleInstaller.zip` file to the root of your SD Card.
 1. Take the SD Card out of your computer and plug it into your Wii U console.
