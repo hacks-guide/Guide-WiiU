@@ -4,7 +4,7 @@
 - [Exploit del Browser](browser-exploit)
 - [Fare un Backup della NAND](nand-backup)
 - [Installare il PayloadLoader](installing-payloadloader)
-- [Avvio automatico di Tiramisu](autobooting)
+- [Avvio automatico di Tiramisu](autoboot)
 - [Completamento del setup](finalizing-setup)
 - **Collegamenti**
 - [![GitHub](https://icongr.am/simple/github.svg?color=808080&size=16)GitHub](https://github.com/hacks-guide/Guide-WiiU)
