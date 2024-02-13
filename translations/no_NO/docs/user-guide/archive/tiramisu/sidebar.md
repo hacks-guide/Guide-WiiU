@@ -4,7 +4,7 @@
 - [Nettleser Exploit](browser-exploit)
 - [Lage en sikkerhetskopi av NAND](nand-backup)
 - [Installere PayloadLoader](installing-payloadloader)
-- [Autoboote Tiramisu](autobooting)
+- [Autoboote Tiramisu](autoboot)
 - [Fullføre installasjon](finalizing-setup)
 - **Lenker**
 - [![GitHub](https://icongr.am/simple/github.svg?color=808080&size=16)GitHub](https://github.com/hacks-guide/Guide-WiiU)
