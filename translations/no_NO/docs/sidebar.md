@@ -2,7 +2,7 @@
 - [Introduksjon](introduction)
 - [Aroma](aroma/getting-started)
 - **vWii**
-- [vWii Modifisering](vwii-modding)
+- [vWii Modifisering](vwii/sd-preparation)
 - **Feilsøking**
 - [Vanlige Feil & Løsninger](common-issues-fixes)
 - [Gjenopprett en vWii IOS/Channel](recover-vwii-ioses-channels)
