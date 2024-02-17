@@ -47,6 +47,8 @@ Ce guide a pour but final de faire passer une Wii U de "non modifiée" à "modif
 >     
 >     A 32GB SD Card will be enough for most use-cases. A Micro SD Card in an adapter will work fine.
 
+?> **If you have an existing legacy CFW setup** </br> For **CBHC** users: Go to the [Uninstall CBHC](../uninstall-cbhc) page to uninstall CBHC. </br> For **Haxchi** users: Uninstall the Haxchi app from Data Management in the System Settings app. </br> For **Mocha CFW (Indexiine)** users: Go to the [Uninstall Indexiine](../uninstall-indexiine) page to uninstall Indexiine. </br> For **Mocha CFW (Online Exploit)** users: You do not need to do anything before following this guide.
+
 Si tout se passe comme prévu, vous ne perdrez aucune donnée et finirez avec tout ce que vous aviez avant de commencer (jeux, NNID, les données de sauvegarde, etc seront conservés).
 
 Gardez votre console branchée tout au long du processus pour éviter une perte de données ou des dommages causés par une mise hors tension inattendue.
