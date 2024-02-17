@@ -47,6 +47,8 @@ Målet med denne guiden er å gå fra en umodifisert konsoll til å kjøre custo
 >     
 >     Ett 32gb SD-kort vil være godt nok for de aller fleste. Ett micro SD-kort i adapter er helt greit.
 
+?> **If you have an existing legacy CFW setup** </br> For **CBHC** users: Go to the [Uninstall CBHC](../uninstall-cbhc) page to uninstall CBHC. </br> For **Haxchi** users: Uninstall the Haxchi app from Data Management in the System Settings app. </br> For **Mocha CFW (Indexiine)** users: Go to the [Uninstall Indexiine](../uninstall-indexiine) page to uninstall Indexiine. </br> For **Mocha CFW (Online Exploit)** users: You do not need to do anything before following this guide.
+
 Hvis du følger guiden riktig, vil du fortsatt ha alt du startet med (spill, saves, NNID osv blir bevart).
 
 La Wii U konsollen og gamepad være tilkoblet til strøm under hele prosessen for å unngå datatap eller skade ved ett uventet strømbrudd.
