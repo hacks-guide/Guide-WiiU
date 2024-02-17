@@ -47,6 +47,8 @@ Homebrew 是由用户自制的且 Nintendo 没有授权的程序。 包括存档
 >     
 >     A 32GB SD Card will be enough for most use-cases. A Micro SD Card in an adapter will work fine.
 
+?> **If you have an existing legacy CFW setup** </br> For **CBHC** users: Go to the [Uninstall CBHC](../uninstall-cbhc) page to uninstall CBHC. </br> For **Haxchi** users: Uninstall the Haxchi app from Data Management in the System Settings app. </br> For **Mocha CFW (Indexiine)** users: Go to the [Uninstall Indexiine](../uninstall-indexiine) page to uninstall Indexiine. </br> For **Mocha CFW (Online Exploit)** users: You do not need to do anything before following this guide.
+
 按照本教程给的步骤进行破解不会丢失你的数据（游戏、NNID和存档等等都应会被保存）。
 
 在做步骤的时候请将你的主机接上充电器充电，以避免意外关机造成数据丢失或损坏。
