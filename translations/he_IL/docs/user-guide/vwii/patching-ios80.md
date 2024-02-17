@@ -4,7 +4,7 @@
 
 Patching IOS 80 allows you to have custom channels on the SD card, including wads. However, it is not required.
 
-!> If for any reason, the Wii U is turned off while patching IOS 80, your vWii will be bricked. This can be fixed by either extracting the IOS 80 from your previously made NAND backup and then replacing it over FTP or by [reinstalling IOS 80](recover-vwii-ioses-channels).
+!> If for any reason, the Wii U is turned off while patching IOS 80, your vWii will be bricked. This can be fixed by either extracting the IOS 80 from your previously made NAND backup and then replacing it over FTP or by [reinstalling IOS 80](../../recover-vwii-ioses-channels).
 
 1. Launch Patched IOS 80 Installer for vWii.
 2. Read the warning screen and wait 30 seconds.

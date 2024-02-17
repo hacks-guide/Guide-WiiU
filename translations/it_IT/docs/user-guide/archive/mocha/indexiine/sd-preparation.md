@@ -29,7 +29,7 @@ Ora inseriremo i file del CFW richiesti e alcuni altri file homebrew sulla sched
 ?> **Nota Bene** I file info.json e manifest.install non servono per la modifica e quindi possono essere eliminati.
 
 1. Inserisci la SD della tua Wii U nel PC.
-1. Copia i contenuti di `wup_installer_gx2.zip` nella root della tua scheda SD.
+1. Copia i contenuti di `wup_installer_gx2.zip` nella root della tua SD.
 1. Copia i contenuti del file `nanddumper.zip` nella root della tua SD.
 1. Copia i contenuti del file `wiiu-extracttosd.zip` nella root della tua SD.
 1. Copia i contenuti del file `homebrew_launcher.v.1.4.zip` nella root della tua SD.

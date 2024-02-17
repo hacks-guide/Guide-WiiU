@@ -1,6 +1,7 @@
 - **Poradnik użytkownika**
 - [Wprowadzanie](introduction)
-- [Tiramisu](tiramisu/sd-preparation)
+- [Aroma](aroma/getting-started)
+- **vWii**
 - [Modyfikacja vWii](vwii/sd-preparation)
 - **Rozwiązywanie problemów**
 - [Najczęstsze problemy & ich naprawa](common-issues-fixes)
@@ -15,7 +16,8 @@
 - [Uninstall Payloadloader](uninstall-payloadloader)
 - [Frequently Asked Questions](faq)
 - **Archiwum**
-- [Poprzednie metody](archive/cfw-choice)
+- [Tiramisu](archive/tiramisu/sd-preparation)
+- [Legacy Methods](archive/cfw-choice)
 - [Configurable Payload](configurable-payload)
 - **Linki**
 - [![GitHub](https://icongr.am/simple/github.svg?color=808080&size=16)GitHub](https://github.com/hacks-guide/Guide-WiiU)

@@ -2,6 +2,10 @@
 - [Hjemmesiden](../introduction)
 - [Kom i gang med Aroma](getting-started)
 - [Forberede SD-kortet](sd-preparation)
+- [Nettleser Exploit](browser-exploit)
+- [NAND Backup](nand-backup)
+- [Installere PayloadLoader](installing-payloadloader)
+- [Autobooting Aroma](autobooting)
 - [Fullføre installasjon](finalizing-setup)
 - **Lenker**
 - [![GitHub](https://icongr.am/simple/github.svg?color=808080&size=16)GitHub](https://github.com/hacks-guide/Guide-WiiU)

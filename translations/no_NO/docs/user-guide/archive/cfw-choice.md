@@ -3,7 +3,7 @@
 !> **METODENE BESKREVET PÅ DENNE SIDEN ER IKKE LENGER STØTTET**  
 **OPPDATERTE METODER ER TILGJENGELIG [HER](../introduction)**
 
-?> Før du starter, oppdater Wii U konsollen til siste firmware (5.5.5) hvis du ikke har gjort det enda.
+?> Before starting, make sure to update your Wii U console to the latest firmware (5.5.6 for North American consoles, 5.5.5 for all other regions) if you haven't already.
 
 Det er 2 hoved custom firmwares: Haxchi/Coldboot Haxchi (vanligst forkortet som "CBHC") og Mocha.
 
@@ -22,7 +22,7 @@ custom firmware versjonen du velger er ut fra **dine** preferanser. Det er ikke 
 
 ## CBHC
 
-!> Hvis du installerer CBHC feil, så kan den bricke Wii U'en din! Sørg for å følge reglene ved installasjon av CBHC: <br>- DS spillet må være legitimt installert fra eShop! <br>- Ikke formater konsollen mens CBHC er installert! <br>- Ikke slett bruker kontoen som kjøpte DS VC spillet! <br>- Ikke installer spillet på nytt ved bruk av WUP installer eller fra eShop! <br>- Ikke installer Haxchi over CBHC! (Ikke akkurat en brick, men vil sette konsollen i en boot-loop! Hold A når du starter konsollen for å få tilgang til Homebrew Launcher og avinstaller CBHC.) <br>- Ikke slett DS Virtual Console spillet uten å [slette CBHC på riktig måte først](uninstall-cbhc)! <br>- Ikke flytt DS VC spillet til en USB lagringsenhet!
+!> Hvis du installerer CBHC feil, så kan den bricke Wii U'en din! Sørg for å følge reglene ved installasjon av CBHC: <br>- DS spillet må være legitimt installert fra eShop! <br>- Ikke formater konsollen mens CBHC er installert! <br>- Ikke slett bruker kontoen som kjøpte DS VC spillet! <br>- Ikke installer spillet på nytt ved bruk av WUP installer eller fra eShop! <br>- Ikke installer Haxchi over CBHC! (Ikke akkurat en brick, men vil sette konsollen i en boot-loop! Hold A når du starter konsollen for å få tilgang til Homebrew Launcher og avinstaller CBHC.) <br>- Ikke slett DS Virtual Console spillet uten å [slette CBHC på riktig måte først](../uninstall-cbhc)! <br>- Ikke flytt DS VC spillet til en USB lagringsenhet!
 
 !> Bryter du 1 av reglene over, så **kan** Wii U'en bricke!
 

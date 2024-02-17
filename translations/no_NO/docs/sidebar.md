@@ -1,6 +1,7 @@
 - **Bruker Guide**
 - [Introduksjon](introduction)
-- [Tiramisu](tiramisu/sd-preparation)
+- [Aroma](aroma/getting-started)
+- **vWii**
 - [vWii Modifisering](vwii/sd-preparation)
 - **Feilsøking**
 - [Vanlige Feil & Løsninger](common-issues-fixes)
@@ -15,7 +16,8 @@
 - [Avinstallere PayloadLoader](uninstall-payloadloader)
 - [Ofte Stilte Spørsmål](faq)
 - **Arkiv**
-- [Utdaterte Metoder](archive/cfw-choice)
+- [Tiramisu](archive/tiramisu/sd-preparation)
+- [Legacy Methods](archive/cfw-choice)
 - [Konfigurerbar Payload](configurable-payload)
 - **Lenker**
 - [![GitHub](https://icongr.am/simple/github.svg?color=808080&size=16)GitHub](https://github.com/hacks-guide/Guide-WiiU)

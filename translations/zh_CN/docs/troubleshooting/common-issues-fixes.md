@@ -12,7 +12,6 @@
 
  - **FSGetMountSource failed：** 与上文的 -3 错误一样，意思就是没有检测到内存卡。 重新插一下 SD 卡，然后再试一次。 This could also mean that the SD card is locked (Slider is down instead of up) or the SD card label is "WIIU", which is stated in the guide causes conflict. If it's not any of these issues, refer to the last suggestion from -3.
 
-
  - **FSOpenFile failed [...] payload.elf：** SD 卡上缺少 payload 文件。 请确认在 wiiu 文件夹下是否有一个叫做 payload.elf 的文件。
 
  - **FSOpenFile failed：** SD 卡中缺失 `homebrew_launcher`。 请确认在 <code>/wiiu<wbr>/apps<wbr>/homebrew_launcher</code> 文件夹中有一个叫做 `homebrew_launcher.elf` 的文件。

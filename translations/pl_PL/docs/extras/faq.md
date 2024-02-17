@@ -15,7 +15,7 @@ Payload'y, o nazwie `payload.elf`, istnieją aby ułatwić ładowanie różnych 
 
 ### Czym są środowiska?
 
-Środowisko jest kolekcją "modułów konfiguracji", które będą uruchamiane w określonej kolejności podczas uruchamiania środowiska. Jednym z takich środowisk jest Tiramisu. Moduły konfiguracyjne są małymi częściami homebrew/kodu, które są wykonywane w celu utworzenia środowiska.
+Środowisko jest kolekcją "modułów konfiguracji", które będą uruchamiane w określonej kolejności podczas uruchamiania środowiska. Such environments are Aroma and Tiramisu. Moduły konfiguracyjne są małymi częściami homebrew/kodu, które są wykonywane w celu utworzenia środowiska.
 
 ### How to Delete Update Folder to Block Updates on Wii U
 

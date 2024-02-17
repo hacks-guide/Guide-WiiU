@@ -2,37 +2,35 @@
 ---
 Musisz to zrobić, jeśli kiedykolwiek będziesz potrzebował dokonać aktualizacji systemu.
 
-?> If you are running Tiramisu and have deleted the update folder, you need to disable both autobooting and recreate the update folder.
+?> If you are running Aroma and have deleted the update folder, you need to disable both autobooting and recreate the update folder.
 
 ### Instrukcje {docsify-ignore}
 
 <!-- tabs:start -->
 
-#### **Removing Tiramisu Autoboot**
+#### **Removing Aroma Autoboot**
 
-### Removing Tiramisu Autoboot
+### Removing Aroma Autoboot
 
 ?> When autobooting into the PayloadLoader, updates are automatically blocked. Follow the guide below to disable it.
 
-1. Uruchom konsolę trzymając wciśnięty X na Gamepad'zie.
-1. Przejdx do środowiska `installer` i uruchom je naciskając A.
+1. Launch the PayloadLoader Installer from the Wii U Menu.
 1. Naciśnij A, aby wybrać `Check`.
 1. Wybierz `Boot options`.
 1. Będziesz zapytany o to, czy chcesz zmienić aplikację/tutuł boot'owania. Naciśnij A wybierając `Switch back to Wii U Menu`.
 1. Po zakończeniu procesu, naciśnij A, aby zamknąć konsolę.
 1. Perform the System Update.
-1. Follow [this](../docs/user-guide/tiramisu/autoboot) to re-enable autobooting.
+1. Follow [this](../docs/user-guide/aroma/autoboot) to re-enable autobooting.
 
 #### **Recreating Update Folder**
 
 ### Recreating Update Folder
 
 1. Podłącz kartę SD do swojego komputera.
-1. Download and extract the contents of [UFDiine](https://github.com/GaryOderNichts/UFDiine/releases/tag/v1.1) to the root of your SD Card.
-1. Podłącz kartę SD do swojej konsoli Wii U i włącz ją.
-1. Wejdź do Homebrew Launcher.
-1. Znajdź aplikację UFDiine i uruchom ją.
-1. Press the A button to create the update folder.
+1. Download [UFDiine](https://github.com/GaryOderNichts/UFDiine/releases/) and copy the `UFDiine.wuhb` file to `sd:/wiiu/apps` on the root of your SD Card.
+1. Plug the SD Card into your Wii U console and boot Aroma.
+1. Navigate the Wii U Menu and run the UFDiine app.
+1. Naciśnij przycisk A, aby usunąć folder aktualizacji.
 1. Confirm that it says `Update folder exists`. You are no longer blocking updates.
 
 #### **Removing DNS Blocks**

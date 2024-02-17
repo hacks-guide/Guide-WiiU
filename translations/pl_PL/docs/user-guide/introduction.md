@@ -1,6 +1,6 @@
 # Poradnik Wii U Hacks
 ---
-Poradnik - jak przejść z fabrycznej wersji oprogramowania do Tiramisu - powstał dzięki Nintendo Homebrew's Helpers and Staff.
+A guide collaboration between Nintendo Homebrew's Helpers and Staff, from stock to Aroma custom firmware.
 
 ?> **Discord Help** For live support with this guide please visit us in **#wiiu-vwii-assistance** on the [Nintendo Homebrew Discord](https://discord.gg/C29hYvh) and ask, in English, for assistance. Przeczytaj **#faq-wiiu**, odwiedź też stronę [Najczęściej zadawane pytania](faq) wcześniej, aby sprawdzić, czy odpowiedź na Twoje pytanie nie została już udzielona wcześniej.
 
@@ -51,10 +51,10 @@ Jeśli wszystko pójdzie zgodnie z planem, nie stracisz żadnych danych i wszyst
 
 Trzymaj urządzenie podłączone do zasilania przez cały proces, aby uniknąć utraty danych wynikających z niespodziewanego wyłączenia.
 
-Po wykonaniu tego poradnika, CFW zostanie załadowany i włączony podczas uruchamiania, chyba że zdecydujesz się nie stosować się do sekcji Autobootowania Tiramisu.
+After following this guide, CFW will be loaded and enabled on boot, unless you choose to not follow the Autobooting Aroma section.
 
 Zaleca się przeczytanie całego poradnika od początku do końca jeden lub więcej razy, zanim rzeczywiście rozpoczniesz modyfikację systemu.
 
 ---
 
-### [Kontynuuj do Tiramisu](tiramisu/sd-preparation) {docsify-ignore}
+### [Continue to Aroma](aroma/getting-started) {docsify-ignore}

@@ -6,13 +6,15 @@ Questa pagina ti guiderà attraverso il processo di disinstallazione di PayloadL
 
 ### Cosa ti servirà {docsify-ignore}
 
-- Gli ultimi file da [Tiramisu per il tuo caffè](https://tiramisu.foryour.cafe).
-    - Click on `Download Tiramisu`.
+- The latest files from [Aroma for your café](https://aroma.foryour.cafe).
+    1. Scroll down to the **Download** section.
+    1. Read through the steps and click on the checkboxes.
+    1. Click on `Download Payloads` and `Download Base Aroma`.
+- The latest release of the [PayloadLoader Installer](https://github.com/wiiu-env/PayloadLoaderInstaller/releases).
 
 ### Annullare l'auto-avvio in PayloadLoader
 
-1. Avviare la console tenendo premuto X sul Gamepad.
-1. Vai all'ambiente `installer` e lancialo premendo A.
+1. Launch the PayloadLoader Installer from the Wii U Menu.
 1. Premi A per selezionare `Check`.
 1. Seleziona `Boot options`.
 1. Ti verrà chiesto se vuoi cambiare il titolo di avvio. Premi A per selezionare `Switch back to Wii U Menu`.
@@ -21,8 +23,8 @@ Questa pagina ti guiderà attraverso il processo di disinstallazione di PayloadL
 
 ### Disinstallare PayloadLoader
 
-1. Avvia l'applicazione Informazioni per la salute e la sicurezza tenendo premuto X sul Gamepad
-1. Vai all'ambiente `installer` e lancialo premendo A.
+1. Launch the Health & Safety Application and boot into Aroma.
+1. Launch the PayloadLoader Installer from the Wii U Menu.
 1. Premi A per selezionare `Check`.
 1. Select `Remove`.
 1. You will be asked if you really want to remove the PayloadLoader. Select `Remove` again.

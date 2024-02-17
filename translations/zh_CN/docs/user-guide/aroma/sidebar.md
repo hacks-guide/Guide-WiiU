@@ -2,6 +2,10 @@
 - [主页](../introduction)
 - [Getting Started with Aroma](getting-started)
 - [SD 卡准备](sd-preparation)
+- [浏览器漏洞](browser-exploit)
+- [NAND 备份](nand-backup)
+- [Installing PayloadLoader](installing-payloadloader)
+- [Autobooting Aroma](autobooting)
 - [Finalizing Setup](finalizing-setup)
 - **链接**
 - [![GitHub](https://icongr.am/simple/github.svg?color=808080&size=16)GitHub](https://github.com/hacks-guide/Guide-WiiU)

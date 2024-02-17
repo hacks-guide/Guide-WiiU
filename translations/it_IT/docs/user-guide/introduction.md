@@ -1,6 +1,6 @@
 # Wii U Hacks Guide
 ---
-Una guida in collaborazione tra gli Helper e lo Staff di Nintendo Homebrew da stock a Tiramisu Custom Firmware.
+A guide collaboration between Nintendo Homebrew's Helpers and Staff, from stock to Aroma custom firmware.
 
 ?> **Discord Help** For live support with this guide please visit us in **#wiiu-vwii-assistance** on the [Nintendo Homebrew Discord](https://discord.gg/C29hYvh) and ask, in English, for assistance. Per favore leggi **#faq-wiiu**, così come la pagina [Frequently Asked Questions](faq) per vedere se la tua domanda è già stata risposta.
 
@@ -51,10 +51,10 @@ Se tutto va secondo i piani, non perderai nessun dato e rimarrai con tutto quell
 
 Mantieni il dispositivo collegato durante tutto il processo per evitare la perdita di dati o danni da uno spegnimento imprevisto.
 
-Dopo aver seguito questa guida, CFW sarà eseguito e abilitato all'avvio, a meno che tu scelga di non seguire la sezione Avvio automatico di Tiramisu.
+After following this guide, CFW will be loaded and enabled on boot, unless you choose to not follow the Autobooting Aroma section.
 
 È consigliato che tu legga l'intera guida dall'inizio alla fine una o più volte prima di fare qualsiasi cosa con il tuo sistema.
 
 ---
 
-### [Continua a Tiramisu](tiramisu/sd-preparation) {docsify-ignore}
+### [Continue to Aroma](aroma/getting-started) {docsify-ignore}
