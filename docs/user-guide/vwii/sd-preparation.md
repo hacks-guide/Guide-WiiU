@@ -17,6 +17,7 @@ We will now start by placing the required Homebrew files on the SD Card.
 
 - The latest files from [Aroma for your café](https://aroma.foryour.cafe).
     - Click on `Download Payloads`and `Download Base Aroma`.
+    - Read through the steps and click on the checkboxes.
     - If you have already installed Aroma, you do not need to redownload it.
 - The latest release of the [Compat Title Installer](https://hb-app.store/wiiu/CompatTitleInstaller).
 - The [Patched IOS 80 Installer for vWii.](https://wiiu.hacks.guide/docs/files/Patched_IOS80_Installer_for_vWii.zip) ([Source](https://github.com/Lazr1026/Patched-IOS80-Installer-for-vWii))
