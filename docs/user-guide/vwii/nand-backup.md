@@ -2,7 +2,7 @@
 
 ## NAND Backup
 
-In case anything goes wrong in the later process and your vWii ends up bricked, restoring a previously made NAND backup can fix it.
+In case anything goes wrong in the later process and your vWii ends up bricked, restoring a previously made NAND backup can fix it, or you can completely [reinstall the vWii](http://wiiu.hacks.guide/#/recover-vwii-ioses-channels).
 
 ?> If you have recently made a NAND backup that includes SLCCMPT and OTP, feel free to skip this step.
 
