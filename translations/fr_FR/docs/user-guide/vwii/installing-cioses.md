@@ -2,8 +2,6 @@
 
 ## Installation des cIOS
 
-!> Make sure you have no `.wad` files anywhere else than in the `apps` folder on your SD Card.
-
 1. Allumez votre Wii U et lancez la vWii.
 2. Lancez The Homebrew Channel.
 3. Lancez d2x cIOS Installer.
