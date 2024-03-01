@@ -1,7 +1,6 @@
 - **User Guide**
 - [Introduction](introduction)
 - [Aroma](aroma/getting-started)
-- **vWii**
 - [vWii Modding](vwii/sd-preparation)
 - **Troubleshooting**
 - [Common Issues & Fixes](common-issues-fixes)
