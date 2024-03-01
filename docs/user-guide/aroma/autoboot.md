@@ -17,11 +17,8 @@ If you don't want to autoobot Aroma, you can skip this step and follow the steps
 1. When the process has finished, press A to shutdown the console.
 1. The PayloadLoader will now be launched automatically on every boot.
 
-
-Now, we are going to make the Aroma environment start automatically when your console loads the Health and Safety Information app and select Wii U Menu as the default boot option.
-
 ### Setting up PayloadLoader, Environment Loader and Aroma
-
+Now, we are going to make the Aroma environment start automatically when your console loads the Health and Safety Information app and select Wii U Menu as the default boot option.
 1. Launch the EnvironmentLoader.
     - If you are autobooting the PayloadLoader, simply turn on your Wii U.
     - If you skipped the autobooting steps, launch the Health and Safety Information app.
