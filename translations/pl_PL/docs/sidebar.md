@@ -1,7 +1,6 @@
 - **Poradnik użytkownika**
 - [Wprowadzanie](introduction)
 - [Aroma](aroma/getting-started)
-- **vWii**
 - [Modyfikacja vWii](vwii/sd-preparation)
 - **Rozwiązywanie problemów**
 - [Najczęstsze problemy & ich naprawa](common-issues-fixes)
