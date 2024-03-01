@@ -20,8 +20,8 @@ We will now start by placing the required Homebrew files on the SD Card.
     - Read through the steps and click on the checkboxes.
     - If you have already installed Aroma, you do not need to redownload it.
 - The latest release of the [Compat Title Installer](https://hb-app.store/wiiu/CompatTitleInstaller).
-- The [Patched IOS 80 Installer for vWii.](https://wiiu.hacks.guide/docs/files/Patched_IOS80_Installer_for_vWii.zip) ([Source](https://github.com/Lazr1026/Patched-IOS80-Installer-for-vWii))
-- The [d2x_cIOS_Installer.zip](https://wiiu.hacks.guide/docs/files/d2x_cIOS_Installer.zip).
+- The <a href="docs/files/Patched_IOS80_Installer_for_vWii.zip" download>Patched IOS 80 Installer for vWii</a>. ([Source](https://github.com/Lazr1026/Patched-IOS80-Installer-for-vWii))
+- The <a href ="docs/files/d2x_cIOS_Installer.zip" download>d2x cIOS Installer</a>.
 
 ## Instructions
 
