@@ -3,8 +3,8 @@
 ## Autobooting Aroma
 
 Currently, every time you want to launch Aroma you will have to launch the Health and Safety information app. If you wish to automatically launch into Aroma on every boot, you can autoboot the Health and Safety Information app.
-If you don't want to autoobot Aroma, you can skip this step and follow the steps below Instructions.  
 
+If you don't want to autoobot Aroma, you can skip this step and follow the Setting Up PayloadLoader section below.
 ### Instructions
 
 1. Start the console to boot into the Wii U Menu, launch the Health and Safety Information app.
