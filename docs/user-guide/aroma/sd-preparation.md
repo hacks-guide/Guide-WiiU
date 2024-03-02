@@ -22,7 +22,9 @@ We will now place the required Aroma files on the SD Card.
 1. **Extract** and copy the `wiiu` folder of the three newly downloaded *`.zip`* files to the root of your SD Card.
     - The three `wiiu` folders should be merged if not done automatically.
 
-?> If your computer asks you to overwrite existing files on your SD Card, you will need to click yes.
+?> If your computer asks you to overwrite existing files on your SD Card, you will need to click yes. 
+
+?> If you're on a Mac machine, select `Merge` instead of replace. If the merge option does not show immediately, press and hold the `Option` key while moving files to the root.
 
 ----------
 
