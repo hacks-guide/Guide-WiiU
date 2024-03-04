@@ -15,6 +15,7 @@ Installing the PayloadLoader will let you access Aroma just by running the Healt
 1. Take the SD Card out of your PC and plug it into your Wii U.
 1. Execute the web browser exploit as [previously explained](browser-exploit) but this time, you will need to hold the X button to open the Environment Loader menu.
 1. Press A to launch the `aroma` environment.
+    - You will get a warning message about the update folder existing. This is normal. Press A to continue.
 1. Press A to launch the Wii U Menu.
 1. At the Wii U Menu, look for the newly appeared `PayloadLoader Installer` title (the round circle with an A inside of it) and launch it.
 1. Press the A button to check if you can install the PayloadLoader.
