@@ -4,19 +4,6 @@
 
 Now that PayloadLoader, Environment Loader and Aroma are installed, we are going to finalize the setup.
 
-We are going to make the Aroma environment start automatically when your console autoboots the Health and Safety Information app (or when manually launching it if you chose not to autoboot it) and select Wii U Menu as default as well as getting additional homebrew apps. Please note that the following steps assumes you are autobooting the Health and Safety Information app.
-
-### Setting up PayloadLoader, Environment Loader and Aroma
-
-1. Launch the EnvironmentLoader.
-    - If you are autobooting the PayloadLoader, simply turn on your Wii U.
-    - If you skipped the autobooting steps, launch the Health and Safety Information app.
-1. Using the D-Pad, navigate to `aroma` and press Y to set this to your default environment, then press A to launch into Aroma.
-    - Det kan hende du får ett rødt advarselvindu som forteller deg at oppdateringer ikke er blokkert ordentlig. Trykk likevel A for å fortsette. Vi går gjennom hvordan man blokkerer oppdateringer i "Blokkere Systemoppdateringer" delen nedenfor.
-    - To open the Environment Loader in the future, you have to hold X while your Wii U is booting or loading the Health and Safety Information app.
-1. On the Aroma Boot Selector, the `Wii U Menu` should already be selected, press Y to set this to your default autobooting option, then press A to launch into the Wii U Menu.
-    - To open the Aroma Boot Selector in the future, you have hold START (+) while the console is booting or loading the Health and Safety Information app.
-
 ### Blokkere Systemoppdateringer
 While Aroma's PayloadLoader already has built-in update blocking functionality, it is recommended to delete the update folder to effectively block system updates. Hvis du får ett rødt advarselvindu mens du starter opp i Tiramisu, så betyr det at update mappen fortsatt er i systemet og det er anbefalt å slette den med [denne guiden](../block-updates).
 
