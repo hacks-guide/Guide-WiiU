@@ -23,5 +23,3 @@ Installing the PayloadLoader will let you access Aroma just by running the Healt
 1. Press the A button to select `Install / Update`.
 1. You'll be asked if you are sure you want to install the PayloadLoader. Use the D-Pad to select `Install` and press A.
 1. After installing has finished, press A to shut down the console.
-
-!> If you do not wish to autoboot Aroma on your console, you can skip the `Autobooting Aroma` part and head directly to [Finalizing Setup](finalizing-setup).
