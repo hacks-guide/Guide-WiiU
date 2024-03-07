@@ -23,6 +23,8 @@ Vi starter med å plassere Aroma filene du trenger på SD-kortet ditt.
 
 ?> Hvis pc'en din spør deg om å erstatte eksisterende filer på SD-kortet, skal du trykke ja.
 
+?> If you're on a Mac machine, select `Merge` instead of replace. If the merge option does not show immediately, press and hold the `Option` key while moving files to the root.
+
 ----------
 
 ### SD-kort oppsett {docsify-ignore}
