@@ -15,7 +15,7 @@ We will now place the required Aroma files on the SD Card.
 
 ### Instructions
 
-1. On the aroma site, scroll down to the **Download** section.
+1. On the Aroma site, scroll down to the **Download** section.
 1. Read through the steps and click on the checkboxes.
 1. Click on `Download Payloads` and `Download Base Aroma`.
 1. Insert your Wii U's SD Card into your PC.
