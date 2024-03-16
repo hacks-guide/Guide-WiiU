@@ -13,7 +13,7 @@ Your SD Card will need to be formatted as FAT32. If your SD Card is not formatte
 
 ?> If you have hacked your Wii U in the past, you can use the same SD Card for this process.
 
-?> Unlike Wii U homebrew, vWii apps go in a separate apps folder on the root. Compat Installer is the **only** Wii U app here.
+?> Unlike Wii U homebrew, vWii apps go in a separate `apps` folder on the root. Compat Installer is the **only** Wii U app here.
 
 ### Cosa ti servirà
 
@@ -21,7 +21,7 @@ Your SD Card will need to be formatted as FAT32. If your SD Card is not formatte
   - Click on `Download Payloads`and `Download Base Aroma`.
   - Read through the steps and click on the checkboxes.
   - If you have already installed Aroma, you do not need to redownload it.
-- The latest release of the [Compat Title Installer](https://hb-app.store/wiiu/CompatTitleInstaller).
+- The latest release of the [Compat Title Installer](https://hbas-frontend.b-cdn.net/wiiu/CompatTitleInstaller).
 - The <a href="docs/files/Patched_IOS80_Installer_for_vWii.zip" download>Patched IOS 80 Installer for vWii</a>. ([Source](https://github.com/Lazr1026/Patched-IOS80-Installer-for-vWii))
 - The <a href ="docs/files/d2x_cIOS_Installer.zip" download>d2x cIOS Installer</a>.
 
