@@ -9,14 +9,13 @@ Vi starter med å plassere Aroma filene du trenger på SD-kortet ditt.
 
 ### Dette trenger du
 
-- The latest files from the [Aroma download page](https://aroma.foryour.cafe).
-    1. Scroll down to the **Download** section.
-    1. Read through the steps and click on the checkboxes.
-    1. Click on `Download Payloads` and `Download Base Aroma`.
 - The latest release of the [PayloadLoader Installer](https://github.com/wiiu-env/PayloadLoaderInstaller/releases).
 
 ### Instruksjoner
 
+1. On the [Aroma](https://aroma.foryour.cafe) site, scroll down to the **Download** section.
+1. Read through the steps and click on the checkboxes.
+1. Click on `Download Payloads` and `Download Base Aroma`.
 1. Sett SD-kortet ditt i PC'en din.
 1. **Extract** and copy the `wiiu` folder of the three newly downloaded *`.zip`* files to the root of your SD Card.
     - The three `wiiu` folders should be merged if not done automatically.
