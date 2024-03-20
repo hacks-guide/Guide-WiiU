@@ -16,7 +16,7 @@ We will now start by placing the required Homebrew files on the SD Card.
 ### What You Need
 
 - The latest files from [Aroma for your café](https://aroma.foryour.cafe).
-    - Click on `Download Payloads`and `Download Base Aroma`.
+    - Click on `Download Payloads` and `Download Base Aroma`.
     - Read through the steps and click on the checkboxes.
     - If you have already installed Aroma, you do not need to redownload it.
 - The latest release of the [Compat Title Installer](https://hbas-frontend.b-cdn.net/wiiu/CompatTitleInstaller).
