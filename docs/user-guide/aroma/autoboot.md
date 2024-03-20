@@ -7,7 +7,7 @@ Currently, every time you want to launch Aroma you will have to launch the Healt
 If you don't want to autoboot Aroma, you can skip this step and follow the Setting Up PayloadLoader section below.
 ### Instructions
 
-1. Start the console to boot into the Wii U Menu, and launch the Health and Safety Information app.
+1. Start the console to boot into the Wii U Menu, and then launch the Health and Safety Information app.
 1. Press A to launch the `aroma` environment.
 1. Press A to launch the Wii U Menu.
 1. Once you are at the Wii U Menu, launch the PayloadLoader Installer.
