@@ -12,6 +12,6 @@ Patching IOS 80 allows you to have custom channels on the SD card, including wad
 1. Wait until it says <code>IOS80 <wbr>Installation <wbr>is <wbr>complete!</code>.
 1. Press any button to exit.
 
-!> Installing custom System Menu is a definite brick risk and you should always have an effective backup before installing one but when done right, won't brick the vWii.
+!> Installing a custom System Menu is a definite brick risk and you should always have an effective backup before installing one but when done right, won't brick the vWii.
 
 !> Installing any IOS (including TED IOSes) or wads made for the original Wii on your vWii will brick it. WiiWare wads are fine, but some need to be converted to work.
