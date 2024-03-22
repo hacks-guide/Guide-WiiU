@@ -18,7 +18,7 @@ Your SD Card will need to be formatted as FAT32. If your SD Card is not formatte
 ### Czego potrzebujesz
 
 - The latest files from [Aroma for your café](https://aroma.foryour.cafe).
-  - Click on `Download Payloads`and `Download Base Aroma`.
+  - Click on `Download Payloads` and `Download Base Aroma`.
   - Read through the steps and click on the checkboxes.
   - If you have already installed Aroma, you do not need to redownload it.
 - The latest release of the [Compat Title Installer](https://hbas-frontend.b-cdn.net/wiiu/CompatTitleInstaller).
