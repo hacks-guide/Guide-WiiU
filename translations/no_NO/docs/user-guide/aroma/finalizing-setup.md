@@ -35,8 +35,9 @@ While Aroma's PayloadLoader already has built-in update blocking functionality, 
 | [Screenshot Plugin](https://github.com/wiiu-env/ScreenshotWUPS/) ([Download](https://github.com/wiiu-env/ScreenshotWUPS/releases)) | Lar deg ta skjermbilder og lagre dem direkte i SD-kortet.                 | 1. Pakk ut `screenshot_plugin_vX_X.zip`. <br> 2. Kopier `screenshot.wps` til `wiiu/environments/aroma/plugins` mappen til roten av SD-kortet.                                                            |
 
 ### Booting Tiramisu
+Tiramisu is now archived, and was succeeded by Aroma and considered outdated. No more Homebrew will be developed for it, and services like Pretendo have ended support for it.
 
-If you find the need to boot into Tiramisu, for example, to use a legacy Homebrew app, do the following:
+However, if you find the need to boot into Tiramisu, for example, to use a legacy Homebrew app, do the following:
 
 1. Download the latest files from [Tiramisu for your café](https://tiramisu.foryour.cafe).
 1. Kopier `wiiu` mappen til roten av SD-kortet.
