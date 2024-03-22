@@ -11,7 +11,7 @@ Hver gang du vil kjøre Tiramisu så må du starte Health and Safety Information
 1. Trykk A for å velge `Check`.
 1. Velg `Boot options`.
 1. Du vil bli spurt om du vil bytte boot title. Trykk A for å velge `Switch to PayloadLoader`.
-1. Når prosessen er ferdig, trykk A for å slå av konsollen.
+1. When the process is finished, press A to shutdown the console.
 1. PayloadLoader vil nå kjøre automatisk når konsollen starter.
     - For å endre "default boot title" hold Start (+) på Gamepaden mens konsollen slår seg på. Du kan ikke bytte boot title før du har satt en default environment først.
     - Naviger lista ved å bruke D-Paden og velg hvilken tittel du vil autoboote inn i, så trykker du Y knappen for å sette det til autoboot tittel.

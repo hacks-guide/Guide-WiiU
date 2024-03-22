@@ -14,7 +14,7 @@ Vi skal gjøre så Tiramisu environmentet starter automatisk når konsollen auto
     - Det kan hende du får ett rødt advarselvindu som forteller deg at oppdateringer ikke er blokkert ordentlig. Trykk likevel A for å fortsette. Vi går gjennom hvordan man blokkerer oppdateringer i "Blokkere Systemoppdateringer" delen nedenfor.
     - For å åpne Environment Loader i fremtiden, må du holde X mens Wii U konsollen slår seg på.
 1. På Tiramisu Boot Selector, `Wii U Menu` burde allerede være valgt, trykk Y for å sette det til default autobooting option, så trykker du A for å komme inn i Wii U Menu.
-    - For å åpne Tiramisu Boot Selector i fremtiden, må du holde START (+) mens Wii U konsollen slår seg på.
+    - To open the Tiramisu Boot Selector in the future, you have to hold START (+) while your Wii U is booting up.
 
 ?> Når du har kommet inn i Tiramisu environment, kan du åpne Mii Maker appen når som helst for å komme inn i Homebrew Launcher. <br>Homebrew Launcher vil være tom for førstegangs oppsett. Følg resten av guiden for å installere apper i Homebrew Launcher. <br>For å gå tilbake til Mii Maker, trykk HOME knappen mens du er i Homebrew Launcher.
 

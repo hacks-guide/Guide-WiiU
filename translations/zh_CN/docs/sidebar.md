@@ -1,7 +1,6 @@
 - **用户手册**
 - [介绍](introduction)
 - [Aroma](aroma/getting-started)
-- **vWii**
 - [vWii 修改](vwii/sd-preparation)
 - **故障排查**
 - [常见问题 & 修复](common-issues-fixes)

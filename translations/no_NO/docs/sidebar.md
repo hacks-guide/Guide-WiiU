@@ -1,7 +1,6 @@
 - **Bruker Guide**
 - [Introduksjon](introduction)
 - [Aroma](aroma/getting-started)
-- **vWii**
 - [vWii Modifisering](vwii/sd-preparation)
 - **Feilsøking**
 - [Vanlige Feil & Løsninger](common-issues-fixes)

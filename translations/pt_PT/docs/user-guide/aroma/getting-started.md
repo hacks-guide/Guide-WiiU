@@ -15,7 +15,7 @@ For a detailed overview check out [this blogpost](https://maschell.github.io/hom
 #### Modules
 
 Aroma supports modules, which unlike setup modules, always run in the background.  
-This allows further extending the functionality of the console.
+This allows for further extending the functionality of the console.
 
 #### Plugins
 

@@ -18,7 +18,7 @@ Hvis noe går galt senere i prosessen og Wii U konsollen "bricker", vil gjenoppr
     - Dump OTP: **yes**
     - Dump SEEPROM: **yes**
 1. Trykk på A knappen for å starte dumpingprosessen.
-1. Når prosessen er fullført, skru av Wii U konsollen, ta ut SD-kortet og sett den inn i PC-en din.
+1. When the process is completed, power off your Wii U, take your SD Card out of the Wii U and plug it into your PC.
 1. Filene vil vises på roten av SD-kortet.
 1. For å forsikre deg om at du ikke mister filene, kopier `slc.bin`, `slccmpt.bin`, `seeprom.bin`, `otp. ` (og hvis du valgte å gå for full sikkerhetskopi, `hver mlc.bin.part`) til PC'en din.
 1. Slett filene fra SD-kortet for å frigjøre plass.
