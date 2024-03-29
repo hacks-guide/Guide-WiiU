@@ -34,8 +34,13 @@ While Aroma's PayloadLoader already has built-in update blocking functionality, 
 | [Bloopair](https://github.com/GaryOderNichts/Bloopair/) ([Download](https://github.com/GaryOderNichts/Bloopair/releases))          | Lar deg bruke mesteparten av populære Bluetooth kontrollere på konsollen. | 1. Pakk ut `Bloopair_vX.X.X.zip`. <br> 2. Kopier `30_bloopair.rpx` til `wiiu/environments/aroma/modules/setup/` mappen på roten av SD-kortet. <br> 3. Kopier `wiiu` mappen til roten av SD-kortet. |
 | [Screenshot Plugin](https://github.com/wiiu-env/ScreenshotWUPS/) ([Download](https://github.com/wiiu-env/ScreenshotWUPS/releases)) | Lar deg ta skjermbilder og lagre dem direkte i SD-kortet.                 | 1. Pakk ut `screenshot_plugin_vX_X.zip`. <br> 2. Kopier `screenshot.wps` til `wiiu/environments/aroma/plugins` mappen til roten av SD-kortet.                                                            |
 
-### Booting Tiramisu
-Tiramisu is now archived, and was succeeded by Aroma and considered outdated. No more Homebrew will be developed for it, and services like Pretendo have ended support for it.
+### Pretendo Network
+
+Pretendo is a replacement service for the Nintendo Network, which brings back online services as they are set to be discontinued. It also revives the Miiverse service, via juxtaposition. The official guide can be found [here](https://pretendo.network/docs/install/wiiu).
+
+### Booting Tiramisu (optional)
+
+?> Tiramisu is now archived, and was succeeded by Aroma and considered outdated. No more Homebrew will be developed for it, and services like Pretendo have ended support for it.
 
 However, if you find the need to boot into Tiramisu, for example, to use a legacy Homebrew app, do the following:
 
@@ -45,6 +50,7 @@ However, if you find the need to boot into Tiramisu, for example, to use a legac
 1. Ta SD-kortet ut av PC'en og sett den inn i Wii U konsollen.
 1. Start EnvironmentLoader.
     - If you're autobooting into it, this can be done by powering on your console and holding X.
+    - You do not need to reinstall the PayloadLoader if you already did so with Aroma.
 1. Highlight `tiramisu` ved å bruke D-Padden.
 1. Launch Tiramisu by pressing A.
 1. Launch the Wii U Menu by pressing A.
