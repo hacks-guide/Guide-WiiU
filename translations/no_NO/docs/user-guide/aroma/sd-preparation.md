@@ -7,15 +7,12 @@ Vi starter med å plassere Aroma filene du trenger på SD-kortet ditt.
 ?> **Merk** SD-kortet ditt må formateres til FAT32. Hvis den ikke er formatert til FAT32, bør du bruke [GUIFormat](http://ridgecrop.co.uk/index.htm?guiformat.htm) med 32k (32768) "allocation unit size" for å formatere den.  
 **Ikke** bytt navn på SD-kortet til `wiiu` for da vil ikke homebrew fungere.
 
-### Dette trenger du
-
-- The latest release of the [PayloadLoader Installer](https://github.com/wiiu-env/PayloadLoaderInstaller/releases).
-
 ### Instruksjoner
 
 1. On the [Aroma](https://aroma.foryour.cafe) site, scroll down to the **Download** section.
 1. Read through the steps and click on the checkboxes.
 1. Click on `Download Payloads` and `Download Base Aroma`.
+1. Download the [PayloadLoader Installer](https://github.com/wiiu-env/PayloadLoaderInstaller/releases/download/v0.1/PayloadLoaderInstaller_20220905-105329.zip)
 1. Sett SD-kortet ditt i PC'en din.
 1. **Extract** and copy the `wiiu` folder of the three newly downloaded *`.zip`* files to the root of your SD Card.
     - The three `wiiu` folders should be merged if not done automatically.
