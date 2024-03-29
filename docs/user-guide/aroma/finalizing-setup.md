@@ -39,7 +39,7 @@ If you get a red warning screen while booting into Tiramisu, the update folder s
 
 Pretendo is a replacement service for the Nintendo Network, which brings back online services as they are set to be discontinued. It also revives the Miiverse service, via juxtaposition. The official guide can be found [here](https://pretendo.network/docs/install/wiiu).
 
-### Booting Tiramisu(optional)
+### Booting Tiramisu (optional)
 
 ?> Tiramisu is now archived, and was succeeded by Aroma and considered outdated. No more Homebrew will be developed for it, and services like Pretendo have ended support for it.
 
