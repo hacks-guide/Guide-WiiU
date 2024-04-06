@@ -6,7 +6,7 @@ Now that PayloadLoader, Environment Loader and Aroma are installed, we are going
 
 ### Blocking Updates
 While Aroma's PayloadLoader already has built-in update blocking functionality, it is recommended to delete the update folder to effectively block system updates.
-If you get a red warning screen while booting into Tiramisu, the update folder still exists and it is recommended to delete it using [this guide](../block-updates).
+If you get a red warning screen while booting into Aroma, the update folder still exists and it is recommended to delete it using [this guide](../block-updates).
 
 ### Additional Homebrew Apps
 
