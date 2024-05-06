@@ -32,7 +32,8 @@ We will now place the required Aroma files on the SD Card.
 💾sd:
  ┗ 📂wiiu
    ┣ 📂apps
-   ┃ ┣ 📜AromaUpdater.wuhb
+   ┃ ┣ 📂AromaUpdater
+   ┃ ┃ ┗📜AromaUpdater.wuhb
    ┃ ┣ 📜PayloadLoaderInstaller.wuhb
    ┃ ┗ (All other apps should be here too)
    ┣ 📂environments
