@@ -12,4 +12,4 @@ Currently, one way exists to effectively block updates on the Wii U system:
 1. Make sure you have the latest Aroma beta.
 1. Boot into Aroma.
     - If you got the yellow warning screen, press X to block updates.
-    - If you don't but the AutobootMenu says "Updates not blocked", press and hold + (PLUS) **and** - (MINUS) at the same time until it says they are blocked.
+    - If you don't but the AutobootMenu says "Updates not blocked", press and hold + (Plus) **and** - (Minus) at the same time until it says they are blocked.
