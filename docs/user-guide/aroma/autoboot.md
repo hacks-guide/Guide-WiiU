@@ -23,7 +23,6 @@ Now, we are going to make the Aroma environment start automatically when your co
     - If you are autobooting the PayloadLoader, simply turn on your Wii U.
     - If you skipped the autobooting steps, launch the Health and Safety Information app.
 1. Using the D-Pad, navigate to `aroma` and press Y to set this to your default environment, then press A to launch into Aroma.
-    - You might get a red warning screen telling you that updates aren't blocked properly. Press A to continue anyway. We're going to block updates in the "Blocking Updates" section below.
     - To open the Environment Loader in the future, you have to hold X while your Wii U is booting or loading the Health and Safety Information app.
 
 1. On the Aroma Boot Selector, the `Wii U Menu` should already be selected, press Y to set this to your default autobooting option, then press A to launch into the Wii U Menu.
