@@ -17,7 +17,7 @@ Installing the PayloadLoader will let you access Aroma just by running the Healt
 1. Press A to launch the `aroma` environment.
     - You will get a warning message about the update folder existing. This is normal. Press X to block updates.
 1. Press A to launch the Wii U Menu.
-1. At the Wii U Menu, look for the newly appeared `PayloadLoader Installer` title (the round circle with an A inside of it) and launch it.
+1. At the Wii U Menu, look for the newly appeared `PayloadLoader Installer` title (the rocket coming out of a box) and launch it.
 1. Press the A button to check if you can install the PayloadLoader.
     - It should now tell you that the PayloadLoader can be installed onto the Health and Safety Information app.
 1. Press the A button to select `Install / Update`.
