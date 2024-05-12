@@ -2,7 +2,7 @@
 ---
 Zrzucanie zawartości płyt z grami pozwala na: granie na emulatorze Wii (mianowicie Dolphin), odtwarzanie ich przy użyciu aplikacji Homebrew dla Wii takich jak np. Wiiflow, instalowanie ich bezpośrednio na Wii U na sformatowanym dysku USB Wii U lub w pamięci NAND i uruchomione z menu Wii U.
 
-?> Dumping Wii games requires a working homebrew setup on vWii, so make sure to finish the [vWii Modding guide](vwii-modding) beforehand.
+?> Dumping Wii games requires a working homebrew setup on vWii, so make sure to finish the [vWii Modding guide](vwii/sd-preparation) beforehand.
 
 !> **NIELEGALNE** jest udostępnianie plików zrzuconych za pomocą tego poradnika.  
 Jeśli zamierzasz użyć tego poradnika do dzielenia się twoimi zrzuconymi grami, nie rób tego.
