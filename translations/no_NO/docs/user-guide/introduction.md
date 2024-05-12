@@ -1,8 +1,8 @@
 # Wii U Hacks Guide
 ---
-A guide collaboration between Nintendo Homebrew's Helpers and Staff, from stock to Aroma custom firmware.
+En guide i samarbeid med Nintendo Homebrew's Helpers og Staff, fra urørt konsoll til Aroma Custom Firmware.
 
-?> **Discord Help** For live support with this guide please visit us in **#wiiu-vwii-assistance** on the [Nintendo Homebrew Discord](https://discord.gg/C29hYvh) and ask, in English, for assistance. Les **#faq-wiiu**, og [Ofte Stilte Spørsmål](faq) for å se om spørsmålet ditt allerede har blitt besvart.
+?> **Discord Help** For direkte støtte med denne guiden, kan du snakke oss i **#wiiu-vwii-assistance** på [Nintendo Homebrew Discord](https://discord.gg/C29hYvh) kanalen og spørre om hjelp på engelsk. Les **#faq-wiiu**, og [Ofte Stilte Spørsmål](faq) for å se om spørsmålet ditt allerede har blitt besvart.
 
 > Hvis du setter pris på denne guiden, godtar vi [donasjoner](donations).
 
@@ -47,16 +47,16 @@ Målet med denne guiden er å gå fra en umodifisert konsoll til å kjøre custo
 >     
 >     Ett 32gb SD-kort vil være godt nok for de aller fleste. Ett micro SD-kort i adapter er helt greit.
 
-?> **If you have an existing legacy CFW setup** </br> For **CBHC** users: Go to the [Uninstall CBHC](../uninstall-cbhc) page to uninstall CBHC. </br> For **Haxchi** users: Uninstall the Haxchi app from Data Management in the System Settings app. </br> For **Mocha CFW (Indexiine)** users: Go to the [Uninstall Indexiine](../uninstall-indexiine) page to uninstall Indexiine. </br> For **Mocha CFW (Online Exploit)** users: You do not need to do anything before following this guide.
+?> **Hvis du allerede har en eldre CFW satt opp** </br> For **CBHC** brukere: gå til [Uninstall CBHC](../uninstall-cbhc) siden og avinstaller CBHC. </br> For **Haxchi** brukere: avinstaller Haxchi appen fra Data Management i System Settings. </br> For **Mocha CFW (Indexiine)** brukere: gå til [Uninstall Indexiine](../uninstall-indexiine) siden for å avinstallere Indexiine. </br> For **Mocha CFW (Online Exploit)** brukere: du trenger ikke gjøre noenting for å følge denne guiden.
 
 Hvis du følger guiden riktig, vil du fortsatt ha alt du startet med (spill, saves, NNID osv blir bevart).
 
 La Wii U konsollen og gamepad være tilkoblet til strøm under hele prosessen for å unngå datatap eller skade ved ett uventet strømbrudd.
 
-After following this guide, CFW will be loaded and enabled on boot, unless you choose to not follow the Autobooting Aroma section.
+Etter å ha fulgt denne guiden, CFW vil kjøre og være aktivt når konsollen slår seg på, med mindre du velger å ikke følge Autobooting Aroma delen av guiden.
 
 Det anbefales at du leser igjennom hele guiden fra start til slutt, minst én gang før du setter igang med å modifiserere konsollen din.
 
 ---
 
-### [Continue to Aroma](aroma/getting-started) {docsify-ignore}
+### [Fortsett til Aroma](aroma/getting-started) {docsify-ignore}
