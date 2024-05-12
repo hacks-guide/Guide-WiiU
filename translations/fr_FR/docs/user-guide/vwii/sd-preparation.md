@@ -1,6 +1,6 @@
 # vWii Modding Guide {docsify-ignore-all}
 
-***
+---&#x20;
 
 ## SD Preparations
 
