@@ -26,12 +26,9 @@
 
 ### Recreating Update Folder
 
-1. 将 SD 卡插入电脑。
-1. Download [UFDiine](https://github.com/GaryOderNichts/UFDiine/releases/) and copy the `UFDiine.wuhb` file to `sd:/wiiu/apps` on the root of your SD Card.
-1. Plug the SD Card into your Wii U console and boot Aroma.
-1. Navigate the Wii U Menu and run the UFDiine app.
-1. 按下 A 键删除更新文件夹。
-1. Confirm that it says `Update folder exists`. You are no longer blocking updates.
+1. Make sure you have the latest Aroma beta.
+1. Boot Aroma while holding + (Plus).
+1. Hold + (Plus) **and** - (Minus) until it says "Updates not blocked!".
 
 #### **Removing DNS Blocks**
 
