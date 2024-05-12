@@ -1,17 +1,17 @@
-# vWii Modding Guide {docsify-ignore-all}
+# vWii Modifiserings Guide {docsify-ignore-all}
 
-## Patching IOS 80 (Optional)
+## Patche IOS 80 (valgfritt)
 
-Patching IOS 80 allows you to have custom channels on the SD card, including wads. However, it is not required.
+Å patche IOS 80 lar deg bruke custom channels på SD-kortet, inkludert wad filer. Det er imidlertid ikke nødvendig.
 
-!> If for any reason, the Wii U is turned off while patching IOS 80, your vWii will be bricked. This can be fixed by either extracting the IOS 80 from your previously made NAND backup and then replacing it over FTP or by [reinstalling IOS 80](../../recover-vwii-ioses-channels).
+!> Hvis Wii U konsollen din slår seg av mens du patcher IOS 80, vil vWii bli "bricket". Dette kan du fikse ved å enten pakke ut IOS 80 fila fra NAND backupen din og erstatte den over FTP eller ved å [installere IOS 80 på nytt](../../recover-vwii-ioses-channels).
 
 1. Kjør Patched IOS 80 Installer for vWii.
 2. Les advarselen og vent 30 sekunder.
 3. Trykk en knapp for å installere.
-4. Wait until it says <code>IOS80 <wbr>Installation <wbr>is <wbr>complete!</code>.
+4. Vent til det står <code>IOS80 <wbr>Installation <wbr>is <wbr>complete!</code>.
 5. Trykk en knapp for å avslutte.
 
-!> Installing a custom System Menu is a definite brick risk and you should always have an effective backup before installing one but when done right, won't brick the vWii.
+!> Det er stor sjangse for å bricke vWii hvis man installerer en custom System Menu og du bør alltid ha en backup av systemet før du prøver å installerer en, men hvis du installerer det riktig så vil det ikke være noen risiko.
 
-!> Installing any IOS (including TED IOSes) or wads made for the original Wii on your vWii will brick it. WiiWare wads are fine, but some need to be converted to work.
+!> Installering av IOS (inkludert TED IOS'er) eller wads formattert for den originale Wii'en vil "bricke" vWii'en din. WiiWare wads er greit, men noen må konverteres for å fungere.
