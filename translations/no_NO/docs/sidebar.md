@@ -16,7 +16,7 @@
 - [Ofte Stilte Spørsmål](faq)
 - **Arkiv**
 - [Tiramisu](archive/tiramisu/sd-preparation)
-- [Legacy Methods](archive/cfw-choice)
+- [Utdaterte Metoder](archive/cfw-choice)
 - [Konfigurerbar Payload](configurable-payload)
 - **Lenker**
 - [![GitHub](https://icongr.am/simple/github.svg?color=808080&size=16)GitHub](https://github.com/hacks-guide/Guide-WiiU)
