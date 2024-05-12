@@ -4,7 +4,7 @@
 - [NAND Backup](nand-backup)
 - [Installere Homebrew Channel](installing-homebrewchannel)
 - [Installerer cIOS'er](installing-cioses)
-- [Patching IOS 80 (Optional)](patching-ios80)
+- [Patche IOS 80 (valgfritt)](patching-ios80)
 - [Fullføre installasjon](finalizing-setup)
 - **Lenker**
 - [![GitHub](https://icongr.am/simple/github.svg?color=808080&size=16)GitHub](https://github.com/hacks-guide/Guide-WiiU)
