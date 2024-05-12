@@ -10,16 +10,15 @@ Vi starter med å plassere Aroma filene du trenger på SD-kortet ditt.
 ### Instruksjoner
 
 1. On the [Aroma](https://aroma.foryour.cafe) site, scroll down to the **Download** section.
-1. Read through the steps and click on the checkboxes.
-1. Click on `Download Payloads` and `Download Base Aroma`.
-1. Download the [PayloadLoader Installer](https://github.com/wiiu-env/PayloadLoaderInstaller/releases/download/v0.1/PayloadLoaderInstaller_20220905-105329.zip)
+    - Read through the steps and click on the checkboxes.
+    - Click on `Download Payloads` and `Download Base Aroma`.
 1. Sett SD-kortet ditt i PC'en din.
-1. **Extract** and copy the `wiiu` folder of the three newly downloaded *`.zip`* files to the root of your SD Card.
-    - The three `wiiu` folders should be merged if not done automatically.
+1. **Extract** and copy the `wiiu` folder of the two newly downloaded *`.zip`* files to the root of your SD Card.
+    - The `wiiu` folders should be merged if not done automatically.
 
 ?> Hvis pc'en din spør deg om å erstatte eksisterende filer på SD-kortet, skal du trykke ja.
 
-?> If you're on a Mac machine, select `Merge` instead of replace. If the merge option does not show immediately, press and hold the `Option` key while moving files to the root.
+?> Hbid du bruker en Mac, må du velge `Merge` i stedet for å erstatte. Hvis ikke Merge alternativet kommer opp, trykk og hold inne `Option` tasten mens du flytter filene til roten av SD-kortet.
 
 ----------
 
@@ -32,7 +31,8 @@ Vi starter med å plassere Aroma filene du trenger på SD-kortet ditt.
 💾sd:
  ┗ 📂wiiu
    ┣ 📂apps
-   ┃ ┣ 📜AromaUpdater.wuhb
+   ┃ ┣ 📂AromaUpdater
+   ┃ ┃ ┗📜AromaUpdater.wuhb
    ┃ ┣ 📜PayloadLoaderInstaller.wuhb
    ┃ ┗ (All other apps should be here too)
    ┣ 📂environments
@@ -61,4 +61,4 @@ Vi starter med å plassere Aroma filene du trenger på SD-kortet ditt.
 
 </details>
 
-?> If you already have the PayloadLoader installed, you may go directly to [Finalizing Setup](./finalizing-setup.md)
+?> Hvis du allerede har PayloadLoader installert, så kan du gå direkte til [Fullføre Installasjon](./finalizing-setup.md)
