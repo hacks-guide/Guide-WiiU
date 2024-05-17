@@ -1,58 +1,58 @@
-# Dumping Wii Discs
+# Wii lemezek dumpolása
 ---
-Dumping your Discs allows you to: play them on a Wii emulator (namely Dolphin), play them using a USB/SD Card loader such as Wiiflow, make Virtual Console injects that can be installed on a Wii U formatted USB drive or the NAND and launched from the Wii U Menu.
+A lemezek dumpolása lehetővé teszi, hogy: lejátszd őket egy Wii emulátoron (nevezetesen a Dolphin-on), lejátszd őket egy USB/SD kártya betöltővel, például a Wiiflow-val, Virtual Console injektálásokat készíts, amelyeket egy Wii U formázott USB meghajtóra vagy a NAND-ra lehet telepíteni, és a Wii U menüjéből indítani.
 
-?> Dumping Wii games requires a working homebrew setup on vWii, so make sure to finish the [vWii Modding guide](vwii/sd-preparation) beforehand.
+?> A Wii-játékok dumpingolásához a vWii-n működő homebrew beállításokra van szükség, ezért előtte mindenképpen fejezd be a [vWii Modding útmutatót](vwii/sd-preparation).
 
-!> It is **ILLEGAL** to share the files dumped with this guide.  
-If you intend to use this guide to share your dumped games, don't.
+!> Az ezzel az útmutatóval lementett fájlok megosztása **ILLEGÁLIS**.  
+Ha ezt az útmutatót arra akarod használni, hogy megoszd a dumpolt játékaidat, ne tedd.
 
-### What You Need {docsify-ignore}
+### Amire szükséged van {docsify-ignore}
 
-1. The latest release of [CleanRip](https://github.com/emukidid/cleanrip/releases/download/2.1.1/CleanRip-v2.1.1.zip).
-1. The [wii.dat](https://github.com/emukidid/cleanrip/releases/download/2.1.1/wii.dat) file.
+1. A [CleanRip](https://github.com/emukidid/cleanrip/releases/download/2.1.1/CleanRip-v2.1.1.zip) legutolsó kiadása.
+1. A [wii.dat](https://github.com/emukidid/cleanrip/releases/download/2.1.1/wii.dat) fájl.
 
-### Instructions {docsify-ignore}
+### Lépések {docsify-ignore}
 
-1. Insert your Wii U's SD Card into your computer.
-1. Copy the `apps` folder from the `CleanRip-v2.1.1.zip` file to the root of your SD Card.
-1. Copy the `wii.dat` file to the root of your SD Card.
-1. Take the SD Card out of your computer and plug it into your Wii U console.
+1. Helyezd be a Wii U-d SD kártyáját a PC-dbe.
+1. Másold az `apps` mappát a `CleanRip-v2.1.1.zip` fájlból az SD kártyád gyökerébe.
+1. Másold a `wii.dat` fájl tartalmát az SD kártyád gyökerébe.
+1. Vedd ki az SD kártyát a számítógépedből, és dugd be a Wii U konzolodba.
 
-### Dumping The Disc
+### A lemez dumpolása
 
-1. Turn on your Wii U then choose the Wii Menu icon to boot up in vWii.
-1. Launch the Homebrew Channel.
-1. Launch CleanRip.
-1. Read the Disclaimer then press A.
-1. Select Yes to enable Checksum Calculations.
-1. Select either USB or Front SD depending on which device you want to use for the dumping process.
-    - Please note that the device you choose needs to be formatted either in FAT32 or NTFS.
-1. Press A to continue.
-1. Select No on the screen that asks you to download redump.org DAT files.
-1. Insert your disc then press A.
-1. Go [on this page](https://wiki.dolphin-emu.org/index.php?title=Category:Dual_Layer_Disc_games) to see if your disc is dual-layered.
-1. Set everything to match the following:
-    - Dual Layer: `Yes/No` (Select `Yes` if your game's disc is dual-layered)
+1. Kapcsold be a Wii U-dat, majd válaszd a Wii Menu ikont, hogy a vWii-be bootolj.
+1. Indítsd el a Homebrew Channel-t.
+1. Indítsd el CleanRip-et.
+1. Olvasd el a felelősségi nyilatkozatot, majd nyomj A gombot.
+1. Válaszolj Yes-t, hogy bekapcsolat a Checksum Calculations-t (ellenőrző összeg számítást).
+1. Válasz vagy az USB-t vagy Front SD-t (első SD kártyát) attól függően, hogy melyik eszközt használnád a dumpolási folyamathoz.
+    - Fontos, megjegyezni, hogy az eszköznek, amit kiválasztasz, FAT32 vagy NTFS fájlrendszerve kell formázva lennie.
+1. Nyomj A gombot a folytatáshoz.
+1. Válassz No-t azon a képernypn, ahol rákérdez redump.org DAT fájlok letöltésére.
+1. Helyezd be a lemezed, majd nyomj A gombot.
+1. Menj [erre az oldalra](https://wiki.dolphin-emu.org/index.php?title=Category:Dual_Layer_Disc_games), hogy megtudd kétrétegű-e a lemezed.
+1. Állíts be mindent úgy, hogy egyezzen a következőkkel:
+    - Dual Layer: `Yes/No` (Válaszd a `Yes`-t a a játéklemezed dual-layer-es)
     - Chunk Size: `Max`
     - New device per chunk: `No`
-1. If you want to dump multiple discs, select Yes to remember your settings. If not, select No.
+1. Ha több lemezt is szeretnél dumpolni válaszd a Yes-t, hogy megjegyeze a beállításaid. Ha nem, válassz No-t.
 
-?> Be prepared to wait a while. The dumping process can take 30 minutes to 1 hour depending on your SD Card's speeds.
+?> Készülj fel rá, hogy egy darabig várni kell. A dumpolási folyamat 30 és 1 óra közötti ideig tart, függően az SD kártyád sebességétől.
 
-### Joining Split Files
+### Darabolt fájlok összefűzése
 
-?> If you dumped the disc on a FAT32 formatted device, you should've got at least 2 files that end with `.partX.iso`. They need to be joined up.
+?> Ha lemezt egy FAT32 eszközre dumpoltad, legalább 2 fájlodnak kell lennie ami `.partX.iso`-ra végződik. Össze kell fűzni őket.
 
 #### Windows {docsify-ignore}
 
-1. Copy all the files that share the same name and end with `.partX.iso` in a folder on your computer.
-1. Right-click inside the folder while holding Shift and select `Open PowerShell Window Here`.
-1. In the PowerShell window, run the following command as is: `cmd.exe /c "copy /b *.part?.iso game.iso"`.
+1. Másold az összes egyező nevő és `.partX.iso` végű fájlt egy mappába számítőgépeden.
+1. Kattints jobb gombbal a mappába a Shift nyomva tartása és válaszd `A PowerShell-ablak megnyitása itt` opciót.
+1. A PowerShell ablakban futtasd a következő parancsot: `cmd.exe /c "copy /b *.part?.iso game.iso"`.
 
 #### macOS/Linux {docsify-ignore}
 
-1. Copy all the files that share the same name and end with `.partX.iso` in a folder on your computer.
-1. Open up a Terminal.
-1. Use the `cd <path>` command and replace `<path>` by the path to your `.partX.iso` files.
-1. Use the following command as is: `cat *.part?.iso > game.iso`.
+1. Másold az összes egyező nevő és `.partX.iso` végű fájlt egy mappába számítőgépeden.
+1. Nyisd meg a Terminal-t.
+1. Használd a `cd <path>` parancsot, de cseréld ki benne az `<path>` útvonalat a saját útvonaladra a `.partX.iso` fájljaidhoz.
+1. Használd a következő parancsot: `cat *.part?.iso > game.iso`.
