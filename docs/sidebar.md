@@ -1,7 +1,7 @@
 - **User Guide**
 - [Introduction](introduction)
 - [Aroma](aroma/getting-started)
-- [vWii Modding](vwii/sd-preparation)
+- [vWii Modding](vwii/vwii-modding)
 - **Troubleshooting**
 - [Common Issues & Fixes](common-issues-fixes)
 - [Recover a vWii IOS/Channel](recover-vwii-ioses-channels)
@@ -18,6 +18,7 @@
 - [Tiramisu](archive/tiramisu/sd-preparation)
 - [Legacy Methods](archive/cfw-choice)
 - [Configurable Payload](configurable-payload)
+- [vWii Modding](archive/vwii/sd-preparation)
 - **Links**
 - [![GitHub](https://icongr.am/simple/github.svg?color=808080&size=16)GitHub](https://github.com/hacks-guide/Guide-WiiU)
 - [![Discord](https://icongr.am/simple/discord.svg?colored&size=16)Discord](https://discord.gg/C29hYvh)
