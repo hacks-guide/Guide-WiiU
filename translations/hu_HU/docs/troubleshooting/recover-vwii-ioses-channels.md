@@ -1,9 +1,9 @@
-# Recover a vWii IOS/Channel
+# Egy vWii IOS/Channel helyreállítása
 ---
-This page will guide you through the process of recovering a IOS or channel on your vWii, whether it has been corrupted or deleted for whatever reason.
+Ez az oldal végigvezet a vWii-n lévő IOS vagy csatorna helyreállításának folyamatán, függetlenül attól, hogy az bármilyen okból sérült vagy törlődött.
 
 <details>
-<summary>Click here to show what can be recovered with this method.</summary>
+<summary>Kattints ide, hogy megtekintsd, mit lehet visszanyerni ezzel a módszerrel.</summary>
 
 - Wii Menu Manual
 - vWii System Channel
@@ -46,73 +46,73 @@ This page will guide you through the process of recovering a IOS or channel on y
 
 </details>
 
-!> This has the potential to destroy your vWii NAND if you are not careful! Please consider [backing up](vwii/nand-backup) your SLCCMPT and OTP if you do not yet have them backed up!
+!> Ez tönkreteheti a vWii NAND-ot, ha nem vigyázol! Kérjük, fontold meg az SLCCMPT és az OTP [biztonsági mentését](vwii/nand-backup), ha még nem készült róluk biztonsági mentés!
 
-?> If you are using a system update blocking method, please [remove it](unblock-updates).
+?> Ha valami rendszer frissítés blokkoló metódust használsz, kérjük [távolítsd el](unblock-updates).
 
-### What You Need {docsify-ignore}
+### Amire szükséged van {docsify-ignore}
 
-- A working [homebrew installation](introduction) on the Wii U side.
-- The latest release of [vWii Decaffeinator](https://github.com/GaryOderNichts/vWii-Decaffeinator/releases).
+- Egy működő [homebrew telepítésre ](introduction) a Wii U oldalán.
+- A [vWii Decaffeinator](https://github.com/GaryOderNichts/vWii-Decaffeinator/releases) legutolsó kiadása.
 
-### Instructions {docsify-ignore}
+### Lépések {docsify-ignore}
 
-1. Copy the contents of the `decaffeinator.zip` file to the root of your SD Card.
-1. Take the SD Card out of your computer and plug it into your Wii U console.
-1. Power on your Wii U and launch the CFW of your choice (Mocha, Haxchi or CBHC).
-1. Launch the Homebrew Launcher.
-1. Launch vWii Decaffeinator.
+1. Másold a `decaffeinator.zip` fájl tartalmát az SD kártyád gyökerébe.
+1. Vedd ki az SD kártyát a számítógépedből, és dugd be a Wii U konzolodba.
+1. Kapcsold be Wii U-d és indíts el a választásod szerinti egyedi firmware-t (CFW-t)(Mocha, Haxchi vagy CBHC).
+1. Indítsd el a Homebrew Launcher-t.
+1. Indítsd el a vWii Decaffeinator-t.
 
-### Recovering Process
+### Helyreállítási folyamat
 
-You will be provided with various options. It is recommended to first attempt restoring through the `Advanced options` menu if you know what to restore, or `Light mode` if you aren't sure. In extreme cases where no other option solves the issue, `Aggressive mode` should be chosen.
+Különböző lehetőségek közül választhatsz. Javasolt, hogy először a `Speciális opciók (Advanced options)` menüben próbáld meg a visszaállítást, ha tudod, mit kell visszaállítani, vagy `Könnyű módban (Light mode)`, ha nem vagy biztos benne. Szélsőséges esetekben, amikor semmilyen más lehetőség nem oldja meg a problémát, az `Agresszív módot (Aggressive mode)` kell választani.
 
 <!-- tabs:start -->
 
-#### **Advanced options**
+#### **Speciális opciók (Advanced options)**
 
-### Advanced options
+### Speciális opciók (Advanced options)
 
-?> This mode will clear the specified IOSes and channels to reinstall them. All other data (including cIOSes) will be preserved.
+?> Ez a mód törli a megadott IOS-eket és csatornákat, hogy újratelepítse őket. Minden más adat (beleértve a cIOS-okat is) megmarad.
 
-1. Select `Advanced options` on the menu.
-1. Use the D-Pad to toggle what you would like to be restored.
-1. Press Start to initiate the restoration process.
-1. When the application finishes, allow the application to launch the System Settings.
-1. Perform a [System Update](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1136/~/how-to-perform-a-system-update) to finish the restoration process.
+1. Válaszd az `Advanced options`-t a menüben.
+1. Használd a D-Pad-et annak kijelölésére, hogy mi legyen helyreállítva.
+1. Nyomj Start gombot a visszaállítási folyamat elindításához.
+1. Amikor az alkalmazás végez, hagyd, hogy az alkalmazás elindítsa a System Settings-et.
+1. A helyreállítási folyamat befejezéséhez végezz el egy rendszerfrissítést a [System Update](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1136/~/how-to-perform-a-system-update)-tel.
 
-?> You can now re-enable your [system update blocking method](block-updates).
+?> Most újra engedélyezheted a [rendszerfrissítés blokkolási módszered](block-updates).
 
-#### **Light mode**
+#### **Könnyű mód (Light mode)**
 
-### Light mode
+### Könnyű mód (Light mode)
 
-?> This mode will clear the System Menu, Wii Message Board save data, IOSes, and other system titles to reinstall clean versions of them. Please note this will remove all cIOSes as well and must be reinstalled. All other data will be preserved.
+?> Ez a mód törli a System Menu, Wii Message Board mentés adatot, IOS-eket és más rendszer címeket, hogy tiszta verziókat telepíthessen belőlük újra. Kérjük vedd figyelembe, hogy ez eltávolít minden cIOS-t is és újra kell telepíteni azokat. Minden más adat megőrzésre kerül.
 
-1. Select `Light mode` on the menu.
-1. Press Start to initiate the restoration process.
-1. When the application finishes, allow the application to launch the System Settings.
-1. Perform a [System Update](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1136/~/how-to-perform-a-system-update) to finish the restoration process.
+1. Válaszd a `Light mode`-ot a menüben.
+1. Nyomj Start gombot a visszaállítási folyamat elindításához.
+1. Amikor az alkalmazás végez, hagyd, hogy az alkalmazás elindítsa a System Settings-et.
+1. A helyreállítási folyamat befejezéséhez végezz el egy rendszerfrissítést a [System Update](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1136/~/how-to-perform-a-system-update)-tel.
 
-?> You can now re-enable your [system update blocking method](block-updates).
+?> Most újra engedélyezheted a [rendszerfrissítés blokkolási módszered](block-updates).
 
-> If you receive Error Code 160-0101 when booting up the system after using vWii Decaffeinator, take out the inserted disc and unplug any external drives and restart the system.
+> Ha az Error Code 160-0101-et kapod bootoláskor a vWii Decaffeinator használata után, akkor vedd ki a behelyezett lemezt és húzz le minden külső lemezegységet és indítsd újra a rendszert.
 
-#### **Aggressive mode**
+#### **Agresszív mód**
 
-### Aggressive mode
+### Agresszív mód
 
-!> This mode will clear **everything** to reinstall clean versions of the default IOSes and channels. Please note that all cIOSes, save data, and channels will be lost, and the vWii NAND will be returned to its stock form!
+!> Ez a mód töröl **mindent**, hogy újratelepítse a tiszta verzióját az alapértelmezet IOS-eknek és csatornáknak. Kérjük vedd figyelembe, hogy minden cIOS, mentés adat és csatorna el fog veszni és a vWii NAND visszaáll a gyári állapotára!
 
-1. Select `Aggressive mode` on the menu.
-1. Read the warning in its entirety. If you wish to proceed, press Start to initiate the restoration process.
-1. When the application finishes, allow the application to launch the System Settings.
-1. Perform a [System Update](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1136/~/how-to-perform-a-system-update) to finish the restoration process.
+1. Válaszd a `Agressive mode`-ot a menüben.
+1. Olvasd el a figyelmezetetést teljesen. Ha szeretnéd folytatni, nyomj Start gombot a helyreállítási folyamat elkezdéséhez.
+1. Amikor az alkalmazás végez, hagyd, hogy az alkalmazás elindítsa a System Settings-et.
+1. A helyreállítási folyamat befejezéséhez végezz el egy rendszerfrissítést a [System Update](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1136/~/how-to-perform-a-system-update)-tel.
 
-?> You can now re-enable your [system update blocking method](block-updates).
+?> Most újra engedélyezheted a [rendszerfrissítés blokkolási módszered](block-updates).
 
-> If you receive Error Code 160-0101 when booting up the system after using vWii Decaffeinator, take out the inserted disc and unplug any external drives and restart the system.
+> Ha az Error Code 160-0101-et kapod bootoláskor a vWii Decaffeinator használata után, akkor vedd ki a behelyezett lemezt és húzz le minden külső lemezegységet és indítsd újra a rendszert.
 
 <!-- tabs:end -->
 
-> If you receive Error Code 105-3102 when performing the system update, restart your console and reattempt the update.
+> Ha az Error Code Error Code 105-3102-öt kapod a rendszer frissítésekor, akkor indítsd újra a konzolod, és próbálj újra frissíteni.
