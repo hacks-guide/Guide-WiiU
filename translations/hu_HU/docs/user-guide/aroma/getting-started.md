@@ -1,39 +1,39 @@
 # Aroma {docsify-ignore-all}
 
-Aroma is a work-in-progress environment and the successor to Tiramisu.
+Az Aroma egy fejlesztés alatt álló környezet a Tiramisu utódja.
 
-### What is Aroma?
+### Mi az Aroma?
 
-Aroma is an environment like Tiramisu, which can be booted through the Environment Loader.  
-Aroma, just like Tiramisu, uses the same Mocha version, support for setup modules, and comes with the Autoboot Module, which includes the boot selector and Quick Start support.  
-Aroma comes with several additional features, including a plugin system and a new way of launching homebrews.
+Az Aroma a Tiramisuhoz hasonló környezet, amely a Environment Loader segítségével indítható.  
+Az Aroma, akárcsak a Tiramisu, ugyanazt a Mocha verziót használja, támogatja a telepítőmodulokat, és tartalmazza az Autoboot modult, amely tartalmazza a boot választó és a gyorsindítás támogatását.  
+Az Aroma számos további funkcióval rendelkezik, beleértve a plugin rendszert és a homebrews-ok indításának új módját.
 
-### What can I do with Aroma?
+### Mit tudok az Aromával csinálni?
 
-For a detailed overview check out [this blogpost](https://maschell.github.io/homebrew/2022/09/05/aroma.html). A quick summary is given below.
+Részletesebb áttekintésért tekintsd meg [ezt a blogpostot](https://maschell.github.io/homebrew/2022/09/05/aroma.html). Egy gyors összefoglaló alább.
 
-#### Modules
+#### Modulok
 
-Aroma supports modules which, unlike setup modules, always run in the background.  
-This allows for further extending the functionality of the console.
+Az Aroma támogatja a modulokat, amelyek a beállítási modulokkal ellentétben mindig a háttérben futnak.  
+Ez lehetővé teszi a konzol funkcionalitásának további bővítését.
 
-#### Plugins
+#### Plugin-ek
 
-Plugins, similarly to modules, are also running in the background.  
-They can enhance the experience of the console by changing and providing additional features.  
-Plugins can be configured using a configuration menu, which can be opened using a button combination.
+A pluginok a modulokhoz hasonlóan szintén a háttérben futnak.  
+Ezek a konzol élményét növelhetik a konzol megváltoztatásával és további funkciók biztosításával.  
+A pluginok egy konfigurációs menü segítségével konfigurálhatók, amely egy gombkombinációval nyitható meg.
 
-#### Wii U Homebrew Bundles
+#### Wii U Homebrew Bundle-ök
 
-Wii U Homebrew Bundles (WUHB) are a new way of launching homebrew.  
-These `.wuhb` files contain the main executable and can directly include icon and banner images and additional content.  
-With the `homebrew_on_menu` plugin, WUHB files can be directly launched from the Wii U menu, just like official channels.
+A Wii U Homebrew Bundles (WUHB) a homebrew indításának új módja.  
+Ezek a `.wuhb` fájlok tartalmazzák a fő futtatható fájlt, és közvetlenül tartalmazhatnak ikon- és bannerképeket, valamint további tartalmakat.  
+A `homebrew_on_menu` pluginnel a WUHB fájlok közvetlenül a Wii U menüjéből indíthatók, akárcsak a hivatalos csatornák.
 
-### What are the limitations?
+### Mik a korlátozások?
 
-Due to technical limitations, a lot of old homebrew applications will no longer work with Aroma.  
-This includes all `.elf` homebrews, but also some `.rpx` homebrews, which don't implement necessary functionality properly.  
-These homebrews need to be updated with support for Aroma. To run old homebrews you need to boot the Tiramisu environment.  
-Launching homebrews through the now outdated Homebrew Launcher is no longer possible with Aroma.
+Technikai korlátozások miatt sok régi homebrew alkalmazás már nem fog működni az Aromával.  
+Ez vonatkozik az összes `.elf` homebrew-ra, de néhány `.rpx` homebrew-ra is, amelyek nem valósítják meg megfelelően a szükséges funkciókat.  
+Ezeket a homebrew programokat frissíteni kell az Aroma támogatásával. A régi homebrew-ok futtatásához a Tiramisu környezetet kell elindítani.  
+A homebrew-ok indítása a már elavult Homebrew Launcher segítségével már nem lehetséges az Aroma segítségével.
 
-Besides the limitations mentioned above, note that Aroma is still a beta release. Not everything has been tested yet, and additional issues might be discovered.  
+A fent említett korlátozások mellett, érdemes megjegyezni, hogy az Aroma még mindig csak béta kiadás. Nem mindent tesztelt még, és tovább problémák még előkerülhetnek.  
