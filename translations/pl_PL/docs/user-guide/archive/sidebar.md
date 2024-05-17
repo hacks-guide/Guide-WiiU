@@ -1,6 +1,7 @@
 - **Archiwum**
 - [Strona główna](../../introduction)
 - [Tiramisu](tiramisu/sd-preparation)
+- [vWii Modding (old)](vwii/sd-preparation)
 - [Legacy Methods](cfw-choice)
 - **Linki**
 - [![GitHub](https://icongr.am/simple/github.svg?color=808080&size=16)GitHub](https://github.com/hacks-guide/Guide-WiiU)
