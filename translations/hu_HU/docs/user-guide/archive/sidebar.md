@@ -1,12 +1,13 @@
-- **Archive**
-- [Home Page](../../introduction)
+- **Archív**
+- [Kezdőlap](../../introduction)
 - [Tiramisu](tiramisu/sd-preparation)
-- [Legacy Methods](cfw-choice)
-- **Links**
+- [vWii Modding (old)](vwii/sd-preparation)
+- [Legacy metódusok](cfw-choice)
+- **Linkek**
 - [![GitHub](https://icongr.am/simple/github.svg?color=808080&size=16)GitHub](https://github.com/hacks-guide/Guide-WiiU)
 - [![Discord](https://icongr.am/simple/discord.svg?colored&size=16)Discord](https://discord.gg/C29hYvh)
-- [![Translate](https://icongr.am/material/translate.svg?color=808080&size=16)Translate](https://hacks-guide.crowdin.com/u/projects/10)
-- [Donate](../../donations)
-- [About](../../about)
-- **Privacy**
-- [Privacy Policy](../../privacy-policy)
+- [![Fordítás](https://icongr.am/material/translate.svg?color=808080&size=16)Fordítás](https://hacks-guide.crowdin.com/u/projects/10)
+- [Támogatás](../../donations)
+- [Névjegy](../../about)
+- **Adatvédelem**
+- [Adatvédelmi szabályzat](../../privacy-policy)
