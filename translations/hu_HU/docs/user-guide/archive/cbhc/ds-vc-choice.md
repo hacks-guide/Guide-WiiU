@@ -1,14 +1,14 @@
-# Archive - CBHC {docsify-ignore-all}
+# Archív - CBHC {docsify-ignore-all}
 
-!> **THIS METHOD IS NO LONGER SUPPORTED**  
-**CURRENT METHOD IS AVAILABLE [HERE](../../introduction)**
+!> **EZ A METÓDUS MÁR NEM TÁMOGATOTT**  
+**AZ AKTUÁLIS METÓDUS ELÉRHETŐ [ITT](../../introduction)**
 
-## Choose Your DS VC Game
+## Válaszd ki a DS VC játékod
 
 The first thing to decide is what DS Virtual Console (usually abbreviated as "VC") game you will buy.  
 Please note that the game you injected Haxchi/CBHC into will not be playable anymore until you uninstall Haxchi/CBHC and reinstall the game from the eShop.
 
-### Compatible DS VC Games
+### Kompatibilis DS VC játékok
 
 ?> If you have a European region console, there is a chance that you might already have got <code>Dr. Kawashima's <wbr>Brain <wbr>Training: <wbr>How <wbr>Old <wbr>is <wbr>Your <wbr>Brain?</code> for free. Head over [to the eShop](https://en-americas-support.nintendo.com/app/answers/detail/a_id/8563/~/how-to-view-previously-downloaded-titles-on-wii-u) and check if you got the game.
 
