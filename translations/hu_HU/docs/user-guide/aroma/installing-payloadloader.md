@@ -1,25 +1,25 @@
 # Aroma {docsify-ignore-all}
 
-## Installing PayloadLoader
+## A PayloadLoader telepítése
 
-Now that you have your NAND backup in case anything goes wrong later, you can install the PayloadLoader on your system.
+Most, hogy megvan a NAND biztonsági mentésed arra az esetre, ha később bármi rosszul sülne el, telepítheted a PayloadLoader-t a rendszeredre.
 
-Installing the PayloadLoader will let you access Aroma just by running the Health and Safety Information app.
+A PayloadLoader telepítése lehetővé teszi az Aroma elérését egyszerűen az Health and Safety Information app futtatásával.
 
-!> A factory reset **won't** uninstall the injected PayloadLoader. Follow [uninstall PayloadLoader](../../uninstall-payloadloader) to remove the PayloadLoader.
+!> A gyári visszaállítás **nem** távolítja el a beillesztett PayloadLoader-t. PayloadLoader eltávolításához kövesd [a PayloadLoader eltávolítását](../../uninstall-payloadloader).
 
-### Instructions
+### Lépések
 
-?> If you're already booted into Aroma, you may skip to step 5.
+?> Ha már be vagy bootolva az Aromába, akkor ugorhatsz az 5. lépésre.
 
-1. Take the SD Card out of your PC and plug it into your Wii U.
-2. Execute the web browser exploit as [previously explained](browser-exploit) but this time, you will need to hold the X button to open the Environment Loader menu.
-3. Press A to launch the `aroma` environment.
-   - You will get a warning message about the update folder existing. This is normal. Press X to block updates.
-4. Press A to launch the Wii U Menu.
-5. At the Wii U Menu, look for the newly appeared `PayloadLoader Installer` title (the rocket coming out of a box) and launch it.
-6. Press the A button to check if you can install the PayloadLoader.
-   - It should now tell you that the PayloadLoader can be installed onto the Health and Safety Information app.
-7. Press the A button to select `Install / Update`.
-8. You'll be asked if you are sure you want to install the PayloadLoader. Use the D-Pad to select `Install` and press A.
-9. After installing has finished, press A to shut down the console.
+1. Vedd ki az SD kártyát a számítógépedből, és dugd be a Wii U konzolodba.
+2. Végezd el a webböngésző exploitot a [korábban ismertetett módon](browser-exploit), de ezúttal az X gombot nyomva kell tartanod, hogy megnyíljon az Environment Loader menü.
+3. Nyomj A-t az `aroma` környezet indításához.
+   - Egy figyelmeztető üzentet fogsz kapni az update mappa létezéséről. Ez normális. Nyomj X gombot a frissítések blokkolásához.
+4. Nyomj A-t a Wii U Menu indításához.
+5. A Wii U Menu-ben keresd meg az újonnan megjelent `PayloadLoader Installer` címet (egy rakéta mi egy dobozból jön ki), és indítsd el.
+6. Nyomd meg az A gombot, hogy ellenőrizd, hogy telepíthető-e a PayloadLoader.
+   - Most már azt kell jeleznie, hogy a PayloadLoader telepíthető a Health and Safety Information apphoz.
+7. Nyomj A gombot az `Install / Update` kiválasztásához.
+8. Rá fog kérdezni, hogy biztosan telepíteni akarod-e a PayloadLoader-t. Használd a D-Pad-et az `Install` kiválasztásához és nyomj A gombot.
+9. Ha a telepítés befejeződött, nyomj A gombot, hogy teljesen leállítsd a konzolt.
