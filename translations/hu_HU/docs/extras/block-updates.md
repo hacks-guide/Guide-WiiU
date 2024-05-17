@@ -1,14 +1,14 @@
-# Blocking Updates
+# Frissítések letiltása
 ---
-All currently known Wii U exploits can, unlike e.g. the Nintendo Switch RCM exploit, be patched by a system update. Although the Wii U is no longer officially supported, Nintendo may still release updates for it. Namely, the updates 5.5.3 up to 5.5.6 were all released after the Wii U was discontinued, so blocking updates is still a recommended action.
+Minden aktuálisan ismert Wii U exploit, ellentétben például a Nintendo Switch RCM exploitjával, patchelhető egy rendszer frissítéssel. Habár a Wii U már hivatalosan nem támogatott, a Nintendo még mindig kiadhat frissítéseket hozzá. Konkrétan az 5.5.3-tól az 5.5.6-ig a frissítések azt követően kerültek kiasásra, hogy megszűnt a Wii U támogatása, így a frissítések tiltása továbbra is ajánlott.
 
-While Aromas's PayloadLoader already has built-in update blocking functionality, it is recommended to delete the update folder to effectively block system updates. If you get a yellow warning screen while booting into Aroma, the update folder still exists and it is recommended to delete it using the guide below.
+Habár az Aromas's PayloadLoader már rendelkezik beépített blokkolás funkcionalitással, ajánlott, hogy töröld az update mappát, hogy effektíven blokkold a rendszer frissítéseket. Ha egy sárga figyelmeztető képernyőt kapsz, az Aroma-ra bootolás közben, akkor az update folder még mindig létezik, és ajánlott a törlése a lenti útmutatás alapján.
 
-### Instructions {docsify-ignore}
+### Lépések {docsify-ignore}
 
-Currently, one way exists to effectively block updates on the Wii U system:
+Jelenleg egy mód létezik a frissítések tiltására egy Wii U rendszeren:
 
-1. Make sure you have the latest Aroma beta.
-1. Boot into Aroma.
-    - If you got the yellow warning screen, press X to block updates.
-    - If you didn't get the warning, but the AutobootMenu says "Updates not blocked!", press and hold + (Plus) **and** - (Minus) at the same time until it says they are blocked.
+1. Legyél biztos abban, hogy a legutolsó Aroma bétád van.
+1. Bootolj Aromába.
+    - Ha egy sárga figyelmezetést kapsz, nyomj X-et a frissítések blokkolásáshoz.
+    - Ha nme kpasz figyelmezetést, de az AutobootMenu azt mondja, hogy "Updates not blocked!", nyomd le és tartsd lenyomva a (+) **és** (-) gombokat egyszerre, addig míg az nem mondja, hogy blokkolt.
