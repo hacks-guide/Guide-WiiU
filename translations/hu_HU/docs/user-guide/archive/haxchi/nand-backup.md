@@ -1,26 +1,26 @@
 # Archive - Haxchi
 
-!> **THIS METHOD IS NO LONGER SUPPORTED**  
-**CURRENT METHOD IS AVAILABLE [HERE](../../introduction)**
+!> **EZ A METÓDUS MÁR NEM TÁMOGATOTT**  
+**AZ AKTUÁLIS METÓDUS ELÉRHETŐ [ITT](../../introduction)**
 
-## Making a NAND Backup {docsify-ignore}
+## Egy NAND mentés készítése {docsify-ignore}
 
-In case anything should go wrong in the later process and your Wii U ends up bricked, restoring a previously made NAND backup can fix it.
+Ha a későbbi folyamat során bármi rosszul sülne el, és a Wii U brickelődne, a korábban készített NAND biztonsági mentés visszaállításával megoldható a probléma.
 
-### Instructions {docsify-ignore}
+### Lépések {docsify-ignore}
 
-?> The Wii U NAND is (depending on your model) either 8GB or 32GB. As a result of this, to create a full backup of your console's NAND, your SD Card has to be larger than the size of your NAND. If you do not have a large enough SD Card, you can skip the optional `MLC` section which includes save files and game data and is not needed to recover most types of bricks.
+> A Wii U NAND-ja (modelltől függően) 8 vagy 32 GB-os. Ennek következtében ahhoz, hogy teljes biztonsági mentést készíthess a konzol NAND-járól, az SD-kártyának nagyobbnak kell lennie, mint a NAND mérete. Ha nincs elég nagy SD-kártyád, akkor kihagyhatod az opcionális `MLC` részt, amely a mentési fájlokat és a játékadatokat tartalmazza, és a legtöbb brickelődés helyreállításához nincs rá szükség.
 
-?> Restoring a NAND Backup on the Wii U requires additional hardware and micro soldering skills. <br>However, making a NAND Backup is **always** useful, so please do not skip it. <br>Your NAND Backup is unique to your system. Backups from other consoles **won't** work.
+> A NAND biztonsági mentés visszaállítása a Wii U-n további hardvert és mikroforrasztási ismereteket igényel. <br>A NAND biztonsági mentés készítése azonban **mindig** hasznos, ezért ne hagyd ki. <br>A NAND biztonsági mentés egyedi a rendszeredre. Mentések más konzolokról **nem fognak működni**.**.
 
-1. Navigate through the Homebrew Launcher and launch the `Wii U NAND Dumper` app.
-1. Use the Wii U GamePad's D-Pad to enter the following configuration:
+1. Navigál keresztül a Homebrew Launcher-en, majd indítsd el a `Wii U NAND Dumper` appot.
+1. Használd a Wii U GamePad D-Pad-ját a következő konfiguráció megadásához:
     - Dump SLC: **yes**
     - Dump SLCCMPT: **yes**
     - Dump MLC: **optional**
     - Dump OTP: **yes**
     - Dump SEEPROM: **yes**
-1. Press the A button to start the dumping process.
-1. When the process completed, power off your Wii U, take your SD Card out of the Wii U and plug it into your PC.
-1. To make sure you don't lose the files, copy the `slc.bin`, `slccmpt.bin`, `seeprom.bin`, `otp.bin` and if you chose to go with a full backup, `every mlc.bin.part` file to your computer.
-1. Delete the files from your SD Card to free up space.
+1. Nyomj A gombot a dumpolás elindításához.
+1. Ha a folyamat befejeződött, kapcsold ki a Wii U-dat, vedd kiaz SD kártyád a Wii U-ból és dugd be a PC-dbe.
+1. Hogy biztos lehess, hogy nem veszted el a fájlokat, másold az `slc.bin`, az `slccmpt.bin`, a `seeprom.bin` és az `otp.bin`fájlokat és ha teljes mentést választottál, akkor `minden mlc.bin.part` fájlt is a számítógépedre.
+1. Töröld a fájlokat az SD kártyádról helyfelszabadítás végett.
