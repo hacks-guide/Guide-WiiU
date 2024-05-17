@@ -1,28 +1,29 @@
-- **User Guide**
-- [Introduction](introduction)
+- **Felhasználói útmutató**
+- [Bevezetés](introduction)
 - [Aroma](aroma/getting-started)
-- [vWii Modding](vwii/sd-preparation)
-- **Troubleshooting**
-- [Common Issues & Fixes](common-issues-fixes)
-- [Recover a vWii IOS/Channel](recover-vwii-ioses-channels)
-- **Extras**
-- [Blocking Updates](block-updates)
-- [Unblocking Updates](unblock-updates)
-- [Dumping Wii U Discs](dump-games)
-- [Dumping Wii Discs](dump-wii-games)
-- [Uninstall CBHC](uninstall-cbhc)
-- [Uninstall Indexiine](uninstall-indexiine)
-- [Uninstall Payloadloader](uninstall-payloadloader)
-- [Frequently Asked Questions](faq)
-- **Archive**
+- [vWii moddolás](vwii/vwii-modding)
+- **Hibaelhárítás**
+- [Gyakori problémák & megoldásuk](common-issues-fixes)
+- [Egy vWii IOS/Channel helyreállítása](recover-vwii-ioses-channels)
+- **Extrák**
+- [Frissítések blokkolása](block-updates)
+- [Frissítések blokkolásának feloldása](unblock-updates)
+- [Wii U lemezek dumpolása](dump-games)
+- [Wii lemezek dumpolása](dump-wii-games)
+- [A CBHC eltávolítása](uninstall-cbhc)
+- [Az Indexiine eltávolítása](uninstall-indexiine)
+- [A Payloadloader eltávolítása](uninstall-payloadloader)
+- [Gyakran isméltelt kérdések](faq)
+- **Archív**
 - [Tiramisu](archive/tiramisu/sd-preparation)
-- [Legacy Methods](archive/cfw-choice)
-- [Configurable Payload](configurable-payload)
-- **Links**
+- [Legacy metódusok](archive/cfw-choice)
+- [Konfigurálható Payload](configurable-payload)
+- [vWii moddolás](archive/vwii/sd-preparation)
+- **Linkek**
 - [![GitHub](https://icongr.am/simple/github.svg?color=808080&size=16)GitHub](https://github.com/hacks-guide/Guide-WiiU)
 - [![Discord](https://icongr.am/simple/discord.svg?colored&size=16)Discord](https://discord.gg/C29hYvh)
-- [![Translate](https://icongr.am/material/translate.svg?color=808080&size=16)Translate](https://hacks-guide.crowdin.com/u/projects/10)
-- [Donate](donations)
-- [About](about)
-- **Privacy**
-- [Privacy Policy](privacy-policy)
+- [![Fordítás](https://icongr.am/material/translate.svg?color=808080&size=16)Fordítás](https://hacks-guide.crowdin.com/u/projects/10)
+- [Támogatás](donations)
+- [Névjegy](about)
+- **Adatvédelem**
+- [Adatvédelmi szabályzat](privacy-policy)
