@@ -8,11 +8,11 @@ Installing the PayloadLoader will let you access Tiramisu just by running the He
 
 !> A factory reset **won't** uninstall the injected PayloadLoader. Follow [uninstall PayloadLoader](../../uninstall-payloadloader) to remove the PayloadLoader.
 
-### Instructions
+### Lépések
 
 ?> If you're already booted into Tiramisu, restart your console before executing the browser exploit again.
 
-1. Take the SD Card out of your PC and plug it into your Wii U.
+1. Vedd ki az SD kártyát a számítógépedből, és dugd be a Wii U konzolodba.
 1. Execute the web browser exploit as [previously explained](browser-exploit) but this time, you will need to hold the X button to open the Environment Loader menu.
 1. Navigate the list using the D-Pad and navigate to the `installer` environment, press A to launch it.
 1. Press the A button to check if you can install the PayloadLoader.
