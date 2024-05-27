@@ -5,14 +5,14 @@
 
 ## Válaszd ki a DS VC játékod
 
-The first thing to decide is what DS Virtual Console (usually abbreviated as "VC") game you will buy.  
-Please note that the game you injected Haxchi/CBHC into will not be playable anymore until you uninstall Haxchi/CBHC and reinstall the game from the eShop.
+Az első dolog, amit el kell döntened, hogy melyik DS Virtual Console (többnyire "VC"-ként rövidítik) játékot akarod megvenni.  
+Kérjük vedd figyelembe, hogy a játék, amibe a Haxchi/CBHC-t injektáltad nem játszható többé addig, amíg el nem távolítod a Haxchi/CBHC-t és újra nem telepíted a játékot az eShop-ból.
 
 ### Kompatibilis DS VC játékok
 
-?> If you have a European region console, there is a chance that you might already have got <code>Dr. Kawashima's <wbr>Brain <wbr>Training: <wbr>How <wbr>Old <wbr>is <wbr>Your <wbr>Brain?</code> for free. Head over [to the eShop](https://en-americas-support.nintendo.com/app/answers/detail/a_id/8563/~/how-to-view-previously-downloaded-titles-on-wii-u) and check if you got the game.
+?> Ha európai régiós konzolod van, van rá esély, hogy ingyen rendelkezel a <code>Dr. Kawashima's <wbr>Brain <wbr>Training: <wbr>How <wbr>Old <wbr>is <wbr>Your <wbr>Brain?</code> játékkal. Menj az [eShop](https://en-americas-support.nintendo.com/app/answers/detail/a_id/8563/~/how-to-view-previously-downloaded-titles-on-wii-u)-ba és ellenőrizd, hogy megvan-e a játék.
 
-If you do not own any of the games listed below, you cannot do this method as the 3DS and Wii U eShops have been shut down.
+Ha nem rendelkezel az alábbb listában található játékok egyikével sem, nem tudod használni ezt a metódust, mert a 3DS és Wii U eShops bezárásra került.
 
 - **Animal Crossing: Wild World**
 - **Big Brain Academy**
