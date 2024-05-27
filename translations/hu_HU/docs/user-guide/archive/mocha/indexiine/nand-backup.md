@@ -1,7 +1,7 @@
-# Archive - Mocha - Indexiine
+# Archív - Mocha - Indexiine
 
-!> **THIS METHOD IS NO LONGER SUPPORTED**  
-**CURRENT METHOD IS AVAILABLE [HERE](../../../introduction)**
+!> **EZ A METÓDUS MÁR NEM TÁMOGATOTT**  
+**AZ AKTUÁLIS METÓDUS ELÉRHETŐ [ITT](../../../introduction)**
 
 ## Egy NAND mentés készítése {docsify-ignore}
 
@@ -13,7 +13,7 @@ Ha a későbbi folyamat során bármi rosszul sülne el, és a Wii U brickelődn
 
 > A NAND biztonsági mentés visszaállítása a Wii U-n további hardvert és mikroforrasztási ismereteket igényel. <br>A NAND biztonsági mentés készítése azonban **mindig** hasznos, ezért ne hagyd ki. <br>A NAND biztonsági mentés egyedi a rendszeredre. Mentések más konzolokról **nem fognak működni**.**.
 
-1. Navigál keresztül a Homebrew Launcher-en, majd indítsd el a `Wii U NAND Dumper` appot.
+1. Navigálj keresztül a Homebrew Launcher-en, majd indítsd el a `Wii U NAND Dumper` appot.
 1. Használd a Wii U GamePad D-Pad-ját a következő konfiguráció megadásához:
     - Dump SLC: **yes**
     - Dump SLCCMPT: **yes**
