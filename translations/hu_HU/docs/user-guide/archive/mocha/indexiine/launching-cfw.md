@@ -1,7 +1,7 @@
-# Archive - Mocha - Indexiine
+# Archív - Mocha - Indexiine
 
-!> **THIS METHOD IS NO LONGER SUPPORTED**  
-**CURRENT METHOD IS AVAILABLE [HERE](../../../introduction)**
+!> **EZ A METÓDUS MÁR NEM TÁMOGATOTT**  
+**AZ AKTUÁLIS METÓDUS ELÉRHETŐ [ITT](../../../introduction)**
 
 ## A CFW indítása {docsify-ignore}
 
