@@ -1,5 +1,5 @@
-# Modding the vWii {docsify-ignore-all}
+# A vWii moddolása{docsify-ignore-all}
 
-The vWii guide has now been integrated into the [Wii Hacks Guide](https://wii.hacks.guide/get-started). You can head there for a more detailed guide on how to mod your vWii.
+A vWii útmutató beépítésre került a [Wii Hacks Guide](https://wii.hacks.guide/get-started) útmutatóba. Látogasd meg azt a részletes útmutatóért a vWii moddolásához.
 
-The old modding guide has been archived.
+A régi modding útmutató archiválásra került.
