@@ -2,7 +2,7 @@
 ---
 Alle Wii U exploits vi kjenner til i dag, i motsetning til for eksempel Nintendo Switch sin RCM exploit, kan bli patchet av en systemoppdatering. Selv om Wii U ikke lenger er offisielt støttet av Nintendo, kan de fortsatt plutselig komme med oppdateringer. For eksempel, firmware 5.5.3 til 5.5.6 ble alle utgitt etter at Nintendo kuttet support, så det er fortsatt anbefalt at man blokkerer systemoppdateringer.
 
-Selv om Aroma's PayloadLoader allerede har en update block funksjon, så er det anbefalt å slette update mappen for være sikker på at systemet ikke oppdateres automatisk. If you get a yellow warning screen while booting into Aroma, the update folder still exists and it is recommended to delete it using the guide below.
+While Aroma's PayloadLoader already has built-in update blocking functionality, it is recommended to delete the update folder to effectively block system updates. If you get a yellow warning screen while booting into Aroma, the update folder still exists and it is recommended to delete it using the guide below.
 
 ### Instruksjoner {docsify-ignore}
 
