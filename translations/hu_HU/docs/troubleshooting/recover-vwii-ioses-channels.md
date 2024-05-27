@@ -7,7 +7,7 @@ Ez az oldal végigvezet a vWii-n lévő IOS vagy csatorna helyreállításának 
 
 - Wii Menu Manual
 - vWii System Channel
-- Region Select
+- Régió választás
 - System Menu
 - Mii Channel
 - Wii U Menu
