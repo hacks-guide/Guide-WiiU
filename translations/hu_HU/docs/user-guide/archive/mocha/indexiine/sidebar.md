@@ -1,7 +1,7 @@
 - **Mocha - Indexiine**
 - [Kezdőlap](../../../introduction)
 - [CFW választása](../../cfw-choice)
-- [Choose an Entrypoint](../entrypoint-choice)
+- [Válassz egy Belépési pontot](../entrypoint-choice)
 - [SD kártya előkészítés](sd-preparation)
 - [Browser Exploit](browser-exploit)
 - [Egy NAND mentés készítése](nand-backup)
