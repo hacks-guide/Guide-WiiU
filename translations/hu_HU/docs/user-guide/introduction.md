@@ -2,7 +2,7 @@
 ---
 A Nintendo Homebrew segítői és munkatársai által készített útmutató, a gyáritól az Aroma egyedi firmware-ig.
 
-?> **Discord Help** For live support with this guide please visit us in **#wiiu-assistance** on the [Nintendo Homebrew Discord](https://discord.gg/C29hYvh) and ask, in English, for assistance. Kérjük olvasd el **#faq-wiiu**-t és a [Gyakran Ismételt Kérdések](faq) oldalt, hogy lásd kérdésed megválaszolásra került-e már.
+?> **Discord segítség** Az élő támogatáshoz látogass el a **#wiiu-assistance** csatornára a [Nintendo Homebrew Discord](https://discord.gg/C29hYvh)-on és kérdezz angolul az asszitenciáért. Kérjük olvasd el **#faq-wiiu**-t és a [Gyakran Ismételt Kérdések](faq) oldalt, hogy lásd kérdésed megválaszolásra került-e már.
 
 > Ha értékeled ezt az útmutatót, elfogadunk [adományokat](donations).
 
