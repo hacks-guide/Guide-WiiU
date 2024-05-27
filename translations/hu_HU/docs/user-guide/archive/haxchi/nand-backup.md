@@ -1,4 +1,4 @@
-# Archive - Haxchi
+# Archív - Haxchi
 
 !> **EZ A METÓDUS MÁR NEM TÁMOGATOTT**  
 **AZ AKTUÁLIS METÓDUS ELÉRHETŐ [ITT](../../introduction)**
