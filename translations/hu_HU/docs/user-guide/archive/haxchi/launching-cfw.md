@@ -1,4 +1,4 @@
-# Archive - Haxchi
+# Archív - Haxchi
 
 !> **EZ A METÓDUS MÁR NEM TÁMOGATOTT**  
 **AZ AKTUÁLIS METÓDUS ELÉRHETŐ [ITT](../../introduction)**
@@ -18,7 +18,7 @@ Más rendszerekkel, mint DSi, Wii, vagy 3DS, a Wii U CFW átmeneti. This means t
 1. Launch the Homebrew Launcher on your system as [previously explained](browser-exploit).
 1. Navigate the Homebrew Launcher and open the Haxchi app.
 1. Use the D-Pad to navigate the cursor to the game you want to install Haxchi to and press the A button to install it.
-1. Once the installation has finished, your console will launch the Wii U Menu. You will see your game replaced by a Haxchi icon.
-1. Run the modified DS game. This will reboot the console and enable CFW.
-1. You will need to run your Haxchi DS game every reboot to launch CFW.
+1. Once the installation has finished, your console will launch the Wii U Menu. Látni fogod, hogy a játékodat felülírta a Haxchi ikon.
+1. Futtasd a módosított DS játékot. Ez újraindítja a konzolt és engedélyezi a CFW-t.
+1. Minden egyes újrabbotoláskor szükséged van arra, hogy elindítsd a Haxchi DS játkot a CFW indításához.
 1. You can now re-attach any USB devices you had attached before starting the guide.
