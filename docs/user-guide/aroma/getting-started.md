@@ -6,7 +6,7 @@ Aroma is a work-in-progress environment and the successor to Tiramisu.
 
 Aroma is an environment like Tiramisu, which can be booted through the Environment Loader.  
 Aroma, just like Tiramisu, uses the same Mocha version, support for setup modules, and comes with the Autoboot Module, which includes the boot selector and Quick Start support.  
-Aroma comes with several additional features, including a plugin system and a new way of launching homebrews.
+Aroma comes with several additional features, including a plugin system and a new way of launching homebrews. There is also a bundled plugin that makes your console region free! No more manual region unlocking through a homebrew app.
 
 ### What can I do with Aroma?
 
@@ -32,8 +32,8 @@ With the `homebrew_on_menu` plugin, WUHB files can be directly launched from the
 ### What are the limitations?
 
 Due to technical limitations, a lot of old homebrew applications will no longer work with Aroma.  
-This includes all `.elf` homebrews, but also some `.rpx` homebrews, which don't implement necessary functionality properly.  
+This includes all `.elf` homebrews, but also some `.rpx` homebrews(i.e. RetroArch), which don't implement necessary functionality properly.  
 These homebrews need to be updated with support for Aroma. To run old homebrews you need to boot the Tiramisu environment.  
 Launching homebrews through the now outdated Homebrew Launcher is no longer possible with Aroma.  
 
-Besides the limitations mentioned above, note that Aroma is still a beta release. Not everything has been tested yet, and additional issues might be discovered.  
+Besides the limitations mentioned above, note that Aroma is still a beta release. Not everything has been tested yet, and additional issues might be discovered. This also doesn't necessarily mean beta = unstable. Aroma has been good enough to use for a while now.
