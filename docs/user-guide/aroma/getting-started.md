@@ -36,4 +36,4 @@ This includes all `.elf` homebrews, but also some `.rpx` homebrews(i.e. RetroArc
 These homebrews need to be updated with support for Aroma. To run old homebrews you need to boot the Tiramisu environment.  
 Launching homebrews through the now outdated Homebrew Launcher is no longer possible with Aroma.  
 
-Besides the limitations mentioned above, note that Aroma is still a beta release. Not everything has been tested yet, and additional issues might be discovered. This also doesn't necessarily mean beta = unstable. Aroma has been good enough to use for a while now.
+Besides the limitations mentioned above, note that Aroma is still a beta release. Not everything has been tested yet, and additional issues might be discovered. This doesn't necessarily mean Aroma is unstable, but there is a chance that you may experience something not working properly.
