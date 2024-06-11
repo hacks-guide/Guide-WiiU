@@ -6,7 +6,7 @@ Aroma is a work-in-progress environment and the successor to Tiramisu.
 
 Aroma is an environment like Tiramisu, which can be booted through the Environment Loader.  
 Aroma, just like Tiramisu, uses the same Mocha version, support for setup modules, and comes with the Autoboot Module, which includes the boot selector and Quick Start support.  
-Aroma comes with several additional features, including a plugin system and a new way of launching homebrews. There is also a bundled plugin that makes your console region free! No more manual region unlocking through a homebrew app.
+Aroma comes with several additional features, including a plugin system, a new way of launching homebrews, and many built-in modules and plugins (i.e. Region Free patches).
 
 ### What can I do with Aroma?
 
