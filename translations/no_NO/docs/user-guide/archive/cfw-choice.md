@@ -3,7 +3,7 @@
 !> **METODENE BESKREVET PÅ DENNE SIDEN ER IKKE LENGER STØTTET**  
 **OPPDATERTE METODER ER TILGJENGELIG [HER](../introduction)**
 
-?> Before starting, make sure to update your Wii U console to the latest firmware (5.5.6 for North American consoles, 5.5.5 for all other regions) if you haven't already.
+?> Før du starter, oppdater Wii U konsollen til siste firmware (5.5.6 for Nord Amerikanske konsoller, og 5.5.5 for alle andre regioner) hvis du ikke har gjort det allerede.
 
 Det er 2 hoved custom firmwares: Haxchi/Coldboot Haxchi (vanligst forkortet som "CBHC") og Mocha.
 

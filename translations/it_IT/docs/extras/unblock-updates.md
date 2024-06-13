@@ -12,32 +12,29 @@ Questo è necessario se avrai mai bisogno di eseguire un Aggiornamento della Con
 
 ### Removing Aroma Autoboot
 
-?> When autobooting into the PayloadLoader, updates are automatically blocked. Follow the guide below to disable it.
+?> Quando si effettua l'autoboot su PayloadLoader, gli aggiornamenti vengono bloccati automaticamente. Segui la guida in basso per disattivarlo.
 
 1. Launch the PayloadLoader Installer from the Wii U Menu.
 1. Premi A per selezionare `Check`.
 1. Seleziona `Boot options`.
 1. Ti verrà chiesto se vuoi cambiare il titolo di avvio. Premi A per selezionare `Switch back to Wii U Menu`.
 1. Al termine del processo, premi A per spegnere la console.
-1. Perform the System Update.
+1. Esegui l'Aggiornamento della console.
 1. Follow [this](../docs/user-guide/aroma/autoboot) to re-enable autobooting.
 
-#### **Recreating Update Folder**
+#### **Ricreare la cartella Update**
 
 ### Recreating Update Folder
 
-1. Inserisci la scheda SD nel tuo computer.
-1. Download [UFDiine](https://github.com/GaryOderNichts/UFDiine/releases/) and copy the `UFDiine.wuhb` file to `sd:/wiiu/apps` on the root of your SD Card.
-1. Plug the SD Card into your Wii U console and boot Aroma.
-1. Navigate the Wii U Menu and run the UFDiine app.
-1. Premi il pulsante A per eliminare la cartella Update.
-1. Confirm that it says `Update folder exists`. You are no longer blocking updates.
+1. Make sure you have the latest Aroma beta.
+1. Boot Aroma while holding + (Plus).
+1. Hold + (Plus) **and** - (Minus) until it says "Updates not blocked!".
 
-#### **Removing DNS Blocks**
+#### **Rimuovere i blocchi DNS**
 
-### Removing DNS Blocks
+### Rimuovere i blocchi DNS
 
-1. Enter the Wii U's system settings and navigate to `Internet > Connect to the Internet > Connection List >` `Your WiFi connection > Change Settings > DNS` and set the option to `Auto-obtain`.
-1. You are no longer blocking system updates.
+1. Entra nelle Impostazione della console Wii U e vai su `Internet > Collegati a Internet > Lista delle connessioni >` ` La tua connessione Wi-Fi > Modifica le impostazioni > DNS` e imposta l'opzione `Ottenimento automatico`.
+1. Non stai più bloccando gli aggiornamenti di sistema.
 
 <!-- tabs:end -->

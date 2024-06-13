@@ -1,42 +1,42 @@
-# Common Issues & Fixes {docsify-ignore-all}
+# Gyakori hibák & javításuk {docsify-ignore-all}
 ---
-### Haxchi common errors
+### Haxchi gyakori hibák
 
- - **-3:** No SD Card detected. Re-insert the SD Card and try again. Make sure the SD Card is in FAT32 format. If the error persists, try blowing into the SD slot as it can get dusty inside.
+ - **-3:** SD kártya nem érzékelt. Csatlakoztad újra az SD kártyát és próbáld újra. Legyél biztos abban, hogy az SD kártya FAT32-re formázott. Ha a probléma tartós, próbálj belefújni az SD slotba, mert koszossá válhat.
 
- - **-4:** SD detected but could not mount. Check to see if the SD is using MBR and not GPT. Also, check to see if there are any other partitions on the SD Card and merge them into one primary partition.
+ - **-4:** Az SD kártya érzékelt, de nem csatolható. Ellenőrizd, hogy az SD kártya MBR-t használ-e nem GPT-t. Továbbá ellenőrizd, hogy vannak e más partíciók az SD kártyán és mergeld őket egy nagy elsődleges partícióvá.
 
- - **-5:** Missing files on the SD. Check to see if your SD has Homebrew Launcher located in <code>/wiiu<wbr>/apps<wbr>/homebrew_launcher<wbr>/homebrew_launcher.elf</code>.
+ - **-5:** Hiányzó fájlok az SD kártyán. Ellenőrizd, hogy az SD kártyád tartalmaz-e Homebrew Launcher-t itt: <code>/wiiu<wbr>/apps<wbr>/homebrew_launcher<wbr>/homebrew_launcher.elf</code>.
 
-### Browser errors
+### Böngésző hibák
 
- - **FSGetMountSource failed:** Same as -3 above, means no SD Card detected. Re-insert the SD and try again. This could also mean that the SD card is locked (Slider is down instead of up) or the SD card label is "WIIU", which is stated in the guide causes conflict. If it's not any of these issues, refer to the last suggestion from -3.
+ - **FSGetMountSource failed:** Ugyanaz, mint fentebb a -3-as, azaz nem sikerült SD kártyát detektálni. Csatlakoztad újra az SD kártyát és próbáld újra. Ez jelentheti az is, hogy az SD kártya zárolt (a tolóka lent van a fenti állapot helyett) vagy az SD kártya neve (label) "WIIU" amit a korábban az útmutató is jelzett, hogy problémát okoz. Ha ezek egyike sem, akkor ppróbáld meg az utolsó javaslatot a -3-ból.
 
- - **FSOpenFile failed [...] payload.elf:** Missing payload file on SD. Make sure you have payload.elf in the wiiu folder.
+ - **FSOpenFile failed [...] payload.elf:** Az SD kártyáról hiányzik a payload fájl. Ellenőrizd, hogy a payload.elf megtalálható-e a wiiu mappában, és a wiuu mappa a gyökérben van.
 
- - **FSOpenFile failed:** Missing `homebrew_launcher` on SD. Make sure you have `homebrew_launcher.elf` in the <code>/wiiu<wbr>/apps<wbr>/homebrew_launcher</code> folder.
+ - **FSOpenFile failed:** Az SD kártyáról hiányzik a `homebrew_launcher`. Ellenőrizd, hogy a `homebrew_launcher.elf` megtalálható-e a <code>/wiiu<wbr>/apps<wbr>/homebrew_launcher</code> mappában.
 
- - **SD Mount Failed:** Similar to -4, the console recognizes the SD card but could not mount it. Make sure it is formatted properly. Also, your SD card is more compatible with reputable brands (i.e. SanDisk, Samsung, Lexar, etc.) and less likely to have issues.
+ - **SD Mount Failed:** Hasonló a -4-eshez, a konzol érzékeli az SD kártyád, de nem tudja csatolni azt. Legyél biztos abban, hogy megfelelően formázott és nem sérült. Továbbá az SD kártyád jobban kompatibilis megbízható márkákkal (pl. SanDisk, Samsung, Lexar, stb.) és kevésbé van problémájuk.
 
-### Data Management asks to delete unnecessary data, what does it mean?
+### A data management kéri, hogy töröljük a felesleges adatot, mit jelent ez?
 
-This refers to leftover files from incomplete installs. Always choose Yes to delete this data, as it takes up space for no good reason. If it ever stays stuck on deleting the data in an infinite loop, you can manually delete the data yourself.  
-Use FTPiiU Everywhere and browse to `/storage_mlc/usr/import` then delete any files in the folder if any exists. This is where the partial installs exist after incomplete installs. It'll be `/storage_usb/usr/import` if installed to a USB.  
-The `import` folder should always be kept empty.
+Ez a befejezetlen telepítésekből visszamaradt fájlokra utal. Mindig válaszd a Yes lehetőséget ezen adatok törléséhez, mivel azok ok nélkül foglalják a helyet. Ha egyszer végtelen ciklusban megakadsz az adatok törlésénél, akkor kézzel is törölheted az adatokat.  
+Használd az FTPiiU Everywhere-t, és keresd meg a `/storage_mlc/usr/import` mappát, majd töröld a mappában lévő fájlokat, ha vannak ilyenek. Itt találhatók a részleges telepítések fájljai a sikertelen telepítések után. Ez a `/storage_usb/usr/import` mappa, ha USB-re telepítetted.  
+Az `import` mappát mindig üresen kell tartani.
 
-### My HDD doesn't work or makes a weird clicking sound, what should I do?
+### A merevlemezem nem működik, vagy furcsa kattogó hangot ad ki, mit tegyek?
 
-The reason behind that is that the Wii U doesn't give enough power through one USB port to use the Hard Drive.
+Ennek oka, hogy a Wii U nem ad elég energiát egy USB porton keresztül a merevlemez használatához.
 
-You can fix this by either using a powered HDD or using a Y-Cable to connect the HDD to two USB ports.
+Ezt úgy tudod orvosolni, hogy vagy egy külső tápellátású HDD-t használsz, vagy egy Y-kábellel csatlakoztatod a HDD-t a két USB-porthoz.
 
-If your HDD worked for some time and then stopped working for some games/all games, it is the same issue and can be fixed with the same methods.
+Ha a HDD egy ideig működött, majd egyes játékoknál/az összes játéknál leállt, ez ugyanaz a probléma, és ugyanazokkal a módszerekkel javítható.
 
-### When extracting some of the files there are duplicates of certain ones called "info.json" & "manifest.install", what do I do with those?
+### Amikor néhány fájlt kicsomagolok, néhány fájlnak van duplikáltja ("info.json" & "manifest.install"), mit csináljak ezekkel?
 
-Nothing special, you can leave them there, delete them or replace them with new ones. Those files are not used in the process, therefore, won't have any impact by being or not being there.
+Semmi különöset, hagy őket ott, töröld őket, vagy is felül az újakkal. Ezek a fájlok nem használtak a folyamatban, így nem számít, hogy ott vannak-e vagy sem.
 
-### My console suddenly lost online connectivity and I have an HDD sitting on top of the console, what should I do?
+### A konzolom elvesztette az online kapcsolatot és van egy HDD-m a tetején a konzolnak, mit tehetek?
 
-The internal antenna may have been influenced by the hard drive magnet.  
-You can move the HDD to a different position atop the Wii U, or move it off the Wii U entirely.
+A belső antennát befolyásolhatja a mervlemez mágnese.  
+Máshova is mozgathatod a HDD-t mint a Wuii teteje, vagy mozgasd arréb a Wii U-tól teljesen.

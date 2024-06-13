@@ -1,17 +1,17 @@
-# Archive - Mocha - Choose An Entrypoint
+# Archív - Mocha - Válassz egy Belépési pontot
 
-!> **THE METHODS DESCRIBED IN THIS PAGE ARE NO LONGER SUPPORTED**  
-**CURRENT METHOD IS AVAILABLE [HERE](../../introduction)**
+!> **AZ EZEN OLDALON LEÍRT METÓDUSOK MÁR NEM TÁMOGATOTTAK**  
+**AZ AKTUÁLIS METÓDUS ELÉRHETŐ [ITT](../../introduction)**
 
 ## Online Exploit
 
 - Requires an Internet connection every time you want to launch the Homebrew Launcher.
 
-### [**Continue with the Online Exploit**](online-exploit/sd-preparation) {docsify-ignore}
+### [**Folytatás at Online Exploit-tal**](online-exploit/sd-preparation) {docsify-ignore}
 
 ## Indexiine
 
 - Requires an Internet connection for the setup process but can be used offline once it's been setup.
-- Requires you to modify a system file.
+- Egy rendszer fájl módosítását igényli.
 
-### [**Continue with Indexiine**](indexiine/sd-preparation) {docsify-ignore}
+### [**Folytatás a Indexiine-nal**](indexiine/sd-preparation) {docsify-ignore}

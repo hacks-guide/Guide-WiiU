@@ -26,6 +26,6 @@ Questa pagina ti guiderà attraverso il processo di disinstallazione di PayloadL
 1. Launch the Health & Safety Application and boot into Aroma.
 1. Launch the PayloadLoader Installer from the Wii U Menu.
 1. Premi A per selezionare `Check`.
-1. Select `Remove`.
-1. You will be asked if you really want to remove the PayloadLoader. Select `Remove` again.
+1. Seleziona `Remove`.
+1. Ti verrà chiesto se vuoi davvero rimuovere il PayLoadLoader. Seleziona `Remove` di nuovo.
 1. Al termine del processo, premi A per spegnere la console.

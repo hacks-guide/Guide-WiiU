@@ -11,7 +11,7 @@ Actuellement, chaque fois que vous voudrez lancer Tiramisu, vous devrez lancer l
 1. Appuyez sur A pour sélectionner `Check`.
 1. Sélectionnez `Boot options`.
 1. Vous serez invité à choisir si vous souhaitez modifier le titre qui sera lancé lors du démarrage de la console. Appuyez sur A pour sélectionner `Switch to PayloadLoader`.
-1. Une fois le processus terminé, appuyez sur A pour éteindre la console.
+1. When the process is finished, press A to shutdown the console.
 1. Le PayloadLoader sera maintenant lancé automatiquement à chaque démarrage de la console.
     - To change the default boot title hold Start (+) on the Gamepad while booting the console. You cannot change the boot title until you set a default environment first.
     - Naviguez dans la liste en utilisant la croix directionnelle pour survoler le titre que vous voulez démarrer automatiquement, puis appuyez sur le bouton Y pour définir le titre qui sera lancé automatiquement au démarrage de la console.

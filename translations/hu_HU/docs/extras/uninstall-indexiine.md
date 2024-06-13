@@ -1,10 +1,10 @@
-# Uninstall Indexiine
+# Az Indexiine eltávolítása
 ---
-This page will guide through the process of uninstalling Indexiine from your Wii U.
+Ez az oldal végigvezet a Indexiine Wii U-dról eltávolításán.
 
-### Instructions {docsify-ignore}
+### Lépések {docsify-ignore}
 
-1. Launch the Homebrew Launcher.
-1. Launch Indexiine-Installer.
-1. Press the B button to uninstall Indexiine.
-1. Check that your Wii U no longer automatically launches the Homebrew Launcher upon entering the Internet browser.
+1. Indítsd el a Homebrew Launcher-t.
+1. Indítsd el az Indexiine-Installer-t.
+1. Nyomj B gombot az Indexiine eltávolításához.
+1. Ellenőrizd, hogy a Wii U-nem indtja automatikusan belépéskor a Homebrew Launcherrel az Internet böngészőt.

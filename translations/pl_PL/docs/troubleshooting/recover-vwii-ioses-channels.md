@@ -46,7 +46,7 @@ Ta strona poprowadzi Cię przez proces odzyskiwania IOS lub kanału na Twoim vWi
 
 </details>
 
-!> Ten proces może zniszczyć pamięć NAND vWii, jeśli nie będziesz ostrożny! Rozważ utworzenie [kopii zapasowej](mocha/online-exploit/nand-backup) SLCCMPT i OTP, jeśli jeszcze jej nie masz!
+!> Ten proces może zniszczyć pamięć NAND vWii, jeśli nie będziesz ostrożny! Please consider [backing up](vwii/nand-backup) your SLCCMPT and OTP if you do not yet have them backed up!
 
 ?> Jeśli używasz blokady aktualizacji systemu, proszę [zdejmi ją ](unblock-updates).
 

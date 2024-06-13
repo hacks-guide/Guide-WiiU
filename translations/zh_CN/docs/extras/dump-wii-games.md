@@ -2,7 +2,7 @@
 ---
 导出你的光盘允许你：在 Wii 模拟器（即 Dolphin）中游玩它们，或使用 USB/SD 卡加载器（如Wiiflow）玩它们，亦或制作一个 VC （Virtual Console）模拟游戏并安装在 USB 设备或 NAND 中，允许它从 Wii U 菜单中启动。
 
-?> Dumping Wii games requires a working homebrew setup on vWii, so make sure to finish the [vWii Modding guide](vwii-modding) beforehand.
+?> Dumping Wii games requires a working homebrew setup on vWii, so make sure to finish the [vWii Modding guide](vwii/sd-preparation) beforehand.
 
 !> 分享本教程导出的文件是 **非法的**。  
 如果你想要使用这个教程导出游戏并分享出去，请不要这么做。

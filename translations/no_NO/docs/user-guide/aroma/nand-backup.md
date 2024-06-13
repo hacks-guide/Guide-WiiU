@@ -6,11 +6,11 @@ Hvis noe går galt senere i prosessen og Wii U konsollen "bricker", vil gjenoppr
 
 ### Instruksjoner
 
-?> The Wii U NAND is (depending on your model) either 8GB or 32GB. På grunn av dette så må du bruke ett SD-kort som er større enn NAND størrelsen. If you do not have a large enough SD Card, you can skip the optional `MLC` section which includes save files and game data and is not needed to recover most types of bricks.
+?> Størrelsen på Wii U NAND er (avhengig av modellen) enten 8gb eller 32gb. På grunn av dette så må du bruke ett SD-kort som er større enn NAND størrelsen. Hvis SD-kortet ditt ikke er stort nok, så kan du hoppe over `MLC` delen hvor spilldata og saves er lagret, den er ikke nødvendig for å gjenopprette de fleste bricke-tilfellene.
 
-?> Restoring a NAND Backup on the Wii U requires additional hardware and micro soldering skills. <br>However, making a NAND Backup is **always** useful, so please do not skip it. <br>NAND backupen din er unik for ditt system. Backups from other consoles **won't** work.
+?> Å gjenopprette en NAND backup på Wii U konsollen krever litt kunskap om maskinvare og loddeferdigheter av mikro elektronikk. <br>Men å lage en NAND backup er **alltid** lurt, så du burde ikke hoppe over det. <br>NAND backupen din er unik for ditt system. backups fra andre konsoller vil **ikke** fungere.
 
-1. Navigate to `nanddumper` using the GamePad and press A to launch it.
+1. Naviger til `nanddumper` ved å bruke GamePaden og trykk A for å kjøre den.
 2. Bruk D-padden for å sette opp følgende konfigurasjon:
    - Dump SLC: **yes**
    - Dump SLCCMPT: **yes**
@@ -19,5 +19,5 @@ Hvis noe går galt senere i prosessen og Wii U konsollen "bricker", vil gjenoppr
    - Dump SEEPROM: **yes**
 3. Trykk på A knappen for å starte dumpingprosessen.
 4. Når prosessen er fullført, skru av Wii U konsollen, ta ut SD-kortet og sett den inn i PC-en din.
-5. To make sure you don't lose the files, copy the `slc.bin`, `slccmpt.bin`, `seeprom.bin`, `otp.bin` and if you chose to go with a full backup, `every mlc.bin.part` file to your computer.
+5. For å forsikre deg om at du ikke mister filene, kopier `slc.bin`, `slccmpt.bin`, `seeprom.bin`, `otp.bin` og hvis du valgte å gå for full sikkerhetskopi, `hver mlc.bin.part` til PC'en din.
 6. Slett filene fra SD-kortet for å frigjøre plass.

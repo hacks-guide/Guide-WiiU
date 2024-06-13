@@ -12,7 +12,7 @@ Vær oppmerksom på at spillet du installerer Haxchi/CBHC over ikke vil kunne sp
 
 ?> Hvis du har en europeisk regionkonsoll, er det en mulighet for at du allerede har <code>Dr. Kawashimas <wbr>Brain <wbr>Training: <wbr>How <wbr>Old <wbr>is <wbr>Your <wbr>Brain?</code> gratis. Gå til [eShop](https://en-americas-support.nintendo.com/app/answers/detail/a_id/8563/~/how-to-view-previously-downloaded-titles-on-wii-u) og sjekk om du har spillet.
 
-If you do not own any of the games listed below, you cannot do this method as the 3DS and Wii U eShops have been shut down.
+Hvis du ikke eier noen av spillene nedenunder, så kan du ikke bruke denne metoden siden 3DS og Wii U eShop er stengt ned.
 
 - **Animal Crossing: Wild World**
 - **Big Brain Academy**

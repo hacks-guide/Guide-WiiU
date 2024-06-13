@@ -46,7 +46,7 @@ Questa pagina ti guiderà attraverso il processo di recupero di un IOS o di un c
 
 </details>
 
-!> Potresti distruggere la NAND del tuo vWii se non segui i passaggi con attenzione! Per favore fai il [backup](mocha/online-exploit/nand-backup) del tuo SLCCMPT e OTP se non lo hai ancora fatto!
+!> Potresti distruggere la NAND del tuo vWii se non segui i passaggi con attenzione! Please consider [backing up](vwii/nand-backup) your SLCCMPT and OTP if you do not yet have them backed up!
 
 ?> Se stai utilizzando un metodo per bloccare gli aggiornamenti, [rimuovilo](unblock-updates).
 

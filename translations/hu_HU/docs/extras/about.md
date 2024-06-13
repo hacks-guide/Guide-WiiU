@@ -1,60 +1,60 @@
-# About This Guide
+# Erről az útmutatóról
 ---
-This guide was written by staff members of the [Nintendo Homebrew Discord Server](https://discord.gg/C29hYvh)
+Ezt az útmutatót a [Nintendo Homebrew Discord Server](https://discord.gg/C29hYvh) stábja írta
 
-> **Credits**
+> **Készítők**
 > 
-> **Elpunical, FlimFlam69, Flump, GaryOderNichts, Hiperhazz, huhen, ihaveahax/ihaveamac, Lazr1026, Link5261, Maschell, Nightkingale, Plailect, Profanity, and redcubie.**
+> **Elpunical, FlimFlam69, Flump, GaryOderNichts, Hiperhazz, huhen, ihaveahax/ihaveamac, Lazr1026, Link5261, Maschell, Nightkingale, Plailect, Profanity, és redcubie.**
 > 
-> Thank you to [everyone else](https://github.com/hacks-guide/Guide-WiiU/graphs/contributors) that contributed to the guide on GitHub.
+> Köszönjük [mindenki másnak](https://github.com/hacks-guide/Guide-WiiU/graphs/contributors) aki hozzájárult az útmutatóhoz a GitHub-on.
 
-?> [You can find this guide on GitHub](https://github.com/hacks-guide/Guide-WiiU), It is licensed under the [ISC License](https://github.com/hacks-guide/Guide-WiiU/blob/master/LICENSE.md).
+?> [Megtalálhatod ezt az útmutatót a GitHub-on](https://github.com/hacks-guide/Guide-WiiU), A licence: [ISC License](https://github.com/hacks-guide/Guide-WiiU/blob/master/LICENSE.md).
 
 <figure class="thumbnails">
     <img src="docs/assets/img/nh.jpg" alt="Nintendo Homebrew" title="Nintendo Homebrew">
 </figure>
 
 >
-> **Developer / Tool Credits**
+> **Fejlesztő / Eszköz készítők**
 > 
-> - **GaryOderNichts** and **Maschell** for the [AutobootModule](https://github.com/wiiu-env/AutobootModule).
+> - **GaryOderNichts** és **Maschell** az [AutobootModule](https://github.com/wiiu-env/AutobootModule) készítői.
 > 
-> - **GaryOderNichts** for the [Configurable Payload](https://github.com/GaryOderNichts/configurable-payload), [Indexiine-Installer](https://github.com/GaryOderNichts/indexiine-installer), [UFDiine](https://github.com/GaryOderNichts/UFDiine), [vWii Decaffeinator](https://github.com/GaryOderNichts/vWii-Decaffeinator), the fixed version of the [Homebrew Launcher Channel](https://github.com/GaryOderNichts/homebrew_launcher/), and [Bloopair](https://github.com/GaryOderNichts/Bloopair).
+> - **GaryOderNichts** a [Configurable Payload](https://github.com/GaryOderNichts/configurable-payload), az [Indexiine-Installer](https://github.com/GaryOderNichts/indexiine-installer), az [UFDiine](https://github.com/GaryOderNichts/UFDiine), a [vWii Decaffeinator](https://github.com/GaryOderNichts/vWii-Decaffeinator), a [Homebrew Launcher Channel](https://github.com/GaryOderNichts/homebrew_launcher/) javított verziója, és a [Bloopair](https://github.com/GaryOderNichts/Bloopair) készítője.
 > 
-> - **dragbe** and **FIX94** for <u>d2x cIOS Installer</u>.
+> - **dragbe** és **FIX94** a <u>d2x cIOS Installer</u> készítői.
 > 
-> - **koolkdev** and **FIX94** for [disc2app](https://github.com/koolkdev/disc2app).
+> - **koolkdev** és **FIX94** a [disc2app](https://github.com/koolkdev/disc2app) készítői.
 > 
-> - The **Docsify team** for [docsify.js](https://github.com/docsifyjs/docsify/).
+> - A **Docsify team** a [docsify.js](https://github.com/docsifyjs/docsify/) készítője.
 > 
-> - **jhildenbiddle** for [docsify-themeable](https://github.com/jhildenbiddle/docsify-themeable).
+> - **jhildenbiddle** a [docsify-themeable](https://github.com/jhildenbiddle/docsify-themeable) készítője.
 > 
-> - **Maschell** for the [CustomRPXLoader](https://github.com/wiiu-env/CustomRPXLoader), [FailST](https://maschell.github.io/homebrew/2020/12/02/failst.html), [EnvironmentLoader](https://github.com/wiiu-env/EnvironmentLoader), [HBLInstallerWrapper](https://github.com/wiiu-env/HBLInstallerWrapper), [LaunchInstaller](https://github.com/wiiu-env/LaunchInstaller), [MochaPayload](https://github.com/wiiu-env/MochaPayload), [PayloadFromRPX](https://github.com/wiiu-env/PayloadFromRPX), [PayloadLoaderInstaller](https://github.com/wiiu-env/PayloadLoaderInstaller), [PayloadLoaderInstallerEnvironment](https://github.com/wiiu-env/PayloadLoaderInstallerEnvironment), [PayloadloaderPayload](https://github.com/wiiu-env/PayloadloaderPayload), the [Tiramisu Downloader](https://tiramisu.foryour.cafe/), [wudd](https://github.com/wiiu-env/wudd), the [FTPiiU Plugin](https://github.com/wiiu-env/ftpiiu_plugin/), the [SDCafiine Plugin](https://github.com/wiiu-env/sdcafiine_plugin/), the [Screenshot Plugin](https://github.com/wiiu-env/ScreenshotWUPS/), the [Aroma Downloader](https://aroma.foryour.cafe), and <u>Tiramisu/Aroma</u>.
+> - **Maschell** a [CustomRPXLoader](https://github.com/wiiu-env/CustomRPXLoader), a [FailST](https://maschell.github.io/homebrew/2020/12/02/failst.html), az [EnvironmentLoader](https://github.com/wiiu-env/EnvironmentLoader), a [HBLInstallerWrapper](https://github.com/wiiu-env/HBLInstallerWrapper), a [LaunchInstaller](https://github.com/wiiu-env/LaunchInstaller), a [MochaPayload](https://github.com/wiiu-env/MochaPayload), a [PayloadFromRPX](https://github.com/wiiu-env/PayloadFromRPX), a [PayloadLoaderInstaller](https://github.com/wiiu-env/PayloadLoaderInstaller), a [PayloadLoaderInstallerEnvironment](https://github.com/wiiu-env/PayloadLoaderInstallerEnvironment), a [PayloadloaderPayload](https://github.com/wiiu-env/PayloadloaderPayload), a [Tiramisu Downloader](https://tiramisu.foryour.cafe/), a [wudd](https://github.com/wiiu-env/wudd), az [FTPiiU Plugin](https://github.com/wiiu-env/ftpiiu_plugin/), az [SDCafiine Plugin](https://github.com/wiiu-env/sdcafiine_plugin/), a [Screenshot Plugin](https://github.com/wiiu-env/ScreenshotWUPS/), az [Aroma Downloader](https://aroma.foryour.cafe), és a <u>Tiramisu/Aroma</u> készítője.
 > 
-> - **FIX94** and **smealum** for [Haxchi and CBHC](https://github.com/FIX94/haxchi).
+> - **FIX94** és **smealum** a [Haxchi és CBHC](https://github.com/FIX94/haxchi) készítői.
 > 
-> - **dimok789** for the [Homebrew Launcher](https://github.com/dimok789/homebrew_launcher), the [Homebrew Launcher Channel](https://github.com/dimok789/homebrew_launcher), and [Mocha](https://github.com/dimok789/mocha).
+> - **dimok789** a [Homebrew Launcher](https://github.com/dimok789/homebrew_launcher), a [Homebrew Launcher Channel](https://github.com/dimok789/homebrew_launcher), és a [Mocha](https://github.com/dimok789/mocha) készítője.
 > 
-> - **Maschell** and **dimok789** for the [Homebrew Launcher Installer](https://github.com/wiiu-env/homebrew_launcher_installer).
+> - **Maschell** és **dimok789** a [Homebrew Launcher Installer](https://github.com/wiiu-env/homebrew_launcher_installer) készítői.
 > 
-> - **vgmoose**, **pwsincd**, **rw-r-r_0644**, **crc32**, **Compucat**, **Nightkingale** and the **4TU Team** for [hb-appstore](https://github.com/vgmoose/hb-appstore).
+> - **vgmoose**, **pwsincd**, **rw-r-r_0644**, **crc32**, **Compucat**, **Nightkingale**és a **4TU Team** a [hb-appstore](https://github.com/vgmoose/hb-appstore) készítői.
 > 
-> - **Jonhyjp** for [Indexiine](https://gbatemp.net/threads/indexiine-load-cfw-during-boot-and-offline-without-a-vc-ds-title.553681/).
+> - **Jonhyjp** az [Indexiine](https://gbatemp.net/threads/indexiine-load-cfw-during-boot-and-offline-without-a-vc-ds-title.553681/) készítője.
 > 
-> - **JumpCallPop**, **jam1garner**, **hedgeberg**, **yellows8** and **orboditilt** for [JSTypeHax](https://github.com/wiiu-env/JsTypeHax).
+> - **JumpCallPop**, **jam1garner**, **hedgeberg**, **yellows8** és **orboditilt** a [JSTypeHax](https://github.com/wiiu-env/JsTypeHax) készítői.
 > 
-> - **Dr Clipper**, **ZRicky11**, **dmm** and **FIX94** for <u>Patched IOS80 Installer for vWii</u>.
+> - **Dr Clipper**, **ZRicky11**, **dmm** és **FIX94** a <u>patchelt IOS80 Installer for vWii</u> készítői.
 > 
-> - **GabyPCgeeK**,  **Ryuzaki-MrL**, and **Xpl0itU** for [SaveMii WUT Port](https://github.com/Xpl0itU/savemii)
+> - **GabyPCgeeK**,  **Ryuzaki-MrL**, és **Xpl0itU** a [SaveMii WUT Port](https://github.com/Xpl0itU/savemii) készítői.
 > 
-> - **djskual**, **Loadiine GX2 Team**, **Yardape** and **brienj** for [WUP Installer GX2](https://sourceforge.net/projects/wup-installer-gx2/).
+> - **djskual**, **Loadiine GX2 Team**, **Yardape** és **brienj** a [WUP Installer GX2](https://sourceforge.net/projects/wup-installer-gx2/) készítői.
 > 
-> - **koolkdev** for [Wii U NAND Dumper](https://github.com/koolkdev/wiiu-nanddumper).
+> - **koolkdev** a [Wii U NAND Dumper](https://github.com/koolkdev/wiiu-nanddumper) készítője.
 > 
-> - **koolkdev** and **Maschell** for [Wii U NAND Dumper payload](https://github.com/wiiu-env/wiiu-nanddumper-payload).
+> - **koolkdev** és **Maschell** a [Wii U NAND Dumper payload](https://github.com/wiiu-env/wiiu-nanddumper-payload) készítői.
 > 
-> - **dimok789** for [wupclient.py](https://github.com/dimok789/mocha/blob/master/ios_mcp/wupclient.py).
+> - **dimok789** a [wupclient.py](https://github.com/dimok789/mocha/blob/master/ios_mcp/wupclient.py) készítője.
 > 
-> - **TheLordScruffy** for the [vwii-compat-installer](https://github.com/TheLordScruffy/vwii-compat-installer).
+> - **TheLordScruffy** a [vwii-compat-installer](https://github.com/TheLordScruffy/vwii-compat-installer) készítője.
 > 
-> - **marco-calautti** for the [Sigpatches Module](https://github.com/marco-calautti/SigpatchesModuleWiiU)
+> - **marco-calautti** a [Sigpatches Module](https://github.com/marco-calautti/SigpatchesModuleWiiU) készítője.

@@ -1,43 +1,40 @@
-# Unblocking Updates
+# Frissítések blokkolásának feloldása
 ---
-This is needed if you ever need to perform a System Update.
+Ez akkor szükséges, ha egy System Update-t kell elvégezned.
 
-?> If you are running Aroma and have deleted the update folder, you need to disable both autobooting and recreate the update folder.
+?> Ha Aromát futtatsz és törölted az update mappát, akkor tiltsd le az autobootingot és hozd újra léptre az update mappát.
 
-### Instructions {docsify-ignore}
+### Lépések {docsify-ignore}
 
 <!-- tabs:start -->
 
-#### **Removing Aroma Autoboot**
+#### **Az Aroma Autoboot eltávolítása**
 
-### Removing Aroma Autoboot
+### Az Aroma Autoboot eltávolítása
 
-?> When autobooting into the PayloadLoader, updates are automatically blocked. Follow the guide below to disable it.
+?> Ha autobootolsz a PayloadLoader-be, a frissítéek automatikusan blokkoltak. Kövesd az alábbi útmutatót a letiltásához.
 
-1. Launch the PayloadLoader Installer from the Wii U Menu.
-1. Press A to select `Check`.
-1. Select `Boot options`.
-1. You will be asked if you want to switch the boot title. Press A to select `Switch back to Wii U Menu`.
-1. When the process finished, press A to shutdown the console.
-1. Perform the System Update.
-1. Follow [this](../docs/user-guide/aroma/autoboot) to re-enable autobooting.
+1. Indítsd el a PayloadLoader Installer-t a Wii U Menu-ből.
+1. Nyomj A gombot a`Check` kiválasztásához.
+1. Válaszd a `Boot options`.-t.
+1. Megkérdezi, hogy szeretnéd-e megváltoztatni a boot címet. Válaszd a `Switch back to Wii U Menu` és nyomd meg az A gombot.
+1. Ha a folyamat befejeződött, nyomj A gombot a konzol leállításához.
+1. Végezz el egy system Update-et.
+1. Kövesd [ezt](../docs/user-guide/aroma/autoboot), hogy újra engedélyezd a autobooting-ot.
 
-#### **Recreating Update Folder**
+#### **A frissítés mappa újra létrehozása**
 
-### Recreating Update Folder
+### A frissítés mappa újra létrehozása
 
-1. Plug your SD Card into your Computer.
-1. Download [UFDiine](https://github.com/GaryOderNichts/UFDiine/releases/) and copy the `UFDiine.wuhb` file to `sd:/wiiu/apps` on the root of your SD Card.
-1. Plug the SD Card into your Wii U console and boot Aroma.
-1. Navigate the Wii U Menu and run the UFDiine app.
-1. Press the A button to delete the update folder.
-1. Confirm that it says `Update folder exists`. You are no longer blocking updates.
+1. Legyél biztos abban, hogy a legutolsó Aroma bétád van.
+1. Bootolj Aromába a (+) gomb megnyomásával.
+1. Tarts nyomva a (+) **és a** (-) gombokat, amíg azt nem mondja, hogy "Updates not blocked!".
 
-#### **Removing DNS Blocks**
+#### **DNS blokkok eltávolítása**
 
-### Removing DNS Blocks
+### DNS blokkok eltávolítása
 
-1. Enter the Wii U's system settings and navigate to `Internet > Connect to the Internet > Connection List >` `Your WiFi connection > Change Settings > DNS` and set the option to `Auto-obtain`.
-1. You are no longer blocking system updates.
+1. Lépj be a Wii U system settings-ébe és navigálj az `Internet > Connect to the Internet > Connection List >` `Your WiFi connection > Change Settings > DNS` és állítsd be az `Auto-obtain` opciót.
+1. Most már nem blokkolod a frissítéseket.
 
 <!-- tabs:end -->

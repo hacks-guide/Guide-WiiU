@@ -6,15 +6,15 @@ Denne siden vil hjelpe deg med å avinstallere PayloadLoader fra Wii U konsollen
 
 ### Dette Trenger Du {docsify-ignore}
 
-- The latest files from [Aroma for your café](https://aroma.foryour.cafe).
-    1. Scroll down to the **Download** section.
-    1. Read through the steps and click on the checkboxes.
-    1. Click on `Download Payloads` and `Download Base Aroma`.
-- The latest release of the [PayloadLoader Installer](https://github.com/wiiu-env/PayloadLoaderInstaller/releases).
+- Siste utgave av [Aroma for your café](https://aroma.foryour.cafe).
+    1. Bla ned til **Download**.
+    1. Les gjennom trinnene og marker checkboksene.
+    1. Trykk på `Download Payloads` og `Download Base Aroma`.
+- Siste utgave av [PayloadLoader Installer](https://github.com/wiiu-env/PayloadLoaderInstaller/releases).
 
 ### Tilbakestille Autobooting inn i PayloadLoader
 
-1. Launch the PayloadLoader Installer from the Wii U Menu.
+1. Kjør PayloadLoader Installer fra Wii U Menyen.
 1. Trykk A for å velge `Check`.
 1. Velg `Boot options`.
 1. Du vil bli spurt om du vil bytte boot title. Trykk A for å velge `Switch back to Wii U Menu`.
@@ -23,8 +23,8 @@ Denne siden vil hjelpe deg med å avinstallere PayloadLoader fra Wii U konsollen
 
 ### Avinstallere PayloadLoader
 
-1. Launch the Health & Safety Application and boot into Aroma.
-1. Launch the PayloadLoader Installer from the Wii U Menu.
+1. Kjør Health & Safety Appen og boot inn i Aroma.
+1. Kjør PayloadLoader Installer fra Wii U Menyen.
 1. Trykk A for å velge `Check`.
 1. Velg `Remove`.
 1. Du vil bli spurt om du virkelig vil fjerne PayloadLoader. Velg `Remove` igjen.

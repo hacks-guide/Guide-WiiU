@@ -1,6 +1,6 @@
 # Aroma {docsify-ignore-all}
 
-Aroma is a work-in-progress environment and the successor to Tiramisu.
+Aroma er ett work-in-progress environment og har tatt over for Tiramisu.
 
 ### Hva er Aroma?
 
@@ -14,8 +14,8 @@ For en detaljert oversikt, sjekk ut [denne bloggen](https://maschell.github.io/h
 
 #### Modules
 
-Aroma støtter modules, som alltid kjører i bakgrunnen, i motsetning til setup modules.  
-Dette gjør det mulig å få mere funksjoner ut av konsollen.
+Aroma supports modules which, unlike setup modules, always run in the background.  
+This allows for further extending the functionality of the console.
 
 #### Plugins
 

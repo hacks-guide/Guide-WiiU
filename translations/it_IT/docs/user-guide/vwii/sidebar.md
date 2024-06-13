@@ -1,11 +1,6 @@
 **Modding vWii**
 - [Pagina Iniziale](../introduction)
-- [Preparazione della SD](sd-preparation)
-- [Backup della NAND](nand-backup)
-- [Installazione dell'Homebrew Channel](installing-homebrewchannel)
-- [Installazione dei cIOS](installing-cioses)
-- [Patching IOS 80 (Optional)](patching-ios80)
-- [Completamento dell'installazione](finalizing-setup)
+- [Modding vWii](vwii-modding)
 - **Collegamenti**
 - [![GitHub](https://icongr.am/simple/github.svg?color=808080&size=16)GitHub](https://github.com/hacks-guide/Guide-WiiU)
 - [![Discord](https://icongr.am/simple/discord.svg?colored&size=16)Discord](https://discord.gg/C29hYvh)

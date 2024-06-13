@@ -12,11 +12,11 @@
 
  - **FSGetMountSource failed:** Même chose que -3 ci-dessus, cela signifie qu'aucune carte SD n'a été détectée. Réinsérez la carte SD et réessayez. This could also mean that the SD card is locked (Slider is down instead of up) or the SD card label is "WIIU", which is stated in the guide causes conflict. If it's not any of these issues, refer to the last suggestion from -3.
 
- - **FSOpenFile failed [...] payload.elf:** Fichier payload manquant sur la carte SD. Vérifiez que vous avez bien le fichier payload.elf dans le dossier wiiu.
+ - **FSOpenFile failed [...] payload.elf:** Fichier payload manquant sur la carte SD. Make sure you have payload.elf in the wiiu folder, and the wiiu folder on the root.
 
  - **FSOpenFile failed:** `homebrew_launcher` manquant sur la carte SD. Assurez-vous que vous avez `homebrew_launcher.elf` dans le dossier <code>/wiiu<wbr>/apps<wbr>/homebrew_launcher</code>.
 
- - **SD Mount Failed:** Similar to -4, the console recognizes the SD card but could not mount it. Make sure it is formatted properly. Also, your SD card is more compatible with reputable brands (i.e. SanDisk, Samsung, Lexar, etc.) and less likely to have issues.
+ - **SD Mount Failed:** Similar to -4, the console recognizes the SD card but could not mount it. Make sure it is formatted properly, and it is not damaged. Also, your SD card is more compatible with reputable brands (i.e. SanDisk, Samsung, Lexar, etc.) and less likely to have issues.
 
 ### Le menu Gestion des données demande de supprimer les données inutiles, qu'est-ce que cela signifie ?
 

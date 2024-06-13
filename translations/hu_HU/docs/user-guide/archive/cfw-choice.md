@@ -1,43 +1,43 @@
-# Choose The CFW You Want
+# Válaszd ki milyen CFW-t szeretnél
 ---
-!> **THE METHODS DESCRIBED IN THIS PAGE ARE NO LONGER SUPPORTED**  
-**CURRENT METHOD IS AVAILABLE [HERE](../introduction)**
+!> **AZ EZEN OLDALON LEÍRT METÓDUSOK MÁR NEM TÁMOGATOTTAK**  
+**AZ AKTUÁLIS METÓDUS ELÉRHETŐ [ITT](../introduction)**
 
-?> Before starting, make sure to update your Wii U console to the latest firmware (5.5.6 for North American consoles, 5.5.5 for all other regions) if you haven't already.
+?> Mielőtt elkezdenéd, frissítsd a Wii U konzolodat a legutolsó firmware-re (5.5.6 az észak-amerikai konzoloknál, 5.5.5 minden más régióban) ha még nem tetted meg.
 
-There are two main custom firmwares: Haxchi/Coldboot Haxchi (usually abbreviated as "CBHC"), as well as Mocha.
+Két fő egyedi firmware létezik: a Haxchi/Coldboot Haxchi (többnyire "CBHC"-nek rövidítve) és a Mocha.
 
-Haxchi/CBHC are both injected into a paid DS Virtual Console game. Haxchi will need to be manually started off the Wii U Menu to boot custom firmware, while CBHC will boot custom firmware automatically while the system is booting up. Mocha is accessed through the browser exploit or the Indexiine method, which makes it the only free custom firmware.
+A Haxchi/CBHC egy fizetős DS Virtual Console játékba injektált. A Haxchi-t kézzel kell indítani a Wii U Menu az egyedi firmware-re bootoláshoz, míg a CBHC automatikusan egyedi firmware-re bootol rendszerinduláskor. A Mocha browser exploit-on vagy az Indexiine módszeren alapul, ami az egyetlen ingyenes egyedi firmware-ré teszi.
 
-The custom firmware you decide to use is ultimately **your** preference. There is no right or wrong custom firmware to go with, so it is recommended that you feel free to pick the one that sounds the best for your needs!
+Hogy melyik egyedi firmware mellett döntesz, kizárólag **a te ** preferenciád. Nincs jó vagy rossz egyedi fimrware, így ajánlott, hogy válaszd ki magadnak azt ami leginkább megfelel számodra!
 
 ## Haxchi
 
-- Requires a legitimately installed, paid DS Virtual Console game from the eShop.
-- Can be used to launch CFW directly from the Wii U Menu.
-- Needs to be re-launched from the Wii U Menu every reboot to enable custom firmware.
-- Its functionality can be extended by installing Coldboot Haxchi (CBHC) to a Haxchi installation.
+- Szüksége van egy legálisan beszerzett fizetős DS Virtual Console játékra az eShop-ból.
+- Használható arra, hogy CFW-t indíts közvetlenül a Wii U Menu-ből.
+- Minden reboot után újra kell futtatni a Wii U Menu-ből, hogy engedélyezd az egyedi firmware-t.
+- A funkcionalitása kibővíthető, ha egy Coldboot Haxchi (CBHC)-t telepítünk a Haxchi telepítésre.
 
-### [**Continue with Haxchi**](haxchi/ds-vc-choice) {docsify-ignore}
+### [**Folytatás a Haxchi-val**](haxchi/ds-vc-choice) {docsify-ignore}
 
 ## CBHC
 
-!> Installing CBHC incorrectly can brick your Wii U! Make sure to follow the following rules when installing CBHC: <br>- The DS game has to be legitimately installed from the eShop! <br>- Don't format the system while CBHC is installed! <br>- Don't delete the user account that bought the DS Virtual Console game! <br>- Don't re-install the same game using WUP Installer or from the eShop! <br>- Don't install Haxchi over CBHC! (You will not brick, but it will cause a boot-loop! Hold A when booting to access the Homebrew Launcher and uninstall CBHC.) <br>- Don't uninstall the DS Virtual Console game without [properly uninstalling CBHC first](../uninstall-cbhc)! <br>- Don't move the DS Virtual Console game to a USB drive!
+!> CBHC hibás telepítése brickelheti a Wii U-dat! Legyél biztos abban, hogy követed a következő szabályokat a CBHC telepítésekor: <br>- Egy DS játéknak, amit az eShop-ból legálisan telepítve kell lennie! <br>- Ne formázd a rendszert, amíg a CBHC telepített! <br>- Ne töröld a fiókot, amelyik megvásárolta a Virtual Console játékot! <br>- Ne telepítsd újra ugyanazt a játékot a WUP Installer-rel vagy a eShop-ból! <br>- Ne telepíts Haxchi-t a CBHC-re! (nem fog brickelődni, de egy boot-loopot okoz! Tartsd nyomva az A-t bootoláskor, hogy elérd a Homebrew Launcher-t és távoítsd el a CBHC-t.) <br>- Ne távolítsd el a DS Virtual Console játékot, mielőtt [szabályosan eltávolítanád először a CBHC-t](../uninstall-cbhc)! <br>- Ne mozgasd a DS Virtual Console játékot egy USB meghajtóra!
 
-!> Breaking one of the above rules **can** result in a brick!
+!> A fenti szabályok valamelyikének megszegése brickeléshez **vezethet**!
 
-> If you are worried about breaking one of these rules while using CBHC, consider setting up Parental Controls for your user! Blocking `Data Management` and setting `Game Rating` to the highest possible rating can help prevent common mistakes users may make when using CBHC. Check [here](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1081/~/how-to-change-parental-controls) for more information on how to change your Parental Controls settings.
+> Ha aggódsz azon, hogy a CBHC használata közben megsérted ezeket a szabályokat, gondolkozz el a Parental Controls beállításán a felhasználódhoz! A `Data Management` blokkolása és a `Game Rating` beállítása a legnagyobb lehetséges értékelésnek megakadályozhatja a gyakori hibákat, amiket a felhasználók csinálhatnak a CBHC használata esetén. Nézd meg [itt](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1081/~/how-to-change-parental-controls) további ifnromációkért, hogy hogyan módosthatod a Parental Controls beállításokat.
 
-- Requires a legitimately installed paid DS Virtual Console game from the eShop.
-- Automatically launches custom firmware on every boot.
+- Szükséged van egy legálisan beszerzett fizetős DS Virtual Console játékra az eShop-ból.
+- Automatikusan indítja az egyedi firmware-t minden bootoláskor.
 
-### [**Continue with CBHC**](cbhc/ds-vc-choice) {docsify-ignore}
+### [**Folytatás a CBHC-vel**](cbhc/ds-vc-choice) {docsify-ignore}
 
 ## Mocha
 
-- Does not require any game, and is therefore free.
-- Needs to be re-launched through the browser exploit every reboot to enable custom firmware.
-- Is not compatible with the Homebrew Launcher Channel.
-- May require an Internet connection depending on what entry point you choose.
+- Nem szükséges hozzá semmilyen játék, így ingyenes.
+- Minden reboot után újra kell futtatni a browser exploiton keresztül, hogy engedélyezd az egyedi firmware-t.
+- Nem kompatibilis a Homebrew Launcher Channel-lel.
+- Elképzelhető, hogy szüksége van internet kapcsolatra függően az általd választott belépési ponttól.
 
-### [**Continue with Mocha**](mocha/entrypoint-choice) {docsify-ignore}
+### [**Folytatás a Mocha-val**](mocha/entrypoint-choice) {docsify-ignore}

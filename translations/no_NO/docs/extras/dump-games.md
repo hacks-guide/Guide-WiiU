@@ -19,27 +19,27 @@ Ikke bruk denne guiden til å dele spillene dine.
 
 - SD-kortet må ha nok plass til spillet du vil dumpe.
 - Hvis du ønsker å installere til USB, så trenger du en USB harddisk (+ en Y-kabel hvis det trengs).
-- The latest release of [WUP Installer GX2](https://wiiu.cdn.fortheusers.org/zips/wup_installer_gx2_wuhb.zip).
-- The [wudd](https://wiiu.cdn.fortheusers.org/zips/wudd.zip) homebrew application.
+- Siste utgave av [WUP Installer GX2](https://wiiu.cdn.fortheusers.org/zips/wup_installer_gx2_wuhb.zip).
+- [Wudd](https://wiiu.cdn.fortheusers.org/zips/wudd.zip) homebrew appen.
 
 #### Instruksjoner {docsify-ignore}
 
-1. Copy the contents of the `wup_installer_gx2_wuhb.zip` file to the root of your SD Card.
+1. Pakk ut `wup_installer_gx2_wuhb.zip` fila til roten av SD-kortet.
 1. Pakk ut `wudd.zip` til roten av SD-kortet.
 1. Ta SD-kortet ut av PCen og sett det inn i Wii U konsollen.
-1. Power on your Wii U and boot into Aroma.
-1. Launch the Wii U Menu and start the wudd app.
+1. Start opp Wii U'en og boot Aroma.
+1. Start Wii U menyen og kjør wudd.
 1. Velg `Dump partition as .app`
 1. Velg `Game` partisjonen for å starte dumping.
-1. When finished, exit wudd to the Wii U Menu.
+1. Når det er ferdig, gå ut av wudd tilbake til Wii U-menyen.
 1. Sett SD-kortet ditt i PC'en din.
 1. Kopier `GMXXXXXXXXXXXXXXXX` mappen fra `sd:/wudump/WUP-X-XXXX` til `install` mappen på SD-kortet.
     - Hvis `install` mappen ikke finnes, så opprett en ny en.
 1. Løs ut og sett SD-kortet inn i Wii U-en.
-1. Open the Wii U Menu and then the WUP Installer GX2 app.
+1. Start Wii U menyen og kjør WUP Installer GX2.
 1. Velg spillet ditt (`GMXXXXXXXXXXXXXXXX`), trykk `Install` og bekreft med `Yes`.
 1. Velg "USB" for å installere til USB og "NAND" for å installere til NAND
-1. Exit the WUP Installer GX2 to the Wii U Menu.
+1. Gå ut av WUP Installer GX2 tilbake til Wii U Menyen.
 1. Nå er spillet ditt installert, og klart til å spille.
 1. Ta SD-kortet ut av Wii U konsollen og sett den inn i PC'en din.
 1. Slett `GMXXXXXXXXXXXXXXXX` mappen i `install` mappen på SD-kortet ditt for å frigjøre plass.
