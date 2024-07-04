@@ -5,17 +5,17 @@
 
 ## A Homebrew Launcher Channel telepítése {docsify-ignore}
 
-This page will install the Homebrew Launcher Channel as an application directly to your Home Menu for easy access.
+Ez az oldal telepíti a Homebrew Launcher Channel-t, mint egy alkalmazást, a Home Menu-be a könnyű hozzáférésért.
 
-?> This page is only for Haxchi and CBHC users. The Homebrew Launcher Channel (the version of the Homebrew Channel you launch from the Wii U Menu) will **not** work with Mocha CFW!
+?> Ez az oldal csak Haxchi és CBHC felhasználóknak szól. A Homebrew Launcher Channel (a Homebrew Channel verzió, amit a Wii U Menu-ből indítasz) **nem műkődik** a Mocha CFW-vel!
 
 ### Lépések {docsify-ignore}
 
 1. Kapcsold be a konzolod.
-1. Press the Home button during the `Autobooting...` screen to get into the boot menu.
-1. Select `Boot Homebrew Launcher` to launch the Homebrew Launcher.
-1. Navigate the Homebrew Launcher and launch the WUP Installer GX2 application.
-1. Use the touchscreen to select `Homebrew Launcher Channel`. Press `Install` and confirm with `Yes`.
-1. Válaszd a NAND-ot telepítési célként (installation destination). This will install the Homebrew Launcher Channel to the Wii U Menu.
-1. Once the process is finished, press the Home button until you're back at the Wii U Menu.
-1. You will now see the Homebrew Launcher Channel installed on your Wii U Menu.
+1. Tarsd nyomva a Home gombot az `Autobooting...` képernyőn a boot menübe jutáshoz.
+1. Válaszd a `Boot Homebrew Launcher`-t a Homebrew Launcher indításához.
+1. Navigálj a Homebrew Launcherben és indítsd el a WUP Installer GX2 alkalmazást.
+1. Használd az éerintőképernyőt a `Homebrew Launcher Channel` kiválasztásához. Nyomj `Install`-t és erősítsd meg `Yes`-szel.
+1. Válaszd a NAND-ot telepítési célként (installation destination). Ez telepíti a Homebrew Launcher Channel-t a Wii U Menu-be.
+1. Ha a folyamat befejeződött, nyomd a Home gombot addig, amíg vissza nem térsz a Wii U Menu-be.
+1. Most már látni fogod a Homebrew Launcher Channel a Wii U Menu-dbe telepítve.
