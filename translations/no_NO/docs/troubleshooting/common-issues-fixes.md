@@ -12,11 +12,11 @@
 
  - **FSGetMountSource failed:** Samme som -3 ovenfor, betyr at SD-kortet ikke blir registrert. Sett inn SD-kortet på nytt og prøv igjen. Dette kan også bety at SD kortet har på skrivelås (Tappen på siden av kortet er dratt ned istedenfor opp) eller at du har gitt SD kortet navnet "WIIU", som vi tidligere har sagt vil lage konflikter. Hvis det ikke er noen av disse problemene, se på det siste forslaget om -3 ovenfor.
 
- - **FSOpenFile failed [...] payload.elf:** Mangler payload filen på SD-kortet. Kontroller at du har en payload.elf fil i wiiu mappen.
+ - **FSOpenFile failed [...] payload.elf:** Mangler payload filen på SD-kortet. Skjekk at du har payload.elf i wiiu mappen, og at wiiu mappen er på roten av SD-kortet.
 
  - **FSOpenFile failed:** Mangler `homebrew_launcher` på SD-kortet. Skjekk at du har `homebrew_launcher.elf` i <code>/wiiu<wbr>/apps<wbr>/homebrew_launcher</code> mappen.
 
- - **SD Mount Failed:** Lignende feilkode -4, Konsollen gjenkjenner SD kortet, men klarer ikke mounte den. Sørg for at den er formatert riktig. I tillegg er SD kort fra velkjente merkevarer mer kompatibelt (f.eks. SanDisk, Samsung, Lexar, osv.) og har større sjangs for å lykkes.
+ - **SD Mount Failed:** Lignende feilkode -4, Konsollen gjenkjenner SD kortet, men klarer ikke mounte den. Sørg for at den er formatert riktig, og at den ikke er skadet. I tillegg er SD kort fra velkjente merkevarer mer kompatibelt (f.eks. SanDisk, Samsung, Lexar, osv.) og har større sjangs for å lykkes.
 
 ### Data Management spør om "delete unnecessary data", what does it mean?
 

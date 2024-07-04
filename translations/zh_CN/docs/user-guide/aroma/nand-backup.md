@@ -18,6 +18,6 @@
    - Dump OTP: **yes**
    - Dump SEEPROM: **yes**
 3. 按下 A 键启动导出的进程。
-4. 当完成后，将 Wii U 关机，然后把 SD 卡从 Wii U 上拔出并插入电脑。
+4. When the process is completed, power off your Wii U, take your SD Card out of the Wii U and plug it into your PC.
 5. To make sure you don't lose the files, copy the `slc.bin`, `slccmpt.bin`, `seeprom.bin`, `otp.bin` and if you chose to go with a full backup, `every mlc.bin.part` file to your computer.
 6. 从 SD 卡中删除文件来腾出空间。

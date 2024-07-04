@@ -2,7 +2,7 @@
 ---
 A guide collaboration between Nintendo Homebrew's Helpers and Staff, from stock to Aroma custom firmware.
 
-?> **Discord Help** For live support with this guide please visit us in **#wiiu-vwii-assistance** on the [Nintendo Homebrew Discord](https://discord.gg/C29hYvh) and ask, in English, for assistance. 请先阅读 **#faq-wiiu** 频道和我们这里的[常见问题](faq)页面来确认你的问题是否已经有解决方法。
+?> **Discord Help** For live support with this guide please visit us in **#wiiu-assistance** on the [Nintendo Homebrew Discord](https://discord.gg/C29hYvh) and ask, in English, for assistance. 请先阅读 **#faq-wiiu** 频道和我们这里的[常见问题](faq)页面来确认你的问题是否已经有解决方法。
 
 > 如果你认为这份手册对你很有帮助，请向我们[捐赠](donations)。
 
@@ -46,6 +46,8 @@ Homebrew 是由用户自制的且 Nintendo 没有授权的程序。 包括存档
 > - A Wii U with internet access.
 >     
 >     A 32GB SD Card will be enough for most use-cases. A Micro SD Card in an adapter will work fine.
+
+?> **If you have an existing legacy CFW setup** </br> For **CBHC** users: Go to the [Uninstall CBHC](../uninstall-cbhc) page to uninstall CBHC. </br> For **Haxchi** users: Uninstall the Haxchi app from Data Management in the System Settings app. </br> For **Mocha CFW (Indexiine)** users: Go to the [Uninstall Indexiine](../uninstall-indexiine) page to uninstall Indexiine. </br> For **Mocha CFW (Online Exploit)** users: You do not need to do anything before following this guide.
 
 按照本教程给的步骤进行破解不会丢失你的数据（游戏、NNID和存档等等都应会被保存）。
 

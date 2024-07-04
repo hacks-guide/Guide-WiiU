@@ -46,7 +46,7 @@
 
 </details>
 
-!> 小心点，这东西可能在你大意的时候会破坏你 vWii 的 NAND！ 如果你还没有备份东西的话，请在做这些东西之前 [备份](mocha/online-exploit/nand-backup)好你的 SLCCMPT 和 OTP！
+!> 小心点，这东西可能在你大意的时候会破坏你 vWii 的 NAND！ Please consider [backing up](vwii/nand-backup) your SLCCMPT and OTP if you do not yet have them backed up!
 
 ?> 如果你正在阻止系统更新，请[关闭阻止更新](unblock-updates)。
 

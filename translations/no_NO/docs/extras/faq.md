@@ -15,7 +15,7 @@ Payloads, som normalt har filnavnet `payload.elf`, finnes for å gjøre det lett
 
 ### Hva er Environments?
 
-Ett Environment er en kolleksjon av "setup moduler", som vil kjøre i en bestemt rekkefølge når man starter ett environment. Such environments are Aroma and Tiramisu. Setup moduler er små biter med homebrew/kode som kjører en gang for å sette opp ett environment.
+Ett Environment er en kolleksjon av "setup moduler", som vil kjøre i en bestemt rekkefølge når man starter ett environment. Eksempel på environments er Aroma og Tiramisu. Setup moduler er små biter med homebrew/kode som kjører en gang for å sette opp ett environment.
 
 ### Hvordan sletter man update mappa for å blokkere systemoppdateringer på Wii U konsollen
 

@@ -1,60 +1,62 @@
-# Wii U Hacks Guide
+# Wii U Hack útmutató
 ---
-A guide collaboration between Nintendo Homebrew's Helpers and Staff, from stock to Aroma custom firmware.
+A Nintendo Homebrew segítői és munkatársai által készített útmutató, a gyáritól az Aroma egyedi firmware-ig.
 
-?> **Discord Help** For live support with this guide please visit us in **#wiiu-vwii-assistance** on the [Nintendo Homebrew Discord](https://discord.gg/C29hYvh) and ask, in English, for assistance. Please read **#faq-wiiu**, as well as our [Frequently Asked Questions](faq) page beforehand to see if your question has already been answered.
+?> **Discord segítség** Az élő támogatáshoz látogass el a **#wiiu-assistance** csatornára a [Nintendo Homebrew Discord](https://discord.gg/C29hYvh)-on és kérdezz angolul az asszitenciáért. Kérjük olvasd el **#faq-wiiu**-t és a [Gyakran Ismételt Kérdések](faq) oldalt, hogy lásd kérdésed megválaszolásra került-e már.
 
-> If you appreciate this guide, we accept [donations](donations).
+> Ha értékeled ezt az útmutatót, elfogadunk [adományokat](donations).
 
-> For complete guides to homebrew and custom firmware for other devices, check out [hacks.guide](https://hacks.guide).
+> A homebrew és egyedi firmware-ek teljes útmutatóját más eszközökhöz megtalálod [hacks.guide](https://hacks.guide) oldalon.
 
 ### Homebrew
 
-Homebrew applications are custom, user-made software, which haven’t been authorized by Nintendo. This can include save editing tools, games, emulators, and more.
+A homebrew alkalmazások olyan egyedi, felhasználó által készített szoftverek, amelyeket a Nintendo nem engedélyezett. Ezek közé tartozhatnak mentésszerkesztő eszközök, játékok, emulátorok és még sok más.
 
-Homebrew can be run on your Wii U as long as you have a way to put files on an SD Card and your Wii U is updated to the latest version for your region.
+Egy homebrew futtatható a Wii U-n, amennyiben van módod a fájlok SD-kártyára történő elhelyezésére, és a Wii U-d a régiódnak megfelelő legújabb verzióra van frissítve.
 
-### Custom Firmware
+### Egyedi Firmware
 
-Custom firmware (often abbreviated as "CFW") enables you to use more advanced hacks that userland homebrew can’t easily do. For instance, installing game modifications with ease. CFW can be set up on any console on the latest version.
+Az egyéni firmware (gyakran rövidítve "CFW") lehetővé teszi, hogy fejlettebb hackeket használj, amelyeket a userland homebrew nem tud könnyen megtenni. Például a játékmódosítások könnyed telepítését. A CFW bármelyik a legújabb verzión található konzolra beállítható.
 
-### Homebrew & CFW Uses
+### Homebrew & egyedi firmware felhasználási lehetőségek
 
-Among other things, it allows you to do the following:
+Többek között a következőket teszi lehetővé:
 
-- Use “ROM hacks” for games that you own.
-- Backup, edit and restore saves for many games.
-- Play games for older systems with various emulators, using RetroArch or other standalone emulators.
-- Play out-of-region games.
-- Dump your Wii U game discs to a format that can be installed on your internal or external Wii U storage drive.
+- "ROM hackek" használata a saját játékaidhoz.
+- Mentések mentése, szerkesztése és visszaállítása számos játékhoz.
+- Régebbi rendszerek játékainak lejátszása különböző emulátorokkal, a RetroArch vagy más önálló emulátorok használatával.
+- Játék régión kívüli játékokkal.
+- A Wii U játéklemezeit dumpolhat egy olyan formátumba, amely telepíthető a Wii U belső vagy külső tárolómeghajtójára.
 
 
-### End Goal
+### Végcél
 
-This guide has the end goal of taking a completely unmodified Wii U from stock to custom firmware.
+Ennek az útmutatónak az a célja, hogy egy módosítatlan Wii U-t a gyáriról egyéni firmware-re állítson át.
 
-### Before Starting
+### Kezdés előtt
 
-!> Before beginning the guide, you must know the risks of Wii U hacking: **EVERY** time you modify your system, there is always the potential for an **UNRECOVERABLE** brick. They’re rare but still a possibility so make sure you follow **ALL** directions **EXACTLY!**
+> Az útmutató végrehajtása előtt tisztában kell lenned a Wii U hackelésének kockázataival: **MINDEN** alkalommal, amikor módosítod a rendszeredet, mindig fennáll a veszélye egy **HELYREHOZHATATLANUL** brickeled azt. Ezek ritkák, de még mindig fennáll a lehetőség, ezért győződj meg róla, hogy **MINDEN** utasítást **PONTOSAN** követsz
 >
-> This guide will work on all Wii U consoles in all regions on the latest firmware (5.5.6 for North American consoles, 5.5.5 for all other regions) or below.
+> Ez az útmutató minden régióban minden Wii U konzolon működik a legújabb firmware-rel (5.5.6 az észak-amerikai konzolokon, 5.5.5 az összes többi régióban) vagy annál alacsonyabb verzióval.
 > 
-> You will need the following in order to successfully follow this guide:
+> A következőkre van szükséged, hogy sikeresen kövesd ezt az útmutatót:
 > 
-> - An SD Card.
-> - A device such as a computer to place files onto the SD Card.
-> - A Wii U with internet access.
+> - Egy SD kártya.
+> - Egy eszköz, például egy számítógép, amellyel fájlokat az SD-kártyára tudsz helyezni.
+> - Egy Wii U internet eléréssel.
 >     
->     A 32GB SD Card will be enough for most use-cases. A Micro SD Card in an adapter will work fine.
+>     Egy 32GB SD kártya elég kell legyen a legtöbb felhasználási célra. Egy Micro SD kártya egy adapteren is megfelelően működik.
 
-If everything goes according to plan, you will lose no data and end up with everything that you started with (games, saves, NNID, etc, will be preserved).
+?> **Ha már van korábbi legacy CFW telepítésed** </br> **CBHC** felhasználók: Menj a[CBHC eltávolítása](../uninstall-cbhc) oldalára a CBHC eltávolításához. </br> **Haxchi** fehasználók: Távolítsd el a Haxchi appot a Data Management alól a System Settings appban. </br> **Mocha CFW (Indexiine)** felhasználók: Menj az  [Indexiine eltávolítása](../uninstall-indexiine) oldalra az Indexiine eltávolításáért. </br> **Mocha CFW (Online Exploit)** felhasználók: Nem kell csinálnod semmit, mielőtt követnéd ezt az útmutatót.
 
-Keep your device plugged in throughout the entire process to avoid data loss or damage from an unexpected power-off.
+Ha minden a terv szerint halad, nem veszítesz el semmilyen adatot, és a végén minden megmarad, amivel elindultál (a játékok, mentések, NNID stb. megmaradnak).
 
-After following this guide, CFW will be loaded and enabled on boot, unless you choose to not follow the Autobooting Aroma section.
+Tartsd a készüléked a teljes folyamat alatt bedugva, hogy elkerüld az adatvesztést vagy a váratlan kikapcsolásból eredő károkat.
 
-It is advised that you read the entire guide from start to finish one or more times before actually running through the guide with your system.
+Miután követted ezt az útmutatót, a CFW betöltődik és engedélyezve lesz a rendszerindításkor, kivéve, ha úgy döntesz, hogy nem követed az Autobooting Aroma részt.
+
+Javasoljuk, hogy a teljes útmutatót az elejétől a végéig olvasd el egy vagy több alkalommal, mielőtt ténylegesen végigfuttatnád az útmutatót a rendszereddel.
 
 ---
 
-### [Continue to Aroma](aroma/getting-started) {docsify-ignore}
+### [Folytatás az Aroma-val](aroma/getting-started) {docsify-ignore}

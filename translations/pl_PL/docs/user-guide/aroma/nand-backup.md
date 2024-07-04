@@ -18,6 +18,6 @@ W sytuacji, gdyby cokolwiek poszło nie tak w późniejszym procesie i Twoja Wii
    - Dump OTP: **yes**
    - Dump SEEPROM: **yes**
 3. Naciśnij przycisk A, aby rozpocząć proces zrzucania na kartę SD.
-4. Po zakończeniu procesu, wyłącz Wii U, wyciągnij kartę SD z Wii U i podłącz ją do komputera.
+4. When the process is completed, power off your Wii U, take your SD Card out of the Wii U and plug it into your PC.
 5. To make sure you don't lose the files, copy the `slc.bin`, `slccmpt.bin`, `seeprom.bin`, `otp.bin` and if you chose to go with a full backup, `every mlc.bin.part` file to your computer.
 6. Usuń pliki z karty SD aby zwolnić miejsce.

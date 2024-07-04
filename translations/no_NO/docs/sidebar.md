@@ -1,8 +1,7 @@
 - **Bruker Guide**
 - [Introduksjon](introduction)
 - [Aroma](aroma/getting-started)
-- **vWii**
-- [vWii Modifisering](vwii/sd-preparation)
+- [vWii Modifisering](vwii/vwii-modding)
 - **Feilsøking**
 - [Vanlige Feil & Løsninger](common-issues-fixes)
 - [Gjenopprett en vWii IOS/Channel](recover-vwii-ioses-channels)
@@ -17,8 +16,9 @@
 - [Ofte Stilte Spørsmål](faq)
 - **Arkiv**
 - [Tiramisu](archive/tiramisu/sd-preparation)
-- [Legacy Methods](archive/cfw-choice)
+- [Utdaterte Metoder](archive/cfw-choice)
 - [Konfigurerbar Payload](configurable-payload)
+- [vWii Modifisering](archive/vwii/sd-preparation)
 - **Lenker**
 - [![GitHub](https://icongr.am/simple/github.svg?color=808080&size=16)GitHub](https://github.com/hacks-guide/Guide-WiiU)
 - [![Discord](https://icongr.am/simple/discord.svg?colored&size=16)Discord](https://discord.gg/C29hYvh)

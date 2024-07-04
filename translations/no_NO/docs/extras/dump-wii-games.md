@@ -2,7 +2,7 @@
 ---
 Dumping av Wii diskene dine lar deg spille dem på en Wii-emulator (Dolphin), spille dem fra en USB/SD loader som for eksempel Wiiflow, lage Virtual Console Injects som kan installeres på en Wii U formatert USB-lagringsenhet eller NAND, eller kjøres fra Wii U-menyen.
 
-?> Dumping av Wii spill krever et fungerende Homebrew oppsett på vWii, så fullfør [vWii Modifiserings guiden](vwii-modding) på forhånd.
+?> Dumping av Wii spill krever et fungerende Homebrew oppsett på vWii, så fullfør [vWii Modde guiden](vwii/sd-preparation) på forhånd.
 
 !> Det er **ULOVLIG** å dele filer dumpet med denne guiden.  
 Ikke bruk denne guiden til å dele spillene dine.

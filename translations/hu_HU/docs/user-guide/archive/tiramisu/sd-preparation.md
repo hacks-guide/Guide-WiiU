@@ -1,34 +1,34 @@
 # Tiramisu {docsify-ignore-all}
 
-## SD Preparation
+## SD kártya előkészítés
 
-We will now place the required CFW files and some additional homebrew files on the SD Card.
+A szükséges CFW fájlokat és néhány további homebrew fájlt rakunk majd az SD kártyára.
 
-?> **Notice** Your SD Card will need to be formatted as FAT32. If your SD Card is not formatted to FAT32, use [GUIFormat](http://ridgecrop.co.uk/index.htm?guiformat.htm) with 32k (32768) allocation unit size to format it. </br> **Do not** label the SD Card as `wiiu` or it will cause issues with homebrew.
+> **Fontos** Az SD kártyád FAT32-re kell legyen formázva. Ha az SD kártyád nem FAT32-re formázott, használd a [GUIFormat](http://ridgecrop.co.uk/index.htm?guiformat.htm)-ot 32k (32768) allocation unit size-zal a formázáshoz. </br>**Ne** cimkézd az SD kártyát `wiiu`-nak, különben problémát okoz a homebrew-nak.
 
-### What You Need
+### Mire van szükséged
 
-- The latest files from [Tiramisu for your café](https://tiramisu.foryour.cafe).
-    - Click on `Download Tiramisu`.
-- The latest release of the [Sigpatches Module](https://github.com/marco-calautti/SigpatchesModuleWiiU/releases).
-    - You will need to download the `01_sigpatches.rpx` file.
+- A legutolsó fájlok az [Tiramisu for your café](https://tiramisu.foryour.cafe) oldalról.
+    - Kattints a `Download Tiramisu`-ra.
+- A [Sigpatches Module](https://github.com/marco-calautti/SigpatchesModuleWiiU/releases) legutolsó kiadása.
+    - A `01_sigpatches.rpx` fájlt kell letöltened.
 
-### Instructions
+### Lépések
 
-1. Insert your Wii U's SD Card into your PC.
-1. **Extract** and copy the contents of the newly downloaded Tiramisu *`.zip`* file to the root of your SD Card.
-1. Copy the `01_sigpatches.rpx` file to `/wiiu/environments/tiramisu/modules/setup` on your SD Card.
+1. Helyezd be a Wii U-d SD kártyáját a PC-dbe.
+1. **Csomagold ki** és másold a tartalmát a frissen letöltött Tiramisu*`.zip`* fájlból az SD kártyád gyökerébe.
+1. Másold a `01_sigpatches.rpx` fájlt a `/wiiu/environments/tiramisu/modules/setup` útvonalra az SD kártyádon.
 
-?> If your computer asks you to overwrite existing files on your SD Card, you will need to click yes.
+?> Ha a számítógép rákérdezz, hogy felülírjuk-e a létező fájlokat az SD kártyán, akkor kattints a Igen-re.
 
-   If you're using a Mac, you have to select `Merge` instead of replace.
+   Ha Mac számmítógépet használsz, válaszd a `Merge` opciót a csere helyett.
 
 ----------
 
-### SD Card Layout {docsify-ignore}
+### SD kártya kiosztás
 
 <details>
-<summary>Click here to show the final SD Card layout.</summary>
+<summary>Kattints ide a végső SD kártya kiosztás megtekintéséhez.</summary>
 
 ```
 💾sd:
@@ -39,7 +39,7 @@ We will now place the required CFW files and some additional homebrew files on t
  ┃ ┃ ┃ ┣ 📜icon.png
  ┃ ┃ ┃ ┗ 📜meta.xml
  ┃ ┃ ┣ 📜PayloadLoaderInstaller.wuhb
- ┃ ┃ ┗ (All other apps should be here too)
+ ┃ ┃ ┗ (Minden más appnak is itt kell lennie.)
  ┃ ┣ 📂environments
  ┃ ┃ ┣ 📂installer
  ┃ ┃ ┃ ┗ 📂modules

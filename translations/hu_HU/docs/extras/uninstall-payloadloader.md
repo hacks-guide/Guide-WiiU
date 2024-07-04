@@ -1,31 +1,31 @@
-# Uninstall PayloadLoader
+# A PayloadLoader eltávolítása
 ---
-This page will guide through the process of uninstalling the PayloadLoader from your Wii U.
+Ez az oldal végigvezet a PayloadLoader Wii U-dról eltávolításán.
 
-!> A factory reset **won't** uninstall the injected PayloadLoader. To fully uninstall it, follow this guide.
+> A gyári visszaállítás **nem** távolítja el a beillesztett PayloadLoader-t. A teljes eltávolításhoz kövesd ezt az útmutató.
 
-### What You Need {docsify-ignore}
+### Amire szükséged van {docsify-ignore}
 
-- The latest files from [Aroma for your café](https://aroma.foryour.cafe).
-    1. Scroll down to the **Download** section.
-    1. Read through the steps and click on the checkboxes.
-    1. Click on `Download Payloads` and `Download Base Aroma`.
-- The latest release of the [PayloadLoader Installer](https://github.com/wiiu-env/PayloadLoaderInstaller/releases).
+- A legutolsó fájlok az [Aroma for your café](https://aroma.foryour.cafe). oldalról.
+    1. Görgess le a **Download** szakaszig.
+    1. Olvasd el a lépéseket, és kattintsd be a jelölő négyzeteket.
+    1. Kattints a `Download Payloads` és a `Download Base Aroma` opciókra.
+- A [PayloadLoader Installer](https://github.com/wiiu-env/PayloadLoaderInstaller/releases) legutolsó kiadása.
 
-### Undo Autobooting into PayloadLoader
+### A PayloadLoader-be autobootolás visszacsinálása
 
-1. Launch the PayloadLoader Installer from the Wii U Menu.
-1. Press A to select `Check`.
-1. Select `Boot options`.
-1. You will be asked if you want to switch the boot title. Press A to select `Switch back to Wii U Menu`.
-1. When the process finished, press A to shutdown the console.
-1. The console will now boot again into the Wii U Menu. The PayloadLoader can still be launched by launching the Health & Safety Application.
+1. Indítsd el a PayloadLoader Installer-t a Wii U Menu-ből.
+1. Nyomj A gombot a`Check` kiválasztásához.
+1. Válaszd a `Boot options`.-t.
+1. Megkérdezi, hogy szeretnéd-e megváltoztatni a boot címet. Nyomj A gombot a `Switch back to Wii U Menu` opció kiválasztásához.
+1. Ha a folyamat befejeződött, nyomj A gombot a konzol leállításához.
+1. A konzol mos már újra a Wii Menu-be bootol. A PayloadLoader továbbra is indítható a Health & Safety appal.
 
-### Uninstall PayloadLoader
+### A PayloadLoader eltávolítása
 
-1. Launch the Health & Safety Application and boot into Aroma.
-1. Launch the PayloadLoader Installer from the Wii U Menu.
-1. Press A to select `Check`.
-1. Select `Remove`.
-1. You will be asked if you really want to remove the PayloadLoader. Select `Remove` again.
-1. When the process finished, press A to shutdown the console.
+1. Indítsd el a Health & Safety appot és bootoljál Aromába.
+1. Idnítsd el a PayloadLoader Installer-t a Wii U Menu-ből.
+1. Nyomj A gombot a`Check` kiválasztásához.
+1. Válaszd a `Remove`-ot.
+1. Rá fog kérdezni, hogy biztos el akarod-e távolítani a PayloadLoader-t. Válaszd az a `Remove`-ot újra.
+1. Ha a folyamat befejeződött, nyomj A gombot a konzol leállításához.

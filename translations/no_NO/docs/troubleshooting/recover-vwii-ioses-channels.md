@@ -46,7 +46,7 @@ Denne siden vil hjelpe deg til å gjenopprette en IOS eller channel i vWii, om d
 
 </details>
 
-!> Du kan potensielt ødelegge vWii NAND hvis du ikke er forsiktig! Lag en [backup](mocha/online-exploit/nand-backup) av SLCCMPT og OTP hvis du ikke har gjort det enda!
+!> Du kan potensielt ødelegge vWii NAND hvis du ikke er forsiktig! Vi anbefaler at du tar en[backup](vwii/nand-backup) av SLCCMPT og OTP mappene hvis du enda ikke har gjort det!
 
 ?> Hvis du bruker en blokkeringsmetode for systemoppdateringer, må du [tilbakestille den ](unblock-updates).
 

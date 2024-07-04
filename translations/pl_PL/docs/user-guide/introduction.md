@@ -2,7 +2,7 @@
 ---
 A guide collaboration between Nintendo Homebrew's Helpers and Staff, from stock to Aroma custom firmware.
 
-?> **Discord Help** For live support with this guide please visit us in **#wiiu-vwii-assistance** on the [Nintendo Homebrew Discord](https://discord.gg/C29hYvh) and ask, in English, for assistance. Przeczytaj **#faq-wiiu**, odwiedź też stronę [Najczęściej zadawane pytania](faq) wcześniej, aby sprawdzić, czy odpowiedź na Twoje pytanie nie została już udzielona wcześniej.
+?> **Discord Help** For live support with this guide please visit us in **#wiiu-assistance** on the [Nintendo Homebrew Discord](https://discord.gg/C29hYvh) and ask, in English, for assistance. Przeczytaj **#faq-wiiu**, odwiedź też stronę [Najczęściej zadawane pytania](faq) wcześniej, aby sprawdzić, czy odpowiedź na Twoje pytanie nie została już udzielona wcześniej.
 
 > Jeśli doceniasz ten poradnik, udziel nam [wsparcia](donations).
 
@@ -46,6 +46,8 @@ Ten poradnik ma na celu przekształcenie całkowicie niezmodyfikowanego Wii U, d
 > - A Wii U with internet access.
 >     
 >     A 32GB SD Card will be enough for most use-cases. A Micro SD Card in an adapter will work fine.
+
+?> **If you have an existing legacy CFW setup** </br> For **CBHC** users: Go to the [Uninstall CBHC](../uninstall-cbhc) page to uninstall CBHC. </br> For **Haxchi** users: Uninstall the Haxchi app from Data Management in the System Settings app. </br> For **Mocha CFW (Indexiine)** users: Go to the [Uninstall Indexiine](../uninstall-indexiine) page to uninstall Indexiine. </br> For **Mocha CFW (Online Exploit)** users: You do not need to do anything before following this guide.
 
 Jeśli wszystko pójdzie zgodnie z planem, nie stracisz żadnych danych i wszystkie gry, zapisy, NNID itp., zostaną zachowane.
 

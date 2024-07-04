@@ -17,30 +17,30 @@ Un payload, il cui file è solitamente chiamato `payload.elf`, esiste per portar
 
 Un ambiente è una raccolta di "moduli di configurazione", che saranno eseguiti in un certo ordine quando si avvia l'ambiente. Such environments are Aroma and Tiramisu. I moduli di configurazione sono piccoli pezzi di homebrew/codice che vengono eseguiti una volta per configurare un ambiente.
 
-### How to Delete Update Folder to Block Updates on Wii U
+### Come eliminare la cartella Update per bloccare gli aggiornamenti su Wii U
 
-If you want to delete the update folder to block updates, see its tab in the [Blocking Updates guide](block-updates).
+Se vuoi eliminare la cartella Update per bloccare gli aggiornamenti, segui la scheda relativa nella [guida sul blocco degli aggiornamenti](block-updates).
 
-### What SD Card size is recommended?
+### Quale dimensione di scheda SD è consigliata?
 
  - **Installare backup di giochi:** 32GB (si potrebbe usare una dimensione inferiore, ma certi titoli sono di 20GB)
  - **Eseguire mod di giochi:** 8GB (USB FAT32 potrebbero anche essere utilizzate per le mod)
  - **Solo eseguire app homebrew:** Qualsiasi dimensione.
 
-**Recommended brands:** SanDisk, Samsung or PNY
+**Marche consigliate:** SanDisk, Samsung o PNY
 
-?> Note: Avoid class 4 SD Cards, and avoid eBay!
+?> Nota: Evita le schede SD di classe 4 ed evita eBay!
 
-### Can I install homebrew on Wii U with a USB instead of SD Card?
+### Posso installare homebrew su Wii U con una USB invece di una scheda SD?
 
-No, you must have an SD Card for a first time setup. A USB can then be used to install game backups, Virtual Console injects, etc, but not to store homebrew applications which are required to set everything up.
+No, devi avere una scheda SD per la prima configuazione. Una USB può successivamente essere usata per installare backup di giochi, inject per Virtual Console, ecc., ma non per memorizzare applicazioni homebrew che sono necessarie per configurare tutto.
 
 ### Quando si estraggono alcuni file ci sono determinati duplicati chiamati "info.json" & "manifest.install", cosa devo fare con questi?
 
-Niente di speciale, puoi lasciarli lì, eliminarli o sostituirli con dei nuovi. Those files are not used in the process, and therefore, won't have any impact by being or not being there.
+Niente di speciale, puoi lasciarli lì, eliminarli o sostituirli con dei nuovi. Questi file non vengono utilizzati nel processo, quindi non cambierà nulla se sono presenti o meno.
 
-### What is a Wii U formatted USB drive?
+### Cos'è un dispositivo USB formattato per Wii U?
 
-It's a USB drive that has been formatted by a Wii U console to its proprietary format.  
-A Wii U formatted USB drive ***cannot be read by any other devices than the Wii U that originally formatted it.***  
-If you ever want to use it with another Wii U console or any other devices, you will have to reformat it.
+È un dispositivo USB che è stato formattato da una console Wii U nel suo formato proprietario.  
+Un dispositivo formattato per Wii U ***non può essere letto da nessun altro dispositivo oltre al Wii U che lo ha formattato originariamente.***  
+Qualora volessi usarlo con un'altra console Wii U o con altri dispositivi, dovrai formattarlo nuovamente.
