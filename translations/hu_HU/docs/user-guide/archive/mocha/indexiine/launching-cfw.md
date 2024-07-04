@@ -5,11 +5,11 @@
 
 ## A CFW indítása {docsify-ignore}
 
-Más rendszerekkel, mint DSi, Wii, vagy 3DS, a Wii U CFW átmeneti. This means that as soon as your system reboots, you will lose CFW and have to follow these instructions again. This can be skipped by installing CBHC to a Haxchi CFW installation.
+Más rendszerekkel, mint DSi, Wii, vagy 3DS, a Wii U CFW átmeneti. Ez azt jelenti, hogy amint a rendszered rebootol, el fogod veszteni a CFW-d és újra követned kell ezeket a lépéseket. Ez átugorható a CBHC Haxchi CFW-re telepítéssel.
 
 ### Lépések {docsify-ignore}
 
-1. Launch the Homebrew Launcher by launching the Internet Browser.
-1. Navigate the Homebrew Launcher and open the Mocha CFW app.
-1. It will take you back to the Homebrew Launcher and enable CFW.
-1. You will need to re-do these steps every reboot to launch CFW.
+1. Indítsd el a Homebrew Launcher-t az Internet Browser indításával.
+1. Navigálj a Homebrew Launcher-rel és nyisd meg a Mocha CFW app-ot.
+1. Ez visszavisz a Homebrew Launcher-be és engedélyezi a CFW-t.
+1. Minden egyes újrabootoláskor újra kell csinálnod ezeket a lépéseket a CFW indításához.
