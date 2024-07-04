@@ -4,22 +4,22 @@
 
 Most, hogy a PayloadLoader, az Environment Loader and és az Tiramisu telepítésre került, véglegesítjük a telepítést.
 
-We are going to make the Tiramisu environment start automatically when your console autoboots the Health and Safety Information app (or when manually launching it if you chose not to autoboot it) and select Wii U Menu as default as well as getting additional homebrew apps.
+Be fogjuk állítni a Tiramisu környezetet, hogy automatikusan induljon, amikor a konzol autobootolja a Health and Safety Information app-ot (vagy amikor kézzel indítod, mert nem lett autoboot beállítva) és kiválasztjuk a Wii U Menu-t alapértelmezettként, és néhány további homebrew appot telepítünk.
 
-### Setting up PayloadLoader, Environment Loader and Tiramisu
+### A PayloadLoader, az Environment Loader és a Tiramisu telepítése
 
 1. Kapcsold be a Wii U-d.
     - Az Environment Loader-nek kell megjelennie.
 1. A D-Pad-et használva, navigálj az `tiramisu`-hoz és nyomj Y gombot, hogy beállítsd ezt az alapértelmezett környezetednek, majd nyomj A gombot a Tiramisu indításához.
     - Előfordulhat, hogy egy piros figyelmeztető képernyőt kapsz, hogy a frissítések nem lettek megfelelően blokkolva. Nyomj A gombot a folytatáshoz mindenképp. Blokkolni fogjuk a frissítéseket "A frissítések blokkolása" fejezetben később.
-    - To open the Environment Loader in the future, you have to hold X while your Wii U is booting up.
-1. On the Tiramisu Boot Selector, the `Wii U Menu` should already be selected, press Y to set this to your default autobooting option, then press A to launch into the Wii U Menu.
-    - To open the Tiramisu Boot Selector in the future, you have to hold START (+) while your Wii U is booting up.
+    - A Environment Loader megnyitásához a jövőben tartsd nyomva az X gombot, amíg a Wii U bebootol.
+1. A Tiramisu Boot Selector-ban a `Wii U Menu`-nek kell beállítva lennie, nyomj Y-t, hogy beállítsd alapértelmezett autoboot opciónak, majd nyomj A gombot, hogy elindítsd a Wii U Menu-t.
+    - A Tiramisu Boot Selector megnyitásához a jövőbn tartsd nyomva a START (+) gombot, amíg a Wii U bebootol.
 
-?> Once you're booted into the Tiramisu environment, you can open the Mii Maker at any time to get into the Homebrew Launcher. <br>Homebrew Launcher will be empty for first-time modders. Follow the rest of the guide to install apps into the Homebrew Launcher. <br>To get back into the Mii Maker, simply press the HOME button while in the Homebrew Launcher.
+?> Ha bebootoltált a Tiramisu környezetbe, megnyithatod a Mii Maker-t bármikor, hogy a Homebrew Launcher-be juss. <br>A Homebrew Launcher üres lesz az első alkalommal moddolók számára. Kövesd az útmutató többi részét arról, hogyan telepíthetsz alkalmazásokat a Homebrew Launcher-be. <br>A Mii Maker-hez visszatéréshez csak simán nyomd meg a HOME gombot a Homebrew Launcher-ben.
 
 ### Frissítések blokkolása
-While Tiramisu's PayloadLoader already has built-in update blocking functionality, it is recommended to delete the update folder to effectively block system updates. Ha egy piros figyelmezető képernyőt kapsz, az Tiramisu-ra bootolás közben, akkor az update folder még mindig létezik, és ajánlott a törlése [ezen](../block-updates) útmutató alapján.
+Habár a Tiramisu PayloadLoader-e már rendelkezik beépített blokkolás funkcionalitással, ajánlott, hogy töröld az update mappát, hogy effektíven blokkold a rendszer frissítéseket. Ha egy piros figyelmezető képernyőt kapsz, az Tiramisu-ra bootolás közben, akkor az update folder még mindig létezik, és ajánlott a törlése [ezen](../block-updates) útmutató alapján.
 
 ### További Homebrew Appok
 
@@ -36,7 +36,7 @@ While Tiramisu's PayloadLoader already has built-in update blocking functionalit
 ### További Homebrew appok - Fájlok kicsomagolása az SD kártyára
 
 1. Másold a `SaveMiiModWUTPort.zip` fájl tartalmát az SD kártyád gyökerébe.
-1. Extract the contents of the newly downloaded `Bloopair_vX.X.X.zip` file.  
-   Copy the `30_bloopair.rpx` to the `wiiu/environments/tiramisu/modules/setup/` folder on the root of your SD Card.  
-   Copy the `wiiu` folder to the root of your SD Card.
+1. Csomagold ki a tartalmát a frissen letöltött `Bloopair_vX.X.X.zip` fájlnak.  
+   Másold a `30_bloopair.rpx` fájlt a `/wiiu/environments/tiramisu/modules/setup/` mappába az SD kártyádon.  
+   Másold a `wiiu` mappát az SD kártyád gyökerébe.
 1. Másold a frissen letöltött `wiiu-extracttosd.zip` fájl tartalmát az SD kártyád gyökerébe.
