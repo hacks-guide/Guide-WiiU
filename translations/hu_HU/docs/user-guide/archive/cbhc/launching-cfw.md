@@ -7,9 +7,9 @@
 
 Most, hogy megvan a NAND biztonsági mentésed arra az esetre, ha később bármi rosszul sülne el, futtathatod a CFW-t a rendszereden.
 
-Más rendszerekkel, mint DSi, Wii, vagy 3DS, a Wii U CFW átmeneti. This means that as soon as your system reboots, you will lose CFW and have to follow these instructions again. This can be skipped by installing CBHC to a Haxchi CFW installation.
+Más rendszerekkel, mint DSi, Wii, vagy 3DS, a Wii U CFW átmeneti. Ez azt jelenti, hogy amint a rendszered rebootol, el fogod veszteni a CFW-d és újra követned kell ezeket a lépéseket. Ez átugorható a CBHC Haxchi CFW-re telepítéssel.
 
-!> Installing CBHC incorrectly can brick your Wii U. Make sure to follow the following rules when installing CBHC: <br>- The DS game has to be legitimately installed from the eShop! <br>- Ne formázd a rendszert, amíg a CBHC telepített! <br>- Ne töröld a fiókot, amelyik megvásárolta a Virtual Console játékot! <br>- Ne telepítsd újra ugyanazt a játékot a WUP Installer-rel vagy a eShop-ból! <br>- Ne telepíts Haxchi-t a CBHC-re! <br>- Ne távolítsd el a DS Virtual Console játékot, mielőtt [szabályosan eltávolítanád először a CBHC-t](../uninstall-cbhc)! <br>- Ne mozgasd a DS Virtual Console játékot egy USB meghajtóra!
+!> A CBHC nem megfelelő telepítése brickelheti a Wii U-dat. Legyél biztos abban, hogy követed a következő szabályokat, amikor CBHC-t telepítesz: <br>- A DS játéknak az eShopból legálisan telepített játéknak kell lennnie! <br>- Ne formázd a rendszert, amíg a CBHC telepített! <br>- Ne töröld a fiókot, amelyik megvásárolta a Virtual Console játékot! <br>- Ne telepítsd újra ugyanazt a játékot a WUP Installer-rel vagy a eShop-ból! <br>- Ne telepíts Haxchi-t a CBHC-re! <br>- Ne távolítsd el a DS Virtual Console játékot, mielőtt [szabályosan eltávolítanád először a CBHC-t](../uninstall-cbhc)! <br>- Ne mozgasd a DS Virtual Console játékot egy USB meghajtóra!
 
 !> A fenti szabályok valamelyikének megszegése brickeléshez vezet.
 
@@ -18,18 +18,18 @@ Más rendszerekkel, mint DSi, Wii, vagy 3DS, a Wii U CFW átmeneti. This means t
 ### Lépések {docsify-ignore}
 
 1. Vedd ki az SD kártyát a számítógépedből, és dugd be a Wii U konzolodba.
-1. If you haven't already, now download your DS Virtual Console game of choice from the eShop.
-1. Launch the Homebrew Launcher on your system as [previously explained](browser-exploit).
-1. Navigate the Homebrew Launcher and open the Haxchi app.
-1. Use the D-Pad to navigate the cursor to the game you want to install Haxchi to and press the A button to install it.
-1. Once the installation has finished, your console will launch the Wii U Menu. You will see your game replaced by a Haxchi icon.
-1. Run the modified DS game. This will reboot the console and enable CFW.
-1. Run the modified DS game again and hold the A button after launching it. Ez futtatni fogja a Homebrew Launcher-t.
-1. Navigate the Homebrew launcher and run the CBHC app.
-1. Use the D-Pad to navigate the cursor to the game you previously installed Haxchi to and press the A button to install CBHC.
-1. Once the installation has finished, your console will launch the Wii U Menu.
-1. Indítsd újra a konzolod. If CBHC installed correctly, you should see a new boot menu. (CBHC is not compatible with Quick Start. If you are using the Quick Start Menu, please turn it off.)
-1. Use the D-Pad to navigate to `Autoboot: Disabled` and press the A button until it says `Autoboot: System Menu`.
-1. Use the D-Pad to navigate to `Boot System Menu` and press the A button. This will launch the Wii U Menu with CFW enabled.
-1. Your console now automatically boots into CFW every reboot.
-1. You can now re-attach any USB devices you had attached before starting the guide.
+1. Ha még nem tetted meg, akkor töltsd le a választásodnak megfelelő DS Virtual Console játékot az eShop-ból.
+1. Indítsd el a Homebrew Launcher-t a rendszereden, úgy [ahogy korábban leírásra került](browser-exploit).
+1. Navigálj a Homebrew Launcher-rel és nyisd meg a Haxchi app-ot.
+1. A D-Pad segítségével navigáld a kurzort a játékhoz, amihez a Haxchi-t telepítenéd, majd nyomj A gombot a telepítéshez.
+1. Ha a telepítés befejeződött, a konzolod elindítja a Wii U Menu-t. Látni fogod, hogy a játékodat felülírta a Haxchi ikon.
+1. Futtasd a módosított DS játékot. Ez újraindítja a konzolt és engedélyezi a CFW-t.
+1. Futtasd a módosított DS játékot újra és tartsd nyomva az A gombot az indítása után. Ez futtatni fogja a Homebrew Launcher-t.
+1. Navigálj a Homebrew Launcher-rel és indítsd el a CBHC app-ot.
+1. A D-Pad segítségével navigáld a kurzort a játékhoz, amihez a Haxchi-t telepítetted, majd nyomj A gombot a CBHC telepítéséhez.
+1. Ha a telepítés befejeződött, a konzolod elindítja a Wii U Menu-t.
+1. Indítsd újra a konzolod. Ha a CBHC jól települt, akkor egy új boot menüt kell látnod. (A CBHC nem kompatibilis a Gyorsindítással. Ha használod a Quick Start Menu-t, kapcsold ki.)
+1. Használd a D-Pad-et az `Autoboot: Disabled`-hez navigáláshoz és nyomj A gombot, amíg azt nem mutatja, hogy `Autoboot: System Menu`.
+1. A D-Pad segítségével navigálj a `Boot System Menu` opcióhoz és nyomd meg az A gombot. Ez újraindítja a Wii U Menu-t aktivált CFW-vel.
+1. A konzolod most már minden újra-bootoláskor automatikusan a CFW-be bootol.
+1. Most már újra csatlakoztathatsz bármilyen USB eszközt, amit az útmutató elkezdése előtt is csatlakoztattál.
