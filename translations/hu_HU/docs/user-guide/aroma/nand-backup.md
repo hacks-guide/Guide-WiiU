@@ -19,5 +19,6 @@ Ha a későbbi folyamat során bármi rosszul sülne el, és a Wii U brickelődn
    - Dump SEEPROM: **yes**
 3. Nyomj A gombot a dumpolás elindításához.
 4. Ha a folyamat befejeződött, kapcsold ki a Wii U-dat, vedd kiaz SD kártyád a Wii U-ból és dugd be a PC-dbe.
-5. Hogy biztos lehess, hogy nem veszted el a fájlokat, másold az `slc.bin`, az`slccmpt.bin`, a `seeprom.bin` és az `otp.bin` fájlokat és ha teljes mentést választottál, akkor `minden mlc.bin.part` fájlt is a számítógépedre.
-6. Töröld a fájlokat az SD kártyádról helyfelszabadítás végett.
+5. Hogy biztos lehess, hogy nem veszted el a fájlokat, másold az `slc.bin`, az`slccmpt.bin`, a `seeprom.bin` és az `otp.bin` fájlokat (és ha teljes mentést választottál, akkor `minden mlc.bin.part` fájlt is) valami biztos helyre (Documents, Google Drive, OneDrive, stb.) a számítógépeden.
+   - Az SD kártya gyökerében fognak megjelenni.
+6. Töröld az SD kártyádról a helyfelszabadítás végett ide másolt fájlokat.
