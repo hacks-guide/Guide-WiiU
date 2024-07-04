@@ -4,9 +4,9 @@ Aroma er ett work-in-progress environment og har tatt over for Tiramisu.
 
 ### Hva er Aroma?
 
-Aroma er ett environment som Tiramisu, som kan bootes gjennom Environment Loader.  
-Aroma, akkurat som Tiramisu, bruker den samme Mocha versionen, har støtte for setup modules, og kommer med Autoboot Module, som inkluderer boot selector og Quick Start support.  
-Aroma kommer med flere tilleggsfunksjoner, inkludert et pluginsystem og en ny måte å starte homebrew på.
+Aroma is an environment like Tiramisu, which can be booted through the Environment Loader.  
+Aroma, just like Tiramisu, uses the same Mocha version, support for setup modules, and comes with the Autoboot Module, which includes the boot selector and Quick Start support.  
+Aroma comes with several additional features, including a plugin system, a new way of launching homebrews, and many built-in modules and plugins (i.e. Region Free patches).
 
 ### Hva kan jeg gjøre med Aroma?
 
@@ -31,9 +31,9 @@ Med `homebrew_on_menu` plugin, kan WUHB filer kjøres direkte fra Wii U menu, ak
 
 ### Hva er begrensningene?
 
-På grunn av tekniske begrensninger vil ikke mange gamle homebrew apper lenger virke i Aroma.  
-Dette inkluderer allel `.elf` homebrews, men også noen `.rpx` homebrews, som ikke oversetter funksjonene riktig.  
-Disse homebrew appene må bli oppdatert med Aroma support. For å kjøre gamle homebrews må du starte Tiramisu environment.  
+Due to technical limitations, a lot of old homebrew applications will no longer work with Aroma.  
+This includes all `.elf` homebrews, but also some `.rpx` homebrews(i.e. RetroArch), which don't implement necessary functionality properly.  
+These homebrews need to be updated with support for Aroma. For å kjøre gamle homebrews må du starte Tiramisu environment.  
 Det går ikke lenger ann å kjøre homebrew gjennom Homebrew Launcher i Aroma.
 
-I tillegg til begrensningene nevnt ovenfor skal det bemerkes at Aroma fortsatt er en betaversjon. Ikke alt er testet ennå, og eventuelle ytterligere problemer kan bli oppdaget.  
+I tillegg til begrensningene nevnt ovenfor skal det bemerkes at Aroma fortsatt er en betaversjon. Ikke alt er testet ennå, og eventuelle ytterligere problemer kan bli oppdaget. This doesn't necessarily mean Aroma is unstable, but there is a chance that you may experience something not working properly.
