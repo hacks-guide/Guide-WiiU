@@ -13,7 +13,7 @@ Ikke bruk denne guiden til å dele spillene dine.
 
 ?> Når du installerer et spill til en USB-enhet, anbefaler vi at du bruker en ekstern harddisk istedenfor en USB-penn, siden de ikke er laget for kontinuerlig lesing og skriving, og vil brenne ut minnet fort. Hvis den eksterne harddisken din ikke har eget strømadapter, trenger du en Y-kabel for å koble den til to USB-porter i Wii U konsollen din.
 
-!> For å installere spillet til en USB-enhet, må den være formatert av Wii U konsollen. Når du formaterer USB-enheten så slettes alt innhold og hindrer enheten i å brukes med en annet Wii U konsoll eller PC ol. med mindre du formaterer det på nytt til ett annet format. For å gjøre dette, plugg inn USB harddisken i Wii U konsollen, og så slå på konsollen, du vil da få beskjed om å formatere harddisken. Bekreft med "Yes".
+!> In order to install to a USB device, it has to be formatted by the Wii U. Doing this will erase (delete) all contents (documents, pictures, videos, PC data) off of it, and prevent it from being used on another system unless you reformat it. This *does* include the vWii, meaning you will not be able to run Wii and GameCube disc images off the USB using USB loaders. To format, plug your USB HDD into the Wii U, power on your Wii U, your Wii U will prompt you to format your HDD. Bekreft med "Yes".
 
 #### Dette Trenger Du {docsify-ignore}
 
