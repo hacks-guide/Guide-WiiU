@@ -2,53 +2,11 @@
 ---
 Cette page vous guidera dans le processus de récupération d'un IOS ou d'une chaîne sur votre vWii, qu'il/elle ait été corrompu·e ou supprimé·e pour une raison quelconque.
 
-<details>
-<summary>Cliquez ici pour voir ce qui peut être récupéré avec cette méthode.</summary>
-
-- Manuel du menu Wii
-- Chaîne système vWii
-- Sélection de la région
-- Menu Système
-- Chaîne Mii
-- Menu Wii U
-- Chaîne Boutique Wii
-- IOS 9
-- IOS 12
-- IOS 13
-- IOS 14
-- IOS 15
-- IOS 17
-- IOS 21
-- IOS 22
-- IOS 28
-- IOS 31
-- IOS 33
-- IOS 34
-- IOS 35
-- IOS 36
-- IOS 37
-- IOS 38
-- IOS 41
-- IOS 43
-- IOS 45
-- IOS 46
-- IOS 48
-- IOS 53
-- IOS 55
-- IOS 56
-- IOS 57
-- IOS 58
-- IOS 59
-- IOS 62
-- IOS 80
-- BC-NAND
-- BC-WFS
-
-</details>
-
 !> Cela peut détruire la NAND de votre vWii si vous ne faites pas attention ! Please consider [backing up](vwii/nand-backup) your SLCCMPT and OTP if you do not yet have them backed up!
 
 ?> Si vous utilisez une méthode de blocage de mise à jour du système, veuillez [la supprimer](unblock-updates).
+
+?> Due to mounting conflicts with this app, you need to also disable the FTPiiu plugin.
 
 ### Ce dont vous avez besoin {docsify-ignore}
 
@@ -74,6 +32,13 @@ Différentes options vous seront proposées. Il est recommandé de faire une pre
 ### Advanced options
 
 ?> Ce mode efface les IOS et les chaînes spécifié·e·s pour les réinstaller. Toutes les autres données (y compris les cIOS) seront conservé·e·s.
+
+<details>
+<summary>Cliquez ici pour voir ce qui peut être récupéré avec cette méthode.</summary>
+
+![Advanced options](docs/files/Advanced-options.jpg) ![Advanced options2](docs/files/Advanced-options2.jpg) ![Advanced options3](docs/files/Advanced-options3.jpg)
+
+</details>
 
 1. Sélectionnez `Advanced options` dans le menu.
 1. Utilisez les flèches pour séléctionner ce que vous souhaitez restaurer.
