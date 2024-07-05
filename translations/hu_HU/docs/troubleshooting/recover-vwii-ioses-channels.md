@@ -2,53 +2,11 @@
 ---
 Ez az oldal végigvezet a vWii-n lévő IOS vagy csatorna helyreállításának folyamatán, függetlenül attól, hogy az bármilyen okból sérült vagy törlődött.
 
-<details>
-<summary>Kattints ide, hogy megtekintsd, mit lehet visszanyerni ezzel a módszerrel.</summary>
-
-- Wii Menu Manual
-- vWii System Channel
-- Régió választás
-- System Menu
-- Mii Channel
-- Wii U Menu
-- Wii Shop Channel
-- IOS 9
-- IOS 12
-- IOS 13
-- IOS 14
-- IOS 15
-- IOS 17
-- IOS 21
-- IOS 22
-- IOS 28
-- IOS 31
-- IOS 33
-- IOS 34
-- IOS 35
-- IOS 36
-- IOS 37
-- IOS 38
-- IOS 41
-- IOS 43
-- IOS 45
-- IOS 46
-- IOS 48
-- IOS 53
-- IOS 55
-- IOS 56
-- IOS 57
-- IOS 58
-- IOS 59
-- IOS 62
-- IOS 80
-- BC-NAND
-- BC-WFS
-
-</details>
-
 !> Ez tönkreteheti a vWii NAND-ot, ha nem vigyázol! Kérjük, fontold meg az SLCCMPT és az OTP [biztonsági mentését](vwii/nand-backup), ha még nem készült róluk biztonsági mentés!
 
 ?> Ha valami rendszer frissítés blokkoló metódust használsz, kérjük [távolítsd el](unblock-updates).
+
+?> Due to mounting conflicts with this app, you need to also disable the FTPiiu plugin.
 
 ### Amire szükséged van {docsify-ignore}
 
@@ -74,6 +32,13 @@ Különböző lehetőségek közül választhatsz. Javasolt, hogy először a `S
 ### Speciális opciók (Advanced options)
 
 ?> Ez a mód törli a megadott IOS-eket és csatornákat, hogy újratelepítse őket. Minden más adat (beleértve a cIOS-okat is) megmarad.
+
+<details>
+<summary>Kattints ide, hogy megtekintsd, mit lehet visszanyerni ezzel a módszerrel.</summary>
+
+![Speciális opciók (Advanced options)](docs/files/Advanced-options.jpg) ![Advanced options2](docs/files/Advanced-options2.jpg) ![Advanced options3](docs/files/Advanced-options3.jpg)
+
+</details>
 
 1. Válaszd az `Advanced options`-t a menüben.
 1. Használd a D-Pad-et annak kijelölésére, hogy mi legyen helyreállítva.
