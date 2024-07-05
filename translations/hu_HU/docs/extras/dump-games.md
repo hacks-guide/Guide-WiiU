@@ -13,7 +13,7 @@ Ha ezt az útmutatót arra akarod használni, hogy megoszd a dumpolt játékaida
 
 ?> Ha játékot telepít USB-eszközre, javasoljuk, hogy HDD-t használjon, ne pedig pendrive-ot, mivel azok nem optimalizáltak folyamatos írásra és olvasásra, ezért gyorsan meghibásodnak. Ha a HDD nem rendelkezik külső tápellátással, akkor egy Y-kábelre lesz szükséged ahhoz, hogy a Wii U két USB-helyéhez csatlakoztasd.
 
-!> Ahhoz, hogy USB eszközre telepítsd a játékod, az USB eszközt a Wii U-nak kell formáznia. Ez törli a teljes tartalmát, és megakadályozza a használatát más rendszeren újraformázás nélkül. Ehhez csatlakoztasd az USB HDD-t a Wii U-hoz, kapcsold be a Wii U-t, a Wii U kérni fogja, hogy formázd meg a HDD-t. Erősítsd meg ezt Yes-szel.
+!> In order to install to a USB device, it has to be formatted by the Wii U. Doing this will erase (delete) all contents (documents, pictures, videos, PC data) off of it, and prevent it from being used on another system unless you reformat it. This *does* include the vWii, meaning you will not be able to run Wii and GameCube disc images off the USB using USB loaders. To format, plug your USB HDD into the Wii U, power on your Wii U, your Wii U will prompt you to format your HDD. Erősítsd meg ezt Yes-szel.
 
 #### Amire szükséged van {docsify-ignore}
 
