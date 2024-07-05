@@ -36,7 +36,7 @@ You will be provided with various options. It is recommended to first attempt re
 <details>
 <summary>Click here to show what can be recovered with this method.</summary>
 
-![Advanced options](docs/files/Advanced-options.jpeg)
+![Advanced options](docs/files/Advanced-options.jpg)
 ![Advanced options2](docs/files/Advanced-options2.jpg)
 ![Advanced options3](docs/files/Advanced-options3.jpg)
 
