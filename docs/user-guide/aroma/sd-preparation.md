@@ -25,10 +25,12 @@ We will now place the required Aroma files on the SD Card.
 
 ----------
 Extracting the contents of the zip to the root is done like so.
-<video width="512" controls muted>
-  <source src="docs/assets/img/guide/SD_Prep.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+  <video style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" controls muted>
+    <source src="docs/assets/img/guide/SD_Prep.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
 
 ### SD Card Layout {docsify-ignore}
 
