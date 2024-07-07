@@ -24,6 +24,11 @@ We will now place the required Aroma files on the SD Card.
 ?> If you're on a Mac machine, select `Merge` instead of replace. If the merge option does not show immediately, press and hold the `Option` key while moving files to the root.
 
 ----------
+Extracting the contents of the zip to the root is done like so.
+<video width="512" controls muted>
+  <source src="docs/assets/img/guide/SD_Prep.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 ### SD Card Layout {docsify-ignore}
 
