@@ -19,7 +19,7 @@ SD-kortet må være FAT32 formatert. Hvis SD-kortet ikke er FAT32 formatert, bru
 
 - Siste utgave av [Aroma for your café](https://aroma.foryour.cafe).
   - Trykk på `Download Payloads` og `Download Base Aroma`.
-  - Read through the steps and click on the checkboxes.
+  - Les gjennom trinnene og marker checkboksene.
   - Hvis du allerede har installert Aroma, trenger du ikke å laste den ned på nytt.
 - Siste utgave av [Compat Title Installer](https://hbas-frontend.b-cdn.net/wiiu/CompatTitleInstaller).
 - <a href="docs/files/Patched_IOS80_Installer_for_vWii.zip" download>Patched IOS 80 Installer for vWii</a>. ([Kilde](https://github.com/Lazr1026/Patched-IOS80-Installer-for-vWii))
