@@ -10,8 +10,8 @@ Először az Aroma fájlokat az SD kártyára rakjuk.
 ### Lépések
 
 1. Az [Aroma](https://aroma.foryour.cafe) oldalán görgess le a **Download** részig.
-    - Olvasd el a lépéseket, és kattintsd be a jelölő négyzeteket.
-    - Kattints a `Download Payloads` és a `Download Base Aroma` opciókra.
+    - Read through the steps and click on the checkboxes. ![](../docs/assets/img/guide/Aroma_Box.png)
+    - Kattints a `Download Payloads` és a `Download Base Aroma` opciókra. ![](../docs/assets/img/guide/Aroma_DL.png)
 1. Helyezd be a Wii U-d SD kártyáját a PC-dbe.
 1. **Csomagold ki** és másold a `wiiu` mappát a kettő frissen letöltött *`.zip`* fájlból az SD kártyád gyökerébe.
     - A `wiiu` mappákat mergelni kell, ha nem történik meg automatikusan.
@@ -21,6 +21,13 @@ Először az Aroma fájlokat az SD kártyára rakjuk.
 ?> Ha Mac számmítógépen vagy válaszd a `Merge` opciót a csere helyett. Ha a Merge opció nem jelenik meg azonnal, akkor tartsd nyomva az `Option` gombot, amíg mozgatod a gyökérbe a fájlokat.
 
 ----------
+Extracting the contents of the zip to the root is done like so.
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+  <video style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" controls muted>
+    <source src="docs/assets/img/guide/SD_Prep.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
 
 ### SD kártya kiosztás
 
