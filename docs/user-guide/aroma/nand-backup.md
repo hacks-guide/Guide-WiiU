@@ -14,7 +14,7 @@ In case anything should go wrong in the later process and your Wii U ends up bri
 
 1. Navigate to `nanddumper` using the GamePad and press A to launch it.
 1. Use the Wii U GamePad's D-Pad to enter the following configuration:
-![](../docs/assets/img/guide/NAND.png)
+![SLC: Yes, SLCCMPT: Yes, MLC: Yes or No, OTP: Yes, SEEPROM: Yes](../docs/assets/img/guide/NAND.png)
     - MLC is **OPTIONAL**, if you do not want to dump it, leave it on `No`. If you do want to dump it, make sure you have a SD Card big enough for it and put it on `Yes`.
 1. Press the A button to start the dumping process.
 1. When the process is completed, power off your Wii U, take your SD Card out of the Wii U and plug it into your PC.
