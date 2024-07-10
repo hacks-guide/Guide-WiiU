@@ -10,8 +10,8 @@ We will now place the required Aroma files on the SD Card.
 ### Instructions
 
 1. On the [Aroma](https://aroma.foryour.cafe) site, scroll down to the **Download** section.
-    - Read through the steps and click on the checkboxes.
-    - Click on `Download Payloads` and `Download Base Aroma`.
+    - Read through the steps and click on the checkboxes. ![](../docs/assets/img/guide/Aroma_Box.png)
+    - Click on `Download Payloads` and `Download Base Aroma`. ![](../docs/assets/img/guide/Aroma_DL.png)
 1. Insert your Wii U's SD Card into your PC.
 1. **Extract** and copy the `wiiu` folder of the two newly downloaded *`.zip`* files to the root of your SD Card.
     - The `wiiu` folders should be merged if not done automatically.
@@ -21,6 +21,13 @@ We will now place the required Aroma files on the SD Card.
 ?> If you're on a Mac machine, select `Merge` instead of replace. If the merge option does not show immediately, press and hold the `Option` key while moving files to the root.
 
 ----------
+Extracting the contents of the zip to the root is done like so.
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+  <video style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" controls muted>
+    <source src="docs/assets/img/guide/SD_Prep.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
 
 ### SD Card Layout {docsify-ignore}
 
