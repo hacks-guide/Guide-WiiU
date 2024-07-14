@@ -10,7 +10,6 @@ Ez az oldal végigvezet a PayloadLoader Wii U-dról eltávolításán.
     1. Görgess le a **Download** szakaszig.
     1. Olvasd el a lépéseket, és kattintsd be a jelölő négyzeteket.
     1. Kattints a `Download Payloads` és a `Download Base Aroma` opciókra.
-- A [PayloadLoader Installer](https://github.com/wiiu-env/PayloadLoaderInstaller/releases) legutolsó kiadása.
 
 ### A PayloadLoader-be autobootolás visszacsinálása
 
