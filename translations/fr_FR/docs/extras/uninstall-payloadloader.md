@@ -10,7 +10,6 @@ This page will guide through the process of uninstalling the PayloadLoader from 
     1. Scroll down to the **Download** section.
     1. Read through the steps and click on the checkboxes.
     1. Click on `Download Payloads` and `Download Base Aroma`.
-- The latest release of the [PayloadLoader Installer](https://github.com/wiiu-env/PayloadLoaderInstaller/releases).
 
 ### Undo Autobooting into PayloadLoader
 
