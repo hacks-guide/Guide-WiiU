@@ -19,8 +19,8 @@ Ha a későbbi folyamat során bármi rosszul sülne el, és a Wii U brickelődn
     - Dump SEEPROM: **yes**
 1. Nyomj A gombot a dumpolás elindításához.
 1. Ha a folyamat befejeződött, kapcsold ki a Wii U-dat, vedd kiaz SD kártyád a Wii U-ból és dugd be a PC-dbe.
-1. The files will appear on the root of the SD card.
-1. To make sure you don't lose the files, copy the `slc.bin`, `slccmpt.bin`, `seeprom.bin`, `otp.bin` (and if you chose to go with a full backup, `every mlc.bin.part`) file to your computer.
+1. A fájlok az SD kártya gyökerében fognak megjelenni.
+1. Hogy biztos lehess, hogy nem veszted el a fájlokat, másold az `slc.bin`, az `slccmpt.bin`, a `seeprom.bin` és az `otp.bin`fájlokat (és ha teljes mentést választottál, akkor `minden mlc.bin.part` fájlt is) a számítógépedre.
 1. Töröld a fájlokat az SD kártyádról helyfelszabadítás végett.
 
-?> **If the PayloadLoader is already installed into the Health and Safety Information app and your console is already autobooting it, you do not need to continue following the guide.**
+?> **Ha a PayloadLoader már telepített a Health and Safety Information app-ba, akkor a konzolod már autobootolja azt, nem szükséges folytatnod az útmutatót.**

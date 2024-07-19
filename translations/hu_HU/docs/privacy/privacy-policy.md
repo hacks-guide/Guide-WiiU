@@ -3,24 +3,24 @@
 **Utoljára frissítve: 2020. január 18**
 
 
-Thank you for choosing to be part of our community at Wii U Hacks Guide (“company”, “we”, “us”, or “our”). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about our policy, or our practices with regards to your personal information, please contact us at nh.wiiuguide@gmail.com.
+Köszönjük, hogy a Wii U Hacks Guide („társaság”, „mi”, „minket” vagy „miénk”) közösségünk részévé vált. Elkötelezettek vagyunk személyes adatainak és a magánélethez való jogának védelme mellett. Ha bármilyen kérdése vagy aggálya van a szabályzatunkkal vagy a személyes adataival kapcsolatos gyakorlatunkkal kapcsolatban, kérjük, lépjen kapcsolatba velünk a nh.wiiuguide@gmail.com címen.
 
-When you visit our website https://wiiu.hacks.guide, and use our services, you trust us with your personal information. Az adatvédelmet nagyon komolyan vesszük. Ebben a tájékoztatóban leírjuk adatvédelmi szabályozásunkat. We seek to explain to you in the clearest way possible what information we collect, how we use it and what rights you have in relation to it. We hope you take some time to read through it carefully, as it is important. If there are any terms in this privacy policy that you do not agree with, please discontinue use of our Sites and our services.
+Amikor meglátogatja a https://wiiu.hacks.guide weboldalunkat, és igénybe veszi szolgáltatásainkat, személyes adatait ránk bízza. Az adatvédelmet nagyon komolyan vesszük. Ebben a tájékoztatóban leírjuk adatvédelmi szabályozásunkat. Igyekszünk a lehető legvilágosabban elmagyarázni Önnek, hogy milyen adatokat gyűjtünk, hogyan használjuk fel azokat, és milyen jogai vannak ezzel kapcsolatban. Reméljük, hogy szán egy kis időt arra, hogy figyelmesen átolvassa, mert ez fontos. Ha a jelen adatvédelmi szabályzatban olyan feltételek szerepelnek, amelyekkel nem ért egyet, kérjük, ne használja tovább az Oldalainkat és szolgáltatásainkat.
 
-This privacy policy applies to all information collected through our website (such as https://wiiu.hacks.guide), and/or any related services, sales, marketing or events (we refer to them collectively in this privacy policy as the "**Sites**").
+Ez az adatvédelmi szabályzat a weboldalunkon (például a https://wiiu.hacks.guide) és/vagy a kapcsolódó szolgáltatásokon, értékesítésen, marketingtevékenységeken vagy rendezvényeken keresztül gyűjtött valamennyi információra vonatkozik (a jelen adatvédelmi szabályzatban ezeket együttesen "**Oldalaknak**" nevezzük).
 
-**Please read this privacy policy carefully.**
+**Kérjük, figyelmesen olvassa el ezt az adatvédelmi szabályzatot.**
 
 
 ## TARTALOMJEGYZÉK
 
 [1. MILYEN INFORMÁCIÓKAT GYŰJTÜNK?](privacy-policy?id=_1-what-information-do-we-collect)
 
-[2. DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?](privacy-policy?id=_2-do-we-use-cookies-and-other-tracking-technologies)
+[2. HASZNÁLUNK SÜTIKET ÉS MÁS KÖVETŐ TECHNOLÓGIÁT?](privacy-policy?id=_2-do-we-use-cookies-and-other-tracking-technologies)
 
 [3. MIK AZ ADATVÉDELMI JOGAID?](privacy-policy?id=_3-what-are-your-privacy-rights)
 
-[4. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?](privacy-policy?id=_4-do-california-residents-have-specific-privacy-rights)
+[4. RENDELKEZNEK-E A KALIFORNIAI LAKOSOK KÜLÖNLEGES ADATVÉDELMI JOGOKKAL?](privacy-policy?id=_4-do-california-residents-have-specific-privacy-rights)
 
 [5. FRISSÍTJUK EZT A SZAÁLYZATOT?](privacy-policy?id=_5-do-we-make-updates-to-this-policy)
 
@@ -30,44 +30,44 @@ This privacy policy applies to all information collected through our website (su
 
 ### 1. MILYEN INFORMÁCIÓKAT GYŰJTÜNK? :id=_1-what-information-do-we-collect
 
-***In Short:*** *We do not collect any personal information.*
+***Röviden:**** Nem gyűjtünk személyes adatokat.*
 
-We do not collect personal information in any shape or form. However, our hoster, [GitHub Pages](https://pages.github.com/) may collect personal information. For more information, see the [GitHub Privacy Statement](https://help.github.com/en/github/site-policy/github-privacy-statement)
+Semmilyen formában nem gyűjtünk személyes adatokat. A tárhelyszolgáltatónk, a [GitHub Pages](https://pages.github.com/) azonban személyes adatokat gyűjthet. További információért lásd a [GitHub adatvédelmi nyilatkozatát](https://help.github.com/en/github/site-policy/github-privacy-statement)
 
 
 ### 2. DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES :id=_2-do-we-use-cookies-and-other-tracking-technologies
-***In Short:*** *We do not use cookies and other tracking technologies to collect and store your information.*
+***Röviden:****Nem használunk sütiket és más nyomkövető technológiákat az Ön adatainak gyűjtésére és tárolására.*
 
-We do not use cookies and similar tracking technologies (like web beacons and pixels) to access or store information.
+Nem használunk sütiket és hasonló nyomkövető technológiákat (például webjelzőket és pixeleket) az információk eléréséhez vagy tárolásához.
 
 
 ### 3. MIK AZ ADATVÉDELMI JOGAID? :id=_3-what-are-your-privacy-rights
 
-***In Short:*** *In some regions, such as the European Economic Area, you have rights that allow you greater access to and control over your personal information. You may review, change, or terminate your account at any time.*
+***Röviden:*** *Egyes régiókban, például az Európai Gazdasági Térségben, olyan jogokkal rendelkezik, amelyek nagyobb hozzáférést és ellenőrzést biztosítanak személyes adatai felett. Áttekintheted, módosíthatod és megszüntetheted a fiókod bármikor.*
 
-In some regions (like the European Economic Area), you have certain rights under applicable data protection laws. These may include the right (i) to request access and obtain a copy of your personal information, (ii) to request rectification or erasure; (iii) to restrict the processing of your personal information; and (iv) if applicable, to data portability. In certain circumstances, you may also have the right to object to the processing of your personal information. To make such a request, please use the [contact details](privacy-policy?id=_6-how-can-you-contact-us-about-this-policy) provided below. We will consider and act upon any request in accordance with applicable data protection laws.
+Egyes régiókban (például az Európai Gazdasági Térségben) az alkalmazandó adatvédelmi törvények értelmében bizonyos jogokkal rendelkezik. Ezek közé tartozhat (i) a személyes adataihoz való hozzáférés és azok másolatának igényléséhez való jog, (ii) a helyesbítés vagy törlés kérése, (iii) a személyes adatai feldolgozásának korlátozásához való jog, és (iv) adott esetben az adathordozhatósághoz való jog. izonyos körülmények között joga van ahhoz is, hogy tiltakozzon személyes adatainak feldolgozása ellen. Ilyen kérelem benyújtásához kérjük, használja az alábbiakban megadott [elérhetőségeket](privacy-policy?id=_6-how-can-you-contact-us-about-this-policy). A vonatkozó adatvédelmi törvényeknek megfelelően mérlegeljük a kérelmeket, és azokra tekintettel járunk el.
 
-If we are relying on your consent to process your personal information, you have the right to withdraw your consent at any time. Please note however that this will not affect the lawfulness of the processing before its withdrawal.
+Ha személyes adatainak feldolgozásához az Ön hozzájárulására támaszkodunk, Önnek joga van ahhoz, hogy hozzájárulását bármikor visszavonja. Felhívjuk azonban figyelmét, hogy ez nem érinti a visszavonás előtti feldolgozás jogszerűségét.
 
-If you are resident in the European Economic Area and you believe we are unlawfully processing your personal information, you also have the right to complain to your local data protection supervisory authority. You can find their contact details here: http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm
+Ha Ön az Európai Gazdasági Térségben lakik, és úgy véli, hogy személyes adatait jogellenesen dolgozzuk fel, joga van panaszt tenni a helyi adatvédelmi felügyeleti hatóságnál is. Elérhetőségeiket itt találod: http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm
 
 
-### 4. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS? :id=_4-do-california-residents-have-specific-privacy-rights
+### 4. RENDELKEZNEK-E A KALIFORNIAI LAKOSOK KÜLÖNLEGES ADATVÉDELMI JOGOKKAL? :id=_4-do-california-residents-have-specific-privacy-rights
 
-***In Short:*** *Yes, if you are a resident of California, you are granted specific rights regarding access to your personal information.*
+***Röviden:**** Igen, ha Ön kaliforniai lakos, különleges jogokat élvez a személyes adataihoz való hozzáféréssel kapcsolatban.*
 
-California Civil Code Section 1798.83, also known as the “Shine The Light” law, permits our users who are California residents to request and obtain from us, once a year and free of charge, information about categories of personal information (if any) we disclosed to third parties for direct marketing purposes and the names and addresses of all third parties with which we shared personal information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to us using the contact information provided below.
+A kaliforniai polgári törvénykönyv 1798.83. szakasza, más néven a "Shine The Light" törvény lehetővé teszi a kaliforniai lakosú felhasználóink számára, hogy évente egyszer ingyenesen tájékoztatást kérjenek és kapjanak tőlünk a személyes adatok kategóriáiról (ha vannak ilyenek), amelyeket közvetlen marketing célokra harmadik félnek adtunk át, valamint az összes olyan harmadik fél nevét és címét, akikkel a közvetlenül megelőző naptári évben személyes adatokat osztottunk meg. Ha Ön kaliforniai lakos, és szeretne ilyen kérést benyújtani, kérjük, hogy kérését írásban nyújtsa be hozzánk az alábbiakban megadott elérhetőségeken.
 
-If you are under 18 years of age, reside in California, and have a registered account with the Sites, you have the right to request removal of unwanted data that you publicly post on the Sites. To request removal of such data, please contact us using the contact information provided below, and include the email address associated with your account and a statement that you reside in California. We will make sure the data is not publicly displayed on the Sites, but please be aware that the data may not be completely or comprehensively removed from our systems.
+Ha Ön 18 év alatti, kaliforniai lakhellyel rendelkezik, és regisztrált fiókkal rendelkezik az Oldalakon, joga van kérni az Oldalakon nyilvánosan közzétett nem kívánt adatok eltávolítását. Az ilyen adatok eltávolításának kéréséhez kérjük, lépjen kapcsolatba velünk az alábbiakban megadott elérhetőségeken, és adja meg a fiókjához tartozó e-mail címet, valamint egy nyilatkozatot arról, hogy Kaliforniában lakik. Gondoskodunk arról, hogy az adatokat ne tegyük nyilvánosan közzé az Oldalakon, de kérjük, vegye figyelembe, hogy az adatokat nem biztos, hogy teljesen vagy teljes mértékben eltávolítjuk a rendszereinkből.
 
 
 ### 5. FRISSÍTJUK EZT A SZABÁLYZATOT? :id=_5-do-we-make-updates-to-this-policy
 
-***In Short:*** *Yes, we will update this policy as necessary to stay compliant with relevant laws.*
+***Röviden:**** Igen, szükség szerint frissíteni fogjuk ezt a szabályzatot, hogy megfeleljen a vonatkozó törvényeknek.*
 
-We may update this privacy policy from time to time. The updated version will be indicated by an updated “Revised” date and the updated version will be effective as soon as it is accessible. If we make material changes to this privacy policy, we may notify you either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to review this privacy policy frequently to be informed of how we are protecting your information.
+Időről időre frissíthetjük ezt az adatvédelmi szabályzatot. A frissített verziót egy frissített „Felülvizsgált” dátummal jelezzük, és a frissített verzió akkor lép hatályba, amint hozzáférhetővé válik. Ha lényeges változtatásokat eszközlünk ezen adatvédelmi szabályzatban, akkor vagy az ilyen változtatásokról szóló értesítés szembetűnő kihelyezésével, vagy közvetlenül az Ön részére küldött értesítéssel értesíthetjük Önt. Javasoljuk, hogy gyakran tekintse át ezt az adatvédelmi szabályzatot, hogy tájékozódjon arról, hogyan védjük az Ön adatait.
 
 
 ### 6. HOGYAN TUDOK VELETEK KAPCSOLATBA LÉPNI EZZEL A SZABÁLYZATTAL KAPCSOLATOSAN? :id=_6-how-can-you-contact-us-about-this-policy
 
-If you have questions or comments about this policy, you may email us at nh.wiiuguide@gmail.com
+Ha kérdése vagy megjegyzése van ehhez a szabályzathoz, írjon az at nh.wiiuguide@gmail.com címre

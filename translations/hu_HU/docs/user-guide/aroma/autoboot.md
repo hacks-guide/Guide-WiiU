@@ -26,10 +26,12 @@ Most azt fogjuk elérni, hogy az Aroma környezet automatikusan elinduljon, amik
    - Ha autobootolod a PayloadLoader-t, akkor csak kapcsold be a Wii U-d.
    - Ha átlépted az autoboot lépéseket, akkor indítsd el a Health and Safety Information appot.
 
-2. A D-Pad-et használva, navigálj az `aroma`-hoz és nyomj Y gombot, hogy beállítsd ezt az alapértelmezett környezetednek, majd nyomj A gombot az Aroma indításához.
+2. Press Y on `aroma` to set this to your default environment, then press A to launch into Aroma.
+   ![](../docs/assets/img/guide/EL_Highlight.png)
    - Az Environment Loader megnyitásához a jövőben nyomva kell tartanod az X gombot amíg a Wii U bootol vagy tölti a Health and Safety Information appot.
 
 3. Az Aroma Boot Selector-ban a `Wii U Menu`-nek kell beállítva lennie, nyomj Y-t, hogy beállítsd alapértelmezett autoboot opciónak, majd nyomj A gombot, hogy elindítsd a Wii U Menu-t.
+   ![](../docs/assets/img/guide/ABM_Highlight.png)
 
 4. Az Aroma most már elindul minden alkalommal, amikor bebootolsz a konzolba (vagy betöltöd a Health and Safety alkalmazást) és rögtön utána a Wii U Menu-be.
    - Az Aroma Boot Selector megnyitásához a jövőben nyomva kell tartanod a START (+) gombot amíg a Wii U bootol vagy tölti a Health and Safety Information appot.

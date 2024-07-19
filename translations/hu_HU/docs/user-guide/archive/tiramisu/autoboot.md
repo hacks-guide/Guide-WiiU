@@ -2,18 +2,18 @@
 
 ## A Tiramisu automatikus bootolása
 
-Currently, every time you want to launch Tiramisu you will have to launch the Health and Safety information app. If you wish to automatically launch into Tiramisu on every boot, you can autoboot the Health and Safety Information app.
+Jelenleg, mindig amikor indítani szeretnéd az Tiramisu-t, el kell indítanod a Healt and Safety Information appot. Ha szeretnéd, hogy a Tiramisu minden bootoláskor betöltődjön, akkor autobootolhatod a Healt and Safety Information appot.
 
 ### Lépések
 
-1. Start the console to boot into the Wii U Menu, launch the Health and Safety Information app and hold the X button to open the Environment Loader menu.
-1. Navigate the list using the D-Pad and navigate to the `installer` environment, press A to launch it.
+1. Indítsd el a konzolt, bootolj a Wii U Menu-be és indítsd el a Health and Safety Information appot és tartsd nyomva az X gombot, hogy megnyisd az Environment Loader menüt.
+1. Navigálj a D-Pad-del az `installer` környezetre és nyomj A gombot, az elindításához.
 1. Nyomj A gombot a`Check` kiválasztásához.
 1. Válaszd a `Boot options`.-t.
-1. You will be asked if you want to switch the boot title. Press A to select `Switch to PayloadLoader`.
-1. When the process is finished, press A to shutdown the console.
+1. Megkérdezi, hogy szeretnéd-e megváltoztatni a boot címet. Nyomj A-t a `Switch to PayloadLoader` kiválasztásához.
+1. Ha a folyamat befejeződött, nyomj A gombot a konzol leállításához.
 1. A PayloadLoader most már minden bootláskor el lesz indítva.
-    - To change the default boot title hold Start (+) on the Gamepad while booting the console. You cannot change the boot title until you set a default environment first.
+    - Az alapértelmezett bootoláskor indított cím módosításához tartsd nyomva a Start (+) gombot a Gamepad-en, amíg bootolod a konzolt. Nem tudod módosítani a bootoláskor címet, amíg be nem állítottad az alapértelmezett környezetet előtte.
     - A D-Pad-del navigálva állj rá a címre amit autobootolni szeretnél és nyomj Y gombot, hogy beállítsd az autoboot címnek.
     - Nyomj A gombot a kiválasztott cím indításához.
 

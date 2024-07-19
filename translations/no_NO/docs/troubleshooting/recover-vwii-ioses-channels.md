@@ -2,53 +2,11 @@
 ---
 Denne siden vil hjelpe deg til å gjenopprette en IOS eller channel i vWii, om den er korrupt eller slettet av en eller annen grunn.
 
-<details>
-<summary>Klikk her for å vise hva som kan gjenopprettes med denne metoden.</summary>
-
-- Wii Menu Manual
-- vWii System Channel
-- Region Select
-- System Menu
-- Mii Channel
-- Wii U Menu
-- Wii Shop Channel
-- IOS 9
-- IOS 12
-- IOS 13
-- IOS 14
-- IOS 15
-- IOS 17
-- IOS 21
-- IOS 22
-- IOS 28
-- IOS 31
-- IOS 33
-- IOS 34
-- IOS 35
-- IOS 36
-- IOS 37
-- IOS 38
-- IOS 41
-- IOS 43
-- IOS 45
-- IOS 46
-- IOS 48
-- IOS 53
-- IOS 55
-- IOS 56
-- IOS 57
-- IOS 58
-- IOS 59
-- IOS 62
-- IOS 80
-- BC-NAND
-- BC-WFS
-
-</details>
-
 !> Du kan potensielt ødelegge vWii NAND hvis du ikke er forsiktig! Vi anbefaler at du tar en[backup](vwii/nand-backup) av SLCCMPT og OTP mappene hvis du enda ikke har gjort det!
 
 ?> Hvis du bruker en blokkeringsmetode for systemoppdateringer, må du [tilbakestille den ](unblock-updates).
+
+?> Due to mounting conflicts with this app, you need to also disable the FTPiiu plugin.
 
 ### Dette Trenger Du {docsify-ignore}
 
@@ -74,6 +32,13 @@ Du vil få noen diverse alternativer. Det anbefales å prøve å gjenopprette gj
 ### Avanserte alternativer
 
 ?> Denne modusen vil fjerne spesifikke IOS'er og kanaler for å installere dem på nytt. All annen data (inkludert cIOS) vil bli bevart.
+
+<details>
+<summary>Klikk her for å vise hva som kan gjenopprettes med denne metoden.</summary>
+
+![Avanserte alternativer](docs/files/Advanced-options.jpg) ![Advanced options2](docs/files/Advanced-options2.jpg) ![Advanced options3](docs/files/Advanced-options3.jpg)
+
+</details>
 
 1. Velg `Advanced options` på menyen.
 1. Bruk D-padden for å velge hva du ønsker å gjenopprette.

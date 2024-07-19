@@ -13,7 +13,7 @@ Se hai intenti di utilizzare questa guida per condividere i tuoi giochi dumpati,
 
 ?> Quando si installa un gioco su un dispositivo USB, consigliamo di usare un HDD e non una chiave USB, poiché queste ultime non sono ottimizzate per una costante lettura e scrittura, e portano quindi a errori frequenti. Se il tuo HDD non è alimentato esternamente, ti servirà un cavo a Y per collegarlo alle due porte USB del Wii U.
 
-!> Per l'installazione su un dispositivo USB, quest'ultimo deve essere formattato dal Wii U. Facendo ciò, i contenuti del dispositivo verranno eliminati e non sarà possibile utilizzarlo su altri sistemi, a meno che non lo riformatti. Per farlo, collega l'HDD USB al Wii U, accendi il Wii U, poi il Wii U ti chiederà di formattare il tuo HDD. Conferma con Sì.
+!> In order to install to a USB device, it has to be formatted by the Wii U. Doing this will erase (delete) all contents (documents, pictures, videos, PC data) off of it, and prevent it from being used on another system unless you reformat it. This *does* include the vWii, meaning you will not be able to run Wii and GameCube disc images off the USB using USB loaders. To format, plug your USB HDD into the Wii U, power on your Wii U, your Wii U will prompt you to format your HDD. Conferma con Sì.
 
 #### Cosa ti servirà {docsify-ignore}
 

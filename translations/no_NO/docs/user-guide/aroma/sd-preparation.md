@@ -10,8 +10,8 @@ Vi starter med å plassere Aroma filene du trenger på SD-kortet ditt.
 ### Instruksjoner
 
 1. On the [Aroma](https://aroma.foryour.cafe) site, scroll down to the **Download** section.
-    - Read through the steps and click on the checkboxes.
-    - Click on `Download Payloads` and `Download Base Aroma`.
+    - Read through the steps and click on the checkboxes. ![](../docs/assets/img/guide/Aroma_Box.png)
+    - Click on `Download Payloads` and `Download Base Aroma`. ![](../docs/assets/img/guide/Aroma_DL.png)
 1. Sett SD-kortet ditt i PC'en din.
 1. **Extract** and copy the `wiiu` folder of the two newly downloaded *`.zip`* files to the root of your SD Card.
     - The `wiiu` folders should be merged if not done automatically.
@@ -21,6 +21,13 @@ Vi starter med å plassere Aroma filene du trenger på SD-kortet ditt.
 ?> Hbid du bruker en Mac, må du velge `Merge` i stedet for å erstatte. Hvis ikke Merge alternativet kommer opp, trykk og hold inne `Option` tasten mens du flytter filene til roten av SD-kortet.
 
 ----------
+Extracting the contents of the zip to the root is done like so.
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+  <video style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" controls muted>
+    <source src="docs/assets/img/guide/SD_Prep.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
 
 ### SD-kort oppsett {docsify-ignore}
 

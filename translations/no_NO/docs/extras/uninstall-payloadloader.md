@@ -10,7 +10,6 @@ Denne siden vil hjelpe deg med å avinstallere PayloadLoader fra Wii U konsollen
     1. Bla ned til **Download**.
     1. Les gjennom trinnene og marker checkboksene.
     1. Trykk på `Download Payloads` og `Download Base Aroma`.
-- Siste utgave av [PayloadLoader Installer](https://github.com/wiiu-env/PayloadLoaderInstaller/releases).
 
 ### Tilbakestille Autobooting inn i PayloadLoader
 
