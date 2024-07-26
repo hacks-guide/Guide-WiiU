@@ -33,7 +33,8 @@ With the `homebrew_on_menu` plugin, WUHB files can be directly launched from the
 
 Due to technical limitations, a lot of old homebrew applications will no longer work with Aroma.  
 This includes all `.elf` homebrews, but also some `.rpx` homebrews(i.e. RetroArch), which don't implement necessary functionality properly.  
-These homebrews need to be updated with support for Aroma. To run old homebrews you need to boot the Tiramisu environment.  
+These homebrews need to be updated with support for Aroma. To run old homebrews you need to boot the Tiramisu environment.
 Launching homebrews through the now outdated Homebrew Launcher is no longer possible with Aroma.  
+A guide for installing Tiramisu can be found [here](../archive/tiramisu/sd-preparation).
 
 Besides the limitations mentioned above, note that Aroma is still a beta release. Not everything has been tested yet, and additional issues might be discovered. This doesn't necessarily mean Aroma is unstable, but there is a chance that you may experience something not working properly.
