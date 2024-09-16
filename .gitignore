@@ -1,0 +1,11 @@
+# Node.js and NPM
+node_modules
+npm-debug.log*
+codekit-config.json
+
+# VitePress
+docs/.vitepress/cache
+docs/.vitepress/dist
+
+# macOS
+.DS_Store
