@@ -17,6 +17,11 @@ export default defineConfig({
   locales: {
     root: i18n.en_US
   },
+  themeConfig: {
+    socialLinks: [
+      { icon: 'github', link: 'https://github.com/hacks-guide/Guide-WiiU' }
+    ]
+  },
   vite: {
     resolve: {
       alias: [
