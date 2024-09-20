@@ -13,6 +13,7 @@ import * as i18n from './i18n'
 export default defineConfig({
   title: "Wii U Hacks Guide",
   description: "A guide to hacking the Nintendo Wii U.",
+  head: [['link', { rel: 'icon', href: '/assets/img/favicon.ico' }]],
   locales: {
     root: i18n.en_US
   },
