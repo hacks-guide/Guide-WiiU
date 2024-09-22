@@ -1,10 +1,11 @@
 files:
-  - source: /docs/**/*.md
-    ignore:
-      - /**/assets/
-      - /**/files/
-      - LICENSE.md
-      - README.md
-      - /**/navbar.md
-    translation: >-
-      /translations/%locale_with_underscore%/%original_path%/%original_file_name%
+  - source: /docs/*.md
+    translation: /docs/%locale_with_underscore%/%original_file_name%
+  - source: /docs/archive/tiramisu/*.md
+    translation: /docs/%locale_with_underscore%/archive/tiramisu/%original_file_name%
+  - source: /docs/aroma/*.md
+    translation: /docs/%locale_with_underscore%/aroma/%original_file_name%
+  - source: /docs/vwii/*.md
+    translation: /docs/%locale_with_underscore%/vwii/%original_file_name%
+  - source: /docs/.vitepress/i18n/strings/en_US.json
+    translation: /docs/.vitepress/i18n/strings/%locale_with_underscore%.json
