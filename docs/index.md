@@ -1,13 +1,32 @@
-# Wii U Hacks Guide
 ---
-A guide collaboration between Nintendo Homebrew's Helpers and Staff, from stock to Aroma custom firmware.
+layout: home
+title: "Wii U Hacks Guide"
+hero:
+  text: "Wii U Hacks Guide"
+  tagline: "A guide collaboration between Nintendo Homebrew's Helpers and Staff, from stock to Aroma custom firmware."
+  image:
+    src: "/assets/img/logo.png"
+---
 
-?> **Discord Help**
+::: tip
+
+**Discord Help**
+
 For live support with this guide please visit us in **#wiiu-assistance** on the [Nintendo Homebrew Discord](https://discord.gg/C29hYvh) and ask, in English, for assistance. Please read **#faq-wiiu**, as well as our [Frequently Asked Questions](faq) page beforehand to see if your question has already been answered.
 
-> If you appreciate this guide, we accept [donations](donations).
+:::
 
-> For complete guides to homebrew and custom firmware for other devices, check out [hacks.guide](https://hacks.guide).  
+::: info
+
+If you appreciate this guide, we accept [donations](donations).
+
+::: 
+
+::: info
+
+For complete guides to homebrew and custom firmware for other devices, check out [hacks.guide](https://hacks.guide).  
+
+:::
 
 ### Homebrew
 
@@ -37,24 +56,35 @@ This guide has the end goal of taking a completely unmodified Wii U from stock t
 
 ### Before Starting
 
-!> Before beginning the guide, you must know the risks of Wii U hacking: **EVERY** time you modify your system, there is always the potential for an **UNRECOVERABLE** brick. They’re rare but still a possibility so make sure you follow **ALL** directions **EXACTLY!**
+::: danger
 
->
-> This guide will work on all Wii U consoles in all regions on the latest firmware (5.5.6 for North American consoles, 5.5.5 for all other regions) or below.
->
-> You will need the following in order to successfully follow this guide:
->
-> - An SD Card.
-> - A device such as a computer to place files onto the SD Card.
-> - A Wii U with internet access.
->
->  A 32GB SD Card will be enough for most use-cases. A Micro SD Card in an adapter will work fine.
+Before beginning the guide, you must know the risks of Wii U hacking: **EVERY** time you modify your system, there is always the potential for an **UNRECOVERABLE** brick. They’re rare but still a possibility so make sure you follow **ALL** directions **EXACTLY!**
 
-?> **If you have an existing legacy CFW setup** </br>
-    For **CBHC** users: Go to the [Uninstall CBHC](../uninstall-cbhc) page to uninstall CBHC. </br>
-    For **Haxchi** users: Uninstall the Haxchi app from Data Management in the System Settings app. </br>
-    For **Mocha CFW (Indexiine)** users: Go to the [Uninstall Indexiine](../uninstall-indexiine) page to uninstall Indexiine. </br>
-    For **Mocha CFW (Online Exploit)** users: You do not need to do anything before following this guide.
+:::
+
+::: info
+
+This guide will work on all Wii U consoles in all regions on the latest firmware (5.5.6 for North American consoles, 5.5.5 for all other regions) or below.
+
+You will need the following in order to successfully follow this guide:
+- An SD Card.
+- A device such as a computer to place files onto the SD Card.
+- A Wii U with internet access.
+
+A 32GB SD Card will be enough for most use-cases. A Micro SD Card in an adapter will work fine.
+
+:::
+
+::: tip
+
+**If you have an existing legacy CFW setup**
+
+- For **CBHC** users: Go to the [Uninstall CBHC](uninstall-cbhc) page to uninstall CBHC.
+- For **Haxchi** users: Uninstall the Haxchi app from Data Management in the System Settings app.
+- For **Mocha CFW (Indexiine)** users: Go to the [Uninstall Indexiine](uninstall-indexiine) page to uninstall Indexiine.
+- For **Mocha CFW (Online Exploit)** users: You do not need to do anything before following this guide.
+
+:::
 
 If everything goes according to plan, you will lose no data and end up with everything that you started with (games, saves, NNID, etc, will be preserved).
 
@@ -66,4 +96,4 @@ It is advised that you read the entire guide from start to finish one or more ti
 
 ---
 
-### [Continue to Aroma](aroma/getting-started) {docsify-ignore}
+### [Continue to Aroma](aroma/getting-started)
