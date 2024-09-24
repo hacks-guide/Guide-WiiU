@@ -12,7 +12,7 @@ If you are running Aroma and have deleted the update folder, you need to disable
 
 ::::: tabs
 
-:::: tab Removing Aroma Autoboot
+:::: tab default Removing Aroma Autoboot
 
 ### Removing Aroma Autoboot
 

@@ -41,7 +41,7 @@ You will be provided with various options. It is recommended to first attempt re
 
 ::::: tabs
 
-:::: tab Advanced options
+:::: tab default Advanced options
 
 ### Advanced options
 
