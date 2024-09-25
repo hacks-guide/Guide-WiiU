@@ -1,3 +1,8 @@
+---
+prev: true
+next: true
+---
+
 # Autobooting Aroma
 
 Currently, every time you want to launch Aroma you will have to launch the Health and Safety information app. If you wish to automatically launch into Aroma on every boot, you can autoboot the Health and Safety Information app.

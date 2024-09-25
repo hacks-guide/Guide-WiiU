@@ -1,3 +1,8 @@
+---
+prev: true
+next: true
+---
+
 # Installing PayloadLoader
 
 Now that you have your NAND backup in case anything goes wrong later, you can install the PayloadLoader on your system.

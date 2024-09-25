@@ -1,3 +1,7 @@
+---
+next: true
+---
+
 # Aroma
 
 Aroma is a work-in-progress environment and the successor to Tiramisu.

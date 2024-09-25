@@ -1,3 +1,8 @@
+---
+prev: true
+next: true
+---
+
 # SD Preparation
 
 We will now place the required Aroma files on the SD Card.

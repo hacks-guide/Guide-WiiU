@@ -1,3 +1,7 @@
+---
+prev: true
+---
+
 # Finalizing Setup
 
 Now that PayloadLoader, Environment Loader and Aroma are installed, we are going to finalize the setup.
