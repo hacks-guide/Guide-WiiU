@@ -31,6 +31,12 @@ export default defineConfig({
     resolve: {
       alias: [
         {
+          find: /^.*\/VPHero\.vue$/,
+          replacement: fileURLToPath(
+            new URL('./theme/components/VPHero.vue', import.meta.url)
+          )
+        },
+        {
           find: /^.*\/VPFooter\.vue$/,
           replacement: fileURLToPath(
             new URL('./theme/components/VPFooter.vue', import.meta.url)
