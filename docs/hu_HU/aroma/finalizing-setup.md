@@ -20,7 +20,7 @@ All Homebrew applications are loaded from the Wii U Menu on Aroma.
 
 ### További Homebrew appok - Amire szükséged van
 
-- The latest version of [SaveMii Mod WUT Port](https://wiiubru.com/appstore/zips/SaveMiiModWUTPort.zip).
+- The latest version of [SaveMii Mod WUT Port](https://wiiu.cdn.fortheusers.org/zips/SaveMiiModWUTPort.zip).
 - `wiiu-extracttosd.zip` of the [HB Appstore](https://github.com/fortheusers/hb-appstore/releases/).
 
 ### További Homebrew appok - Fájlok kicsomagolása az SD kártyára
