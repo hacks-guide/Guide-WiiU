@@ -12,4 +12,4 @@ Jelenleg egy mód létezik a frissítések tiltására egy Wii U rendszeren:
 1. Legyél biztos abban, hogy a legutolsó Aroma bétád van.
 2. Bootolj Aromába.
    - Ha egy sárga figyelmezetést kapsz, nyomj X-et a frissítések blokkolásáshoz.
-   - If you didn't get the warning, but the AutobootMenu says "Updates not blocked!", press and hold + (Plus) **and** - (Minus) at the same time until it says they are blocked.
+   - Ha nem kapsz figyelmezetést, de az AutobootMenu azt mondja, hogy "Updates not blocked!", nyomd le és tartsd lenyomva a + (Plus) **és** - (Minus) gombokat egyszerre, addig míg az nem mondja, hogy blokkolt.
