@@ -6,13 +6,13 @@ Ez az oldal végigvezet a CBHC Wii U-dról eltávolításán.
 
 1. Indítsd el a Homebrew Launcher-t.
 2. Indítsd el a CBHC Installer-t.
-3. Select the DS Virtual Console game you want to uninstall CBHC from then press the `A` button.
-4. Read the warnings then press the `B` button.
+3. Válaszd ki a DS Virtual Console játékot, amit szeretnél eltávolítani a CBHC-ból, majd nyomj `A` gombot.
+4. Olvasd el a figyelmeztetéseket és nyomd meg a `B` gombot.
 5. Ellenőrizd, hogy a Wii U-d többé nem autobootol a CBHC-be, a konzol újrabootolásakor.
-6. If no autobooting or menu screen appreared when the console was booting up, you can launch System Settings then go to Data Management and then safely uninstall the application called `DON'T TOUCH ME`.
+6. Ha sem autoboot sem menü képernyő nem jelent meg a konzol bootolásakor, akkor elindíthatod a System Settinges-et ahol a Data Management alatt biztonságosan eltávolíthatod a `DON'T TOUCH ME` alkalmazást.
 
 ::: tip
 
-If you receive a pop-up stating, "A system-memory error has occurred. Turn off the console, and then try again." while deleting the `DON'T TOUCH ME` application, restart the system and try to delete the application again. **Please** make sure you followed all above steps before deleting the application.
+Ha a következő felugró ablak jelenik meg: "A system-memory error has occurred. Turn off the console, and then try again." a `DON'T TOUCH ME` alkalmazás törlése közben, indítsd újra a rendszert, és próbáld meg újra törölni az alkalmazást. **Kérjük,** győződj meg róla, hogy az alkalmazás törlése előtt minden fenti lépést követtél.
 
 :::
