@@ -4,19 +4,19 @@ A lemezeid dumpolása lehetővé teszi, hogy a játék egy másolatát telepíts
 
 ::: tip
 
-Dumping and installing games requires a working Homebrew setup, so make sure to finish the main guide on installing CFW first before following this.
+A játékok dumpolásához és telepítéséhez működő homebrew telepítésre van szükség, ezért mielőtt ezt követnéd, mindenképpen fejezd be a CFW telepítéséről szóló fő útmutatót.
 
 :::
 
 ::: danger
 
-It is **ILLEGAL** to share the files dumped with this guide.
+**ILLEGÁLIS** az útmutató alapján készített dumpok megosztása.
 
-If you intend to use this guide to share your dumped games, don't.
+Ha az a célod ezzel az útmutatóval, hogy megossz dumpolt játékokat, ne tedd.
 
 :::
 
-## Dumping and Installing Wii U Discs
+## A Wii U lemezek dumpolása és telepítése
 
 ::: tip
 
