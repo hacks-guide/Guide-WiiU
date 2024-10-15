@@ -4,17 +4,17 @@ Ezt az útmutatót a [Nintendo Homebrew Discord Server](https://discord.gg/C29hY
 
 ::: info
 
-**Credits**
+**Készítők**
 
 **Elpunical, FlimFlam69, Flump, GaryOderNichts, Hiperhazz, huhen, ihaveahax/ihaveamac, Lazr1026, Link5261, Maschell, Nightkingale, Plailect, Profanity, és redcubie.**
 
-Thank you to [everyone else](https://github.com/hacks-guide/Guide-WiiU/graphs/contributors) that contributed to the guide on GitHub.
+Köszönjük [mindenki másnak](https://github.com/hacks-guide/Guide-WiiU/graphs/contributors) akik hozzájárultak az útmutatóhoz a GitHub-on.
 
 :::
 
 ::: tip
 
-[You can find this guide on GitHub](https://github.com/hacks-guide/Guide-WiiU), It is licensed under the [ISC License](https://github.com/hacks-guide/Guide-WiiU/blob/master/LICENSE.md).
+[Megtalálhatod ezt az útmutatót GitHub-on](https://github.com/hacks-guide/Guide-WiiU), [ISC License](https://github.com/hacks-guide/Guide-WiiU/blob/master/LICENSE.md)-szel licencelt.
 
 :::
 
