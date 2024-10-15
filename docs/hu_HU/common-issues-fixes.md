@@ -1,29 +1,29 @@
-# Common Issues & Fixes
+# Gyakori problémák & megoldásuk
 
 ## Haxchi gyakori hibák
 
-- **-3:** No SD Card detected. Csatlakoztad újra az SD kártyát és próbáld újra. Legyél biztos abban, hogy az SD kártya FAT32-re formázott. Ha a probléma tartós, próbálj belefújni az SD slotba, mert koszossá válhat.
+- **-3:** SD kártya nem érzékelt. Csatlakoztad újra az SD kártyát és próbáld újra. Legyél biztos abban, hogy az SD kártya FAT32-re formázott. Ha a probléma tartós, próbálj belefújni az SD slotba, mert koszossá válhat.
 
-- **-4:** SD detected but could not mount. Ellenőrizd, hogy az SD kártya MBR-t használ-e nem GPT-t. Továbbá ellenőrizd, hogy vannak e más partíciók az SD kártyán és mergeld őket egy nagy elsődleges partícióvá.
+- **-4:** Az SD kártya érzékelt, de nem csatolható. Ellenőrizd, hogy az SD kártya MBR-t használ-e nem GPT-t. Továbbá ellenőrizd, hogy vannak e más partíciók az SD kártyán és mergeld őket egy nagy elsődleges partícióvá.
 
-- **-5:** Missing files on the SD. Check to see if your SD has Homebrew Launcher located in <code>/wiiu<wbr>/apps<wbr>/homebrew_launcher<wbr>/homebrew_launcher.elf</code>.
+- **-5:** Hiányzó fájlok az SD kártyán. Ellenőrizd, hogy az SD kártyád tartalmaz-e Homebrew Launcher-t itt: <code>/wiiu<wbr>/apps<wbr>/homebrew_launcher<wbr>/homebrew_launcher.elf</code>.
 
 ## Böngésző hibák
 
-- **FSGetMountSource failed:** Same as -3 above, means no SD Card detected. Csatlakoztad újra az SD kártyát és próbáld újra. Ez jelentheti az is, hogy az SD kártya zárolt (a tolóka lent van a fenti állapot helyett) vagy az SD kártya neve (label) "WIIU" amit a korábban az útmutató is jelzett, hogy problémát okoz. Ha ezek egyike sem, akkor ppróbáld meg az utolsó javaslatot a -3-ból.
+- **FSGetMountSource failed:** Ugyanaz, mint fentebb a -3-as, azaz nem sikerült SD kártyát detektálni. Csatlakoztad újra az SD kártyát és próbáld újra. Ez jelentheti az is, hogy az SD kártya zárolt (a tolóka lent van a fenti állapot helyett) vagy az SD kártya neve (label) "WIIU" amit a korábban az útmutató is jelzett, hogy problémát okoz. Ha ezek egyike sem, akkor ppróbáld meg az utolsó javaslatot a -3-ból.
 
 - **FSOpenFile failed [...] payload.elf:** Missing payload file on SD. Ellenőrizd, hogy a payload.elf megtalálható-e a wiiu mappában, és a wiuu mappa a gyökérben van.
 
-- **FSOpenFile failed:** Missing `homebrew_launcher` on SD. Make sure you have `homebrew_launcher.elf` in the <code>/wiiu<wbr>/apps<wbr>/homebrew_launcher</code> folder.
+- **FSOpenFile failed:** Az SD kártyáról hiányzik a `homebrew_launcher`. Ellenőrizd, hogy a `homebrew_launcher.elf` megtalálható-e a <code>/wiiu<wbr>/apps<wbr>/homebrew_launcher</code> mappában.
 
-- **SD Mount Failed:** Similar to -4, the console recognizes the SD card but could not mount it. Legyél biztos abban, hogy megfelelően formázott és nem sérült. Továbbá az SD kártyád jobban kompatibilis megbízható márkákkal (pl. SanDisk, Samsung, Lexar, etc.) and less likely to have issues.
+- **SD Mount Failed:** Hasonló a -4-eshez, a konzol érzékeli az SD kártyád, de nem tudja csatolni azt. Legyél biztos abban, hogy megfelelően formázott és nem sérült. Továbbá az SD kártyád jobban kompatibilis megbízható márkákkal (pl. SanDisk, Samsung, Lexar, stb.) és kevésbé valószínű, hogy problémája lesz.
 
 ## A data management kéri, hogy töröljük a felesleges adatot, mit jelent ez?
 
 Ez a befejezetlen telepítésekből visszamaradt fájlokra utal. Mindig válaszd a Yes lehetőséget ezen adatok törléséhez, mivel azok ok nélkül foglalják a helyet.
-If it ever stays stuck on deleting the data in an infinite loop, you can manually delete the data yourself.\
-Use FTPiiU Everywhere and browse to `/storage_mlc/usr/import` then delete any files in the folder if any exists. Itt találhatók a részleges telepítések fájljai a sikertelen telepítések után. It'll be `/storage_usb/usr/import` if installed to a USB.\
-The `import` folder should always be kept empty.
+Ha megakad az adat törlésében egy végtelen ciklusban, kézzel is törölheted az adatokat magadnak.\
+Használj FTPiiU Everywhere és tallóz a `/storage_mlc/usr/import` mappába, majd töröl minden fájlt ami a mappában van. Itt találhatók a részleges telepítések fájljai a sikertelen telepítések után. Ez a `/storage_usb/usr/import` könyvtár, ha USB-re volt telepítve.\
+Az `import` mappát mindig ajánlott üresen tartani.
 
 ## A merevlemezem nem működik, vagy furcsa kattogó hangot ad ki, mit tegyek?
 
@@ -33,11 +33,11 @@ Ezt úgy tudod orvosolni, hogy vagy egy külső tápellátású HDD-t használsz
 
 Ha a HDD egy ideig működött, majd egyes játékoknál/az összes játéknál leállt, ez ugyanaz a probléma, és ugyanazokkal a módszerekkel javítható.
 
-## When extracting some of the files there are duplicates of certain ones called "info.json" & "manifest.install", what do I do with those?
+## Amikor néhány fájlt kicsomagolok, néhány fájlnak van duplikáltja, amit "info.json" & "manifest.install"-nak hívnak, mit csináljak ezekkel?
 
 Semmi különöset, hagy őket ott, töröld őket, vagy is felül az újakkal. Ezek a fájlok nem használtak a folyamatban, így nem számít, hogy ott vannak-e vagy sem.
 
 ## A konzolom elvesztette az online kapcsolatot és van egy HDD-m a tetején a konzolnak, mit tehetek?
 
-The internal antenna may have been influenced by the hard drive magnet.\
-You can move the HDD to a different position atop the Wii U, or move it off the Wii U entirely.
+A belső antennát lehet befolyásolta a merevelmez mágnese.\
+Elmozgathatod a HDD-et egy másik helyre a Wii U tetején, vagy le is veheted a Wii U-ről teljesen.
