@@ -11,23 +11,23 @@ Ha a későbbi folyamat során bármi rosszul sülne el, és a Wii U brickelődn
 
 ::: tip
 
-The Wii U MLC is (depending on your model) either 8GB or 32GB. Ennek következtében ahhoz, hogy teljes biztonsági mentést készíthess a konzol NAND-járól, az SD-kártyának nagyobbnak kell lennie, mint az MLC mérete. Ha nincs elég nagy SD-kártyád, akkor kihagyhatod az opcionális `MLC` részt, amely a mentési fájlokat és a játékadatokat tartalmazza, és a legtöbb brickelődés helyreállításához nincs rá szükség.
+A Wii U MLC-je (modelltől függően) 8 vagy 32 GB-os. Ennek következtében ahhoz, hogy teljes biztonsági mentést készíthess a konzol NAND-járól, az SD-kártyának nagyobbnak kell lennie, mint az MLC mérete. Ha nincs elég nagy SD-kártyád, akkor kihagyhatod az opcionális `MLC` részt, amely a mentési fájlokat és a játékadatokat tartalmazza, és a legtöbb brickelődés helyreállításához nincs rá szükség.
 
 :::
 
 ::: tip
 
-Restoring a NAND Backup on the Wii U requires ISFShax or additional hardware and microsoldering skills.
+A NAND biztonsági mentés visszaállítása a Wii U-n ISFShax-ot vagy további hardvert és mikroforrasztási ismereteket igényel.
 
-However, making a NAND Backup is **always** useful, so please do not skip it.
+A NAND biztonsági mentés készítése azonban **mindig** hasznos, ezért ne hagyd ki.
 
-Your NAND Backup is unique to your system. A mentések más konzolról **nem fognak** működni a szükséges tudás nélkül.
+A NAND biztonsági mentés egyedi a rendszeredre. A mentések más konzolról **nem fognak** működni a szükséges tudás nélkül.
 
 :::
 
 1. Navigál a `nanddumper`-hez a GamePad-del és nyomj A-t az indításához.
-2. Use the Wii U GamePad's D-Pad to enter the following configuration:
-   ![SLC: Yes, SLCCMPT: Yes, MLC: Yes or No, OTP: Yes, SEEPROM: Yes](/assets/img/guide/NAND.png)
+2. Használd a Wii U GamePad D-Pad-ját a következő konfiguráció beviteléhez:
+   ![SLC: Yes, SLCCMPT: Yes, MLC: Yes vagy No, OTP: Yes, SEEPROM: Yes](/assets/img/guide/NAND.png)
    - Az MLC is **OPCIONÁLIS**, ha nem szeretnéd dumpolni, hagyd `No`-n. Ha szeretnéd dumpolni, biztosítsd, hogy az SD kártyád elég nagy legyen, majd állítsd `Yes`-re.
 3. Nyomj A gombot a dumpolás elindításához.
 4. Ha a folyamat befejeződött, kapcsold ki a Wii U-dat, vedd kiaz SD kártyád a Wii U-ból és dugd be a PC-dbe.
