@@ -1,4 +1,4 @@
-# Donations
+# Adományok
 
 ::: tip
 
