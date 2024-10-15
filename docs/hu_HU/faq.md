@@ -1,42 +1,42 @@
 # Gyakran isméltelt kérdések
 
-## Does homebrew have any risks?
+## Van-e kockázata a homebrew-nak?
 
 Jelenleg a homebrew használata Wii U-n nem jelent bannolási kockázatot, amíg nem csalsz az online játékokban és nem követsz el eShop csalást. Azonban mindig legyél elővigyázatos a letöltött homebrew-ok indításával, különösen ha nem bízol meg a forrásban, mert egy homebrew elronthatja a rendszered!
 
-## What are exploits?
+## Mik az exploit-ok?
 
-Az exploit-ok olyan belépési pontok, amik lehetővé teszik továbi homebrew-ok futtatását. In the main guide, you will use exploits such as the browser exploit (http://wiiuexploit.xyz) and PayloadLoader (Health & Safety exploit). All current exploits load `SD:/wiiu/payload.elf` which takes over further loading of homebrew.
+Az exploit-ok olyan belépési pontok, amik lehetővé teszik továbi homebrew-ok futtatását. A fő útmutatóban olyan expliotokat fogsz használni, mint a böngésző exploit (http://wiiuexploit.xyz) és a PayloadLoader (Health & Safety exploit). Minden aktuális current exploits betölti az `SD:/wiiu/payload.elf` fájlt, ami átveszi a további betöltését a homebrew-nak.
 
-## What are payloads?
+## Mi a payload?
 
-Payloads, which are normally found with the filename `payload.elf`, exist to make it easier to have different exploits load the same next stage, which allows easier updateability. Nem számít, hogy milyen exploit tölti be a payload-ot, az eredmény mindig ugyanaz.
+A `payload.elf` fájlnévvel általában megtalálható payload-ok azért léteznek, hogy megkönnyítsék azt, hogy a különböző exploitok ugyanazt a következő szakaszt töltsék be, ami megkönnyíti a frissíthetőséget. Nem számít, hogy milyen exploit tölti be a payload-ot, az eredmény mindig ugyanaz.
 
-Multiple payloads can be switched between using the PayloadLoaderPayload.
+A PayloadLoaderPayload segítségével több payload között lehet váltani.
 
-The payload used in the main guide is CustomRPXLoader which loads `SD:/wiiu/payload.rpx` and the `payload.rpx` used in the guide is EnvironmentLoader, which allows you to load different environments.
+A fő útmutatóban használt payload a CustomRPXLoader, amely az `SD:/wiiu/payload.rpx`-et tölti be, az EnvironmentLoader útmutatóban pedig `payload.rpx` használt, ami lehetővé teszi a különböző környezetek betöltését.
 
-## What are environments?
+## Mik azok a környezetek?
 
-An environment is a collection of "setup modules", which will be run in a certain order when launching the environment. Such environments are Aroma and Tiramisu.
+Egy környezet a "beállítási modulok" gyűjteménye, amelyek a környezet indításakor egy bizonyos sorrendben futnak le. Ilyen környezetek az Aroma és a Tiramisu.
 
-Setup modules are small pieces of homebrew/code that are executed once to set up an environment.
+A telepítőmodulok kis házi készítésű kódrészletek, amelyek egyszer kerülnek végrehajtásra a környezet beállításához.
 
-## How to Delete Update Folder to Block Updates on Wii U
+## Hogyan lehet törölni a frissítési mappát a frissítések blokkolásához a Wii U-n
 
-If you want to delete the update folder to block updates, see its tab in the [Blocking Updates guide](block-updates).
+Ha a frissítések blokkolásához törölni szeretné a frissítési mappát, tekintse meg a [Frissítések blokkolása útmutatóban](block-updates) található fület.
 
-## What SD Card size is recommended?
+## Milyen SD kártya méret ajánlott?
 
-- **Installing game backups:** 32GB (Smaller size may be used, but certain titles are 20GB in size)
-- **Running game mods:** 8GB (FAT32 USB drive may be used as well for mods)
-- **Only running homebrew apps:** Any size.
+- **Játék mentések telepítésére:** 32GB (Kisebb méret használhat, azonban egyes címek mérete 20GB)
+- **Játék mod-ok futtatása:** 8GB (FAT32 USB drive használható még a mod-okhoz)
+- **Csak homebrew alkalmazások futtatása:** Bármilyen méret.
 
-**Recommended brands:** SanDisk, Samsung or PNY
+**Ajánlott márkák:** SanDisk, Samsung vagy PNY
 
 ::: tip
 
-Note: Avoid class 4 SD Cards, and avoid eBay!
+Megjegyzés: Óvakodj a class 4 SD kártyáktól és az eBay-től!
 
 :::
 
@@ -50,8 +50,8 @@ Semmi különöset, hagy őket ott, töröld őket, vagy is felül az újakkal. 
 
 ## Milyen egy Wii U formázott USD drive?
 
-It's a USB drive that has been formatted by a Wii U console to its proprietary format.
+Ez egy USB drive ami Wii U konzol saját formátumára formázott.
 
-A Wii U formatted USB drive _**cannot be read by any other devices than the Wii U that originally formatted it.**_
+Egy Wii U formázott USB drive _**nem olvasható más eszközzel mind azzal a Wii U-val, amelyik eredetileg formázta azt.**_
 
-If you ever want to use it with another Wii U console or any other devices, you will have to reformat it.
+Ha szeretnéd valamikor használni egy másik Wii U konzolban, vagy más eszközben, akkor újra kell formáznod.
