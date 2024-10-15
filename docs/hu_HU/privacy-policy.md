@@ -54,7 +54,7 @@ A kaliforniai polgári törvénykönyv 1798.83. szakasza, más néven a "Shine T
 
 Ha Ön 18 év alatti, kaliforniai lakhellyel rendelkezik, és regisztrált fiókkal rendelkezik az Oldalakon, joga van kérni az Oldalakon nyilvánosan közzétett nem kívánt adatok eltávolítását. Az ilyen adatok eltávolításának kéréséhez kérjük, lépjen kapcsolatba velünk az alábbiakban megadott elérhetőségeken, és adja meg a fiókjához tartozó e-mail címet, valamint egy nyilatkozatot arról, hogy Kaliforniában lakik. Gondoskodunk arról, hogy az adatokat ne tegyük nyilvánosan közzé az Oldalakon, de kérjük, vegye figyelembe, hogy az adatokat nem biztos, hogy teljesen vagy teljes mértékben eltávolítjuk a rendszereinkből.
 
-### 5. FRISSÍTJUK EZT A SZAÁLYZATOT?
+### 5. DO WE MAKE UPDATES TO THIS POLICY?
 
 _**In Short:**_ _Yes, we will update this policy as necessary to stay compliant with relevant laws._
 
