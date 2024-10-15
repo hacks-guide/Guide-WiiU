@@ -4,30 +4,30 @@ Ez az oldal végigvezet a vWii-n lévő IOS vagy csatorna helyreállításának 
 
 ::: danger
 
-This has the potential to destroy your vWii NAND if you are not careful! Please consider [backing up](aroma/nand-backup) your SLCCMPT and OTP if you do not yet have them backed up!
+Ez tönkreteheti a vWii NAND-ot, ha nem vigyázol! Kérjük, fontold meg az SLCCMPT és az OTP biztonsági [mentését](aroma/nand-backup), ha még nem készült róluk biztonsági mentés!
 
 :::
 
 ::: tip
 
-If you are using a system update blocking method, please [remove it](unblock-updates).
+Ha valami rendszer frissítés blokkoló metódust használsz, kérjük [távolítsd el](unblock-updates).
 
 :::
 
 ::: tip
 
-Due to mounting conflicts with this app, you need to also disable the FTPiiu plugin.
+Csatolási ütközések miatt ezzel az appal, le kell tiltanod az FTPiiu plugin-t.
 
 :::
 
 ## Mire van szükséged
 
-- A working [homebrew installation](index) on the Wii U side.
-- The latest release of [vWii Decaffeinator](https://github.com/GaryOderNichts/vWii-Decaffeinator/releases).
+- Egy működő [homebrew telepítésre](index) a Wii U oldalán.
+- A [vWii Decaffeinator](https://github.com/GaryOderNichts/vWii-Decaffeinator/releases) legutolsó kiadása.
 
 ## Lépések
 
-1. Copy the contents of the `decaffeinator.zip` file to the root of your SD Card.
+1. Másold a `decaffeinator.zip` fájl tartalmát az SD kártyád gyökerébe.
 2. Vedd ki az SD kártyát a számítógépedből, és dubd be a Wii U konzolodba.
 3. Kapcsold be Wii U-d és indíts el a választásod szerinti egyedi firmware-t (CFW-t)(Mocha, Haxchi vagy CBHC).
 4. Indítsd el a Homebrew Launcher-t.
@@ -35,19 +35,19 @@ Due to mounting conflicts with this app, you need to also disable the FTPiiu plu
 
 ## Helyreállítási folyamat
 
-Különböző lehetőségek közül választhatsz. It is recommended to first attempt restoring through the `Advanced options` menu if you know what to restore, or `Light mode` if you aren't sure. In extreme cases where no other option solves the issue, `Aggressive mode` should be chosen.
+Különböző lehetőségek közül választhatsz. Javasolt, hogy először a `Speciális opciók (Advanced options)` menüben próbáld meg a visszaállítást, ha tudod, mit kell visszaállítani, vagy `Könnyű módban (Light mode)`, ha nem vagy biztos benne. Szélsőséges esetekben, amikor semmilyen más lehetőség nem oldja meg a problémát, az `Agresszív módot (Aggressive mode)` kell választani.
 
 <!-- tabs:start -->
 
 ::::: tabs
 
-:::: tab default Advanced options
+:::: tab default Speciális opciók
 
 ### Speciális opciók (Advanced options)
 
 ::: tip
 
-This mode will clear the specified IOSes and channels to reinstall them. Minden más adat (beleértve a cIOS-okat is) megmarad.
+Ez a mód törli a megadott IOS-eket és csatornákat, hogy újratelepítse őket. Minden más adat (beleértve a cIOS-okat is) megmarad.
 
 :::
 
@@ -59,38 +59,38 @@ This mode will clear the specified IOSes and channels to reinstall them. Minden 
 
 :::
 
-1. Select `Advanced options` on the menu.
+1. Válaszd az `Advanced options`-t a menüben.
 2. Használd a D-Pad-et annak kijelölésére, hogy mi legyen helyreállítva.
 3. Nyomj Start gombot a visszaállítási folyamat elindításához.
 4. Amikor az alkalmazás végez, hagyd, hogy az alkalmazás elindítsa a System Settings-et.
-5. Perform a [System Update](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1136/~/how-to-perform-a-system-update) to finish the restoration process.
+5. Hajts végre egy [System Update](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1136/~/how-to-perform-a-system-update)-et a helyreállítási folyamat befejezéséhez.
 
 ::: tip
 
-You can now re-enable your [system update blocking method](block-updates).
+Most újra engedélyezheted a [rendszerfrissítés blokkolási módszered](block-updates).
 
 :::
 
 ::::
 
-:::: tab Light mode
+:::: tab Könnyű mód
 
 ### Könnyű mód (Light mode)
 
 ::: tip
 
-This mode will clear the System Menu, Wii Message Board save data, IOSes, and other system titles to reinstall clean versions of them. Kérjük vedd figyelembe, hogy ez eltávolít minden cIOS-t is és újra kell telepíteni azokat. Minden más adat megőrzésre kerül.
+Ez a mód törli a System Menu, Wii Message Board mentés adatot, IOS-eket és más rendszer címeket, hogy tiszta verziókat telepíthessen belőlük újra. Kérjük vedd figyelembe, hogy ez eltávolít minden cIOS-t is és újra kell telepíteni azokat. Minden más adat megőrzésre kerül.
 
 :::
 
-1. Select `Light mode` on the menu.
+1. Válaszd a `Light mode`-ot a menüben.
 2. Nyomj Start gombot a visszaállítási folyamat elindításához.
 3. Amikor az alkalmazás végez, hagyd, hogy az alkalmazás elindítsa a System Settings-et.
-4. Perform a [System Update](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1136/~/how-to-perform-a-system-update) to finish the restoration process.
+4. Hajts végre egy [System Update](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1136/~/how-to-perform-a-system-update)-et a helyreállítási folyamat befejezéséhez.
 
 ::: tip
 
-You can now re-enable your [system update blocking method](block-updates).
+Most újra engedélyezheted a [rendszerfrissítés blokkolási módszered](block-updates).
 
 :::
 
@@ -102,24 +102,24 @@ Ha az Error Code 160-0101-et kapod bootoláskor a vWii Decaffeinator használata
 
 ::::
 
-:::: tab Aggressive mode
+:::: tab Agresszív mód
 
 ### Agresszív mód
 
 ::: danger
 
-This mode will clear **everything** to reinstall clean versions of the default IOSes and channels. Kérjük vedd figyelembe, hogy minden cIOS, mentés adat és csatorna el fog veszni és a vWii NAND visszaáll a gyári állapotára!
+Ez a mód töröl **mindent,** hogy újratelepítse a tiszta verzióját az alapértelmezet IOS-eknek és csatornáknak. Kérjük vedd figyelembe, hogy minden cIOS, mentés adat és csatorna el fog veszni és a vWii NAND visszaáll a gyári állapotára!
 
 :::
 
-1. Select `Aggressive mode` on the menu.
+1. Válaszd a `Agressive mode`-ot a menüben.
 2. Olvasd el a figyelmezetetést teljesen. Ha szeretnéd folytatni, nyomj Start gombot a helyreállítási folyamat elkezdéséhez.
 3. Amikor az alkalmazás végez, hagyd, hogy az alkalmazás elindítsa a System Settings-et.
-4. Perform a [System Update](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1136/~/how-to-perform-a-system-update) to finish the restoration process.
+4. Hajts végre egy [System Update](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1136/~/how-to-perform-a-system-update)-et a helyreállítási folyamat befejezéséhez.
 
 ::: tip
 
-You can now re-enable your [system update blocking method](block-updates).
+Most újra engedélyezheted a [rendszerfrissítés blokkolási módszered](block-updates).
 
 :::
 
