@@ -1,12 +1,12 @@
-# PRIVACY NOTICE
+# ADATVÉDELMI TÁJÉKOZTATÓ
 
-**Last updated January 18, 2020**
+**Utoljára frissítve: 2020. január 18**
 
 Köszönjük, hogy a Wii U Hacks Guide („társaság”, „mi”, „minket” vagy „miénk”) közösségünk részévé vált. Elkötelezettek vagyunk személyes adatainak és a magánélethez való jogának védelme mellett. Ha bármilyen kérdése vagy aggálya van a szabályzatunkkal vagy a személyes adataival kapcsolatos gyakorlatunkkal kapcsolatban, kérjük, lépjen kapcsolatba velünk a nh.wiiuguide@gmail.com címen.
 
 Amikor meglátogatja a https://wiiu.hacks.guide weboldalunkat, és igénybe veszi szolgáltatásainkat, személyes adatait ránk bízza. Az adatvédelmet nagyon komolyan vesszük. Ebben a tájékoztatóban leírjuk adatvédelmi szabályozásunkat. Igyekszünk a lehető legvilágosabban elmagyarázni Önnek, hogy milyen adatokat gyűjtünk, hogyan használjuk fel azokat, és milyen jogai vannak ezzel kapcsolatban. Reméljük, hogy szán egy kis időt arra, hogy figyelmesen átolvassa, mert ez fontos. Ha a jelen adatvédelmi szabályzatban olyan feltételek szerepelnek, amelyekkel nem ért egyet, kérjük, ne használja tovább az Oldalainkat és szolgáltatásainkat.
 
-This privacy policy applies to all information collected through our website (such as https://wiiu.hacks.guide), and/or any related services, sales, marketing or events (we refer to them collectively in this privacy policy as the "**Sites**").
+Ez az adatvédelmi szabályzat a weboldalunkon (például a https://wiiu.hacks.guide) és/vagy a kapcsolódó szolgáltatásokon, értékesítésen, marketingtevékenységeken vagy rendezvényeken keresztül gyűjtött valamennyi információra vonatkozik (a jelen adatvédelmi szabályzatban ezeket együttesen "**Oldalaknak**" nevezzük).
 
 **Please read this privacy policy carefully.**
 
