@@ -8,36 +8,36 @@ Az Aroma egy fejlesztés alatt álló környezet a Tiramisu utódja.
 
 ## Mi az Aroma?
 
-Aroma is an environment like Tiramisu, which can be booted through the Environment Loader.\
-Aroma, just like Tiramisu, uses the same Mocha version, support for setup modules, and comes with the Autoboot Module, which includes the boot selector and Quick Start support.\
-Aroma comes with several additional features, including a plugin system, a new way of launching homebrews, and many built-in modules and plugins (i.e. régió felszabadító patchek).
+Az Aroma egy környezet mint a Tiramisu, ami bootolható az Environment Loader-en keresztül.\
+Az Aroma, akár a Tiramisu, ugyanazt Mocha verziót használja, támogatja a telepítő modulokat és az Autoboot Module-lal érkezik, ami tartalmazza a boot selector-t Quick Start támogatást.\
+Az Aroma jópár további szolgáltatással érkezik, mint a plugin rendszer, a homebrew-ok indításának új módja, valamint számos beépített modul és plugin (pl. régió felszabadító patchek).
 
 ## Mit tudok az Aromával csinálni?
 
-For a detailed overview check out [this blogpost](https://maschell.github.io/homebrew/2022/09/05/aroma.html). Egy gyors összefoglaló alább.
+Részletesebb áttekintéshez tekintsd meg [ezt a blogpost-ot](https://maschell.github.io/homebrew/2022/09/05/aroma.html). Egy gyors összefoglaló alább.
 
 ### Modulok
 
-Aroma supports modules which, unlike setup modules, always run in the background.\
-This allows for further extending the functionality of the console.
+Az Aroma támogatja a modulokat, amik a telepítő moduloktól eltérően folyamatosan futnak a háttérben.\
+Ez lehetővé teszi a további bővítését a a konzol funkcionalitásának.
 
 ### Plugin-ek
 
-Plugins, similarly to modules, are also running in the background.\
-They can enhance the experience of the console by changing and providing additional features.\
-Plugins can be configured using a configuration menu, which can be opened using a button combination.
+A pluginek hasonlóak a modulokhoz, a háttérben futnak.\
+Megváltoztathatják a konzol élményét azzal, hogy módosítanak meglévő vagy biztosítanak új szolgáltatásokat.\
+A pluginek beállíthatók a konfigurációs menüben, ami megnyithat egy gomb kombinációval.
 
 ### Wii U Homebrew Bundle-ök
 
-Wii U Homebrew Bundles (WUHB) are a new way of launching homebrew.\
-These `.wuhb` files contain the main executable and can directly include icon and banner images and additional content.\
-With the `homebrew_on_menu` plugin, WUHB files can be directly launched from the Wii U menu, just like official channels.
+A Wii U Homebrew Bundles (WUHB) egy új módja a homebrew-ok indításának.\
+Ezek a `.wuhb` fájlok tartalmazzák a fő futtatható állományt és közvetlenül tartalmazzhatják az ikon és banner képeket, és további tartalmakat.\
+A `homebrew_on_menu` plugin-nel a WUHB fájlok közvetlenül indíthatók a Wii U menüből, mint a hivatalos csatornák.
 
 ## Mik a korlátozások?
 
-Due to technical limitations, a lot of old homebrew applications will no longer work with Aroma.\
-This includes all `.elf` homebrews, but also some `.rpx` homebrews(i.e. RetroArch), which don't implement necessary functionality properly.\
-These homebrews need to be updated with support for Aroma. To run old homebrews you need to boot the Tiramisu environment.\
-Launching homebrews through the now outdated Homebrew Launcher is no longer possible with Aroma.
+Technikai korlátozások miatt jópár régi homebrew applikáció nem működik Aromával.\
+Ebbe beleértendő minden `.elf` homebrew, de néhány `.rpx` homebrew is (pl. RetroArch), ami nem implementál szükséges funkcionalitást megfelelően.\
+Ezeket a homebrew-okat frissíteni kell Aroma támogatással. Régi homebrew futtatásához be kell bootolnod a Tiramisu környezetbe.\
+A homebrewok indítása a most már kiöregedett Homebrew Launcher-rel már nem lehetséges Aromával.
 
 A fent említett korlátozások mellett, érdemes megjegyezni, hogy az Aroma még mindig csak béta kiadás. Nem mindent tesztelt még, és tovább problémák még előkerülhetnek. Ez nem jelenti azt, hogy az Aroma instabil, de van rá esély, hogy azt tapasztalod, hogy valami nem megfelelően működik.
