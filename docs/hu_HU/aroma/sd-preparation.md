@@ -5,35 +5,35 @@ next: true
 
 # SD kártya előkészítés
 
-We will now place the required Aroma files on the SD Card.
+Először az Aroma fájlokat az SD kártyára rakjuk.
 
 ::: warning
 
-Your SD Card will need to be formatted as FAT32. If your SD Card is not formatted to FAT32, use [GUIFormat](http://ridgecrop.co.uk/index.htm?guiformat.htm) with 32k (32768) allocation unit size to format it.\
+Az SD kártyád FAT32-re kell legyen formázva. Ha az SD kártyád nem FAT32-re formázott, használd a [GUIFormat](http://ridgecrop.co.uk/index.htm?guiformat.htm)-ot 32k (32768) allokációs egység mérettel a formázáshoz.\
 **Ne** cimkézd az SD kártyát `wiiu`-nak, különben problémát okoz a homebrew-nak.
 
 :::
 
 ## Lépések
 
-1. On the [Aroma](https://aroma.foryour.cafe) site, scroll down to the **Download** section.
+1. Az [Aroma](https://aroma.foryour.cafe) weboldalán gördíts le a **Download** szekcióig.
    - Olvasd el a lépéseket, és kattintsd be a jelölő négyzeteket.
      ![](/assets/img/guide/Aroma_Box.png)
    - Kattints a `Download Payloads` és a `Download Base Aroma` opciókra.
      ![](/assets/img/guide/Aroma_DL.png)
 2. Helyezd be a Wii U-d SD kártyáját a PC-dbe.
-3. **Extract** and copy the `wiiu` folder of the two newly downloaded _`.zip`_ files to the root of your SD Card.
-   - The `wiiu` folders should be merged if not done automatically.
+3. **Csomagold ki** és másold a `wiiu` mappát a kettő frissen letöltött _`.zip`_ fájlból az SD kártyád gyökerébe.
+   - A `wiiu` mappákat mergelni kell, ha nem történik meg automatikusan.
 
 ::: tip
 
-If your computer asks you to overwrite existing files on your SD Card, you will need to click yes.
+Ha a számítógép rákérdezz, hogy felülírjuk-e a létező fájlokat az SD kártyán, akkor kattints a Igen-re.
 
 :::
 
 ::: tip
 
-If you're on a Mac machine, select `Merge` instead of replace. If the merge option does not show immediately, press and hold the `Option` key while moving files to the root.
+Ha Mac számmítógépen vagy válaszd a `Merge` opciót a csere helyett. Ha a Merge opció nem jelenik meg azonnal, akkor tartsd nyomva az `Option` gombot, amíg mozgatod a gyökérbe a fájlokat.
 
 :::
 
@@ -44,12 +44,11 @@ A zip tartalmának gyökérbe kicsomagolása valahogy így kell kinézzen.
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
   <video style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" controls muted>
     <source src="/assets/img/guide/SD_Prep.mp4" type="video/mp4">
-    
-    Your browser does not support the video tag.
+    A böngésződ nem támogatja ezt a videó tag-et.
   </video>
 </div>
 
-## SD Card Layout
+## SD kártya kiosztás
 
 :::details Kattints ide a végső SD kártya kiosztás megtekintéséhez.
 
@@ -89,6 +88,6 @@ A zip tartalmának gyökérbe kicsomagolása valahogy így kell kinézzen.
 
 ::: tip
 
-If you already have the PayloadLoader installed, you may go directly to [Finalizing Setup](./finalizing-setup.md)
+Ha már telepítetted a PayloadLoader-t, rögtön mehetsz tovább [A telepítés véglegesítésére](./finalizing-setup.md)
 
 :::
