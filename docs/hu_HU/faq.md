@@ -44,7 +44,7 @@ Note: Avoid class 4 SD Cards, and avoid eBay!
 
 Nem, szükséged van egy SD kártyára az első beállításhoz. Az USB ezután használható játékmentések, Virtual Console injektálástok, stb. telepítéséhez, de nem arra, hogy olyan homebrew alkalmazásokat tároljanak, amit telepíteni kell.
 
-## When extracting some of the files there are duplicates of certain ones called "info.json" & "manifest.install", what do I do with those?
+## Amikor néhány fájlt kicsomagolok, néhány fájlnak van duplikáltja, amit "info.json" & "manifest.install"-nak hívnak, mit csináljak ezekkel?
 
 Semmi különöset, hagy őket ott, töröld őket, vagy is felül az újakkal. Ezek a fájlok nem használtak a folyamatban, így nem számít, hogy ott vannak-e vagy sem.
 
