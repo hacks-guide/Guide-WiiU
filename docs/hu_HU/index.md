@@ -18,13 +18,13 @@ For live support with this guide please visit us in **#wiiu-assistance** on the 
 
 ::: info
 
-If you appreciate this guide, we accept [donations](donations).
+Ha értékeled ezt az útmutatót, elfogadunk [adományokat](donations).
 
 :::
 
 ::: info
 
-For complete guides to homebrew and custom firmware for other devices, check out [hacks.guide](https://hacks.guide).
+A homebrew és egyedi firmware-ek teljes útmutatóját más eszközökhöz megtalálod [hacks.guide](https://hacks.guide) oldalon.
 
 :::
 
@@ -39,7 +39,7 @@ Egy homebrew futtatható a Wii U-n, amennyiben van módod a fájlok SD-kártyár
 Az egyéni firmware (gyakran rövidítve "CFW") lehetővé teszi, hogy fejlettebb hackeket használj, amelyeket a userland homebrew nem tud könnyen megtenni. Például a játékmódosítások könnyed telepítését.
 A CFW bármelyik a legújabb verzión található konzolra beállítható.
 
-### Homebrew & CFW Uses
+### Homebrew & egyedi firmware felhasználási lehetőségek
 
 Többek között a következőket teszi lehetővé:
 
@@ -57,7 +57,7 @@ Ennek az útmutatónak az a célja, hogy egy módosítatlan Wii U-t a gyáriról
 
 ::: danger
 
-Before beginning the guide, you must know the risks of Wii U hacking: **EVERY** time you modify your system, there is always the potential for an **UNRECOVERABLE** brick. They’re rare but still a possibility so make sure you follow **ALL** directions **EXACTLY!**
+Az útmutató végrehajtása előtt tisztában kell lenned a Wii U hackelésének kockázataival: **MINDEN** alkalommal, amikor módosítod a rendszeredet, mindig fennáll a veszélye egy **HELYREHOZHATATLANUL** brickeled azt. Ezek ritkák, de még mindig fennáll a lehetőség, ezért győződj meg róla, hogy **MINDEN** utasítást **PONTOSAN** követsz
 
 :::
 
@@ -77,12 +77,13 @@ Egy 32GB SD kártya elég kell legyen a legtöbb felhasználási célra. Egy Mic
 
 ::: tip
 
-**If you have an existing legacy CFW setup**
+**Ha van már régi egyedi firmware telepítésed**
 
-- For **CBHC** users: Go to the [Uninstall CBHC](uninstall-cbhc) page to uninstall CBHC.
-- For **Haxchi** users: Uninstall the Haxchi app from Data Management in the System Settings app.
-- For **Mocha CFW (Indexiine)** users: Go to the [Uninstall Indexiine](uninstall-indexiine) page to uninstall Indexiine.
-- For **Mocha CFW (Online Exploit)** users: You do not need to do anything before following this guide.
+- **CBHC** felhasználók: Menj [A CBHC eltávolítása](uninstall-cbhc)
+  oldalra a CBHC eltávolításához.
+- **Haxchi** fehasználók: Távolítsd el a Haxchi appot a Data Management alól a System Settings appban.
+- **Mocha CFW (Indexiine)** felhasználók: Menj az [Indexiine eltávolítása](uninstall-indexiine) oldalra az Indexiine eltávolításáért.
+- **Mocha CFW (Online Exploit)** felhasználók: Nem kell csinálnod semmit, mielőtt követnéd ezt az útmutatót.
 
 :::
 
@@ -96,4 +97,4 @@ Javasoljuk, hogy a teljes útmutatót az elejétől a végéig olvasd el egy vag
 
 ---
 
-### [Continue to Aroma](aroma/getting-started)
+### [Folytatás az Aromával](aroma/getting-started)
