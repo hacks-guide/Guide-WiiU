@@ -11,7 +11,7 @@ A PayloadLoader telepítése lehetővé teszi az Aroma elérését egyszerűen a
 
 ::: danger
 
-A factory reset **won't** uninstall the injected PayloadLoader. Follow [uninstall PayloadLoader](../uninstall-payloadloader) to remove the PayloadLoader.
+A gyári visszaállítás **nem** távolítja el a beillesztett PayloadLoader-t. PayloadLoader eltávolításához kövesd [a PayloadLoader eltávolítását](../uninstall-payloadloader).
 
 :::
 
@@ -19,7 +19,7 @@ A factory reset **won't** uninstall the injected PayloadLoader. Follow [uninstal
 
 ::: tip
 
-If you're already booted into Aroma, you may skip to step 5.
+Ha már be vagy bootolva az Aromába, akkor ugorhatsz az 5. lépésre.
 
 :::
 
