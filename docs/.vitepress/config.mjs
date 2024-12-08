@@ -17,6 +17,9 @@ export default defineConfig({
   locales: {
     root: i18n.en_US
   },
+  sitemap: {
+    hostname: 'https://wiiu.hacks.guide'
+  },
   themeConfig: {
     docFooter: {
       prev: false,
