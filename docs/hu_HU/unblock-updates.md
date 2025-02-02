@@ -8,17 +8,39 @@ Ha Aromát futtatsz és törölted az update mappát, akkor tiltsd le az autoboo
 
 :::
 
+::: tip
+
+Users with ISFShax must have at least v4 of the `wafel_isfshax_patch.ipx`/`5isfshax.ipx` stroopwafel plugin on the SD Card or SLC in order to update.
+
+:::
+
 ## Lépések
 
 ::::: tabs
 
-:::: tab default Az Aroma Autoboot eltávolítása
+:::: tab default Recreating Update Folder
+
+### A frissítés mappa újra létrehozása
+
+1. Legyél biztos abban, hogy a legutolsó Aroma bétád van.
+2. Bootolj Aromába a (+) gomb megnyomásával.
+3. Tarts nyomva a + (Plus) **és a** - (Minus) gombokat, amíg azt nem mondja, hogy "Updates not blocked!".
+
+::::
+
+:::: tab Removing Aroma Autoboot
 
 ### Az Aroma Autoboot eltávolítása
 
 ::: tip
 
 Ha autobootolsz a PayloadLoader-be, a frissítések automatikusan blokkoltak. Kövesd az alábbi útmutatót a letiltásához.
+
+:::
+
+::: tip
+
+Users with ISFShax will have to remove the `wafel_payloader.ipx`/`5payldr.ipx` (if used) from the SD Card (`sd:/wiiu/ios_plugins`) or SLC (`slc:/sys/hax/ios_plugins`) to stop autobooting into Aroma.
 
 :::
 
@@ -29,16 +51,6 @@ Ha autobootolsz a PayloadLoader-be, a frissítések automatikusan blokkoltak. K�
 5. Ha a folyamat befejeződött, nyomj A gombot a konzol leállításához.
 6. Végezz el egy system Update-et.
 7. Kövesd [ezt](aroma/autobooting) az autoboot visszaállításához.
-
-::::
-
-:::: tab A frissítés mappa újra létrehozása
-
-### A frissítés mappa újra létrehozása
-
-1. Legyél biztos abban, hogy a legutolsó Aroma bétád van.
-2. Bootolj Aromába a (+) gomb megnyomásával.
-3. Tarts nyomva a + (Plus) **és a** - (Minus) gombokat, amíg azt nem mondja, hogy "Updates not blocked!".
 
 ::::
 
