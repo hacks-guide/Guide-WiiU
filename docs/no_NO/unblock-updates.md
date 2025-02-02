@@ -8,17 +8,39 @@ If you are running Aroma and have deleted the update folder, you need to disable
 
 :::
 
+::: tip
+
+Users with ISFShax must have at least v4 of the `wafel_isfshax_patch.ipx`/`5isfshax.ipx` stroopwafel plugin on the SD Card or SLC in order to update.
+
+:::
+
 ## Instruksjoner
 
 ::::: tabs
 
-:::: tab default Removing Aroma Autoboot
+:::: tab default Recreating Update Folder
+
+### Gjenopprette "update" mappen
+
+1. Sørg for at du er på den nyeste Aroma betaen.
+2. Boot Aroma mens du holder inne + (Pluss).
+3. Hold + (Plus) **and** - (Minus) until it says "Updates not blocked!".
+
+::::
+
+:::: tab Removing Aroma Autoboot
 
 ### Fjerne Aroma Autoboot
 
 ::: tip
 
 When autobooting into the PayloadLoader, updates are automatically blocked. Følg guiden nedenfor for å deaktivere den.
+
+:::
+
+::: tip
+
+Users with ISFShax will have to remove the `wafel_payloader.ipx`/`5payldr.ipx` (if used) from the SD Card (`sd:/wiiu/ios_plugins`) or SLC (`slc:/sys/hax/ios_plugins`) to stop autobooting into Aroma.
 
 :::
 
@@ -29,16 +51,6 @@ When autobooting into the PayloadLoader, updates are automatically blocked. Føl
 5. Når prosessen er ferdig, trykk A for å slå av konsollen.
 6. Kjør en System Update.
 7. Follow [this](aroma/autobooting) to re-enable autobooting.
-
-::::
-
-:::: tab Recreating Update Folder
-
-### Gjenopprette "update" mappen
-
-1. Sørg for at du er på den nyeste Aroma betaen.
-2. Boot Aroma mens du holder inne + (Pluss).
-3. Hold + (Plus) **and** - (Minus) until it says "Updates not blocked!".
 
 ::::
 
