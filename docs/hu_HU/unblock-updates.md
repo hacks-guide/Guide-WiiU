@@ -10,7 +10,7 @@ Ha Aromát futtatsz és törölted az update mappát, akkor tiltsd le az autoboo
 
 ::: tip
 
-Users with ISFShax must have at least v4 of the `wafel_isfshax_patch.ipx`/`5isfshax.ipx` stroopwafel plugin on the SD Card or SLC in order to update.
+Az ISFShax felhasználóinak legalább v4 verzióval kell rendelkezniük a `wafel_isfshax_patch.ipx`/`5isfshax.ipx` stroopwafel plugin-ből az SD kártyán vagy az SLC-n, ahhoz, hogy frissítsenek.
 
 :::
 
@@ -18,7 +18,7 @@ Users with ISFShax must have at least v4 of the `wafel_isfshax_patch.ipx`/`5isfs
 
 ::::: tabs
 
-:::: tab default Recreating Update Folder
+:::: tab default A frissítés mappa újra létrehozása
 
 ### A frissítés mappa újra létrehozása
 
@@ -28,7 +28,7 @@ Users with ISFShax must have at least v4 of the `wafel_isfshax_patch.ipx`/`5isfs
 
 ::::
 
-:::: tab Removing Aroma Autoboot
+:::: tab Az Aroma Autoboot eltávolítása
 
 ### Az Aroma Autoboot eltávolítása
 
@@ -40,7 +40,7 @@ Ha autobootolsz a PayloadLoader-be, a frissítések automatikusan blokkoltak. K�
 
 ::: tip
 
-Users with ISFShax will have to remove the `wafel_payloader.ipx`/`5payldr.ipx` (if used) from the SD Card (`sd:/wiiu/ios_plugins`) or SLC (`slc:/sys/hax/ios_plugins`) to stop autobooting into Aroma.
+Az ISFShax felhasználóinak el kell távolítaniuk a `wafel_isfshax_patch.ipx`/`5isfshax.ipx` fájlokat (ha használt) az SD kártyáról (`sd:/wiiu/ios_plugins`) vagy az SLC-ről (`slc:/sys/hax/ios_plugins`), ahhoz, hogy megállítsák az autobootolást az Aromába.
 
 :::
 
