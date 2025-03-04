@@ -15,7 +15,8 @@ export default defineConfig({
   description: "A guide to hacking the Nintendo Wii U.",
   head: [['link', { rel: 'icon', href: '/assets/img/favicon.ico' }]],
   locales: {
-    root: i18n.en_US
+    root: i18n.en_US,
+    hu_HU: i18n.hu_HU
   },
   sitemap: {
     hostname: 'https://wiiu.hacks.guide'
