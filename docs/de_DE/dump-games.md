@@ -36,12 +36,12 @@ Um auf ein USB-Gerät zu installieren, muss es von der Wii U formatiert werden. 
 
 :::
 
-### Was Du Brauchst
+### Was du brauchst
 
 - Deine SD-Karte muss genügend Platz für das Spiel haben, das du dumpen willst.
 - Wenn du es auf deinen USB installieren möchtest, eine USB-Festplatte (+ ein Y-Kabel, wenn benötigt).
 - Die neueste Version von [WUP Installer GX2](https://wiiu.cdn.fortheusers.org/zips/wup_installer_gx2_wuhb.zip).
-- Die [wudd](https://wiiu.cdn.fortheusers.org/zips/wudd.zip) Homebrew Anwendung.
+- Die [wudd](https://wiiu.cdn.fortheusers.org/zips/wudd.zip) Homebrew-Anwendung.
 
 ### Anleitung
 
