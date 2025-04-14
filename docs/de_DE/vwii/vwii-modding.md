@@ -1,5 +1,5 @@
-# Modding the vWii
+# Modden der vWii
 
-The vWii guide has now been integrated into the [Wii Hacks Guide](https://wii.hacks.guide/get-started). You can head there for a more detailed guide on how to mod your vWii.
+Die vWii Anleitung wurde nun in die [Wii Hacks Anleitung](https://wii.hacks.guide/get-started) integriert. Du kannst dort nach einer detaillierteren Anleitung suchen, wie du deine vWii modden kannst.
 
-The old modding guide has been archived.
+Die alte Modding Anleitung wurde archiviert.
