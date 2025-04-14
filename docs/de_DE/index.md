@@ -79,7 +79,7 @@ Eine 32GB SD-Karte wird für die meisten Anwendungsfälle ausreichen. Eine micro
 
 **Wenn du eine bestehende CFW Einrichtung hast**
 
-- Für **CBHC** Benutzer: Gehe zur [CBHC deinstallieren](uninstall-cbhc) Seite um CBHC zu deinstallieren.
+- Für **CBHC** Benutzer: Gehe zur [CBHC deinstallieren](uninstall-cbhc) Seite, um CBHC zu deinstallieren.
 - Für **Haxchi** Benutzer: Deinstalliere die Haxchi App von der Datenverwaltung in den Systemeinstellungen.
 - Für **Mocha CFW (Indexiine)** Benutzer: Gehe auf die [Indexiine deinstallieren](uninstall-indexiine) Seite, um Indexiine zu deinstallieren.
 - Für **Mocha CFW (Online Exploit)** Benutzer: Du musst nichts tun, bevor du dieser Anleitung folgst.
