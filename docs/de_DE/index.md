@@ -1,94 +1,94 @@
 ---
 layout: home
-title: Wii U Hacks Guide
+title: Wii U Hacks Anleitung
 hero:
-  text: Wii U Hacks Guide
-  tagline: A guide collaboration between Nintendo Homebrew's Helpers and Staff, from stock to Aroma custom firmware.
+  text: Wii U Hacks Anleitung
+  tagline: Eine Anleitung von Zusammenarbeit zwischen Nintendo Homebrew's Helfern und Mitarbeitern, von Standard bis hin zu Aroma Custom Firmware.
   image:
     src: /assets/img/home-page-feature.jpg
 ---
 
 ::: tip
 
-**Discord Help**
+**Discord Hilfe**
 
-For live support with this guide please visit us in **#wiiu-assistance** on the [Nintendo Homebrew Discord](https://discord.gg/C29hYvh) and ask, in English, for assistance. Please read **#faq-wiiu**, as well as our [Frequently Asked Questions](faq) page beforehand to see if your question has already been answered.
-
-:::
-
-::: info
-
-If you appreciate this guide, we accept [donations](donations).
+Für Live-Unterstützung mit dieser Anleitung besuche uns bitte in **#wiiu-assistance** auf der [Nintendo Homebrew Discord](https://discord.gg/C29hYvh) und bitte, auf Englisch, um Unterstützung. Bitte lese vorher **#faq-wiiu**, sowie unsere [Häufig gestellte Fragen](faq) Seite, um zu sehen, ob deine Frage bereits beantwortet wurde.
 
 :::
 
 ::: info
 
-For complete guides to homebrew and custom firmware for other devices, check out [hacks.guide](https://hacks.guide).
+Wenn dir diese Anleitung gefällt, nehmen wir [Spenden](donations) gerne an.
+
+:::
+
+::: info
+
+Für komplette Anleitungen zu Homebrew und Custom Firmware für andere Geräte, schau dir [hacks.guide](https://hacks.guide) an.
 
 :::
 
 ### Homebrew
 
-Homebrew applications are custom, user-made software, which haven’t been authorized by Nintendo. This can include save editing tools, games, emulators, and more.
+Homebrew-Anwendungen sind benutzerdefinierte Software, die nicht von Nintendo autorisiert wurden. Dies kann Speicherdaten-Bearbeitungstools, Spiele, Emulatoren und mehr umfassen.
 
-Homebrew can be run on your Wii U as long as you have a way to put files on an SD Card and your Wii U is updated to the latest version for your region.
+Homebrew kann auf deiner Wii U ausgeführt werden, solange du eine Möglichkeit hast, Dateien auf eine SD-Karte zu legen und deine Wii U auf die neueste Version für deine Region aktualisiert ist.
 
 ### Custom Firmware
 
-Custom firmware (often abbreviated as "CFW") enables you to use more advanced hacks that userland homebrew can’t easily do. For instance, installing game modifications with ease.
-CFW can be set up on any console on the latest version.
+Custom Firmware (oft als „CFW“ abgekürzt) ermöglicht dir, fortgeschrittene Hacks zu verwenden, die Homebrew auf Benutzeroberfläche nicht ohne weiteres tun kann. Zum Beispiel, Installation von Spiel-Modifikationen mit Leichtigkeit.
+CFW kann auf jeder Konsole auf der neuesten Version eingerichtet werden.
 
-### Homebrew & CFW Uses
+### Homebrew & CFW Verwendungen
 
-Among other things, it allows you to do the following:
+Unter anderem erlaubt es dir, folgendes zu tun:
 
-- Use “ROM hacks” for games that you own.
-- Backup, edit and restore saves for many games.
-- Play games for older systems with various emulators, using RetroArch or other standalone emulators.
-- Play out-of-region games.
-- Dump your Wii U game discs to a format that can be installed on your internal or external Wii U storage drive.
+- „ROM-Hacks“ verwenden für Spiele, die du besitzt.
+- Sichern, Bearbeiten und Wiederherstellen von Speicherständen für viele Spiele.
+- Spielen von Spiele für ältere Systeme mit verschiedenen Emulatoren, mit RetroArch oder anderen eigenständigen Emulatoren.
+- Spiele aus anderen Regionen spielen.
+- Deine Wii U-Discs in ein Format dumpen, das auf deinem internen oder externen Wii U-Speichermedium installiert werden kann.
 
-### End Goal
+### Endziel
 
-This guide has the end goal of taking a completely unmodified Wii U from stock to custom firmware.
+Diese Anleitung hat das Endziel, eine komplett unmodifizierte Wii U von Standard auf Custom Firmware zu bringen.
 
-### Before Starting
+### Vor dem Start
 
 ::: danger
 
-Before beginning the guide, you must know the risks of Wii U hacking: **EVERY** time you modify your system, there is always the potential for an **UNRECOVERABLE** brick. They’re rare but still a possibility so make sure you follow **ALL** directions **EXACTLY!**
+Bevor du mit der Anleitung beginnst, musst du die Risiken des Wii U-Hackings kennen: **JEDER** Eingriff in dein System birgt immer das Potenzial für einen **UNWIEDERHERSTELLBAREN** Brick. Sie sind selten, aber immer noch möglich, daher achte darauf, **ALLE** Anweisungen **GENAU** zu befolgen!
 
 :::
 
 ::: info
 
-This guide will work on all Wii U consoles in all regions on the latest firmware (5.5.6 for North American consoles, 5.5.5 for all other regions) or below.
+Diese Anleitung funktioniert auf allen Wii U-Konsolen in allen Regionen mit der neuesten Firmware (5.5.6 für nordamerikanische Konsolen, 5.5.5 für alle anderen Regionen) oder älter.
 
-You will need the following in order to successfully follow this guide:
+Du benötigst folgendes, um dieser Anleitung erfolgreich zu folgen:
 
-- An SD Card.
-- A device such as a computer to place files onto the SD Card.
-- A Wii U with internet access.
+- Eine SD-Karte.
+- Ein Gerät wie ein Computer, um Dateien auf die SD-Karte zu kopieren.
+- Eine Wii U mit Internetzugang.
 
-A 32GB SD Card will be enough for most use-cases. A Micro SD Card in an adapter will work fine.
+Eine 32GB SD-Karte wird für die meisten Anwendungsfälle ausreichen. Eine microSD-Karte in einem Adapter würde auch funktionieren.
 
 :::
 
 ::: tip
 
-**If you have an existing legacy CFW setup**
+**Wenn du eine bestehende CFW Einrichtung hast**
 
-- For **CBHC** users: Go to the [Uninstall CBHC](uninstall-cbhc) page to uninstall CBHC.
-- For **Haxchi** users: Uninstall the Haxchi app from Data Management in the System Settings app.
-- For **Mocha CFW (Indexiine)** users: Go to the [Uninstall Indexiine](uninstall-indexiine) page to uninstall Indexiine.
-- For **Mocha CFW (Online Exploit)** users: You do not need to do anything before following this guide.
+- Für **CBHC** Benutzer: Gehe zur [CBHC deinstallieren](uninstall-cbhc) Seite um CBHC zu deinstallieren.
+- Für **Haxchi** Benutzer: Deinstalliere die Haxchi App von der Datenverwaltung in den Systemeinstellungen.
+- Für **Mocha CFW (Indexiine)** Benutzer: Gehe auf die [Indexiine deinstallieren](uninstall-indexiine) Seite, um Indexiine zu deinstallieren.
+- Für **Mocha CFW (Online Exploit)** Benutzer: Du musst nichts tun, bevor du dieser Anleitung folgst.
 
 :::
 
-If everything goes according to plan, you will lose no data and end up with everything that you started with (games, saves, NNID, etc, will be preserved).
+Wenn alles nach Plan verläuft, wirst du keine Daten verlieren und am Ende alles behalten, was du zu Beginn hattest (Spiele, Spielstände, NNID usw., werden erhalten bleiben).
 
-Keep your device plugged in throughout the entire process to avoid data loss or damage from an unexpected power-off.
+Halte dein Gerät während des gesamten Vorgangs eingesteckt, um Datenverlust oder Schäden durch unerwartetes Ausschalten zu vermeiden.
 
 After following this guide, CFW will be loaded and enabled on boot, unless you choose to not follow the Autobooting Aroma section.
 
