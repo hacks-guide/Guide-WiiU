@@ -90,10 +90,10 @@ Wenn alles nach Plan verläuft, wirst du keine Daten verlieren und am Ende alles
 
 Halte dein Gerät während des gesamten Vorgangs eingesteckt, um Datenverlust oder Schäden durch unerwartetes Ausschalten zu vermeiden.
 
-After following this guide, CFW will be loaded and enabled on boot, unless you choose to not follow the Autobooting Aroma section.
+Nachdem du dieser Anleitung gefolgt bist, wird CFW beim Start geladen und aktiviert, es sei denn, du entscheidest dich dagegen, den Abschnitt zu Autobooten von Aroma zu befolgen.
 
-It is advised that you read the entire guide from start to finish one or more times before actually running through the guide with your system.
+Es wird empfohlen, die gesamte Anleitung mindestens einmal von Anfang bis Ende zu lesen, bevor du tatsächlich mit deinem System durch die Anleitung gehst.
 
 ---
 
-### [Continue to Aroma](aroma/getting-started)
+### [Weiter zu Aroma](aroma/getting-started)
