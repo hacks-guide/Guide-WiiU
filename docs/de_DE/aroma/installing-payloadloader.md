@@ -11,7 +11,7 @@ Installing the PayloadLoader will let you access Aroma just by running the Healt
 
 ::: danger
 
-A factory reset **won't** uninstall the injected PayloadLoader. Follow [uninstall PayloadLoader](../uninstall-payloadloader) to remove the PayloadLoader.
+Ein Zurücksetzen auf die Werkseinstellungen wird den injizierten PayloadLoader **nicht** deinstallieren. Follow [uninstall PayloadLoader](../uninstall-payloadloader) to remove the PayloadLoader.
 
 :::
 
@@ -25,11 +25,11 @@ If you're already booted into Aroma, you may skip to step 5.
 
 1. Take the SD Card out of your PC and plug it into your Wii U.
 2. Execute the web browser exploit as [previously explained](browser-exploit) but this time, you will need to hold the X button to open the Environment Loader menu.
-3. Press A to launch the `aroma` environment.
+3. Drücke A, um das `aroma` Environment zu starten.
     ![](/assets/img/guide/EL.png)
     - You will get a warning message about the update folder existing. **This is normal.** Press X to block updates.
         ![](/assets/img/guide/Warn.png)
-4. Press A to launch the Wii U Menu.
+4. Drücke A, um das Wii U-Menü zu öffnen.
     ![](/assets/img/guide/ABM.png)
 5. At the Wii U Menu, look for the newly appeared `PayloadLoader Installer` title (the rocket coming out of a box) and launch it.
     ![](/assets/img/guide/PLLI.png)
