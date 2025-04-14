@@ -1,4 +1,4 @@
-# Unblocking Updates
+# Zulassen von Updates
 
 Dies wird benötigt, wenn du jemals ein System-Update durchführen musst.
 
