@@ -15,7 +15,7 @@ A factory reset **won't** uninstall the injected PayloadLoader. Follow [uninstal
 
 :::
 
-## Instructions
+## Anleitung
 
 ::: tip
 
