@@ -29,15 +29,15 @@ Der `import` Ordner sollte immer leer bleiben.
 
 Der Grund dafür ist, dass die Wii U nicht genug Strom über einen USB-Anschluss liefert, um die Festplatte zu nutzen.
 
-You can fix this by either using a powered HDD or using a Y-Cable to connect the HDD to two USB ports.
+Du kannst dies beheben, indem du entweder eine Festplatte mit eigener Stromversorgung verwendest oder die Festplatte mit einem Y-Kabel an zwei USB-Anschlüsse anschließt.
 
-If your HDD worked for some time and then stopped working for some games/all games, it is the same issue and can be fixed with the same methods.
+Wenn deine Festplatte einige Zeit lang funktioniert hat und dann aufhört für einige Spiele/alle Spiele zu arbeiten, handelt sich um das gleiche Problem und kann mit denselben Methoden behoben werden.
 
-## When extracting some of the files there are duplicates of certain ones called "info.json" & "manifest.install", what do I do with those?
+## Beim Extrahieren von manchen Dateien sind Duplikate von „info.json“ & „manifest.install“ enthalten, was mache ich mit diesen?
 
-Nothing special, you can leave them there, delete them or replace them with new ones. Those files are not used in the process, therefore, won't have any impact by being or not being there.
+Nichts Besonderes. Du kannst sie entweder dort lassen, sie löschen oder durch neue ersetzen. Diese Dateien werden nicht im Prozess verwendet und werden daher nicht dadurch beeinflusst, dass sie dort sind oder nicht.
 
-## My console suddenly lost online connectivity and I have an HDD sitting on top of the console, what should I do?
+## Meine Konsole hat plötzlich die Online-Verbindung verloren und ich habe eine Festplatte auf der Konsole liegen. Was soll ich tun?
 
-The internal antenna may have been influenced by the hard drive magnet.\
-You can move the HDD to a different position atop the Wii U, or move it off the Wii U entirely.
+Die interne Antenne kann durch den Festplattenmagneten beeinflusst worden sein.\
+Du kannst die Festplatte an eine andere Position auf der Wii U verschieben oder sie ganz von der Wii U entfernen.
