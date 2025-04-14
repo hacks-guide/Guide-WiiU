@@ -20,7 +20,7 @@ Due to mounting conflicts with this app, you need to also disable the FTPiiu plu
 
 :::
 
-## What You Need
+## Was Du Brauchst
 
 - A working [homebrew installation](index) on the Wii U side.
 - The latest release of [vWii Decaffeinator](https://github.com/GaryOderNichts/vWii-Decaffeinator/releases).
