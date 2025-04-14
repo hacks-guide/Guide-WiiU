@@ -4,40 +4,40 @@ next: true
 
 # Aroma
 
-Aroma is a work-in-progress environment and the successor to Tiramisu.
+Aroma ist ein Environment, welches sich noch in Arbeit befindet, und der Nachfolger von Tiramisu.
 
-## What is Aroma?
+## Was ist Aroma?
 
-Aroma is an environment like Tiramisu, which can be booted through the Environment Loader.\
-Aroma, just like Tiramisu, uses the same Mocha version, support for setup modules, and comes with the Autoboot Module, which includes the boot selector and Quick Start support.\
-Aroma comes with several additional features, including a plugin system, a new way of launching homebrews, and many built-in modules and plugins (i.e. Region Free patches).
+Aroma ist ein Environment wie Tiramisu, welches durch den Environment Loader gestartet werden kann.\
+Aroma, genau wie Tiramisu, verwendet dieselbe Mocha Version, Unterstützung für Setup-Module, und kommt mit dem Autoboot Modul, welches den Boot-Selector und Unterstützung für den Schnellstart-Bildschirm enthält.\
+Aroma verfügt über mehrere zusätzliche Funktionen, darunter ein Plugin-System, ein neuer Weg Homebrew zu starten, und viele integrierte Module und Plugins (darunter Region-Free Patches).
 
-## What can I do with Aroma?
+## Was kann ich mit Aroma machen?
 
-For a detailed overview check out [this blogpost](https://maschell.github.io/homebrew/2022/09/05/aroma.html). A quick summary is given below.
+Für eine detaillierte Übersicht, wirf einen Blick auf [diesen Blogpost](https://maschell.github.io/homebrew/2022/09/05/aroma.html). Eine kurze Zusammenfassung findest du unten.
 
-### Modules
+### Module
 
-Aroma supports modules which, unlike setup modules, always run in the background.\
-This allows for further extending the functionality of the console.
+Aroma unterstützt Module, die im Gegensatz zu Setup-Modulen immer im Hintergrund laufen.\
+Dies ermöglicht eine weitere Erweiterung der Funktionalität der Konsole.
 
 ### Plugins
 
-Plugins, similarly to modules, are also running in the background.\
-They can enhance the experience of the console by changing and providing additional features.\
-Plugins can be configured using a configuration menu, which can be opened using a button combination.
+Plugins, ähnlich wie Module, laufen auch im Hintergrund.\
+Diese können das Erlebnis der Konsole erweitern, indem sie zusätzliche Funktionen ändern und zur Verfügung stellen.\
+Plugins können über ein Konfigurationsmenü konfiguriert werden, das mit einer Tastenkombination geöffnet werden kann.
 
 ### Wii U Homebrew Bundles
 
-Wii U Homebrew Bundles (WUHB) are a new way of launching homebrew.\
-These `.wuhb` files contain the main executable and can directly include icon and banner images and additional content.\
-With the `homebrew_on_menu` plugin, WUHB files can be directly launched from the Wii U menu, just like official channels.
+Wii U Homebrew Bundles (WUHB) sind eine neue Art, Homebrew zu starten.\
+Diese `.wuhb`-Dateien enthalten die Hauptausführbarkeit und können direkt Icons und Bannerbilder sowie zusätzliche Inhalte enthalten.\
+Mit dem `homebrew_on_menu` Plugin können WUHB-Dateien direkt aus dem Wii U Menü gestartet werden, genau wie offizielle Kanäle.
 
-## What are the limitations?
+## Was sind die Beschränkungen?
 
-Due to technical limitations, a lot of old homebrew applications will no longer work with Aroma.\
-This includes all `.elf` homebrews, but also some `.rpx` homebrews(i.e. RetroArch), which don't implement necessary functionality properly.\
-These homebrews need to be updated with support for Aroma. To run old homebrews you need to boot the Tiramisu environment.\
-Launching homebrews through the now outdated Homebrew Launcher is no longer possible with Aroma.
+Aufgrund technischer Einschränkungen werden viele alte Homebrew-Anwendungen nicht mehr mit Aroma funktionieren.\
+Dazu gehören alle `.elf` Homebrew, aber auch einige `.rpx` Homebrew (z. B. RetroArch), die die notwendige Funktionalität nicht richtig implementieren.\
+Diese Homebrew müssen mit Unterstützung für Aroma aktualisiert werden. Um alte Homebrew ausführen zu können, musst du das Tiramisu-Environment starten.\
+Das Starten von Homebrew durch den jetzt veralteten Homebrew Launcher ist mit Aroma nicht mehr möglich.
 
-Besides the limitations mentioned above, note that Aroma is still a beta release. Not everything has been tested yet, and additional issues might be discovered. This doesn't necessarily mean Aroma is unstable, but there is a chance that you may experience something not working properly.
+Beachte, dass neben den oben genannten Einschränkungen Aroma noch eine Beta-Version ist. Es wurde noch nicht alles getestet und weitere Probleme könnten entdeckt werden. Dies bedeutet nicht unbedingt, dass Aroma instabil ist, aber es besteht die Wahrscheinlichkeit, dass etwas nicht richtig funktionieren kann.
