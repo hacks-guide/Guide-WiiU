@@ -43,7 +43,7 @@ In order to install to a USB device, it has to be formatted by the Wii U. Doing 
 - The latest release of [WUP Installer GX2](https://wiiu.cdn.fortheusers.org/zips/wup_installer_gx2_wuhb.zip).
 - The [wudd](https://wiiu.cdn.fortheusers.org/zips/wudd.zip) homebrew application.
 
-### Instructions
+### Anleitung
 
 1. Copy the contents of the `wup_installer_gx2_wuhb.zip` file to the root of your SD Card.
 2. Copy the contents of the newly downloaded wudd `.zip` file to the root of your SD Card.
