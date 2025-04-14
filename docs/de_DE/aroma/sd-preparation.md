@@ -14,7 +14,7 @@ Your SD Card will need to be formatted as FAT32. If your SD Card is not formatte
 
 :::
 
-## Instructions
+## Anleitung
 
 1. On the [Aroma](https://aroma.foryour.cafe) site, scroll down to the **Download** section.
  - Read through the steps and click on the checkboxes.
