@@ -26,10 +26,10 @@
         "faq": "FAQ",
         "finalizing-setup": "Finalizing Setup",
         "privacy-policy": "Privacy Policy",
-        "recover-vwii-ioses-channels": "Recover a vWii IOS/Channel",
+        "recover-vwii-ioses-channels": "Wiederherstellen eines vWii IOS/Kanals",
         "unblock-updates": "Unblocking Updates",
-        "uninstall-cbhc": "Uninstall CBHC",
-        "uninstall-indexiine": "Uninstall Indexiine",
+        "uninstall-cbhc": "CBHC deinstallieren",
+        "uninstall-indexiine": "Indexiine deinstallieren",
         "uninstall-payloadloader": "Uninstall PayloadLoader"
     }
 }
