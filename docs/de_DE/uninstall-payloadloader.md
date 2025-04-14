@@ -8,7 +8,7 @@ A factory reset **won't** uninstall the injected PayloadLoader. To fully uninsta
 
 :::
 
-## What You Need
+## Was Du Brauchst
 
 - The latest files from [Aroma for your café](https://aroma.foryour.cafe).
     1. Scroll down to the **Download** section.
