@@ -14,7 +14,7 @@ Users with ISFShax must have at least v4 of the `wafel_isfshax_patch.ipx`/`5isfs
 
 :::
 
-## Instructions
+## Anleitung
 
 ::::: tabs
 
@@ -22,7 +22,7 @@ Users with ISFShax must have at least v4 of the `wafel_isfshax_patch.ipx`/`5isfs
 
 ### Recreating Update Folder
 
-1. Make sure you have the latest Aroma beta.
+1. Stelle sicher, dass du die neueste Aroma-Beta hast.
 2. Boot Aroma while holding + (Plus).
 3. Hold + (Plus) **and** - (Minus) until it says "Updates not blocked!".
 
