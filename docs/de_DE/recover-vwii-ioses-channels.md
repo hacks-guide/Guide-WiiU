@@ -25,7 +25,7 @@ Due to mounting conflicts with this app, you need to also disable the FTPiiu plu
 - A working [homebrew installation](index) on the Wii U side.
 - The latest release of [vWii Decaffeinator](https://github.com/GaryOderNichts/vWii-Decaffeinator/releases).
 
-## Instructions
+## Anleitung
 
 1. Copy the contents of the `decaffeinator.zip` file to the root of your SD Card.
 2. Take the SD Card out of your computer and plug it into your Wii U console.
