@@ -13,9 +13,9 @@
     "troubleshooting": "Troubleshooting",
     "pages": {
         "about": "Über diese Anleitung",
-        "aroma/autobooting": "Autobooting Aroma",
+        "aroma/autobooting": "Autobooten von Aroma",
         "aroma/getting-started": "Aroma",
-        "aroma/browser-exploit": "Browser Exploit",
+        "aroma/browser-exploit": "Browser-Exploit",
         "aroma/installing-payloadloader": "Installing PayloadLoader",
         "aroma/nand-backup": "Making a NAND Backup",
         "aroma/sd-preparation": "SD Preparation",
@@ -24,12 +24,12 @@
         "donations": "Spenden",
         "dump-games": "Wii U-Discs dumpen",
         "faq": "FAQ",
-        "finalizing-setup": "Finalizing Setup",
+        "finalizing-setup": "Setup abschließen",
         "privacy-policy": "Privacy Policy",
         "recover-vwii-ioses-channels": "Wiederherstellen eines vWii IOS/Kanals",
         "unblock-updates": "Unblocking Updates",
         "uninstall-cbhc": "CBHC deinstallieren",
         "uninstall-indexiine": "Indexiine deinstallieren",
-        "uninstall-payloadloader": "Uninstall PayloadLoader"
+        "uninstall-payloadloader": "PayloadLoader deinstallieren"
     }
 }
