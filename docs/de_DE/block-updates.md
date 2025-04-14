@@ -1,8 +1,8 @@
-# Blocking Updates
+# Blockieren von Updates
 
-All currently known Wii U exploits can, unlike e.g. the Nintendo Switch RCM exploit, be patched by a system update. Although the Wii U is no longer officially supported, Nintendo may still release updates for it. Namely, the updates 5.5.3 up to 5.5.6 were all released after the Wii U was discontinued, so blocking updates is still a recommended action.
+Alle derzeit bekannten Wii U Exploits können im Gegensatz zum Nintendo Switch RCM Exploit durch ein System-Update gepatcht werden. Obwohl die Wii U nicht mehr offiziell unterstützt wird, kann Nintendo noch Updates veröffentlichen. Nämlich, die Updates 5.5.3 und 5.5.6 wurden beide veröffentlicht, nachdem die Wii U eingestellt wurde, also ist das Blockieren von Updates immer noch eine empfohlene Maßnahme.
 
-While Aroma's PayloadLoader already has built-in update blocking functionality, it is recommended to delete the update folder to effectively block system updates.
+Obwohl Aromas PayloadLoader bereits eine eingebaute Update-Blockierungsfunktion verfügt, wird empfohlen, den Update-Ordner zu löschen, um System-Updates effektiv zu blockieren.
 If you get a yellow warning screen while booting into Aroma, the update folder still exists and it is recommended to delete it using the guide below.
 
 ## Instructions
