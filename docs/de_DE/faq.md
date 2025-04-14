@@ -2,7 +2,7 @@
 
 ## Hat Homebrew irgendwelche Risiken?
 
-Zurzeit bringt Homebrew auf der Wii U keine Risiken mit sich, oder die Gefahr von Nintendo gebannt zu werden, es sei denn, du cheatest in Online Spielen oder betrügst im eShop. Du solltest jedoch immer vorsichtig sein, heruntergeladene Homebrew zu verwenden, besonders wenn du der Quelle nicht vertraust, da Homebrew dein System potenziell schädigen kann!
+Zurzeit bringt Homebrew auf der Wii U keine Risiken mit sich, oder die Gefahr von Nintendo gebannt zu werden, es sei denn, du cheatest in Online Spielen oder betrügst im eShop. Du solltest jedoch beim Verwenden von heruntergeladener Homebrew immer vorsichtig sein, besonders wenn du der Quelle nicht vertraust, da Homebrew dein System potenziell schädigen kann!
 
 ## Was sind Exploits?
 
