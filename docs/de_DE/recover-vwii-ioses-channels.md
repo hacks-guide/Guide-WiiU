@@ -1,6 +1,6 @@
 # Wiederherstellen eines vWii IOS/Kanals
 
-Diese Seite führt dich durch den Prozess der Wiederherstellung eines IOS oder Kanals auf deiner vWii, ob dieser aus irgendeinem Grund beschädigt oder gelöscht wurde.
+Diese Seite führt dich durch den Prozess der Wiederherstellung eines IOS oder Kanals auf deiner vWii, falls dieser aus irgendeinem Grund beschädigt oder gelöscht wurde.
 
 ::: danger
 
@@ -10,7 +10,7 @@ Dies kann dein vWii NAND zerstören, wenn du nicht vorsichtig bist! Bitte bedenk
 
 ::: tip
 
-Wenn du eine Methode zum Blockieren von System-Updates verwendest, bitte [entfernen](unblock-updates).
+If you are using a system update blocking method, please [remove it](unblock-updates).
 
 :::
 
@@ -20,7 +20,7 @@ Aufgrund von Einbindungskonflikten mit dieser App muss du auch das FTPiiu-Plugin
 
 :::
 
-## Was Du Brauchst
+## Was du brauchst
 
 - Eine funktionierende [Homebrew Installation](index) auf der Wii U Seite.
 - Die neueste Version von [vWii Decaffeinator](https://github.com/GaryOderNichts/vWii-Decaffeinator/releases).
@@ -67,7 +67,7 @@ Dieser Modus löscht die angegebenen IOSes und Kanäle, um sie neu zu installier
 
 ::: tip
 
-Du kannst nun deine [System-Update Blockierungsmethode](block-updates) wieder aktivieren.
+Du kannst nun deine [System-Update Blockiermethode](block-updates) wieder aktivieren.
 
 :::
 
@@ -79,7 +79,7 @@ Du kannst nun deine [System-Update Blockierungsmethode](block-updates) wieder ak
 
 ::: tip
 
-Dieser Modus leert das Systemmenü, Wii-Pinnwand Speicherdaten, IOSes, und anderen Systemtiteln, um saubere Versionen neu zu installieren. Bitte beachte, dass dadurch auch alle cIOS entfernt werden und neu installiert werden müssen. Alle anderen Daten bleiben erhalten.
+Dieser Modus leert das Systemmenü, Wii-Pinnwand Speicherdaten, IOSes, und andere Systemtitel, um saubere Versionen neu zu installieren. Bitte beachte, dass dadurch auch alle cIOS entfernt werden und neu installiert werden müssen. Alle anderen Daten bleiben erhalten.
 
 :::
 
@@ -90,7 +90,7 @@ Dieser Modus leert das Systemmenü, Wii-Pinnwand Speicherdaten, IOSes, und ander
 
 ::: tip
 
-Du kannst nun deine [System-Update Blockierungsmethode](block-updates) wieder aktivieren.
+Du kannst nun deine [System-Update Blockiermethode](block-updates) wieder aktivieren.
 
 :::
 
@@ -119,7 +119,7 @@ Dieser Modus wird **alles** löschen, um saubere Versionen der Standard-IOSes un
 
 ::: tip
 
-Du kannst nun deine [System-Update Blockierungsmethode](block-updates) wieder aktivieren.
+Du kannst nun deine [System-Update Blockiermethode](block-updates) wieder aktivieren.
 
 :::
 
