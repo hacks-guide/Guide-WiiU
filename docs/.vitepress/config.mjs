@@ -82,7 +82,6 @@ export default defineConfig({
     'ca_ES/**',
     'cs_CZ/**',
     'da_DK/**',
-    'de_DE/**',
     'el_GR/**',
     'es_ES/**',
     'et_EE/**',
