@@ -10,7 +10,7 @@ Dies kann dein vWii NAND zerstören, wenn du nicht vorsichtig bist! Bitte bedenk
 
 ::: tip
 
-If you are using a system update blocking method, please [remove it](unblock-updates).
+Wenn du eine System-Update Blockiermethode verwendest, bitte [entferne sie](unblock-updates).
 
 :::
 
