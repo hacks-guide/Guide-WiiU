@@ -1,6 +1,6 @@
 # Über diese Anleitung
 
-Diese Anleitung wurde von Mitarbeitern des [Nintendo Homebrew Discord Server](https://discord.gg/C29hYvh) geschrieben
+Diese Anleitung wurde vom Personal des [Nintendo Homebrew Discord Server](https://discord.gg/C29hYvh) geschrieben
 
 ::: info
 
@@ -14,7 +14,7 @@ Vielen Dank an [alle anderen](https://github.com/hacks-guide/Guide-WiiU/graphs/c
 
 ::: tip
 
-[Du kannst diese Anleitung auf GitHub finden](https://github.com/hacks-guide/Guide-WiiU), Sie ist lizenziert unter der [ISC-Lizens](https://github.com/hacks-guide/Guide-WiiU/blob/master/LICENSE.md).
+[You can find this guide on GitHub](https://github.com/hacks-guide/Guide-WiiU), It is licensed under the [ISC License](https://github.com/hacks-guide/Guide-WiiU/blob/master/LICENSE.md).
 
 :::
 
@@ -31,7 +31,7 @@ Vielen Dank an [alle anderen](https://github.com/hacks-guide/Guide-WiiU/graphs/c
 - **dragbe** und **FIX94** für <u>d2x cIOS Installer</u>.
 - **koolkdev** und **FIX94** für [disc2app](https://github.com/koolkdev/disc2app).
 - **jhildenbiddle** für [docsify-themeable](https://github.com/jhildenbiddle/docsify-themeable).
-- **Maschell** für den [CustomRPXLoader](https://github.com/wiiu-env/CustomRPXLoader), [FailST](https://maschell.github.io/homebrew/2020/12/02/failst.html), [EnvironmentLoader](https://github.com/wiiu-env/EnvironmentLoader), [HBLInstallerWrapper](https://github.com/wiiu-env/HBLInstallerWrapper), [LaunchInstaller](https://github.com/wiiu-env/LaunchInstaller), [MochaPayload](https://github.com/wiiu-env/MochaPayload), [PayloadFromRPX](https://github.com/wiiu-env/PayloadFromRPX), [PayloadLoaderInstaller](https://github.com/wiiu-env/PayloadLoaderInstaller), [PayloadLoaderInstallerEnvironment](https://github.com/wiiu-env/PayloadLoaderInstallerEnvironment), [PayloadloaderPayload](https://github.com/wiiu-env/PayloadloaderPayload), den [Tiramisu Downloader](https://tiramisu.foryour.cafe/), [wudd](https://github.com/wiiu-env/wudd), den [FTPiiU Plugin](https://github.com/wiiu-env/ftpiiu_plugin/), den [SDCafiine Plugin](https://github.com/wiiu-env/sdcafiine_plugin/), den [Screenshot Plugin](https://github.com/wiiu-env/ScreenshotWUPS/), den [Aroma Downloader](https://aroma.foryour.cafe), und <u>Tiramisu/Aroma</u>.
+- **Maschell** für den [CustomRPXLoader](https://github.com/wiiu-env/CustomRPXLoader), [FailST](https://maschell.github.io/homebrew/2020/12/02/failst.html), [EnvironmentLoader](https://github.com/wiiu-env/EnvironmentLoader), [HBLInstallerWrapper](https://github.com/wiiu-env/HBLInstallerWrapper), [LaunchInstaller](https://github.com/wiiu-env/LaunchInstaller), [MochaPayload](https://github.com/wiiu-env/MochaPayload), [PayloadFromRPX](https://github.com/wiiu-env/PayloadFromRPX), [PayloadLoaderInstaller](https://github.com/wiiu-env/PayloadLoaderInstaller), [PayloadLoaderInstallerEnvironment](https://github.com/wiiu-env/PayloadLoaderInstallerEnvironment), [PayloadloaderPayload](https://github.com/wiiu-env/PayloadloaderPayload), den [Tiramisu Downloader](https://tiramisu.foryour.cafe/), [wudd](https://github.com/wiiu-env/wudd), das [FTPiiU Plugin](https://github.com/wiiu-env/ftpiiu_plugin/), das [SDCafiine Plugin](https://github.com/wiiu-env/sdcafiine_plugin/), das [Screenshot Plugin](https://github.com/wiiu-env/ScreenshotWUPS/), den [Aroma Downloader](https://aroma.foryour.cafe), und <u>Tiramisu/Aroma</u>.
 - **FIX94** und **smealum** für [Haxchi und CBHC](https://github.com/FIX94/haxchi).
 - **dimok789** für den [Homebrew Launcher](https://github.com/dimok789/homebrew_launcher), den [Homebrew Launcher Channel](https://github.com/dimok789/homebrew_launcher) und [Mocha](https://github.com/dimok789/mocha).
 - **Maschell** und **dimok789** für den [Homebrew Launcher Installer](https://github.com/wiiu-env/homebrew_launcher_installer).
