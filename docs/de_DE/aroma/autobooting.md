@@ -3,37 +3,37 @@ prev: true
 next: true
 ---
 
-# Autobooting Aroma
+# Autobooten von Aroma
 
-Currently, every time you want to launch Aroma you will have to launch the Health and Safety information app. If you wish to automatically launch into Aroma on every boot, you can autoboot the Health and Safety Information app.
+Zurzeit musst du jedes Mal, wenn du Aroma starten möchtest, die Gesundheits- und Sicherheitsinformationen App starten. Wenn du bei jedem Start automatisch in Aroma starten möchtest, kannst du die Gesundheits- und Sicherheitsinformationen App autobooten.
 
-If you don't want to autoboot Aroma, you can skip this step and follow the Setting Up PayloadLoader section below.
+Wenn du Aroma nicht autobooten möchtest, kannst du diesen Schritt überspringen und unten den Abschnitt Einrichtung von PayloadLoader folgen.
 
-## Instructions
+## Anleitung
 
-1. Start the console to boot into the Wii U Menu, and then launch the Health and Safety Information app.
-2. Press A to launch the `aroma` environment.
-3. Press A to launch the Wii U Menu.
-4. Once you are at the Wii U Menu, launch the PayloadLoader Installer.
-5. Press A to select `Check`.
-6. Select `Boot options`.
-7. You will be asked if you want to switch the boot title. Press A to select `Switch to PayloadLoader`.
-8. When the process has finished, press A to shutdown the console.
-9. The PayloadLoader will now be launched automatically on every boot.
+1. Schalte die Konsole ein, um in das Wii U Menü hochzufahren, und starte dann die Gesundheits- und Sicherheitsinformationen App.
+2. Drücke A, um das `aroma` Environment zu starten.
+3. Drücke A, um das Wii U-Menü zu öffnen.
+4. Sobald du im Wii U-Menü bist, starte den PayloadLoader Installer.
+5. Drück A, um `Check` auszuwählen.
+6. Wähle `Boot options`.
+7. Du wirst gefragt, ob du den Boot-Titel wechseln möchtest. Drücke A, um `Switch to PayloadLoader` zu wählen.
+8. Wenn der Prozess beendet ist, drücke A, um die Konsole herunterzufahren.
+9. Der PayloadLoader wird nun automatisch bei jedem Hochfahren gestartet.
 
-## Setting up PayloadLoader, Environment Loader and Aroma
+## Einrichtung von PayloadLoader, Environment Loader und Aroma
 
-Now, we are going to make the Aroma environment start automatically when your console loads the Health and Safety Information app and select Wii U Menu as the default boot option.
+Jetzt werden wir das Aroma-Environment automatisch starten lassen, wenn deine Konsole die Gesundheits- und Sicherheitsinformationen App lädt, und wählen das Wii U-Menü als Standard-Boot-Option aus.
 
-1. Launch the EnvironmentLoader.
-   - If you are autobooting the PayloadLoader, simply turn on your Wii U.
-   - If you skipped the autobooting steps, launch the Health and Safety Information app.
-2. Press Y on `aroma` to set this to your default environment, then press A to launch into Aroma.
-   ![](/assets/img/guide/EL_Highlight.png)
-   - To open the Environment Loader in the future, you have to hold X while your Wii U is booting or loading the Health and Safety Information app.
-3. On the Aroma Boot Selector, the `Wii U Menu` should already be selected, press Y to set this to your default autobooting option, then press A to launch into the Wii U Menu.
-   ![](/assets/img/guide/ABM_Highlight.png)
-4. Aroma will now be launched each time you boot the console (or load Health and Safety) and then straight into the Wii U Menu.
-   - To open the Aroma Boot Selector in the future, you have to hold START (+) while the console is booting or loading the Health and Safety Information app.
-   - Navigate the list using the D-Pad to hover on the title you want to autoboot in, then press the Y button to set this to your autoboot title.
-   - Press A to launch the selected title.
+1. Starte den EnvironmentLoader.
+    - Wenn du den PayloadLoader autobootest, schalte einfach deine Wii U ein.
+    - Wenn du die Autoboot-Schritte übersprungen hattest, starte die Gesundheits- und Sicherheitsinformationen App.
+2. Drücke Y auf `aroma`, um dies auf deine Standard-Environment zu setzen, dann drücke A, um in Aroma zu starten.
+    ![](/assets/img/guide/EL_Highlight.png)
+    - Um den Environment Loader in Zukunft zu öffnen, musst du X halten, während die Wii U hochfährt oder die Gesundheits- und Sicherheitsinformationen App lädt.
+3. Beim Aroma-Boot-Selector sollte `Wii U Menu` bereits ausgewählt sein, drücke Y, um dies auf deine Standard-Autoboot-Option zu setzen, dann drücke A, um in das Wii U-Menü zu starten.
+    ![](/assets/img/guide/ABM_Highlight.png)
+4. Aroma wird nun jedes Mal gestartet, wenn du die Konsole hochfährst (oder Gesundheits- und Sicherheitsinformationen lädst) und dann direkt in das Wii U-Menü.
+    - Um den Aroma-Boot-Selector in Zukunft zu öffnen, musst du START (+) halten, während die Konsole hochfährt oder die Gesundheits- und Sicherheitsinformationen App lädt.
+    - Navigiere mit dem Steuerkreuz durch die Liste, um den Titel zu markieren, in dem du autobooten möchtest, und drücke dann den Y-Knopf, um diesen als Autoboot-Titel einzustellen.
+    - Drücke A, um den ausgewählten Titel zu starten.

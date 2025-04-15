@@ -1,66 +1,67 @@
-# Unblocking Updates
+# Zulassen von Updates
 
-This is needed if you ever need to perform a System Update.
+Dies wird benötigt, wenn du jemals ein System-Update durchführen musst.
 
 ::: tip
 
-If you are running Aroma and have deleted the update folder, you need to disable both autobooting and recreate the update folder.
+Wenn du Aroma verwendest und den Update-Ordner gelöscht hast, musst du sowohl das Autobooten deaktivieren als auch den Update-Ordner neu erstellen.
 
 :::
 
 ::: tip
 
-Users with ISFShax must have at least v4 of the `wafel_isfshax_patch.ipx`/`5isfshax.ipx` stroopwafel plugin on the SD Card or SLC in order to update.
+Nutzer mit ISFShax müssen mindestens v4 des `wafel_isfshax_patch.ipx`/`5isfshax.ipx` stroopwafel Plugins auf der SD-Karte oder SLC haben, um zu aktualisieren.
 
 :::
 
-## Instructions
+## Anleitung
 
 ::::: tabs
 
-:::: tab default Recreating Update Folder
+:::: tab default Update-Ordner wiederherstellen
 
-### Recreating Update Folder
+### Update-Ordner wiederherstellen
 
-1. Make sure you have the latest Aroma beta.
-2. Boot Aroma while holding + (Plus).
-3. Hold + (Plus) **and** - (Minus) until it says "Updates not blocked!".
+1. Stelle sicher, dass du die neueste Aroma-Beta hast.
+2. Starte Aroma während du + (Plus) hältst.
+3. Halte + (Plus) **und** - (Minus), bis es sagt: „Updates not blocked!“.
 
 ::::
 
-:::: tab Removing Aroma Autoboot
+:::: tab Autobooten von Aroma entfernen
 
-### Removing Aroma Autoboot
+### Autobooten von Aroma entfernen
 
 ::: tip
 
-When autobooting into the PayloadLoader, updates are automatically blocked. Follow the guide below to disable it.
+Beim Autobooten in den PayloadLoader werden Updates automatisch blockiert. Folge der Anleitung unten, um ihn zu deaktivieren.
 
 :::
 
 ::: tip
 
-Users with ISFShax will have to remove the `wafel_payloader.ipx`/`5payldr.ipx` (if used) from the SD Card (`sd:/wiiu/ios_plugins`) or SLC (`slc:/sys/hax/ios_plugins`) to stop autobooting into Aroma.
+Nutzer mit ISFShax müssen die `wafel_payloader.ipx`/`5payldr.ipx` (falls verwendet) von der SD-Karte (`sd:/wiiu/ios_plugins`) oder SLC (`slc:/sys/hax/ios_plugins`) entfernen, um das Autobooten in Aroma zu stoppen.
 
 :::
 
-1. Launch the PayloadLoader Installer from the Wii U Menu.
-2. Press A to select `Check`.
-3. Select `Boot options`.
-4. You will be asked if you want to switch the boot title. Press A to select `Switch back to Wii U Menu`.
-5. When the process finished, press A to shutdown the console.
-6. Perform the System Update.
-7. Follow [this](aroma/autobooting) to re-enable autobooting.
+1. Starte den PayloadLoader Installer aus dem Wii U-Menü.
+2. Drücke A, um `Check` auszuwählen.
+3. Wähle `Boot options`.
+4. Du wirst gefragt, ob du den Boot-Titel wechseln möchtest. Drücke A, um `Switch back to Wii U Menu` auszuwählen.
+5. Wenn der Vorgang abgeschlossen ist, drücke A, um die Konsole herunterzufahren.
+6. Starte ein System-Update.
+7. Folge [dies](aroma/autobooting), um das Autobooten wieder zu aktivieren.
 
 ::::
 
-:::: tab Removing DNS Blocks
+:::: tab DNS-Blockierung entfernen
 
-### Removing DNS Blocks
+### DNS-Blockierung entfernen
 
-1. Enter the Wii U's system settings and navigate to `Internet > Connect to the Internet > Connection List >`
-   `Your WiFi connection > Change Settings > DNS` and set the option to `Auto-obtain`.
-2. You are no longer blocking system updates.
+1. Öffne die Systemeinstellungen der Wii U und navigiere zu ‎ ‎
+  `Internet > Internetverbindung einrichten > Verbindungsübersicht >`
+  `Deine WLAN-Verbindung > Einstellungen ändern > DNS` und setze die Option auf `Automatisch beziehen`.
+2. Du blockierst keine System-Updates mehr.
 
 ::::
 

@@ -1,15 +1,15 @@
-# Blocking Updates
+# Blockieren von Updates
 
-All currently known Wii U exploits can, unlike e.g. the Nintendo Switch RCM exploit, be patched by a system update. Although the Wii U is no longer officially supported, Nintendo may still release updates for it. Namely, the updates 5.5.3 up to 5.5.6 were all released after the Wii U was discontinued, so blocking updates is still a recommended action.
+Alle derzeit bekannten Wii U Exploits können im Gegensatz zum Nintendo Switch RCM Exploit durch ein System-Update gepatcht werden. Obwohl die Wii U nicht mehr offiziell unterstützt wird, kann Nintendo noch Updates veröffentlichen. Nämlich, die Updates 5.5.3 und 5.5.6 wurden beide veröffentlicht, nachdem die Wii U eingestellt wurde, also ist das Blockieren von Updates immer noch eine empfohlene Maßnahme.
 
-While Aroma's PayloadLoader already has built-in update blocking functionality, it is recommended to delete the update folder to effectively block system updates.
-If you get a yellow warning screen while booting into Aroma, the update folder still exists and it is recommended to delete it using the guide below.
+Obwohl Aromas PayloadLoader bereits eine eingebaute Update-Blockierungsfunktion verfügt, wird empfohlen, den Update-Ordner zu löschen, um System-Updates effektiv zu blockieren.
+Wenn du beim Starten von Aroma einen gelben Warnbildschirm erhältst, ist der Update-Ordner noch vorhanden und es wird empfohlen, ihn mithilfe der folgenden Anleitung zu löschen.
 
-## Instructions
+## Anleitung
 
-Currently, one way exists to effectively block updates on the Wii U system:
+Derzeit gibt es eine Möglichkeit, Updates für das Wii U-System effektiv zu blockieren:
 
-1. Make sure you have the latest Aroma beta.
-2. Boot into Aroma.
-   - If you got the yellow warning screen, press X to block updates.
-   - If you didn't get the warning, but the AutobootMenu says "Updates not blocked!", press and hold + (Plus) **and** - (Minus) at the same time until it says they are blocked.
+1. Stelle sicher, dass du die neueste Aroma-Beta hast.
+2. Starte Aroma.
+    - Wenn du den gelben Warnbildschirm erhalten hast, drücke X, um Updates zu blockieren.
+    - Wenn du die Warnung nicht erhalten hast, aber das AutobootMenu sagt: „Updates not blocked!“, drücke und halte + (Plus) **und** - (Minus) zur gleichen Zeit, bis es sagt, dass sie blockiert sind.

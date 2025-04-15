@@ -3,34 +3,34 @@ prev: true
 next: true
 ---
 
-# Making a NAND Backup
+# NAND-Backup erstellen
 
-In case anything should go wrong in the later process and your Wii U ends up bricked, restoring a previously made NAND backup can fix it.
+Für den Fall, dass etwas schiefgeht und deine Wii U am Ende unbrauchbar, beziehungsweise gebrickt wird, kann ein zuvor erstelltes NAND-Backup deine Konsole retten.
 
-## Instructions
+## Anleitung
 
 ::: tip
 
-The Wii U MLC is (depending on your model) either 8GB or 32GB. As a result of this, to create a full backup of your console's NAND, your SD Card has to be larger than the size of your MLC. If you do not have a large enough SD Card, you can skip the optional `MLC` section which includes save files and game data and is not needed to recover any type of brick.
+Das Wii U-MLC ist (je nach Modell) entweder 8GB oder 32GB. Infolgedessen wird für ein komplettes Backup des NANDs deiner Konsole eine SD-Karte größer als deinen MLC benötigt. Wenn du keine ausreichend große SD-Karte hast, kannst du den optionalen `MLC` Abschnitt überspringen, der die Speicherdateien und Spieldaten beinhaltet und nicht benötigt wird, um einen Brick wiederherzustellen.
 
 :::
 
 ::: tip
 
-Restoring a NAND Backup on the Wii U requires ISFShax or additional hardware and microsoldering skills.
+Die Wiederherstellung eines NAND-Backups auf der Wii U erfordert ISFShax oder zusätzliche Hardware und Mikrolötfähigkeiten.
 
-However, making a NAND Backup is **always** useful, so please do not skip it.
+Jedoch ist das Erstellen eines NAND-Backups **immer** nützlich, daher überspringe es bitte nicht.
 
-Your NAND Backup is unique to your system. Backups from other consoles **won't** work without the required knowledge.
+Dein NAND-Backup ist eindeutig für dein System. Backups von anderen Konsolen funktionieren **nicht** ohne das erforderliche Wissen.
 
 :::
 
-1. Navigate to `nanddumper` using the GamePad and press A to launch it.
-2. Use the Wii U GamePad's D-Pad to enter the following configuration:
+1. Navigiere mit dem GamePad zu `nanddumper` und drücke A, um es zu starten.
+2. Benutze das Wii U GamePads Steuerkreuz, um in die folgende Konfiguration einzugeben:
    ![SLC: Yes, SLCCMPT: Yes, MLC: Yes or No, OTP: Yes, SEEPROM: Yes](/assets/img/guide/NAND.png)
-   - MLC is **OPTIONAL**, if you do not want to dump it, leave it on `No`. If you do want to dump it, make sure you have a SD Card big enough for it and put it on `Yes`.
-3. Press the A button to start the dumping process.
-4. When the process is completed, power off your Wii U, take your SD Card out of the Wii U and plug it into your PC.
-5. To make sure you don't lose the files, copy the `slc.bin`, `slccmpt.bin`, `seeprom.bin`, `otp.bin` (and if you chose to go with a full backup, `every mlc.bin.part` file) to somewhere safe (Documents, Google Drive, OneDrive, etc.) on your computer.
-   - They will appear on the root of the SD Card.
-6. Delete the files you just copied from your SD Card to free up space.
+   - MLC ist **OPTIONAL**, wenn du es nicht sichern willst, lass es auf `No`. Wenn du es doch sichern möchtest, stelle sicher, dass du eine SD-Karte groß genug dafür hast und setze es auf `Yes`.
+3. Drücke den A-Knopf, um den Dumping-Vorgang zu starten.
+4. Wenn der Prozess abgeschlossen ist, schalte deine Wii U aus, entferne die SD-Karte und stecke sie an deinem PC ein.
+5. Um sicherzustellen, dass du die Dateien nicht verlierst, kopiere die `slc.bin`, `slccmpt.bin`, `seeprom.bin`, `otp.bin` (und wenn du dich für ein vollständiges Backup entschieden hast, `jede mlc.bin.part` Datei) zu einem sicheren Ort (Dokumente, Google Drive, OneDrive, usw.) auf deinem Computer.
+   - Sie werden im Stammverzeichnis der SD-Karte erscheinen.
+6. Lösche die Dateien, die du gerade von deiner SD-Karte kopiert hast, um Speicherplatz freizugeben.

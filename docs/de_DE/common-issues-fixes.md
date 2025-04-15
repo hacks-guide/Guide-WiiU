@@ -1,43 +1,43 @@
-# Common Issues & Fixes
+# Häufige Probleme & Behebungen
 
-## Haxchi common errors
+## Häufige Haxchi-Fehler
 
-- **-3:** No SD Card detected. Re-insert the SD Card and try again. Make sure the SD Card is in FAT32 format. If the error persists, try blowing into the SD slot as it can get dusty inside.
+- **-3:** Keine SD-Karte erkannt. Stecke die SD-Karte wieder ein und versuche es erneut. Stelle sicher, dass die SD-Karte im FAT32-Format ist. Wenn der Fehler weiterhin besteht, versuche, in den SD-Steckplatz zu pusten, da er innen staubig werden kann.
 
-- **-4:** SD detected but could not mount. Check to see if the SD is using MBR and not GPT. Also, check to see if there are any other partitions on the SD Card and merge them into one primary partition.
+- **-4:** SD erkannt, konnte aber nicht einhängen. Überprüfe, ob die SD-Karte MBR und nicht GPT verwendet. Überprüfe auch, ob es weitere Partitionen auf der SD-Karte gibt, und führe diese zu einer primären Partition zusammen.
 
-- **-5:** Missing files on the SD. Check to see if your SD has Homebrew Launcher located in <code>/wiiu<wbr>/apps<wbr>/homebrew_launcher<wbr>/homebrew_launcher.elf</code>.
+- **-5:** Fehlende Dateien auf der SD. Überprüfe, ob sich der Homebrew Launcher auf deiner SD-Karte unter <code>/wiiu<wbr>/apps<wbr>/homebrew_launcher<wbr>/homebrew_launcher.elf</code> befindet.
 
-## Browser errors
+## Browser-Fehler
 
-- **FSGetMountSource failed:** Same as -3 above, means no SD Card detected. Re-insert the SD and try again. This could also mean that the SD card is locked (Slider is down instead of up) or the SD card label is "WIIU", which is stated in the guide causes conflict. If it's not any of these issues, refer to the last suggestion from -3.
+- **FSGetMountSource failed:** Wie -3 oben, bedeutet keine SD-Karte erkannt. Setze die SD-Karte wieder ein und versuche es erneut. Dies könnte auch bedeuten, dass die SD-Karte gesperrt ist (Slider ist unten statt oben) oder die SD-Karte hat den Namen „WIIU“, welches, wie in der Anleitung angegeben, zu Konflikte führt. Wenn es keines dieser Probleme ist, beachte den letzten Vorschlag von -3.
 
-- **FSOpenFile failed [...] payload.elf:** Missing payload file on SD. Make sure you have payload.elf in the wiiu folder, and the wiiu folder on the root.
+- **FSOpenFile failed [...] payload.elf:** Fehlende Payload-Datei auf SD. Stelle sicher, dass payload.elf im wiiu Ordner, und der wiiu Ordner auf dem Stammverzeichnis vorhanden sind.
 
-- **FSOpenFile failed:** Missing `homebrew_launcher` on SD. Make sure you have `homebrew_launcher.elf` in the <code>/wiiu<wbr>/apps<wbr>/homebrew_launcher</code> folder.
+- **FSOpenFile failed:** `homebrew_launcher` fehlt auf SD. Stelle sicher, dass du `homebrew_launcher.elf` im Ordner <code>/wiiu<wbr>/apps<wbr>/homebrew_launcher</code> hast.
 
-- **SD Mount Failed:** Similar to -4, the console recognizes the SD card but could not mount it. Make sure it is formatted properly, and it is not damaged. Also, your SD card is more compatible with reputable brands (i.e. SanDisk, Samsung, Lexar, etc.) and less likely to have issues.
+- **SD Mount Failed:** Ähnlich wie -4, die Konsole erkennt die SD-Karte, konnte sie aber nicht einhängen. Stelle sicher, dass sie korrekt formatiert ist und nicht beschädigt ist. Außerdem ist die SD-Karte besser kompatible mit bekannten Marken (z. B. SanDisk, Samsung, Lexar, usw.) und weniger wahrscheinlich, Probleme zu haben.
 
-## Data Management asks to delete unnecessary data, what does it mean?
+## Datenverwaltung fordert zum Löschen unnötiger Daten auf, was bedeutet das?
 
-This refers to leftover files from incomplete installs. Always choose Yes to delete this data, as it takes up space for no good reason.
-If it ever stays stuck on deleting the data in an infinite loop, you can manually delete the data yourself.\
-Use FTPiiU Everywhere and browse to `/storage_mlc/usr/import` then delete any files in the folder if any exists. This is where the partial installs exist after incomplete installs. It'll be `/storage_usb/usr/import` if installed to a USB.\
-The `import` folder should always be kept empty.
+Dies bezieht sich auf übrig gebliebene Dateien von unvollständigen Installationen. Wähle immer Ja, um diese Daten zu löschen, da sie unnötig Speicherplatz belegen.
+Wenn es beim Löschen der Daten in einer Endlosschleife hängen bleibt, kannst du die Daten selbst manuell löschen.\
+Benutze FTPiiU Everywhere und suche `/storage_mlc/usr/import`, dann lösche alle Dateien im Ordner, falls vorhanden. Dies ist der Ort, wo die Teilinstallationen nach den unvollständigen Installationen zurückbleiben. Bei der Installation auf einem USB lautet es `/storage_usb/usr/import`.\
+Der `import` Ordner sollte immer leer bleiben.
 
-## My HDD doesn't work or makes a weird clicking sound, what should I do?
+## Meine Festplatte funktioniert nicht oder macht ein merkwürdiges Klickgeräusch, was soll ich tun?
 
-The reason behind that is that the Wii U doesn't give enough power through one USB port to use the Hard Drive.
+Der Grund dafür ist, dass die Wii U nicht genug Strom über einen USB-Anschluss liefert, um die Festplatte zu nutzen.
 
-You can fix this by either using a powered HDD or using a Y-Cable to connect the HDD to two USB ports.
+Du kannst dies beheben, indem du entweder eine Festplatte mit eigener Stromversorgung verwendest oder die Festplatte mit einem Y-Kabel an zwei USB-Anschlüsse anschließt.
 
-If your HDD worked for some time and then stopped working for some games/all games, it is the same issue and can be fixed with the same methods.
+Wenn deine Festplatte einige Zeit lang funktioniert hat und dann aufhört für einige Spiele/alle Spiele zu arbeiten, handelt sich um das gleiche Problem und kann mit denselben Methoden behoben werden.
 
-## When extracting some of the files there are duplicates of certain ones called "info.json" & "manifest.install", what do I do with those?
+## Beim Extrahieren von manchen Dateien sind Duplikate von „info.json“ & „manifest.install“ enthalten, was mache ich mit diesen?
 
-Nothing special, you can leave them there, delete them or replace them with new ones. Those files are not used in the process, therefore, won't have any impact by being or not being there.
+Nichts Besonderes. Du kannst sie entweder dort lassen, sie löschen oder durch neue ersetzen. Diese Dateien werden nicht im Prozess verwendet und werden daher nicht dadurch beeinflusst, dass sie dort sind oder nicht.
 
-## My console suddenly lost online connectivity and I have an HDD sitting on top of the console, what should I do?
+## Meine Konsole hat plötzlich die Online-Verbindung verloren und ich habe eine Festplatte auf der Konsole liegen. Was soll ich tun?
 
-The internal antenna may have been influenced by the hard drive magnet.\
-You can move the HDD to a different position atop the Wii U, or move it off the Wii U entirely.
+Die interne Antenne kann durch den Festplattenmagneten beeinflusst worden sein.\
+Du kannst die Festplatte an eine andere Position auf der Wii U verschieben oder sie ganz von der Wii U entfernen.
