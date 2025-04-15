@@ -3,7 +3,7 @@ layout: home
 title: Wii U Hacks Anleitung
 hero:
   text: Wii U Hacks Anleitung
-  tagline: Eine Anleitung von Zusammenarbeit zwischen Nintendo Homebrew's Helfern und Mitarbeitern, von Standard bis hin zu Aroma Custom Firmware.
+  tagline: Eine Anleitung von Zusammenarbeit zwischen Nintendo Homebrew's Helfern und Personal, von Stock bis hin zu Aroma Custom Firmware.
   image:
     src: /assets/img/home-page-feature.jpg
 ---
