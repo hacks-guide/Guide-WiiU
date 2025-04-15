@@ -10,7 +10,7 @@ Wir werden nun die benötigten Aroma-Dateien auf die SD-Karte setzen.
 ::: warning
 
 Deine SD-Karte muss als FAT32 formatiert werden. Wenn deine SD-Karte nicht zu FAT32 formatiert ist, benutze [GUIFormat](http://ridgecrop.co.uk/index.htm?guiformat.htm) mit 32k (32768) Zuweisungsgröße um sie zu formatieren.\
-**Benenne die SD-Karte nicht** als `wiiu` oder sie wird Probleme mit Homebrew verursachen.
+Nenne die SD-Karte **nicht** `wiiu` oder sie wird Probleme mit Homebrew verursachen.
 
 :::
 
