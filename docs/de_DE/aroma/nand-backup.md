@@ -26,9 +26,9 @@ Dein NAND-Backup ist einzigartig für dein System. Backups von anderen Konsolen 
 :::
 
 1. Navigiere mit dem GamePad zu `nanddumper` und drücke A, um es zu starten.
-2. Use the Wii U GamePad's D-Pad to enter the following configuration:
+2. Benutze das Steuerkreuz des Wii U GamePads, um in die folgende Konfiguration einzugeben:
    ![SLC: Yes, SLCCMPT: Yes, MLC: Yes or No, OTP: Yes, SEEPROM: Yes](/assets/img/guide/NAND.png)
-   - MLC ist **OPTIONAL**, wenn du es nicht sichern willst, lass es auf `No`. If you do want to dump it, make sure you have a SD Card big enough for it and put it on `Yes`.
+   - MLC ist **OPTIONAL**, wenn du es nicht sichern willst, lass es auf `No`. Wenn du es doch sichern möchtest, stelle sicher, dass deine SD-Karte groß genug dafür ist und setze es auf `Yes`.
 3. Drücke den A-Knopf, um den Dumping-Vorgang zu starten.
 4. Wenn der Prozess abgeschlossen ist, schalte deine Wii U aus, entferne die SD-Karte und stecke sie an deinem PC ein.
 5. Um sicherzustellen, dass du die Dateien nicht verlierst, kopiere die `slc.bin`, `slccmpt.bin`, `seeprom.bin`, `otp.bin` (und wenn du dich für ein vollständiges Backup entschieden hast, `jede mlc.bin.part` Datei) zu einem sicheren Ort (Dokumente, Google Drive, OneDrive, usw.) auf deinem Computer.
