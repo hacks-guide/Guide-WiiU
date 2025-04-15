@@ -4,7 +4,7 @@ Deine Discs zu dumpen erlaubt dir eine Kopie des Spiels auf deinen Systemspeiche
 
 ::: tip
 
-Dumping and installing games requires a working Homebrew setup, so make sure to finish the main guide on installing CFW first before following this.
+Das Dumpen und Installieren von Spielen erfordert eine funktionelle Homebrew Einrichtung, also stelle sicher, dass du die Anleitung für die Installation von CFW zuerst beendest, bevor du diesem folgst.
 
 :::
 
