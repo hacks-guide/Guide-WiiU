@@ -16,7 +16,8 @@ export default defineConfig({
   head: [['link', { rel: 'icon', href: '/assets/img/favicon.ico' }]],
   locales: {
     root: i18n.en_US,
-    hu_HU: i18n.hu_HU
+    hu_HU: i18n.hu_HU,
+    de_DE: i18n.de_DE
   },
   sitemap: {
     hostname: 'https://wiiu.hacks.guide'
