@@ -14,7 +14,7 @@ Vielen Dank an [alle anderen](https://github.com/hacks-guide/Guide-WiiU/graphs/c
 
 ::: tip
 
-[You can find this guide on GitHub](https://github.com/hacks-guide/Guide-WiiU), It is licensed under the [ISC License](https://github.com/hacks-guide/Guide-WiiU/blob/master/LICENSE.md).
+[Du kannst diese Anleitung auf GitHub finden](https://github.com/hacks-guide/Guide-WiiU), Sie ist lizenziert unter der [ISC-Lizenz](https://github.com/hacks-guide/Guide-WiiU/blob/master/LICENSE.md).
 
 :::
 
