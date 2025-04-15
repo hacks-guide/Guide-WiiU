@@ -24,16 +24,16 @@ Dies ermöglicht eine weitere Erweiterung der Funktionalität der Konsole.
 ### Plugins
 
 Plugins, ähnlich wie Module, laufen auch im Hintergrund.\
-Diese können das Erlebnis der Konsole erweitern, indem sie zusätzliche Funktionen ändern und zur Verfügung stellen.\
+They can enhance the experience of the console by changing and providing additional features.\
 Plugins können über ein Konfigurationsmenü konfiguriert werden, das mit einer Tastenkombination geöffnet werden kann.
 
 ### Wii U Homebrew Bundles
 
 Wii U Homebrew Bundles (WUHB) sind eine neue Art, Homebrew zu starten.\
-Diese `.wuhb`-Dateien enthalten die Hauptausführbarkeit und können direkt Icons und Bannerbilder sowie zusätzliche Inhalte enthalten.\
+These `.wuhb` files contain the main executable and can directly include icon and banner images and additional content.\
 Mit dem `homebrew_on_menu` Plugin können WUHB-Dateien direkt aus dem Wii U Menü gestartet werden, genau wie offizielle Kanäle.
 
-## Was sind die Beschränkungen?
+## What are the limitations?
 
 Aufgrund technischer Einschränkungen werden viele alte Homebrew-Anwendungen nicht mehr mit Aroma funktionieren.\
 Dazu gehören alle `.elf` Homebrew, aber auch einige `.rpx` Homebrew (z. B. RetroArch), die die notwendige Funktionalität nicht richtig implementieren.\
