@@ -14,7 +14,7 @@ Aroma verfügt über mehrere zusätzliche Funktionen, darunter ein Plugin-System
 
 ## Was kann ich mit Aroma machen?
 
-Eine detaillierte Übersicht findest du auf [diesen Blogpost](https://maschell.github.io/homebrew/2022/09/05/aroma.html). Eine kurze Zusammenfassung findest du unten.
+Eine detaillierte Übersicht findest du auf [diesem Blogpost](https://maschell.github.io/homebrew/2022/09/05/aroma.html). Eine kurze Zusammenfassung findest du unten.
 
 ### Module
 
