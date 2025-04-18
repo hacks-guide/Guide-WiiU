@@ -1,4 +1,4 @@
-# Zulassen von Updates
+# Updates zulassen
 
 Dies wird benötigt, wenn du jemals ein System-Update durchführen musst.
 
@@ -49,7 +49,7 @@ Nutzer mit ISFShax müssen die `wafel_payloader.ipx`/`5payldr.ipx` (falls verwen
 3. Wähle `Boot options`.
 4. Du wirst gefragt, ob du den Boot-Titel wechseln möchtest. Drücke A, um `Switch back to Wii U Menu` auszuwählen.
 5. Wenn der Vorgang abgeschlossen ist, drücke A, um die Konsole herunterzufahren.
-6. Starte ein System-Update.
+6. Führe das System-Update aus.
 7. Folge [dies](aroma/autobooting), um das Autobooten wieder zu aktivieren.
 
 ::::
