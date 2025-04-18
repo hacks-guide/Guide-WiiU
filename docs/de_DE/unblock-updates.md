@@ -54,9 +54,9 @@ Nutzer mit ISFShax müssen die `wafel_payloader.ipx`/`5payldr.ipx` (falls verwen
 
 ::::
 
-:::: tab DNS-Blockierung entfernen
+:::: tab DNS-Blockade entfernen
 
-### DNS-Blockierung entfernen
+### DNS-Blockade entfernen
 
 1. Öffne die Systemeinstellungen der Wii U und navigiere zu ‎ ‎
   `Internet > Internetverbindung einrichten > Verbindungsübersicht >`

@@ -5,18 +5,18 @@ next: true
 
 # SD-Vorbereitung
 
-Wir werden nun die benötigten Aroma-Dateien auf die SD-Karte setzen.
+Wir werden nun die benötigten Aroma-Dateien auf die SD-Karte platzieren.
 
 ::: warning
 
-Deine SD-Karte muss als FAT32 formatiert werden. Wenn deine SD-Karte nicht zu FAT32 formatiert ist, benutze [GUIFormat](http://ridgecrop.co.uk/index.htm?guiformat.htm) mit 32k (32768) Zuweisungsgröße um sie zu formatieren.\
-**Benenne die SD-Karte nicht** als `wiiu` oder sie wird Probleme mit Homebrew verursachen.
+Deine SD-Karte muss als FAT32 formatiert werden. Wenn deine SD-Karte nicht als FAT32 formatiert ist, benutze [GUIFormat](http://ridgecrop.co.uk/index.htm?guiformat.htm) mit 32k (32768) Zuweisungsgröße, um sie zu formatieren.\
+Nenne die SD-Karte **nicht** `wiiu` oder sie wird Probleme mit Homebrew verursachen.
 
 :::
 
 ## Anleitung
 
-1. Scrolle auf der [Aroma](https://aroma.foryour.cafe) Seite unten in den **Download** Abschnitt.
+1. Scrolle auf der [Aroma](https://aroma.foryour.cafe) Seite unten zum **Download** Abschnitt.
  - Lies die Schritte durch und klicke auf die Kontrollkästchen.
   ![](/assets/img/guide/Aroma_Box.png)
  - Klicke auf `Download Payloads` und `Download Base Aroma`.

@@ -60,6 +60,6 @@ Wenn du jedoch die Notwendigkeit findest, Tiramisu zu starten, um beispielsweise
     - Du musst den PayloadLoader nicht neu installieren, wenn du es bereits mit Aroma getan hast.
 5. Markiere den Eintrag `tiramisu` mit dem Steuerkreuz.
 6. Starte Tiramisu durch Drücken von A.
-7. Starte den Wii U Menü durch Drücken von A.
+7. Starte das Wii U-Menü durch Drücken von A.
     - Um die Konsole beim Laden des Tiramisu-Environment zum Wii U-Menü zu autobooten, drücke Y.
 8. Homebrew Launcher kann durch Starten der Mii Maker-App geladen werden.

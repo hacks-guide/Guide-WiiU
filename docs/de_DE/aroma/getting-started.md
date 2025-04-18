@@ -14,7 +14,7 @@ Aroma verfügt über mehrere zusätzliche Funktionen, darunter ein Plugin-System
 
 ## Was kann ich mit Aroma machen?
 
-Für eine detaillierte Übersicht, wirf einen Blick auf [diesen Blogpost](https://maschell.github.io/homebrew/2022/09/05/aroma.html). Eine kurze Zusammenfassung findest du unten.
+Eine detaillierte Übersicht findest du auf [diesem Blogpost](https://maschell.github.io/homebrew/2022/09/05/aroma.html). Eine kurze Zusammenfassung findest du unten.
 
 ### Module
 
@@ -24,16 +24,16 @@ Dies ermöglicht eine weitere Erweiterung der Funktionalität der Konsole.
 ### Plugins
 
 Plugins, ähnlich wie Module, laufen auch im Hintergrund.\
-Diese können das Erlebnis der Konsole erweitern, indem sie zusätzliche Funktionen ändern und zur Verfügung stellen.\
+Diese können das Erlebnis der Konsole erweitern, indem sie Funktionen ändern und zusätzliche hinzufügen.\
 Plugins können über ein Konfigurationsmenü konfiguriert werden, das mit einer Tastenkombination geöffnet werden kann.
 
 ### Wii U Homebrew Bundles
 
 Wii U Homebrew Bundles (WUHB) sind eine neue Art, Homebrew zu starten.\
-Diese `.wuhb`-Dateien enthalten die Hauptausführbarkeit und können direkt Icons und Bannerbilder sowie zusätzliche Inhalte enthalten.\
+Diese `.wuhb`-Dateien enthalten die Hauptanwendung und können direkt Icons und Bannerbilder sowie zusätzliche Inhalte enthalten.\
 Mit dem `homebrew_on_menu` Plugin können WUHB-Dateien direkt aus dem Wii U Menü gestartet werden, genau wie offizielle Kanäle.
 
-## Was sind die Beschränkungen?
+## Was sind die Einschränkungen?
 
 Aufgrund technischer Einschränkungen werden viele alte Homebrew-Anwendungen nicht mehr mit Aroma funktionieren.\
 Dazu gehören alle `.elf` Homebrew, aber auch einige `.rpx` Homebrew (z. B. RetroArch), die die notwendige Funktionalität nicht richtig implementieren.\

@@ -3,7 +3,7 @@ layout: home
 title: Wii U Hacks Anleitung
 hero:
   text: Wii U Hacks Anleitung
-  tagline: Eine Anleitung von Zusammenarbeit zwischen Nintendo Homebrew's Helfern und Mitarbeitern, von Standard bis hin zu Aroma Custom Firmware.
+  tagline: Eine Anleitung von Zusammenarbeit zwischen Nintendo Homebrew's Helfern und Personal, von Stock bis hin zu Aroma Custom Firmware.
   image:
     src: /assets/img/home-page-feature.jpg
 ---
@@ -71,7 +71,7 @@ Du benötigst folgendes, um dieser Anleitung erfolgreich zu folgen:
 - Ein Gerät wie ein Computer, um Dateien auf die SD-Karte zu kopieren.
 - Eine Wii U mit Internetzugang.
 
-Eine 32GB SD-Karte wird für die meisten Anwendungsfälle ausreichen. Eine microSD-Karte in einem Adapter würde auch funktionieren.
+Eine 32GB SD-Karte wird für die meisten Anwendungsfälle ausreichen. Eine microSD-Karte in einem Adapter wird auch funktionieren.
 
 :::
 

@@ -31,7 +31,7 @@ Wenn du bereits in Aroma gestartet bist, kannst du zu Schritt 5 überspringen.
         ![](/assets/img/guide/Warn.png)
 4. Drücke A, um das Wii U-Menü zu öffnen.
     ![](/assets/img/guide/ABM.png)
-5. Suche im Wii U-Menü nach dem neu erschienenen `PayloadLoader Installer` Titel (die Rakete, dass aus einer Box kommt) und starte ihn.
+5. Suche im Wii U-Menü nach dem neu erschienenen `PayloadLoader Installer` Titel (die Rakete, die aus einer Box kommt) und starte ihn.
     ![](/assets/img/guide/PLLI.png)
 6. Drücke den A-Knopf, um zu prüfen, ob du den PayloadLoader installieren kannst.
     - Er sollte dir nun sagen, dass der PayloadLoader in der Gesundheits- und Sicherheitsinformationen-App installiert werden kann.
