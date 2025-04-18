@@ -3,7 +3,7 @@ prev: true
 next: true
 ---
 
-# Autobooten von Aroma
+# Aroma autobooten
 
 Zurzeit musst du jedes Mal, wenn du Aroma starten möchtest, die Gesundheits- und Sicherheitsinformationen App starten. Wenn du bei jedem Start automatisch in Aroma starten möchtest, kannst du die Gesundheits- und Sicherheitsinformationen App autobooten.
 
