@@ -1,4 +1,4 @@
-# Blockieren von Updates
+# Updates blockieren
 
 Alle derzeit bekannten Wii U Exploits können im Gegensatz zum Nintendo Switch RCM Exploit durch ein System-Update gepatcht werden. Obwohl die Wii U nicht mehr offiziell unterstützt wird, kann Nintendo noch Updates veröffentlichen. Nämlich, die Updates 5.5.3 und 5.5.6 wurden beide veröffentlicht, nachdem die Wii U eingestellt wurde, also ist das Blockieren von Updates immer noch eine empfohlene Maßnahme.
 
