@@ -24,7 +24,7 @@ Setup-Module sind kleine Teile von Homebrew/Code, die einmal ausgeführt werden,
 
 ## Wie man den Update-Ordner löscht, um Updates auf Wii U zu blockieren
 
-Wenn du den Update-Ordner löschen möchtest, um Updates zu blockieren, schau dir die [Anleitung für Blockieren von Updates](block-updates) an.
+Wenn du den Update-Ordner löschen möchtest, um Updates zu blockieren, schau dir die [Updates blockieren Anleitung](block-updates) an.
 
 ## Welche SD-Kartengröße wird empfohlen?
 
