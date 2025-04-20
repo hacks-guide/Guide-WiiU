@@ -1,4 +1,4 @@
-# Unblocking Updates
+# Sbloccare gli aggiornamenti
 
 Questo è necessario se avrai mai bisogno di eseguire un Aggiornamento della Console.
 
@@ -46,7 +46,7 @@ Users with ISFShax will have to remove the `wafel_payloader.ipx`/`5payldr.ipx` (
 
 1. Launch the PayloadLoader Installer from the Wii U Menu.
 2. Press A to select `Check`.
-3. Select `Boot options`.
+3. Seleziona `Boot options`.
 4. Ti verrà chiesto se vuoi cambiare il titolo di avvio. Press A to select `Switch back to Wii U Menu`.
 5. Al termine del processo, premi A per spegnere la console.
 6. Esegui l'Aggiornamento della console.
