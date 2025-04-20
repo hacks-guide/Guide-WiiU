@@ -1,4 +1,4 @@
-# Common Issues & Fixes
+# Problemi comuni & Soluzioni
 
 ## Errori comuni di Haxchi
 
