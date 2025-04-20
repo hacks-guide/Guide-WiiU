@@ -13,7 +13,7 @@
     "troubleshooting": "Risoluzione Dei Problemi",
     "pages": {
         "about": "About This Guide",
-        "aroma/autobooting": "Autobooting Aroma",
+        "aroma/autobooting": "Avvio automatico di Aroma",
         "aroma/getting-started": "Aroma",
         "aroma/browser-exploit": "Exploit del Browser",
         "aroma/installing-payloadloader": "Installare PayloadLoader",
