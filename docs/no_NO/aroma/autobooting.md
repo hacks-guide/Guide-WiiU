@@ -26,14 +26,14 @@ Hvis du ikke ønsker å autoboote Aroma, så kan du hoppe over de neste stegene 
 Nå skal vi gjøre så Aroma environment starter automatisk når konsollen starter Health and Safety Information appen, og velger Wii U Menyen som standard oppstart.
 
 1. Start EnvironmentLoader.
-   - Hvis du autobooter PayloadLoader, så trenger du bare å slå på Wii U'en.
-   - Hvis du hoppet over autobooting trinnene, starter du bare Health and Safety Information appen.
+    - Hvis du autobooter PayloadLoader, så trenger du bare å slå på Wii U'en.
+    - Hvis du hoppet over autobooting trinnene, starter du bare Health and Safety Information appen.
 2. Trykk Y på `aroma` for å sette dette til default envrionment, så trykker du A for å kjøre Aroma.
-   ![](/assets/img/guide/EL_Highlight.png)
-   - For å starte Environment Loader senere, trenger du bare å holde X inne mens Wii U'en starter opp, eller åpner Health and Safety Information appen.
+    ![](/assets/img/guide/EL_Highlight.png)
+    - For å starte Environment Loader senere, trenger du bare å holde X inne mens Wii U'en starter opp, eller åpner Health and Safety Information appen.
 3. På Aroma Boot Selector, `Wii U Menyen` burde allerede være valgt, trykk Y for å sette det til default autobooting option, så trykker du A for å komme inn i Wii U Menu.
-   ![](/assets/img/guide/ABM_Highlight.png)
+    ![](/assets/img/guide/ABM_Highlight.png)
 4. Aroma vil nå starte opp hver gang du slår på konsollen (eller starter Health and Safety) og går rett inn i Wii U Menyen.
-   - For å starte Aroma Boot Selector senere, trenger du bare å holde START (+) inne mens Wii U'en starter opp, eller åpner Health and Safety Information appen.
-   - Naviger lista ved å bruke D-Paden og velg hvilken tittel du vil autoboote inn i, så trykker du Y knappen for å sette det til autoboot tittel.
-   - Trykk på A for å starte den valgte tittelen.
+    - For å starte Aroma Boot Selector senere, trenger du bare å holde START (+) inne mens Wii U'en starter opp, eller åpner Health and Safety Information appen.
+    - Naviger lista ved å bruke D-Paden og velg hvilken tittel du vil autoboote inn i, så trykker du Y knappen for å sette det til autoboot tittel.
+    - Trykk på A for å starte den valgte tittelen.
