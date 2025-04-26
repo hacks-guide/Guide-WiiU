@@ -8,7 +8,7 @@ Ein Zurücksetzen auf die Werkseinstellungen wird den injizierten PayloadLoader 
 
 :::
 
-## Was Du Brauchst
+## Was du brauchst
 
 - Die neuesten Dateien von [Aroma for your café](https://aroma.foryour.cafe).
     1. Scrolle unten zum **Download** Bereich.
