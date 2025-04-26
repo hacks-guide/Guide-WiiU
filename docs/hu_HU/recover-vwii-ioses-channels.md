@@ -29,9 +29,8 @@ Csatolási ütközések miatt ezzel az appal, le kell tiltanod az FTPiiu plugin-
 
 1. Másold a `decaffeinator.zip` fájl tartalmát az SD kártyád gyökerébe.
 2. Vedd ki az SD kártyát a számítógépedből, és dubd be a Wii U konzolodba.
-3. Kapcsold be Wii U-d és indíts el a választásod szerinti egyedi firmware-t (CFW-t)(Mocha, Haxchi vagy CBHC).
-4. Indítsd el a Homebrew Launcher-t.
-5. Indítsd el a vWii Decaffeinator-t.
+3. Power on your Wii U and launch Aroma.
+4. Launch vWii Decaffeinator from the Wii U Menu.
 
 ## Helyreállítási folyamat
 
