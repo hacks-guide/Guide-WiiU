@@ -26,14 +26,14 @@ Ha nem szeretnéd autobootolni az Aromát, akkor átugorhatod ezt a lépést és
 Most azt fogjuk elérni, hogy az Aroma környezet automatikusan elinduljon, amikor a konzol betölti az Health and Safety Information alkalmazást, és kiválassza a Wii U Menu-t alapértelmezett indítási opciónak.
 
 1. Az EnvironmentLoader indítása.
-   - Ha autobootolod a PayloadLoader-t, akkor csak kapcsold be a Wii U-d.
-   - Ha átlépted az autoboot lépéseket, akkor indítsd el a Health and Safety Information appot.
+    - Ha autobootolod a PayloadLoader-t, akkor csak kapcsold be a Wii U-d.
+    - Ha átlépted az autoboot lépéseket, akkor indítsd el a Health and Safety Information appot.
 2. Nyomj Y-t az `aroma`-n, hogy beállítsd ezt az alapértelmezett környezetednek, majd nyomj A gombot az Aroma indításához.
-   ![](/assets/img/guide/EL_Highlight.png)
-   - Az Environment Loader megnyitásához a jövőben nyomva kell tartanod az X gombot amíg a Wii U bootol vagy tölti a Health and Safety Information appot.
+    ![](/assets/img/guide/EL_Highlight.png)
+    - Az Environment Loader megnyitásához a jövőben nyomva kell tartanod az X gombot amíg a Wii U bootol vagy tölti a Health and Safety Information appot.
 3. Az Aroma Boot Selector-ban a `Wii U Menu`-nek kell beállítva lennie, nyomj Y-t, hogy beállítsd alapértelmezett autoboot opciónak, majd nyomj A gombot, hogy elindítsd a Wii U Menu-t.
-   ![](/assets/img/guide/ABM_Highlight.png)
+    ![](/assets/img/guide/ABM_Highlight.png)
 4. Az Aroma most már elindul minden alkalommal, amikor bebootolsz a konzolba (vagy betöltöd a Health and Safety alkalmazást) és rögtön utána a Wii U Menu-be.
-   - Az Aroma Boot Selector megnyitásához a jövőben nyomva kell tartanod a START (+) gombot amíg a Wii U bootol vagy tölti a Health and Safety Information appot.
-   - A D-Pad-del navigálva állj rá a címre amit autobootolni szeretnél és nyomj Y gombot, hogy beállítsd az autoboot címnek.
-   - Nyomj A gombot a kiválasztott cím indításához.
+    - Az Aroma Boot Selector megnyitásához a jövőben nyomva kell tartanod a START (+) gombot amíg a Wii U bootol vagy tölti a Health and Safety Information appot.
+    - A D-Pad-del navigálva állj rá a címre amit autobootolni szeretnél és nyomj Y gombot, hogy beállítsd az autoboot címnek.
+    - Nyomj A gombot a kiválasztott cím indításához.
