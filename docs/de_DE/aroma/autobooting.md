@@ -11,7 +11,7 @@ Wenn du Aroma nicht autobooten möchtest, kannst du diesen Schritt überspringen
 
 ## Anleitung
 
-1. Schalte die Konsole ein, um in das Wii U Menü hochzufahren, und starte dann die Gesundheits- und Sicherheitsinformationen App.
+1. Schalte die Konsole ein, um in das Wii U-Menü hochzufahren, und starte dann die Gesundheits- und Sicherheitsinformationen App.
 2. Drücke A, um das `aroma` Environment zu starten.
 3. Drücke A, um das Wii U-Menü zu öffnen.
 4. Sobald du im Wii U-Menü bist, starte den PayloadLoader Installer.
