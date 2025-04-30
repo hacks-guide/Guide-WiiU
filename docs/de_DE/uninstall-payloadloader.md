@@ -27,7 +27,7 @@ Ein Zurücksetzen auf die Werkseinstellungen wird den injizierten PayloadLoader 
 ## PayloadLoader deinstallieren
 
 1. Starte die Gesundheits- und Sicherheitsinformationen App und starte Aroma.
-2. Starte den PayloadLoader Installer aus dem Wii U Menü.
+2. Starte den PayloadLoader Installer aus dem Wii U-Menü.
 3. Drücke A, um `Check` auszuwählen.
 4. Wähle `Remove`.
 5. Du wirst gefragt, ob du den PayloadLoader wirklich entfernen möchtest. Wähle `Remove` erneut.
