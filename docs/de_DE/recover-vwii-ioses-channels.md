@@ -29,8 +29,8 @@ Aufgrund von Einbindungskonflikten mit dieser App muss du auch das FTPiiu-Plugin
 
 1. Kopiere den Inhalt der `decaffeinator.zip` Datei in das Stammverzeichnis deiner SD-Karte.
 2. Nimm die SD-Karte aus deinem Computer und stecke sie in deine Wii U Konsole.
-3. Power on your Wii U and launch Aroma.
-4. Launch vWii Decaffeinator from the Wii U Menu.
+3. Schalte deine Wii U ein und starte Aroma.
+4. Starte vWii Decaffeinator aus dem Wii U-Menü.
 
 ## Wiederherstellungsprozess
 
