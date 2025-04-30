@@ -51,7 +51,7 @@ Unter anderem erlaubt es dir, folgendes zu tun:
 
 ### Endziel
 
-Diese Anleitung hat das Endziel, eine komplett unmodifizierte Wii U von Standard auf Custom Firmware zu bringen.
+Diese Anleitung hat das Endziel, eine komplett unmodifizierte Wii U von Stock auf Custom Firmware zu bringen.
 
 ### Vor dem Start
 
@@ -90,7 +90,7 @@ Wenn alles nach Plan verläuft, wirst du keine Daten verlieren und am Ende alles
 
 Halte dein Gerät während des gesamten Vorgangs eingesteckt, um Datenverlust oder Schäden durch unerwartetes Ausschalten zu vermeiden.
 
-Nachdem du dieser Anleitung gefolgt bist, wird CFW beim Start geladen und aktiviert, es sei denn, du entscheidest dich dagegen, den Abschnitt zu Autobooten von Aroma zu befolgen.
+Nachdem du dieser Anleitung gefolgt bist, wird CFW beim Hochfahren geladen und aktiviert, es sei denn, du entscheidest dich dagegen, den Abschnitt zu Aroma autobooten zu befolgen.
 
 Es wird empfohlen, die gesamte Anleitung mindestens einmal von Anfang bis Ende zu lesen, bevor du tatsächlich mit deinem System durch die Anleitung gehst.
 

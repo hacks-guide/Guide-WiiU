@@ -1,4 +1,4 @@
-# Uninstall Indexiine
+# Disinstallare Indexiine
 
 Questa pagina ti guiderà attraverso il processo di disinstallazione di Indexiine dal tuo Wii U.
 
