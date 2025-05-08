@@ -6,6 +6,10 @@ hero:
   tagline: "A guide collaboration between Nintendo Homebrew's Helpers and Staff, from stock to Aroma custom firmware."
   image:
     src: "/assets/img/home-page-feature.jpg"
+
+head: [
+  ['script', {src: '/assets/js/docsify-wrapper.js'}]
+]
 ---
 
 ::: tip
