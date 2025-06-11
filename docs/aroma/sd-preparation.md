@@ -33,7 +33,7 @@ If your computer asks you to overwrite existing files on your SD Card, you will 
 
 ::: tip
 
-If you're on a Mac machine, select `Merge` instead of replace. If the merge option does not show immediately, press and hold the `Option` key while moving files to the root.
+If you're on a Mac machine, extract the second zip in a second finder window and drag the contents into the first window with the first zip's contents. Then when prompted, select `Merge` instead of replace. If the merge option does not show immediately, press and hold the `Option` key while moving files to the root.
 
 :::
 
