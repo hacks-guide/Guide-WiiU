@@ -1,18 +1,18 @@
 ---
 layout: home
-title: Wii U Hack útmutató
+title: "Wii U Hack útmutató"
 hero:
-  text: Wii U Hack útmutató
-  tagline: A Nintendo Homebrew segítői és munkatársai által készített útmutató, a gyáritól az Aroma egyedi firmware-ig.
+  text: "Wii U Hack útmutató"
+  tagline: "A Nintendo Homebrew segítői és munkatársai által készített útmutató, a gyáritól az Aroma egyedi firmware-ig."
   image:
-    src: /assets/img/home-page-feature.jpg
+    src: "/assets/img/home-page-feature.jpg"
 ---
 
 ::: tip
 
 **Discord segítség**
 
-Az élő támogatáshoz látogass el a **#wiiu-assistance** csatornára a [Nintendo Homebrew Discord](https://discord.gg/C29hYvh)-on és kérdezz angolul az asszitenciáért. Kérjük olvasd el **#faq-wiiu**-t és a [Gyakran Ismételt Kérdések](faq) oldalt, hogy lásd kérdésed megválaszolásra került-e már.
+For live support with this guide please ask in **#support** on the [Aroma Discord](https://discord.gg/bZ2rep2) and ask, in English, for assistance. Please read **#troubleshooting**, as well as our [Frequently Asked Questions](faq) page beforehand to see if your question has already been answered.
 
 :::
 
