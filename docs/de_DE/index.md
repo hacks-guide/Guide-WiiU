@@ -1,18 +1,18 @@
 ---
 layout: home
-title: Wii U Hacks Anleitung
+title: "Wii U Hacks Anleitung"
 hero:
-  text: Wii U Hacks Anleitung
-  tagline: Eine Anleitung von Zusammenarbeit zwischen Nintendo Homebrew's Helfern und Personal, von Stock bis hin zu Aroma Custom Firmware.
+  text: "Wii U Hacks Anleitung"
+  tagline: "Eine Anleitung von Zusammenarbeit zwischen Nintendo Homebrew's Helfern und Personal, von Stock bis hin zu Aroma Custom Firmware."
   image:
-    src: /assets/img/home-page-feature.jpg
+    src: "/assets/img/home-page-feature.jpg"
 ---
 
 ::: tip
 
 **Discord Hilfe**
 
-Für Live-Unterstützung mit dieser Anleitung besuche uns bitte in **#wiiu-assistance** auf der [Nintendo Homebrew Discord](https://discord.gg/C29hYvh) und bitte, auf Englisch, um Unterstützung. Bitte lese vorher **#faq-wiiu**, sowie unsere [Häufig gestellte Fragen](faq) Seite, um zu sehen, ob deine Frage bereits beantwortet wurde.
+For live support with this guide please ask in **#support** on the [Aroma Discord](https://discord.gg/bZ2rep2) and ask, in English, for assistance. Please read **#troubleshooting**, as well as our [Frequently Asked Questions](faq) page beforehand to see if your question has already been answered.
 
 :::
 
