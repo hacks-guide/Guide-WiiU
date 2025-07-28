@@ -28,7 +28,7 @@ export default defineConfig({
       next: false
     },
     socialLinks: [
-      { icon: 'discord', link: 'https://discord.gg/C29hYvh' },
+      { icon: 'discord', link: 'https://discord.gg/bZ2rep2' },
       { icon: 'github', link: 'https://github.com/hacks-guide/Guide-WiiU' }
     ]
   },
