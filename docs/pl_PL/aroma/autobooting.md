@@ -26,14 +26,14 @@ If you don't want to autoboot Aroma, you can skip this step and follow the Setti
 Now, we are going to make the Aroma environment start automatically when your console loads the Health and Safety Information app and select Wii U Menu as the default boot option.
 
 1. Launch the EnvironmentLoader.
-   - If you are autobooting the PayloadLoader, simply turn on your Wii U.
-   - If you skipped the autobooting steps, launch the Health and Safety Information app.
+    - If you are autobooting the PayloadLoader, simply turn on your Wii U.
+    - If you skipped the autobooting steps, launch the Health and Safety Information app.
 2. Press Y on `aroma` to set this to your default environment, then press A to launch into Aroma.
-   ![](/assets/img/guide/EL_Highlight.png)
-   - To open the Environment Loader in the future, you have to hold X while your Wii U is booting or loading the Health and Safety Information app.
+    ![](/assets/img/guide/EL_Highlight.png)
+    - To open the Environment Loader in the future, you have to hold X while your Wii U is booting or loading the Health and Safety Information app.
 3. On the Aroma Boot Selector, the `Wii U Menu` should already be selected, press Y to set this to your default autobooting option, then press A to launch into the Wii U Menu.
-   ![](/assets/img/guide/ABM_Highlight.png)
+    ![](/assets/img/guide/ABM_Highlight.png)
 4. Aroma will now be launched each time you boot the console (or load Health and Safety) and then straight into the Wii U Menu.
-   - To open the Aroma Boot Selector in the future, you have to hold START (+) while the console is booting or loading the Health and Safety Information app.
-   - Poruszaj się przy pomocy D-Pada, aby najechać na tytuł, który chcesz wybrać do autoboot'owania, a następnie naciśnij przycisk Y, aby ustawić ten tytuł na stałe do autoboot'owania.
-   - Naciśnij A, aby uruchomić wybrany tytuł.
+    - To open the Aroma Boot Selector in the future, you have to hold START (+) while the console is booting or loading the Health and Safety Information app.
+    - Poruszaj się przy pomocy D-Pada, aby najechać na tytuł, który chcesz wybrać do autoboot'owania, a następnie naciśnij przycisk Y, aby ustawić ten tytuł na stałe do autoboot'owania.
+    - Naciśnij A, aby uruchomić wybrany tytuł.

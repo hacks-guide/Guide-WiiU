@@ -11,9 +11,9 @@ A factory reset **won't** uninstall the injected PayloadLoader. For å avinstall
 ## Dette trenger du
 
 - Siste utgave av [Aroma for your café](https://aroma.foryour.cafe).
-  1. Scroll down to the **Download** section.
-  2. Les gjennom trinnene og marker checkboksene.
-  3. Trykk på `Download Payloads` og `Download Base Aroma`.
+    1. Scroll down to the **Download** section.
+    2. Les gjennom trinnene og marker checkboksene.
+    3. Trykk på `Download Payloads` og `Download Base Aroma`.
 
 ## Tilbakestille Autobooting inn i PayloadLoader
 

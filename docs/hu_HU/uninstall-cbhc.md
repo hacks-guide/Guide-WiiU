@@ -2,6 +2,11 @@
 
 Ez az oldal végigvezet a CBHC Wii U-dról eltávolításán.
 
+## Mire van szükséged
+
+- A [Homebrew Launcher](https://github.com/dimok789/homebrew_launcher/releases/tag/v1.5) legutolsó kiadása
+- A [CBHC installer](https://github.com/FIX94/haxchi/releases)
+
 ## Lépések
 
 1. Indítsd el a Homebrew Launcher-t.
