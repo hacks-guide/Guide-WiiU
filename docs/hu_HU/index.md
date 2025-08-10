@@ -12,7 +12,7 @@ hero:
 
 **Discord segítség**
 
-Az élő támogatáshoz látogass el a **#support** csatornára a [Aroma Discord](https://discord.gg/bZ2rep2)-on és kérdezz angolul az asszitenciáért. Kérjük olvasd el **#troubleshooting**-ot és a [Gyakran Ismételt Kérdések](faq) oldalt, hogy lásd kérdésed megválaszolásra került-e már.
+For live support with this guide please visit us in **#wiiu-assistance** on the [Nintendo Homebrew Discord](https://discord.gg/C29hYvh) and ask, in English, for assistance. Please read **#faq-wiiu**, as well as our [Frequently Asked Questions](faq) page beforehand to see if your question has already been answered.
 
 :::
 
