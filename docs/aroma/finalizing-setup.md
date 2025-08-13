@@ -39,7 +39,7 @@ All Homebrew applications are loaded from the Wii U Menu on Aroma.
 
 ## Pretendo Network
 
-Pretendo is a replacement service for the Nintendo Network, which brings back online services as they are set to be discontinued. It also revives the Miiverse service, via juxtaposition. The official guide can be found [here](https://pretendo.network/docs/install/wiiu).
+Pretendo is a replacement service for the Nintendo Network, which brings back online services as they are now discontinued. It also revives the Miiverse service, via juxtaposition. The official guide can be found [here](https://pretendo.network/docs/install/wiiu).
 
 ## Booting Tiramisu (optional)
 
