@@ -1,11 +1,11 @@
 ---
 layout: home
-title: Wii U Hacks Guide
+title: "Wii U Hacks Guide"
 hero:
-  text: Wii U Hacks Guide
-  tagline: En guide i samarbeid med Nintendo Homebrew's Helpers og Staff, fra urørt konsoll til Aroma Custom Firmware.
+  text: "Wii U Hacks Guide"
+  tagline: "En guide i samarbeid med Nintendo Homebrew's Helpers og Staff, fra urørt konsoll til Aroma Custom Firmware."
   image:
-    src: /assets/img/home-page-feature.jpg
+    src: "/assets/img/home-page-feature.jpg"
 ---
 
 ::: tip

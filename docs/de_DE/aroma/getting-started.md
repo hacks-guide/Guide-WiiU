@@ -31,7 +31,7 @@ Plugins können über ein Konfigurationsmenü konfiguriert werden, das mit einer
 
 Wii U Homebrew Bundles (WUHB) sind eine neue Art, Homebrew zu starten.\
 Diese `.wuhb`-Dateien enthalten die Hauptanwendung und können direkt Icons und Bannerbilder sowie zusätzliche Inhalte enthalten.\
-Mit dem `homebrew_on_menu` Plugin können WUHB-Dateien direkt aus dem Wii U Menü gestartet werden, genau wie offizielle Kanäle.
+Mit dem `homebrew_on_menu` Plugin können WUHB-Dateien direkt aus dem Wii U-Menü gestartet werden, genau wie offizielle Kanäle.
 
 ## Was sind die Einschränkungen?
 

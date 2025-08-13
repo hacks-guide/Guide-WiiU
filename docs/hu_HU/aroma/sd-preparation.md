@@ -17,13 +17,13 @@ Az SD kártyád FAT32-re kell legyen formázva. Ha az SD kártyád nem FAT32-re 
 ## Lépések
 
 1. Az [Aroma](https://aroma.foryour.cafe) weboldalán gördíts le a **Download** szekcióig.
-   - Olvasd el a lépéseket, és kattintsd be a jelölő négyzeteket.
-     ![](/assets/img/guide/Aroma_Box.png)
-   - Kattints a `Download Payloads` és a `Download Base Aroma` opciókra.
-     ![](/assets/img/guide/Aroma_DL.png)
+ - Olvasd el a lépéseket, és kattintsd be a jelölő négyzeteket.
+  ![](/assets/img/guide/Aroma_Box.png)
+ - Kattints a `Download Payloads` és a `Download Base Aroma` opciókra.
+  ![](/assets/img/guide/Aroma_DL.png)
 2. Helyezd be a Wii U-d SD kártyáját a PC-dbe.
 3. **Csomagold ki** és másold a `wiiu` mappát a kettő frissen letöltött _`.zip`_ fájlból az SD kártyád gyökerébe.
-   - A `wiiu` mappákat mergelni kell, ha nem történik meg automatikusan.
+ - A `wiiu` mappákat mergelni kell, ha nem történik meg automatikusan.
 
 ::: tip
 

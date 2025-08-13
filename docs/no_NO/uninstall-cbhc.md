@@ -2,6 +2,11 @@
 
 Denne siden vil hjelpe deg med å avinstallere CBHC fra Wii U konsollen din.
 
+## Dette trenger du
+
+- The latest release of the [Homebrew Launcher](https://github.com/dimok789/homebrew_launcher/releases/tag/v1.5)
+- The [CBHC installer](https://github.com/FIX94/haxchi/releases)
+
 ## Instruksjoner
 
 1. Start Homebrew Launcher.
