@@ -39,7 +39,7 @@ Minden homebrew alkalmazás a Wii U Menu-ből kerül betöltésre Aromán.
 
 ## Pretendo Network
 
-Pretendo is a replacement service for the Nintendo Network, which brings back online services as they are now discontinued. Emellett a Miiverse szolgáltatást is feléleszti a Juxtaposition-on keresztül. A hivatalos útmutató [itt található](https://pretendo.network/docs/install/wiiu).
+A Pretendo a Nintendo Network helyettesítő szolgáltatása, amely a megszűnt online szolgáltatásokat hozza vissza. Emellett a Miiverse szolgáltatást is feléleszti a Juxtaposition-on keresztül. A hivatalos útmutató [itt található](https://pretendo.network/docs/install/wiiu).
 
 ## Tiramisu bootolása (opcionális)
 
@@ -53,13 +53,13 @@ Azonban ha szükséged lenne arra, hogy Tiramisu-ra bootolj, például egy legac
 
 1. Töltsd le a Az [Tiramisu for your café](https://tiramisu.foryour.cafe) oldalról a legutolsó fájlokat.
 2. Másold a `wiiu` mappa tartalmát az SD kártyád gyökerébe.
-    - A mappának egyesülnie (merge) kell a meglévő `wiiu` app tartalmával, ha ez nem történne meg automatikusan.
+   - A mappának egyesülnie (merge) kell a meglévő `wiiu` app tartalmával, ha ez nem történne meg automatikusan.
 3. Vedd ki az SD kártyát a számítógépedből, és dubd be a Wii U konzolodba.
 4. Indítsd el az EnvironmentLoader-t.
-    - Ha autobootolsz bele, akkor ez megtehető az X gomb nyomva tartása mellett bekapcsolt konzollal.
-    - Nincs szükséged a PayloadLoader újratelepítésére, ha már telepítetted az Aromával.
+   - Ha autobootolsz bele, akkor ez megtehető az X gomb nyomva tartása mellett bekapcsolt konzollal.
+   - Nincs szükséged a PayloadLoader újratelepítésére, ha már telepítetted az Aromával.
 5. Válaszd ki a D-Pad-del a `tiramisu`-t.
 6. Az A gomb megnyomásával indítsd el Tiramisu-t.
 7. Az A gomb megnyomásával indítsd el a Wii U Menu-t.
-    - Ha szeretnéd, hogy a konzol autobootoljon a Wii U Menu-be, amikor tölti a Tiramisu környezetet, nyomj Y-t.
+   - Ha szeretnéd, hogy a konzol autobootoljon a Wii U Menu-be, amikor tölti a Tiramisu környezetet, nyomj Y-t.
 8. Homebrew Launcher a Mii Maker app indításával tölthető be.
