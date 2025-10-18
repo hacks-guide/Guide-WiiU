@@ -21,8 +21,8 @@
 ## Gestione Dati chiede di cancellare dati non necessari, che significa?
 
 Questo si riferisce a file rimasti da installazioni incomplete. Seleziona sempre "Si" per cancellare questi dati, visto che occupano spazio per nessun motivo.
-If it ever stays stuck on deleting the data in an infinite loop, you can manually delete the data yourself.\
-Use FTPiiU Everywhere and browse to `/storage_mlc/usr/import` then delete any files in the folder if any exists. Questo è dove le installazioni parziali sono situate dopo installazioni incomplete. It'll be `/storage_usb/usr/import` if installed to a USB.\
+If it ever stays stuck on deleting the data in an infinite loop, you can manually delete the data yourself.  
+Use FTPiiU Everywhere and browse to `/storage_mlc/usr/import` then delete any files in the folder if any exists. Questo è dove le installazioni parziali sono situate dopo installazioni incomplete. It'll be `/storage_usb/usr/import` if installed to a USB.  
 The `import` folder should always be kept empty.
 
 ## Il mio HDD non funziona o fa un suono strano di un click, cosa dovrei fare?
@@ -39,5 +39,5 @@ Niente di speciale, puoi lasciarli lì, eliminarli o sostituirli con dei nuovi. 
 
 ## La mia console all'improvviso ha perso la connettività online e ho un HDD sulla parte superiore della console, che faccio?
 
-The internal antenna may have been influenced by the hard drive magnet.\
+The internal antenna may have been influenced by the hard drive magnet.  
 You can move the HDD to a different position atop the Wii U, or move it off the Wii U entirely.
