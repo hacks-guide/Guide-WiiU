@@ -33,7 +33,7 @@ Ha a számítógép rákérdezz, hogy felülírjuk-e a létező fájlokat az SD 
 
 ::: tip
 
-If you're on a Mac machine, extract the second zip in a second finder window and drag the contents into the first window with the first zip's contents. Then when prompted, select `Merge` instead of replace. Ha a Merge opció nem jelenik meg azonnal, akkor tartsd nyomva az `Option` gombot, amíg mozgatod a gyökérbe a fájlokat.
+Ha Mac számítógépen vagy, akkor csomagold ki a második zippet egy második kereső ablakban és húzd a tartalmát az első ablakba az első zip tartalma mellé. Ha kérdezi, válaszd a `Merge` (egyesítés) opciót a felülírás helyett. Ha a Merge opció nem jelenik meg azonnal, akkor tartsd nyomva az `Option` gombot, amíg mozgatod a gyökérbe a fájlokat.
 
 :::
 
