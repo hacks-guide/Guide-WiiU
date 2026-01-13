@@ -29,9 +29,8 @@ Due to mounting conflicts with this app, you need to also disable the FTPiiu plu
 
 1. Copy the contents of the `decaffeinator.zip` file to the root of your SD Card.
 2. Ta SD-kortet ut av PC'en og sett den inn i Wii U konsollen.
-3. Slå på Wii U konsollen og start CFW (Mocha, Haxchi eller CBHC).
-4. Start Homebrew Launcher.
-5. Kjør vWii Decaffeinator.
+3. Power on your Wii U and launch Aroma.
+4. Launch vWii Decaffeinator from the Wii U Menu.
 
 ## Gjenopprettings prosessen
 

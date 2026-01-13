@@ -1,18 +1,18 @@
 ---
 layout: home
-title: Wii U Hacks Anleitung
+title: "Wii U Hacks Anleitung"
 hero:
-  text: Wii U Hacks Anleitung
-  tagline: Eine Anleitung von Zusammenarbeit zwischen Nintendo Homebrew's Helfern und Personal, von Stock bis hin zu Aroma Custom Firmware.
+  text: "Wii U Hacks Anleitung"
+  tagline: "Eine Anleitung von Zusammenarbeit zwischen Nintendo Homebrew's Helfern und Personal, von Stock bis hin zu Aroma Custom Firmware."
   image:
-    src: /assets/img/home-page-feature.jpg
+    src: "/assets/img/home-page-feature.jpg"
 ---
 
 ::: tip
 
 **Discord Hilfe**
 
-Für Live-Unterstützung mit dieser Anleitung besuche uns bitte in **#wiiu-assistance** auf der [Nintendo Homebrew Discord](https://discord.gg/C29hYvh) und bitte, auf Englisch, um Unterstützung. Bitte lese vorher **#faq-wiiu**, sowie unsere [Häufig gestellte Fragen](faq) Seite, um zu sehen, ob deine Frage bereits beantwortet wurde.
+For live support with this guide please visit us in **#wiiu-assistance** on the [Nintendo Homebrew Discord](https://discord.gg/C29hYvh) and ask, in English, for assistance. Please read **#faq-wiiu**, as well as our [Frequently Asked Questions](faq) page beforehand to see if your question has already been answered.
 
 :::
 
@@ -51,7 +51,7 @@ Unter anderem erlaubt es dir, folgendes zu tun:
 
 ### Endziel
 
-Diese Anleitung hat das Endziel, eine komplett unmodifizierte Wii U von Standard auf Custom Firmware zu bringen.
+Diese Anleitung hat das Endziel, eine komplett unmodifizierte Wii U von Stock auf Custom Firmware zu bringen.
 
 ### Vor dem Start
 
@@ -90,7 +90,7 @@ Wenn alles nach Plan verläuft, wirst du keine Daten verlieren und am Ende alles
 
 Halte dein Gerät während des gesamten Vorgangs eingesteckt, um Datenverlust oder Schäden durch unerwartetes Ausschalten zu vermeiden.
 
-Nachdem du dieser Anleitung gefolgt bist, wird CFW beim Start geladen und aktiviert, es sei denn, du entscheidest dich dagegen, den Abschnitt zu Autobooten von Aroma zu befolgen.
+Nachdem du dieser Anleitung gefolgt bist, wird CFW beim Hochfahren geladen und aktiviert, es sei denn, du entscheidest dich dagegen, den Abschnitt zu Aroma autobooten zu befolgen.
 
 Es wird empfohlen, die gesamte Anleitung mindestens einmal von Anfang bis Ende zu lesen, bevor du tatsächlich mit deinem System durch die Anleitung gehst.
 

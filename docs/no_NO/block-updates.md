@@ -11,5 +11,5 @@ For tiden finnes det en måte å blokkere systemoppdateringer på Wii U:
 
 1. Sørg for at du er på den nyeste Aroma betaen.
 2. Boot inn i Aroma.
-   - Hvis du fikk det gule advarselvinduet, trykk X for å blokkere oppdateringer.
-   - If you didn't get the warning, but the AutobootMenu says "Updates not blocked!", press and hold + (Plus) **and** - (Minus) at the same time until it says they are blocked.
+    - Hvis du fikk det gule advarselvinduet, trykk X for å blokkere oppdateringer.
+    - If you didn't get the warning, but the AutobootMenu says "Updates not blocked!", press and hold + (Plus) **and** - (Minus) at the same time until it says they are blocked.

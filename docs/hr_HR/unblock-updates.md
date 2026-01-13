@@ -59,7 +59,7 @@ Users with ISFShax will have to remove the `wafel_payloader.ipx`/`5payldr.ipx` (
 ### Removing DNS Blocks
 
 1. Enter the Wii U's system settings and navigate to `Internet > Connect to the Internet > Connection List >`
-   `Your WiFi connection > Change Settings > DNS` and set the option to `Auto-obtain`.
+  `Your WiFi connection > Change Settings > DNS` and set the option to `Auto-obtain`.
 2. You are no longer blocking system updates.
 
 ::::

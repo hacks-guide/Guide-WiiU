@@ -1,4 +1,4 @@
-# Dumping Wii U Discs
+# Dumpare dischi Wii U
 
 Dumpare i tuoi dischi ti permette di installare una copia del tuo gioco sulla NAND/dispositivo USB così da poterci giocare senza disco.
 

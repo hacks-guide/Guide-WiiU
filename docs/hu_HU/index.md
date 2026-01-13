@@ -1,11 +1,11 @@
 ---
 layout: home
-title: Wii U Hack útmutató
+title: "Wii U Hack útmutató"
 hero:
-  text: Wii U Hack útmutató
-  tagline: A Nintendo Homebrew segítői és munkatársai által készített útmutató, a gyáritól az Aroma egyedi firmware-ig.
+  text: "Wii U Hack útmutató"
+  tagline: "A Nintendo Homebrew segítői és munkatársai által készített útmutató, a gyáritól az Aroma egyedi firmware-ig."
   image:
-    src: /assets/img/home-page-feature.jpg
+    src: "/assets/img/home-page-feature.jpg"
 ---
 
 ::: tip

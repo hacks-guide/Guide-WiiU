@@ -59,7 +59,7 @@ Az ISFShax felhasználóinak el kell távolítaniuk a `wafel_isfshax_patch.ipx`/
 ### DNS blokkok eltávolítása
 
 1. Lépj be a Wii U system settings-ébe és navigálj az `Internet > Connect to the Internet > Connection List >`
-   `Your WiFi connection > Change Settings > DNS` opcióhoz és állítsd be az `Auto-obtain` opciót.
+  `Your WiFi connection > Change Settings > DNS` opcióhoz és állítsd be az `Auto-obtain` opciót.
 2. Most már nem blokkolod a frissítéseket.
 
 ::::

@@ -11,9 +11,9 @@ A gyári visszaállítás **nem** távolítja el a beillesztett PayloadLoader-t.
 ## Mire van szükséged
 
 - Az [Aroma for your café](https://aroma.foryour.cafe) oldalról a legutolsó fájlok.
-  1. Görgess le a **Download** szakaszig.
-  2. Olvasd el a lépéseket, és kattintsd be a jelölő négyzeteket.
-  3. Kattints a `Download Payloads` és a `Download Base Aroma` opciókra.
+    1. Görgess le a **Download** szakaszig.
+    2. Olvasd el a lépéseket, és kattintsd be a jelölő négyzeteket.
+    3. Kattints a `Download Payloads` és a `Download Base Aroma` opciókra.
 
 ## A PayloadLoader-be autobootolás visszacsinálása
 

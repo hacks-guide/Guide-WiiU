@@ -17,13 +17,13 @@ Your SD Card will need to be formatted as FAT32. If your SD Card is not formatte
 ## Instruksjoner
 
 1. On the [Aroma](https://aroma.foryour.cafe) site, scroll down to the **Download** section.
-   - Les gjennom trinnene og marker checkboksene.
-     ![](/assets/img/guide/Aroma_Box.png)
-   - Trykk på `Download Payloads` og `Download Base Aroma`.
-     ![](/assets/img/guide/Aroma_DL.png)
+ - Les gjennom trinnene og marker checkboksene.
+  ![](/assets/img/guide/Aroma_Box.png)
+ - Trykk på `Download Payloads` og `Download Base Aroma`.
+  ![](/assets/img/guide/Aroma_DL.png)
 2. Sett SD-kortet ditt i PC'en din.
 3. **Extract** and copy the `wiiu` folder of the two newly downloaded _`.zip`_ files to the root of your SD Card.
-   - The `wiiu` folders should be merged if not done automatically.
+ - The `wiiu` folders should be merged if not done automatically.
 
 ::: tip
 
