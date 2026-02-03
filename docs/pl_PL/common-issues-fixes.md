@@ -2,7 +2,7 @@
 
 ## Najczęstsze błędy Haxchi
 
-- **-3:** No SD Card detected. Spróbuj wyjąć i włożyć kartę ponownie. Upewnij się, że karta SD jest w formacie FAT32. Jeśli błąd będzie się powtarzał, spróbuj przedmuchać gniazdo na kartę SD, ponieważ może być zabrudzone.
+- **-3:** No SD Card detected. Spróbuj wyjąć i włożyć kartę ponownie. Upewnij się, że karta SD jest w formacie FAT32. If the error persists, try blowing compressed air into the SD slot as it can get dusty inside. **Do not blow into the SD slot with your mouth, as this can introduce moisture that can DAMAGE the slot.**
 
 - **-4:** SD detected but could not mount. Sprawdź, czy karta SD używa tablicy MBR, a nie GPT. Sprawdź też, czy istnieją inne partycje na karcie SD, jeżeli tak, połącz je w jedną główną partycję.
 
@@ -21,8 +21,8 @@
 ## Data Management prosi o "delete unnecessary data", co to oznacza?
 
 Tu chodzi o usunięcie plików pozostałych z instalacji które się nie powiodły. Zawsze wybieraj "Yes", aby usunąć te dane, ponieważ zajmują one miejsce niepotrzebnie.
-If it ever stays stuck on deleting the data in an infinite loop, you can manually delete the data yourself.\
-Use FTPiiU Everywhere and browse to `/storage_mlc/usr/import` then delete any files in the folder if any exists. W tym miejscu znajdują się pliki po niekompletnych instalacjach. It'll be `/storage_usb/usr/import` if installed to a USB.\
+If it ever stays stuck on deleting the data in an infinite loop, you can manually delete the data yourself.  
+Use FTPiiU Everywhere and browse to `/storage_mlc/usr/import` then delete any files in the folder if any exists. W tym miejscu znajdują się pliki po niekompletnych instalacjach. It'll be `/storage_usb/usr/import` if installed to a USB.  
 The `import` folder should always be kept empty.
 
 ## Mój dysk HDD nie działa lub wydaje dziwny dźwięk klikania, co powinienem zrobić?
@@ -39,5 +39,5 @@ Nic specjalnego, możesz je tam zostawić, usunąć lub zastąpić nowymi. Pliki
 
 ## Moja konsola nagle straciła łączność online, a ja mam na konsoli położony dysk HDD, co powinienem zrobić?
 
-The internal antenna may have been influenced by the hard drive magnet.\
+The internal antenna may have been influenced by the hard drive magnet.  
 You can move the HDD to a different position atop the Wii U, or move it off the Wii U entirely.
