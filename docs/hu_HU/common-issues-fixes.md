@@ -2,7 +2,7 @@
 
 ## Haxchi gyakori hibák
 
-- **-3:** SD kártya nem érzékelt. Csatlakoztad újra az SD kártyát és próbáld újra. Legyél biztos abban, hogy az SD kártya FAT32-re formázott. Ha a probléma tartós, próbálj belefújni az SD slotba, mert koszossá válhat.
+- **-3:** SD kártya nem érzékelt. Csatlakoztad újra az SD kártyát és próbáld újra. Legyél biztos abban, hogy az SD kártya FAT32-re formázott. If the error persists, try blowing compressed air into the SD slot as it can get dusty inside. **Do not blow into the SD slot with your mouth, as this can introduce moisture that can DAMAGE the slot.**
 
 - **-4:** Az SD kártya érzékelt, de nem csatolható. Ellenőrizd, hogy az SD kártya MBR-t használ-e nem GPT-t. Továbbá ellenőrizd, hogy vannak e más partíciók az SD kártyán és mergeld őket egy nagy elsődleges partícióvá.
 
@@ -21,8 +21,8 @@
 ## A data management kéri, hogy töröljük a felesleges adatot, mit jelent ez?
 
 Ez a befejezetlen telepítésekből visszamaradt fájlokra utal. Mindig válaszd a Yes lehetőséget ezen adatok törléséhez, mivel azok ok nélkül foglalják a helyet.
-Ha megakad az adat törlésében egy végtelen ciklusban, kézzel is törölheted az adatokat magadnak.\
-Használj FTPiiU Everywhere és tallóz a `/storage_mlc/usr/import` mappába, majd töröl minden fájlt ami a mappában van. Itt találhatók a részleges telepítések fájljai a sikertelen telepítések után. Ez a `/storage_usb/usr/import` könyvtár, ha USB-re volt telepítve.\
+Ha megakad az adat törlésében egy végtelen ciklusban, kézzel is törölheted az adatokat magadnak.  
+Használj FTPiiU Everywhere és tallóz a `/storage_mlc/usr/import` mappába, majd töröl minden fájlt ami a mappában van. Itt találhatók a részleges telepítések fájljai a sikertelen telepítések után. Ez a `/storage_usb/usr/import` könyvtár, ha USB-re volt telepítve.  
 Az `import` mappát mindig ajánlott üresen tartani.
 
 ## A merevlemezem nem működik, vagy furcsa kattogó hangot ad ki, mit tegyek?
@@ -39,5 +39,5 @@ Semmi különöset, hagy őket ott, töröld őket, vagy is felül az újakkal. 
 
 ## A konzolom elvesztette az online kapcsolatot és van egy HDD-m a tetején a konzolnak, mit tehetek?
 
-A belső antennát lehet befolyásolta a merevelmez mágnese.\
+A belső antennát lehet befolyásolta a merevelmez mágnese.  
 Elmozgathatod a HDD-et egy másik helyre a Wii U tetején, vagy le is veheted a Wii U-ről teljesen.
