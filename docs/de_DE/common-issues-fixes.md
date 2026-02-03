@@ -2,7 +2,7 @@
 
 ## Häufige Haxchi-Fehler
 
-- **-3:** Keine SD-Karte erkannt. Stecke die SD-Karte wieder ein und versuche es erneut. Stelle sicher, dass die SD-Karte im FAT32-Format ist. Wenn der Fehler weiterhin besteht, versuche, in den SD-Steckplatz zu pusten, da er innen staubig werden kann.
+- **-3:** Keine SD-Karte erkannt. Stecke die SD-Karte wieder ein und versuche es erneut. Stelle sicher, dass die SD-Karte im FAT32-Format ist. If the error persists, try blowing compressed air into the SD slot as it can get dusty inside. **Do not blow into the SD slot with your mouth, as this can introduce moisture that can DAMAGE the slot.**
 
 - **-4:** SD erkannt, konnte aber nicht einhängen. Überprüfe, ob die SD-Karte MBR und nicht GPT verwendet. Überprüfe auch, ob es weitere Partitionen auf der SD-Karte gibt, und führe diese zu einer primären Partition zusammen.
 
@@ -21,8 +21,8 @@
 ## Datenverwaltung fordert zum Löschen unnötiger Daten auf, was bedeutet das?
 
 Dies bezieht sich auf übrig gebliebene Dateien von unvollständigen Installationen. Wähle immer Ja, um diese Daten zu löschen, da sie unnötig Speicherplatz belegen.
-Wenn es beim Löschen der Daten in einer Endlosschleife hängen bleibt, kannst du die Daten selbst manuell löschen.\
-Benutze FTPiiU Everywhere und suche `/storage_mlc/usr/import`, dann lösche alle Dateien im Ordner, falls vorhanden. Dies ist der Ort, wo die Teilinstallationen nach den unvollständigen Installationen zurückbleiben. Bei der Installation auf einem USB lautet es `/storage_usb/usr/import`.\
+Wenn es beim Löschen der Daten in einer Endlosschleife hängen bleibt, kannst du die Daten selbst manuell löschen.  
+Benutze FTPiiU Everywhere und suche `/storage_mlc/usr/import`, dann lösche alle Dateien im Ordner, falls vorhanden. Dies ist der Ort, wo die Teilinstallationen nach den unvollständigen Installationen zurückbleiben. Bei der Installation auf einem USB lautet es `/storage_usb/usr/import`.  
 Der `import` Ordner sollte immer leer bleiben.
 
 ## Meine Festplatte funktioniert nicht oder macht ein merkwürdiges Klickgeräusch, was soll ich tun?
@@ -39,5 +39,5 @@ Nichts Besonderes. Du kannst sie entweder dort lassen, sie löschen oder durch n
 
 ## Meine Konsole hat plötzlich die Online-Verbindung verloren und ich habe eine Festplatte auf der Konsole liegen. Was soll ich tun?
 
-Die interne Antenne kann durch den Festplattenmagneten beeinflusst worden sein.\
+Die interne Antenne kann durch den Festplattenmagneten beeinflusst worden sein.  
 Du kannst die Festplatte an eine andere Position auf der Wii U verschieben oder sie ganz von der Wii U entfernen.
