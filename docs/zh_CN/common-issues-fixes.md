@@ -2,7 +2,7 @@
 
 ## Haxchi 常见错误
 
-- **-3:** No SD Card detected. 重新插一下 SD 卡，然后再试一次。 请确保你的 SD 卡为 FAT32 格式。 如果问题仍然存在，请尝试吹吹卡槽（或尝试其他方法清理），因为可能有一些灰尘积在卡槽里头了。
+- **-3:** No SD Card detected. 重新插一下 SD 卡，然后再试一次。 请确保你的 SD 卡为 FAT32 格式。 If the error persists, try blowing compressed air into the SD slot as it can get dusty inside. **Do not blow into the SD slot with your mouth, as this can introduce moisture that can DAMAGE the slot.**
 
 - **-4:** SD detected but could not mount. 检查 SD 卡是否正在使用 MBR 引导，而非 GPT 引导。 另外，检查 SD 卡上是否有两个以上的分区，如果有请将它们合并为一个。
 
@@ -21,8 +21,8 @@
 ## 数据管理说要删除一些不必要的数据，它什么意思？
 
 这里指的是没有安装完成而残留的文件。 请总是确认删除这些数据，因为它们本来就没有存在的必要。
-If it ever stays stuck on deleting the data in an infinite loop, you can manually delete the data yourself.\
-Use FTPiiU Everywhere and browse to `/storage_mlc/usr/import` then delete any files in the folder if any exists. 这是未完成安装的东西存放的地方。 It'll be `/storage_usb/usr/import` if installed to a USB.\
+If it ever stays stuck on deleting the data in an infinite loop, you can manually delete the data yourself.  
+Use FTPiiU Everywhere and browse to `/storage_mlc/usr/import` then delete any files in the folder if any exists. 这是未完成安装的东西存放的地方。 It'll be `/storage_usb/usr/import` if installed to a USB.  
 The `import` folder should always be kept empty.
 
 ## 我的 HDD 不工作或它发出了一些很奇怪的打击声，我要怎么办？
@@ -39,5 +39,5 @@ The `import` folder should always be kept empty.
 
 ## 我的主机突然掉线了，而且我有一块 HDD 放在主机的顶上，怎么办啊？
 
-The internal antenna may have been influenced by the hard drive magnet.\
+The internal antenna may have been influenced by the hard drive magnet.  
 You can move the HDD to a different position atop the Wii U, or move it off the Wii U entirely.
