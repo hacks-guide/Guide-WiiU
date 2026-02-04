@@ -2,7 +2,7 @@
 
 ## Vanlige feil med Haxchi
 
-- **-3:** No SD Card detected. Sett inn SD-kortet på nytt og prøv igjen. Kontroller at SD-kortet er i FAT32-format. Hvis feilen vedvarer, kan du prøve å blåse inn i SD-kort åpningen, da det gjerne kan bli litt støvete.
+- **-3:** No SD Card detected. Sett inn SD-kortet på nytt og prøv igjen. Kontroller at SD-kortet er i FAT32-format. If the error persists, try blowing compressed air into the SD slot as it can get dusty inside. **Do not blow into the SD slot with your mouth, as this can introduce moisture that can DAMAGE the slot.**
 
 - **-4:** SD detected but could not mount. Kontroller om SD-kortet bruker MBR og ikke GPT. Sjekk også at det ikke er andre partisjoner på SD-kortet og eventuelt slå dem sammen til én primærpartisjon.
 
@@ -21,8 +21,8 @@
 ## Data Management spør om "delete unnecessary data", what does it mean?
 
 Dette refererer til filer som ligger igjen fra ufullstendige installasjoner. Velg alltid "yes" for å slette disse dataene, da det bare tar plass uten grunn.
-If it ever stays stuck on deleting the data in an infinite loop, you can manually delete the data yourself.\
-Use FTPiiU Everywhere and browse to `/storage_mlc/usr/import` then delete any files in the folder if any exists. Det er her filene havner etter ufullstendige installasjoner. It'll be `/storage_usb/usr/import` if installed to a USB.\
+If it ever stays stuck on deleting the data in an infinite loop, you can manually delete the data yourself.  
+Use FTPiiU Everywhere and browse to `/storage_mlc/usr/import` then delete any files in the folder if any exists. Det er her filene havner etter ufullstendige installasjoner. It'll be `/storage_usb/usr/import` if installed to a USB.  
 The `import` folder should always be kept empty.
 
 ## Ekstern harddisk fungerer ikke eller lager en rar tikkelyd, hva skal jeg gjøre?
@@ -39,5 +39,5 @@ Du kan la dem ligge, slette dem eller kopiere over dem med de nye filene. Disse 
 
 ## Wii U konsollen min mistet plutselig internett, og jeg har en ekstern harddisk oppå konsollen min. Hva må jeg gjøre?
 
-The internal antenna may have been influenced by the hard drive magnet.\
+The internal antenna may have been influenced by the hard drive magnet.  
 You can move the HDD to a different position atop the Wii U, or move it off the Wii U entirely.

@@ -2,7 +2,7 @@
 
 ## Haxchi common errors
 
-- **-3:** No SD Card detected. Re-insert the SD Card and try again. Make sure the SD Card is in FAT32 format. If the error persists, try blowing into the SD slot as it can get dusty inside.
+- **-3:** No SD Card detected. Re-insert the SD Card and try again. Make sure the SD Card is in FAT32 format. If the error persists, try blowing compressed air into the SD slot as it can get dusty inside. **Do not blow into the SD slot with your mouth, as this can introduce moisture that can DAMAGE the slot.**
 
 - **-4:** SD detected but could not mount. Check to see if the SD is using MBR and not GPT. Also, check to see if there are any other partitions on the SD Card and merge them into one primary partition.
 
@@ -21,8 +21,8 @@
 ## Data Management asks to delete unnecessary data, what does it mean?
 
 This refers to leftover files from incomplete installs. Always choose Yes to delete this data, as it takes up space for no good reason.
-If it ever stays stuck on deleting the data in an infinite loop, you can manually delete the data yourself.\
-Use FTPiiU Everywhere and browse to `/storage_mlc/usr/import` then delete any files in the folder if any exists. This is where the partial installs exist after incomplete installs. It'll be `/storage_usb/usr/import` if installed to a USB.\
+If it ever stays stuck on deleting the data in an infinite loop, you can manually delete the data yourself.  
+Use FTPiiU Everywhere and browse to `/storage_mlc/usr/import` then delete any files in the folder if any exists. This is where the partial installs exist after incomplete installs. It'll be `/storage_usb/usr/import` if installed to a USB.  
 The `import` folder should always be kept empty.
 
 ## My HDD doesn't work or makes a weird clicking sound, what should I do?
@@ -39,5 +39,5 @@ Nothing special, you can leave them there, delete them or replace them with new 
 
 ## My console suddenly lost online connectivity and I have an HDD sitting on top of the console, what should I do?
 
-The internal antenna may have been influenced by the hard drive magnet.\
+The internal antenna may have been influenced by the hard drive magnet.  
 You can move the HDD to a different position atop the Wii U, or move it off the Wii U entirely.

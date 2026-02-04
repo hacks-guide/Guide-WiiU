@@ -9,7 +9,7 @@ We will now place the required Aroma files on the SD Card.
 
 ::: warning
 
-Your SD Card will need to be formatted as FAT32. If your SD Card is not formatted to FAT32, use [GUIFormat](http://ridgecrop.co.uk/index.htm?guiformat.htm) with 32k (32768) allocation unit size to format it.\
+Your SD Card will need to be formatted as FAT32. If your SD Card is not formatted to FAT32, use [GUIFormat](http://ridgecrop.co.uk/index.htm?guiformat.htm) with 32k (32768) allocation unit size to format it.  
 **Do not** label the SD Card as `wiiu` or it will cause issues with homebrew.
 
 :::
@@ -17,13 +17,13 @@ Your SD Card will need to be formatted as FAT32. If your SD Card is not formatte
 ## 操作步骤
 
 1. On the [Aroma](https://aroma.foryour.cafe) site, scroll down to the **Download** section.
- - Read through the steps and click on the checkboxes.
-  ![](/assets/img/guide/Aroma_Box.png)
- - Click on `Download Payloads` and `Download Base Aroma`.
-  ![](/assets/img/guide/Aroma_DL.png)
+   - Read through the steps and click on the checkboxes.
+     ![](/assets/img/guide/Aroma_Box.png)
+   - Click on `Download Payloads` and `Download Base Aroma`.
+     ![](/assets/img/guide/Aroma_DL.png)
 2. 将你的 Wii U SD 卡 插入你的电脑。
 3. **Extract** and copy the `wiiu` folder of the two newly downloaded _`.zip`_ files to the root of your SD Card.
- - The `wiiu` folders should be merged if not done automatically.
+   - The `wiiu` folders should be merged if not done automatically.
 
 ::: tip
 
@@ -33,7 +33,7 @@ If your computer asks you to overwrite existing files on your SD Card, you will 
 
 ::: tip
 
-If you're on a Mac machine, select `Merge` instead of replace. If the merge option does not show immediately, press and hold the `Option` key while moving files to the root.
+If you're on a Mac machine, extract the second zip in a second finder window and drag the contents into the first window with the first zip's contents. Then when prompted, select `Merge` instead of replace. If the merge option does not show immediately, press and hold the `Option` key while moving files to the root.
 
 :::
 
