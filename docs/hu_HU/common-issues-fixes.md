@@ -2,7 +2,7 @@
 
 ## Haxchi gyakori hibák
 
-- **-3:** SD kártya nem érzékelt. Csatlakoztad újra az SD kártyát és próbáld újra. Legyél biztos abban, hogy az SD kártya FAT32-re formázott. If the error persists, try blowing compressed air into the SD slot as it can get dusty inside. **Do not blow into the SD slot with your mouth, as this can introduce moisture that can DAMAGE the slot.**
+- **-3:** SD kártya nem érzékelt. Csatlakoztad újra az SD kártyát és próbáld újra. Legyél biztos abban, hogy az SD kártya FAT32-re formázott. Ha a probléma tartós, próbálj belefújni sűrített levegővel az SD slotba, mert koszossá válhat. **Ne fúj az SD kártya slotba a száddal, mert az párát vihet rá, ami KÁROSÍTJA a slot-ot.**
 
 - **-4:** Az SD kártya érzékelt, de nem csatolható. Ellenőrizd, hogy az SD kártya MBR-t használ-e nem GPT-t. Továbbá ellenőrizd, hogy vannak e más partíciók az SD kártyán és mergeld őket egy nagy elsődleges partícióvá.
 
