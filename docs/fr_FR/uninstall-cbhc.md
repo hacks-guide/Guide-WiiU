@@ -14,7 +14,7 @@ Cette page vous guidera tout au long du processus de désinstallation de CBHC de
 3. Select the DS Virtual Console game you want to uninstall CBHC from then press the `A` button.
 4. Read the warnings then press the `B` button.
 5. Vérifiez que votre Wii U ne démarre plus automatiquement sur CBHC en redémarrant la console.
-6. If no autobooting or menu screen appreared when the console was booting up, you can launch System Settings then go to Data Management and then safely uninstall the application called `DON'T TOUCH ME`.
+6. If no autobooting or menu screen appeared when the console was booting up, you can launch System Settings then go to Data Management and then safely uninstall the application called `DON'T TOUCH ME`.
 
 ::: tip
 
