@@ -10,7 +10,7 @@ A factory reset **won't** uninstall the injected PayloadLoader. To fully uninsta
 
 ## What You Need
 
-- The latest files from [Aroma for your café](https://aroma.foryour.cafe).
+* The latest files from [Aroma for your café](https://aroma.foryour.cafe).
     1. Scroll down to the **Download** section.
     1. Read through the steps and click on the checkboxes.
     1. Click on `Download Payloads` and `Download Base Aroma`.

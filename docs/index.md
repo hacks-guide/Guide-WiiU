@@ -20,7 +20,7 @@ For live support with this guide please visit us in **#wiiu-assistance** on the 
 
 If you appreciate this guide, we accept [donations](donations).
 
-::: 
+:::
 
 ::: info
 
@@ -28,33 +28,32 @@ For complete guides to homebrew and custom firmware for other devices, check out
 
 :::
 
-### Homebrew
+## Homebrew
 
 Homebrew applications are custom, user-made software, which haven’t been authorized by Nintendo. This can include save editing tools, games, emulators, and more.
 
 Homebrew can be run on your Wii U as long as you have a way to put files on an SD Card and your Wii U is updated to the latest version for your region.
 
-### Custom Firmware
+## Custom Firmware
 
 Custom firmware (often abbreviated as "CFW") enables you to use more advanced hacks that userland homebrew can’t easily do. For instance, installing game modifications with ease.
 CFW can be set up on any console on the latest version.
 
-### Homebrew & CFW Uses
+## Homebrew & CFW Uses
 
 Among other things, it allows you to do the following:
 
-- Use “ROM hacks” for games that you own.
-- Backup, edit and restore saves for many games.
-- Play games for older systems with various emulators, using RetroArch or other standalone emulators.
-- Play out-of-region games.
-- Dump your Wii U game discs to a format that can be installed on your internal or external Wii U storage drive.
+* Use “ROM hacks” for games that you own.
+* Backup, edit and restore saves for many games.
+* Play games for older systems with various emulators, using RetroArch or other standalone emulators.
+* Play out-of-region games.
+* Dump your Wii U game discs to a format that can be installed on your internal or external Wii U storage drive.
 
-
-### End Goal
+## End Goal
 
 This guide has the end goal of taking a completely unmodified Wii U from stock to custom firmware.
 
-### Before Starting
+## Before Starting
 
 ::: danger
 
@@ -67,9 +66,10 @@ Before beginning the guide, you must know the risks of Wii U hacking: **EVERY** 
 This guide will work on all Wii U consoles in all regions on the latest firmware (5.5.6 for North American consoles, 5.5.5 for all other regions) or below.
 
 You will need the following in order to successfully follow this guide:
-- An SD Card.
-- A device such as a computer to place files onto the SD Card.
-- A Wii U with internet access.
+
+* An SD Card.
+* A device such as a computer to place files onto the SD Card.
+* A Wii U with internet access.
 
 A 32GB SD Card will be enough for most use-cases. A Micro SD Card in an adapter will work fine.
 
@@ -79,10 +79,10 @@ A 32GB SD Card will be enough for most use-cases. A Micro SD Card in an adapter 
 
 **If you have an existing legacy CFW setup**
 
-- For **CBHC** users: Go to the [Uninstall CBHC](uninstall-cbhc) page to uninstall CBHC.
-- For **Haxchi** users: Uninstall the Haxchi app from Data Management in the System Settings app.
-- For **Mocha CFW (Indexiine)** users: Go to the [Uninstall Indexiine](uninstall-indexiine) page to uninstall Indexiine.
-- For **Mocha CFW (Online Exploit)** users: You do not need to do anything before following this guide.
+* For **CBHC** users: Go to the [Uninstall CBHC](uninstall-cbhc) page to uninstall CBHC.
+* For **Haxchi** users: Uninstall the Haxchi app from Data Management in the System Settings app.
+* For **Mocha CFW (Indexiine)** users: Go to the [Uninstall Indexiine](uninstall-indexiine) page to uninstall Indexiine.
+* For **Mocha CFW (Online Exploit)** users: You do not need to do anything before following this guide.
 
 :::
 
