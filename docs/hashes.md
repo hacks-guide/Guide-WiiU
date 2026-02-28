@@ -1,6 +1,36 @@
 # File Hashes
 
-This page provides a list of known file hashes for downloads linked to or hosted on this page.
+This page provides a list of known file hashes for downloads linked to or hosted on the guide, as well as instructions on how to verify those hashes against your downloaded files. This may help if you find that you are running into unknown issues where a downloaded piece of software is not behaving as you would expect.
+
+## Verifying Hashes
+
+### Section I - Requirements
+
+* A modern web browser, preferably on a desktop OS
+* [Online SHA256 Checksum Tool](https://emn178.github.io/online-tools/sha256_checksum.html)
+
+### Section II - Instructions
+
+::: tip
+
+This section uses **wudd** as an example, and should match the SHA256 hash provided below.
+
+:::
+
+1. Open the checksum tool provided above in the web browser of your choosing.
+1. On the page, drag and drop the file you are intending to check into the Input box.
+
+    ![](/assets/img/hash-checker/drag-file.png)
+
+1. Copy the hash in the Output box that was calculated from your file.
+
+    ![](/assets/img/hash-checker/copy-hash.png)
+
+1. On this page, do a `CTRL + F` or applicable key combination to open the Find dialog in your browser. You can copy the hash here, and it should **EXACTLY** match the provided hash of the file you intended to download.
+
+    ![](/assets/img/hash-checker/check-hash.png)
+
+## Hash List (SHA256)
 
 ::: info
 
@@ -158,13 +188,13 @@ SHA256: `C0369B21E767209E209D74D96F4C1ACC3A81EB930E8265A7C5C80B28385EB54F`
 
 ---
 
-[Aroma Payloads | Beta-25](https://aroma.foryour.cafe) • :page_facing_up: `aroma-packages-environmentloader+wiiu-nanddumper-payload.zip`
+[Aroma Payloads vBeta-25](https://aroma.foryour.cafe) • :page_facing_up: `aroma-packages-environmentloader+wiiu-nanddumper-payload.zip`
 
 SHA256: `68E5EEE2A12BB7AA8499FCF61D2F3DC290DA64B6A38C9BFC9A52A67B9465D2A3`
 
 ---
 
-[Aroma Base | Beta-25](https://aroma.foryour.cafe) • :page_facing_up: `aroma-beta-25.zip`
+[Aroma Base vBeta-25](https://aroma.foryour.cafe) • :page_facing_up: `aroma-beta-25.zip`
 
 SHA256: `234EF92DA074D8B7153D186107FB2F7F2908681E69D2E48ADC75A64B6D189E8F`
 
