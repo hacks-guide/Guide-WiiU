@@ -5,7 +5,7 @@
     "MD013": false,
     "MD024": false,
     "MD029": { "style": "one" },
-    "MD033": { "allowed_elements": ["br"], "table_allowed_elements": ["hr", "br", "ul", "li"]},
+    "MD033": { "allowed_elements": ["br", "u"], "table_allowed_elements": ["hr", "br", "ul", "li", "u"]},
     "MD035": { "style": "---" },
     "MD036": false,
     "MD040": false,
