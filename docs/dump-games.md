@@ -83,7 +83,7 @@ In order to move your game to a USB device, it has to be formatted by the Wii U.
 1. Power on your Wii U.
 1. Your Wii U will prompt you to format your USB device. Confirm with Yes.
 1. Open the Wii U's System Settings.
-1. Navigate to `Data Management > Copy/Move/Delete Data > System Memory > Move Items (X)`
+1. Navigate to `Data Management` > `Copy/Move/Delete Data` > `System Memory` > `Move Items (X)`
 1. Select the game and move all data (including updates and DLC if any are installed) to your USB device.
 
 ## Move Updates To USB
@@ -96,5 +96,5 @@ If your disc game had DLC or updates installed, you will need to transfer the fi
 
 1. Power on your Wii U
 1. Open the Wii U's System Settings.
-1. Navigate to `Data Management > Copy/Move/Delete Data > System Memory > Move Items (X)`.
+1. Navigate to `Data Management` > `Copy/Move/Delete Data` > `System Memory` > `Move Items (X)`.
 1. Select your game and move the update and DLC data to the USB device.
