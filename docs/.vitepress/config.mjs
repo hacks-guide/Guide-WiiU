@@ -32,6 +32,7 @@ export default defineConfig({
       { icon: 'github', link: 'https://github.com/hacks-guide/Guide-WiiU' }
     ]
   },
+  cleanUrls: true,
   vite: {
     resolve: {
       alias: [
