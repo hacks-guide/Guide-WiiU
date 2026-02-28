@@ -1,0 +1,143 @@
+# File Hashes
+
+This page provides a list of known file hashes for downloads linked to or hosted on this page.
+
+::: info
+
+[**Dumping Wii U Discs**](dump-games)
+
+---
+
+[WUP Installer GX2](https://wiiu.cdn.fortheusers.org/zips/wup_installer_gx2_wuhb.zip) • `wup_installer_gx2_wuhb.zip`
+
+SHA256: `2A2C9A29A19B609D560E96B006341EAD0D4946D7C038D34D5A393ACCFC6C7431`
+
+[wudd](https://wiiu.cdn.fortheusers.org/zips/wudd.zip) • `wudd.zip`
+
+SHA256: `439E6C647C2218957A86C6D1095C29166F780F4FE55F736EAD69815638965904`
+
+:::
+
+::: info
+
+[**Finalizing Setup**](aroma/finalizing-setup)
+
+---
+
+[Bloopair v1.0.3](https://github.com/GaryOderNichts/Bloopair/) • `Bloopair_v1.0.3.zip`
+
+SHA256: `5D081AACBC9805D282BF35654BC968EA61A76844DAB3F90FDFC72338CD4FBEED`
+
+[FTPiiU v0.4.4](https://github.com/wiiu-env/ftpiiu_plugin/releases) • `ftpiiu_v0_4_4.zip`
+
+SHA256: `95A4498DD38EBC9B2423312643AEC41D3344F0C034BDD42F41733E234CD2CD94`
+
+[HB Appstore v2.3.2](https://github.com/fortheusers/hb-appstore/releases/) • `wiiu-extracttosd.zip`
+
+SHA256: `45C7DA6A1608924054AEF7705E93CFC216EBEF84556900F6696B29F8A0ACD218`
+
+[SaveMii Mod WUT Port](https://wiiu.cdn.fortheusers.org/zips/SaveMiiModWUTPort.zip) • `SaveMiiModWUTPort.zip`
+
+SHA256: `1CB987153D352B5C1CC984C14238B3156DCC8BB4790F84AF67C9617579353C30`
+
+[Screenshot Plugin v0.1.4](https://github.com/wiiu-env/ScreenshotWUPS/) • `screenshot_plugin_v0_1_4.zip`
+
+SHA256: `2A840B5B508F2CF73D2240F4C11B6AAA4CE179B5BB103EB4A75CC56A659F23DA`
+
+[SDCafiine v0.1.5](https://github.com/wiiu-env/sdcafiine_plugin/) • `sdcafiine_v0_1_5.zip`
+
+SHA256: `5B5C291D24DD3FEE0F9DEAF661D79E67CE055D6CBCA8D461FBFFBC5D68A96F6A`
+
+[Tiramisu](https://tiramisu.foryour.cafe/) • `environmentloader-ba9c126+wiiu-nanddumper-payload-5c5ec09+fw_img_loader-c2da326+payloadloaderinstaller-ec7176d+tiramisu-f1b479d.zip`
+
+SHA256: `81DF9785613EC004500BD038D8401E17D49B8F0D275ED237DA4B03A1F69FC9D8`
+
+:::
+
+::: info
+
+[**Recover a vWii IOS/Channel**](recover-vwii-ioses-channels)
+
+---
+
+[vWii Decaffeinator v2](https://github.com/GaryOderNichts/vWii-Decaffeinator/releases) • `decaffeinator.zip`
+
+SHA256: `E5B640FA855B87950BBF5D7166EB0E53684A67778FDC184E095B16BC702C782E`
+
+:::
+
+::: info
+
+[**SD Preparation**](aroma/sd-preparation)
+
+---
+
+[Aroma Payloads | Beta-25](https://aroma.foryour.cafe) • `aroma-packages-environmentloader+wiiu-nanddumper-payload.zip`
+
+SHA256: `68E5EEE2A12BB7AA8499FCF61D2F3DC290DA64B6A38C9BFC9A52A67B9465D2A3`
+
+[Aroma Base | Beta-25](https://aroma.foryour.cafe) • `aroma-beta-25.zip`
+
+SHA256: `234EF92DA074D8B7153D186107FB2F7F2908681E69D2E48ADC75A64B6D189E8F`
+
+:::
+
+::: info
+
+[**Uninstall CBHC**](uninstall-cbhc)
+
+---
+
+[CBHC installer v1.6](https://github.com/FIX94/haxchi/releases) • `CBHC_v1.6.zip`
+
+SHA256: `EE6341EEE4F8F90503F7FC1C26F42FCA60509D342672A41E190C5CAFE43603F4`
+
+[Homebrew Launcher v1.5](https://github.com/dimok789/homebrew_launcher/releases/tag/v1.5) • `homebrew_launcher.v1.5.zip`
+
+SHA256: `45A6FFB6E73DD8C60E7921E5D2D13D797876445C44D99B4B4649C47AE3EFFBAB`
+
+:::
+
+::: info
+
+[**Uninstall Indexiine**](uninstall-indexiine)
+
+---
+
+[Backup Index File](/files/backup-index.html){download} • `backup-index.html`
+
+SHA256: `0B71BC45D6BD74F46317C8029D6222C0C1A3419557F9C8DAE8E3A1608D2A6006`
+
+[GUIFormat](http://ridgecrop.co.uk/index.htm?guiformat.htm) • `guiformat.exe`
+
+SHA256: `647FB4F5108AF632C3D52FEC34934922C50C70585697504E92FB80B3B7D05EE3`
+
+[Homebrew Launcher v1.5](https://github.com/dimok789/homebrew_launcher/releases/tag/v1.5) • `homebrew_launcher.v1.5.zip`
+
+SHA256: `45A6FFB6E73DD8C60E7921E5D2D13D797876445C44D99B4B4649C47AE3EFFBAB`
+
+[Homebrew Launcher Installer v1.4](https://github.com/wiiu-env/homebrew_launcher_installer/releases/latest) • `payload.zip`
+
+SHA256: `A8A99038742C09CC5E16A66B1D4927F467420C248D43374A9C5930CEF2350BD5`
+
+[Indexiine Installer v2](https://github.com/GaryOderNichts/indexiine-installer/releases/latest) • `indexiine-installer.zip`
+
+SHA256: `C0369B21E767209E209D74D96F4C1ACC3A81EB930E8265A7C5C80B28385EB54F`
+
+:::
+
+::: info
+
+[**Uninstall PayloadLoader**](uninstall-payloadloader)
+
+---
+
+[Aroma Payloads | Beta-25](https://aroma.foryour.cafe) • `aroma-packages-environmentloader+wiiu-nanddumper-payload.zip`
+
+SHA256: `68E5EEE2A12BB7AA8499FCF61D2F3DC290DA64B6A38C9BFC9A52A67B9465D2A3`
+
+[Aroma Base | Beta-25](https://aroma.foryour.cafe) • `aroma-beta-25.zip`
+
+SHA256: `234EF92DA074D8B7153D186107FB2F7F2908681E69D2E48ADC75A64B6D189E8F`
+
+:::
