@@ -23,6 +23,9 @@ export default defineConfig({
     hostname: 'https://wiiu.hacks.guide'
   },
   themeConfig: {
+    outline: {
+      level: 'deep'
+    },
     docFooter: {
       prev: false,
       next: false
