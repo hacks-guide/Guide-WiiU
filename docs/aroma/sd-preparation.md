@@ -11,7 +11,7 @@ We will now place the required Aroma files on the SD Card.
 
 Your SD card will need to be formatted as FAT16/FAT32:
 - **Up to 32GB**: will be already formatted correctly from the factory. If the format was ever changed you can reformat it using the official [SD Association SD Memory Card Formatter for Windows/Mac](https://www.sdcard.org/downloads/formatter/). **Do not** label the SD Card as `wiiu` or it will cause issues with homebrew.
-- **over 32GB** use the Rufus based [NHFormatter](https://github.com/zer00p/NHFormatter/releases).
+- **Over 32GB** use the Rufus based [NHFormatter](https://github.com/zer00p/NHFormatter/releases).
 
 :::
 
