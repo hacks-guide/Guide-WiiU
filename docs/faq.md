@@ -42,7 +42,7 @@ Note: Avoid class 4 SD Cards, and avoid eBay!
 
 ## Can I install homebrew on Wii U with a USB instead of SD Card?
 
-No, you must have an SD Card for a first time setup. A USB can then be used to install game backups, Virtual Console injects, etc, but not to store homebrew applications which are required to set everything up.
+Yes, you can use usa a USB Device in place of a SD. But it needs ISFShax and the installation process will be different from the guide. Don't connect the USB yet, don't format it and you don't need to put files on it. Go to https://wafel.xyz in the browser of the Wii U and press the "launch" button. It will load the wafel installer. It will guide you through the process of preparing the USB and downloading all required files and setting everything up. Only conntect the USB when it asks you to. You need to say yes to stroopwafel and ISFShax.
 
 ## When extracting some of the files there are duplicates of certain ones called "info.json" & "manifest.install", what do I do with those?
 
