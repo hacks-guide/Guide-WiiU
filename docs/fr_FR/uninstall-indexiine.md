@@ -4,7 +4,7 @@ Cette page vous guidera tout au long du processus de désinstallation d'Indexiin
 
 ## Ce dont vous avez besoin
 
-- The latest release of the [Homebrew Launcher](https://github.com/dimok789/homebrew_launcher/releases/tag/v1.5). (The `homebrew_launcher.v1.5.zip` file)
+- La dernière version du [Homebrew Launcher](https://github.com/dimok789/homebrew_launcher/releases/tag/v1.5). (The `homebrew_launcher.v1.5.zip` file)
 - The latest release of the [Homebrew Launcher Installer](https://github.com/wiiu-env/homebrew_launcher_installer/releases/latest). (The `payload.zip` file)
 - The [Indexiine Installer](https://github.com/GaryOderNichts/indexiine-installer/releases/latest). (The `indexiine-installer.zip` file)
 - The default [index.html file](/files/backup-index.html){download}. (You will get a file named `backup-index.html`)
