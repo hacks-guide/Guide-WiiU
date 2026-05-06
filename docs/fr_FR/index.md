@@ -51,7 +51,7 @@ Il vous permet, entre autres, de faire ce qui suit :
 
 ### Objectif final
 
-Ce guide a pour but final de faire passer une Wii U de "non modifiée" à "modifiée avec un custom firmware".
+Ce guide a pour but final de faire passer une Wii U complètement non modifiée à un custom firmware.
 
 ### Avant de commencer
 
@@ -86,13 +86,13 @@ A 32GB SD Card will be enough for most use-cases. A Micro SD Card in an adapter 
 
 :::
 
-Si tout se passe comme prévu, vous ne perdrez aucune donnée et finirez avec tout ce que vous aviez avant de commencer (jeux, NNID, les données de sauvegarde, etc seront conservés).
+Si tout se passe comme prévu, vous ne perdrez aucune donnée et finirez avec tout ce que vous aviez avant de commencer (les jeux, le NNID, les sauvegardes, etc. seront conservés).
 
 Gardez votre console branchée tout au long du processus pour éviter une perte de données ou des dommages causés par une mise hors tension inattendue.
 
 After following this guide, CFW will be loaded and enabled on boot, unless you choose to not follow the Autobooting Aroma section.
 
-Il est conseillé de lire l'intégralité du guide du début à la fin une ou plusieurs fois avant de commencer à suivre les étapes avec votre console.
+Il est conseillé de lire l'intégralité du guide du début à la fin une ou plusieurs fois avant de commencer à suivre les étapes avec votre système.
 
 ---
 
