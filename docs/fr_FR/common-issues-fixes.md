@@ -4,7 +4,7 @@
 
 - **-3:** No SD Card detected. Réinsérez la carte SD et essayez à nouveau. Assurez-vous que la carte SD est au format FAT32. If the error persists, try blowing compressed air into the SD slot as it can get dusty inside. **Do not blow into the SD slot with your mouth, as this can introduce moisture that can DAMAGE the slot.**
 
-- **-4:** SD detected but could not mount. Vérifiez si la carte SD utilise le MBR et non le GPT. Vérifiez également s'il existe d'autres partitions sur la carte SD et fusionnez-les en une seule partition primaire.
+- **-4:** SD detected but could not mount. Vérifiez si la SD utilise le MBR et non le GPT. Vérifiez également s'il existe d'autres partitions sur la carte SD et fusionnez-les en une seule partition primaire.
 
 - **-5:** Missing files on the SD. Check to see if your SD has Homebrew Launcher located in <code>/wiiu<wbr>/apps<wbr>/homebrew_launcher<wbr>/homebrew_launcher.elf</code>.
 
@@ -20,16 +20,16 @@
 
 ## Le menu Gestion des données demande de supprimer les données inutiles, qu'est-ce que cela signifie ?
 
-Il s'agit des fichiers restants, ce qui est dû à une ou plusieurs installations incomplètes. Choisissez toujours Oui pour supprimer ces données, car elles prennent de la place inutilement.
+Il s'agit des fichiers restants provenant d'installations incomplètes. Choisissez toujours Oui pour supprimer ces données, car elles prennent de la place inutilement.
 If it ever stays stuck on deleting the data in an infinite loop, you can manually delete the data yourself.  
 Use FTPiiU Everywhere and browse to `/storage_mlc/usr/import` then delete any files in the folder if any exists. C'est là que se trouvent les installations partielles lorsque des installations échouent. It'll be `/storage_usb/usr/import` if installed to a USB.  
 The `import` folder should always be kept empty.
 
 ## Mon disque dur ne fonctionne pas ou fait un bruit de clic bizarre, que dois-je faire ?
 
-Cela est dû à une sous alimentation en électricité du disque dur car la Wii U n'en fournit pas assez au travers d'un seul port USB.
+Cela est dû à une sous-alimentation en électricité du disque dur car la Wii U n'en fournit pas assez au travers d'un seul port USB.
 
-Vous pouvez régler ce problème en utilisant soit un disque dur alimenté par une source externe, soit un câble en Y pour connecter le disque dur à deux ports USB.
+Vous pouvez régler ceci en utilisant soit un disque dur alimenté par une source externe, soit un câble en Y pour connecter le disque dur à deux ports USB.
 
 Si votre disque dur a fonctionné pendant un certain temps puis a cessé de fonctionner pour certains jeux/toutes les jeux, c'est le même problème et il peut être résolu avec les mêmes méthodes.
 
