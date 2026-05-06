@@ -36,18 +36,18 @@ Les Homebrews peuvent être exécutés sur votre Wii U tant que vous avez un moy
 
 ### Custom Firmware
 
-Le Custom Firmware (également connu sous l'abréviation "CFW") vous permet d'utiliser des hacks plus avancés que les homebrews de type "userland" ne peuvent pas faire facilement. Par exemple, installer des mods de jeu en toute simplicité.
-Le CFW peut être configuré sur n'importe quelle console ayant la dernière version en date du logiciel système.
+Le custom firmware (également connu sous l'abréviation "CFW") vous permet d'utiliser des hacks plus avancés que les homebrews de type "userland" ne peuvent pas faire facilement. Par exemple, installer des mods de jeu en toute simplicité.
+Le CFW peut être configuré sur n'importe quelle console ayant la dernière version.
 
 ### Homebrew & CFW Uses
 
 Il vous permet, entre autres, de faire ce qui suit :
 
-- Utiliser des "ROM hacks" pour les jeux que vous possédez.
+- Utiliser des "ROM hacks" pour des jeux que vous possédez.
 - Sauvegarder, modifier et restaurer les données de sauvegarde pour de nombreux jeux.
-- Jouer à des jeux pour les anciennes consoles avec divers émulateurs, en utilisant RetroArch ou d'autres émulateurs autonomes.
+- Jouer à des jeux pour des consoles plus anciennes avec divers émulateurs, en utilisant RetroArch ou d'autres émulateurs autonomes.
 - Jouer à des jeux hors région.
-- Dumper vos disques de jeu Wii U dans un format qui peut être installé sur votre stockage Wii U interne ou externe.
+- Extraire vos disques de jeu Wii U dans un format qui peut être installé sur votre stockage Wii U interne ou externe.
 
 ### Objectif final
 
