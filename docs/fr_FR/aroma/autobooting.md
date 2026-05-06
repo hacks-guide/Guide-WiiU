@@ -17,7 +17,7 @@ If you don't want to autoboot Aroma, you can skip this step and follow the Setti
 4. Once you are at the Wii U Menu, launch the PayloadLoader Installer.
 5. Press A to select `Check`.
 6. Select `Boot options`.
-7. Vous serez invité à choisir si vous souhaitez modifier le titre qui sera lancé lors du démarrage de la console. Press A to select `Switch to PayloadLoader`.
+7. Vous serez invité à choisir si vous souhaitez modifier le titre qui sera lancé lors du démarrage de la console. Appuyez sur A pour sélectionner `Switch to PayloadLoader` (passer à PayloadLoader).
 8. When the process has finished, press A to shutdown the console.
 9. Le PayloadLoader sera maintenant lancé automatiquement à chaque démarrage de la console.
 
