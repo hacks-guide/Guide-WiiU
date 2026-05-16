@@ -8,7 +8,7 @@ Actuellement, le homebrewing de la Wii U ne vous expose pas à un risque de bann
 
 Les exploits sont des points d'entrée qui permettent de lancer d'autres homebrews. In the main guide, you will use exploits such as the browser exploit (http://wiiuexploit.xyz) and PayloadLoader (Health & Safety exploit). All current exploits load `SD:/wiiu/payload.elf` which takes over further loading of homebrew.
 
-## What are payloads?
+## Que sont les "payloads" (charges utiles) ?
 
 Payloads, which are normally found with the filename `payload.elf`, exist to make it easier to have different exploits load the same next stage, which allows easier updateability. Peu importe quel exploit charge le payload, le résultat est toujours le même.
 

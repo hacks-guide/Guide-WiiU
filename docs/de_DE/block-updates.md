@@ -11,5 +11,5 @@ Derzeit gibt es eine Möglichkeit, Updates für das Wii U-System effektiv zu blo
 
 1. Stelle sicher, dass du die neueste Aroma-Beta hast.
 2. Starte Aroma.
-    - Wenn du den gelben Warnbildschirm erhalten hast, drücke X, um Updates zu blockieren.
-    - Wenn du die Warnung nicht erhalten hast, aber das AutobootMenu sagt: „Updates not blocked!“, drücke und halte + (Plus) **und** - (Minus) zur gleichen Zeit, bis es sagt, dass sie blockiert sind.
+   - Wenn du den gelben Warnbildschirm erhalten hast, drücke X, um Updates zu blockieren.
+   - Wenn du die Warnung nicht erhalten hast, aber das AutobootMenu sagt: „Updates not blocked!“, drücke und halte + (Plus) **und** - (Minus) zur gleichen Zeit, bis es sagt, dass sie blockiert sind.
