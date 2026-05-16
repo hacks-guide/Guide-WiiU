@@ -2,7 +2,7 @@
 
 ## Errori comuni di Haxchi
 
-- **-3:** No SD Card detected. Re-inserisci la scheda SD e riprova. Controlla che la SD sia formattata in FAT32. Se l'errore persiste, prova a soffiare dentro lo slot della SD, visto che potrebbe trovarsi eventuale polvere al suo interno.
+- **-3:** No SD Card detected. Re-inserisci la scheda SD e riprova. Controlla che la SD sia formattata in FAT32. If the error persists, try blowing compressed air into the SD slot as it can get dusty inside. **Do not blow into the SD slot with your mouth, as this can introduce moisture that can DAMAGE the slot.**
 
 - **-4:** SD detected but could not mount. Controlla se la SD abbia lo schema di partizione in formato MBR e non GPT. Controlla anche se ci sono altre partizioni nella SD e uniscile con la partizione principale.
 
@@ -32,10 +32,6 @@ Il motivo è perchè il Wii U non da abbastanza corrente dalla porta USB usando 
 Puoi risolvere questo usando un HDD alimentato o un cavo-Y per connettere l'HDD con due porte USB.
 
 Se l'HDD ha smesso di funzionare per alcuni/tutti i giochi, è lo stesso problema e può essere risolto con gli stessi metodi.
-
-## When extracting some of the files there are duplicates of certain ones called "info.json" & "manifest.install", what do I do with those?
-
-Niente di speciale, puoi lasciarli lì, eliminarli o sostituirli con dei nuovi. Questi file non vengono utilizzati nel processo, quindi cancellandoli o togliendoli dalla directory non cambierà nulla.
 
 ## La mia console all'improvviso ha perso la connettività online e ho un HDD sulla parte superiore della console, che faccio?
 

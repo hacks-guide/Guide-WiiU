@@ -62,7 +62,7 @@ This mode will clear the specified IOSes and channels to reinstall them. Toutes 
 2. Utilisez les flèches pour séléctionner ce que vous souhaitez restaurer.
 3. Appuyez sur Start pour lancer le processus de restauration.
 4. Lorsque l'application a terminé, autorisez l'application à lancer les Paramètres de la console.
-5. Perform a [System Update](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1136/~/how-to-perform-a-system-update) to finish the restoration process.
+5. Effectuez une [mise à jour du système](https://fr-americas-support.nintendo.com/app/answers/detail/a_id/13707/~/comment-effectuer-une-mise-%C3%A0-jour-du-syst%C3%A8me-sur-wii-u) pour terminer le processus de restauration.
 
 ::: tip
 
@@ -85,7 +85,7 @@ This mode will clear the System Menu, Wii Message Board save data, IOSes, and ot
 1. Select `Light mode` on the menu.
 2. Appuyez sur Start pour lancer le processus de restauration.
 3. Lorsque l'application a terminé, autorisez l'application à lancer les Paramètres de la console.
-4. Perform a [System Update](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1136/~/how-to-perform-a-system-update) to finish the restoration process.
+4. Effectuez une [mise à jour du système](https://fr-americas-support.nintendo.com/app/answers/detail/a_id/13707/~/comment-effectuer-une-mise-%C3%A0-jour-du-syst%C3%A8me-sur-wii-u) pour terminer le processus de restauration.
 
 ::: tip
 
@@ -114,7 +114,7 @@ This mode will clear **everything** to reinstall clean versions of the default I
 1. Select `Aggressive mode` on the menu.
 2. Lisez l'avertissement dans son intégralité. Si vous souhaitez poursuivre, appuyez sur Start pour lancer le processus de restauration.
 3. Lorsque l'application a terminé, autorisez l'application à lancer les Paramètres de la console.
-4. Perform a [System Update](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1136/~/how-to-perform-a-system-update) to finish the restoration process.
+4. Effectuez une [mise à jour du système](https://fr-americas-support.nintendo.com/app/answers/detail/a_id/13707/~/comment-effectuer-une-mise-%C3%A0-jour-du-syst%C3%A8me-sur-wii-u) pour terminer le processus de restauration.
 
 ::: tip
 

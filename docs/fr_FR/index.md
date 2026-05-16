@@ -36,22 +36,22 @@ Les Homebrews peuvent être exécutés sur votre Wii U tant que vous avez un moy
 
 ### Custom Firmware
 
-Le Custom Firmware (également connu sous l'abréviation "CFW") vous permet d'utiliser des hacks plus avancés que les homebrews de type "userland" ne peuvent pas faire facilement. Par exemple, installer des mods de jeu en toute simplicité.
-Le CFW peut être configuré sur n'importe quelle console ayant la dernière version en date du logiciel système.
+Le custom firmware (également connu sous l'abréviation "CFW") vous permet d'utiliser des hacks plus avancés que les homebrews de type "userland" ne peuvent pas faire facilement. Par exemple, installer des mods de jeu en toute simplicité.
+Le CFW peut être configuré sur n'importe quelle console ayant la dernière version.
 
 ### Homebrew & CFW Uses
 
 Il vous permet, entre autres, de faire ce qui suit :
 
-- Utiliser des "ROM hacks" pour les jeux que vous possédez.
+- Utiliser des "ROM hacks" pour des jeux que vous possédez.
 - Sauvegarder, modifier et restaurer les données de sauvegarde pour de nombreux jeux.
-- Jouer à des jeux pour les anciennes consoles avec divers émulateurs, en utilisant RetroArch ou d'autres émulateurs autonomes.
+- Jouer à des jeux pour des consoles plus anciennes avec divers émulateurs, en utilisant RetroArch ou d'autres émulateurs autonomes.
 - Jouer à des jeux hors région.
-- Dumper vos disques de jeu Wii U dans un format qui peut être installé sur votre stockage Wii U interne ou externe.
+- Extraire vos disques de jeu Wii U dans un format qui peut être installé sur votre stockage Wii U interne ou externe.
 
 ### Objectif final
 
-Ce guide a pour but final de faire passer une Wii U de "non modifiée" à "modifiée avec un custom firmware".
+Ce guide a pour but final de faire passer une Wii U complètement non modifiée à un custom firmware.
 
 ### Avant de commencer
 
@@ -86,13 +86,13 @@ A 32GB SD Card will be enough for most use-cases. A Micro SD Card in an adapter 
 
 :::
 
-Si tout se passe comme prévu, vous ne perdrez aucune donnée et finirez avec tout ce que vous aviez avant de commencer (jeux, NNID, les données de sauvegarde, etc seront conservés).
+Si tout se passe comme prévu, vous ne perdrez aucune donnée et finirez avec tout ce que vous aviez avant de commencer (les jeux, le NNID, les sauvegardes, etc. seront conservés).
 
 Gardez votre console branchée tout au long du processus pour éviter une perte de données ou des dommages causés par une mise hors tension inattendue.
 
 After following this guide, CFW will be loaded and enabled on boot, unless you choose to not follow the Autobooting Aroma section.
 
-Il est conseillé de lire l'intégralité du guide du début à la fin une ou plusieurs fois avant de commencer à suivre les étapes avec votre console.
+Il est conseillé de lire l'intégralité du guide du début à la fin une ou plusieurs fois avant de commencer à suivre les étapes avec votre système.
 
 ---
 

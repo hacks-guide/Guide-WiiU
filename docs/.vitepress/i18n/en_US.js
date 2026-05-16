@@ -26,7 +26,9 @@ const sidebar_common = {
 	items: [
 		{ text: localeData.pages["about"], link: `/about` },
 		{ text: localeData.pages["donations"], link: `/donations` },
+		{ text: localeData.pages["hashes"], link: `/hashes` },
 		{ text: localeData.pages["privacy-policy"], link: `/privacy-policy` }
+		
 	]
 }
 

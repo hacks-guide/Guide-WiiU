@@ -1,6 +1,6 @@
 # Dumping Wii U Discs
 
-Dumper vos disques vous permet d'installer une copie de votre jeu sur la NAND / un périphérique USB afin que vous puissiez y jouer sans avoir besoin du disque.
+Extraire vos disques vous permet d'installer une copie de votre jeu sur la NAND / un périphérique USB afin que vous puissiez y jouer sans avoir besoin du disque.
 
 ::: tip
 
@@ -38,7 +38,7 @@ In order to install to a USB device, it has to be formatted by the Wii U. Doing 
 
 ### Ce dont vous avez besoin
 
-- Votre carte SD a besoin de suffisamment d'espace pour stocker le jeu que vous voulez dumper.
+- Votre carte SD a besoin de suffisamment d'espace pour stocker le jeu que vous voulez extraire.
 - If wanting to install to a USB, A USB HDD (+ a Y-cable if needed).
 - The latest release of [WUP Installer GX2](https://wiiu.cdn.fortheusers.org/zips/wup_installer_gx2_wuhb.zip).
 - The [wudd](https://wiiu.cdn.fortheusers.org/zips/wudd.zip) homebrew application.

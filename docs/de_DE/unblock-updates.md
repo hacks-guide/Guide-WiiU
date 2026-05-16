@@ -59,8 +59,8 @@ Nutzer mit ISFShax müssen die `wafel_payloader.ipx`/`5payldr.ipx` (falls verwen
 ### DNS-Blockade entfernen
 
 1. Öffne die Systemeinstellungen der Wii U und navigiere zu ‎ ‎
-  `Internet > Internetverbindung einrichten > Verbindungsübersicht >`
-  `Deine WLAN-Verbindung > Einstellungen ändern > DNS` und setze die Option auf `Automatisch beziehen`.
+   `Internet > Internetverbindung einrichten > Verbindungsübersicht >`
+   `Deine WLAN-Verbindung > Einstellungen ändern > DNS` und setze die Option auf `Automatisch beziehen`.
 2. Du blockierst keine System-Updates mehr.
 
 ::::

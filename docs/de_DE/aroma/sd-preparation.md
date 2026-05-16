@@ -9,7 +9,7 @@ Wir werden nun die benötigten Aroma-Dateien auf die SD-Karte platzieren.
 
 ::: warning
 
-Deine SD-Karte muss als FAT32 formatiert werden. Wenn deine SD-Karte nicht als FAT32 formatiert ist, benutze [GUIFormat](http://ridgecrop.co.uk/index.htm?guiformat.htm) mit 32k (32768) Zuweisungsgröße, um sie zu formatieren.\
+Deine SD-Karte muss als FAT32 formatiert werden. Wenn deine SD-Karte nicht als FAT32 formatiert ist, benutze [GUIFormat](http://ridgecrop.co.uk/index.htm?guiformat.htm) mit 32k (32768) Zuweisungsgröße, um sie zu formatieren.  
 Nenne die SD-Karte **nicht** `wiiu` oder sie wird Probleme mit Homebrew verursachen.
 
 :::
@@ -17,13 +17,13 @@ Nenne die SD-Karte **nicht** `wiiu` oder sie wird Probleme mit Homebrew verursac
 ## Anleitung
 
 1. Scrolle auf der [Aroma](https://aroma.foryour.cafe) Seite unten zum **Download** Abschnitt.
- - Lies die Schritte durch und klicke auf die Kontrollkästchen.
-  ![](/assets/img/guide/Aroma_Box.png)
- - Klicke auf `Download Payloads` und `Download Base Aroma`.
-  ![](/assets/img/guide/Aroma_DL.png)
+   - Lies die Schritte durch und klicke auf die Kontrollkästchen.
+     ![](/assets/img/guide/Aroma_Box.png)
+   - Klicke auf `Download Payloads` und `Download Base Aroma`.
+     ![](/assets/img/guide/Aroma_DL.png)
 2. Stecke die SD-Karte deiner Wii U in deinen PC ein.
 3. **Extrahiere** und kopiere den `wiiu` Ordner der beiden gerade heruntergeladenen _`.zip`_ Dateien in das Stammverzeichnis deiner SD-Karte.
- - Die `wiiu` Ordner sollten zusammengeführt werden, falls dies nicht automatisch geschieht.
+   - Die `wiiu` Ordner sollten zusammengeführt werden, falls dies nicht automatisch geschieht.
 
 ::: tip
 
@@ -33,7 +33,7 @@ Wenn dein Computer dich fragt, existierende Dateien auf deiner SD-Karte zu über
 
 ::: tip
 
-Wenn du auf einem Mac-Rechner bist, wähle `Merge` anstatt zu ersetzen. Wenn die Merge-Option nicht sofort angezeigt wird, drücke und halte die `Option`-Taste, während du Dateien in das Stammverzeichnis verschiebst.
+If you're on a Mac machine, extract the second zip in a second finder window and drag the contents into the first window with the first zip's contents. Then when prompted, select `Merge` instead of replace. Wenn die Merge-Option nicht sofort angezeigt wird, drücke und halte die `Option`-Taste, während du Dateien in das Stammverzeichnis verschiebst.
 
 :::
 
