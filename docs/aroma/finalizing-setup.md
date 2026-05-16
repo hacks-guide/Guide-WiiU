@@ -64,4 +64,4 @@ However, if you find the need to boot into Tiramisu, for example, to use a legac
     - To make the console autoboot the Wii U Menu when loading the Tiramisu environment, press Y.
 1. Homebrew Launcher can be loaded by launching the Mii Maker app.
 <br> <br>
-# [Installing ISFShax (optional)](/installing-isfshax.html)
+# [Installing ISFShax (optional/advanced)](/installing-isfshax.html)
