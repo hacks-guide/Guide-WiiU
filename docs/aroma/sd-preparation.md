@@ -17,17 +17,17 @@ Your SD Card will need to be formatted as FAT32. If your SD Card is not formatte
 ## Instructions
 
 1. On the [Aroma](https://aroma.foryour.cafe) site, scroll down to the **Download** section.
-    - Read through the steps and click on the checkboxes.
+    * Read through the steps and click on the checkboxes.
     ![](/assets/img/guide/Aroma_Box.png)
-    - Click on `Download Payloads` and `Download Base Aroma`.
+    * Click on `Download Payloads` and `Download Base Aroma`.
     ![](/assets/img/guide/Aroma_DL.png)
 1. Insert your Wii U's SD Card into your PC.
 1. **Extract** and copy the `wiiu` folder of the two newly downloaded *`.zip`* files to the root of your SD Card.
-    - The `wiiu` folders should be merged if not done automatically.
+    * The `wiiu` folders should be merged if not done automatically.
 
 ::: tip
 
-If your computer asks you to overwrite existing files on your SD Card, you will need to click yes. 
+If your computer asks you to overwrite existing files on your SD Card, you will need to click yes.
 
 :::
 
@@ -37,7 +37,7 @@ If you're on a Mac machine, extract the second zip in a second finder window and
 
 :::
 
-----------
+---
 
 Extracting the contents of the zip to the root is done like so.
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">

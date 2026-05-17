@@ -33,7 +33,6 @@ You can fix this by either using a powered HDD or using a Y-Cable to connect the
 
 If your HDD worked for some time and then stopped working for some games/all games, it is the same issue and can be fixed with the same methods.
 
-
 ## My console suddenly lost online connectivity and I have an HDD sitting on top of the console, what should I do?
 
 The internal antenna may have been influenced by the hard drive magnet.  
