@@ -79,7 +79,7 @@ const themeConfig = {
 
 export default {
 	lang: "de",
-	label: "Deutsche",
+	label: "🇩🇪 Deutsche",
     title: localeData.title,
     description: localeData.description,
     themeConfig: themeConfig

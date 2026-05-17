@@ -23,6 +23,9 @@ export default defineConfig({
     hostname: 'https://wiiu.hacks.guide'
   },
   themeConfig: {
+    outline: {
+      level: 'deep'
+    },
     docFooter: {
       prev: false,
       next: false
@@ -32,6 +35,7 @@ export default defineConfig({
       { icon: 'github', link: 'https://github.com/hacks-guide/Guide-WiiU' }
     ]
   },
+  cleanUrls: true,
   vite: {
     resolve: {
       alias: [
