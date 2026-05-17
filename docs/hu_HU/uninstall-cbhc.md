@@ -14,7 +14,7 @@ Ez az oldal végigvezet a CBHC Wii U-dról eltávolításán.
 3. Válaszd ki a DS Virtual Console játékot, amit szeretnél eltávolítani a CBHC-ból, majd nyomj `A` gombot.
 4. Olvasd el a figyelmeztetéseket és nyomd meg a `B` gombot.
 5. Ellenőrizd, hogy a Wii U-d többé nem autobootol a CBHC-be, a konzol újrabootolásakor.
-6. Ha sem autoboot sem menü képernyő nem jelent meg a konzol bootolásakor, akkor elindíthatod a System Settinges-et ahol a Data Management alatt biztonságosan eltávolíthatod a `DON'T TOUCH ME` alkalmazást.
+6. Ha sem autobootolás, sem menü képernyő nem jelent meg a konzol bootolásakor, elindíthatod a System Settings-et, majd a Data Management alatt biztonságosan eltávolíthatod a `DON'T TOUCH ME` nevü alkalmazást.
 
 ::: tip
 

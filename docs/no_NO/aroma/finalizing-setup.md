@@ -53,13 +53,13 @@ Derimot, hvis du finner ett behov for å fortsatt bruke Tiramisu, for eksempel, 
 
 1. Download the latest files from [Tiramisu for your café](https://tiramisu.foryour.cafe).
 2. Copy the `wiiu` folder to the root of your SD Card.
-    - The folder should merge with the existing `wiiu` folder if not done automatically.
+   - The folder should merge with the existing `wiiu` folder if not done automatically.
 3. Ta SD-kortet ut av PC'en og sett den inn i Wii U konsollen.
 4. Start EnvironmentLoader.
-    - Hvis du autobooter inn i det, kan du gjøre dette ved å holde X inne mens konsollen slår seg på.
-    - Du trenger ikke installere PayloadLoader på nytt hvis du allerede har gjort det med Aroma.
+   - Hvis du autobooter inn i det, kan du gjøre dette ved å holde X inne mens konsollen slår seg på.
+   - Du trenger ikke installere PayloadLoader på nytt hvis du allerede har gjort det med Aroma.
 5. Highlight the entry called `tiramisu` using the D-Pad.
 6. Start Tiramisu ved å trykke A.
 7. Start Wii U Menyen ved å trykke A.
-    - For å få konsollen til å autoboote Wii U Menyen mens den åpner Tiramisu environmentet, trykk Y.
+   - For å få konsollen til å autoboote Wii U Menyen mens den åpner Tiramisu environmentet, trykk Y.
 8. Du kan starte Homebrew Launcher ved å kjøre Mii Maker appen.
