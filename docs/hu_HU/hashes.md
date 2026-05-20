@@ -1,41 +1,41 @@
-# File Hashes
+# Fájl hash-ek
 
-This page provides a list of known file hashes for downloads linked to or hosted on the guide, as well as instructions on how to verify those hashes against your downloaded files. This may help if you find that you are running into unknown issues where a downloaded piece of software is not behaving as you would expect.
+Ez az oldal az ebből az útmutatóból linkelt vagy hosztolt fájlok hashének listáját tartalmazza, valamint lépéseket, hogyan ellenőrizd ezeket a hasheket a letöltött fájljaidon. Ez segíthet abban, hogyha egy ismeretlen hibába ütközöl, amikor a letöltött szoftver nem úgy működik, ahogy elvárt.
 
-## Verifying Hashes
+## Hashek ellenőrzése
 
-### Section I - Requirements
+### I. rész - Követelmények
 
-- A modern web browser, preferably on a desktop OS
-- [Online SHA256 Checksum Tool](https://emn178.github.io/online-tools/sha256_checksum.html)
+- Egy modern web böngésző, lehetőség szerint desktop OS-sel
+- [Online SHA256 ellenőrzőösszeg eszköz](https://emn178.github.io/online-tools/sha256_checksum.html)
 
-### Section II - Instructions
+### II. rész - Lépések
 
 ::: tip
 
-This section uses **wudd** as an example, and should match the SHA256 hash provided below.
+Ez a rész a **wudd**-ot használja példának, és egyeznie kell az SHA256 hash-sel alább.
 
 :::
 
-1. Open the checksum tool provided above in the web browser of your choosing.
+1. Nyisd meg az ellenőrzőösszeg eszközt amit fentebb találhatsz egy számodra megfelelő web böngészőben.
 
-2. On the page, drag and drop the file you are intending to check into the Input box.
+2. Az oldalon húzd be a fájlt ami ellenőrizni szeretnél az Input dobozba.
 
    ![](/assets/img/hash-checker/drag-file.png)
 
-3. Copy the hash in the Output box that was calculated from your file.
+3. Másold a fájlodból készült hasht ki az Output dobozból.
 
    ![](/assets/img/hash-checker/copy-hash.png)
 
-4. On this page, do a `CTRL + F` or applicable key combination to open the Find dialog in your browser. You can copy the hash here, and it should **EXACTLY** match the provided hash of the file you intended to download.
+4. Ezen az oldalon `CTRL + F` billentyűkkel, vagy a megfelelő gombokkal nyisd meg a Keresés ablakot a böngésződben. Ebbe az ablakba beillesztheted a kimásolt hasht és **PONTOS** találatot kell adjon arra a fájlra, amit letölteni akartál.
 
    ![](/assets/img/hash-checker/check-hash.png)
 
-## Hash List (SHA256)
+## Hash lista (SHA256)
 
 ::: info
 
-[**Dumping Wii U Discs**](dump-games)
+[**Wii U lemezek dumpolása**](dump-games)
 
 ---
 
@@ -53,7 +53,7 @@ SHA256: `439E6C647C2218957A86C6D1095C29166F780F4FE55F736EAD69815638965904`
 
 ::: info
 
-[**Finalizing Setup**](aroma/finalizing-setup)
+[**Telepítés véglegesítése**](aroma/finalizing-setup)
 
 ---
 
@@ -101,7 +101,7 @@ SHA256: `81DF9785613EC004500BD038D8401E17D49B8F0D275ED237DA4B03A1F69FC9D8`
 
 ::: info
 
-[**Recover a vWii IOS/Channel**](recover-vwii-ioses-channels)
+[**Egy vWii IOS/Channel helyreállítása**](recover-vwii-ioses-channels)
 
 ---
 
@@ -113,7 +113,7 @@ SHA256: `E5B640FA855B87950BBF5D7166EB0E53684A67778FDC184E095B16BC702C782E`
 
 ::: info
 
-[**SD Preparation**](aroma/sd-preparation)
+[**SD kártya előkészítés**](aroma/sd-preparation)
 
 ---
 
@@ -131,7 +131,7 @@ SHA256: `234EF92DA074D8B7153D186107FB2F7F2908681E69D2E48ADC75A64B6D189E8F`
 
 ::: info
 
-[**Uninstall CBHC**](uninstall-cbhc)
+[**CBHC eltávolítása**](uninstall-cbhc)
 
 ---
 
@@ -149,7 +149,7 @@ SHA256: `45A6FFB6E73DD8C60E7921E5D2D13D797876445C44D99B4B4649C47AE3EFFBAB`
 
 ::: info
 
-[**Uninstall Indexiine**](uninstall-indexiine)
+[**Indexiine eltávolítása**](uninstall-indexiine)
 
 ---
 
@@ -185,7 +185,7 @@ SHA256: `C0369B21E767209E209D74D96F4C1ACC3A81EB930E8265A7C5C80B28385EB54F`
 
 ::: info
 
-[**Uninstall PayloadLoader**](uninstall-payloadloader)
+[**PayloadLoader eltávolítása**](uninstall-payloadloader)
 
 ---
 
