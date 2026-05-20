@@ -24,7 +24,7 @@ Ha már be vagy bootolva az Aromába, akkor ugorhatsz az 5. lépésre.
 :::
 
 1. Vedd ki az SD kártyát a számítógépedből, és dugd be a Wii U konzolodba.
-2. Execute the web browser exploit as [previously explained](browser-exploit) **with the exception that you hold the X button instead of the B button**. This will open the Environment Loader menu.
+2. Futtasd le a web browser exploit-ot, ahogy az [korábban ismertetésre került](browser-exploit), **azzal a kivétellel, hogy az X gombot tartod nyomva a B helyett**. Ez megnyitja az Environment Loader menüt.
 3. Nyomj A-t az `aroma` környezet indításához.
    ![](/assets/img/guide/EL.png)
    - Egy figyelmeztető üzentet fogsz kapni az update mappa létezéséről. **Ez normális.** Nyomj X-et a frissítések blokkolásához.
