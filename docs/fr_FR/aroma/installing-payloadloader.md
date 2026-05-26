@@ -3,7 +3,7 @@ prev: true
 next: true
 ---
 
-# Installing PayloadLoader
+# Installer PayloadLoader
 
 Now that you have your NAND backup in case anything goes wrong later, you can install the PayloadLoader on your system.
 
@@ -25,11 +25,11 @@ If you're already booted into Aroma, you may skip to step 5.
 
 1. Sortez la carte SD de votre PC et insérez-la dans votre console Wii U.
 2. Execute the web browser exploit as [previously explained](browser-exploit) **with the exception that you hold the X button instead of the B button**. This will open the Environment Loader menu.
-3. Press A to launch the `aroma` environment.
+3. Appuyez sur A pour lancer l'environnement `aroma`.
    ![](/assets/img/guide/EL.png)
    - You will get a warning message about the update folder existing. **This is normal.** Press X to block updates.
      ![](/assets/img/guide/Warn.png)
-4. Press A to launch the Wii U Menu.
+4. Appuyez sur A pour lancer le menu Wii U.
    ![](/assets/img/guide/ABM.png)
 5. At the Wii U Menu, look for the newly appeared `PayloadLoader Installer` title (the rocket coming out of a box) and launch it.
    ![](/assets/img/guide/PLLI.png)
