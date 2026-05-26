@@ -1,29 +1,29 @@
-# Common Issues & Fixes
+# Problèmes courants et solutions
 
 ## Les erreurs courantes de Haxchi
 
-- **-3:** No SD Card detected. Réinsérez la carte SD et essayez à nouveau. Assurez-vous que la carte SD est au format FAT32. If the error persists, try blowing compressed air into the SD slot as it can get dusty inside. **Do not blow into the SD slot with your mouth, as this can introduce moisture that can DAMAGE the slot.**
+- **-3:** Aucune carte SD détectée. Réinsérez la carte SD et essayez à nouveau. Assurez-vous que la carte SD est au format FAT32. Si l'erreur persiste, essayez de souffler de l 'air comprimé dans l'emplacement SD car il peut devenir poussiéreux. **Ne soufflez pas dans l'emplacement SD avec votre bouche, car cela peut introduire de l'humidité qui peut ENDOMMAGER l'emplacement.**
 
-- **-4:** SD detected but could not mount. Vérifiez si la SD utilise le MBR et non le GPT. Vérifiez également s'il existe d'autres partitions sur la carte SD et fusionnez-les en une seule partition primaire.
+- **-4:** SD détectée mais n'a pas pu être montée. Vérifiez si la SD utilise le MBR et non le GPT. Vérifiez également s'il existe d'autres partitions sur la carte SD et fusionnez-les en une seule partition primaire.
 
-- **-5:** Missing files on the SD. Check to see if your SD has Homebrew Launcher located in <code>/wiiu<wbr>/apps<wbr>/homebrew_launcher<wbr>/homebrew_launcher.elf</code>.
+- **-5:** Fichiers manquants sur la SD. Vérifiez si votre carte SD a le Homebrew Launcher situé à <code>/wiiu<wbr>/apps<wbr>/homebrew_launcher<wbr>/homebrew_launcher.elf</code>.
 
 ## Erreurs du navigateur
 
-- **FSGetMountSource failed:** Same as -3 above, means no SD Card detected. Réinsérez la carte SD et réessayez. This could also mean that the SD card is locked (Slider is down instead of up) or the SD card label is "WIIU", which is stated in the guide causes conflict. If it's not any of these issues, refer to the last suggestion from -3.
+- **FSGetMountSource failed:** Identique au -3 ci-dessus, signifie que la carte SD n'est pas détectée. Réinsérez la carte SD et réessayez. Cela pourrait également signifier que la carte SD est verrouillée (le loquet de verrouillage est en bas au lieu d'être en haut) ou que la carte SD est nommée "WIIU", ce qui est indiqué dans le guide que cela provoque des conflits. Si ce n'est pas un de ces problèmes, reportez-vous à la dernière suggestion de -3.
 
-- **FSOpenFile failed [...] payload.elf:** Missing payload file on SD. Make sure you have payload.elf in the wiiu folder, and the wiiu folder on the root.
+- **FSOpenFile failed [...] payload.elf:** Fichier payload manquant sur la SD. Vérifiez que vous avez payload.elf dans le dossier wiiu, et le dossier wiiu à la racine.
 
-- **FSOpenFile failed:** Missing `homebrew_launcher` on SD. Make sure you have `homebrew_launcher.elf` in the <code>/wiiu<wbr>/apps<wbr>/homebrew_launcher</code> folder.
+- **FSOpenFile failed:** `homebrew_launcher` manquant sur la SD. Assurez-vous que vous avez `homebrew_launcher.elf` dans le dossier <code>/wiiu<wbr>/apps<wbr>/homebrew_launcher</code>.
 
-- **SD Mount Failed:** Similar to -4, the console recognizes the SD card but could not mount it. Make sure it is formatted properly, and it is not damaged. Also, your SD card is more compatible with reputable brands (i.e. SanDisk, Samsung, Lexar, etc.) and less likely to have issues.
+- **SD Mount Failed:** Similaire à -4, la console reconnaît la carte SD mais n'a pas pu la monter. Assurez-vous qu'elle est correctement formatée et qu'elle n'est pas endommagée. De plus, votre carte SD est plus susceptible d'être compatible avec des marques réputées (par exemple. SanDisk, Samsung, Lexar, etc.) et a moins de chances d'avoir des problèmes.
 
 ## Le menu Gestion des données demande de supprimer les données inutiles, qu'est-ce que cela signifie ?
 
 Il s'agit des fichiers restants provenant d'installations incomplètes. Choisissez toujours Oui pour supprimer ces données, car elles prennent de la place inutilement.
-If it ever stays stuck on deleting the data in an infinite loop, you can manually delete the data yourself.  
-Use FTPiiU Everywhere and browse to `/storage_mlc/usr/import` then delete any files in the folder if any exists. C'est là que se trouvent les installations partielles lorsque des installations échouent. It'll be `/storage_usb/usr/import` if installed to a USB.  
-The `import` folder should always be kept empty.
+Si cela reste bloqué sur la suppression des données dans une boucle infinie, vous pouvez supprimer manuellement les données vous-même.  
+Utilisez FTPiiU Everywhere et naviguez vers `/storage_mlc/usr/import` puis supprimez tous les fichiers dans le dossier s'il en existe. C'est là que se trouvent les installations partielles lorsque des installations échouent. Ce sera `/storage_usb/usr/import` si installé vers un USB.  
+Le dossier `import` devrait toujours être gardé vide.
 
 ## Mon disque dur ne fonctionne pas ou fait un bruit de clic bizarre, que dois-je faire ?
 
@@ -35,5 +35,5 @@ Si votre disque dur a fonctionné pendant un certain temps puis a cessé de fonc
 
 ## Ma console a soudainement perdu sa connectivité en ligne et j'ai un disque dur posé sur le dessus de la console, que dois-je faire ?
 
-The internal antenna may have been influenced by the hard drive magnet.  
-You can move the HDD to a different position atop the Wii U, or move it off the Wii U entirely.
+L'antenne interne pourrait avoir été influencée par l'aimant du disque dur.  
+Vous pouvez déplacer le disque dur à une position différente sur le dessus de la Wii U, ou l'enlever complètement du dessus de la Wii U.
