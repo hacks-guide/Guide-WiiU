@@ -1,57 +1,57 @@
-# Frequently Asked Questions
+# Foire aux questions
 
-## Does homebrew have any risks?
+## Le homebrew comporte-t-il des risques ?
 
 Actuellement, le homebrewing de la Wii U ne vous expose pas à un risque de bannissement par Nintendo, à moins que vous ne trichiez dans les jeux en ligne ou que vous ne fraudiez sur l'eShop. Cependant, vous devez toujours faire attention au lancement de homebrew téléchargés, surtout si vous ne faites pas confiance à la source, car le homebrew peut potentiellement endommager votre console !
 
-## What are exploits?
+## Que sont les exploits ?
 
-Les exploits sont des points d'entrée qui permettent de lancer d'autres homebrews. In the main guide, you will use exploits such as the browser exploit (http://wiiuexploit.xyz) and PayloadLoader (Health & Safety exploit). All current exploits load `SD:/wiiu/payload.elf` which takes over further loading of homebrew.
+Les exploits sont des points d'entrée qui permettent de lancer d'autres homebrews. Dans le guide principal, vous utiliserez des exploits tels que l'exploit du navigateur (http://wiiuexploit.xyz) et PayloadLoader (exploit de Santé et sécurité). Tous les exploits actuels chargent `SD:/wiiu/payload.elf`qui prend le contrôle de tout lancement ultérieur de homebrew.
 
 ## Que sont les "payloads" (charges utiles) ?
 
-Payloads, which are normally found with the filename `payload.elf`, exist to make it easier to have different exploits load the same next stage, which allows easier updateability. Peu importe quel exploit charge le payload, le résultat est toujours le même.
+Les payloads, qui sont normalement trouvés avec le nom de fichier `payload.elf`, existent pour faciliter le chargement par différents exploits du même "stage" suivant, ce qui facilite les mises à jour. Peu importe quel exploit charge le payload, le résultat est toujours le même.
 
-Multiple payloads can be switched between using the PayloadLoaderPayload.
+Vous pouvez choisir entre plusieurs payloads en utilisant le PayloadLoaderPayload.
 
-The payload used in the main guide is CustomRPXLoader which loads `SD:/wiiu/payload.rpx` and the `payload.rpx` used in the guide is EnvironmentLoader, which allows you to load different environments.
+Le payload utilisé dans le guide principal est CustomRPXLoader qui charge `SD:/wiiu/payload.rpx` et le `payload.rpx` utilisé dans le guide est EnvironmentLoader, qui vous permet de charger différents environnements.
 
-## What are environments?
+## Que sont les environnements ?
 
-An environment is a collection of "setup modules", which will be run in a certain order when launching the environment. Such environments are Aroma and Tiramisu.
+Un environnement est un ensemble de "modules d'installation" qui seront exécutés dans un ordre défini au lancement de l'environnement. De tels environnements sont Aroma et Tiramisu.
 
-Setup modules are small pieces of homebrew/code that are executed once to set up an environment.
+Les modules d'installation sont de petits homebrew/morceaux de code qui sont exécutés une fois pour mettre en place un environnement.
 
-## How to Delete Update Folder to Block Updates on Wii U
+## Comment supprimer le dossier de mise à jour pour bloquer les mises à jour sur Wii U
 
-If you want to delete the update folder to block updates, see its tab in the [Blocking Updates guide](block-updates).
+Si vous voulez supprimer le dossier de mise à jour pour bloquer les mises à jour, consultez son onglet dans le [guide Bloquer les mises à jour](block-updates).
 
-## What SD Card size is recommended?
+## Quelle est la taille de carte SD recommandée ?
 
-- **Installing game backups:** 32GB (Smaller size may be used, but certain titles are 20GB in size)
-- **Running game mods:** 8GB (FAT32 USB drive may be used as well for mods)
-- **Only running homebrew apps:** Any size.
+- **Installer des copies de jeux :** 32 Go (une plus petite taille peut être utilisée, mais certains titres ont une taille de 20 Go)
+- **Faire tourner des mods de jeux :** 8 Go (Un lecteur USB FAT32 peut aussi être utilisé pour les mods)
+- **Ne faire tourner que des applications homebrew :** N'importe quelle taille.
 
-**Recommended brands:** SanDisk, Samsung or PNY
+**Marques recommandées :** Sandisk, Samsung ou PNY
 
 ::: tip
 
-Note: Avoid class 4 SD Cards, and avoid eBay!
+Note : Évitez les cartes SD de classe 4, et évitez eBay !
 
 :::
 
-## Can I install homebrew on Wii U with a USB instead of SD Card?
+## Puis-je installer des homebrew sur la Wii U avec une clé USB au lieu d'une carte SD ?
 
-No, you must have an SD Card for a first time setup. A USB can then be used to install game backups, Virtual Console injects, etc, but not to store homebrew applications which are required to set everything up.
+Non, vous devez avoir une carte SD pour la première installation. Une clé USB peut ensuite être utilisée pour installer des backups de jeu, des injections de Console Virtuelle, etc, mais pas pour stocker les applications homebrew qui sont nécessaires pour tout configurer.
 
-## When extracting some of the files there are duplicates of certain ones called "info.json" & "manifest.install", what do I do with those?
+## Lors de l'extraction de certain des fichiers, il y a des doublons de certains d'entre eux appelés "info.json" et "manifest.install", qu'est-ce que j'en fais ?
 
-Rien de spécial, vous pouvez les laisser là, les supprimer ou les remplacer par ceux que vous essayez de copier. Those files are not used in the process, and therefore, won't have any impact by being or not being there.
+Rien de spécial, vous pouvez les laisser là, les supprimer ou les remplacer par ceux que vous essayez de copier. Ces fichiers ne sont pas utilisés dans le processus, par conséquent, n'auront pas d'impact en étant ou en n'étant pas là.
 
-## What is a Wii U formatted USB drive?
+## Qu'est-ce qu'une clé USB formatée pour la Wii U ?
 
-It's a USB drive that has been formatted by a Wii U console to its proprietary format.
+C'est un lecteur USB qui a été formaté par une console Wii U vers son format propriétaire.
 
-A Wii U formatted USB drive _**cannot be read by any other devices than the Wii U that originally formatted it.**_
+Un lecteur USB formaté par une Wii U **ne peut pas être lu par aucun autre appareil que la Wii U qui l'a formaté à l'origine.**\*
 
-If you ever want to use it with another Wii U console or any other devices, you will have to reformat it.
+Si vous voulez l'utiliser un jour avec une autre console Wii U ou d'autres appareils, vous devrez le reformater.
