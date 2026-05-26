@@ -1,4 +1,4 @@
-# Uninstall CBHC
+# Désinstaller CBHC
 
 Cette page vous guidera tout au long du processus de désinstallation de CBHC de votre Wii U.
 
