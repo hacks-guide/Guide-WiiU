@@ -1,4 +1,4 @@
-# Dumping Wii U Discs
+# Extraire des disques Wii U
 
 Extraire vos disques vous permet d'installer une copie de votre jeu sur la NAND / un périphérique USB afin que vous puissiez y jouer sans avoir besoin du disque.
 
