@@ -2,7 +2,7 @@
 prev: true
 ---
 
-# Finalizing Setup
+# Finaliser l'installation
 
 Now that PayloadLoader, Environment Loader and Aroma are installed, we are going to finalize the setup.
 
@@ -54,7 +54,7 @@ However, if you find the need to boot into Tiramisu, for example, to use a legac
 1. Download the latest files from [Tiramisu for your café](https://tiramisu.foryour.cafe).
 2. Copy the `wiiu` folder to the root of your SD Card.
    - The folder should merge with the existing `wiiu` folder if not done automatically.
-3. Take the SD Card out of your computer and plug it into your Wii U console.
+3. Retirez la carte SD de votre ordinateur et insérez-la dans votre console Wii U.
 4. Start the EnvironmentLoader.
    - If you're autobooting into it, this can be done by powering on your console and holding X.
    - You do not need to reinstall the PayloadLoader if you already did so with Aroma.
