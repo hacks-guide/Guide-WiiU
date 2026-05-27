@@ -90,11 +90,11 @@ Pour pouvoir installer sur un périphérique USB, ce dernier doit être formaté
 
 ::: tip
 
-If your disc game had DLC or updates installed, you will need to transfer the files over to your USB device. You can do this using the Wii U's data management.
+Si votre disque de jeu avait des DLC ou des mises à jour installés, vous devrez transférer les fichiers vers votre périphérique USB. Vous pouvez le faire en utilisant le menu Gestion des données de la Wii U.
 
 :::
 
-1. Power on your Wii U
+1. Allumez votre Wii U
 2. Ouvrez les Paramètres de la console de la Wii U.
-3. Navigate to `Data Management > Copy/Move/Delete Data > System Memory > Move Items (X)`.
-4. Select your game and move the update and DLC data to the USB device.
+3. Naviguez vers `Gestion des données > Copier ou effacer des données > Mémoire de la console > Déplacer des données (X)`.
+4. Sélectionnez votre jeu et déplacez les données de mise à jour et de DLC vers le périphérique USB.
