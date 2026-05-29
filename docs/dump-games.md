@@ -54,7 +54,7 @@ In order to install to a USB device, it has to be formatted by the Wii U. Doing 
 1. Select the `Game` partition to start dumping.
 1. When finished, exit wudd to the Wii U Menu.
 1. Open the Wii U Menu and then the WUP Installer GX2 app.
-1. Select your game (`GMXXXXXXXXXXXXXXXX`)
+1. Select your game (`WUP-X-XXXX: GMXXXXXXXXXXXXXXXX`)
 1. If you don't want to copy it to the PC later for safekeeping, select `Del. after Install`
 1. Press `Install` and confirm with `Yes`.
 1. Choose 'USB' to install to USB and 'NAND' to install to NAND.
