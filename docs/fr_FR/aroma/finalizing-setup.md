@@ -49,7 +49,7 @@ Tiramisu is now archived, and was succeeded by Aroma and considered outdated. No
 
 :::
 
-However, if you find the need to boot into Tiramisu, for example, to use a legacy Homebrew app, do the following:
+Cependant, si vous trouvez le besoin de démarrer dans Tiramisu, par exemple, pour utiliser une ancienne application Homebrew, faites ce qui suit :
 
 1. Download the latest files from [Tiramisu for your café](https://tiramisu.foryour.cafe).
 2. Copy the `wiiu` folder to the root of your SD Card.
