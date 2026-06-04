@@ -46,7 +46,7 @@ Différentes options vous seront proposées. It is recommended to first attempt 
 
 ::: tip
 
-This mode will clear the specified IOSes and channels to reinstall them. Toutes les autres données (y compris les cIOS) seront conservé·e·s.
+This mode will clear the specified IOSes and channels to reinstall them. Toutes les autres données (y compris les cIOS) seront conservées.
 
 :::
 
