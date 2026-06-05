@@ -24,7 +24,7 @@ Wenn du bereits in Aroma gestartet bist, kannst du zu Schritt 5 überspringen.
 :::
 
 1. Entferne die SD-Karte von deinem PC und stecke sie in deine Wii U ein.
-2. Führe den Browser-Exploit wie [zuvor erklärt](browser-exploit) aus, aber diesmal musst du den X-Knopf gedrückt halten, um das Environment Loader-Menü zu öffnen.
+2. Execute the web browser exploit as [previously explained](browser-exploit) **with the exception that you hold the X button instead of the B button**. This will open the Environment Loader menu.
 3. Drücke A, um das `aroma`-Environment zu starten.
    ![](/assets/img/guide/EL.png)
    - Du wirst eine Warnmeldung über den vorhandenen Update-Ordner erhalten. **Das ist normal.** Drücke X, um Updates zu blockieren.

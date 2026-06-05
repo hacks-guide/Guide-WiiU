@@ -24,7 +24,7 @@ If you're already booted into Aroma, you may skip to step 5.
 :::
 
 1. Ta SD-kortet ut av PCen og sett det inn i Wii U konsollen.
-2. Kjør browser exploiten som [tidligere forklart](browser-exploit) men denne gangen, må du holde X knappen inne for å åpne Environment Loader menu.
+2. Execute the web browser exploit as [previously explained](browser-exploit) **with the exception that you hold the X button instead of the B button**. This will open the Environment Loader menu.
 3. Trykk A for å starte `aroma` environmentet.
    ![](/assets/img/guide/EL.png)
    - Du vil få en advarsel om at update mappen eksisterer. **Dette er normalt.** Trykk X for å blokkere oppdateringer.

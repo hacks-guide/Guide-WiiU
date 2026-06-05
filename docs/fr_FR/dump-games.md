@@ -1,100 +1,100 @@
-# Dumping Wii U Discs
+# Extraire des disques Wii U
 
 Extraire vos disques vous permet d'installer une copie de votre jeu sur la NAND / un périphérique USB afin que vous puissiez y jouer sans avoir besoin du disque.
 
 ::: tip
 
-Dumping and installing games requires a working Homebrew setup, so make sure to finish the main guide on installing CFW first before following this.
+L'extraction et l'installation des jeux nécessite une installation Homebrew fonctionnelle, donc assurez-vous de terminer le guide principal sur l'installation d'un CFW d'abord avant de suivre celui-ci.
 
 :::
 
 ::: danger
 
-It is **ILLEGAL** to share the files dumped with this guide.
+Il est **ILLÉGAL** de partager les fichiers extraits avec ce guide.
 
-If you intend to use this guide to share your dumped games, don't.
-
-:::
-
-## Dumping and Installing Wii U Discs
-
-::: tip
-
-Installing a game to the system memory (NAND) is not recommended as it's limited to either 8GB or 32GB depending on your model, making you run out of space pretty quickly if you want to install multiple games.
+Si vous comptez utiliser ce guide pour partager vos jeux extraits, ne faites pas ça.
 
 :::
 
+## Extraire et installer des disques Wii U
+
 ::: tip
 
-When installing a game to a USB device, we recommend that you use an HDD and not a flash drive, as those are not optimized for constant reading and writing, therefore making them fail quickly. Si votre disque dur n'est pas alimenté par une source externe, vous aurez besoin d'un câble en Y pour le connecter à deux ports USB sur la Wii U.
+Installer un jeu sur la mémoire de la console (NAND) n'est pas recommandé car elle est limitée soit à 8 Go ou 32 Go en fonction de votre modèle, ce qui vous fera tomber à court d'espace assez rapidement si vous souhaitez installer plusieurs jeux.
+
+:::
+
+::: tip
+
+Lors de l'installation d'un jeu sur un périphérique USB, nous recommandons que vous utilisiez un disque dur et pas une clé USB, car celles-ci ne sont pas optimisées pour une lecture et écriture en permanence, les faisant tomber en panne rapidement. Si votre disque dur n'est pas alimenté par une source externe, vous aurez besoin d'un câble en Y pour le connecter à deux ports USB sur la Wii U.
 
 :::
 
 ::: danger
 
-In order to install to a USB device, it has to be formatted by the Wii U. Doing this will erase (delete) all contents (documents, pictures, videos, PC data) off of it, and prevent it from being used on another system unless you reformat it. This _does_ include the vWii, meaning you will not be able to run Wii and GameCube disc images off the USB using USB loaders. To format, plug your USB HDD into the Wii U, power on your Wii U, your Wii U will prompt you to format your HDD. Confirm with Yes.
+Pour pouvoir installer sur un périphérique USB, ce dernier doit être formaté par la Wii U. Faire ceci en effacera (supprimera) tout le contenu (documents, images, vidéos, données de PC), et l'empêchera d'être réutilisé sur un autre système à moins que vous ne le reformatiez. Cela _inclut_ la vWII, ce qui signifie que vous ne pourrez pas lancer des images de disque Wii et GameCube depuis l'USB en utilisant des lanceurs USB. Pour formater, branchez votre disque dur USB dans la Wii U, allumez votre Wii U, votre Wii U vous invitera à formater votre disque dur. Confirmez avec Oui.
 
 :::
 
 ### Ce dont vous avez besoin
 
 - Votre carte SD a besoin de suffisamment d'espace pour stocker le jeu que vous voulez extraire.
-- If wanting to install to a USB, A USB HDD (+ a Y-cable if needed).
-- The latest release of [WUP Installer GX2](https://wiiu.cdn.fortheusers.org/zips/wup_installer_gx2_wuhb.zip).
-- The [wudd](https://wiiu.cdn.fortheusers.org/zips/wudd.zip) homebrew application.
+- Si vous voulez l'installer sur un périphérique USB, UN disque dur USB (+ un câble en Y si nécessaire).
+- La dernière version de [WUP Installer GX2](https://wiiu.cdn.fortheusers.org/zips/wup_installer_gx2_wuhb.zip).
+- L'application homebrew [wudd](https://wiiu.cdn.fortheusers.org/zips/wudd.zip).
 
 ### Instructions
 
-1. Copy the contents of the `wup_installer_gx2_wuhb.zip` file to the root of your SD Card.
-2. Copy the contents of the newly downloaded wudd `.zip` file to the root of your SD Card.
-3. Take the SD Card out of your PC and insert it into your Wii U.
-4. Power on your Wii U and boot into Aroma.
-5. Launch the Wii U Menu and start the wudd app.
-6. Select `Dump partition as .app`
-7. Select the `Game` partition to start dumping.
-8. When finished, exit wudd to the Wii U Menu.
-9. Insert the SD Card into your computer.
-10. Copy the `GMXXXXXXXXXXXXXXXX` folder from `sd:/wudump/WUP-X-XXXX` to the `install` folder on the root of your SD Card.
-    - WUDD does not create an install folder by default. You have to create it.
-11. Eject and insert the SD Card into your Wii U.
-12. Open the Wii U Menu and then the WUP Installer GX2 app.
-13. Select your game (`GMXXXXXXXXXXXXXXXX`), press `Install` and confirm with `Yes`.
-14. Choose 'USB' to install to USB and 'NAND' to install to NAND
-15. Exit the WUP Installer GX2 to the Wii U Menu.
-16. You should see your game installed, ready to be played.
-17. Take the SD Card out of your Wii U and plug it into your PC.
-18. Delete the `GMXXXXXXXXXXXXXXXX` folder in the `install` directory on your SD Card to free up space.
+1. Copiez le contenu du fichier `wup_installer_gx2_wuhb.zip` vers la racine de votre carte SD.
+2. Copiez le contenu du fichier `.zip` de wudd récemment téléchargé vers la racine de votre carte SD.
+3. Retirez la carte SD de votre PC et insérez-la dans votre Wii U.
+4. Allumez votre Wii U et démarrez sur Aroma.
+5. Lancez le menu Wii U et démarrez l'appli wudd.
+6. Sélectionnez `Dump partition as .app`
+7. Sélectionnez la partition `Game` pour commencer l'extraction.
+8. Lorsque c'est terminé, quittez wudd vers le menu Wii U.
+9. Insérez votre carte SD dans votre ordinateur.
+10. Copiez le dossier `GMXXXXXXXXXXXXXXXX` depuis `sd:/wudump/WUP-X-XXXX` vers le dossier `install` à la racine de votre carte SD.
+    - WUDD ne crée pas un dossier d'installation par défaut. Vous devez le créer.
+11. Éjectez et insérez la carte SD dans votre Wii U.
+12. Ouvrez le menu Wii U et l'appli WUP Installer GX2.
+13. Sélectionnez votre jeu (`GMXXXXXXXXXXXXXXXX`), appuyez sur `Install` et confirmez avec `Yes`.
+14. Choisissez 'USB' pour l'installer sur le péripérique USB et 'NAND' pour l'installer sur la NAND
+15. Quittez WUP Installer GX2 vers le menu Wii U.
+16. Vous devriez voir votre jeu installé, prêt à être joué.
+17. Retirez la carte SD de votre Wii U et insérez-la dans votre PC.
+18. Supprimez le dossier `GMXXXXXXXXXXXXXXXX` dans le répertoire `install` sur votre carte SD pour libérer de l'espace.
 
-## Moving Games To USB
+## Déplacement de jeux vers l'USB
 
 ::: tip
 
-If you don't want to keep the game installed on NAND, you can use the Wii U's data management to move the game to a USB device.
+Si vous ne souhaitez pas laisser le jeu installé sur la NAND, vous pouvez utiliser la gestion des données de la Wii U pour déplacer le jeu vers un périphérique USB.
 
 :::
 
 ::: danger
 
-In order to move your game to a USB device, it has to be formatted by the Wii U. Doing this will erase all contents of it, and prevent it from being used on another system unless you reformat it.
+Pour pouvoir installer sur un périphérique USB, ce dernier doit être formaté par la Wii U. Faire ceci en effacera tout le contenu, et l'empêchera d'être utilisé sur un autre système à moins que vous ne le reformatiez.
 
 :::
 
-1. Plug your USB device into the Wii U.
+1. Branchez votre périphérique USB dans la Wii U.
 2. Allumez votre Wii U.
-3. Your Wii U will prompt you to format your USB device. Confirm with Yes.
-4. Open the Wii U's System Settings.
-5. Navigate to `Data Management > Copy/Move/Delete Data > System Memory > Move Items (X)`
-6. Select the game and move all data (including updates and DLC if any are installed) to your USB device.
+3. Votre Wii U vous demandera de formater votre périphérique USB. Confirmez avec Oui.
+4. Ouvrez les Paramètres de la console de la Wii U.
+5. Naviguez vers `Gestion des données > Copier ou effacer des données > Mémoire de la console > Déplacer des données (X)`
+6. Sélectionnez le jeu et déplacez toutes les données (y compris les mises à jour et les DLC s'il y en a d'installés) vers votre périphérique USB.
 
-## Move Updates To USB
+## Déplacer les mises à jour vers l'USB
 
 ::: tip
 
-If your disc game had DLC or updates installed, you will need to transfer the files over to your USB device. You can do this using the Wii U's data management.
+Si votre disque de jeu avait des DLC ou des mises à jour installés, vous devrez transférer les fichiers vers votre périphérique USB. Vous pouvez le faire en utilisant le menu Gestion des données de la Wii U.
 
 :::
 
-1. Power on your Wii U
-2. Open the Wii U's System Settings.
-3. Navigate to `Data Management > Copy/Move/Delete Data > System Memory > Move Items (X)`.
-4. Select your game and move the update and DLC data to the USB device.
+1. Allumez votre Wii U
+2. Ouvrez les Paramètres de la console de la Wii U.
+3. Naviguez vers `Gestion des données > Copier ou effacer des données > Mémoire de la console > Déplacer des données (X)`.
+4. Sélectionnez votre jeu et déplacez les données de mise à jour et de DLC vers le périphérique USB.

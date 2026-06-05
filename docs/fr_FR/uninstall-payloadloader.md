@@ -1,34 +1,34 @@
-# Uninstall PayloadLoader
+# Désinstaller PayloadLoader
 
-This page will guide through the process of uninstalling the PayloadLoader from your Wii U.
+Cette page vous guidera tout au long du processus de désinstallation de PayloadLoader de votre Wii U.
 
 ::: danger
 
-A factory reset **won't** uninstall the injected PayloadLoader. To fully uninstall it, follow this guide.
+Une réinitialisation d'usine ne désinstallera **pas** le PayloadLoader injecté. Pour le désinstaller complètement, suivez ce guide.
 
 :::
 
 ## Ce dont vous avez besoin
 
-- The latest files from [Aroma for your café](https://aroma.foryour.cafe).
-  1. Scroll down to the **Download** section.
-  2. Read through the steps and click on the checkboxes.
-  3. Click on `Download Payloads` and `Download Base Aroma`.
+- Les derniers fichiers depuis [[Aroma for your café]](https://aroma.foryour.cafe).
+  1. Faites défiler vers le bas jusqu'à la section **Download**.
+  2. Lisez les étapes et cliquez sur les cases à cocher.
+  3. Cliquez sur `Download Payloads` et `Download Base Aroma`.
 
-## Undo Autobooting into PayloadLoader
+## Défaire l'autodémarrage vers PayloadLoader
 
-1. Launch the PayloadLoader Installer from the Wii U Menu.
-2. Press A to select `Check`.
-3. Select `Boot options`.
-4. Vous serez invité à choisir si vous souhaitez modifier le titre qui sera lancé lors du démarrage de la console. Press A to select `Switch back to Wii U Menu`.
+1. Ouvrez le PayloadLoader Installer à partir du menu Wii U.
+2. Appuyez sur A pour sélectionner `Check`.
+3. Sélectionnez `Boot options`.
+4. Vous serez invité à choisir si vous souhaitez modifier le titre qui sera lancé lors du démarrage de la console. Appuyez sur A pour sélectionner `Switch back to Wii U Menu`.
 5. Une fois le processus terminé, appuyez sur A pour éteindre la console.
-6. The console will now boot again into the Wii U Menu. The PayloadLoader can still be launched by launching the Health & Safety Application.
+6. La console va maintenant redémarrer dans le Menu Wii U. Le PayloadLoader peut toujours être lancé en lançant l'application Santé et sécurité.
 
-## Uninstall PayloadLoader
+## Désinstaller PayloadLoader
 
-1. Launch the Health & Safety Application and boot into Aroma.
-2. Launch the PayloadLoader Installer from the Wii U Menu.
-3. Press A to select `Check`.
-4. Select `Remove`.
-5. You will be asked if you really want to remove the PayloadLoader. Select `Remove` again.
+1. Lancez l'application Santé et sécurité et démarrez dans Aroma.
+2. Ouvrez le PayloadLoader Installer à partir du menu Wii U.
+3. Appuyez sur A pour sélectionner `Check`.
+4. Sélectionnez `Remove`.
+5. Il vous sera demandé si vous voulez vraiment retirer le PayloadLoader. Sélectionnez `Remove` à nouveau.
 6. Une fois le processus terminé, appuyez sur A pour éteindre la console.

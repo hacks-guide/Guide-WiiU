@@ -1,28 +1,28 @@
-# Uninstall Indexiine
+# Désinstaller Indexiine
 
 Cette page vous guidera tout au long du processus de désinstallation d'Indexiine de votre Wii U.
 
 ## Ce dont vous avez besoin
 
-- La dernière version du [Homebrew Launcher](https://github.com/dimok789/homebrew_launcher/releases/tag/v1.5). (The `homebrew_launcher.v1.5.zip` file)
-- The latest release of the [Homebrew Launcher Installer](https://github.com/wiiu-env/homebrew_launcher_installer/releases/latest). (The `payload.zip` file)
-- The [Indexiine Installer](https://github.com/GaryOderNichts/indexiine-installer/releases/latest). (The `indexiine-installer.zip` file)
-- The default [index.html file](/files/backup-index.html){download}. (You will get a file named `backup-index.html`)
+- La dernière version du [Homebrew Launcher](https://github.com/dimok789/homebrew_launcher/releases/tag/v1.5). (Le fichier `homebrew_launcher.v1.5.zip`)
+- La dernière version du [Homebrew Launcher Installer](https://github.com/wiiu-env/homebrew_launcher_installer/releases/latest). (Le fichier `payload.zip`)
+- Le [Indexiine Installer](https://github.com/GaryOderNichts/indexiine-installer/releases/latest). (Le fichier `indexiine-installer.zip`)
+- Le [fichier index.html](/files/backup-index.html){download} par défaut. (Vous obtiendrez un fichier nommé `backup-index.html`)
 
-## Setting Up The SD Card
+## Mise en place de la carte SD
 
-First, ensure your SD card is formatted in FAT32. You can do so by using [GUIFormat](http://ridgecrop.co.uk/index.htm?guiformat.htm).
+D'abord, assurez-vous que votre carte SD est formatée en FAT32. Vous pouvez faire cela en utilisant [GUIFormat](http://ridgecrop.co.uk/index.htm?guiformat.htm).
 
-1. Extract the contents of the `homebrew_launcher.v1.5.zip` file to the root of your SD card.
-2. Extract the contents of the `indexiine-installer.zip` file to the root of your SD card.
-3. Extract the `payload.elf` file from the `payload.zip` file to the `wiiu` folder on your SD card.
-4. Copy the `backup-index.html` file to the `SD > wiiu > apps > indexiine-installer` folder on your SD card.
+1. Extrayez le contenu de l'archive `homebrew_launcher.v1.5.zip` vers la racine de votre carte SD.
+2. Extrayez le contenu de l'archive `indexiine-installer.zip` vers la racine de votre carte SD.
+3. Extrayez le fichier `payload.elf` depuis l'archive `payload.zip` vers le dossier `wiiu` sur votre carte SD.
+4. Copiez le fichier `backup-index.html` vers le dossier `SD > wiiu > apps > indexiine-installer` sur votre carte SD.
 
-You can now eject, and insert your SD card into your console.
+Vous pouvez maintenant éjecter, et insérer votre carte SD dans votre console.
 
 ## Instructions
 
-1. Launch the Homebrew Launcher by launching the internet browser and waiting for a few seconds.
+1. Lancez le Homebrew Launcher en lançant le navigateur Internet puis en attendant quelques secondes.
 2. Lancez Indexiine-Installer.
 3. Appuyez sur le bouton B pour désinstaller Indexiine.
-4. Reboot your console, and check that your Wii U no longer automatically launches the Homebrew Launcher upon entering the Internet browser.
+4. Redémarrez votre console, et vérifiez que votre Wii U ne lance désormais plus le Homebrew Launcher lorsque vous entrez dans le navigateur Internet.

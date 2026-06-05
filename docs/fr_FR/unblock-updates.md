@@ -1,16 +1,16 @@
-# Unblocking Updates
+# Débloquer les mises à jour
 
 Ceci est nécessaire si vous avez besoin d'effectuer une mise à jour du système.
 
 ::: tip
 
-If you are running Aroma and have deleted the update folder, you need to disable both autobooting and recreate the update folder.
+Si vous faites tourner Aroma et avez supprimé le dossier de mise à jour, vous devez désactiver les deux autodémarrages et recréer le dossier de mise à jour.
 
 :::
 
 ::: tip
 
-Users with ISFShax must have at least v4 of the `wafel_isfshax_patch.ipx`/`5isfshax.ipx` stroopwafel plugin on the SD Card or SLC in order to update.
+Les utilisateurs avec ISFShax doivent avoir au miminum la v4 du plugin stroopwafel `wafel_isfshax_patch.ipx`/`5isfshax.ipx` sur la carte SD ou la SLC pour pouvoir mettre à jour.
 
 :::
 
@@ -18,49 +18,49 @@ Users with ISFShax must have at least v4 of the `wafel_isfshax_patch.ipx`/`5isfs
 
 ::::: tabs
 
-:::: tab default Recreating Update Folder
+:::: tab default Recréation du dossier de mise à jour
 
-### Recreating Update Folder
+### Recréation du dossier de mise à jour
 
-1. Make sure you have the latest Aroma beta.
-2. Boot Aroma while holding + (Plus).
-3. Hold + (Plus) **and** - (Minus) until it says "Updates not blocked!".
+1. Assurez-vous d'avoir la dernière bêta d'Aroma.
+2. Démarrez Aroma tout en maintenant + (Plus).
+3. Maintenez + (Plus) **et** - (Moins) jusqu'à ce qu'il indique "Updates not blocked!".
 
 ::::
 
-:::: tab Removing Aroma Autoboot
+:::: tab Suppression de l'autodémarrage d'Aroma
 
-### Removing Aroma Autoboot
+### Désactiver le démarrage automatique d'Aroma
 
 ::: tip
 
-When autobooting into the PayloadLoader, updates are automatically blocked. Follow the guide below to disable it.
+Lorsque vous démarrez automatiquement sur le PayloadLoader, les mises à jour sont automatiquement bloquées. Suivez le guide ci-dessous pour le désactiver.
 
 :::
 
 ::: tip
 
-Users with ISFShax will have to remove the `wafel_payloader.ipx`/`5payldr.ipx` (if used) from the SD Card (`sd:/wiiu/ios_plugins`) or SLC (`slc:/sys/hax/ios_plugins`) to stop autobooting into Aroma.
+Les utilisateurs avec ISFShax devront supprimer les `wafel_payloader.ipx`/`5payldr.ipx` (si utilisé) de la carte SD (`sd:/wiiu/ios_plugins`) ou la SLC (`slc:/sys/hax/ios_plugins`) pour arrêter le démarrage automatique dans Aroma.
 
 :::
 
-1. Launch the PayloadLoader Installer from the Wii U Menu.
-2. Press A to select `Check`.
-3. Select `Boot options`.
-4. Vous serez invité à choisir si vous souhaitez modifier le titre qui sera lancé lors du démarrage de la console. Press A to select `Switch back to Wii U Menu`.
+1. Ouvrez le PayloadLoader Installer à partir du menu Wii U.
+2. Appuyez sur A pour sélectionner `Check`.
+3. Sélectionnez `Boot options`.
+4. Vous serez invité à choisir si vous souhaitez modifier le titre qui sera lancé lors du démarrage de la console. Appuyez sur A pour sélectionner `Switch back to Wii U Menu`.
 5. Une fois le processus terminé, appuyez sur A pour éteindre la console.
-6. Perform the System Update.
-7. Follow [this](aroma/autobooting) to re-enable autobooting.
+6. Effectuez la mise à jour du système.
+7. Suivez [ceci](aroma/autobooting) pour réactiver le démarrage automatique.
 
 ::::
 
-:::: tab Removing DNS Blocks
+:::: tab Suppression du blocage DNS
 
-### Removing DNS Blocks
+### Suppression du blocage DNS
 
-1. Enter the Wii U's system settings and navigate to `Internet > Connect to the Internet > Connection List >`
-   `Your WiFi connection > Change Settings > DNS` and set the option to `Auto-obtain`.
-2. You are no longer blocking system updates.
+1. Entrez dans les Paramètres de la console de la Wii U et naviguez jusqu'à `Internet > Connexion Internet > Liste des connexions >`
+   `Votre connexion WiFi > Modifier > DNS` et réglez l'option d'obtention automatique sur Oui.
+2. Vous ne bloquez désormais plus les mises à jour du système.
 
 ::::
 

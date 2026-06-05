@@ -5,51 +5,51 @@ next: true
 
 # Préparation de la carte SD
 
-We will now place the required Aroma files on the SD Card.
+Nous allons maintenant placer les fichiers d'Aroma requis sur la carte SD.
 
 ::: warning
 
-Your SD Card will need to be formatted as FAT32. If your SD Card is not formatted to FAT32, use [GUIFormat](http://ridgecrop.co.uk/index.htm?guiformat.htm) with 32k (32768) allocation unit size to format it.  
-**Do not** label the SD Card as `wiiu` or it will cause issues with homebrew.
+Votre carte SD devra être formatée en FAT32. Si votre carte SD n'est pas formatée en FAT32, utilisez [GUIFormat](http://ridgecrop.co.uk/index.htm?guiformat.htm) avec une taille d'unité allocation de 32k (32768) pour la formater.  
+Ne nommez **pas** la carte SD `wiiu` ou cela causera des problèmes avec les homebrew.
 
 :::
 
 ## Instructions
 
-1. On the [Aroma](https://aroma.foryour.cafe) site, scroll down to the **Download** section.
-   - Read through the steps and click on the checkboxes.
+1. Sur le site d'[Aroma](https://aroma.foryour.cafe), faites défiler vers le bas jusqu'à la section **Download**.
+   - Lisez les étapes et cliquez sur les cases à cocher.
      ![](/assets/img/guide/Aroma_Box.png)
-   - Click on `Download Payloads` and `Download Base Aroma`.
+   - Cliquez sur `Download Payloads` et `Download Base Aroma`.
      ![](/assets/img/guide/Aroma_DL.png)
 2. Insérez la carte SD de votre Wii U dans votre PC.
-3. **Extract** and copy the `wiiu` folder of the two newly downloaded _`.zip`_ files to the root of your SD Card.
-   - The `wiiu` folders should be merged if not done automatically.
+3. **Extrayez** et copiez le dossier `wiiu` des deux fichiers _`.zip`_ récemment téléchargés vers la racine de votre carte SD.
+   - Les dossiers `wiiu` devraient être fusionnés si ce n'est pas fait automatiquement.
 
 ::: tip
 
-If your computer asks you to overwrite existing files on your SD Card, you will need to click yes.
+Si votre ordinateur vous demande d'écraser les fichiers existants sur votre carte SD, vous devrez cliquer sur Oui.
 
 :::
 
 ::: tip
 
-If you're on a Mac machine, extract the second zip in a second finder window and drag the contents into the first window with the first zip's contents. Then when prompted, select `Merge` instead of replace. If the merge option does not show immediately, press and hold the `Option` key while moving files to the root.
+Si vous êtes sur une machine sous Mac, extrayez le deuxième zip dans une deuxième fenêtre du Finder et faites glisser le contenu vers la première fenêtre avec le contenu du premier zip. Ensuite, lorsque vous y êtes invité, sélectionnez `Fusionner` au lieu de remplacer. Si l'option de fusion ne s'affiche pas immédiatement, appuyez et maintenez la touche `Option` enfoncée tout en déplaçant les fichiers vers la racine.
 
 :::
 
 ----------
 
-Extracting the contents of the zip to the root is done like so.
+L'extraction du contenu du zip vers la racine est fait comme ceci.
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
   <video style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" controls muted>
     <source src="/assets/img/guide/SD_Prep.mp4" type="video/mp4">
     
-    Your browser does not support the video tag.
+    Votre navigateur ne prend pas en charge la balise vidéo.
   </video>
 </div>
 
-## SD Card Layout
+## Disposition de la carte SD
 
 :::details Cliquez ici pour afficher la disposition finale de la carte SD.
 
@@ -60,7 +60,7 @@ Extracting the contents of the zip to the root is done like so.
    ┃ ┣ 📂AromaUpdater
    ┃ ┃ ┗📜AromaUpdater.wuhb
    ┃ ┣ 📜PayloadLoaderInstaller.wuhb
-   ┃ ┗ (All other apps should be here too)
+   ┃ ┗ (Tous les autres applis devraient aussi être ici)
    ┣ 📂environments
    ┃ ┗ 📂aroma
    ┃   ┣ 📂modules
@@ -68,13 +68,13 @@ Extracting the contents of the zip to the root is done like so.
    ┃   ┃ ┃ ┣ 📜00_mocha.rpx
    ┃   ┃ ┃ ┣ 📜10_wums_loader.rpx
    ┃   ┃ ┃ ┗ 📜99_autoboot.rpx
-   ┃   ┃ ┗ (All other Aroma modules ending with .wms should be here too)
+   ┃   ┃ ┗ (Tous les autres modules Aroma terminant par .wms devraient aussi être ici)
    ┃   ┣ 📂plugins
    ┃   ┃ ┣ 📜AromaBasePlugin.wps
    ┃   ┃ ┣ 📜drc_region_free.wps
    ┃   ┃ ┣ 📜homebrew_on_menu.wps
    ┃   ┃ ┣ 📜regionfree.wps
-   ┃   ┃ ┗ (All other Aroma plugins ending with .wps should be here too)
+   ┃   ┃ ┗ (Tous les autres plugins Aroma terminant par .wps devraient aussi être ici)
    ┃   ┗ 📜root.rpx
    ┣ 📂payloads
    ┃ ┣ 📂default
@@ -89,6 +89,6 @@ Extracting the contents of the zip to the root is done like so.
 
 ::: tip
 
-If you already have the PayloadLoader installed, you may go directly to [Finalizing Setup](./finalizing-setup.md)
+Si vous avez déjà le PayloadLoader d'installé, vous pouvez aller directement à [Finaliser l'installation](./finalizing-setup.md)
 
 :::
