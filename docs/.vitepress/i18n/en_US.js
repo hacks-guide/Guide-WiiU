@@ -14,6 +14,7 @@ const sidebar_extras = {
 		{ text: localeData.pages["block-updates"], link: `/block-updates` },
 		{ text: localeData.pages["unblock-updates"], link: `/unblock-updates` },
 		{ text: localeData.pages["dump-games"], link: `/dump-games` },
+		{ text: localeData.pages["installing-isfshax"], link: `/installing-isfshax` },
 		{ text: localeData.pages["uninstall-cbhc"], link: `/uninstall-cbhc` },
 		{ text: localeData.pages["uninstall-indexiine"], link: `/uninstall-indexiine` },
 		{ text: localeData.pages["uninstall-payloadloader"], link: `/uninstall-payloadloader` }
