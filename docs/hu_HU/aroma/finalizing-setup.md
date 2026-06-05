@@ -41,6 +41,10 @@ Minden homebrew alkalmazás a Wii U Menu-ből kerül betöltésre Aromán.
 
 A Pretendo a Nintendo Network helyettesítő szolgáltatása, amely a megszűnt online szolgáltatásokat hozza vissza. Emellett a Miiverse szolgáltatást is feléleszti a Juxtaposition-on keresztül. A hivatalos útmutató [itt található](https://pretendo.network/docs/install/wiiu).
 
+## vWii Modding
+
+The vWii is seperately modded from the Wii U side. If you want to mod the vWii, the guide can be found [here](https://wii.hacks.guide/vwii-homebrew-channel).
+
 ## Tiramisu bootolása (opcionális)
 
 ::: warning
