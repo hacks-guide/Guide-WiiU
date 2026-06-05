@@ -41,6 +41,10 @@ All Homebrew applications are loaded from the Wii U Menu on Aroma.
 
 Pretendo is a replacement service for the Nintendo Network, which brings back online services as they are now discontinued. It also revives the Miiverse service, via juxtaposition. The official guide can be found [here](https://pretendo.network/docs/install/wiiu).
 
+## vWii Modding
+
+The vWii is seperately modded from the Wii U side. If you want to mod the vWii, the guide can be found [here](https://wii.hacks.guide/vwii-homebrew-channel).
+
 ## Booting Tiramisu (optional)
 
 ::: warning
@@ -53,13 +57,13 @@ However, if you find the need to boot into Tiramisu, for example, to use a legac
 
 1. Download the latest files from [Tiramisu for your café](https://tiramisu.foryour.cafe).
 2. Copy the `wiiu` folder to the root of your SD Card.
-    - The folder should merge with the existing `wiiu` folder if not done automatically.
+   - The folder should merge with the existing `wiiu` folder if not done automatically.
 3. Take the SD Card out of your computer and plug it into your Wii U console.
 4. Start the EnvironmentLoader.
-    - If you're autobooting into it, this can be done by powering on your console and holding X.
-    - You do not need to reinstall the PayloadLoader if you already did so with Aroma.
+   - If you're autobooting into it, this can be done by powering on your console and holding X.
+   - You do not need to reinstall the PayloadLoader if you already did so with Aroma.
 5. Highlight the entry called `tiramisu` using the D-Pad.
 6. Launch Tiramisu by pressing A.
 7. Launch the Wii U Menu by pressing A.
-    - To make the console autoboot the Wii U Menu when loading the Tiramisu environment, press Y.
+   - To make the console autoboot the Wii U Menu when loading the Tiramisu environment, press Y.
 8. Homebrew Launcher can be loaded by launching the Mii Maker app.
