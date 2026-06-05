@@ -4,62 +4,62 @@ prev: true
 
 # Finaliser l'installation
 
-Now that PayloadLoader, Environment Loader and Aroma are installed, we are going to finalize the setup.
+Maintenant que PayloadLoader, Environment Loader et Aroma sont installés, nous allons finaliser l'installation.
 
-## Additional Homebrew Apps
+## Applications Homebrew supplémentaires
 
 ::: tip
 
-All Homebrew applications are loaded from the Wii U Menu on Aroma.
+Toutes les applications Homebrew sont chargées depuis le menu Wii U sur Aroma.
 
 :::
 
-- **SaveMii Mod WUT Port** is a homebrew app that lets you manage your Wii U and vWii save data.
-- **Bloopair** is an Aroma module that lets you wirelessly connect most popular Bluetooth capable controllers. See [this page](https://gbatemp.net/threads/bloopair-connect-controllers-from-other-consoles-natively.594289/) for more details.
-- The **Homebrew Appstore** lets you browse and download homebrew apps directly from your Wii U.
+- **SaveMii mod WUT Port** est une appli homebrew qui vous laisse gérer vos données de sauvegarde Wii U et vWii.
+- **Bloopair** est un module Aroma qui vous permet de connecter la plupart des manettes Bluetooth répandues. Regardez [cette page](https://gbatemp.net/threads/bloopair-connect-controllers-from-other-consoles-natively.594289/) pour plus de détails.
+- Le **Homebrew Appstore** vous permet de naviguer et de télécharger des applications Homebrew directement depuis votre Wii U.
 
-### Additional Homebrew Apps - What You Need
+### Applications Homebrew supplémentaires - Ce dont vous avez besoin
 
-- The latest version of [SaveMii Mod WUT Port](https://wiiu.cdn.fortheusers.org/zips/SaveMiiModWUTPort.zip).
-- `wiiu-extracttosd.zip` of the [HB Appstore](https://github.com/fortheusers/hb-appstore/releases/).
+- La dernière version de [SaveMii Mod WUT Port](https://wiiu.cdn.fortheusers.org/zips/SaveMiiModWUTPort.zip).
+- `wiiu-extracttosd.zip` du [HB Appstore](https://github.com/fortheusers/hb-appstore/releases/).
 
-### Additional Homebrew Apps - Extracting Files to the SD Card
+### Applications Homebrew supplémentaires - Extraction des fichiers vers la carte SD
 
-1. Copy the contents of the newly downloaded `SaveMiiModWUTPort.zip` file to the root of your SD Card.
-2. Copy the contents of the newly downloaded `wiiu-extracttosd.zip` file to the root of your SD Card.
+1. Copiez le contenu de l'archive récemment téléchargée `SaveMiiModWUTPort.zip` vers la racine de votre carte SD.
+2. Copiez le contenu de l'archive récemment téléchargée `wiiu-extracttosd.zip` vers la racine de votre carte SD.
 
-## Recommended Plugins
+## Plugins recommandés
 
-| Name                                                                                                                                                  | Description                                                                              | Installation Instructions                                                                                                                                                                                                                                                                                                                                             |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [FTPiiU Plugin](https://github.com/wiiu-env/ftpiiu_plugin/) ([Download](https://github.com/wiiu-env/ftpiiu_plugin/releases))       | Runs a FTP server in the background.                                     | 1. Extract the downloaded `ftpiiu_vX_X.zip` file. <br> 2. Copy the `ftpiiu.wps` to the `wiiu/environments/aroma/plugins` folder on the root of your SD Card.                                                                                                                                   |
-| [SDCafiine](https://github.com/wiiu-env/sdcafiine_plugin/) ([Download](https://github.com/wiiu-env/sdcafiine_plugin/releases))     | Allows you to mod games by redirecting files to the SD Card.             | 1. Extract the downloaded `sdcafiine_vX_X_X.zip` file. <br> 2. Copy the `sdcafiine.wps` to the `wiiu/environments/aroma/plugins` folder on the root of your SD Card.                                                                                                                           |
-| [Bloopair](https://github.com/GaryOderNichts/Bloopair/) ([Download](https://github.com/GaryOderNichts/Bloopair/releases))          | Allows wirelessly connecting most popular Bluetooth capable controllers. | 1. Extract the contents of the newly downloaded `Bloopair_vX.X.X.zip` file. <br> 2. Copy the `30_bloopair.rpx` to the `wiiu/environments/aroma/modules/setup/` folder on the root of your SD Card. <br> 3. Copy the `wiiu` folder to the root of your SD Card. |
-| [Screenshot Plugin](https://github.com/wiiu-env/ScreenshotWUPS/) ([Download](https://github.com/wiiu-env/ScreenshotWUPS/releases)) | Allows taking screenshots directly to the SD Card.                       | 1. Extract the downloaded `screenshot_plugin_vX_X.zip` file. <br> 2. Copy the `screenshot.wps` to the `wiiu/environments/aroma/plugins` folder on the root of your SD Card.                                                                                                                    |
+| Nom                                                                                                                                                      | Description                                                                                                      | Instructions d'installation                                                                                                                                                                                                                                                                                                                                                            |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [FTPiiU Plugin](https://github.com/wiiu-env/ftpiiu_plugin/) ([Télécharger](https://github.com/wiiu-env/ftpiiu_plugin/releases))       | Fait tourner un serveur FTP en arrière-plan.                                                     | 1. Extrayez l'archive `ftpiiu_vX_X.zip` téléchargée. <br> 2. Copiez le `ftpiiu.wps` vers le dossier `wiiu/environments/aroma/plugins` à la racine de votre carte SD.                                                                                                                                            |
+| [SDCafiine](https://github.com/wiiu-env/sdcafiine_plugin/) ([Télécharger](https://github.com/wiiu-env/sdcafiine_plugin/releases))     | Vous permet de modder des jeux en redirigeant les fichiers vers la carte SD.                     | 1. Extrayez l'archive `sdcafiine_vX_X_X.zip` téléchargée. <br> 2. Copiez le `sdcafiine.wps` vers le dossier `wiiu/environments/aroma/plugins` à la racine de votre carte SD.                                                                                                                                    |
+| [Bloopair](https://github.com/GaryOderNichts/Bloopair/) ([Télécharger](https://github.com/GaryOderNichts/Bloopair/releases))          | Permet la connexion sans-fil de la plupart des manettes répandues compatibles avec le Bluetooth. | 1. Extrayez le contenu de l'archive `Bloopair_vX.X.X.zip` récemment téléchargée. <br> 2. Copiez le `30_bloopair.rpx` vers le dossier `wiiu/environments/aroma/modules/setup/` à la racine de votre carte SD. <br> 3. Copiez le dossier `wiiu` vers la racine de votre carte SD. |
+| [Screenshot Plugin](https://github.com/wiiu-env/ScreenshotWUPS/) ([Télécharger](https://github.com/wiiu-env/ScreenshotWUPS/releases)) | Permet de prendre des captures d'écran directement sur la carte SD.                              | 1. Extrayez l'archive `screenshot_plugin_vX_X.zip` téléchargée. <br> 2. Copiez le `screenshot.wps` vers le dossier `wiiu/environments/aroma/plugins` à la racine de votre carte SD.                                                                                                                             |
 
 ## Pretendo Network
 
-Pretendo is a replacement service for the Nintendo Network, which brings back online services as they are now discontinued. It also revives the Miiverse service, via juxtaposition. The official guide can be found [here](https://pretendo.network/docs/install/wiiu).
+Pretendo est un service de remplacement pour le Nintendo Network, qui rétablit les services en ligne qui sont désormais interrompus. Il relance également le service Miiverse, via juxtaposition. Le guide officiel peut être trouvé [ici](https://pretendo.network/docs/install/wiiu).
 
-## Booting Tiramisu (optional)
+## Démarrage de Tiramisu (facultatif)
 
 ::: warning
 
-Tiramisu is now archived, and was succeeded by Aroma and considered outdated. No more Homebrew will be developed for it, and services like Pretendo have ended support for it.
+Tiramisu est maintenant archivé, et a été succédé par Aroma et est considéré comme obsolète. Plus aucun Homebrew ne sera développé pour celui-ci, et des services comme Pretendo ont arrêté sa prise en charge.
 
 :::
 
 Cependant, si vous trouvez le besoin de démarrer dans Tiramisu, par exemple, pour utiliser une ancienne application Homebrew, faites ce qui suit :
 
-1. Download the latest files from [Tiramisu for your café](https://tiramisu.foryour.cafe).
-2. Copy the `wiiu` folder to the root of your SD Card.
-   - The folder should merge with the existing `wiiu` folder if not done automatically.
+1. Téléchargez les derniers fichiers depuis [Tiramisu for your café](https://tiramisu.foryour.cafe).
+2. Copiez le dossier `wiiu` vers la racine de votre carte SD.
+   - Le dossier devrait fusionner avec le dossier `wiiu` existant si ce n'est pas fait automatiquement.
 3. Retirez la carte SD de votre ordinateur et insérez-la dans votre console Wii U.
-4. Start the EnvironmentLoader.
-   - If you're autobooting into it, this can be done by powering on your console and holding X.
-   - You do not need to reinstall the PayloadLoader if you already did so with Aroma.
-5. Highlight the entry called `tiramisu` using the D-Pad.
-6. Launch Tiramisu by pressing A.
-7. Launch the Wii U Menu by pressing A.
-   - To make the console autoboot the Wii U Menu when loading the Tiramisu environment, press Y.
-8. Homebrew Launcher can be loaded by launching the Mii Maker app.
+4. Lancez l'EnvironmentLoader.
+   - Si vous autodémarrez dessus, cela peut se faire en lançant votre console tout en maintenant X.
+   - Vous n'avez pas besoin de réinstaller le PayloadLoader si vous l'avez déjà fait avec Aroma.
+5. Mettez en surbrillance l'entrée dénommée `tiramisu` en utilisant la croix directionnelle.
+6. Lancez Tiramisu en appuyant sur A.
+7. Lancez le menu Wii U en appuyant sur A.
+   - Pour que la console démarre automatiquement le menu Wii U lors du chargement de l'environnement Tiramisu, appuyez sur Y.
+8. Le Homebrew Launcher peut être chargé en lançant l'appli Éditeur Mii.
