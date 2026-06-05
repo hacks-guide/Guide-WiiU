@@ -1,40 +1,40 @@
-# Récupérer un·e IOS/Chaîne vWii
+# Récupérer un IOS/Chaîne vWii
 
-Cette page vous guidera dans le processus de récupération d'un IOS ou d'une chaîne sur votre vWii, qu'il/elle ait été corrompu·e ou supprimé·e pour une raison quelconque.
+Cette page vous guidera dans le processus de récupération d'un IOS ou d'une chaîne sur votre vWii, qu'il ait été corrompu ou supprimé pour une raison quelconque.
 
 ::: danger
 
-This has the potential to destroy your vWii NAND if you are not careful! Please consider [backing up](aroma/nand-backup) your SLCCMPT and OTP if you do not yet have them backed up!
+Ceci a la possibilité de détruire la NAND de votre vWii si vous ne faites pas attention ! Veuillez envisager la [sauvegarde](aroma/nand-backup) de votre SLCCMPT et OTP si vous ne les avez pas déjà sauvegardées !
 
 :::
 
 ::: tip
 
-If you are using a system update blocking method, please [remove it](unblock-updates).
+Si vous utilisez une méthode de blocage des mises à jour du système, veuillez [la retirer](unblock-updates).
 
 :::
 
 ::: tip
 
-Due to mounting conflicts with this app, you need to also disable the FTPiiu plugin.
+À cause de conflits de montage avec cette appli, vous devez aussi désactiver le plugin FTPiiu.
 
 :::
 
 ## Ce dont vous avez besoin
 
-- A working [homebrew installation](index) on the Wii U side.
-- The latest release of [vWii Decaffeinator](https://github.com/GaryOderNichts/vWii-Decaffeinator/releases).
+- Une [installation homebrew](index) fonctionnelle du côté de la Wii U.
+- La dernière version de [vWii Decaffeinator](https://github.com/GaryOderNichts/vWii-Decaffeinator/releases).
 
 ## Instructions
 
-1. Copy the contents of the `decaffeinator.zip` file to the root of your SD Card.
+1. Copiez le contenu du fichier `decaffeinator.zip` vers la racine de votre carte SD.
 2. Retirez la carte SD de votre ordinateur et insérez-la dans votre console Wii U.
-3. Power on your Wii U and launch Aroma.
-4. Launch vWii Decaffeinator from the Wii U Menu.
+3. Allumez votre Wii U et lancez Aroma.
+4. Lancez vWii Decaffeinator depuis le menu Wii U.
 
 ## Processus de récupération
 
-Différentes options vous seront proposées. It is recommended to first attempt restoring through the `Advanced options` menu if you know what to restore, or `Light mode` if you aren't sure. In extreme cases where no other option solves the issue, `Aggressive mode` should be chosen.
+Différentes options vous seront proposées. Il est recommandé de faire d'abord une première tentative de restauration avec le menu `Advanced options` si vous savez quoi restaurer, ou `Light mode` si vous n'êtes pas sûr. Dans les cas extrêmes où aucune autre option ne résout le problème, `Aggressive mode` devrait être choisi.
 
 <!-- tabs:start -->
 
@@ -46,7 +46,7 @@ Différentes options vous seront proposées. It is recommended to first attempt 
 
 ::: tip
 
-This mode will clear the specified IOSes and channels to reinstall them. Toutes les autres données (y compris les cIOS) seront conservées.
+Ce mode supprimera les IOS et chaînes spécifiés pour les réinstaller. Toutes les autres données (y compris les cIOS) seront conservées.
 
 :::
 
@@ -58,15 +58,15 @@ This mode will clear the specified IOSes and channels to reinstall them. Toutes 
 
 :::
 
-1. Select `Advanced options` on the menu.
-2. Utilisez les flèches pour séléctionner ce que vous souhaitez restaurer.
+1. Sélectionnez `Advanced options` dans le menu.
+2. Utilisez la croix directionnelle pour sélectionner ce que vous souhaitez restaurer.
 3. Appuyez sur Start pour lancer le processus de restauration.
 4. Lorsque l'application a terminé, autorisez l'application à lancer les Paramètres de la console.
 5. Effectuez une [mise à jour du système](https://fr-americas-support.nintendo.com/app/answers/detail/a_id/13707/~/comment-effectuer-une-mise-%C3%A0-jour-du-syst%C3%A8me-sur-wii-u) pour terminer le processus de restauration.
 
 ::: tip
 
-You can now re-enable your [system update blocking method](block-updates).
+Vous pouvez maintenant réactiver votre [méthode de blocage des mises à jour du système](block-updates).
 
 :::
 
@@ -78,18 +78,18 @@ You can now re-enable your [system update blocking method](block-updates).
 
 ::: tip
 
-This mode will clear the System Menu, Wii Message Board save data, IOSes, and other system titles to reinstall clean versions of them. Veuillez noter que cela supprimera également tous les cIOS et devront être réinstallés. Toutes les autres données seront conservées.
+Ce mode efface le Menu système, les données sauvegardées sur le Bureau Wii, les IOS et autres titres du système pour en réinstaller des versions propres. Veuillez noter que cela supprimera également tous les cIOS et devront être réinstallés. Toutes les autres données seront conservées.
 
 :::
 
-1. Select `Light mode` on the menu.
+1. Sélectionnez `Light mode` dans le menu.
 2. Appuyez sur Start pour lancer le processus de restauration.
 3. Lorsque l'application a terminé, autorisez l'application à lancer les Paramètres de la console.
 4. Effectuez une [mise à jour du système](https://fr-americas-support.nintendo.com/app/answers/detail/a_id/13707/~/comment-effectuer-une-mise-%C3%A0-jour-du-syst%C3%A8me-sur-wii-u) pour terminer le processus de restauration.
 
 ::: tip
 
-You can now re-enable your [system update blocking method](block-updates).
+Vous pouvez maintenant réactiver votre [méthode de blocage des mises à jour du système](block-updates).
 
 :::
 
@@ -107,18 +107,18 @@ Si vous recevez le code d'erreur 160-0101 lorsque vous démarrez la console apr�
 
 ::: danger
 
-This mode will clear **everything** to reinstall clean versions of the default IOSes and channels. Veuillez noter que tous les cIOS, les données de sauvegarde et les chaînes seront perdu·e·s, et que la NAND de votre vWii sera comme en sortie d'usine !
+Ce mode effacera **tout** pour réinstaller des versions propres des IOS et des chaînes par défaut. Veuillez noter que tous les cIOS, les données de sauvegarde et les chaînes seront perdues, et que la NAND de votre vWii sera comme en sortie d'usine !
 
 :::
 
-1. Select `Aggressive mode` on the menu.
+1. Sélectionnez `Aggressive mode` dans le menu.
 2. Lisez l'avertissement dans son intégralité. Si vous souhaitez poursuivre, appuyez sur Start pour lancer le processus de restauration.
 3. Lorsque l'application a terminé, autorisez l'application à lancer les Paramètres de la console.
 4. Effectuez une [mise à jour du système](https://fr-americas-support.nintendo.com/app/answers/detail/a_id/13707/~/comment-effectuer-une-mise-%C3%A0-jour-du-syst%C3%A8me-sur-wii-u) pour terminer le processus de restauration.
 
 ::: tip
 
-You can now re-enable your [system update blocking method](block-updates).
+Vous pouvez maintenant réactiver votre [méthode de blocage des mises à jour du système](block-updates).
 
 :::
 
@@ -134,6 +134,6 @@ Si vous recevez le code d'erreur 160-0101 lorsque vous démarrez la console apr�
 
 ::: tip
 
-If you receive Error Code 105-3102 when performing the system update, restart your console and reattempt the update.
+Si vous recevez le code d'erreur 105-3102 lors de la mise à jour du système, redémarrez votre console et réessayez la mise à jour.
 
 :::
