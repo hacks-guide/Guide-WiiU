@@ -101,7 +101,7 @@ SHA256: `81DF9785613EC004500BD038D8401E17D49B8F0D275ED237DA4B03A1F69FC9D8`
 
 ::: info
 
-[**Récupérer un·e IOS/Chaîne vWii**](recover-vwii-ioses-channels)
+[**Récupérer un IOS/Chaîne vWii**](recover-vwii-ioses-channels)
 
 ---
 
