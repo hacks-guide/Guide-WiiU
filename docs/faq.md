@@ -6,7 +6,7 @@ Currently, homebrewing the Wii U does not expose you to a risk of being banned b
 
 ## What are exploits?
 
-Exploits are entry points which allow further homebrew to be run. In the main guide, you will use exploits such as the browser exploit (http://wiiuexploit.xyz) and PayloadLoader (Health & Safety exploit). All current exploits load `SD:/wiiu/payload.elf` which takes over further loading of homebrew.
+Exploits are entry points which allow further homebrew to be run. In the main guide, you will use exploits such as the browser exploit (hosted on <http://wiiuexploit.xyz>) and PayloadLoader (an exploit for the Health & Safety app). All current exploits load `SD:/wiiu/payload.elf` which takes over further loading of homebrew.
 
 ## What are payloads?
 
@@ -28,9 +28,9 @@ If you want to delete the update folder to block updates, see its tab in the [Bl
 
 ## What SD Card size is recommended?
 
-- **Installing game backups:** 32GB (Smaller size may be used, but certain titles are 20GB in size)
-- **Running game mods:** 8GB (FAT32 USB drive may be used as well for mods)
-- **Only running homebrew apps:** Any size.
+* **Installing game backups:** 32GB (Smaller size may be used, but certain titles are 20GB in size)
+* **Running game mods:** 8GB (FAT32 USB drive may be used as well for mods)
+* **Only running homebrew apps:** Any size.
 
 **Recommended brands:** SanDisk, Samsung or PNY
 

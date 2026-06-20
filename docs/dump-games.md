@@ -38,10 +38,10 @@ In order to install to a USB device, it has to be formatted by the Wii U. Doing 
 
 ### What You Need
 
-- Your SD Card needs to have enough space to fit the game you want to dump.
-- If wanting to install to a USB, A USB HDD (+ a Y-cable if needed).
-- The latest release of [WUP Installer GX2](https://wiiu.cdn.fortheusers.org/zips/wup_installer_gx2_wuhb.zip).
-- The [wudd](https://wiiu.cdn.fortheusers.org/zips/wudd.zip) homebrew application.
+* Your SD Card needs to have enough space to fit the game you want to dump.
+* If wanting to install to a USB, A USB HDD (+ a Y-cable if needed).
+* The latest release of [WUP Installer GX2](https://wiiu.cdn.fortheusers.org/zips/wup_installer_gx2_wuhb.zip).
+* The [wudd](https://wiiu.cdn.fortheusers.org/zips/wudd.zip) homebrew application.
 
 ### Instructions
 
@@ -55,7 +55,7 @@ In order to install to a USB device, it has to be formatted by the Wii U. Doing 
 1. When finished, exit wudd to the Wii U Menu.
 1. Insert the SD Card into your computer.
 1. Copy the `GMXXXXXXXXXXXXXXXX` folder from `sd:/wudump/WUP-X-XXXX` to the `install` folder on the root of your SD Card.
-	- WUDD does not create an install folder by default. You have to create it.
+    * WUDD does not create an install folder by default. You have to create it.
 1. Eject and insert the SD Card into your Wii U.
 1. Open the Wii U Menu and then the WUP Installer GX2 app.
 1. Select your game (`GMXXXXXXXXXXXXXXXX`), press `Install` and confirm with `Yes`.
@@ -83,7 +83,7 @@ In order to move your game to a USB device, it has to be formatted by the Wii U.
 1. Power on your Wii U.
 1. Your Wii U will prompt you to format your USB device. Confirm with Yes.
 1. Open the Wii U's System Settings.
-1. Navigate to `Data Management > Copy/Move/Delete Data > System Memory > Move Items (X)`
+1. Navigate to `Data Management` > `Copy/Move/Delete Data` > `System Memory` > `Move Items (X)`
 1. Select the game and move all data (including updates and DLC if any are installed) to your USB device.
 
 ## Move Updates To USB
@@ -96,5 +96,5 @@ If your disc game had DLC or updates installed, you will need to transfer the fi
 
 1. Power on your Wii U
 1. Open the Wii U's System Settings.
-1. Navigate to `Data Management > Copy/Move/Delete Data > System Memory > Move Items (X)`.
+1. Navigate to `Data Management` > `Copy/Move/Delete Data` > `System Memory` > `Move Items (X)`.
 1. Select your game and move the update and DLC data to the USB device.

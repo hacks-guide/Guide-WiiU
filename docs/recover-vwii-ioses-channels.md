@@ -22,8 +22,8 @@ Due to mounting conflicts with this app, you need to also disable the FTPiiu plu
 
 ## What You Need
 
-- A working [homebrew installation](index) on the Wii U side.
-- The latest release of [vWii Decaffeinator](https://github.com/GaryOderNichts/vWii-Decaffeinator/releases).
+* A working [homebrew installation](index) on the Wii U side.
+* The latest release of [vWii Decaffeinator](https://github.com/GaryOderNichts/vWii-Decaffeinator/releases).
 
 ## Instructions
 
@@ -31,7 +31,6 @@ Due to mounting conflicts with this app, you need to also disable the FTPiiu plu
 1. Take the SD Card out of your computer and plug it into your Wii U console.
 1. Power on your Wii U and launch Aroma.
 1. Launch vWii Decaffeinator from the Wii U Menu.
-
 
 ## Recovering Process
 

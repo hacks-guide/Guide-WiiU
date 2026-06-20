@@ -68,7 +68,7 @@ const themeConfig = {
 		],
 	},
 	footer: {
-		copyright: 'Copyright © 2024 Nintendo Homebrew',
+		copyright: 'Copyright © 2026 Nintendo Homebrew',
 		items: [
 			{ text: localeData.pages["about"], link: `/about` },
 			{ text: localeData.pages["donations"], link: `/donations` },
@@ -79,7 +79,7 @@ const themeConfig = {
 
 export default {
 	lang: "en",
-	label: "English",
+	label: "🇺🇸 English",
     title: localeData.title,
     description: localeData.description,
     themeConfig: themeConfig
