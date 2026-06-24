@@ -9,7 +9,7 @@ Nous allons maintenant placer les fichiers d'Aroma requis sur la carte SD.
 
 ::: warning
 
-Votre carte SD devra être formatée en FAT32. If your SD Card is not formatted to FAT32, use [GUIFormat](https://nintendohomebrew.com/guiformat) with 32k (32768) allocation unit size to format it.  
+Votre carte SD devra être formatée en FAT32. Si votre carte SD n'est pas formatée en FAT32, utilisez [GUIFormat](https://nintendohomebrew.com/guiformat) avec une taille d'unité allocation de 32k (32768) pour la formater.  
 Ne nommez **pas** la carte SD `wiiu` ou cela causera des problèmes avec les homebrew.
 
 :::
