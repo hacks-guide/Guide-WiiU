@@ -41,6 +41,10 @@ All Homebrew applications are loaded from the Wii U Menu on Aroma.
 
 Pretendo is a replacement service for the Nintendo Network, which brings back online services as they are now discontinued. It also revives the Miiverse service, via juxtaposition. The official guide can be found [here](https://pretendo.network/docs/install/wiiu).
 
+## vWii Modding
+
+The vWii is seperately modded from the Wii U side. If you want to mod the vWii, the guide can be found [here](https://wii.hacks.guide/vwii-homebrew-channel).
+
 ## Booting Tiramisu (optional)
 
 ::: warning

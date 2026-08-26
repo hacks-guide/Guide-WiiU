@@ -9,7 +9,7 @@ Először az Aroma fájlokat az SD kártyára rakjuk.
 
 ::: warning
 
-Az SD kártyád FAT32-re kell legyen formázva. Ha az SD kártyád nem FAT32-re formázott, használd a [GUIFormat](http://ridgecrop.co.uk/index.htm?guiformat.htm)-ot 32k (32768) allokációs egység mérettel a formázáshoz.\
+Az SD kártyád FAT32-re kell legyen formázva. Ha az SD kártyád nem FAT32-re formázott, használd a [GUIFormat](http://ridgecrop.co.uk/index.htm?guiformat.htm)-ot 32k (32768) allokációs egység mérettel a formázáshoz.  
 **Ne** cimkézd az SD kártyát `wiiu`-nak, különben problémát okoz a homebrew-nak.
 
 :::
@@ -17,13 +17,13 @@ Az SD kártyád FAT32-re kell legyen formázva. Ha az SD kártyád nem FAT32-re 
 ## Lépések
 
 1. Az [Aroma](https://aroma.foryour.cafe) weboldalán gördíts le a **Download** szekcióig.
- - Olvasd el a lépéseket, és kattintsd be a jelölő négyzeteket.
-  ![](/assets/img/guide/Aroma_Box.png)
- - Kattints a `Download Payloads` és a `Download Base Aroma` opciókra.
-  ![](/assets/img/guide/Aroma_DL.png)
+   - Olvasd el a lépéseket, és kattintsd be a jelölő négyzeteket.
+     ![](/assets/img/guide/Aroma_Box.png)
+   - Kattints a `Download Payloads` és a `Download Base Aroma` opciókra.
+     ![](/assets/img/guide/Aroma_DL.png)
 2. Helyezd be a Wii U-d SD kártyáját a PC-dbe.
 3. **Csomagold ki** és másold a `wiiu` mappát a kettő frissen letöltött _`.zip`_ fájlból az SD kártyád gyökerébe.
- - A `wiiu` mappákat mergelni kell, ha nem történik meg automatikusan.
+   - A `wiiu` mappákat mergelni kell, ha nem történik meg automatikusan.
 
 ::: tip
 
@@ -33,7 +33,7 @@ Ha a számítógép rákérdezz, hogy felülírjuk-e a létező fájlokat az SD 
 
 ::: tip
 
-Ha Mac számmítógépen vagy válaszd a `Merge` opciót a csere helyett. Ha a Merge opció nem jelenik meg azonnal, akkor tartsd nyomva az `Option` gombot, amíg mozgatod a gyökérbe a fájlokat.
+Ha Mac számítógépen vagy, akkor csomagold ki a második zippet egy második kereső ablakban és húzd a tartalmát az első ablakba az első zip tartalma mellé. Ha kérdezi, válaszd a `Merge` (egyesítés) opciót a felülírás helyett. Ha a Merge opció nem jelenik meg azonnal, akkor tartsd nyomva az `Option` gombot, amíg mozgatod a gyökérbe a fájlokat.
 
 :::
 

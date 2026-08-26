@@ -11,9 +11,9 @@ Ein Zurücksetzen auf die Werkseinstellungen wird den injizierten PayloadLoader 
 ## Was du brauchst
 
 - Die neuesten Dateien von [Aroma for your café](https://aroma.foryour.cafe).
-    1. Scrolle unten zum **Download** Bereich.
-    2. Lies die Schritte durch und klicke auf die Kontrollkästchen.
-    3. Klicke auf `Download Payloads` und `Download Base Aroma`.
+  1. Scrolle unten zum **Download** Bereich.
+  2. Lies die Schritte durch und klicke auf die Kontrollkästchen.
+  3. Klicke auf `Download Payloads` und `Download Base Aroma`.
 
 ## Autobooten in den PayloadLoader rückgängig machen
 
