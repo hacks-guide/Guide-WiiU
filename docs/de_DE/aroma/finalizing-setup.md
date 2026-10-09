@@ -41,6 +41,10 @@ Auf Aroma werden alle Homebrew-Anwendungen aus dem Wii U-Menü geladen.
 
 Pretendo is a replacement service for the Nintendo Network, which brings back online services as they are now discontinued. Außerdem belebt es den Miiverse-Dienst über Juxtaposition wieder. Die offizielle Anleitung kann [hier](https://pretendo.network/docs/install/wiiu) gefunden werden.
 
+## vWii Modding
+
+The vWii is seperately modded from the Wii U side. If you want to mod the vWii, the guide can be found [here](https://wii.hacks.guide/vwii-homebrew-channel).
+
 ## Tiramisu starten (optional)
 
 ::: warning
@@ -53,13 +57,13 @@ Wenn du jedoch die Notwendigkeit findest, Tiramisu zu starten, um beispielsweise
 
 1. Lade die neuesten Dateien von [Tiramisu for your café](https://tiramisu.foryour.cafe) herunter.
 2. Kopiere den `wiiu` Ordner in das Stammverzeichnis deiner SD-Karte.
-    - Der Ordner sollte mit dem vorhandenen `wiiu` Ordner zusammengeführt werden, falls dies nicht automatisch geschieht.
+   - Der Ordner sollte mit dem vorhandenen `wiiu` Ordner zusammengeführt werden, falls dies nicht automatisch geschieht.
 3. Nimm die SD-Karte aus deinem Computer und stecke sie in deine Wii U Konsole.
 4. Starte den EnvironmentLoader.
-    - Wenn du es autobootest, kann dies durch Einschalten der Konsole und Halten von X ermöglicht werden.
-    - Du musst den PayloadLoader nicht neu installieren, wenn du es bereits mit Aroma getan hast.
+   - Wenn du es autobootest, kann dies durch Einschalten der Konsole und Halten von X ermöglicht werden.
+   - Du musst den PayloadLoader nicht neu installieren, wenn du es bereits mit Aroma getan hast.
 5. Markiere den Eintrag `tiramisu` mit dem Steuerkreuz.
 6. Starte Tiramisu durch Drücken von A.
 7. Starte das Wii U-Menü durch Drücken von A.
-    - Um die Konsole beim Laden des Tiramisu-Environment zum Wii U-Menü zu autobooten, drücke Y.
+   - Um die Konsole beim Laden des Tiramisu-Environment zum Wii U-Menü zu autobooten, drücke Y.
 8. Homebrew Launcher kann durch Starten der Mii Maker-App geladen werden.

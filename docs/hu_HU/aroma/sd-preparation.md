@@ -9,7 +9,7 @@ Először az Aroma fájlokat az SD kártyára rakjuk.
 
 ::: warning
 
-Az SD kártyád FAT32-re kell legyen formázva. Ha az SD kártyád nem FAT32-re formázott, használd a [GUIFormat](http://ridgecrop.co.uk/index.htm?guiformat.htm)-ot 32k (32768) allokációs egység mérettel a formázáshoz.  
+Az SD kártyád FAT32-re kell legyen formázva. Ha az SD kártyád nem FAT32-re formázott, használd a [GUIFormat](https://nintendohomebrew.com/guiformat)-ot 32k (32768) allokációs egység mérettel a formázáshoz.  
 **Ne** cimkézd az SD kártyát `wiiu`-nak, különben problémát okoz a homebrew-nak.
 
 :::
