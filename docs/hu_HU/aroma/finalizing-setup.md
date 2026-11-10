@@ -14,18 +14,18 @@ Minden homebrew alkalmazás a Wii U Menu-ből kerül betöltésre Aromán.
 
 :::
 
-- **A SaveMii Mod WUT Port** egy homebrew app ami lehetővé eszi a Wii U és vWii mentés adatok kezelését.
+- **SaveMii ProcessMod** is a homebrew app that lets you manage your Wii U and vWii save data.
 - **A Bloopair** egy Aroma modul, ami lehetővé teszi a vezetéknélküli csatlakoztatását a legnépszerűbb Bluetooth képes kontrollereknek. Tekintsd meg [ezt az oldalt](https://gbatemp.net/threads/bloopair-connect-controllers-from-other-consoles-natively.594289/) további részletekért.
 - A **Homebrew Appstore** lehetővé teszi, hogy tallózz és letölts homebrew appokat követlenül a Wii U-dról.
 
 ### További Homebrew appok - Amire szükséged van
 
-- A [SaveMii Mod WUT Port](https://wiiu.cdn.fortheusers.org/zips/SaveMiiModWUTPort.zip) legutolsó verziója.
+- The latest version of [SaveMii ProcessMod](https://wiiu.cdn.fortheusers.org/zips/SaveMiiProcessMod.zip).
 - `wiiu-extracttosd.zip` fájl a [HB Appstore](https://github.com/fortheusers/hb-appstore/releases/)-ból.
 
 ### További Homebrew appok - Fájlok kicsomagolása az SD kártyára
 
-1. Másold a frissen letöltött `SaveMiiModWUTPort.zip` fájl tartalmát az SD kártyád gyökerébe.
+1. Copy the contents of the newly downloaded `SaveMiiProcessMod.zip` file to the root of your SD Card.
 2. Másold a frissen letöltött `wiiu-extracttosd.zip` fájl tartalmát az SD kártyád gyökerébe.
 
 ## Ajánlott Plugin-ek
