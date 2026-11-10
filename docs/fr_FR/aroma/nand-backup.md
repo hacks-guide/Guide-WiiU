@@ -26,9 +26,9 @@ Votre sauvegarde de la NAND est unique à votre système. Les sauvegardes des au
 :::
 
 1. Naviguez vers `nanddumper` en utilisant le GamePad et appuyez sur le bouton A pour le lancer.
-2. Utilisez la croix directionnelle du GamePad Wii U pour entrer la configuration suivante :
-   ![SLC: Yes, SLCCMPT: Yes, MLC: Yes ou No, OTP: Yes, SEEPROM: Yes](/assets/img/guide/NAND.png)
-   - la MLC est **OPTIONNELLE**, si vous ne voulez pas la sauvegarder, laissez-la sur `No`. Si vous souhaitez la sauvegarder, assurez-vous d'avoir une carte SD assez grande pour celle-ci et réglez-la sur `Yes`.
+2. Use the Wii U GamePad's D-Pad to enter the following configuration:
+   ![SLC: Yes, SLCCMPT: yes, MLC: no, OTP: yes, SEEPROM: yes](/assets/img/guide/NAND.png)
+   - Do **NOT** dump the MLC at this stage to save time and space on your SD card. The dump produced here will have severely limited usefulness; if you want to dump your MLC, it's recommended to use [Dumpling](https://dumplingapp.com) to do so.
 3. Appuyez sur le bouton A pour démarrer le processus de dumping.
 4. Une fois le processus terminé, éteignez votre Wii U, retirez votre carte SD de la Wii U et insérez-la dans votre PC.
 5. Pour vous assurer de ne pas perdre les fichiers, copiez les fichiers `slc.bin`, `slccmpt.bin`, `seeprom.bin`, `otp.bin` (et si vous avez choisi de faire une sauvegarde complète, `chaque mlc.bin.part`) vers un endroit sûr (Documents, Google Drive, OneDrive, etc.) sur votre ordinateur.
