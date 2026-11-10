@@ -14,18 +14,18 @@ Auf Aroma werden alle Homebrew-Anwendungen aus dem Wii U-Menü geladen.
 
 :::
 
-- **SaveMii Mod WUT Port** ist eine Homebrew-App, mit der du deine Wii U und vWii Speicherdaten verwalten kannst.
+- **SaveMii ProcessMod** is a homebrew app that lets you manage your Wii U and vWii save data.
 - **Bloopair** ist ein Aroma-Modul, mit dem du drahtlos die beliebtesten Bluetooth-fähigen Controller verbinden kannst. Siehe [diese Seite](https://gbatemp.net/threads/bloopair-connect-controllers-from-other-consoles-natively.594289/) für weitere Details.
 - Im **Homebrew Appstore** kannst du Homebrew-Apps direkt auf deiner Wii U durchsuchen und herunterladen.
 
 ### Zusätzliche Homebrew-Apps - Was du brauchst
 
-- Die neueste Version von [SaveMii Mod WUT Port](https://wiiu.cdn.fortheusers.org/zips/SaveMiiModWUTPort.zip).
+- The latest version of [SaveMii ProcessMod](https://wiiu.cdn.fortheusers.org/zips/SaveMiiProcessMod.zip).
 - `wiiu-extracttosd.zip` von [HB Appstore](https://github.com/fortheusers/hb-appstore/releases/).
 
 ### Zusätzliche Homebrew-Apps - Extrahieren von Dateien auf die SD-Karte
 
-1. Kopiere den Inhalt der gerade heruntergeladenen `SaveMiiModWUTPort.zip` Datei in das Stammverzeichnis deiner SD-Karte.
+1. Copy the contents of the newly downloaded `SaveMiiProcessMod.zip` file to the root of your SD Card.
 2. Kopiere den Inhalt der gerade heruntergeladenen `wiiu-extracttosd.zip` Datei in das Stammverzeichnis deiner SD-Karte.
 
 ## Empfohlene Plugins
