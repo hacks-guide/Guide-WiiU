@@ -36,8 +36,8 @@ Mit dem `homebrew_on_menu` Plugin können WUHB-Dateien direkt aus dem Wii U-Men�
 ## Was sind die Einschränkungen?
 
 Aufgrund technischer Einschränkungen werden viele alte Homebrew-Anwendungen nicht mehr mit Aroma funktionieren.  
-Dazu gehören alle `.elf` Homebrew, aber auch einige `.rpx` Homebrew (z. B. RetroArch), die die notwendige Funktionalität nicht richtig implementieren.  
+This includes all `.elf` homebrews, but also some `.rpx` homebrews (i.e. RetroArch), die die notwendige Funktionalität nicht richtig implementieren.  
 Diese Homebrew müssen mit Unterstützung für Aroma aktualisiert werden. Um alte Homebrew ausführen zu können, musst du das Tiramisu-Environment starten.  
 Das Starten von Homebrew durch den jetzt veralteten Homebrew Launcher ist mit Aroma nicht mehr möglich.
 
-Beachte, dass neben den oben genannten Einschränkungen Aroma noch eine Beta-Version ist. Es wurde noch nicht alles getestet und weitere Probleme könnten entdeckt werden. Dies bedeutet nicht unbedingt, dass Aroma instabil ist, aber es besteht die Wahrscheinlichkeit, dass etwas nicht richtig funktionieren kann.
+Beachte, dass neben den oben genannten Einschränkungen Aroma noch eine Beta-Version ist. Not everything has been tested yet, and it causes [freezes in some games](https://github.com/wiiu-env/Aroma/issues). Dies bedeutet nicht unbedingt, dass Aroma instabil ist, aber es besteht die Wahrscheinlichkeit, dass etwas nicht richtig funktionieren kann.
