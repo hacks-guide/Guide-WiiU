@@ -1,6 +1,6 @@
-import { de_DE as localeData } from './strings'
+import { fr_FR as localeData } from './strings/index.mjs'
 
-const locale = "de_DE";
+const locale = "fr_FR";
 
 const sidebar_troubleshooting = {
 	text: localeData.troubleshooting,
@@ -78,8 +78,8 @@ const themeConfig = {
 };
 
 export default {
-	lang: "de",
-	label: "Deutsche",
+	lang: "fr",
+	label: "French",
     title: localeData.title,
     description: localeData.description,
     themeConfig: themeConfig
