@@ -27,8 +27,8 @@ A NAND biztonsági mentés egyedi a rendszeredre. A mentések más konzolról **
 
 1. Navigál a `nanddumper`-hez a GamePad-del és nyomj A-t az indításához.
 2. Használd a Wii U GamePad D-Pad-ját a következő konfiguráció beviteléhez:
-   ![SLC: Yes, SLCCMPT: Yes, MLC: Yes vagy No, OTP: Yes, SEEPROM: Yes](/assets/img/guide/NAND.png)
-   - Az MLC is **OPCIONÁLIS**, ha nem szeretnéd dumpolni, hagyd `No`-n. Ha szeretnéd dumpolni, biztosítsd, hogy az SD kártyád elég nagy legyen, majd állítsd `Yes`-re.
+   ![SLC: Yes, SLCCMPT: Yes, MLC: No, OTP: Yes, SEEPROM: Yes](/assets/img/guide/NAND.png)
+   - **NE** dumpold az MLC-t most, hogy időt és helyet takaríts meg az SD kártyádon. A most készült dumpnak korlátozott a hasznossága; ha szeretnéd dumpolni az MLC-t ajánlott, hogy a [Dumpling](https://dumplingapp.com)-ot használd erre.
 3. Nyomj A gombot a dumpolás elindításához.
 4. Ha a folyamat befejeződött, kapcsold ki a Wii U-dat, vedd kiaz SD kártyád a Wii U-ból és dugd be a PC-dbe.
 5. Hogy biztos lehess, hogy nem veszted el a fájlokat, másold az `slc.bin`, az`slccmpt.bin`, a `seeprom.bin` és az `otp.bin` fájlokat (és ha teljes mentést választottál, akkor `minden mlc.bin.part` fájlt is) valami biztos helyre (Documents, Google Drive, OneDrive, stb.) a számítógépeden.

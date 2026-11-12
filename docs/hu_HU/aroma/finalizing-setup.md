@@ -14,18 +14,18 @@ Minden homebrew alkalmazás a Wii U Menu-ből kerül betöltésre Aromán.
 
 :::
 
-- **A SaveMii Mod WUT Port** egy homebrew app ami lehetővé eszi a Wii U és vWii mentés adatok kezelését.
+- A **SaveMii ProcessMod** egy homebrew app ami lehetővé teszi a Wii U és vWii mentés adatok kezelését.
 - **A Bloopair** egy Aroma modul, ami lehetővé teszi a vezetéknélküli csatlakoztatását a legnépszerűbb Bluetooth képes kontrollereknek. Tekintsd meg [ezt az oldalt](https://gbatemp.net/threads/bloopair-connect-controllers-from-other-consoles-natively.594289/) további részletekért.
 - A **Homebrew Appstore** lehetővé teszi, hogy tallózz és letölts homebrew appokat követlenül a Wii U-dról.
 
 ### További Homebrew appok - Amire szükséged van
 
-- A [SaveMii Mod WUT Port](https://wiiu.cdn.fortheusers.org/zips/SaveMiiModWUTPort.zip) legutolsó verziója.
+- A [SaveMii ProcessMod](https://wiiu.cdn.fortheusers.org/zips/SaveMiiProcessMod.zip) legutolsó verziója.
 - `wiiu-extracttosd.zip` fájl a [HB Appstore](https://github.com/fortheusers/hb-appstore/releases/)-ból.
 
 ### További Homebrew appok - Fájlok kicsomagolása az SD kártyára
 
-1. Másold a frissen letöltött `SaveMiiModWUTPort.zip` fájl tartalmát az SD kártyád gyökerébe.
+1. Másold a frissen letöltött `SaveMiiProcessMod.zip` fájl tartalmát az SD kártyád gyökerébe.
 2. Másold a frissen letöltött `wiiu-extracttosd.zip` fájl tartalmát az SD kártyád gyökerébe.
 
 ## Ajánlott Plugin-ek
@@ -40,6 +40,10 @@ Minden homebrew alkalmazás a Wii U Menu-ből kerül betöltésre Aromán.
 ## Pretendo Network
 
 A Pretendo a Nintendo Network helyettesítő szolgáltatása, amely a megszűnt online szolgáltatásokat hozza vissza. Emellett a Miiverse szolgáltatást is feléleszti a Juxtaposition-on keresztül. A hivatalos útmutató [itt található](https://pretendo.network/docs/install/wiiu).
+
+## vWii moddolás
+
+A vWii külön moddolt a Wii U oldaltól. Ha a vWii-t szeretnéd moddolni, az útmutató [itt található](https://wii.hacks.guide/vwii-homebrew-channel).
 
 ## Tiramisu bootolása (opcionális)
 

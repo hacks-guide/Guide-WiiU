@@ -40,4 +40,4 @@ Ebbe beleértendő minden `.elf` homebrew, de néhány `.rpx` homebrew is (pl. R
 Ezeket a homebrew-okat frissíteni kell Aroma támogatással. Régi homebrew futtatásához be kell bootolnod a Tiramisu környezetbe.  
 A homebrewok indítása a most már kiöregedett Homebrew Launcher-rel már nem lehetséges Aromával.
 
-A fent említett korlátozások mellett, érdemes megjegyezni, hogy az Aroma még mindig csak béta kiadás. Nem mindent tesztelt még, és tovább problémák még előkerülhetnek. Ez nem jelenti azt, hogy az Aroma instabil, de van rá esély, hogy azt tapasztalod, hogy valami nem megfelelően működik.
+A fent említett korlátozások mellett, érdemes megjegyezni, hogy az Aroma még mindig csak béta kiadás. Nem minden került letesztelésre, és [fagyást okoz néhány játékban](https://github.com/wiiu-env/Aroma/issues). Ez nem jelenti azt, hogy az Aroma instabil, de van rá esély, hogy azt tapasztalod, hogy valami nem megfelelően működik.

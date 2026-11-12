@@ -36,8 +36,8 @@ Avec le plugin `homebrew_on_menu`, des fichiers WUHB peuvent être lancés direc
 ## Quelles-sont les limitations ?
 
 En raison de limitations techniques, beaucoup de vieilles applications homebrew ne fonctionneront plus avec Aroma.  
-Ceci inclut tout les homebrew `.elf`, mais aussi certains homebrew `.rpx` (c.-à-d. RetroArch), qui n'implémente pas les fonctionnalités nécessaires correctement.  
+This includes all `.elf` homebrews, but also some `.rpx` homebrews (i.e. RetroArch), qui n'implémente pas les fonctionnalités nécessaires correctement.  
 Ces homebrew doivent être mis à jour pour la compatibilité avec Aroma. Pour lancer des homebrew anciens vous devez démarrer dans l'environnement Tiramisu.  
 Lancer des homebrew via le Homebrew Launcher dorénavant obsolète n'est plus possible avec Aroma.
 
-Outre les limitations mentionnées ci-dessus, notez qu'Aroma est toujours en version bêta. Tout n'a pas encore été testé et d'autres problèmes pourraient être découverts. Cela ne signifie pas nécessairement que Aroma est instable, mais il y a des chances que vous puissiez faire l'expérience d'un fonctionnement incorrect.
+Outre les limitations mentionnées ci-dessus, notez qu'Aroma est toujours en version bêta. Not everything has been tested yet, and it causes [freezes in some games](https://github.com/wiiu-env/Aroma/issues). Cela ne signifie pas nécessairement que Aroma est instable, mais il y a des chances que vous puissiez faire l'expérience d'un fonctionnement incorrect.

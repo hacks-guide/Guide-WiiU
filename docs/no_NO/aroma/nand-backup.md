@@ -27,8 +27,8 @@ Your NAND Backup is unique to your system. Backups fra andre konsoller **vil ikk
 
 1. Naviger til `nanddumper` ved å bruke GamePaden og trykk A for å kjøre den.
 2. Use the Wii U GamePad's D-Pad to enter the following configuration:
-   ![SLC: Yes, SLCCMPT: Yes, MLC: Yes or No, OTP: Yes, SEEPROM: Yes](/assets/img/guide/NAND.png)
-   - MLC er **VALGFRITT**, hvis du ikke vil dumpe det, la det stå på `No`. Hvis du vil dumpe det, så må SD-kortet ha plass nok til det og så trykke på `Yes`.
+   ![SLC: Yes, SLCCMPT: yes, MLC: no, OTP: yes, SEEPROM: yes](/assets/img/guide/NAND.png)
+   - Do **NOT** dump the MLC at this stage to save time and space on your SD card. The dump produced here will have severely limited usefulness; if you want to dump your MLC, it's recommended to use [Dumpling](https://dumplingapp.com) to do so.
 3. Trykk på A knappen for å starte dumpingprosessen.
 4. Når prosessen er fullført, skru av Wii U konsollen, ta ut SD-kortet og sett den inn i PC-en din.
 5. For å forsikre deg om at du ikke mister filene, kopier `slc.bin`, `slccmpt.bin`, `seeprom.bin`, `otp.bin` (og hvis du valgte å gå for full sikkerhetskopi, `hver mlc.bin.part` fil) til ett trygt sted (som Dokumenter, Google drive, OneDrive, osv.) på pc'en din.

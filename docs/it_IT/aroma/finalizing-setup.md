@@ -14,18 +14,18 @@ All Homebrew applications are loaded from the Wii U Menu on Aroma.
 
 :::
 
-- **SaveMii Mod WUT Port** is a homebrew app that lets you manage your Wii U and vWii save data.
+- **SaveMii ProcessMod** is a homebrew app that lets you manage your Wii U and vWii save data.
 - **Bloopair** is an Aroma module that lets you wirelessly connect most popular Bluetooth capable controllers. See [this page](https://gbatemp.net/threads/bloopair-connect-controllers-from-other-consoles-natively.594289/) for more details.
 - The **Homebrew Appstore** lets you browse and download homebrew apps directly from your Wii U.
 
 ### App Homebrew Aggiuntive - Cosa ti serve
 
-- The latest version of [SaveMii Mod WUT Port](https://wiiu.cdn.fortheusers.org/zips/SaveMiiModWUTPort.zip).
+- The latest version of [SaveMii ProcessMod](https://wiiu.cdn.fortheusers.org/zips/SaveMiiProcessMod.zip).
 - `wiiu-extracttosd.zip` of the [HB Appstore](https://github.com/fortheusers/hb-appstore/releases/).
 
 ### App Homebrew Aggiuntive - Estrazione dei file sulla scheda SD
 
-1. Copy the contents of the newly downloaded `SaveMiiModWUTPort.zip` file to the root of your SD Card.
+1. Copy the contents of the newly downloaded `SaveMiiProcessMod.zip` file to the root of your SD Card.
 2. Copy the contents of the newly downloaded `wiiu-extracttosd.zip` file to the root of your SD Card.
 
 ## Plugin Consigliati
@@ -40,6 +40,10 @@ All Homebrew applications are loaded from the Wii U Menu on Aroma.
 ## Pretendo Network
 
 Pretendo is a replacement service for the Nintendo Network, which brings back online services as they are now discontinued. It also revives the Miiverse service, via juxtaposition. The official guide can be found [here](https://pretendo.network/docs/install/wiiu).
+
+## vWii Modding
+
+The vWii is seperately modded from the Wii U side. If you want to mod the vWii, the guide can be found [here](https://wii.hacks.guide/vwii-homebrew-channel).
 
 ## Booting Tiramisu (optional)
 

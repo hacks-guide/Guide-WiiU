@@ -14,18 +14,18 @@ Auf Aroma werden alle Homebrew-Anwendungen aus dem Wii U-Menü geladen.
 
 :::
 
-- **SaveMii Mod WUT Port** ist eine Homebrew-App, mit der du deine Wii U und vWii Speicherdaten verwalten kannst.
+- **SaveMii ProcessMod** is a homebrew app that lets you manage your Wii U and vWii save data.
 - **Bloopair** ist ein Aroma-Modul, mit dem du drahtlos die beliebtesten Bluetooth-fähigen Controller verbinden kannst. Siehe [diese Seite](https://gbatemp.net/threads/bloopair-connect-controllers-from-other-consoles-natively.594289/) für weitere Details.
 - Im **Homebrew Appstore** kannst du Homebrew-Apps direkt auf deiner Wii U durchsuchen und herunterladen.
 
 ### Zusätzliche Homebrew-Apps - Was du brauchst
 
-- Die neueste Version von [SaveMii Mod WUT Port](https://wiiu.cdn.fortheusers.org/zips/SaveMiiModWUTPort.zip).
+- The latest version of [SaveMii ProcessMod](https://wiiu.cdn.fortheusers.org/zips/SaveMiiProcessMod.zip).
 - `wiiu-extracttosd.zip` von [HB Appstore](https://github.com/fortheusers/hb-appstore/releases/).
 
 ### Zusätzliche Homebrew-Apps - Extrahieren von Dateien auf die SD-Karte
 
-1. Kopiere den Inhalt der gerade heruntergeladenen `SaveMiiModWUTPort.zip` Datei in das Stammverzeichnis deiner SD-Karte.
+1. Copy the contents of the newly downloaded `SaveMiiProcessMod.zip` file to the root of your SD Card.
 2. Kopiere den Inhalt der gerade heruntergeladenen `wiiu-extracttosd.zip` Datei in das Stammverzeichnis deiner SD-Karte.
 
 ## Empfohlene Plugins
@@ -41,6 +41,10 @@ Auf Aroma werden alle Homebrew-Anwendungen aus dem Wii U-Menü geladen.
 
 Pretendo is a replacement service for the Nintendo Network, which brings back online services as they are now discontinued. Außerdem belebt es den Miiverse-Dienst über Juxtaposition wieder. Die offizielle Anleitung kann [hier](https://pretendo.network/docs/install/wiiu) gefunden werden.
 
+## vWii Modding
+
+The vWii is seperately modded from the Wii U side. If you want to mod the vWii, the guide can be found [here](https://wii.hacks.guide/vwii-homebrew-channel).
+
 ## Tiramisu starten (optional)
 
 ::: warning
@@ -53,13 +57,13 @@ Wenn du jedoch die Notwendigkeit findest, Tiramisu zu starten, um beispielsweise
 
 1. Lade die neuesten Dateien von [Tiramisu for your café](https://tiramisu.foryour.cafe) herunter.
 2. Kopiere den `wiiu` Ordner in das Stammverzeichnis deiner SD-Karte.
-    - Der Ordner sollte mit dem vorhandenen `wiiu` Ordner zusammengeführt werden, falls dies nicht automatisch geschieht.
+   - Der Ordner sollte mit dem vorhandenen `wiiu` Ordner zusammengeführt werden, falls dies nicht automatisch geschieht.
 3. Nimm die SD-Karte aus deinem Computer und stecke sie in deine Wii U Konsole.
 4. Starte den EnvironmentLoader.
-    - Wenn du es autobootest, kann dies durch Einschalten der Konsole und Halten von X ermöglicht werden.
-    - Du musst den PayloadLoader nicht neu installieren, wenn du es bereits mit Aroma getan hast.
+   - Wenn du es autobootest, kann dies durch Einschalten der Konsole und Halten von X ermöglicht werden.
+   - Du musst den PayloadLoader nicht neu installieren, wenn du es bereits mit Aroma getan hast.
 5. Markiere den Eintrag `tiramisu` mit dem Steuerkreuz.
 6. Starte Tiramisu durch Drücken von A.
 7. Starte das Wii U-Menü durch Drücken von A.
-    - Um die Konsole beim Laden des Tiramisu-Environment zum Wii U-Menü zu autobooten, drücke Y.
+   - Um die Konsole beim Laden des Tiramisu-Environment zum Wii U-Menü zu autobooten, drücke Y.
 8. Homebrew Launcher kann durch Starten der Mii Maker-App geladen werden.

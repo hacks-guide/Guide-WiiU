@@ -78,7 +78,7 @@ You can now re-enable your [system update blocking method](block-updates).
 
 ::: tip
 
-This mode will clear the System Menu, Wii Message Board save data, IOSes, and other system titles to reinstall clean versions of them. 请注意这会移除所有的 cIOS，并且你必须重新安装它们。 将保存所有其他数据。
+This mode will clear the System Menu, Wii Message Board save data, IOSes, and other system titles to reinstall clean versions of them. 请注意这会移除所有的 cIOS，并且你必须重新安装它们。将保存所有其他数据。
 
 :::
 
@@ -112,7 +112,7 @@ This mode will clear **everything** to reinstall clean versions of the default I
 :::
 
 1. Select `Aggressive mode` on the menu.
-2. 完整阅读警告。 如果你想要继续，请按下 Start 来开始此恢复过程。
+2. 完整阅读警告。如果你想要继续，请按下 Start 来开始此恢复过程。
 3. 当应用程序完成后，请允许程序启动系统设置。
 4. Perform a [System Update](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1136/~/how-to-perform-a-system-update) to finish the restoration process.
 
