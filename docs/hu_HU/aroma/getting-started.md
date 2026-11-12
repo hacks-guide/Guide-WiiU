@@ -36,8 +36,8 @@ A `homebrew_on_menu` plugin-nel a WUHB fájlok közvetlenül indíthatók a Wii 
 ## Mik a korlátozások?
 
 Technikai korlátozások miatt jópár régi homebrew applikáció nem működik Aromával.  
-This includes all `.elf` homebrews, but also some `.rpx` homebrews (i.e. RetroArch), ami nem implementál szükséges funkcionalitást megfelelően.  
+Ebbe beleértendő minden `.elf` homebrew, de néhány `.rpx` homebrew is (pl. RetroArch), ami nem implementál szükséges funkcionalitást megfelelően.  
 Ezeket a homebrew-okat frissíteni kell Aroma támogatással. Régi homebrew futtatásához be kell bootolnod a Tiramisu környezetbe.  
 A homebrewok indítása a most már kiöregedett Homebrew Launcher-rel már nem lehetséges Aromával.
 
-A fent említett korlátozások mellett, érdemes megjegyezni, hogy az Aroma még mindig csak béta kiadás. Not everything has been tested yet, and it causes [freezes in some games](https://github.com/wiiu-env/Aroma/issues). Ez nem jelenti azt, hogy az Aroma instabil, de van rá esély, hogy azt tapasztalod, hogy valami nem megfelelően működik.
+A fent említett korlátozások mellett, érdemes megjegyezni, hogy az Aroma még mindig csak béta kiadás. Nem minden került letesztelésre, és [fagyást okoz néhány játékban](https://github.com/wiiu-env/Aroma/issues). Ez nem jelenti azt, hogy az Aroma instabil, de van rá esély, hogy azt tapasztalod, hogy valami nem megfelelően működik.
